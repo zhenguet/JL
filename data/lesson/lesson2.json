@@ -1,435 +1,814 @@
 [
   {
-    "id": "thisThing",
-    "kanji": "この",
-    "hiragana": "この",
+    "id": "this",
+    "kanji": "これ",
+    "hiragana": "これ",
     "en": "this",
     "vi": "cái này",
-    "type": "other",
+    "type": "noun",
     "explanation": {
       "content": [
-        "Từ chỉ định, đứng trước danh từ, chỉ vật gần người nói",
-        "Ví dụ: この本は私のです。 (Cuốn sách này là của tôi.)"
+        "Đại từ chỉ định, chỉ vật gần người nói",
+        "Ví dụ: これは本です。 (Đây là sách.)"
       ]
     }
   },
   {
-    "id": "thatThing",
-    "kanji": "その",
-    "hiragana": "その",
+    "id": "that",
+    "kanji": "それ",
+    "hiragana": "それ",
     "en": "that",
     "vi": "cái đó",
-    "type": "other",
+    "type": "noun",
     "explanation": {
       "content": [
-        "Từ chỉ định, đứng trước danh từ, chỉ vật gần người nghe",
-        "Ví dụ: そのペンは私のです。 (Cây bút đó là của tôi.)"
+        "Đại từ chỉ định, chỉ vật gần người nghe",
+        "Ví dụ: それはペンです。 (Đó là bút.)"
       ]
     }
   },
   {
-    "id": "thatThingOverThere",
-    "kanji": "あの",
-    "hiragana": "あの",
+    "id": "thatOverThere",
+    "kanji": "あれ",
+    "hiragana": "あれ",
     "en": "that (over there)",
     "vi": "cái kia",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Đại từ chỉ định, chỉ vật xa cả người nói và người nghe",
+        "Ví dụ: あれは車です。 (Kia là xe hơi.)"
+      ]
+    }
+  },
+  {
+    "id": "thisNoun",
+    "kanji": "この～",
+    "hiragana": "この～",
+    "en": "this ~",
+    "vi": "cái ~ này",
     "type": "other",
     "explanation": {
       "content": [
-        "Từ chỉ định, đứng trước danh từ, chỉ vật xa cả người nói và người nghe",
-        "Ví dụ: あの人はだれですか？ (Người kia là ai?)"
+        "Từ chỉ định đứng trước danh từ, chỉ vật gần người nói",
+        "Ví dụ: この本 (Cuốn sách này)"
       ]
     }
   },
   {
-    "id": "whichThing",
-    "kanji": "どの",
-    "hiragana": "どの",
-    "en": "which",
-    "vi": "cái nào",
+    "id": "thatNoun",
+    "kanji": "その～",
+    "hiragana": "その～",
+    "en": "that ~",
+    "vi": "cái ~ đó",
     "type": "other",
     "explanation": {
       "content": [
-        "Từ để hỏi, đứng trước danh từ",
-        "Ví dụ: どの本があなたのですか？ (Cuốn sách nào là của bạn?)"
+        "Từ chỉ định đứng trước danh từ, chỉ vật gần người nghe",
+        "Ví dụ: その本 (Cuốn sách đó)"
       ]
     }
   },
   {
-    "id": "here",
-    "kanji": "ここ",
-    "hiragana": "ここ",
-    "en": "here",
-    "vi": "ở đây",
-    "type": "noun",
-    "explanation": {
-      "content": [
-        "Danh từ chỉ nơi chốn, chỉ vị trí gần người nói",
-        "Ví dụ: ここは学校です。 (Đây là trường học.)"
-      ]
-    }
-  },
-  {
-    "id": "there",
-    "kanji": "そこ",
-    "hiragana": "そこ",
-    "en": "there",
-    "vi": "ở đó",
-    "type": "noun",
-    "explanation": {
-      "content": [
-        "Danh từ chỉ nơi chốn, chỉ vị trí gần người nghe",
-        "Ví dụ: そこは図書館です。 (Đó là thư viện.)"
-      ]
-    }
-  },
-  {
-    "id": "overThere",
-    "kanji": "あそこ",
-    "hiragana": "あそこ",
-    "en": "over there",
-    "vi": "ở kia",
-    "type": "noun",
-    "explanation": {
-      "content": [
-        "Danh từ chỉ nơi chốn, chỉ vị trí xa cả người nói và người nghe",
-        "Ví dụ: あそこは病院です。 (Kia là bệnh viện.)"
-      ]
-    }
-  },
-  {
-    "id": "where",
-    "kanji": "どこ",
-    "hiragana": "どこ",
-    "en": "where",
-    "vi": "ở đâu",
-    "type": "noun",
-    "explanation": {
-      "content": [
-        "Từ để hỏi về nơi chốn",
-        "Ví dụ: トイレはどこですか？ (Nhà vệ sinh ở đâu?)"
-      ]
-    }
-  },
-  {
-    "id": "school",
-    "kanji": "学校",
-    "hiragana": "がっこう",
-    "en": "school",
-    "vi": "trường học",
-    "type": "noun",
-    "explanation": {
-      "content": [
-        "Danh từ chỉ trường học",
-        "Ví dụ: ここは学校です。 (Đây là trường học.)"
-      ]
-    }
-  },
-  {
-    "id": "hospital",
-    "kanji": "病院",
-    "hiragana": "びょういん",
-    "en": "hospital",
-    "vi": "bệnh viện",
-    "type": "noun",
-    "explanation": {
-      "content": [
-        "Danh từ chỉ bệnh viện",
-        "Ví dụ: あそこは病院です。 (Kia là bệnh viện.)"
-      ]
-    }
-  },
-  {
-    "id": "postOffice",
-    "kanji": "郵便局",
-    "hiragana": "ゆうびんきょく",
-    "en": "post office",
-    "vi": "bưu điện",
-    "type": "noun",
-    "explanation": {
-      "content": [
-        "Danh từ chỉ bưu điện",
-        "Ví dụ: 郵便局はどこですか？ (Bưu điện ở đâu?)"
-      ]
-    }
-  },
-  {
-    "id": "bank",
-    "kanji": "銀行",
-    "hiragana": "ぎんこう",
-    "en": "bank",
-    "vi": "ngân hàng",
-    "type": "noun",
-    "explanation": {
-      "content": [
-        "Danh từ chỉ ngân hàng",
-        "Ví dụ: 銀行はそこです。 (Ngân hàng ở đó.)"
-      ]
-    }
-  },
-  {
-    "id": "library",
-    "kanji": "図書館",
-    "hiragana": "としょかん",
-    "en": "library",
-    "vi": "thư viện",
-    "type": "noun",
-    "explanation": {
-      "content": [
-        "Danh từ chỉ thư viện",
-        "Ví dụ: 図書館はここです。 (Thư viện ở đây.)"
-      ]
-    }
-  },
-  {
-    "id": "bookstore",
-    "kanji": "本屋",
-    "hiragana": "ほんや",
-    "en": "bookstore",
-    "vi": "hiệu sách",
-    "type": "noun",
-    "explanation": {
-      "content": [
-        "Danh từ chỉ hiệu sách",
-        "Ví dụ: 本屋はどこですか？ (Hiệu sách ở đâu?)"
-      ]
-    }
-  },
-  {
-    "id": "restaurant",
-    "kanji": "レストラン",
-    "hiragana": "レストラン",
-    "en": "restaurant",
-    "vi": "nhà hàng",
-    "type": "noun",
-    "explanation": {
-      "content": [
-        "Danh từ chỉ nhà hàng (từ mượn)",
-        "Ví dụ: レストランはあそこです。 (Nhà hàng ở kia.)"
-      ]
-    }
-  },
-  {
-    "id": "cafe",
-    "kanji": "喫茶店",
-    "hiragana": "きっさてん",
-    "en": "cafe",
-    "vi": "quán cà phê",
-    "type": "noun",
-    "explanation": {
-      "content": [
-        "Danh từ chỉ quán cà phê",
-        "Ví dụ: 喫茶店はそこです。 (Quán cà phê ở đó.)"
-      ]
-    }
-  },
-  {
-    "id": "hotel",
-    "kanji": "ホテル",
-    "hiragana": "ホテル",
-    "en": "hotel",
-    "vi": "khách sạn",
-    "type": "noun",
-    "explanation": {
-      "content": [
-        "Danh từ chỉ khách sạn (từ mượn)",
-        "Ví dụ: ホテルはどこですか？ (Khách sạn ở đâu?)"
-      ]
-    }
-  },
-  {
-    "id": "convenienceStore",
-    "kanji": "コンビニ",
-    "hiragana": "コンビニ",
-    "en": "convenience store",
-    "vi": "cửa hàng tiện lợi",
-    "type": "noun",
-    "explanation": {
-      "content": [
-        "Danh từ chỉ cửa hàng tiện lợi (từ mượn)",
-        "Ví dụ: コンビニはここです。 (Cửa hàng tiện lợi ở đây.)"
-      ]
-    }
-  },
-  {
-    "id": "departmentStore",
-    "kanji": "デパート",
-    "hiragana": "デパート",
-    "en": "department store",
-    "vi": "cửa hàng bách hóa",
-    "type": "noun",
-    "explanation": {
-      "content": [
-        "Danh từ chỉ cửa hàng bách hóa (từ mượn)",
-        "Ví dụ: デパートはあそこです。 (Cửa hàng bách hóa ở kia.)"
-      ]
-    }
-  },
-  {
-    "id": "station",
-    "kanji": "駅",
-    "hiragana": "えき",
-    "en": "station",
-    "vi": "ga",
-    "type": "noun",
-    "explanation": {
-      "content": [
-        "Danh từ chỉ ga tàu, ga xe",
-        "Ví dụ: 駅はどこですか？ (Ga ở đâu?)"
-      ]
-    }
-  },
-  {
-    "id": "airport",
-    "kanji": "空港",
-    "hiragana": "くうこう",
-    "en": "airport",
-    "vi": "sân bay",
-    "type": "noun",
-    "explanation": {
-      "content": [
-        "Danh từ chỉ sân bay",
-        "Ví dụ: 空港はあそこです。 (Sân bay ở kia.)"
-      ]
-    }
-  },
-  {
-    "id": "toilet",
-    "kanji": "トイレ",
-    "hiragana": "トイレ",
-    "en": "toilet, restroom",
-    "vi": "nhà vệ sinh",
-    "type": "noun",
-    "explanation": {
-      "content": [
-        "Danh từ chỉ nhà vệ sinh (từ mượn)",
-        "Ví dụ: トイレはどこですか？ (Nhà vệ sinh ở đâu?)"
-      ]
-    }
-  },
-  {
-    "id": "room",
-    "kanji": "部屋",
-    "hiragana": "へや",
-    "en": "room",
-    "vi": "phòng",
-    "type": "noun",
-    "explanation": {
-      "content": [
-        "Danh từ chỉ phòng",
-        "Ví dụ: この部屋は大きいです。 (Căn phòng này lớn.)"
-      ]
-    }
-  },
-  {
-    "id": "house",
-    "kanji": "家",
-    "hiragana": "いえ",
-    "en": "house",
-    "vi": "nhà",
-    "type": "noun",
-    "explanation": {
-      "content": [
-        "Danh từ chỉ nhà",
-        "Ví dụ: 私の家はここです。 (Nhà tôi ở đây.)"
-      ]
-    }
-  },
-  {
-    "id": "building",
-    "kanji": "建物",
-    "hiragana": "たてもの",
-    "en": "building",
-    "vi": "tòa nhà",
-    "type": "noun",
-    "explanation": {
-      "content": [
-        "Danh từ chỉ tòa nhà",
-        "Ví dụ: あの建物は病院です。 (Tòa nhà kia là bệnh viện.)"
-      ]
-    }
-  },
-  {
-    "id": "university",
-    "kanji": "大学",
-    "hiragana": "だいがく",
-    "en": "university",
-    "vi": "đại học",
-    "type": "noun",
-    "explanation": {
-      "content": [
-        "Danh từ chỉ đại học",
-        "Ví dụ: 大学はそこです。 (Đại học ở đó.)"
-      ]
-    }
-  },
-  {
-    "id": "office",
-    "kanji": "会社",
-    "hiragana": "かいしゃ",
-    "en": "company, office",
-    "vi": "công ty",
-    "type": "noun",
-    "explanation": {
-      "content": [
-        "Danh từ chỉ công ty",
-        "Ví dụ: 会社はどこですか？ (Công ty ở đâu?)"
-      ]
-    }
-  },
-  {
-    "id": "my",
-    "kanji": "私の",
-    "hiragana": "わたしの",
-    "en": "my",
-    "vi": "của tôi",
+    "id": "thatOverThereNoun",
+    "kanji": "あの～",
+    "hiragana": "あの～",
+    "en": "that ~ (over there)",
+    "vi": "cái ~ kia",
     "type": "other",
     "explanation": {
       "content": [
-        "Từ sở hữu, đứng trước danh từ",
-        "Ví dụ: これは私の本です。 (Đây là sách của tôi.)"
+        "Từ chỉ định đứng trước danh từ, chỉ vật xa cả người nói và người nghe",
+        "Ví dụ: あの本 (Cuốn sách kia)"
       ]
     }
   },
   {
-    "id": "your",
-    "kanji": "あなたの",
-    "hiragana": "あなたの",
-    "en": "your",
-    "vi": "của bạn",
-    "type": "other",
+    "id": "book",
+    "kanji": "本",
+    "hiragana": "ほん",
+    "en": "book",
+    "vi": "sách",
+    "type": "noun",
     "explanation": {
       "content": [
-        "Từ sở hữu, đứng trước danh từ",
-        "Ví dụ: それはあなたのペンです。 (Đó là bút của bạn.)"
+        "Danh từ chỉ sách",
+        "Ví dụ: これは本です。 (Đây là sách.)"
       ]
     }
   },
   {
-    "id": "mine",
-    "kanji": "私のです",
-    "hiragana": "わたしのです",
-    "en": "mine",
-    "vi": "của tôi",
-    "type": "other",
+    "id": "dictionary",
+    "kanji": "辞書",
+    "hiragana": "じしょ",
+    "en": "dictionary",
+    "vi": "từ điển",
+    "type": "noun",
     "explanation": {
       "content": [
-        "Đại từ sở hữu, đứng một mình",
-        "Ví dụ: この本は私のです。 (Cuốn sách này là của tôi.)"
+        "Danh từ chỉ từ điển",
+        "Ví dụ: それは辞書です。 (Đó là từ điển.)"
       ]
     }
   },
   {
-    "id": "yours",
-    "kanji": "あなたのです",
-    "hiragana": "あなたのです",
-    "en": "yours",
-    "vi": "của bạn",
+    "id": "magazine",
+    "kanji": "雑誌",
+    "hiragana": "ざっし",
+    "en": "magazine",
+    "vi": "tạp chí",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ tạp chí",
+        "Ví dụ: これは雑誌です。 (Đây là tạp chí.)"
+      ]
+    }
+  },
+  {
+    "id": "newspaper",
+    "kanji": "新聞",
+    "hiragana": "しんぶん",
+    "en": "newspaper",
+    "vi": "báo",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ báo",
+        "Ví dụ: それは新聞です。 (Đó là báo.)"
+      ]
+    }
+  },
+  {
+    "id": "notebook",
+    "kanji": "ノート",
+    "hiragana": "ノート",
+    "en": "notebook",
+    "vi": "vở",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ vở (từ mượn)",
+        "Ví dụ: これはノートです。 (Đây là vở.)"
+      ]
+    }
+  },
+  {
+    "id": "pocketbook",
+    "kanji": "手帳",
+    "hiragana": "てちょう",
+    "en": "pocketbook, notebook",
+    "vi": "sổ tay",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ sổ tay",
+        "Ví dụ: それは手帳です。 (Đó là sổ tay.)"
+      ]
+    }
+  },
+  {
+    "id": "businessCard",
+    "kanji": "名刺",
+    "hiragana": "めいし",
+    "en": "business card",
+    "vi": "danh thiếp",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ danh thiếp",
+        "Ví dụ: これは名刺です。 (Đây là danh thiếp.)"
+      ]
+    }
+  },
+  {
+    "id": "card",
+    "kanji": "カード",
+    "hiragana": "カード",
+    "en": "card",
+    "vi": "card",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ card (từ mượn)",
+        "Ví dụ: それはカードです。 (Đó là card.)"
+      ]
+    }
+  },
+  {
+    "id": "telephoneCard",
+    "kanji": "テレホンカード",
+    "hiragana": "テレホンカード",
+    "en": "telephone card",
+    "vi": "card điện thoại",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ card điện thoại (từ mượn)",
+        "Ví dụ: これはテレホンカードです。 (Đây là card điện thoại.)"
+      ]
+    }
+  },
+  {
+    "id": "paper",
+    "kanji": "紙",
+    "hiragana": "かみ",
+    "en": "paper",
+    "vi": "giấy",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ giấy",
+        "Ví dụ: それは紙です。 (Đó là giấy.)"
+      ]
+    }
+  },
+  {
+    "id": "letter",
+    "kanji": "手紙",
+    "hiragana": "てがみ",
+    "en": "letter",
+    "vi": "thư",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ thư",
+        "Ví dụ: これは手紙です。 (Đây là thư.)"
+      ]
+    }
+  },
+  {
+    "id": "pencil",
+    "kanji": "鉛筆",
+    "hiragana": "えんぴつ",
+    "en": "pencil",
+    "vi": "bút chì",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ bút chì",
+        "Ví dụ: それは鉛筆です。 (Đó là bút chì.)"
+      ]
+    }
+  },
+  {
+    "id": "ballpointPen",
+    "kanji": "ボールペン",
+    "hiragana": "ボールペン",
+    "en": "ballpoint pen",
+    "vi": "bút bi",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ bút bi (từ mượn)",
+        "Ví dụ: これはボールペンです。 (Đây là bút bi.)"
+      ]
+    }
+  },
+  {
+    "id": "mechanicalPencil",
+    "kanji": "シャープペンシル",
+    "hiragana": "シャープペンシル",
+    "en": "mechanical pencil",
+    "vi": "bút chì kim",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ bút chì kim (từ mượn)",
+        "Ví dụ: それはシャープペンシルです。 (Đó là bút chì kim.)"
+      ]
+    }
+  },
+  {
+    "id": "cigarette",
+    "kanji": "タバコ",
+    "hiragana": "タバコ",
+    "en": "cigarette",
+    "vi": "thuốc lá",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ thuốc lá (từ mượn)",
+        "Ví dụ: これはタバコです。 (Đây là thuốc lá.)"
+      ]
+    }
+  },
+  {
+    "id": "match",
+    "kanji": "マッチ",
+    "hiragana": "マッチ",
+    "en": "match",
+    "vi": "diêm",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ diêm (từ mượn)",
+        "Ví dụ: それはマッチです。 (Đó là diêm.)"
+      ]
+    }
+  },
+  {
+    "id": "lighter",
+    "kanji": "ライター",
+    "hiragana": "ライター",
+    "en": "lighter",
+    "vi": "bật lửa",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ bật lửa (từ mượn)",
+        "Ví dụ: これはライターです。 (Đây là bật lửa.)"
+      ]
+    }
+  },
+  {
+    "id": "ashtray",
+    "kanji": "灰皿",
+    "hiragana": "はいざら",
+    "en": "ashtray",
+    "vi": "gạt tàn thuốc lá",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ gạt tàn thuốc lá",
+        "Ví dụ: それは灰皿です。 (Đó là gạt tàn thuốc lá.)"
+      ]
+    }
+  },
+  {
+    "id": "key",
+    "kanji": "鍵",
+    "hiragana": "かぎ",
+    "en": "key",
+    "vi": "chìa khóa",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ chìa khóa",
+        "Ví dụ: これは鍵です。 (Đây là chìa khóa.)"
+      ]
+    }
+  },
+  {
+    "id": "watch",
+    "kanji": "時計",
+    "hiragana": "とけい",
+    "en": "watch, clock",
+    "vi": "đồng hồ",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ đồng hồ",
+        "Ví dụ: それは時計です。 (Đó là đồng hồ.)"
+      ]
+    }
+  },
+  {
+    "id": "bag",
+    "kanji": "かばん",
+    "hiragana": "かばん",
+    "en": "bag",
+    "vi": "cặp, túi xách",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ cặp, túi xách",
+        "Ví dụ: これはかばんです。 (Đây là cặp.)"
+      ]
+    }
+  },
+  {
+    "id": "box",
+    "kanji": "箱",
+    "hiragana": "はこ",
+    "en": "box",
+    "vi": "hộp",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ hộp",
+        "Ví dụ: それは箱です。 (Đó là hộp.)"
+      ]
+    }
+  },
+  {
+    "id": "umbrella",
+    "kanji": "傘",
+    "hiragana": "かさ",
+    "en": "umbrella",
+    "vi": "cái ô",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ ô",
+        "Ví dụ: これは傘です。 (Đây là ô.)"
+      ]
+    }
+  },
+  {
+    "id": "cassetteTape",
+    "kanji": "カセットテープ",
+    "hiragana": "カセットテープ",
+    "en": "cassette tape",
+    "vi": "băng (cát xét)",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ băng cát xét (từ mượn)",
+        "Ví dụ: それはカセットテープです。 (Đó là băng cát xét.)"
+      ]
+    }
+  },
+  {
+    "id": "tapeRecorder",
+    "kanji": "テープレコーダー",
+    "hiragana": "テープレコーダー",
+    "en": "tape recorder",
+    "vi": "máy ghi âm",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ máy ghi âm (từ mượn)",
+        "Ví dụ: これはテープレコーダーです。 (Đây là máy ghi âm.)"
+      ]
+    }
+  },
+  {
+    "id": "television",
+    "kanji": "テレビ",
+    "hiragana": "テレビ",
+    "en": "television",
+    "vi": "tivi",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ tivi (từ mượn)",
+        "Ví dụ: それはテレビです。 (Đó là tivi.)"
+      ]
+    }
+  },
+  {
+    "id": "radio",
+    "kanji": "ラジオ",
+    "hiragana": "ラジオ",
+    "en": "radio",
+    "vi": "đài radio",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ đài radio (từ mượn)",
+        "Ví dụ: これはラジオです。 (Đây là đài radio.)"
+      ]
+    }
+  },
+  {
+    "id": "camera",
+    "kanji": "カメラ",
+    "hiragana": "カメラ",
+    "en": "camera",
+    "vi": "máy ảnh",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ máy ảnh (từ mượn)",
+        "Ví dụ: それはカメラです。 (Đó là máy ảnh.)"
+      ]
+    }
+  },
+  {
+    "id": "car",
+    "kanji": "自動車",
+    "hiragana": "じどうしゃ",
+    "en": "car",
+    "vi": "ô tô",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ ô tô",
+        "Ví dụ: これは自動車です。 (Đây là ô tô.)"
+      ]
+    }
+  },
+  {
+    "id": "phone",
+    "kanji": "電話",
+    "hiragana": "でんわ",
+    "en": "phone",
+    "vi": "điện thoại",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ điện thoại",
+        "Ví dụ: それは電話です。 (Đó là điện thoại.)"
+      ]
+    }
+  },
+  {
+    "id": "chair",
+    "kanji": "椅子",
+    "hiragana": "いす",
+    "en": "chair",
+    "vi": "ghế",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ ghế",
+        "Ví dụ: これは椅子です。 (Đây là ghế.)"
+      ]
+    }
+  },
+  {
+    "id": "desk",
+    "kanji": "机",
+    "hiragana": "つくえ",
+    "en": "desk",
+    "vi": "bàn",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ bàn",
+        "Ví dụ: それは机です。 (Đó là bàn.)"
+      ]
+    }
+  },
+  {
+    "id": "window",
+    "kanji": "窓",
+    "hiragana": "まど",
+    "en": "window",
+    "vi": "cửa sổ",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ cửa sổ",
+        "Ví dụ: これは窓です。 (Đây là cửa sổ.)"
+      ]
+    }
+  },
+  {
+    "id": "door",
+    "kanji": "ドア",
+    "hiragana": "ドア",
+    "en": "door",
+    "vi": "cửa ra vào",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ cửa ra vào (từ mượn)",
+        "Ví dụ: それはドアです。 (Đó là cửa ra vào.)"
+      ]
+    }
+  },
+  {
+    "id": "chocolate",
+    "kanji": "チョコレート",
+    "hiragana": "チョコレート",
+    "en": "chocolate",
+    "vi": "sô cô la",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ sô cô la (từ mượn)",
+        "Ví dụ: これはチョコレートです。 (Đây là sô cô la.)"
+      ]
+    }
+  },
+  {
+    "id": "coffee",
+    "kanji": "コーヒー",
+    "hiragana": "コーヒー",
+    "en": "coffee",
+    "vi": "cà phê",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ cà phê (từ mượn)",
+        "Ví dụ: それはコーヒーです。 (Đó là cà phê.)"
+      ]
+    }
+  },
+  {
+    "id": "english",
+    "kanji": "英語",
+    "hiragana": "えいご",
+    "en": "English",
+    "vi": "tiếng Anh",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ tiếng Anh",
+        "Ví dụ: 私は英語を勉強します。 (Tôi học tiếng Anh.)"
+      ]
+    }
+  },
+  {
+    "id": "japanese",
+    "kanji": "日本語",
+    "hiragana": "にほんご",
+    "en": "Japanese",
+    "vi": "tiếng Nhật",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ tiếng Nhật",
+        "Ví dụ: 私は日本語を勉強します。 (Tôi học tiếng Nhật.)"
+      ]
+    }
+  },
+  {
+    "id": "language",
+    "kanji": "～語",
+    "hiragana": "～ご",
+    "en": "language (suffix)",
+    "vi": "tiếng ~ (kèm theo tên nước, dùng để chỉ ngôn ngữ của nước nào đó)",
     "type": "other",
     "explanation": {
       "content": [
-        "Đại từ sở hữu, đứng một mình",
-        "Ví dụ: そのペンはあなたのです。 (Cây bút đó là của bạn.)"
+        "Hậu tố chỉ ngôn ngữ",
+        "Ví dụ: ベトナム語 (Tiếng Việt)"
+      ]
+    }
+  },
+  {
+    "id": "vietnamese",
+    "kanji": "ベトナム語",
+    "hiragana": "ベトナムご",
+    "en": "Vietnamese",
+    "vi": "tiếng Việt",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ tiếng Việt",
+        "Ví dụ: 私はベトナム語を話します。 (Tôi nói tiếng Việt.)"
+      ]
+    }
+  },
+  {
+    "id": "what",
+    "kanji": "何",
+    "hiragana": "なん",
+    "en": "what",
+    "vi": "cái gì",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Từ để hỏi \"cái gì\"",
+        "Ví dụ: これは何ですか。 (Đây là cái gì?)",
+        "Lưu ý: Đọc là なん khi đứng trước です, なに khi đứng một mình"
+      ]
+    }
+  },
+  {
+    "id": "so",
+    "kanji": "そう",
+    "hiragana": "そう",
+    "en": "so, like that",
+    "vi": "thế",
+    "type": "other",
+    "explanation": {
+      "content": [
+        "Từ chỉ sự đồng ý, xác nhận",
+        "Ví dụ: そうです。 (Đúng vậy.)"
+      ]
+    }
+  },
+  {
+    "id": "please",
+    "kanji": "お願いします",
+    "hiragana": "おねがいします",
+    "en": "please",
+    "vi": "xin nhờ (ông, bà, anh, chị)",
+    "type": "other",
+    "explanation": {
+      "content": [
+        "Câu nói lịch sự khi nhờ vả",
+        "Ví dụ: お願いします。 (Xin nhờ anh.)"
+      ]
+    }
+  },
+  {
+    "id": "hereYouGo",
+    "kanji": "どうぞ",
+    "hiragana": "どうぞ",
+    "en": "here you go, please",
+    "vi": "xin mời (dùng khi mời ai cái gì, mời ai làm gì)",
+    "type": "other",
+    "explanation": {
+      "content": [
+        "Câu nói khi mời hoặc đưa đồ",
+        "Ví dụ: どうぞ。 (Xin mời.)"
+      ]
+    }
+  },
+  {
+    "id": "thankYou",
+    "kanji": "[どうも]ありがとうございます",
+    "hiragana": "[どうも]ありがとうございます",
+    "en": "thank you",
+    "vi": "cảm ơn anh rất nhiều",
+    "type": "other",
+    "explanation": {
+      "content": [
+        "Câu cảm ơn lịch sự",
+        "Ví dụ: どうもありがとうございます。 (Cảm ơn anh rất nhiều.)"
+      ]
+    }
+  },
+  {
+    "id": "oh",
+    "kanji": "あ",
+    "hiragana": "あ",
+    "en": "oh",
+    "vi": "à! chà! ối chà! (từ cảm thán, dùng khi bỗng nhiên nhớ lại cái gì hoặc thình lình thấy cái gì)",
+    "type": "other",
+    "explanation": {
+      "content": [
+        "Thán từ biểu hiện sự ngạc nhiên",
+        "Ví dụ: あ、そうですね。 (À, đúng vậy nhỉ.)"
+      ]
+    }
+  },
+  {
+    "id": "aLittle",
+    "kanji": "ちょっと",
+    "hiragana": "ちょっと",
+    "en": "a little",
+    "vi": "một chút, một lát",
+    "type": "adverb",
+    "explanation": {
+      "content": [
+        "Phó từ chỉ số lượng ít hoặc thời gian ngắn",
+        "Ví dụ: ちょっと待ってください。 (Xin hãy chờ một chút.)"
+      ]
+    }
+  },
+  {
+    "id": "pleaseWait",
+    "kanji": "待ってください",
+    "hiragana": "まってください",
+    "en": "please wait",
+    "vi": "xin anh (chị) hãy chờ",
+    "type": "other",
+    "explanation": {
+      "content": [
+        "Câu yêu cầu chờ đợi",
+        "Ví dụ: ちょっと待ってください。 (Xin hãy chờ một chút.)"
+      ]
+    }
+  },
+  {
+    "id": "wrong",
+    "kanji": "違います",
+    "hiragana": "ちがいます",
+    "en": "wrong",
+    "vi": "sai rồi, không phải",
+    "type": "other",
+    "explanation": {
+      "content": [
+        "Câu phủ định",
+        "Ví dụ: いいえ、違います。 (Không, không phải.)"
+      ]
+    }
+  },
+  {
+    "id": "isThatSo",
+    "kanji": "そうですか",
+    "hiragana": "そうですか",
+    "en": "is that so",
+    "vi": "thế à?/ tôi hiểu rồi",
+    "type": "other",
+    "explanation": {
+      "content": [
+        "Câu nói thể hiện sự hiểu biết hoặc ngạc nhiên",
+        "Ví dụ: そうですか。 (Thế à?/ Tôi hiểu rồi.)"
+      ]
+    }
+  },
+  {
+    "id": "pleaseTakeCareOfMe",
+    "kanji": "これからお世話になります",
+    "hiragana": "これからおせわになります",
+    "en": "please take care of me",
+    "vi": "hi vọng sẽ được anh quan tâm, giúp đỡ",
+    "type": "other",
+    "explanation": {
+      "content": [
+        "Câu nói lịch sự khi bắt đầu làm việc hoặc học tập",
+        "Ví dụ: これからお世話になります。 (Hi vọng sẽ được anh quan tâm, giúp đỡ.)"
+      ]
+    }
+  },
+  {
+    "id": "likewise",
+    "kanji": "こちらこそよろしく",
+    "hiragana": "こちらこそよろしく",
+    "en": "likewise",
+    "vi": "tôi cũng mong anh quan tâm, giúp đỡ",
+    "type": "other",
+    "explanation": {
+      "content": [
+        "Câu đáp lại khi người khác nói \"よろしく\"",
+        "Ví dụ: こちらこそよろしく。 (Tôi cũng mong anh quan tâm, giúp đỡ.)"
       ]
     }
   }

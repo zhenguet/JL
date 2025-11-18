@@ -4,12 +4,12 @@
     "kanji": "ここ",
     "hiragana": "ここ",
     "en": "here",
-    "vi": "ở đây",
+    "vi": "chỗ này",
     "type": "noun",
     "explanation": {
       "content": [
         "Danh từ chỉ nơi chốn, chỉ vị trí gần người nói",
-        "Ví dụ: ここで待ちます。 (Đợi ở đây.)"
+        "Ví dụ: ここは学校です。 (Đây là trường học.)"
       ]
     }
   },
@@ -18,12 +18,12 @@
     "kanji": "そこ",
     "hiragana": "そこ",
     "en": "there",
-    "vi": "ở đó",
+    "vi": "chỗ đó",
     "type": "noun",
     "explanation": {
       "content": [
         "Danh từ chỉ nơi chốn, chỉ vị trí gần người nghe",
-        "Ví dụ: そこに本があります。 (Có sách ở đó.)"
+        "Ví dụ: そこは図書館です。 (Đó là thư viện.)"
       ]
     }
   },
@@ -32,12 +32,12 @@
     "kanji": "あそこ",
     "hiragana": "あそこ",
     "en": "over there",
-    "vi": "ở kia",
+    "vi": "chỗ kia",
     "type": "noun",
     "explanation": {
       "content": [
         "Danh từ chỉ nơi chốn, chỉ vị trí xa cả người nói và người nghe",
-        "Ví dụ: あそこに銀行があります。 (Có ngân hàng ở kia.)"
+        "Ví dụ: あそこは病院です。 (Kia là bệnh viện.)"
       ]
     }
   },
@@ -46,629 +46,545 @@
     "kanji": "どこ",
     "hiragana": "どこ",
     "en": "where",
-    "vi": "ở đâu",
+    "vi": "chỗ nào, ở đâu",
     "type": "noun",
     "explanation": {
       "content": [
         "Từ để hỏi về nơi chốn",
-        "Ví dụ: トイレはどこですか？ (Nhà vệ sinh ở đâu?)"
+        "Ví dụ: トイレはどこですか。 (Nhà vệ sinh ở đâu?)"
       ]
     }
   },
   {
-    "id": "toBuy",
-    "kanji": "買います",
-    "hiragana": "かいます",
-    "en": "to buy",
-    "vi": "mua",
-    "type": "verb",
-    "explanation": {
-      "content": [
-        "Động từ nhóm I, dùng với trợ từ を",
-        "Ví dụ: 本を買います。 (Mua sách.)"
-      ]
-    }
-  },
-  {
-    "id": "toTake",
-    "kanji": "撮ります",
-    "hiragana": "とります",
-    "en": "to take (photo)",
-    "vi": "chụp (ảnh)",
-    "type": "verb",
-    "explanation": {
-      "content": [
-        "Động từ nhóm I, dùng với trợ từ を",
-        "Ví dụ: 写真を撮ります。 (Chụp ảnh.)"
-      ]
-    }
-  },
-  {
-    "id": "toDo",
-    "kanji": "します",
-    "hiragana": "します",
-    "en": "to do",
-    "vi": "làm",
-    "type": "verb",
-    "explanation": {
-      "content": [
-        "Động từ nhóm III, dùng với trợ từ を",
-        "Ví dụ: 宿題をします。 (Làm bài tập.)"
-      ]
-    }
-  },
-  {
-    "id": "toEat",
-    "kanji": "食べます",
-    "hiragana": "たべます",
-    "en": "to eat",
-    "vi": "ăn",
-    "type": "verb",
-    "explanation": {
-      "content": [
-        "Động từ nhóm II, dùng với trợ từ を",
-        "Ví dụ: ご飯を食べます。 (Ăn cơm.)"
-      ]
-    }
-  },
-  {
-    "id": "toDrink",
-    "kanji": "飲みます",
-    "hiragana": "のみます",
-    "en": "to drink",
-    "vi": "uống",
-    "type": "verb",
-    "explanation": {
-      "content": [
-        "Động từ nhóm I, dùng với trợ từ を",
-        "Ví dụ: コーヒーを飲みます。 (Uống cà phê.)"
-      ]
-    }
-  },
-  {
-    "id": "toSee",
-    "kanji": "見ます",
-    "hiragana": "みます",
-    "en": "to see, to watch",
-    "vi": "xem, nhìn",
-    "type": "verb",
-    "explanation": {
-      "content": [
-        "Động từ nhóm II, dùng với trợ từ を",
-        "Ví dụ: 映画を見ます。 (Xem phim.)"
-      ]
-    }
-  },
-  {
-    "id": "toListen",
-    "kanji": "聞きます",
-    "hiragana": "ききます",
-    "en": "to listen, to hear",
-    "vi": "nghe",
-    "type": "verb",
-    "explanation": {
-      "content": [
-        "Động từ nhóm I, dùng với trợ từ を (nghe nhạc) hoặc に (hỏi ai đó)",
-        "Ví dụ: 音楽を聞きます。 (Nghe nhạc.)"
-      ]
-    }
-  },
-  {
-    "id": "toRead",
-    "kanji": "読みます",
-    "hiragana": "よみます",
-    "en": "to read",
-    "vi": "đọc",
-    "type": "verb",
-    "explanation": {
-      "content": [
-        "Động từ nhóm I, dùng với trợ từ を",
-        "Ví dụ: 本を読みます。 (Đọc sách.)"
-      ]
-    }
-  },
-  {
-    "id": "toWrite",
-    "kanji": "書きます",
-    "hiragana": "かきます",
-    "en": "to write",
-    "vi": "viết",
-    "type": "verb",
-    "explanation": {
-      "content": [
-        "Động từ nhóm I, dùng với trợ từ を",
-        "Ví dụ: 手紙を書きます。 (Viết thư.)"
-      ]
-    }
-  },
-  {
-    "id": "toMeet",
-    "kanji": "会います",
-    "hiragana": "あいます",
-    "en": "to meet",
-    "vi": "gặp",
-    "type": "verb",
-    "explanation": {
-      "content": [
-        "Động từ nhóm I, dùng với trợ từ に",
-        "Ví dụ: 友達に会います。 (Gặp bạn.)"
-      ]
-    }
-  },
-  {
-    "id": "toGo",
-    "kanji": "行きます",
-    "hiragana": "いきます",
-    "en": "to go",
-    "vi": "đi",
-    "type": "verb",
-    "explanation": {
-      "content": [
-        "Động từ nhóm I, dùng với trợ từ へ hoặc に",
-        "Ví dụ: 学校へ行きます。 (Đi đến trường.)"
-      ]
-    }
-  },
-  {
-    "id": "toCome",
-    "kanji": "来ます",
-    "hiragana": "きます",
-    "en": "to come",
-    "vi": "đến",
-    "type": "verb",
-    "explanation": {
-      "content": [
-        "Động từ nhóm III, dùng với trợ từ へ hoặc に",
-        "Ví dụ: 日本へ来ます。 (Đến Nhật Bản.)"
-      ]
-    }
-  },
-  {
-    "id": "toReturn",
-    "kanji": "帰ります",
-    "hiragana": "かえります",
-    "en": "to return, to go back",
-    "vi": "về",
-    "type": "verb",
-    "explanation": {
-      "content": [
-        "Động từ nhóm I, dùng với trợ từ へ hoặc に",
-        "Ví dụ: 家へ帰ります。 (Về nhà.)"
-      ]
-    }
-  },
-  {
-    "id": "now",
-    "kanji": "今",
-    "hiragana": "いま",
-    "en": "now",
-    "vi": "bây giờ",
+    "id": "herePolite",
+    "kanji": "こちら",
+    "hiragana": "こちら",
+    "en": "here (polite)",
+    "vi": "chỗ này, đằng này (cách nói lịch sự của ここ)",
     "type": "noun",
     "explanation": {
       "content": [
-        "Danh từ chỉ thời gian",
-        "Ví dụ: 今、何時ですか？ (Bây giờ là mấy giờ?)"
+        "Danh từ chỉ nơi chốn (cách nói lịch sự)",
+        "Ví dụ: こちらは事務所です。 (Đây là văn phòng.)"
       ]
     }
   },
   {
-    "id": "whatTime",
-    "kanji": "何時",
-    "hiragana": "なんじ",
-    "en": "what time",
-    "vi": "mấy giờ",
+    "id": "therePolite",
+    "kanji": "そちら",
+    "hiragana": "そちら",
+    "en": "there (polite)",
+    "vi": "chỗ đó, đằng đó (cách nói lịch sự của そこ)",
     "type": "noun",
     "explanation": {
       "content": [
-        "Từ để hỏi về giờ",
-        "Ví dụ: 今、何時ですか？ (Bây giờ là mấy giờ?)"
+        "Danh từ chỉ nơi chốn (cách nói lịch sự)",
+        "Ví dụ: そちらは会議室です。 (Đó là phòng họp.)"
       ]
     }
   },
   {
-    "id": "oneOClock",
-    "kanji": "一時",
-    "hiragana": "いちじ",
-    "en": "one o'clock",
-    "vi": "1 giờ",
+    "id": "overTherePolite",
+    "kanji": "あちら",
+    "hiragana": "あちら",
+    "en": "over there (polite)",
+    "vi": "chỗ kia, đằng kia (cách nói lịch sự của あそこ)",
     "type": "noun",
     "explanation": {
       "content": [
-        "Số giờ",
-        "Ví dụ: 一時です。 (Là 1 giờ.)"
+        "Danh từ chỉ nơi chốn (cách nói lịch sự)",
+        "Ví dụ: あちらは食堂です。 (Kia là nhà ăn.)"
       ]
     }
   },
   {
-    "id": "twoOClock",
-    "kanji": "二時",
-    "hiragana": "にじ",
-    "en": "two o'clock",
-    "vi": "2 giờ",
+    "id": "wherePolite",
+    "kanji": "どちら",
+    "hiragana": "どちら",
+    "en": "where (polite)",
+    "vi": "ở đâu (cách nói lịch sự của どこ)",
     "type": "noun",
     "explanation": {
       "content": [
-        "Số giờ",
-        "Ví dụ: 二時です。 (Là 2 giờ.)"
+        "Từ để hỏi về nơi chốn (cách nói lịch sự)",
+        "Ví dụ: 受付はどちらですか。 (Bàn tiếp tân ở đâu?)"
       ]
     }
   },
   {
-    "id": "threeOClock",
-    "kanji": "三時",
-    "hiragana": "さんじ",
-    "en": "three o'clock",
-    "vi": "3 giờ",
+    "id": "classroom",
+    "kanji": "教室",
+    "hiragana": "きょうしつ",
+    "en": "classroom",
+    "vi": "lớp học, phòng học",
     "type": "noun",
     "explanation": {
       "content": [
-        "Số giờ",
-        "Ví dụ: 三時です。 (Là 3 giờ.)"
+        "Danh từ chỉ lớp học, phòng học",
+        "Ví dụ: 教室はここです。 (Lớp học ở đây.)"
       ]
     }
   },
   {
-    "id": "fourOClock",
-    "kanji": "四時",
-    "hiragana": "よじ",
-    "en": "four o'clock",
-    "vi": "4 giờ",
+    "id": "cafeteria",
+    "kanji": "食堂",
+    "hiragana": "しょくどう",
+    "en": "cafeteria",
+    "vi": "nhà ăn, phòng ăn",
     "type": "noun",
     "explanation": {
       "content": [
-        "Số giờ",
-        "Ví dụ: 四時です。 (Là 4 giờ.)"
+        "Danh từ chỉ nhà ăn, phòng ăn",
+        "Ví dụ: 食堂はあそこです。 (Nhà ăn ở kia.)"
       ]
     }
   },
   {
-    "id": "fiveOClock",
-    "kanji": "五時",
-    "hiragana": "ごじ",
-    "en": "five o'clock",
-    "vi": "5 giờ",
+    "id": "office",
+    "kanji": "事務所",
+    "hiragana": "じむしょ",
+    "en": "office",
+    "vi": "văn phòng",
     "type": "noun",
     "explanation": {
       "content": [
-        "Số giờ",
-        "Ví dụ: 五時です。 (Là 5 giờ.)"
+        "Danh từ chỉ văn phòng",
+        "Ví dụ: 事務所はそこです。 (Văn phòng ở đó.)"
       ]
     }
   },
   {
-    "id": "sixOClock",
-    "kanji": "六時",
-    "hiragana": "ろくじ",
-    "en": "six o'clock",
-    "vi": "6 giờ",
+    "id": "meetingRoom",
+    "kanji": "会議室",
+    "hiragana": "かいぎしつ",
+    "en": "meeting room",
+    "vi": "phòng họp",
     "type": "noun",
     "explanation": {
       "content": [
-        "Số giờ",
-        "Ví dụ: 六時です。 (Là 6 giờ.)"
+        "Danh từ chỉ phòng họp",
+        "Ví dụ: 会議室はこちらです。 (Phòng họp ở đây.)"
       ]
     }
   },
   {
-    "id": "sevenOClock",
-    "kanji": "七時",
-    "hiragana": "しちじ",
-    "en": "seven o'clock",
-    "vi": "7 giờ",
+    "id": "toilet",
+    "kanji": "お手洗い",
+    "hiragana": "おてあらい",
+    "en": "toilet, restroom",
+    "vi": "nhà vệ sinh",
     "type": "noun",
     "explanation": {
       "content": [
-        "Số giờ",
-        "Ví dụ: 七時です。 (Là 7 giờ.)",
-        "Lưu ý: Cũng đọc là ななじ"
+        "Danh từ chỉ nhà vệ sinh (cách nói lịch sự)",
+        "Ví dụ: お手洗いはどこですか。 (Nhà vệ sinh ở đâu?)",
+        "Cũng có thể nói トイレ"
       ]
     }
   },
   {
-    "id": "eightOClock",
-    "kanji": "八時",
-    "hiragana": "はちじ",
-    "en": "eight o'clock",
-    "vi": "8 giờ",
+    "id": "lobby",
+    "kanji": "ロビー",
+    "hiragana": "ロビー",
+    "en": "lobby",
+    "vi": "phòng đợi, tiền sảnh",
     "type": "noun",
     "explanation": {
       "content": [
-        "Số giờ",
-        "Ví dụ: 八時です。 (Là 8 giờ.)"
+        "Danh từ chỉ phòng đợi, tiền sảnh (từ mượn)",
+        "Ví dụ: ロビーはあそこです。 (Tiền sảnh ở kia.)"
       ]
     }
   },
   {
-    "id": "nineOClock",
-    "kanji": "九時",
-    "hiragana": "くじ",
-    "en": "nine o'clock",
-    "vi": "9 giờ",
+    "id": "reception",
+    "kanji": "受付",
+    "hiragana": "うけつけ",
+    "en": "reception",
+    "vi": "bàn tiếp tân, thường trực",
     "type": "noun",
     "explanation": {
       "content": [
-        "Số giờ",
-        "Ví dụ: 九時です。 (Là 9 giờ.)"
+        "Danh từ chỉ bàn tiếp tân, thường trực",
+        "Ví dụ: 受付はこちらです。 (Bàn tiếp tân ở đây.)"
       ]
     }
   },
   {
-    "id": "tenOClock",
-    "kanji": "十時",
-    "hiragana": "じゅうじ",
-    "en": "ten o'clock",
-    "vi": "10 giờ",
+    "id": "room",
+    "kanji": "部屋",
+    "hiragana": "へや",
+    "en": "room",
+    "vi": "phòng",
     "type": "noun",
     "explanation": {
       "content": [
-        "Số giờ",
-        "Ví dụ: 十時です。 (Là 10 giờ.)"
+        "Danh từ chỉ phòng",
+        "Ví dụ: この部屋は大きいです。 (Căn phòng này lớn.)"
       ]
     }
   },
   {
-    "id": "elevenOClock",
-    "kanji": "十一時",
-    "hiragana": "じゅういちじ",
-    "en": "eleven o'clock",
-    "vi": "11 giờ",
+    "id": "garden",
+    "kanji": "庭",
+    "hiragana": "にわ",
+    "en": "garden",
+    "vi": "sân",
     "type": "noun",
     "explanation": {
       "content": [
-        "Số giờ",
-        "Ví dụ: 十一時です。 (Là 11 giờ.)"
+        "Danh từ chỉ sân",
+        "Ví dụ: 庭は広いです。 (Sân rộng.)"
       ]
     }
   },
   {
-    "id": "twelveOClock",
-    "kanji": "十二時",
-    "hiragana": "じゅうにじ",
-    "en": "twelve o'clock",
-    "vi": "12 giờ",
+    "id": "center",
+    "kanji": "センター",
+    "hiragana": "センター",
+    "en": "center",
+    "vi": "trung tâm [tu nghiệp]",
     "type": "noun",
     "explanation": {
       "content": [
-        "Số giờ",
-        "Ví dụ: 十二時です。 (Là 12 giờ.)"
+        "Danh từ chỉ trung tâm (từ mượn)",
+        "Ví dụ: 研修センター (Trung tâm tu nghiệp)"
       ]
     }
   },
   {
-    "id": "halfPast",
-    "kanji": "半",
-    "hiragana": "はん",
-    "en": "half past",
-    "vi": "rưỡi",
+    "id": "stairs",
+    "kanji": "階段",
+    "hiragana": "かいだん",
+    "en": "stairs",
+    "vi": "cầu thang",
     "type": "noun",
     "explanation": {
       "content": [
-        "Dùng để chỉ nửa giờ",
-        "Ví dụ: 三時半です。 (Là 3 giờ rưỡi.)"
+        "Danh từ chỉ cầu thang",
+        "Ví dụ: 階段を上がります。 (Đi lên cầu thang.)"
       ]
     }
   },
   {
-    "id": "morning",
-    "kanji": "午前",
-    "hiragana": "ごぜん",
-    "en": "morning, AM",
-    "vi": "buổi sáng, AM",
+    "id": "elevator",
+    "kanji": "エレベーター",
+    "hiragana": "エレベーター",
+    "en": "elevator",
+    "vi": "cầu thang máy",
     "type": "noun",
     "explanation": {
       "content": [
-        "Danh từ chỉ buổi sáng, trước 12 giờ trưa",
-        "Ví dụ: 午前九時です。 (Là 9 giờ sáng.)"
+        "Danh từ chỉ cầu thang máy (từ mượn)",
+        "Ví dụ: エレベーターで上がります。 (Đi lên bằng cầu thang máy.)"
       ]
     }
   },
   {
-    "id": "afternoon",
-    "kanji": "午後",
-    "hiragana": "ごご",
-    "en": "afternoon, PM",
-    "vi": "buổi chiều, PM",
+    "id": "escalator",
+    "kanji": "エスカレーター",
+    "hiragana": "エスカレーター",
+    "en": "escalator",
+    "vi": "cầu thang cuốn",
     "type": "noun",
     "explanation": {
       "content": [
-        "Danh từ chỉ buổi chiều, sau 12 giờ trưa",
-        "Ví dụ: 午後三時です。 (Là 3 giờ chiều.)"
+        "Danh từ chỉ cầu thang cuốn (từ mượn)",
+        "Ví dụ: エスカレーターで上がります。 (Đi lên bằng cầu thang cuốn.)"
       ]
     }
   },
   {
-    "id": "today",
-    "kanji": "今日",
-    "hiragana": "きょう",
-    "en": "today",
-    "vi": "hôm nay",
+    "id": "house",
+    "kanji": "家",
+    "hiragana": "うち",
+    "en": "house, home",
+    "vi": "nhà",
     "type": "noun",
     "explanation": {
       "content": [
-        "Danh từ chỉ hôm nay",
-        "Ví dụ: 今日は月曜日です。 (Hôm nay là thứ Hai.)"
+        "Danh từ chỉ nhà",
+        "Ví dụ: うちはここです。 (Nhà tôi ở đây.)"
       ]
     }
   },
   {
-    "id": "tomorrow",
-    "kanji": "明日",
-    "hiragana": "あした",
-    "en": "tomorrow",
-    "vi": "ngày mai",
+    "id": "company",
+    "kanji": "会社",
+    "hiragana": "かいしゃ",
+    "en": "company",
+    "vi": "công ty",
     "type": "noun",
     "explanation": {
       "content": [
-        "Danh từ chỉ ngày mai",
-        "Ví dụ: 明日は火曜日です。 (Ngày mai là thứ Ba.)"
+        "Danh từ chỉ công ty",
+        "Ví dụ: 会社はどこですか。 (Công ty ở đâu?)"
       ]
     }
   },
   {
-    "id": "yesterday",
-    "kanji": "昨日",
-    "hiragana": "きのう",
-    "en": "yesterday",
-    "vi": "hôm qua",
+    "id": "country",
+    "kanji": "お国",
+    "hiragana": "おくに",
+    "en": "country",
+    "vi": "nước (quốc gia)",
     "type": "noun",
     "explanation": {
       "content": [
-        "Danh từ chỉ hôm qua",
-        "Ví dụ: 昨日は日曜日でした。 (Hôm qua là Chủ nhật.)"
+        "Danh từ chỉ quốc gia (cách nói lịch sự, có tiền tố お)",
+        "Ví dụ: お国はどちらですか。 (Nước bạn là nước nào?)"
       ]
     }
   },
   {
-    "id": "monday",
-    "kanji": "月曜日",
-    "hiragana": "げつようび",
-    "en": "Monday",
-    "vi": "thứ Hai",
+    "id": "counter",
+    "kanji": "売り場",
+    "hiragana": "うりば",
+    "en": "counter",
+    "vi": "quầy, chỗ bán hàng (trong cửa hàng bách hóa, siêu thị)",
     "type": "noun",
     "explanation": {
       "content": [
-        "Danh từ chỉ thứ Hai",
-        "Ví dụ: 月曜日に学校へ行きます。 (Đi đến trường vào thứ Hai.)"
+        "Danh từ chỉ quầy, chỗ bán hàng",
+        "Ví dụ: ワイン売り場はどこですか。 (Quầy bán rượu vang ở đâu?)"
       ]
     }
   },
   {
-    "id": "tuesday",
-    "kanji": "火曜日",
-    "hiragana": "かようび",
-    "en": "Tuesday",
-    "vi": "thứ Ba",
+    "id": "wineCounter",
+    "kanji": "ワイン売り場",
+    "hiragana": "ワインうりば",
+    "en": "wine counter",
+    "vi": "quầy bán rượu vang",
     "type": "noun",
     "explanation": {
       "content": [
-        "Danh từ chỉ thứ Ba",
-        "Ví dụ: 火曜日に会議があります。 (Có cuộc họp vào thứ Ba.)"
+        "Danh từ chỉ quầy bán rượu vang",
+        "Ví dụ: ワイン売り場は2階です。 (Quầy bán rượu vang ở tầng 2.)"
       ]
     }
   },
   {
-    "id": "wednesday",
-    "kanji": "水曜日",
-    "hiragana": "すいようび",
-    "en": "Wednesday",
-    "vi": "thứ Tư",
+    "id": "shoes",
+    "kanji": "靴",
+    "hiragana": "くつ",
+    "en": "shoes",
+    "vi": "giầy",
     "type": "noun",
     "explanation": {
       "content": [
-        "Danh từ chỉ thứ Tư",
-        "Ví dụ: 水曜日に買い物をします。 (Đi mua sắm vào thứ Tư.)"
+        "Danh từ chỉ giầy",
+        "Ví dụ: 靴を買います。 (Mua giầy.)"
       ]
     }
   },
   {
-    "id": "thursday",
-    "kanji": "木曜日",
-    "hiragana": "もくようび",
-    "en": "Thursday",
-    "vi": "thứ Năm",
+    "id": "tie",
+    "kanji": "ネクタイ",
+    "hiragana": "ネクタイ",
+    "en": "tie",
+    "vi": "cà vạt",
     "type": "noun",
     "explanation": {
       "content": [
-        "Danh từ chỉ thứ Năm",
-        "Ví dụ: 木曜日に映画を見ます。 (Xem phim vào thứ Năm.)"
+        "Danh từ chỉ cà vạt (từ mượn)",
+        "Ví dụ: ネクタイをします。 (Đeo cà vạt.)"
       ]
     }
   },
   {
-    "id": "friday",
-    "kanji": "金曜日",
-    "hiragana": "きんようび",
-    "en": "Friday",
-    "vi": "thứ Sáu",
+    "id": "wine",
+    "kanji": "ワイン",
+    "hiragana": "ワイン",
+    "en": "wine",
+    "vi": "rượu vang",
     "type": "noun",
     "explanation": {
       "content": [
-        "Danh từ chỉ thứ Sáu",
-        "Ví dụ: 金曜日にパーティーがあります。 (Có tiệc vào thứ Sáu.)"
+        "Danh từ chỉ rượu vang (từ mượn)",
+        "Ví dụ: ワインを飲みます。 (Uống rượu vang.)"
       ]
     }
   },
   {
-    "id": "saturday",
-    "kanji": "土曜日",
-    "hiragana": "どようび",
-    "en": "Saturday",
-    "vi": "thứ Bảy",
+    "id": "basement",
+    "kanji": "地下",
+    "hiragana": "ちか",
+    "en": "basement",
+    "vi": "tầng hầm",
     "type": "noun",
     "explanation": {
       "content": [
-        "Danh từ chỉ thứ Bảy",
-        "Ví dụ: 土曜日に友達に会います。 (Gặp bạn vào thứ Bảy.)"
+        "Danh từ chỉ tầng hầm",
+        "Ví dụ: 地下は駐車場です。 (Tầng hầm là bãi đỗ xe.)"
       ]
     }
   },
   {
-    "id": "sunday",
-    "kanji": "日曜日",
-    "hiragana": "にちようび",
-    "en": "Sunday",
-    "vi": "Chủ nhật",
+    "id": "basementFloor",
+    "kanji": "地下一階",
+    "hiragana": "ちかいっかい",
+    "en": "basement floor",
+    "vi": "tầng ngầm (dưới đất)",
     "type": "noun",
     "explanation": {
       "content": [
-        "Danh từ chỉ Chủ nhật",
-        "Ví dụ: 日曜日に休みます。 (Nghỉ vào Chủ nhật.)"
+        "Danh từ chỉ tầng ngầm",
+        "Ví dụ: 地下一階にスーパーがあります。 (Có siêu thị ở tầng ngầm.)"
       ]
     }
   },
   {
-    "id": "everyDay",
-    "kanji": "毎日",
-    "hiragana": "まいにち",
-    "en": "every day",
-    "vi": "mỗi ngày",
+    "id": "floor",
+    "kanji": "～階",
+    "hiragana": "～かい",
+    "en": "floor",
+    "vi": "tầng ~",
     "type": "noun",
     "explanation": {
       "content": [
-        "Danh từ chỉ mỗi ngày",
-        "Ví dụ: 毎日日本語を勉強します。 (Học tiếng Nhật mỗi ngày.)"
+        "Danh từ chỉ tầng",
+        "Ví dụ: 2階 (Tầng 2)"
       ]
     }
   },
   {
-    "id": "everyWeek",
-    "kanji": "毎週",
-    "hiragana": "まいしゅう",
-    "en": "every week",
-    "vi": "mỗi tuần",
+    "id": "whatFloor",
+    "kanji": "何階",
+    "hiragana": "なんかい",
+    "en": "what floor",
+    "vi": "tầng mấy",
     "type": "noun",
     "explanation": {
       "content": [
-        "Danh từ chỉ mỗi tuần",
-        "Ví dụ: 毎週日曜日に教会へ行きます。 (Đi nhà thờ mỗi Chủ nhật.)"
+        "Từ để hỏi về tầng",
+        "Ví dụ: 受付は何階ですか。 (Bàn tiếp tân ở tầng mấy?)"
       ]
     }
   },
   {
-    "id": "everyMonth",
-    "kanji": "毎月",
-    "hiragana": "まいつき",
-    "en": "every month",
-    "vi": "mỗi tháng",
+    "id": "yen",
+    "kanji": "～円",
+    "hiragana": "～えん",
+    "en": "yen",
+    "vi": "~ yên",
     "type": "noun",
     "explanation": {
       "content": [
-        "Danh từ chỉ mỗi tháng",
-        "Ví dụ: 毎月本を買います。 (Mua sách mỗi tháng.)"
+        "Danh từ chỉ đơn vị tiền tệ Nhật Bản",
+        "Ví dụ: 1000円 (1000 yên)"
       ]
     }
   },
   {
-    "id": "everyYear",
-    "kanji": "毎年",
-    "hiragana": "まいとし",
-    "en": "every year",
-    "vi": "mỗi năm",
+    "id": "howMuch",
+    "kanji": "いくら",
+    "hiragana": "いくら",
+    "en": "how much",
+    "vi": "bao nhiêu tiền",
     "type": "noun",
     "explanation": {
       "content": [
-        "Danh từ chỉ mỗi năm",
-        "Ví dụ: 毎年日本へ行きます。 (Đi Nhật Bản mỗi năm.)"
+        "Từ để hỏi về giá tiền",
+        "Ví dụ: これはいくらですか。 (Cái này bao nhiêu tiền?)"
+      ]
+    }
+  },
+  {
+    "id": "hundred",
+    "kanji": "百",
+    "hiragana": "ひゃく",
+    "en": "hundred",
+    "vi": "trăm",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Số đếm: trăm",
+        "Ví dụ: 100 (百)"
+      ]
+    }
+  },
+  {
+    "id": "thousand",
+    "kanji": "千",
+    "hiragana": "せん",
+    "en": "thousand",
+    "vi": "nghìn",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Số đếm: nghìn",
+        "Ví dụ: 1000 (千)"
+      ]
+    }
+  },
+  {
+    "id": "tenThousand",
+    "kanji": "万",
+    "hiragana": "まん",
+    "en": "ten thousand",
+    "vi": "vạn, mười nghìn",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Số đếm: vạn, mười nghìn",
+        "Ví dụ: 10000 (万)"
+      ]
+    }
+  },
+  {
+    "id": "excuseMe",
+    "kanji": "ちょっとすみません",
+    "hiragana": "ちょっとすみません",
+    "en": "excuse me",
+    "vi": "cho tôi xin lỗi (một chút)",
+    "type": "other",
+    "explanation": {
+      "content": [
+        "Câu nói lịch sự khi muốn hỏi hoặc nhờ vả",
+        "Ví dụ: ちょっとすみません。 (Cho tôi xin lỗi một chút.)"
+      ]
+    }
+  },
+  {
+    "id": "welcome",
+    "kanji": "いらっしゃいませ",
+    "hiragana": "いらっしゃいませ",
+    "en": "welcome",
+    "vi": "kính mời vào (dùng để chào khách ở các nhà hàng, siêu thị…)",
+    "type": "other",
+    "explanation": {
+      "content": [
+        "Câu chào khách ở cửa hàng, nhà hàng",
+        "Ví dụ: いらっしゃいませ。 (Kính mời vào.)"
+      ]
+    }
+  },
+  {
+    "id": "then",
+    "kanji": "じゃ",
+    "hiragana": "じゃ",
+    "en": "then",
+    "vi": "vậy thì, trong trường hợp đó thì…",
+    "type": "other",
+    "explanation": {
+      "content": [
+        "Từ nối, cách nói ngắn gọn của では",
+        "Ví dụ: じゃ、行きます。 (Vậy thì, đi thôi.)"
+      ]
+    }
+  },
+  {
+    "id": "pleaseGiveMeThis",
+    "kanji": "これをください",
+    "hiragana": "これをください",
+    "en": "please give me this",
+    "vi": "xin bán cho tôi (cái này)",
+    "type": "other",
+    "explanation": {
+      "content": [
+        "Câu nói khi mua hàng",
+        "Ví dụ: これをください。 (Xin bán cho tôi cái này.)"
       ]
     }
   }
