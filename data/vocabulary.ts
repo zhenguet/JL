@@ -1,5 +1,105 @@
-import { VocabularyData } from '@/types/vocabulary'
-import vocabularyJson from './vocabulary.json'
+import { VocabularyData, VocabularyWord } from '@/types/vocabulary'
+import lesson1 from './lesson1.json'
+import lesson2 from './lesson2.json'
+import lesson3 from './lesson3.json'
+import lesson4 from './lesson4.json'
+import lesson5 from './lesson5.json'
+import lesson6 from './lesson6.json'
+import lesson7 from './lesson7.json'
+import lesson8 from './lesson8.json'
+import lesson9 from './lesson9.json'
+import lesson10 from './lesson10.json'
+import lesson11 from './lesson11.json'
+import lesson12 from './lesson12.json'
+import lesson13 from './lesson13.json'
+import lesson14 from './lesson14.json'
+import lesson15 from './lesson15.json'
+import lesson16 from './lesson16.json'
+import lesson17 from './lesson17.json'
+import lesson18 from './lesson18.json'
+import lesson19 from './lesson19.json'
+import lesson20 from './lesson20.json'
+import lesson21 from './lesson21.json'
+import lesson22 from './lesson22.json'
+import lesson23 from './lesson23.json'
+import lesson24 from './lesson24.json'
+import lesson25 from './lesson25.json'
+import lesson26 from './lesson26.json'
+import lesson27 from './lesson27.json'
+import lesson28 from './lesson28.json'
+import lesson29 from './lesson29.json'
+import lesson30 from './lesson30.json'
+import lesson31 from './lesson31.json'
+import lesson32 from './lesson32.json'
+import lesson33 from './lesson33.json'
+import lesson34 from './lesson34.json'
+import lesson35 from './lesson35.json'
+import lesson36 from './lesson36.json'
+import lesson37 from './lesson37.json'
+import lesson38 from './lesson38.json'
+import lesson39 from './lesson39.json'
+import lesson40 from './lesson40.json'
+import lesson41 from './lesson41.json'
+import lesson42 from './lesson42.json'
+import lesson43 from './lesson43.json'
+import lesson44 from './lesson44.json'
+import lesson45 from './lesson45.json'
+import lesson46 from './lesson46.json'
+import lesson47 from './lesson47.json'
+import lesson48 from './lesson48.json'
+import lesson49 from './lesson49.json'
+import lesson50 from './lesson50.json'
 
-export const vocabularyData: VocabularyData = vocabularyJson as VocabularyData
+export const vocabularyData: VocabularyData = {
+  1: lesson1 as VocabularyWord[],
+  2: lesson2 as VocabularyWord[],
+  3: lesson3 as VocabularyWord[],
+  4: lesson4 as VocabularyWord[],
+  5: lesson5 as VocabularyWord[],
+  6: lesson6 as VocabularyWord[],
+  7: lesson7 as VocabularyWord[],
+  8: lesson8 as VocabularyWord[],
+  9: lesson9 as VocabularyWord[],
+  10: lesson10 as VocabularyWord[],
+  11: lesson11 as VocabularyWord[],
+  12: lesson12 as VocabularyWord[],
+  13: lesson13 as VocabularyWord[],
+  14: lesson14 as VocabularyWord[],
+  15: lesson15 as VocabularyWord[],
+  16: lesson16 as VocabularyWord[],
+  17: lesson17 as VocabularyWord[],
+  18: lesson18 as VocabularyWord[],
+  19: lesson19 as VocabularyWord[],
+  20: lesson20 as VocabularyWord[],
+  21: lesson21 as VocabularyWord[],
+  22: lesson22 as VocabularyWord[],
+  23: lesson23 as VocabularyWord[],
+  24: lesson24 as VocabularyWord[],
+  25: lesson25 as VocabularyWord[],
+  26: lesson26 as VocabularyWord[],
+  27: lesson27 as VocabularyWord[],
+  28: lesson28 as VocabularyWord[],
+  29: lesson29 as VocabularyWord[],
+  30: lesson30 as VocabularyWord[],
+  31: lesson31 as VocabularyWord[],
+  32: lesson32 as VocabularyWord[],
+  33: lesson33 as VocabularyWord[],
+  34: lesson34 as VocabularyWord[],
+  35: lesson35 as VocabularyWord[],
+  36: lesson36 as VocabularyWord[],
+  37: lesson37 as VocabularyWord[],
+  38: lesson38 as VocabularyWord[],
+  39: lesson39 as VocabularyWord[],
+  40: lesson40 as VocabularyWord[],
+  41: lesson41 as VocabularyWord[],
+  42: lesson42 as VocabularyWord[],
+  43: lesson43 as VocabularyWord[],
+  44: lesson44 as VocabularyWord[],
+  45: lesson45 as VocabularyWord[],
+  46: lesson46 as VocabularyWord[],
+  47: lesson47 as VocabularyWord[],
+  48: lesson48 as VocabularyWord[],
+  49: lesson49 as VocabularyWord[],
+  50: lesson50 as VocabularyWord[],
+}
 

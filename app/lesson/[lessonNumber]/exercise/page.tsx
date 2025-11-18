@@ -76,13 +76,10 @@ export default function ExercisePage({ params }: PageProps) {
     setTotal((prev) => prev + 1)
 
     const normalizedUserAnswer = userAnswer.trim().toLowerCase()
-    const normalizedCorrectAnswer = currentExercise.answer
-      .toLowerCase()
-      .trim()
+    const normalizedCorrectAnswer = currentExercise.answer.trim().toLowerCase()
 
-    const correct =
-      normalizedUserAnswer === normalizedCorrectAnswer ||
-      normalizedUserAnswer === currentExercise.answer.trim()
+    const answerParts = normalizedCorrectAnswer.split(/[,、]/).map((part) => part.trim())
+    const correct = answerParts.some((part) => normalizedUserAnswer.includes(part) || part.includes(normalizedUserAnswer))
 
     setIsCorrect(correct)
     if (correct) {
