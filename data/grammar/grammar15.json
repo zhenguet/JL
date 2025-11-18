@@ -1,1 +1,116 @@
-﻿[]
+﻿[
+  {
+    "id": "te-mo-ii-desu",
+    "title": "V てもいいです - Cách nói ý cho phép làm gì, làm gì thì được",
+    "description": "Có thể làm ~, được phép làm ~, làm ~ cũng được. Động từ thể て thêm もいいです. Mẫu câu này ám chỉ một sự cho phép làm gì đó. Thể nghi vấn của mẫu câu này được sử dụng như một câu xin phép làm gì đó",
+    "structure": "V てもいいです",
+    "examples": [
+      {
+        "japanese": "その部屋 でタバコを吸 っ てもいいです。",
+        "romaji": "Sono heya de tabako o sutte mo ii desu.",
+        "vietnamese": "Được phép hút thuốc ở phòng đó."
+      },
+      {
+        "japanese": "ここで 写真 を撮 ってもいいですか。",
+        "romaji": "Koko de shashin o totte mo ii desu ka?",
+        "vietnamese": "Tôi chụp ảnh ở đây có được không?"
+      },
+      {
+        "japanese": "...ええ、いいです。",
+        "romaji": "...Ee, ii desu.",
+        "vietnamese": "...Vâng, được."
+      },
+      {
+        "japanese": "タバコを 吸 ってもいいですか。",
+        "romaji": "Tabako o sutte mo ii desu ka?",
+        "vietnamese": "Tôi hút thuốc có được không?"
+      },
+      {
+        "japanese": "...すみません。いけません。",
+        "romaji": "...Sumimasen. Ikemasen.",
+        "vietnamese": "...Xin lỗi. Không được."
+      }
+    ],
+    "notes": [
+      "Động từ thể て thêm もいいです",
+      "Mẫu câu này ám chỉ một sự cho phép làm gì đó",
+      "Thể nghi vấn của mẫu câu này được sử dụng như một câu xin phép làm gì đó"
+    ]
+  },
+  {
+    "id": "te-wa-ikemasen",
+    "title": "V ては いけません - Cách nói ý cấm đoán, không được làm gì",
+    "description": "Không được làm ~. Động từ thể て thêm はいけません. Mẫu câu này sử dụng khi muốn nói ý không được phép làm gì.",
+    "structure": "V ては いけません",
+    "examples": [
+      {
+        "japanese": "ここでタバコを吸 っ てはいけません。",
+        "romaji": "Koko de tabako o sutte wa ikemasen.",
+        "vietnamese": "Không được hút thuốc ở đây."
+      },
+      {
+        "japanese": "ここで 写真 を撮 ってもいいですか。",
+        "romaji": "Koko de shashin o totte mo ii desu ka?",
+        "vietnamese": "Tôi chụp ảnh ở đây được không?"
+      },
+      {
+        "japanese": "...いいえ、いけません。",
+        "romaji": "...Iie, ikemasen.",
+        "vietnamese": "...Không, không được."
+      }
+    ],
+    "notes": [
+      "Động từ thể て thêm はいけません",
+      "Mẫu câu này sử dụng khi muốn nói ý không được phép làm gì"
+    ]
+  },
+  {
+    "id": "te-imasu-extended-meanings",
+    "title": "V ています - Cách nói và ý nghĩa khác của động từ dạng tiếp diễn",
+    "description": "Cách dùng (1): Ngoài cách dùng đã được nói đến trong bài 14 thì mẫu câu này còn thể hiện ý một hành động nào đó đã diễn ra trong quá khứ và hiện tại vẫn còn tiếp diễn, kết quả của nó vẫn hiển hiện trong hiện tại và tương lai. Một số động từ luôn chia ở thể tiếp diễn mặc dù hành động đã thực hiện trong quá khứ: 知 っています、 住 んでいます、 結婚 しています、 持 っています. Cách dùng (2): Thể tiếp diễn còn được sử dụng để biểu thị những tập quán, thói quen, những hành động được lặp đi lặp lại trong thời gian dài.",
+    "structure": "V ています",
+    "examples": [
+      {
+        "japanese": "私 は 結婚 しています。",
+        "romaji": "Watashi wa kekkon shite imasu.",
+        "vietnamese": "Tôi đã kết hôn (đã, và đang có gia đình)."
+      },
+      {
+        "japanese": "私 は 鈴木 さんを 知 っ ています。",
+        "romaji": "Watashi wa Suzuki-san o shitte imasu.",
+        "vietnamese": "Tôi biết cô Suzuki (đã và đang biết)."
+      },
+      {
+        "japanese": "私は カメラを 持 っ ています。",
+        "romaji": "Watashi wa kamera o motte imasu.",
+        "vietnamese": "Tôi có máy ảnh (đã và đang có)."
+      },
+      {
+        "japanese": "私は ハノイに 住 んでいます。",
+        "romaji": "Watashi wa Hanoi ni sunde imasu.",
+        "vietnamese": "Tôi sống ở Hà Nội (đã, đang và sẽ)"
+      },
+      {
+        "japanese": "FPT は コンピューターソフトを作 っ ています。",
+        "romaji": "FPT wa konpyuutaa sofuto o tsukutte imasu.",
+        "vietnamese": "FPT sản xuất phần mềm máy tính."
+      },
+      {
+        "japanese": "私は CMC で 働 いています。",
+        "romaji": "Watashi wa CMC de hataraite imasu.",
+        "vietnamese": "Tôi làm việc ở CMC."
+      },
+      {
+        "japanese": "私は FPT大学 で 勉強 しています。",
+        "romaji": "Watashi wa FPT daigaku de benkyou shite imasu.",
+        "vietnamese": "Tôi học ở trường đại học FPT."
+      }
+    ],
+    "notes": [
+      "Cách dùng (1): Thể hiện ý một hành động nào đó đã diễn ra trong quá khứ và hiện tại vẫn còn tiếp diễn, kết quả của nó vẫn hiển hiện trong hiện tại và tương lai",
+      "Một số động từ luôn chia ở thể tiếp diễn mặc dù hành động đã thực hiện trong quá khứ: 知 っています、 住 んでいます、 結婚 しています、 持 っています",
+      "持 っています ở đây mang nghĩa sở hữu",
+      "Cách dùng (2): Thể tiếp diễn còn được sử dụng để biểu thị những tập quán, thói quen, những hành động được lặp đi lặp lại trong thời gian dài"
+    ]
+  }
+]

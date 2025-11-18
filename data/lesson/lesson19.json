@@ -1,1 +1,478 @@
-﻿[]
+﻿[
+  {
+    "id": "toClean",
+    "kanji": "掃除します",
+    "hiragana": "そうじします",
+    "en": "to clean",
+    "vi": "quét, quét dọn, làm vệ sinh",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm III (する)",
+        "Ví dụ: 部屋を掃除します。 (Quét dọn phòng.)"
+      ]
+    }
+  },
+  {
+    "id": "toWash",
+    "kanji": "洗濯します",
+    "hiragana": "せんたくします",
+    "en": "to wash",
+    "vi": "giặt (quần áo)",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm III (する)",
+        "Ví dụ: 服を洗濯します。 (Giặt quần áo.)"
+      ]
+    }
+  },
+  {
+    "id": "toStay",
+    "kanji": "泊まります",
+    "hiragana": "とまります",
+    "en": "to stay",
+    "vi": "ngủ trọ, nghỉ [ở khách sạn]",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm I",
+        "Ví dụ: ホテルに泊まります。 (Nghỉ ở khách sạn.)"
+      ]
+    }
+  },
+  {
+    "id": "stayAtHotel",
+    "kanji": "ホテルに泊まります",
+    "hiragana": "ホテルにとまります",
+    "en": "stay at hotel",
+    "vi": "nghỉ ở khách sạn",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm I",
+        "Ví dụ: ホテルに泊まります。 (Nghỉ ở khách sạn.)"
+      ]
+    }
+  },
+  {
+    "id": "toBecome",
+    "kanji": "なります",
+    "hiragana": "なります",
+    "en": "to become",
+    "vi": "trở nên, trở thành",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm I",
+        "Ví dụ: 医者になります。 (Trở thành bác sĩ.)"
+      ]
+    }
+  },
+  {
+    "id": "toClimb",
+    "kanji": "登ります",
+    "hiragana": "のぼります",
+    "en": "to climb",
+    "vi": "trèo, leo (núi)",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm I",
+        "Ví dụ: 山に登ります。 (Leo núi.)"
+      ]
+    }
+  },
+  {
+    "id": "climbMountain",
+    "kanji": "山に登ります",
+    "hiragana": "やまにのぼります",
+    "en": "climb a mountain",
+    "vi": "leo núi",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm I",
+        "Ví dụ: 山に登ります。 (Leo núi.)"
+      ]
+    }
+  },
+  {
+    "id": "sleepy",
+    "kanji": "眠い",
+    "hiragana": "ねむい",
+    "en": "sleepy",
+    "vi": "buồn ngủ",
+    "type": "adjective",
+    "explanation": {
+      "content": [
+        "Tính từ i (い-adjective)",
+        "Ví dụ: 眠いです。 (Buồn ngủ.)"
+      ]
+    }
+  },
+  {
+    "id": "strong",
+    "kanji": "強い",
+    "hiragana": "つよい",
+    "en": "strong",
+    "vi": "mạnh, khỏe",
+    "type": "adjective",
+    "explanation": {
+      "content": [
+        "Tính từ i (い-adjective)",
+        "Ví dụ: 強い人です。 (Người mạnh.)"
+      ]
+    }
+  },
+  {
+    "id": "weak",
+    "kanji": "弱い",
+    "hiragana": "よわい",
+    "en": "weak",
+    "vi": "yếu",
+    "type": "adjective",
+    "explanation": {
+      "content": [
+        "Tính từ i (い-adjective)",
+        "Ví dụ: 弱い人です。 (Người yếu.)"
+      ]
+    }
+  },
+  {
+    "id": "condition",
+    "kanji": "調子",
+    "hiragana": "ちょうし",
+    "en": "condition",
+    "vi": "tình trạng, sức khỏe",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ tình trạng",
+        "Ví dụ: 調子がいいです。 (Sức khỏe tốt.)"
+      ]
+    }
+  },
+  {
+    "id": "goodCondition",
+    "kanji": "調子がいい",
+    "hiragana": "ちょうしがいい",
+    "en": "good condition",
+    "vi": "sức khỏe tốt",
+    "type": "adjective",
+    "explanation": {
+      "content": [
+        "Cụm từ chỉ trạng thái",
+        "Ví dụ: 調子がいいです。 (Sức khỏe tốt.)"
+      ]
+    }
+  },
+  {
+    "id": "badCondition",
+    "kanji": "調子が悪い",
+    "hiragana": "ちょうしがわるい",
+    "en": "bad condition",
+    "vi": "sức khỏe yếu",
+    "type": "adjective",
+    "explanation": {
+      "content": [
+        "Cụm từ chỉ trạng thái",
+        "Ví dụ: 調子が悪いです。 (Sức khỏe yếu.)"
+      ]
+    }
+  },
+  {
+    "id": "golf",
+    "kanji": "ゴルフ",
+    "hiragana": "ゴルフ",
+    "en": "golf",
+    "vi": "gôn",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ gôn (từ mượn)",
+        "Ví dụ: ゴルフをします。 (Chơi gôn.)"
+      ]
+    }
+  },
+  {
+    "id": "toPlayGolf",
+    "kanji": "ゴルフ「～をします」",
+    "hiragana": "ゴルフ「～をします」",
+    "en": "to play golf",
+    "vi": "[chơi gôn]",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm III (する)",
+        "Ví dụ: ゴルフをします。 (Chơi gôn.)"
+      ]
+    }
+  },
+  {
+    "id": "sumo",
+    "kanji": "相撲",
+    "hiragana": "すもう",
+    "en": "sumo",
+    "vi": "môn võ Sư mô của Nhật",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ môn võ sumo",
+        "Ví dụ: 相撲を見ます。 (Xem sumo.)"
+      ]
+    }
+  },
+  {
+    "id": "pachinko",
+    "kanji": "パチンコ",
+    "hiragana": "パチンコ",
+    "en": "pachinko",
+    "vi": "trò chơi bắn đạn pachinko",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ trò chơi pachinko (từ mượn)",
+        "Ví dụ: パチンコをします。 (Chơi pachinko.)"
+      ]
+    }
+  },
+  {
+    "id": "toPlayPachinko",
+    "kanji": "パチンコ「～をします」",
+    "hiragana": "パチンコ「～をします」",
+    "en": "to play pachinko",
+    "vi": "[chơi pachinko]",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm III (する)",
+        "Ví dụ: パチンコをします。 (Chơi pachinko.)"
+      ]
+    }
+  },
+  {
+    "id": "tea",
+    "kanji": "お茶",
+    "hiragana": "おちゃ",
+    "en": "tea",
+    "vi": "trà, trà đạo",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ trà, có tiền tố お (lịch sự)",
+        "Ví dụ: お茶を習います。 (Học trà đạo.)"
+      ]
+    }
+  },
+  {
+    "id": "toLearnTeaCeremony",
+    "kanji": "お茶「～を習います」",
+    "hiragana": "おちゃ「～をならいます」",
+    "en": "to learn tea ceremony",
+    "vi": "[học trà đạo]",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm I",
+        "Ví dụ: お茶を習います。 (Học trà đạo.)"
+      ]
+    }
+  },
+  {
+    "id": "once",
+    "kanji": "一度",
+    "hiragana": "いちど",
+    "en": "once",
+    "vi": "một lần",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ số lần",
+        "Ví dụ: 一度行きます。 (Đi một lần.)"
+      ]
+    }
+  },
+  {
+    "id": "never",
+    "kanji": "一度も",
+    "hiragana": "いちども",
+    "en": "never",
+    "vi": "một lần cũng không (dùng với thể phủ định)",
+    "type": "adverb",
+    "explanation": {
+      "content": [
+        "Phó từ phủ định",
+        "Ví dụ: 一度も行きません。 (Một lần cũng không đi.)"
+      ]
+    }
+  },
+  {
+    "id": "forTheFirstTime",
+    "kanji": "初めて",
+    "hiragana": "はじめて",
+    "en": "for the first time",
+    "vi": "lần đầu tiên",
+    "type": "adverb",
+    "explanation": {
+      "content": [
+        "Phó từ chỉ thời gian",
+        "Ví dụ: 初めて日本へ行きます。 (Lần đầu tiên đi Nhật.)"
+      ]
+    }
+  },
+  {
+    "id": "gradually",
+    "kanji": "だんだん",
+    "hiragana": "だんだん",
+    "en": "gradually",
+    "vi": "dần dần",
+    "type": "adverb",
+    "explanation": {
+      "content": [
+        "Phó từ chỉ mức độ",
+        "Ví dụ: だんだん寒くなります。 (Dần dần lạnh hơn.)"
+      ]
+    }
+  },
+  {
+    "id": "soon",
+    "kanji": "もうすぐ",
+    "hiragana": "もうすぐ",
+    "en": "soon",
+    "vi": "sắp",
+    "type": "adverb",
+    "explanation": {
+      "content": [
+        "Phó từ chỉ thời gian",
+        "Ví dụ: もうすぐ来ます。 (Sắp đến.)"
+      ]
+    }
+  },
+  {
+    "id": "thanksToYou",
+    "kanji": "おかげさまで",
+    "hiragana": "おかげさまで",
+    "en": "thanks to you",
+    "vi": "cảm ơn. nhờ trời",
+    "type": "other",
+    "explanation": {
+      "content": [
+        "Lời cảm ơn",
+        "Ví dụ: おかげさまで。 (Cảm ơn. Nhờ trời.)"
+      ]
+    }
+  },
+  {
+    "id": "cheers",
+    "kanji": "乾杯",
+    "hiragana": "かんぱい",
+    "en": "cheers",
+    "vi": "cạn ly",
+    "type": "other",
+    "explanation": {
+      "content": [
+        "Lời chúc",
+        "Ví dụ: 乾杯！ (Cạn ly!)"
+      ]
+    }
+  },
+  {
+    "id": "actually",
+    "kanji": "実は",
+    "hiragana": "じつは",
+    "en": "actually",
+    "vi": "sự thật là, thật ra là",
+    "type": "adverb",
+    "explanation": {
+      "content": [
+        "Phó từ",
+        "Ví dụ: 実は、知りませんでした。 (Thật ra là, tôi không biết.)"
+      ]
+    }
+  },
+  {
+    "id": "diet",
+    "kanji": "ダイエット",
+    "hiragana": "ダイエット",
+    "en": "diet",
+    "vi": "việc ăn kiêng",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ việc ăn kiêng (từ mượn)",
+        "Ví dụ: ダイエットをします。 (Ăn kiêng.)"
+      ]
+    }
+  },
+  {
+    "id": "manyTimes",
+    "kanji": "何回も",
+    "hiragana": "なんかいも",
+    "en": "many times",
+    "vi": "nhiều lần",
+    "type": "adverb",
+    "explanation": {
+      "content": [
+        "Phó từ chỉ tần suất",
+        "Ví dụ: 何回も行きます。 (Đi nhiều lần.)"
+      ]
+    }
+  },
+  {
+    "id": "however",
+    "kanji": "しかし",
+    "hiragana": "しかし",
+    "en": "however",
+    "vi": "tuy nhiên, nhưng (đứng đầu câu)",
+    "type": "other",
+    "explanation": {
+      "content": [
+        "Từ nối",
+        "Ví dụ: しかし、難しいです。 (Tuy nhiên, khó.)"
+      ]
+    }
+  },
+  {
+    "id": "impossible",
+    "kanji": "無理",
+    "hiragana": "むり",
+    "en": "impossible",
+    "vi": "vô lý, không thể",
+    "type": "adjective",
+    "explanation": {
+      "content": [
+        "Tính từ な (な-adjective)",
+        "Ví dụ: 無理な要求です。 (Yêu cầu vô lý.)"
+      ]
+    }
+  },
+  {
+    "id": "goodForHealth",
+    "kanji": "体にいい",
+    "hiragana": "からだにいい",
+    "en": "good for health",
+    "vi": "tốt cho sức khỏe",
+    "type": "adjective",
+    "explanation": {
+      "content": [
+        "Cụm từ chỉ lợi ích",
+        "Ví dụ: 運動は体にいいです。 (Vận động tốt cho sức khỏe.)"
+      ]
+    }
+  },
+  {
+    "id": "cake",
+    "kanji": "ケーキ",
+    "hiragana": "ケーキ",
+    "en": "cake",
+    "vi": "bánh ngọt",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ bánh ngọt (từ mượn)",
+        "Ví dụ: ケーキを食べます。 (Ăn bánh ngọt.)"
+      ]
+    }
+  }
+]

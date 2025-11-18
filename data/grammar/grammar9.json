@@ -1,86 +1,158 @@
 ﻿[
   {
-    "id": "ga-suki",
-    "title": "が - Trợ từ với tính từ cảm xúc",
-    "description": "が dùng với các tính từ cảm xúc như 好き (suki - thích), 嫌い (kirai - ghét), 上手 (jouzu - giỏi), 下手 (heta - kém). Không dùng を với các từ này.",
-    "structure": "Danh từ + が + Tính từ cảm xúc + です",
+    "id": "ga-arimasu-wakarimasu",
+    "title": "N が あります／わかります - Cách sử dụng trợ từ が với một số động từ và tính từ",
+    "description": "Trong những bài trước đã học trợ từ đi với động từ là を hoặc へ. Nhưng trong bài này trợ từ của các động từ あります／わかります là が. Một số tính từ như すき、きらい、じょうず、へた... cũng sử dụng trợ từ が. Động từ あります chỉ sự sở hữu chỉ dùng với đồ vật, không dùng cho người và động vật.",
+    "structure": "N が あります／わかります / N が好 きです／ 嫌 いです／ 上 手 です／下手 です",
     "examples": [
       {
-        "japanese": "私はりんごが好きです。",
-        "romaji": "Watashi wa ringo ga suki desu.",
-        "vietnamese": "Tôi thích táo."
+        "japanese": "わたしは イタリア 料理 が 好 きです。",
+        "romaji": "Watashi wa Itaria ryouri ga suki desu.",
+        "vietnamese": "Tôi thích món ăn Ý."
       },
       {
-        "japanese": "私は魚が嫌いです。",
-        "romaji": "Watashi wa sakana ga kirai desu.",
-        "vietnamese": "Tôi ghét cá."
+        "japanese": "私 の恋人 は 英語 が わかります。",
+        "romaji": "Watashi no koibito wa eigo ga wakarimasu.",
+        "vietnamese": "Người yêu tôi hiểu được tiếng Anh."
       },
       {
-        "japanese": "田中さんは日本語が上手です。",
-        "romaji": "Tanaka-san wa Nihongo ga jouzu desu.",
-        "vietnamese": "Anh Tanaka giỏi tiếng Nhật."
+        "japanese": "田中 さんは バイク が あります。",
+        "romaji": "Tanaka-san wa baiku ga arimasu.",
+        "vietnamese": "Anh Tanaka có xe máy."
       }
     ],
     "notes": [
-      "が dùng với tính từ cảm xúc, không dùng を",
-      "Các tính từ cảm xúc: 好き, 嫌い, 上手, 下手",
-      "Lưu ý: 上手 không dùng để nói về bản thân một cách trực tiếp"
+      "Trợ từ của các động từ あります／わかります là が",
+      "Một số tính từ như すき、きらい、じょうず、へた... cũng sử dụng trợ từ が",
+      "Động từ あります chỉ sự sở hữu chỉ dùng với đồ vật, không dùng cho người và động vật"
     ]
   },
   {
-    "id": "o-verb",
-    "title": "を - Trợ từ với động từ",
-    "description": "を dùng để đánh dấu đối tượng trực tiếp của động từ. Các động từ như 食べます, 飲みます, 見ます, 聞きます đều dùng を.",
-    "structure": "Danh từ + を + Động từ",
+    "id": "donna-n",
+    "title": "どんな N - Cách sử dụng どんな để yêu cầu lựa chọn",
+    "description": "Ngoài cách sử dụng đã học ở bài 8, どんな còn được sử dụng để yêu cầu người nghe lựa chọn 1 thứ trong nhóm mà danh từ sau どんな đưa ra.",
+    "structure": "どんな N",
     "examples": [
       {
-        "japanese": "ご飯を食べます。",
-        "romaji": "Gohan o tabemasu.",
-        "vietnamese": "Ăn cơm."
+        "japanese": "どんな 食 べ物 が 好 きですか。",
+        "romaji": "Donna tabemono ga suki desu ka?",
+        "vietnamese": "Bạn thích đồ ăn thế nào?"
       },
       {
-        "japanese": "コーヒーを飲みます。",
-        "romaji": "Koohii o nomimasu.",
-        "vietnamese": "Uống cà phê."
+        "japanese": "... 魚 が 好 きです。",
+        "romaji": "...Sakana ga suki desu.",
+        "vietnamese": "... Tôi thích cá."
       },
       {
-        "japanese": "テレビを見ます。",
-        "romaji": "Terebi o mimasu.",
-        "vietnamese": "Xem TV."
+        "japanese": "どんなスポーツが 上手 ですか。",
+        "romaji": "Donna supootsu ga jouzu desu ka?",
+        "vietnamese": "Bạn giỏi môn thể thao nào?"
+      },
+      {
+        "japanese": "... テニスが 上手 です。",
+        "romaji": "...Tenisu ga jouzu desu.",
+        "vietnamese": "... Tôi giỏi Tennis."
       }
     ],
     "notes": [
-      "を đánh dấu đối tượng trực tiếp của động từ",
-      "Các động từ: 食べます, 飲みます, 見ます, 聞きます, 読みます, 書きます, 買います, 撮ります"
+      "どんな còn được sử dụng để yêu cầu người nghe lựa chọn 1 thứ trong nhóm mà danh từ sau どんな đưa ra"
     ]
   },
   {
-    "id": "i-adjective",
-    "title": "い-adjective - Tính từ đuôi い",
-    "description": "い-adjective là tính từ kết thúc bằng い. Các tính từ như おいしい (oishii - ngon), 甘い (amai - ngọt) đều là い-adjective.",
-    "structure": "Danh từ + は + い-adjective + です",
+    "id": "adverbs",
+    "title": "よく／だいたい／たくさん／少 し／あまり／全然 - Các phó từ chỉ mức độ",
+    "description": "Đây là các phó từ đặt trước động từ/ tính từ để chỉ mức độ của chúng. Các phó từ あまり、ぜんぜん thường sử dụng với thể phủ định.",
+    "structure": "よく／だいたい／たくさん／少 し／あまり／全然 + Động từ/Tính từ",
     "examples": [
       {
-        "japanese": "この料理はおいしいです。",
-        "romaji": "Kono ryouri wa oishii desu.",
-        "vietnamese": "Món ăn này ngon."
+        "japanese": "日本語 が よく わかります。",
+        "romaji": "Nihongo ga yoku wakarimasu.",
+        "vietnamese": "Tôi rất giỏi tiếng Nhật."
       },
       {
-        "japanese": "このケーキは甘いです。",
-        "romaji": "Kono keeki wa amai desu.",
-        "vietnamese": "Cái bánh này ngọt."
+        "japanese": "英語 が だいたい わかります。",
+        "romaji": "Eigo ga daitai wakarimasu.",
+        "vietnamese": "Tôi biết tiếng Anh cũng đại khái thôi."
       },
       {
-        "japanese": "このコーヒーは熱いです。",
-        "romaji": "Kono koohii wa atsui desu.",
-        "vietnamese": "Cà phê này nóng."
+        "japanese": "フランス語 が あまり わかりません。",
+        "romaji": "Furansu-go ga amari wakarimasen.",
+        "vietnamese": "Tôi không biết tiếng Pháp nhiều lắm."
+      },
+      {
+        "japanese": "お金 が たくさん あります。",
+        "romaji": "Okane ga takusan arimasu.",
+        "vietnamese": "Tôi có nhiều tiền."
+      },
+      {
+        "japanese": "きょうは すこし 寒 いです。",
+        "romaji": "Kyou wa sukoshi samui desu.",
+        "vietnamese": "Hôm nay hơi lạnh."
       }
     ],
     "notes": [
-      "い-adjective kết thúc bằng い",
-      "Dạng phủ định: bỏ い + くないです",
-      "Dạng quá khứ: bỏ い + かったです",
-      "Lưu ý: きれい (kirei - đẹp) là な-adjective, không phải い-adjective"
+      "Đây là các phó từ đặt trước động từ/ tính từ để chỉ mức độ của chúng",
+      "Các phó từ あまり、ぜんぜん thường sử dụng với thể phủ định"
+    ]
+  },
+  {
+    "id": "kara-reason",
+    "title": "S1 から、 S2 - Cách nói lý do",
+    "description": "Vì S1 nên S2. から để nối 2 câu có mối quan hệ nhân quả. から được đặt sau câu chỉ nguyên nhân.",
+    "structure": "S1 から、 S2",
+    "examples": [
+      {
+        "japanese": "時間 が ありませんから 、 テレビを 見 ません。",
+        "romaji": "Jikan ga arimasen kara, terebi o mimasen.",
+        "vietnamese": "Vì không có thời gian nên tôi không xem ti vi."
+      },
+      {
+        "japanese": "スポーツが 好 きですから 、 毎日 します。",
+        "romaji": "Supootsu ga suki desu kara, mainichi shimasu.",
+        "vietnamese": "Vì thích thể thao, nên ngày nào tôi cũng chơi."
+      }
+    ],
+    "notes": [
+      "から để nối 2 câu có mối quan hệ nhân quả",
+      "から được đặt sau câu chỉ nguyên nhân"
+    ]
+  },
+  {
+    "id": "doushite",
+    "title": "どうして＋ Sentence か - Câu hỏi lý do, nguyên nhân",
+    "description": "Tại sao ~. どうして là từ để hỏi lý do. Câu trả lời sẽ thêm から vào cuối câu. Câu hỏi どうしてですか。 Là câu hỏi lý do chung nghĩa là \"Tại sao lại thế?\"",
+    "structure": "どうして＋ Sentence か",
+    "examples": [
+      {
+        "japanese": "どうして しゅくだいをしませんか。",
+        "romaji": "Doushite shukudai o shimasen ka?",
+        "vietnamese": "Vì sao bạn không làm bài tập?"
+      },
+      {
+        "japanese": "...時間 が ありませんから 。",
+        "romaji": "...Jikan ga arimasen kara.",
+        "vietnamese": "Vì tôi không có thời gian."
+      },
+      {
+        "japanese": "あしたは 会社 を 休 みます。",
+        "romaji": "Ashita wa kaisha o yasumimasu.",
+        "vietnamese": "Ngày mai tôi sẽ nghỉ làm"
+      },
+      {
+        "japanese": "...どうしてですか。",
+        "romaji": "...Doushite desu ka?",
+        "vietnamese": "... Tại sao thế?"
+      },
+      {
+        "japanese": "ようじが ありますから 。",
+        "romaji": "Youji ga arimasu kara.",
+        "vietnamese": "Vì tôi có việc."
+      }
+    ],
+    "notes": [
+      "どうして là từ để hỏi lý do",
+      "Câu trả lời sẽ thêm から vào cuối câu",
+      "Câu hỏi どうしてですか。 Là câu hỏi lý do chung nghĩa là \"Tại sao lại thế?\""
     ]
   }
 ]

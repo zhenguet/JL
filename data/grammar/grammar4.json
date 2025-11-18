@@ -1,86 +1,254 @@
 ﻿[
   {
-    "id": "de-particle",
-    "title": "で - Trợ từ chỉ nơi chốn, phương tiện",
-    "description": "で có nhiều cách dùng: chỉ nơi chốn xảy ra hành động, chỉ phương tiện di chuyển, chỉ công cụ sử dụng.",
-    "structure": "Danh từ + で + Động từ",
+    "id": "ima-ji-fun",
+    "title": "今 ～ 時 ～ 分 です - Bây giờ là ~ giờ ~ phút",
+    "description": "じ đặt sau số đếm, dùng chỉ giờ. ふん（ぷん） đặt sau số đếm, dùng chỉ phút. ～じはん: Sử dụng khi nói giờ rưỡi.",
+    "structure": "今 ～ 時 ～ 分 です",
     "examples": [
       {
-        "japanese": "図書館で本を読みます。",
-        "romaji": "Toshokan de hon o yomimasu.",
-        "vietnamese": "Đọc sách ở thư viện."
+        "japanese": "今 ８じです。",
+        "romaji": "Ima hachiji desu.",
+        "vietnamese": "Bây giờ là 8 giờ."
       },
       {
-        "japanese": "電車で学校へ行きます。",
-        "romaji": "Densha de gakkou e ikimasu.",
-        "vietnamese": "Đi đến trường bằng tàu điện."
+        "japanese": "とうきょうは 今 ９ 時 ３０ 分 です。",
+        "romaji": "Toukyou wa ima kuji sanjuu pun desu.",
+        "vietnamese": "Tokyo bây giờ là 9 giờ 30 phút."
       },
       {
-        "japanese": "レストランで食事をします。",
-        "romaji": "Resutoran de shokuji o shimasu.",
-        "vietnamese": "Ăn ở nhà hàng."
+        "japanese": "いま ９ 時 半 です。",
+        "romaji": "Ima kuji han desu.",
+        "vietnamese": "Bây giờ là 9 rưỡi."
+      },
+      {
+        "japanese": "今 なんじ（なんぷん）ですか",
+        "romaji": "Ima nanji (nanpun) desu ka?",
+        "vietnamese": "Bây giờ là mấy giờ (mấy phút)?"
       }
     ],
     "notes": [
-      "で chỉ nơi chốn xảy ra hành động (khác với に chỉ đích đến)",
-      "で chỉ phương tiện di chuyển",
-      "で chỉ công cụ, phương tiện sử dụng"
+      "じ đặt sau số đếm, dùng chỉ giờ",
+      "ふん（ぷん） đặt sau số đếm, dùng chỉ phút",
+      "～じはん: Sử dụng khi nói giờ rưỡi",
+      "なんじ（なんぷん）ですか - Dùng để hỏi giờ giấc",
+      "Bảng đếm giờ: れいじ (0h), いちじ (1h), にじ (2h), さんじ (3h), よじ (4h), ごじ (5h), ろくじ (6h), しちじ (7h), はちじ (8h), くじ (9h), じゅうじ (10h), じゅういちじ (11h), じゅうにじ (12h)",
+      "Bảng đếm phút: いっぷん (1), にふん (2), さんぷん (3), よんぷん (4), ごふん (5), ろっぷん (6), ななふん (7), はっぷん (8), きゅうふん (9), じゅっぷん/じっぷん (10), にじゅっぷん/にじっぷん (20), さんじゅっぷん/さんじっぷん (30), よんじゅっぷん/よんじっぷん (40), ごじゅっぷん/ごじっぷん (50), なんぷん (?)",
+      "ごぜん (a.m), ごご (p.m)"
+    ]
+  },
+  {
+    "id": "youbi",
+    "title": "N (danh từ chỉ ngày) は ～曜日 です - N là thứ ~",
+    "description": "Cách nói thứ ngày tháng. Dùng để nói về thứ trong tuần.",
+    "structure": "N (danh từ chỉ ngày) は ～曜日 です",
+    "examples": [
+      {
+        "japanese": "今日 は 火 曜日 です。",
+        "romaji": "Kyou wa kayoubi desu.",
+        "vietnamese": "Hôm nay là thứ ba."
+      },
+      {
+        "japanese": "明日 は水 曜日 です。",
+        "romaji": "Ashita wa suiyoubi desu.",
+        "vietnamese": "Ngày mai là thứ tư."
+      },
+      {
+        "japanese": "あさっては木 曜日 です。",
+        "romaji": "Asatte wa mokuyoubi desu.",
+        "vietnamese": "Ngày kia là thứ năm."
+      },
+      {
+        "japanese": "あさっては何 曜日ですか。",
+        "romaji": "Asatte wa nan youbi desu ka?",
+        "vietnamese": "Ngày kia là thứ mấy?"
+      },
+      {
+        "japanese": "… 土 曜日です。",
+        "romaji": "...Doyoubi desu.",
+        "vietnamese": "Thứ bẩy."
+      }
+    ],
+    "notes": [
+      "N (danh từ chỉ ngày) は 何 曜日 ですか - N là thứ mấy?"
+    ]
+  },
+  {
+    "id": "verb-masu-form",
+    "title": "V ます - Động từ dạng ます",
+    "description": "～ます là một dạng động từ, biểu thị thái độ lịch sự với người nghe, thể hiện một hành động ở thì hiện tại hoặc tương lai.",
+    "structure": "V ます",
+    "examples": [
+      {
+        "japanese": "あした はたらきます。",
+        "romaji": "Ashita hatarakimasu.",
+        "vietnamese": "Ngày mai tôi sẽ làm việc."
+      },
+      {
+        "japanese": "まいばん べんきょうします。",
+        "romaji": "Maiban benkyou shimasu.",
+        "vietnamese": "Hàng ngày tôi đều học bài."
+      }
+    ],
+    "notes": [
+      "～ます là một dạng động từ, biểu thị thái độ lịch sự với người nghe",
+      "Thể hiện một hành động ở thì hiện tại hoặc tương lai"
+    ]
+  },
+  {
+    "id": "verb-conjugation",
+    "title": "V ます／V ません／V ました／V ませんでした - Cách chia thời của động từ",
+    "description": "Cách chia thể (khẳng định, phủ định) và thời (hiện tại, quá khứ, tương lai) của động từ dạng ～ます được thể hiện ở bảng sau: Quá khứ - Khẳng định: ました, Phủ định: ませんでした; Hiện tại/ Tương lai - Khẳng định: ます, Phủ định: ません",
+    "structure": "V ます／V ません／V ました／V ませんでした",
+    "examples": [
+      {
+        "japanese": "まいあさ べんきょうします。",
+        "romaji": "Maiasa benkyou shimasu.",
+        "vietnamese": "Hàng ngày tôi đều học bài."
+      },
+      {
+        "japanese": "あした べんきょうしません。",
+        "romaji": "Ashita benkyou shimasen.",
+        "vietnamese": "Ngày mai tôi sẽ không học bài."
+      },
+      {
+        "japanese": "きのう べんきょうしました。",
+        "romaji": "Kinou benkyou shimashita.",
+        "vietnamese": "Hôm qua tôi đã học bài."
+      },
+      {
+        "japanese": "おととい べんきょうしませんでした。",
+        "romaji": "Ototoi benkyou shimasen deshita.",
+        "vietnamese": "Hôm kia tôi đã không học bài."
+      }
+    ],
+    "notes": [
+      "Quá khứ - Khẳng định: ました, Phủ định: ませんでした",
+      "Hiện tại/ Tương lai - Khẳng định: ます, Phủ định: ません"
+    ]
+  },
+  {
+    "id": "time-ni-verb",
+    "title": "N (chỉ thời gian) に＋ V ます - Cách nói 1 hành động xảy ra vào 1 thời điểm",
+    "description": "Làm gì vào lúc nào. Để chỉ thời điểm tiến hành một hành động ta thêm trợ từ に sau danh từ chỉ thời gian. Chú ý: nếu thời gian không biểu hiện bằng những con số thì không thêm に. Tuy nhiên, sau danh từ là các thứ trong tuần ta có thể có に hay không đều được.",
+    "structure": "N (chỉ thời gian) に＋ V ます",
+    "examples": [
+      {
+        "japanese": "わたしは まいあさ 6 時に おきます。",
+        "romaji": "Watashi wa maiasa roku-ji ni okimasu.",
+        "vietnamese": "Hàng sáng tôi dậy lúc 6 giờ."
+      },
+      {
+        "japanese": "きのうの 7 時に ねました。",
+        "romaji": "Kinou no shichi-ji ni nemashita.",
+        "vietnamese": "Hôm qua tôi ngủ lúc 7 giờ."
+      },
+      {
+        "japanese": "あした に はたらきます。",
+        "romaji": "Ashita ni hatarakimasu.",
+        "vietnamese": "Ngày mai tôi sẽ làm việc."
+      },
+      {
+        "japanese": "日曜日（に）べんきょうしません。",
+        "romaji": "Nichiyoubi (ni) benkyou shimasen.",
+        "vietnamese": "Chủ nhật tôi thường không học bài."
+      }
+    ],
+    "notes": [
+      "Để chỉ thời điểm tiến hành một hành động ta thêm trợ từ に sau danh từ chỉ thời gian",
+      "Nếu thời gian không biểu hiện bằng những con số thì không thêm に",
+      "Sau danh từ là các thứ trong tuần ta có thể có に hay không đều được"
     ]
   },
   {
     "id": "kara-made",
-    "title": "から・まで - Từ... đến...",
-    "description": "から chỉ điểm bắt đầu, まで chỉ điểm kết thúc. Dùng để chỉ khoảng thời gian hoặc khoảng cách.",
-    "structure": "Danh từ + から + Danh từ + まで",
+    "title": "～から～まで - Từ ~ đến ~",
+    "description": "Từ ~ đến ~. Trợ từ から biểu thị điểm bắt đầu của thời gian hay nơi chốn, trợ từ まで biểu thị điểm kết thúc của thời gian hay nơi chốn. から và まで không nhất thiết phải sử dụng cùng nhau. Không giống như に phải có động từ đi sau, ta có thể sử dụng です ngay sau～から、～まで hay ～から～まで.",
+    "structure": "～から～まで",
     "examples": [
       {
-        "japanese": "月曜日から金曜日まで働きます。",
-        "romaji": "Getsuyoubi kara Kinyoubi made hatarakimasu.",
-        "vietnamese": "Làm việc từ thứ Hai đến thứ Sáu."
+        "japanese": "８ 時 半 から 5時 半 まではたらきます。",
+        "romaji": "Hachiji han kara goji han made hatarakimasu.",
+        "vietnamese": "Tôi làm việc từ 8 rưỡi đến 5 rưỡi."
       },
       {
-        "japanese": "九時から五時まで勉強します。",
-        "romaji": "Kuji kara goji made benkyou shimasu.",
-        "vietnamese": "Học từ 9 giờ đến 5 giờ."
+        "japanese": "９ 時 から べんきょうします。",
+        "romaji": "Kuji kara benkyou shimasu.",
+        "vietnamese": "Tôi học từ 9 giờ."
       },
       {
-        "japanese": "東京から大阪まで行きます。",
-        "romaji": "Toukyou kara Oosaka made ikimasu.",
-        "vietnamese": "Đi từ Tokyo đến Osaka."
+        "japanese": "５ 時 まで べんきょうします。",
+        "romaji": "Goji made benkyou shimasu.",
+        "vietnamese": "Tôi học đến 5 giờ."
+      },
+      {
+        "japanese": "こうぎは ８ 時 半 から １１ 時 半 までです。",
+        "romaji": "Kougi wa hachiji han kara juuichiji han made desu.",
+        "vietnamese": "Bài giảng sẽ từ 8 rưỡi đến 11 rưỡi."
+      },
+      {
+        "japanese": "日 本 語 のべんきょうは ８ 時 から ４ 時 までです。",
+        "romaji": "Nihongo no benkyou wa hachiji kara yoji made desu.",
+        "vietnamese": "Học tiếng Nhật từ 8 giờ đến 4 giờ."
+      },
+      {
+        "japanese": "A: 何 時 から 何 時 まで はたらきますか。",
+        "romaji": "A: Nanji kara nanji made hatarakimasu ka?",
+        "vietnamese": "A: Bạn làm việc từ mấy giờ đến mấy giờ?"
+      },
+      {
+        "japanese": "B: ７じはんから ５ じはんまでです。",
+        "romaji": "B: Shichiji han kara goji han made desu.",
+        "vietnamese": "B: Từ 7 rưỡi đến 5 rưỡi."
       }
     ],
     "notes": [
-      "から chỉ điểm bắt đầu",
-      "まで chỉ điểm kết thúc",
-      "Có thể dùng riêng から hoặc まで"
+      "から biểu thị điểm bắt đầu của thời gian hay nơi chốn",
+      "まで biểu thị điểm kết thúc của thời gian hay nơi chốn",
+      "から và まで không nhất thiết phải sử dụng cùng nhau",
+      "Có thể sử dụng です ngay sau～から、～まで hay ～から～まで"
     ]
   },
   {
-    "id": "to-particle",
-    "title": "と - Trợ từ \"và\", \"với\"",
-    "description": "と có hai cách dùng chính: nối liệt kê các danh từ (nghĩa là \"và\"), chỉ đối tượng cùng hành động (nghĩa là \"với\").",
-    "structure": "Danh từ + と + Danh từ / と + Động từ",
+    "id": "n1-to-n2",
+    "title": "N1 と N2 - N1 và, với, cùng với N2",
+    "description": "N1 và, với, cùng với N2. Trợ từ と dùng để nối 2 danh từ.",
+    "structure": "N1 と N2",
     "examples": [
       {
-        "japanese": "月曜日と水曜日に日本語を勉強します。",
-        "romaji": "Getsuyoubi to Suiyoubi ni Nihongo o benkyou shimasu.",
-        "vietnamese": "Học tiếng Nhật vào thứ Hai và thứ Tư."
-      },
-      {
-        "japanese": "友達と一緒に映画を見ます。",
-        "romaji": "Tomodachi to issho ni eiga o mimasu.",
-        "vietnamese": "Xem phim cùng với bạn."
-      },
-      {
-        "japanese": "本とペンを持っています。",
-        "romaji": "Hon to pen o motte imasu.",
-        "vietnamese": "Có sách và bút."
+        "japanese": "ぎんこうの休 みは 土 曜日 と 日 曜日 です。",
+        "romaji": "Ginkou no yasumi wa doyoubi to nichiyoubi desu.",
+        "vietnamese": "Buổi nghỉ của ngân hàng là thứ 7 và CN."
       }
     ],
     "notes": [
-      "と nối liệt kê danh từ (nghĩa là \"và\")",
-      "と chỉ đối tượng cùng hành động (nghĩa là \"với\")",
-      "一緒に (issho ni) nghĩa là \"cùng nhau\""
+      "Trợ từ と dùng để nối 2 danh từ"
+    ]
+  },
+  {
+    "id": "ne-particle",
+    "title": "(câu văn) ～ね - Trợ từ ね",
+    "description": "ね Được đặt ở cuối câu để truyền đạt cho người nghe tình cảm của mình hoặc kỳ vọng người nghe đồng ý với những gì mình nói. ね sẽ được phát âm dài và giọng xuống thấp.",
+    "structure": "(câu văn) ～ね",
+    "examples": [
+      {
+        "japanese": "A: 何 時 から 何 時 まで はたらきますか。",
+        "romaji": "A: Nanji kara nanji made hatarakimasu ka?",
+        "vietnamese": "A: Bạn làm việc từ mấy giờ đến mấy giờ?"
+      },
+      {
+        "japanese": "B: ７じはんから ５ じはんまでです。",
+        "romaji": "B: Shichiji han kara goji han made desu.",
+        "vietnamese": "B: Từ 7 rưỡi đến 5 rưỡi."
+      },
+      {
+        "japanese": "A: たいへんですね。",
+        "romaji": "A: Taihen desu ne.",
+        "vietnamese": "A: Bạn vất vả nhỉ!"
+      }
+    ],
+    "notes": [
+      "ね Được đặt ở cuối câu để truyền đạt cho người nghe tình cảm của mình hoặc kỳ vọng người nghe đồng ý với những gì mình nói",
+      "ね sẽ được phát âm dài và giọng xuống thấp"
     ]
   }
 ]

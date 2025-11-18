@@ -1,25 +1,169 @@
 ﻿[
   {
-    "id": "te-form",
-    "title": "て形 - Thể te",
-    "description": "Thể te của động từ dùng để nối các hành động, yêu cầu, mời mọc. Cách tạo thể te khác nhau tùy theo nhóm động từ.",
-    "structure": "Động từ (thể te) + て + Động từ",
+    "id": "verb-groups",
+    "title": "Các nhóm của động từ",
+    "description": "Động từ trong tiếng Nhật được chia làm 3 nhóm theo cách chia sang các thể của chúng. (1) Nhóm 1: Bao gồm các động từ đứng trước đuôi ます là các chữ cái thuộc hàng \"i\" (ví dụ: かきます、のみます). (2) Nhóm 2: Hầu hết các động từ thuộc nhóm này có dạng đứng trước đuôi ます là các chữ cái thuộc hàng \"e\" (ví dụ: たべます、みせます). Tuy nhiên cũng có một số động từ đứng trước đuôi ます là các chữ cái thuộc hàng \"i\" (ví dụ: みます、おきます). (3) Nhóm 3: Bao gồm 2 động từ: します(làm) きます(đến)",
+    "structure": "Nhóm 1 / Nhóm 2 / Nhóm 3",
     "examples": [
       {
-        "japanese": "本を読んで、テレビを見ます。",
-        "romaji": "Hon o yonde, terebi o mimasu.",
-        "vietnamese": "Đọc sách và xem TV."
+        "japanese": "かきます (Nhóm 1)",
+        "romaji": "kakimasu",
+        "vietnamese": "viết"
       },
       {
-        "japanese": "手を洗って、食事をします。",
-        "romaji": "Te o aratte, shokuji o shimasu.",
-        "vietnamese": "Rửa tay và ăn cơm."
+        "japanese": "たべます (Nhóm 2)",
+        "romaji": "tabemasu",
+        "vietnamese": "ăn"
+      },
+      {
+        "japanese": "します (Nhóm 3)",
+        "romaji": "shimasu",
+        "vietnamese": "làm"
       }
     ],
     "notes": [
-      "Nhóm I: い → って, き → いて, ぎ → いで, び/み/に → んで",
-      "Nhóm II: bỏ ます + て",
-      "Nhóm III: します → して, きます → きて"
+      "Nhóm 1: Động từ đứng trước đuôi ます là các chữ cái thuộc hàng \"i\"",
+      "Nhóm 2: Hầu hết có dạng đứng trước đuôi ます là các chữ cái thuộc hàng \"e\", nhưng cũng có một số thuộc hàng \"i\"",
+      "Nhóm 3: Bao gồm します và きます"
+    ]
+  },
+  {
+    "id": "te-form-conjugation",
+    "title": "Thể て của động từ",
+    "description": "Các động từ kết thúc bằng て、で được gọi là thể て. Cách chia của thể て phụ thuộc vào các nhóm động từ. Khi chia sang thể て, ý nghĩa của động từ không thay đổi. Thể て là 1 thể của động từ, dùng để cấu thành các mẫu câu khác nhau.",
+    "structure": "V て",
+    "examples": [
+      {
+        "japanese": "かきます → かいて",
+        "romaji": "kakimasu → kaite",
+        "vietnamese": "viết"
+      },
+      {
+        "japanese": "いそぎます → いそいで",
+        "romaji": "isogimasu → isoide",
+        "vietnamese": "vội"
+      },
+      {
+        "japanese": "のみます → のんで",
+        "romaji": "nomimasu → nonde",
+        "vietnamese": "uống"
+      },
+      {
+        "japanese": "かいます → かって",
+        "romaji": "kaimasu → katte",
+        "vietnamese": "mua"
+      },
+      {
+        "japanese": "いきます → いって",
+        "romaji": "ikimasu → itte",
+        "vietnamese": "đi"
+      },
+      {
+        "japanese": "たべます → たべて",
+        "romaji": "tabemasu → tabete",
+        "vietnamese": "ăn"
+      },
+      {
+        "japanese": "みます → みて",
+        "romaji": "mimasu → mite",
+        "vietnamese": "xem"
+      },
+      {
+        "japanese": "べんきょうします → べんきょうして",
+        "romaji": "benkyou shimasu → benkyou shite",
+        "vietnamese": "học"
+      },
+      {
+        "japanese": "きます → きて",
+        "romaji": "kimasu → kite",
+        "vietnamese": "đến"
+      }
+    ],
+    "notes": [
+      "Nhóm 1: V きます → V いて (かきます → かいて), V ぎます → V いで (いそぎます → いそいで), V みます/びます/にます → V んで (のみます → のんで, よみます → よんで, しにます → しんで), V います/ります/ちます → V って (かいます → かって, いいます → いって, いきます → いって), V します → V して (かします → かして)",
+      "Nhóm 2: V (e)ます → V (e)て (たべます → たべて), V (i)ます → V (i)て (みます → みて, おきます → おきて)",
+      "Nhóm 3: します → して (N します → N して), きます → きて",
+      "Khi chia sang thể て, ý nghĩa của động từ không thay đổi"
+    ]
+  },
+  {
+    "id": "te-kudasai",
+    "title": "V てください - Câu nói sai khiến, nhờ vả lịch sự",
+    "description": "Hãy làm ~, Vui lòng làm ~. Động từ để thể て thêm ください. Mẫu câu này dùng khi yêu cầu, nhờ ai đó làm gì một cách lịch sự.",
+    "structure": "V てください",
+    "examples": [
+      {
+        "japanese": "ちょっと 待 っ てください。",
+        "romaji": "Chotto matte kudasai.",
+        "vietnamese": "Vui lòng/Xin hãy chờ một chút."
+      },
+      {
+        "japanese": "辞書 を 貸 してください。",
+        "romaji": "Jisho o kashite kudasai.",
+        "vietnamese": "Vui lòng/Hãy cho tôi mượn quyển từ điển"
+      },
+      {
+        "japanese": "ゆっくり 言 っ てください。",
+        "romaji": "Yukkuri itte kudasai.",
+        "vietnamese": "Vui lòng/Hãy nói chậm lại."
+      }
+    ],
+    "notes": [
+      "Động từ để thể て thêm ください",
+      "Mẫu câu này dùng khi yêu cầu, nhờ ai đó làm gì một cách lịch sự"
+    ]
+  },
+  {
+    "id": "te-imasu",
+    "title": "V ています - Cách thể hiện thời tiếp diễn",
+    "description": "Đang làm ~. Động từ thể て thêm います. Mẫu câu này dùng để diễn tả một hành động đang diễn ra tại thời điểm nói.",
+    "structure": "V ています",
+    "examples": [
+      {
+        "japanese": "田中 さんは 今 日本語 を勉強 しています。",
+        "romaji": "Tanaka-san wa ima Nihongo o benkyou shite imasu.",
+        "vietnamese": "Bạn Tanaka đang học tiếng Nhật."
+      },
+      {
+        "japanese": "今 雨 が 降 っ ています。",
+        "romaji": "Ima ame ga futte imasu.",
+        "vietnamese": "Bây giờ trời đang mưa."
+      }
+    ],
+    "notes": [
+      "Động từ thể て thêm います",
+      "Mẫu câu này dùng để diễn tả một hành động đang diễn ra tại thời điểm nói"
+    ]
+  },
+  {
+    "id": "verb-mashou-ka",
+    "title": "V（thể ます）しょうか - Cách thể hiện 1 lời đề nghị được làm giúp ai đó việc gì",
+    "description": "Sử dụng khi người nói ngỏ ý làm gì đó giúp cho người nghe",
+    "structure": "V（thể ます）しょうか",
+    "examples": [
+      {
+        "japanese": "タクシーを よびましょうか。",
+        "romaji": "Takushii o yobimashou ka?",
+        "vietnamese": "Tôi gọi taxi cho bạn nhé!"
+      },
+      {
+        "japanese": "...すみません。おねがいします。",
+        "romaji": "...Sumimasen. Onegai shimasu.",
+        "vietnamese": "...Xin lỗi. Bạn giúp tôi nhé!"
+      },
+      {
+        "japanese": "荷物 を 持 ちましょうか。",
+        "romaji": "Nimotsu o mochimashou ka?",
+        "vietnamese": "Tôi cầm hành lý giúp bạn nhé!"
+      },
+      {
+        "japanese": "...いいえ、けっこうです。",
+        "romaji": "...Iie, kekkou desu.",
+        "vietnamese": "...Không, tôi làm được rồi."
+      }
+    ],
+    "notes": [
+      "Sử dụng khi người nói ngỏ ý làm gì đó giúp cho người nghe"
     ]
   }
 ]

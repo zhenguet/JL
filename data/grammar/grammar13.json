@@ -1,24 +1,152 @@
 ﻿[
   {
-    "id": "ga-kakaru",
-    "title": "が - Với かかります",
-    "description": "かかります (mất, tốn) dùng với trợ từ が để chỉ thời gian hoặc tiền bạc cần thiết.",
-    "structure": "Thời gian/Tiền + が + かかります",
+    "id": "ga-hoshii",
+    "title": "（私 は） N が ほしいです - Cách thể hiện mong muốn (muốn có cái gì)",
+    "description": "(Tôi) muốn/ muốn có/ mong có N. Dùng để nói về ước muốn, ham thích của người nói. ほしい là tính từ đuôi い. ほしいです hay ～たいです không sử dụng để nói về mong muốn của người thứ ba.",
+    "structure": "（私 は） N が ほしいです",
     "examples": [
       {
-        "japanese": "学校まで一時間かかります。",
-        "romaji": "Gakkou made ichijikan kakarimasu.",
-        "vietnamese": "Mất một giờ để đến trường."
+        "japanese": "私 は カメラ が ほしいです。",
+        "romaji": "Watashi wa kamera ga hoshii desu.",
+        "vietnamese": "Tôi muốn có máy ảnh."
       },
       {
-        "japanese": "この本は千円かかります。",
-        "romaji": "Kono hon wa sen en kakarimasu.",
-        "vietnamese": "Cuốn sách này tốn 1000 yên."
+        "japanese": "私 は 友達 が ほしいです。",
+        "romaji": "Watashi wa tomodachi ga hoshii desu.",
+        "vietnamese": "Tôi muốn có bạn bè."
+      },
+      {
+        "japanese": "私 は 子供 が ほしくないです。",
+        "romaji": "Watashi wa kodomo ga hoshikunai desu.",
+        "vietnamese": "Tôi không muốn có con."
+      },
+      {
+        "japanese": "誕生日 に 何 が ほしいですか。",
+        "romaji": "Tanjoubi ni nani ga hoshii desu ka?",
+        "vietnamese": "Vào ngày sinh nhật bạn thích gì?"
+      },
+      {
+        "japanese": "...時計 が ほしいです。",
+        "romaji": "...Tokei ga hoshii desu.",
+        "vietnamese": "...Tôi muốn cái đồng hồ."
+      },
+      {
+        "japanese": "今 何 が いちばん ほしいですか。",
+        "romaji": "Ima nani ga ichiban hoshii desu ka?",
+        "vietnamese": "Bây giờ bạn muốn cái gì nhất?"
+      },
+      {
+        "japanese": "...パソコンが ほしいです。",
+        "romaji": "...Pasokon ga hoshii desu.",
+        "vietnamese": "...Tôi muốn có máy tính."
       }
     ],
     "notes": [
-      "かかります dùng với が",
-      "Có thể chỉ thời gian hoặc tiền bạc"
+      "Dùng để nói về ước muốn, ham thích của người nói",
+      "ほしい là tính từ đuôi い",
+      "何な にが ほしいですか - Bạn mong muốn, muốn có cái gì?",
+      "ほしいです không sử dụng để nói về mong muốn của người thứ ba"
+    ]
+  },
+  {
+    "id": "wo-ga-verb-tai",
+    "title": "（私は） N を V-ます＋たいです - Cách thể hiện mong muốn làm gì đó",
+    "description": "(Tôi) thích, muốn làm ~. Câu này thể hiện mong muốn làm việc gì đó của người nói. Có thể dùng trợ từ を hoặc が (が dùng nhiều hơn). Các trợ từ khác（に、へ、と…） giữ nguyên, không thay đổi. Động từ thể ます+たい được coi như một tính từ đuôi い. Vì thế, cách biến đổi sang thể phủ định hay quá khứ đều giống với tính từ đuôi い. ほしいです hay ～たいです không sử dụng để nói về mong muốn của người thứ ba.",
+    "structure": "（私は） N を V-ます＋たいです",
+    "examples": [
+      {
+        "japanese": "私 は 日本 へ 行 きたいです。",
+        "romaji": "Watashi wa Nihon e ikitai desu.",
+        "vietnamese": "Tôi muốn đi Nhật"
+      },
+      {
+        "japanese": "私 は 自動車 を（が） 買 いたいです。",
+        "romaji": "Watashi wa jidousha o (ga) kaitai desu.",
+        "vietnamese": "Tôi muốn mua ô tô"
+      },
+      {
+        "japanese": "今 、 何 を 食 べたいですか。",
+        "romaji": "Ima, nani o tabetai desu ka?",
+        "vietnamese": "Bây giờ, bạn muốn ăn gì?"
+      },
+      {
+        "japanese": "...何 も 食 べたくないです。",
+        "romaji": "...Nani mo tabetakunai desu.",
+        "vietnamese": "…Tôi chả muốn ăn gì cả"
+      }
+    ],
+    "notes": [
+      "Thể ます của động từ: Là thể của động từ khi bỏ đuôi ます (ví dụ: かいます → かい, たべます → たべ, よみます → よみ)",
+      "Có thể dùng trợ từ を hoặc が (が dùng nhiều hơn)",
+      "Các trợ từ khác（に、へ、と…） giữ nguyên, không thay đổi",
+      "Động từ thể ます+たい được coi như một tính từ đuôi い",
+      "Cách biến đổi sang thể phủ định hay quá khứ đều giống với tính từ đuôi い",
+      "～たいです không sử dụng để nói về mong muốn của người thứ ba"
+    ]
+  },
+  {
+    "id": "place-e-verb-ni-ikimasu",
+    "title": "N (Địa điểm)へ V-ます/に 行 きます/来 ます/帰 ります - Đi/đến/về N để làm ~",
+    "description": "Đi/đến/về N để làm ~. Đây là mẫu câu sử dụng để nói về mục đích đi đến/ về đâu đó để thực hiện hành động nào đó. Động từ chỉ mục đích để thể ます, danh từ chỉ mục đích là những danh động từ. Danh từ trước に cũng có thể là các sự kiện như lễ hội, buổi hòa nhạc... Khi đó, ý của người nói là việc xem hay tham gia vào sự kiện đó.",
+    "structure": "N (Địa điểm)へ V-ます/に 行 きます/来 ます/帰 ります",
+    "examples": [
+      {
+        "japanese": "私 は スーパーへ 服 を買 いに 行 きました。",
+        "romaji": "Watashi wa suupaa e fuku o kai ni ikimashita.",
+        "vietnamese": "(Tôi đã đi siêu thị (để) mua quần áo)"
+      },
+      {
+        "japanese": "田中 さんは 日本 へ 日本語 を 勉 強 しに 来 ました。",
+        "romaji": "Tanaka-san wa Nihon e Nihongo o benkyou shi ni kimashita.",
+        "vietnamese": "(Anh Tanaka đến Nhật (để) học tiếng Nhật)"
+      },
+      {
+        "japanese": "田中 さんは 日本 へ 日本語 の 勉 強 に 来 ました。",
+        "romaji": "Tanaka-san wa Nihon e Nihongo no benkyou ni kimashita.",
+        "vietnamese": "(Anh Tanaka đến Nhật (để) học tiếng Nhật)"
+      },
+      {
+        "japanese": "Giang Vo へ 桜 の祭 りに 行 きました。",
+        "romaji": "Giang Vo e sakura no matsuri ni ikimashita.",
+        "vietnamese": "(Tôi đi đến Giảng Võ để tham gia vào Lễ hội Hoa anh đào)"
+      }
+    ],
+    "notes": [
+      "Đây là mẫu câu sử dụng để nói về mục đích đi đến/ về đâu đó để thực hiện hành động nào đó",
+      "Động từ chỉ mục đích để thể ます",
+      "Danh từ chỉ mục đích là những danh động từ",
+      "Danh từ trước に cũng có thể là các sự kiện như lễ hội, buổi hòa nhạc... Khi đó, ý của người nói là việc xem hay tham gia vào sự kiện đó"
+    ]
+  },
+  {
+    "id": "dokoka-nanika",
+    "title": "どこか／なにか - Chỗ nào đó / Cái gì đó",
+    "description": "どこか nghĩa là \"chỗ nào đó, nơi nào đó\" không xác định rõ. なにか nghĩa là \"cái gì đó, 1 cái gì đó\" không xác định rõ. どこか được dùng như một danh từ chỉ địa điểm. なにか được dùng như một danh từ chỉ đồ vật, sự việc. Cả 2 từ khi đứng trước các động từ đi với các trợ từ へ、が、を thì các trợ từ này có thể được lược bỏ. Các trợ từ khác vẫn giữ nguyên",
+    "structure": "どこか／なにか",
+    "examples": [
+      {
+        "japanese": "夏休 みは どこか（へ） 行 きましたか。",
+        "romaji": "Natsuyasumi wa dokoka (e) ikimashita ka?",
+        "vietnamese": "Nghỉ hè, bạn có đi đâu không?"
+      },
+      {
+        "japanese": "...はい、 行 きました。",
+        "romaji": "...Hai, ikimashita.",
+        "vietnamese": "Có, tôi có đi."
+      },
+      {
+        "japanese": "暑 いですから、 何 か（を） 飲 みたいです。",
+        "romaji": "Atsui desu kara, nanika (o) nomitai desu.",
+        "vietnamese": "Vì trời nóng nên tôi muốn uống gì đó"
+      }
+    ],
+    "notes": [
+      "どこか nghĩa là \"chỗ nào đó, nơi nào đó\" không xác định rõ",
+      "なにか nghĩa là \"cái gì đó, 1 cái gì đó\" không xác định rõ",
+      "どこか được dùng như một danh từ chỉ địa điểm",
+      "なにか được dùng như một danh từ chỉ đồ vật, sự việc",
+      "Cả 2 từ khi đứng trước các động từ đi với các trợ từ へ、が、を thì các trợ từ này có thể được lược bỏ",
+      "Các trợ từ khác vẫn giữ nguyên"
     ]
   }
 ]

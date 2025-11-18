@@ -1,1 +1,408 @@
-﻿[]
+﻿[
+  {
+    "id": "toNeed",
+    "kanji": "要ります",
+    "hiragana": "いります",
+    "en": "to need",
+    "vi": "cần, cần có [từ điển]",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm I",
+        "Ví dụ: 辞書が要ります。 (Cần từ điển.)"
+      ]
+    }
+  },
+  {
+    "id": "needDictionary",
+    "kanji": "辞書が要ります",
+    "hiragana": "じしょがいります",
+    "en": "need a dictionary",
+    "vi": "cần từ điển",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm I",
+        "Ví dụ: 辞書が要ります。 (Cần từ điển.)"
+      ]
+    }
+  },
+  {
+    "id": "toCheck",
+    "kanji": "調べます",
+    "hiragana": "しらべます",
+    "en": "to check",
+    "vi": "nghiên cứu, kiểm tra, điều tra",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm II",
+        "Ví dụ: 辞書で調べます。 (Tra từ điển.)"
+      ]
+    }
+  },
+  {
+    "id": "toCall",
+    "kanji": "電話します",
+    "hiragana": "でんわします",
+    "en": "to call",
+    "vi": "gọi điện thoại",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm III (する)",
+        "Ví dụ: 友達に電話します。 (Gọi điện cho bạn.)"
+      ]
+    }
+  },
+  {
+    "id": "i",
+    "kanji": "僕",
+    "hiragana": "ぼく",
+    "en": "I",
+    "vi": "mình, tớ (từ thay cho \"watashi\", đàn ông tự xưng một cách tự nhiên trong không khí thân mật với nhau)",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Đại từ nhân xưng ngôi thứ nhất (nam giới, thân mật)",
+        "Ví dụ: 僕は学生です。 (Mình là học sinh.)"
+      ]
+    }
+  },
+  {
+    "id": "you",
+    "kanji": "君",
+    "hiragana": "きみ",
+    "en": "you",
+    "vi": "cậu (thay cho \"anata\", đàn ông gọi bạn một cách tự nhiên và thân mật)",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Đại từ nhân xưng ngôi thứ hai (nam giới, thân mật)",
+        "Ví dụ: 君は学生ですか。 (Cậu là học sinh phải không?)"
+      ]
+    }
+  },
+  {
+    "id": "kun",
+    "kanji": "～くん",
+    "hiragana": "～くん",
+    "en": "~kun",
+    "vi": "em~, cậu ~ (từ thay cho \"san\", dùng chỉ với đàn ông trong không khí tự nhiên thân mật)",
+    "type": "other",
+    "explanation": {
+      "content": [
+        "Hậu tố chỉ người (nam giới, thân mật)",
+        "Ví dụ: 田中くん (Cậu Tanaka)"
+      ]
+    }
+  },
+  {
+    "id": "yes",
+    "kanji": "うん",
+    "hiragana": "うん",
+    "en": "yes",
+    "vi": "ừ (cách nói tự nhiên, thân mật của \"hai\")",
+    "type": "other",
+    "explanation": {
+      "content": [
+        "Từ đáp lại khẳng định (thân mật)",
+        "Ví dụ: うん、そうです。 (Ừ, đúng vậy.)"
+      ]
+    }
+  },
+  {
+    "id": "no",
+    "kanji": "ううん",
+    "hiragana": "ううん",
+    "en": "no",
+    "vi": "không (cách nói tự nhiên, thân mật của \"iie\")",
+    "type": "other",
+    "explanation": {
+      "content": [
+        "Từ đáp lại phủ định (thân mật)",
+        "Ví dụ: ううん、違います。 (Không, không phải.)"
+      ]
+    }
+  },
+  {
+    "id": "here",
+    "kanji": "こっち",
+    "hiragana": "こっち",
+    "en": "here",
+    "vi": "đằng này (cách nói tự nhiên, thân mật của \"kochira\")",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ nơi chốn (thân mật)",
+        "Ví dụ: こっちへ来ます。 (Đến đằng này.)"
+      ]
+    }
+  },
+  {
+    "id": "there",
+    "kanji": "そっち",
+    "hiragana": "そっち",
+    "en": "there",
+    "vi": "đằng đó (cách nói tự nhiên của, thân mật \"sochira\")",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ nơi chốn (thân mật)",
+        "Ví dụ: そっちはどうですか。 (Đằng đó thế nào?)"
+      ]
+    }
+  },
+  {
+    "id": "overThere",
+    "kanji": "あっち",
+    "hiragana": "あっち",
+    "en": "over there",
+    "vi": "đằng kia (cách nói tự nhiên, thân mật của \"achira\")",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ nơi chốn (thân mật)",
+        "Ví dụ: あっちへ行きます。 (Đi đằng kia.)"
+      ]
+    }
+  },
+  {
+    "id": "where",
+    "kanji": "どっち",
+    "hiragana": "どっち",
+    "en": "where",
+    "vi": "đằng nào, phía nào (cách nói tự nhiên, thân mật của \"dochira\")",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Từ để hỏi về nơi chốn (thân mật)",
+        "Ví dụ: どっちへ行きますか。 (Đi đằng nào?)"
+      ]
+    }
+  },
+  {
+    "id": "place",
+    "kanji": "場所",
+    "hiragana": "ばしょ",
+    "en": "place",
+    "vi": "chỗ, địa điểm",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ địa điểm",
+        "Ví dụ: 場所を教えます。 (Cho biết địa điểm.)"
+      ]
+    }
+  },
+  {
+    "id": "salaryman",
+    "kanji": "サラリーマン",
+    "hiragana": "サラリーマン",
+    "en": "salaryman",
+    "vi": "nhân viên công ty, cán bộ, người làm công ăn lương",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ nhân viên công ty (từ mượn)",
+        "Ví dụ: サラリーマンです。 (Là nhân viên công ty.)"
+      ]
+    }
+  },
+  {
+    "id": "word",
+    "kanji": "言葉",
+    "hiragana": "ことば",
+    "en": "word",
+    "vi": "từ, từ ngữ, từ vựng",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ từ ngữ",
+        "Ví dụ: 日本語の言葉を覚えます。 (Nhớ từ tiếng Nhật.)"
+      ]
+    }
+  },
+  {
+    "id": "price",
+    "kanji": "物価",
+    "hiragana": "ぶっか",
+    "en": "price",
+    "vi": "giá cả, vật giá",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ giá cả",
+        "Ví dụ: 物価が高いです。 (Giá cả cao.)"
+      ]
+    }
+  },
+  {
+    "id": "kimono",
+    "kanji": "着物",
+    "hiragana": "きもの",
+    "en": "kimono",
+    "vi": "kimono (trang phục truyền thống của Nhật Bản)",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ kimono",
+        "Ví dụ: 着物を着ます。 (Mặc kimono.)"
+      ]
+    }
+  },
+  {
+    "id": "visa",
+    "kanji": "ビザ",
+    "hiragana": "ビザ",
+    "en": "visa",
+    "vi": "visa, hộ chiếu",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ visa (từ mượn)",
+        "Ví dụ: ビザを取ります。 (Lấy visa.)"
+      ]
+    }
+  },
+  {
+    "id": "beginning",
+    "kanji": "初め",
+    "hiragana": "はじめ",
+    "en": "beginning",
+    "vi": "đầu tiên, lúc đầu",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ thời điểm bắt đầu",
+        "Ví dụ: 初めから始めます。 (Bắt đầu từ đầu.)"
+      ]
+    }
+  },
+  {
+    "id": "end",
+    "kanji": "終わり",
+    "hiragana": "おわり",
+    "en": "end",
+    "vi": "kết thúc, cuối",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ thời điểm kết thúc",
+        "Ví dụ: 終わりまで読みます。 (Đọc đến cuối.)"
+      ]
+    }
+  },
+  {
+    "id": "recently",
+    "kanji": "この間",
+    "hiragana": "このあいだ",
+    "en": "recently",
+    "vi": "mấy hôm gần đây, mấy hôm trước",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ thời gian gần đây",
+        "Ví dụ: この間、会いました。 (Mấy hôm trước đã gặp.)"
+      ]
+    }
+  },
+  {
+    "id": "everyone",
+    "kanji": "皆で",
+    "hiragana": "みんなで",
+    "en": "everyone",
+    "vi": "tất cả mọi người",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ mọi người",
+        "Ví dụ: 皆で行きます。 (Tất cả mọi người đi.)"
+      ]
+    }
+  },
+  {
+    "id": "but",
+    "kanji": "～けど",
+    "hiragana": "～けど",
+    "en": "but",
+    "vi": "nhưng (dạng thông thường của \"ga\")",
+    "type": "other",
+    "explanation": {
+      "content": [
+        "Từ nối (thân mật)",
+        "Ví dụ: 行きたいけど、時間がありません。 (Muốn đi nhưng không có thời gian.)"
+      ]
+    }
+  },
+  {
+    "id": "illWait",
+    "kanji": "待っているよ",
+    "hiragana": "まっているよ",
+    "en": "ill wait",
+    "vi": "tớ chờ cậu nhé. mình sẽ chờ đấy!",
+    "type": "other",
+    "explanation": {
+      "content": [
+        "Câu nói thân mật",
+        "Ví dụ: 待っているよ。 (Tớ chờ cậu nhé.)"
+      ]
+    }
+  },
+  {
+    "id": "areYouGoingHome",
+    "kanji": "国へ帰るの？",
+    "hiragana": "くにへかえるの？",
+    "en": "are you going home",
+    "vi": "bạn về nước à?",
+    "type": "other",
+    "explanation": {
+      "content": [
+        "Câu hỏi thân mật",
+        "Ví dụ: 国へ帰るの？ (Bạn về nước à?)"
+      ]
+    }
+  },
+  {
+    "id": "whatAboutYou",
+    "kanji": "どうするの？",
+    "hiragana": "どうするの？",
+    "en": "what about you",
+    "vi": "bạn thì thế nào?",
+    "type": "other",
+    "explanation": {
+      "content": [
+        "Câu hỏi thân mật",
+        "Ví dụ: どうするの？ (Bạn thì thế nào?)"
+      ]
+    }
+  },
+  {
+    "id": "whatShouldIDo",
+    "kanji": "どうしようかな",
+    "hiragana": "どうしようかな",
+    "en": "what should I do",
+    "vi": "mình sẽ thế nào à?",
+    "type": "other",
+    "explanation": {
+      "content": [
+        "Câu tự hỏi",
+        "Ví dụ: どうしようかな。 (Mình sẽ thế nào à?)"
+      ]
+    }
+  },
+  {
+    "id": "ifYouLike",
+    "kanji": "よかったら",
+    "hiragana": "よかったら",
+    "en": "if you like",
+    "vi": "nếu bạn thích, nếu được, nếu ổn",
+    "type": "other",
+    "explanation": {
+      "content": [
+        "Từ nối điều kiện",
+        "Ví dụ: よかったら、来てください。 (Nếu được, hãy đến.)"
+      ]
+    }
+  }
+]

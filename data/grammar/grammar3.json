@@ -1,144 +1,226 @@
 ﻿[
   {
-    "id": "verb-masu",
-    "title": "Động từ thể ます",
-    "description": "Thể ます là thể lịch sự của động từ trong tiếng Nhật. Tất cả động từ đều có thể chuyển sang thể ます để dùng trong giao tiếp lịch sự.",
-    "structure": "Động từ gốc + ます",
+    "id": "koko-soko-asoko-wa",
+    "title": "ここ・そこ・あそこ は N (địa điểm) です - Chỗ này/đó/kia là N",
+    "description": "ここ、そこ、あそこ là các đại danh từ chỉ nơi chốn. ここ chỉ chỗ của người nói (Trong phạm vi của người nói). そこ là chỗ của người nghe (Trong phạm vi của người nghe). あそこ chỉ nơi xa cả hai người. Khi người nói và người nghe ở cùng một địa điểm thì cả hai người đều sử dụng ここ.",
+    "structure": "ここ・そこ・あそこ は N (địa điểm) です",
     "examples": [
       {
-        "japanese": "本を読みます。",
-        "romaji": "Hon o yomimasu.",
-        "vietnamese": "Đọc sách."
+        "japanese": "ここ は きょうしつです。",
+        "romaji": "Koko wa kyoushitsu desu.",
+        "vietnamese": "Đây là phòng học."
       },
       {
-        "japanese": "コーヒーを飲みます。",
-        "romaji": "Koohii o nomimasu.",
-        "vietnamese": "Uống cà phê."
+        "japanese": "そこ は おてあらいです。",
+        "romaji": "Soko wa otearai desu.",
+        "vietnamese": "Đó là nhà vệ sinh."
       },
       {
-        "japanese": "学校へ行きます。",
-        "romaji": "Gakkou e ikimasu.",
-        "vietnamese": "Đi đến trường."
+        "japanese": "あそこ は しょくどうです。",
+        "romaji": "Asoko wa shokudou desu.",
+        "vietnamese": "Kia là nhà ăn tập thể."
       }
     ],
     "notes": [
-      "Thể ます là thể lịch sự, dùng trong giao tiếp thông thường",
-      "Dạng phủ định: ません",
-      "Dạng quá khứ: ました",
-      "Dạng phủ định quá khứ: ませんでした"
+      "ここ: chỗ của người nói",
+      "そこ: chỗ của người nghe",
+      "あそこ: nơi xa cả hai người",
+      "Khi người nói và người nghe ở cùng một địa điểm thì cả hai người đều sử dụng ここ"
     ]
   },
   {
-    "id": "o-particle",
-    "title": "を - Trợ từ đối tượng",
-    "description": "を (đọc là \"o\") dùng để đánh dấu đối tượng trực tiếp của động từ. Đối tượng là thứ bị tác động bởi hành động.",
-    "structure": "Danh từ + を + Động từ",
+    "id": "n-place-wa-koko",
+    "title": "N (địa điểm) はここ・そこ・あそこです - N ở chỗ này/đó/kia",
+    "description": "Chỉ vị trí, tồn tại. Có thể mở rộng trường hợp này cho địa điểm tồn tại của người và vật.",
+    "structure": "N (địa điểm) はここ・そこ・あそこです",
     "examples": [
       {
-        "japanese": "本を読みます。",
-        "romaji": "Hon o yomimasu.",
-        "vietnamese": "Đọc sách."
+        "japanese": "ロビーは ここ です。",
+        "romaji": "Robii wa koko desu.",
+        "vietnamese": "Hành lang ở đây."
       },
       {
-        "japanese": "コーヒーを飲みます。",
-        "romaji": "Koohii o nomimasu.",
-        "vietnamese": "Uống cà phê."
+        "japanese": "エレベーターは あそこ です。",
+        "romaji": "Erebeetaa wa asoko desu.",
+        "vietnamese": "Cầu thang máy ở chỗ kia."
       },
       {
-        "japanese": "日本語を勉強します。",
-        "romaji": "Nihongo o benkyou shimasu.",
-        "vietnamese": "Học tiếng Nhật."
+        "japanese": "うけつけは そこ です。",
+        "romaji": "Uketsuke wa soko desu.",
+        "vietnamese": "Tiếp tân ở chỗ đó."
+      },
+      {
+        "japanese": "ラオさんは うちです。",
+        "romaji": "Rao-san wa uchi desu.",
+        "vietnamese": "Anh Rao ở nhà."
+      },
+      {
+        "japanese": "マイさんは あそこです。",
+        "romaji": "Mai-san wa asoko desu.",
+        "vietnamese": "Bạn Mai ở đằng kia."
+      },
+      {
+        "japanese": "せんせいは きょうしつです。",
+        "romaji": "Sensei wa kyoushitsu desu.",
+        "vietnamese": "Cô giáo ở trong phòng học."
+      },
+      {
+        "japanese": "マリアさんは どこですか。",
+        "romaji": "Maria-san wa doko desu ka?",
+        "vietnamese": "Bạn Maria ở đâu?"
+      },
+      {
+        "japanese": "…にわです。",
+        "romaji": "...Niwa desu.",
+        "vietnamese": "…Ngoài sân."
       }
     ],
     "notes": [
-      "を đọc là \"o\", không phải \"wo\"",
-      "を dùng để đánh dấu đối tượng trực tiếp của động từ",
-      "Một số động từ không dùng を (ví dụ: 行きます, 来ます)"
+      "N (địa điểm) は どこ ですか - N ở đâu?",
+      "N1 (người hoặc vật) は N2 (địa điểm) です - N1 ở N2"
     ]
   },
   {
-    "id": "e-particle",
-    "title": "へ - Trợ từ chỉ hướng",
-    "description": "へ (đọc là \"e\") dùng để chỉ hướng hoặc đích đến của hành động di chuyển. Có thể thay thế bằng に trong một số trường hợp.",
-    "structure": "Danh từ (địa điểm) + へ + Động từ di chuyển",
+    "id": "kochira-sochira-achira-dochira",
+    "title": "こちら・そちら・あちら・どちら - Từ chỉ định lịch sự",
+    "description": "Nghĩa tương đương với ここ・そこ・あそこ・どこ nhưng trang trọng, lịch sự hơn. Nghĩa gốc của chúng là các đại danh từ chỉ phương hướng.",
+    "structure": "こちら・そちら・あちら・どちら",
     "examples": [
       {
-        "japanese": "学校へ行きます。",
-        "romaji": "Gakkou e ikimasu.",
-        "vietnamese": "Đi đến trường."
+        "japanese": "でんわは どちら ですか。",
+        "romaji": "Denwa wa dochira desu ka?",
+        "vietnamese": "Điện thoại ở đâu nhỉ?"
       },
       {
-        "japanese": "日本へ来ます。",
-        "romaji": "Nihon e kimasu.",
-        "vietnamese": "Đến Nhật Bản."
+        "japanese": "… あちら です。",
+        "romaji": "...Achira desu.",
+        "vietnamese": "… Ở đằng kia."
       },
       {
-        "japanese": "家へ帰ります。",
-        "romaji": "Ie e kaerimasu.",
-        "vietnamese": "Về nhà."
+        "japanese": "（お）くには どちら ですか。",
+        "romaji": "(O) kuni wa dochira desu ka?",
+        "vietnamese": "Đất nước của bạn là ở đâu?"
+      },
+      {
+        "japanese": "… ベトナムです。",
+        "romaji": "...Betonamu desu.",
+        "vietnamese": "… Việt Nam."
+      },
+      {
+        "japanese": "あなたのかいしゃは どちらですか。",
+        "romaji": "Anata no kaisha wa dochira desu ka?",
+        "vietnamese": "Công ty của bạn là công ty nào?"
+      },
+      {
+        "japanese": "… FPT です。",
+        "romaji": "...FPT desu.",
+        "vietnamese": "… FPT."
       }
     ],
     "notes": [
-      "へ đọc là \"e\" khi làm trợ từ, không phải \"he\"",
-      "へ dùng với các động từ di chuyển: 行きます, 来ます, 帰ります",
-      "Có thể thay thế bằng に trong nhiều trường hợp"
+      "Nghĩa tương đương với ここ・そこ・あそこ・どこ nhưng trang trọng, lịch sự hơn",
+      "Với câu hỏi 「あなたのかいしゃは どちらですか。」 thì có thể hiểu theo 2 nghĩa: Công ty bạn ở đâu? và Công ty bạn là công ty nào? (tên công ty). Nhưng phần lớn được hiểu theo nghĩa thứ 2"
     ]
   },
   {
-    "id": "ni-particle",
-    "title": "に - Trợ từ chỉ đích đến, thời gian",
-    "description": "に có nhiều cách dùng: chỉ đích đến của hành động di chuyển, chỉ thời gian, chỉ đối tượng của một số động từ.",
-    "structure": "Danh từ + に + Động từ",
+    "id": "kore-sore-are-wa-n1-no-n2-origin",
+    "title": "これ・それ・あれ は N1 の N2 です - Cái này/kia/đó là N2 của N1 (xuất xứ)",
+    "description": "Dùng khi muốn nói 1 đồ vật nào đó có xuất xứ từ đâu, do nước nào hoặc công ty nào sản xuất ra.",
+    "structure": "これ・それ・あれ は N1 の N2 です",
     "examples": [
       {
-        "japanese": "九時に起きます。",
-        "romaji": "Kuji ni okimasu.",
-        "vietnamese": "Thức dậy lúc 9 giờ."
+        "japanese": "あれは 日本 の シャープペンシルです。",
+        "romaji": "Are wa Nihon no shaapupenshiru desu.",
+        "vietnamese": "Kia là bút chì kim của Nhật."
       },
       {
-        "japanese": "友達に会います。",
-        "romaji": "Tomodachi ni aimasu.",
-        "vietnamese": "Gặp bạn."
+        "japanese": "それは ソニー の テレビです。",
+        "romaji": "Sore wa Sonii no terebi desu.",
+        "vietnamese": "Đó là tivi của Sony."
       },
       {
-        "japanese": "学校に行きます。",
-        "romaji": "Gakkou ni ikimasu.",
-        "vietnamese": "Đi đến trường."
+        "japanese": "これは どこの じどうしゃですか。",
+        "romaji": "Kore wa doko no jidousha desu ka?",
+        "vietnamese": "Đây là ôtô của nước nào/của công ty nào?"
+      },
+      {
+        "japanese": "…日本 の じどうしゃです。",
+        "romaji": "...Nihon no jidousha desu.",
+        "vietnamese": "Ôtô của Nhật."
       }
     ],
     "notes": [
-      "に chỉ thời gian cụ thể (giờ, ngày, tháng)",
-      "に chỉ đích đến (có thể thay thế へ)",
-      "に chỉ đối tượng của một số động từ (会います, 聞きます)"
+      "Dùng khi muốn nói 1 đồ vật nào đó có xuất xứ từ đâu, do nước nào hoặc công ty nào sản xuất ra",
+      "これ・それ・あれ は どこ の N2 ですか - Câu hỏi cho mẫu câu trên, dùng để hỏi xuất xứ của đồ vật"
     ]
   },
   {
-    "id": "time-expressions",
-    "title": "Cách nói thời gian",
-    "description": "Trong tiếng Nhật, thời gian được nói theo thứ tự: giờ, phút. Dùng trợ từ に sau thời gian cụ thể.",
-    "structure": "Số giờ + 時 + (Số phút + 分) + に",
+    "id": "kore-sore-are-wa-n1-no-n2-attribute",
+    "title": "これ・それ・あれ は N1（Loại hình, thể loại） の N2 です - Cái này/kia/đó là N2 của N1 (thuộc tính)",
+    "description": "Dùng khi muốn nói về thuộc tính của đồ vật: thuộc lĩnh vực gì, về chuyên ngành nào, tiếng nước nào… Có thể dùng để nói 1 công ty nào đó hoạt động trong lĩnh vực nào.",
+    "structure": "これ・それ・あれ は N1（Loại hình, thể loại） の N2 です",
     "examples": [
       {
-        "japanese": "九時に起きます。",
-        "romaji": "Kuji ni okimasu.",
-        "vietnamese": "Thức dậy lúc 9 giờ."
+        "japanese": "これは じどうしゃ の ほんです。",
+        "romaji": "Kore wa jidousha no hon desu.",
+        "vietnamese": "Đây là quyển sách về xe ôtô."
       },
       {
-        "japanese": "三時半に帰ります。",
-        "romaji": "Sanji han ni kaerimasu.",
-        "vietnamese": "Về lúc 3 giờ rưỡi."
+        "japanese": "それは にほんご の しんぶんです。",
+        "romaji": "Sore wa nihongo no shinbun desu.",
+        "vietnamese": "Đó là tờ báo tiếng Nhật."
       },
       {
-        "japanese": "午前七時に起きます。",
-        "romaji": "Gozen shichiji ni okimasu.",
-        "vietnamese": "Thức dậy lúc 7 giờ sáng."
+        "japanese": "これは なんの ざっしですか。",
+        "romaji": "Kore wa nan no zasshi desu ka?",
+        "vietnamese": "Đây là tạp chí gì?"
+      },
+      {
+        "japanese": "… それは コンピューターのです。",
+        "romaji": "...Sore wa konpyuutaa no desu.",
+        "vietnamese": "Đó là tạp chí (về) máy tính."
+      },
+      {
+        "japanese": "FPT は コンピューターの かいしゃです。",
+        "romaji": "FPT wa konpyuutaa no kaisha desu.",
+        "vietnamese": "FPT là công ty máy tính."
+      },
+      {
+        "japanese": "ひたちは なんの かいしゃです。",
+        "romaji": "Hitachi wa nan no kaisha desu ka?",
+        "vietnamese": "Hitachi là công ty gì?"
+      },
+      {
+        "japanese": "…. テレビ の かいしゃです。",
+        "romaji": "...Terebi no kaisha desu.",
+        "vietnamese": "… Là công ty sản xuất TV"
       }
     ],
     "notes": [
-      "Dùng に sau thời gian cụ thể",
-      "半 (han) nghĩa là \"rưỡi\"",
-      "午前 (gozen) = AM, 午後 (gogo) = PM",
-      "Không dùng に với các từ như 今日, 明日, 毎日"
+      "Dùng khi muốn nói về thuộc tính của đồ vật: thuộc lĩnh vực gì, về chuyên ngành nào, tiếng nước nào…",
+      "これ・それ・あれ は なん の N ですか - Câu hỏi cho mẫu câu trên, dùng để khi muốn hỏi 1 vật nào đó thuộc lĩnh vực gì",
+      "Có thể dùng để nói 1 công ty nào đó hoạt động trong lĩnh vực nào"
+    ]
+  },
+  {
+    "id": "ikura",
+    "title": "N は いくらですか - N bao nhiêu tiền",
+    "description": "Dùng để hỏi giá tiền của một vật.",
+    "structure": "N は いくらですか",
+    "examples": [
+      {
+        "japanese": "このざっし は いくら ですか。",
+        "romaji": "Kono zasshi wa ikura desu ka?",
+        "vietnamese": "Cái tạp chí này bao nhiêu tiền?"
+      },
+      {
+        "japanese": "…１００円です。",
+        "romaji": "...100-en desu.",
+        "vietnamese": "…100 Yên"
+      }
+    ],
+    "notes": [
+      "Dùng để hỏi giá tiền của một vật"
     ]
   }
 ]

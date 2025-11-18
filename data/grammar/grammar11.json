@@ -1,54 +1,118 @@
 ﻿[
   {
-    "id": "tai-form",
-    "title": "たい - Muốn làm",
-    "description": "たい thêm vào sau động từ (bỏ ます) để diễn tả mong muốn làm gì đó. Dùng với trợ từ が thay vì を.",
-    "structure": "Động từ (bỏ ます) + たいです",
+    "id": "counting-numbers",
+    "title": "Số đếm - Cách đếm đồ vật",
+    "description": "ひとつ、ふたつ...とお là số đếm chung cho đồ vật đến 10. Từ 11 sử dụng như đếm số thông thường. Các trợ từ số đếm: Là những từ được đặt sau số để đếm các đồ vật, người... Số đếm thường đứng ngay trước động từ mà nó bổ nghĩa (giữa số đếm và động từ không có trợ từ đứng giữa). Tuy nhiên, với các từ chỉ khoảng thời gian lại được đặt ở mọi vị trí trong câu (trừ cuối câu)",
+    "structure": "Số đếm + Trợ từ số đếm + Động từ",
     "examples": [
       {
-        "japanese": "日本へ行きたいです。",
-        "romaji": "Nihon e ikitai desu.",
-        "vietnamese": "Tôi muốn đi Nhật Bản."
+        "japanese": "りんごを 4 つ 買 います。",
+        "romaji": "Ringo o yottsu kaimasu.",
+        "vietnamese": "Tôi mua 4 quả táo."
       },
       {
-        "japanese": "コーヒーが飲みたいです。",
-        "romaji": "Koohii ga nomitai desu.",
-        "vietnamese": "Tôi muốn uống cà phê."
+        "japanese": "日本人 の学生 が ふたり います。",
+        "romaji": "Nihonjin no gakusei ga futari imasu.",
+        "vietnamese": "Có 2 sinh viên người Nhật."
       },
       {
-        "japanese": "映画が見たいです。",
-        "romaji": "Eiga ga mitai desu.",
-        "vietnamese": "Tôi muốn xem phim."
+        "japanese": "国 で 2 か月 日本語 を 勉 強 しました。",
+        "romaji": "Kuni de nikagetsu Nihongo o benkyou shimashita.",
+        "vietnamese": "Tôi đã học tiếng Nhật ở trong nước 2 tháng."
       }
     ],
     "notes": [
-      "たい thêm vào sau động từ (bỏ ます)",
-      "Dùng が thay vì を với たい",
-      "Dạng phủ định: たくないです",
-      "Dạng quá khứ: たかったです"
+      "ひとつ、ふたつ...とお là số đếm chung cho đồ vật đến 10",
+      "Từ 11 sử dụng như đếm số thông thường",
+      "Các trợ từ số đếm: 人 (にん) - đếm người (đặc biệt đếm 1, 2 người dùng ひとり, ふたり), ひき・ぴき - đếm con vật kích thước nhỏ, 枚 (まい) - đếm những vật mỏng như giấy, đĩa, áo..., 回 (かい) - đếm số lần",
+      "Số đếm thường đứng ngay trước động từ mà nó bổ nghĩa",
+      "Với các từ chỉ khoảng thời gian lại được đặt ở mọi vị trí trong câu (trừ cuối câu)"
     ]
   },
   {
-    "id": "hoshii",
-    "title": "欲しい - Muốn có",
-    "description": "欲しい là tính từ i, dùng để diễn tả mong muốn có cái gì đó. Dùng với trợ từ が.",
-    "structure": "Danh từ + が + 欲しいです",
+    "id": "ikutsu-nan-counter",
+    "title": "いくつ／なん＋trợ từ số đếm - Các từ để hỏi cho số đếm",
+    "description": "いくつ là từ dùng để hỏi cho đồ vật đếm bằng ～つ. Các cách đếm khác dùng なん＋trợ từ số đếm.",
+    "structure": "いくつ／なん＋trợ từ số đếm + V ますか",
     "examples": [
       {
-        "japanese": "新しい車が欲しいです。",
-        "romaji": "Atarashii kuruma ga hoshii desu.",
-        "vietnamese": "Tôi muốn xe hơi mới."
+        "japanese": "みかんを いくつ食 べましたか。",
+        "romaji": "Mikan o ikutsu tabemashita ka?",
+        "vietnamese": "Bạn đã ăn bao nhiêu quýt?"
       },
       {
-        "japanese": "お金が欲しいです。",
-        "romaji": "Okane ga hoshii desu.",
-        "vietnamese": "Tôi muốn tiền."
+        "japanese": "... ７つ 食べました。",
+        "romaji": "...Nanatsu tabemashita.",
+        "vietnamese": "... Tôi đã ăn 7 quả."
+      },
+      {
+        "japanese": "きってを 何 枚 か買 いますか。",
+        "romaji": "Kitte o nanmai kaimasu ka?",
+        "vietnamese": "Bạn mua mấy cái tem?"
+      },
+      {
+        "japanese": "... ５枚 買います。",
+        "romaji": "...Gomai kaimasu.",
+        "vietnamese": "... Tôi mua 5 cái."
       }
     ],
     "notes": [
-      "欲しい là tính từ i, dùng với が",
-      "Dạng phủ định: 欲しくないです",
-      "Dạng quá khứ: 欲しかったです"
+      "いくつ là từ dùng để hỏi cho đồ vật đếm bằng ～つ",
+      "Các cách đếm khác dùng なん＋trợ từ số đếm"
+    ]
+  },
+  {
+    "id": "donogurai-kurai-gurai",
+    "title": "どのぐらい V ますか / N（lượng thời gian）くらい（ぐらい） V ます - Cách hỏi khoảng thời gian",
+    "description": "どのぐらい là từ để hỏi cho khoảng thời gian. Thường đi kèm với động từ かかります (Nghĩa là: Mất bao nhiêu lâu). くらい・ぐらい đứng sau từ chỉ số lượng, có nghĩa là \"khoảng\"",
+    "structure": "どのぐらい V ますか / N（lượng thời gian）くらい（ぐらい） V ます",
+    "examples": [
+      {
+        "japanese": "どのぐらい日本語 を 勉 強 しましたか。",
+        "romaji": "Donogurai Nihongo o benkyou shimashita ka?",
+        "vietnamese": "Bạn đã học tiếng Nhật bao nhiêu lâu?"
+      },
+      {
+        "japanese": "... 2年 ぐらい 勉 強 しました。",
+        "romaji": "...Ninen gurai benkyou shimashita.",
+        "vietnamese": "... Tôi đã học khoảng 2 năm."
+      },
+      {
+        "japanese": "ハノイから ホーチミンまで ひこうきで どのぐらい かかりますか。",
+        "romaji": "Hanoi kara Ho Chi Minh made hikouki de donogurai kakarimasu ka?",
+        "vietnamese": "Từ Hà Nội đến TP Hồ Chí Minh đi bằng máy bay mất bao nhiêu lâu?"
+      },
+      {
+        "japanese": "...二時間 く らい かかります。",
+        "romaji": "...Nijikan kurai kakarimasu.",
+        "vietnamese": "...Mất khoảng 2 tiếng."
+      }
+    ],
+    "notes": [
+      "どのぐらい là từ để hỏi cho khoảng thời gian",
+      "Thường đi kèm với động từ かかります (Mất bao nhiêu lâu)",
+      "くらい・ぐらい đứng sau từ chỉ số lượng, có nghĩa là \"khoảng\""
+    ]
+  },
+  {
+    "id": "dake",
+    "title": "N だけ - Chỉ",
+    "description": "だけ đứng sau danh từ, có nghĩa là \"chỉ\"",
+    "structure": "N だけ",
+    "examples": [
+      {
+        "japanese": "うちから 大学 まで 5分 だけ かかります。",
+        "romaji": "Uchi kara daigaku made gofun dake kakarimasu.",
+        "vietnamese": "Từ nhà tôi đến trường chỉ mất 5 phút."
+      },
+      {
+        "japanese": "休 みは 日曜日 だけです。",
+        "romaji": "Yasumi wa nichiyoubi dake desu.",
+        "vietnamese": "Ngày nghỉ chỉ có chủ nhật."
+      }
+    ],
+    "notes": [
+      "だけ đứng sau danh từ, có nghĩa là \"chỉ\""
     ]
   }
 ]

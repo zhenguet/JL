@@ -1,51 +1,195 @@
 ﻿[
   {
-    "id": "ni-agemasu",
-    "title": "に - Trợ từ với あげます, 送ります",
-    "description": "に dùng với các động từ như あげます (tặng), 送ります (gửi), 見せます (cho xem) để chỉ người nhận hành động.",
-    "structure": "Danh từ (người nhận) + に + Danh từ + を + Động từ",
+    "id": "n-wo-verb",
+    "title": "N を V ます - Cách sử dụng động từ với trợ từ を",
+    "description": "N: Danh từ (đối tượng của hành động). V: Tha động từ (ngoại động từ). を: Trợ từ (chỉ đối tượng tác động của hành động). も được thay cho を khi cùng chung một hành động với 2 đối tượng khác nhau (cùng V nhưng khác N). と được dùng để nối 2 danh từ cùng làm đối tượng của hành động trong câu.",
+    "structure": "N を V ます",
     "examples": [
       {
-        "japanese": "友達にプレゼントをあげます。",
-        "romaji": "Tomodachi ni purezento o agemasu.",
-        "vietnamese": "Tặng quà cho bạn."
+        "japanese": "ごはんを たべます。",
+        "romaji": "Gohan o tabemasu.",
+        "vietnamese": "Tôi ăn cơm."
       },
       {
-        "japanese": "母に手紙を送ります。",
-        "romaji": "Haha ni tegami o okurimasu.",
-        "vietnamese": "Gửi thư cho mẹ."
+        "japanese": "本 を よみました。",
+        "romaji": "Hon o yomimashita.",
+        "vietnamese": "Tôi đã đọc sách."
       },
       {
-        "japanese": "先生に写真を見せます。",
-        "romaji": "Sensei ni shashin o misemasu.",
-        "vietnamese": "Cho thầy cô xem ảnh."
+        "japanese": "けさ 何 を買 いましたか。",
+        "romaji": "Kesa nani o kaimashita ka?",
+        "vietnamese": "Sáng nay bạn đã mua gì thế?"
+      },
+      {
+        "japanese": "… やさいを買 いました。",
+        "romaji": "...Yasai o kaimashita.",
+        "vietnamese": "Tôi đã mua rau."
+      },
+      {
+        "japanese": "としょかんで 何 を しますか。",
+        "romaji": "Toshokan de nani o shimasu ka?",
+        "vietnamese": "Bạn làm gì ở thư viện."
+      },
+      {
+        "japanese": "… ほんを よみます。",
+        "romaji": "...Hon o yomimasu.",
+        "vietnamese": "Tôi đọc sách.."
+      },
+      {
+        "japanese": "私は ビールを のみます。おさけも のみます。",
+        "romaji": "Watashi wa biiru o nomimasu. Osake mo nomimasu.",
+        "vietnamese": "Tôi uống bia. Uống cả rượu nữa."
+      },
+      {
+        "japanese": "私は さかなと たまごを たべます。",
+        "romaji": "Watashi wa sakana to tamago o tabemasu.",
+        "vietnamese": "Tôi ăn cá và trứng."
       }
     ],
     "notes": [
-      "に chỉ người nhận hành động",
-      "Các động từ: あげます, 送ります, 見せます, 教えます, 話します"
+      "なにを V ますか - Làm cái gì (ăn gì, uống gì, đọc gì…)?",
+      "なにを しますか - Câu hỏi chung cho tất cả các động từ: Bạn làm cái gì?",
+      "も được thay cho を khi cùng chung một hành động với 2 đối tượng khác nhau (cùng V nhưng khác N)",
+      "と được dùng để nối 2 danh từ cùng làm đối tượng của hành động trong câu"
     ]
   },
   {
-    "id": "kara-moraimasu",
-    "title": "から - Trợ từ với もらいます",
-    "description": "から dùng với もらいます (nhận) để chỉ người cho, người gửi.",
-    "structure": "Danh từ (người cho) + から + Danh từ + を + もらいます",
+    "id": "nanimo-verb-masen",
+    "title": "なにも V ません - Cách nói phủ định hoàn toàn",
+    "description": "Không làm gì cả. Khi trợ từ も đi sau từ để hỏi và đi cùng với thể phủ định thì có nghĩa phủ định hoàn toàn mọi đối tượng trong phạm vi từ để hỏi.",
+    "structure": "なにも V ません",
     "examples": [
       {
-        "japanese": "友達からプレゼントをもらいます。",
-        "romaji": "Tomodachi kara purezento o moraimasu.",
-        "vietnamese": "Nhận quà từ bạn."
+        "japanese": "けさ 何 も たべませんでした。",
+        "romaji": "Kesa nani mo tabemasen deshita.",
+        "vietnamese": "Sáng nay tôi đã không ăn gì cả."
       },
       {
-        "japanese": "母から手紙をもらいます。",
-        "romaji": "Haha kara tegami o moraimasu.",
-        "vietnamese": "Nhận thư từ mẹ."
+        "japanese": "あした 何 も しません。",
+        "romaji": "Ashita nani mo shimasen.",
+        "vietnamese": "Ngày mai tôi sẽ không làm gì cả."
       }
     ],
     "notes": [
-      "から chỉ người cho, người gửi",
-      "Có thể dùng に thay cho から với もらいます trong một số trường hợp"
+      "Khi trợ từ も đi sau từ để hỏi và đi cùng với thể phủ định thì có nghĩa phủ định hoàn toàn mọi đối tượng trong phạm vi từ để hỏi"
+    ]
+  },
+  {
+    "id": "n1-de-n2-wo-verb",
+    "title": "N1 で N2 を V ます - Cách nói 1 hành động xảy ra tại địa điểm nào",
+    "description": "Làm ~ ở/tại N1. N1: Danh từ chỉ địa điểm diễn ra hành động. N2: Danh từ chỉ đối tượng tác động của hành động (Tân ngữ trực tiếp). で: Trợ từ chỉ địa điểm diễn ra hành động.",
+    "structure": "N1 で N2 を V ます",
+    "examples": [
+      {
+        "japanese": "レストランで ごはんを たべます。",
+        "romaji": "Resutoran de gohan o tabemasu.",
+        "vietnamese": "Tôi ăn cơm ở nhà hàng."
+      },
+      {
+        "japanese": "としょかんで 本を よみました。",
+        "romaji": "Toshokan de hon o yomimashita.",
+        "vietnamese": "Tôi đã đọc sách ở thư viện."
+      },
+      {
+        "japanese": "どこで このしゃしんを とりましたか。",
+        "romaji": "Doko de kono shashin o torimashita ka?",
+        "vietnamese": "Bạn đã chụp bức ảnh này ở đâu?"
+      },
+      {
+        "japanese": "… こうえんで とりました。",
+        "romaji": "...Kouen de torimashita.",
+        "vietnamese": "Tôi chụp ở công viên."
+      }
+    ],
+    "notes": [
+      "N1: Danh từ chỉ địa điểm diễn ra hành động",
+      "N2: Danh từ chỉ đối tượng tác động của hành động (Tân ngữ trực tiếp)",
+      "で: Trợ từ chỉ địa điểm diễn ra hành động",
+      "どこで V ますか - Cách đặt câu hỏi: ai đó đã/sẽ làm gì ở đâu?"
+    ]
+  },
+  {
+    "id": "isshoni-verb-masen-ka",
+    "title": "いっしょに V ませんか - Cách nói khi muốn mời, rủ ai cùng làm gì",
+    "description": "Cùng làm ~ nhé! Đây không phải là câu phủ định, mà là câu mang ý mời mọc, rủ rê người khác cùng làm việc gì đó với mình. Khi muốn từ chối lời đề nghị thì dùng … すみません。ちょっと … \"ちょっと \" đi cùng với giọng điệu ngập ngừng hàm ý mình có việc gì đó.",
+    "structure": "いっしょに V ませんか",
+    "examples": [
+      {
+        "japanese": "いっしょに ビールを のみませんか。",
+        "romaji": "Isshoni biiru o nomimasen ka?",
+        "vietnamese": "Cùng uống bia nhé!"
+      },
+      {
+        "japanese": "… ええ、いいですね。",
+        "romaji": "...Ee, ii desu ne.",
+        "vietnamese": "… Vâng, tốt quá!"
+      },
+      {
+        "japanese": "… すみません。ちょっと …",
+        "romaji": "...Sumimasen. Chotto...",
+        "vietnamese": "… Xin lỗi. Nhưng mà… (cách từ chối khéo)"
+      }
+    ],
+    "notes": [
+      "Đây không phải là câu phủ định, mà là câu mang ý mời mọc, rủ rê người khác cùng làm việc gì đó với mình",
+      "Khi muốn từ chối lời đề nghị thì dùng … すみません。ちょっと …",
+      "\"ちょっと \" đi cùng với giọng điệu ngập ngừng hàm ý mình có việc gì đó"
+    ]
+  },
+  {
+    "id": "verb-mashou",
+    "title": "V ましょう - Cách nói khi muốn mời, rủ ai cùng làm gì (đã thỏa thuận)",
+    "description": "Cùng làm ~ nhé! Cũng là một lời để nghị cùng làm với mình nhưng trên cơ sở đã biết người kia sẽ đồng ý → mang tính chất thoả thuận, hô hào mọi người cùng làm (một điều đã giao hẹn, thoả thuận từ trước). Khác với V ませんか: dùng khi chưa biết người kia có đồng ý hay ko.",
+    "structure": "V ましょう",
+    "examples": [
+      {
+        "japanese": "ロビーで 休 みましょう。",
+        "romaji": "Robii de yasumimashou.",
+        "vietnamese": "Chúng ta hãy nghỉ ở hành lang nhé!"
+      },
+      {
+        "japanese": "はじめましょう。",
+        "romaji": "Hajimemashou.",
+        "vietnamese": "Nào, chúng ta bắt đầu nào!"
+      }
+    ],
+    "notes": [
+      "Cũng là một lời để nghị cùng làm với mình nhưng trên cơ sở đã biết người kia sẽ đồng ý",
+      "Mang tính chất thoả thuận, hô hào mọi người cùng làm (một điều đã giao hẹn, thoả thuận từ trước)",
+      "Khác với V ませんか: dùng khi chưa biết người kia có đồng ý hay ko"
+    ]
+  },
+  {
+    "id": "nan-nani",
+    "title": "なん／なに - Cách phân biệt なん và なに",
+    "description": "Cả なん và なに đều có nghĩa là \"cái gì\", đều viết chung 1 chữ Hán là 何. Nhưng cần lưu ý các trường hợp phân biệt cách dùng, cách đọc như sau: Đọc là なん khi 何 đứng trước một từ bắt đầu bằng \"d, n hay t\" hoặc khi đứng sau 何 là các từ chỉ cách đếm. Các trường hợp khác thì 何 đọc là なに.",
+    "structure": "なん／なに",
+    "examples": [
+      {
+        "japanese": "何ですか。",
+        "romaji": "Nan desu ka?",
+        "vietnamese": "Cái gì vậy?"
+      },
+      {
+        "japanese": "何の会社 ですか。",
+        "romaji": "Nan no kaisha desu ka?",
+        "vietnamese": "Công ty gì vậy?"
+      },
+      {
+        "japanese": "何を たべますか。",
+        "romaji": "Nani o tabemasu ka?",
+        "vietnamese": "Bạn ăn gì?"
+      },
+      {
+        "japanese": "何も のみませんでした。",
+        "romaji": "Nani mo nomimasen deshita.",
+        "vietnamese": "Tôi đã không uống gì"
+      }
+    ],
+    "notes": [
+      "Cả なん và なに đều có nghĩa là \"cái gì\", đều viết chung 1 chữ Hán là 何",
+      "Đọc là なん khi: 1) 何 đứng trước một từ bắt đầu bằng \"d, n hay t\" (ví dụ: 何ですか, 何の会社ですか), 2) Khi đứng sau 何 là các từ chỉ cách đếm (何さい, 何ようび, 何にち)",
+      "Các trường hợp khác thì 何 đọc là なに"
     ]
   }
 ]

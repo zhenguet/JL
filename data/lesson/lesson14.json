@@ -1,57 +1,771 @@
 ﻿[
   {
-    "id": "toGive",
-    "kanji": "あげます",
-    "hiragana": "あげます",
-    "en": "to give",
-    "vi": "tặng, cho",
+    "id": "toCall",
+    "kanji": "呼びます",
+    "hiragana": "よびます",
+    "en": "to call",
+    "vi": "gọi",
     "type": "verb",
     "explanation": {
       "content": [
-        "Động từ nhóm II, dùng với trợ từ に",
-        "Ví dụ: 友達にプレゼントをあげます。 (Tặng quà cho bạn.)"
+        "Động từ nhóm I",
+        "Ví dụ: 友達を呼びます。 (Gọi bạn.)"
       ]
     }
   },
   {
-    "id": "toReceive",
-    "kanji": "もらいます",
-    "hiragana": "もらいます",
-    "en": "to receive",
-    "vi": "nhận",
+    "id": "toHurry",
+    "kanji": "急ぎます",
+    "hiragana": "いそぎます",
+    "en": "to hurry",
+    "vi": "vội vàng, nhanh",
     "type": "verb",
     "explanation": {
       "content": [
-        "Động từ nhóm I, dùng với trợ từ から hoặc に",
-        "Ví dụ: 友達からプレゼントをもらいます。 (Nhận quà từ bạn.)"
+        "Động từ nhóm I",
+        "Ví dụ: 急いで行きます。 (Vội vàng đi.)"
       ]
     }
   },
   {
-    "id": "toLend",
-    "kanji": "貸します",
-    "hiragana": "かします",
-    "en": "to lend",
-    "vi": "cho mượn",
+    "id": "toWait",
+    "kanji": "待ちます",
+    "hiragana": "まちます",
+    "en": "to wait",
+    "vi": "chờ, đợi",
     "type": "verb",
     "explanation": {
       "content": [
-        "Động từ nhóm I, dùng với trợ từ に",
-        "Ví dụ: 友達に本を貸します。 (Cho bạn mượn sách.)"
+        "Động từ nhóm I",
+        "Ví dụ: 友達を待ちます。 (Chờ bạn.)"
       ]
     }
   },
   {
-    "id": "toBorrow",
-    "kanji": "借ります",
-    "hiragana": "かります",
-    "en": "to borrow",
-    "vi": "mượn",
+    "id": "toTake",
+    "kanji": "取ります",
+    "hiragana": "とります",
+    "en": "to take",
+    "vi": "cầm, lấy",
     "type": "verb",
     "explanation": {
       "content": [
-        "Động từ nhóm I, dùng với trợ từ から hoặc に",
-        "Ví dụ: 友達から本を借ります。 (Mượn sách từ bạn.)"
+        "Động từ nhóm I",
+        "Ví dụ: 本を取ります。 (Lấy sách.)"
+      ]
+    }
+  },
+  {
+    "id": "toHelp",
+    "kanji": "手伝います",
+    "hiragana": "てつだいます",
+    "en": "to help",
+    "vi": "giúp, giúp đỡ, làm đỡ",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm I",
+        "Ví dụ: 友達を手伝います。 (Giúp bạn.)"
+      ]
+    }
+  },
+  {
+    "id": "toSay",
+    "kanji": "言います",
+    "hiragana": "いいます",
+    "en": "to say",
+    "vi": "nói",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm I",
+        "Ví dụ: ありがとうと言います。 (Nói cảm ơn.)"
+      ]
+    }
+  },
+  {
+    "id": "toSpeak",
+    "kanji": "話します",
+    "hiragana": "はなします",
+    "en": "to speak",
+    "vi": "kể, bảo, nói chuyện",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm I",
+        "Ví dụ: 日本語で話します。 (Nói chuyện bằng tiếng Nhật.)"
+      ]
+    }
+  },
+  {
+    "id": "toRemember",
+    "kanji": "覚えます",
+    "hiragana": "おぼえます",
+    "en": "to remember",
+    "vi": "nhớ, thuộc",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm II",
+        "Ví dụ: 単語を覚えます。 (Nhớ từ vựng.)"
+      ]
+    }
+  },
+  {
+    "id": "toTeach",
+    "kanji": "教えます",
+    "hiragana": "おしえます",
+    "en": "to teach",
+    "vi": "cho biết, dạy, chỉ bảo",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm II",
+        "Ví dụ: 住所を教えます。 (Cho biết địa chỉ.)"
+      ]
+    }
+  },
+  {
+    "id": "toTellAddress",
+    "kanji": "住所を教えます",
+    "hiragana": "じゅうしょをおしえます",
+    "en": "to tell the address",
+    "vi": "cho biết địa chỉ",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm II",
+        "Ví dụ: 住所を教えます。 (Cho biết địa chỉ.)"
+      ]
+    }
+  },
+  {
+    "id": "toShow",
+    "kanji": "見せます",
+    "hiragana": "みせます",
+    "en": "to show",
+    "vi": "cho xem",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm II",
+        "Ví dụ: 写真を見せます。 (Cho xem ảnh.)"
+      ]
+    }
+  },
+  {
+    "id": "toFall",
+    "kanji": "降ります",
+    "hiragana": "ふります",
+    "en": "to fall",
+    "vi": "[mưa, tuyết] rơi",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm I",
+        "Ví dụ: 雨が降ります。 (Mưa rơi.)"
+      ]
+    }
+  },
+  {
+    "id": "rainFalls",
+    "kanji": "雨が降ります",
+    "hiragana": "あめがふります",
+    "en": "rain falls",
+    "vi": "mưa rơi",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm I",
+        "Ví dụ: 雨が降ります。 (Mưa rơi.)"
+      ]
+    }
+  },
+  {
+    "id": "toTurnOn",
+    "kanji": "つけます",
+    "hiragana": "つけます",
+    "en": "to turn on",
+    "vi": "bật (tivi, đài, máy tính…)",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm II",
+        "Ví dụ: テレビをつけます。 (Bật tivi.)"
+      ]
+    }
+  },
+  {
+    "id": "toTurnOff",
+    "kanji": "消します",
+    "hiragana": "けします",
+    "en": "to turn off",
+    "vi": "tắt (tivi, đài, máy tính…)",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm I",
+        "Ví dụ: テレビを消します。 (Tắt tivi.)"
+      ]
+    }
+  },
+  {
+    "id": "toOpen",
+    "kanji": "開けます",
+    "hiragana": "あけます",
+    "en": "to open",
+    "vi": "mở (cửa)",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm II",
+        "Ví dụ: ドアを開けます。 (Mở cửa.)"
+      ]
+    }
+  },
+  {
+    "id": "toClose",
+    "kanji": "閉めます",
+    "hiragana": "しめます",
+    "en": "to close",
+    "vi": "đóng (cửa)",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm II",
+        "Ví dụ: ドアを閉めます。 (Đóng cửa.)"
+      ]
+    }
+  },
+  {
+    "id": "toStop",
+    "kanji": "止めます",
+    "hiragana": "とめます",
+    "en": "to stop",
+    "vi": "ngừng, dừng lại, đỗ (xe)",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm II",
+        "Ví dụ: 車を止めます。 (Đỗ xe.)"
+      ]
+    }
+  },
+  {
+    "id": "toTurn",
+    "kanji": "曲がります",
+    "hiragana": "まがります",
+    "en": "to turn",
+    "vi": "rẽ",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm I",
+        "Ví dụ: 右へ曲がります。 (Rẽ phải.)"
+      ]
+    }
+  },
+  {
+    "id": "turnRight",
+    "kanji": "右へ曲がります",
+    "hiragana": "みぎへまがります",
+    "en": "turn right",
+    "vi": "rẽ phải",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm I",
+        "Ví dụ: 右へ曲がります。 (Rẽ phải.)"
+      ]
+    }
+  },
+  {
+    "id": "toHold",
+    "kanji": "持ちます",
+    "hiragana": "もちます",
+    "en": "to hold",
+    "vi": "cầm, nắm, mang",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm I",
+        "Ví dụ: かばんを持ちます。 (Mang cặp.)"
+      ]
+    }
+  },
+  {
+    "id": "toStart",
+    "kanji": "始めます",
+    "hiragana": "はじめます",
+    "en": "to start",
+    "vi": "bắt đầu",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm II",
+        "Ví dụ: 会議を始めます。 (Bắt đầu cuộc họp.)"
+      ]
+    }
+  },
+  {
+    "id": "toCopy",
+    "kanji": "コピーします",
+    "hiragana": "コピーします",
+    "en": "to copy",
+    "vi": "phô tô",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm III (する)",
+        "Ví dụ: 書類をコピーします。 (Phô tô tài liệu.)"
+      ]
+    }
+  },
+  {
+    "id": "word",
+    "kanji": "言葉",
+    "hiragana": "ことば",
+    "en": "word",
+    "vi": "lời, tiếng nói, từ",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ từ ngữ",
+        "Ví dụ: 日本語の言葉を覚えます。 (Nhớ từ tiếng Nhật.)"
+      ]
+    }
+  },
+  {
+    "id": "name",
+    "kanji": "名前",
+    "hiragana": "なまえ",
+    "en": "name",
+    "vi": "tên",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ tên",
+        "Ví dụ: 名前を教えます。 (Cho biết tên.)"
+      ]
+    }
+  },
+  {
+    "id": "address",
+    "kanji": "住所",
+    "hiragana": "じゅうしょ",
+    "en": "address",
+    "vi": "địa chỉ",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ địa chỉ",
+        "Ví dụ: 住所を書きます。 (Viết địa chỉ.)"
+      ]
+    }
+  },
+  {
+    "id": "salt",
+    "kanji": "塩",
+    "hiragana": "しお",
+    "en": "salt",
+    "vi": "muối",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ muối",
+        "Ví dụ: 塩を入れます。 (Cho muối vào.)"
+      ]
+    }
+  },
+  {
+    "id": "sugar",
+    "kanji": "砂糖",
+    "hiragana": "さとう",
+    "en": "sugar",
+    "vi": "đường",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ đường",
+        "Ví dụ: 砂糖を入れます。 (Cho đường vào.)"
+      ]
+    }
+  },
+  {
+    "id": "umbrella",
+    "kanji": "傘",
+    "hiragana": "かさ",
+    "en": "umbrella",
+    "vi": "ô, dù",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ ô",
+        "Ví dụ: 傘を持ちます。 (Mang ô.)"
+      ]
+    }
+  },
+  {
+    "id": "map",
+    "kanji": "地図",
+    "hiragana": "ちず",
+    "en": "map",
+    "vi": "bản đồ",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ bản đồ",
+        "Ví dụ: 地図を見ます。 (Xem bản đồ.)"
+      ]
+    }
+  },
+  {
+    "id": "airConditioner",
+    "kanji": "エアコン",
+    "hiragana": "エアコン",
+    "en": "air conditioner",
+    "vi": "máy lạnh, máy điều hòa",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ máy điều hòa (từ mượn)",
+        "Ví dụ: エアコンをつけます。 (Bật máy điều hòa.)"
+      ]
+    }
+  },
+  {
+    "id": "typewriter",
+    "kanji": "タイプ",
+    "hiragana": "タイプ",
+    "en": "typewriter",
+    "vi": "máy chữ",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ máy chữ (từ mượn)",
+        "Ví dụ: タイプで書きます。 (Viết bằng máy chữ.)"
+      ]
+    }
+  },
+  {
+    "id": "wordProcessor",
+    "kanji": "ワープロ",
+    "hiragana": "ワープロ",
+    "en": "word processor",
+    "vi": "máy chữ điện tử",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ máy chữ điện tử (từ mượn)",
+        "Ví dụ: ワープロで書きます。 (Viết bằng máy chữ điện tử.)"
+      ]
+    }
+  },
+  {
+    "id": "way",
+    "kanji": "～方",
+    "hiragana": "～かた",
+    "en": "way",
+    "vi": "~ cách",
+    "type": "other",
+    "explanation": {
+      "content": [
+        "Hậu tố chỉ cách thức",
+        "Ví dụ: 話し方 (Cách nói)"
+      ]
+    }
+  },
+  {
+    "id": "wayOfSpeaking",
+    "kanji": "話し方",
+    "hiragana": "はなしかた",
+    "en": "way of speaking",
+    "vi": "cách nói",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ cách nói",
+        "Ví dụ: 日本語の話し方を習います。 (Học cách nói tiếng Nhật.)"
+      ]
+    }
+  },
+  {
+    "id": "wayOfWriting",
+    "kanji": "書き方",
+    "hiragana": "かきかた",
+    "en": "way of writing",
+    "vi": "cách viết",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ cách viết",
+        "Ví dụ: 漢字の書き方を習います。 (Học cách viết chữ Hán.)"
+      ]
+    }
+  },
+  {
+    "id": "wayOfReading",
+    "kanji": "読み方",
+    "hiragana": "よみかた",
+    "en": "way of reading",
+    "vi": "cách đọc",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ cách đọc",
+        "Ví dụ: 漢字の読み方を習います。 (Học cách đọc chữ Hán.)"
+      ]
+    }
+  },
+  {
+    "id": "slowly",
+    "kanji": "ゆっくり",
+    "hiragana": "ゆっくり",
+    "en": "slowly",
+    "vi": "từ từ, thong thả, chậm",
+    "type": "adverb",
+    "explanation": {
+      "content": [
+        "Phó từ chỉ tốc độ",
+        "Ví dụ: ゆっくり話します。 (Nói từ từ.)"
+      ]
+    }
+  },
+  {
+    "id": "onceMore",
+    "kanji": "もう一度",
+    "hiragana": "もういちど",
+    "en": "once more",
+    "vi": "một lần nữa, lại",
+    "type": "adverb",
+    "explanation": {
+      "content": [
+        "Phó từ chỉ tần suất",
+        "Ví dụ: もう一度言います。 (Nói lại một lần nữa.)"
+      ]
+    }
+  },
+  {
+    "id": "again",
+    "kanji": "また",
+    "hiragana": "また",
+    "en": "again",
+    "vi": "lại, nữa",
+    "type": "adverb",
+    "explanation": {
+      "content": [
+        "Phó từ chỉ tần suất",
+        "Ví dụ: また来ます。 (Lại đến.)"
+      ]
+    }
+  },
+  {
+    "id": "aLittleMore",
+    "kanji": "もう少し",
+    "hiragana": "もうすこし",
+    "en": "a little more",
+    "vi": "một chút nữa",
+    "type": "adverb",
+    "explanation": {
+      "content": [
+        "Phó từ chỉ mức độ",
+        "Ví dụ: もう少し待ちます。 (Chờ một chút nữa.)"
+      ]
+    }
+  },
+  {
+    "id": "immediately",
+    "kanji": "すぐ",
+    "hiragana": "すぐ",
+    "en": "immediately",
+    "vi": "ngay lập tức",
+    "type": "adverb",
+    "explanation": {
+      "content": [
+        "Phó từ chỉ thời gian",
+        "Ví dụ: すぐ行きます。 (Đi ngay lập tức.)"
+      ]
+    }
+  },
+  {
+    "id": "later",
+    "kanji": "あとで",
+    "hiragana": "あとで",
+    "en": "later",
+    "vi": "sau đây, sau đó",
+    "type": "adverb",
+    "explanation": {
+      "content": [
+        "Phó từ chỉ thời gian",
+        "Ví dụ: あとで電話します。 (Gọi điện sau đó.)"
+      ]
+    }
+  },
+  {
+    "id": "allRight",
+    "kanji": "さあ、いいですよ",
+    "hiragana": "さあ、いいですよ",
+    "en": "all right",
+    "vi": "được đấy. tất nhiên rồi (sử dụng khi cổ vũ, khích lệ một hành động nào đó)",
+    "type": "other",
+    "explanation": {
+      "content": [
+        "Câu cổ vũ, khích lệ",
+        "Ví dụ: さあ、いいですよ。 (Được đấy. Tất nhiên rồi.)"
+      ]
+    }
+  },
+  {
+    "id": "oh",
+    "kanji": "あれ？",
+    "hiragana": "あれ？",
+    "en": "oh",
+    "vi": "ồ! (dùng khi ngạc nhiên hoặc nghi ngờ)",
+    "type": "other",
+    "explanation": {
+      "content": [
+        "Từ cảm thán",
+        "Ví dụ: あれ？ (Ồ!)"
+      ]
+    }
+  },
+  {
+    "id": "doYouHaveCheapOne",
+    "kanji": "「安いの」はありませんか",
+    "hiragana": "「やすいの」はありませんか",
+    "en": "do you have a cheap one",
+    "vi": "có [loại rẻ] không?",
+    "type": "other",
+    "explanation": {
+      "content": [
+        "Câu hỏi trong cửa hàng",
+        "Ví dụ: 「安いの」はありませんか。 (Có loại rẻ không?)"
+      ]
+    }
+  },
+  {
+    "id": "howAboutThis",
+    "kanji": "こちらはいかがですか",
+    "hiragana": "こちらはいかがですか",
+    "en": "how about this",
+    "vi": "loại này thế nào?",
+    "type": "other",
+    "explanation": {
+      "content": [
+        "Câu hỏi lịch sự",
+        "Ví dụ: こちらはいかがですか。 (Loại này thế nào?)"
+      ]
+    }
+  },
+  {
+    "id": "hmm",
+    "kanji": "ううん．．．",
+    "hiragana": "ううん．．．",
+    "en": "hmm",
+    "vi": "chà… (tiếng thốt ra khi đang suy nghĩ mà chưa quyết định)",
+    "type": "other",
+    "explanation": {
+      "content": [
+        "Từ đệm khi suy nghĩ",
+        "Ví dụ: ううん．．． (Chà…)"
+      ]
+    }
+  },
+  {
+    "id": "imVerySorry",
+    "kanji": "「どうも」すみません",
+    "hiragana": "「どうも」すみません",
+    "en": "im very sorry",
+    "vi": "[rất] xin lỗi",
+    "type": "other",
+    "explanation": {
+      "content": [
+        "Lời xin lỗi lịch sự",
+        "Ví dụ: 「どうも」すみません。 (Rất xin lỗi.)"
+      ]
+    }
+  },
+  {
+    "id": "illComeAgain",
+    "kanji": "また来ます",
+    "hiragana": "またきます",
+    "en": "ill come again",
+    "vi": "tôi sẽ lại đến",
+    "type": "other",
+    "explanation": {
+      "content": [
+        "Lời chào khi rời cửa hàng",
+        "Ví dụ: また来ます。 (Tôi sẽ lại đến.)"
+      ]
+    }
+  },
+  {
+    "id": "pleaseTurnRightAtTrafficLight",
+    "kanji": "信号を右へ曲がってください",
+    "hiragana": "しんごうをみぎへまがってください",
+    "en": "please turn right at the traffic light",
+    "vi": "hãy rẽ phải ở chỗ đèn giao thông",
+    "type": "other",
+    "explanation": {
+      "content": [
+        "Câu chỉ đường",
+        "Ví dụ: 信号を右へ曲がってください。 (Hãy rẽ phải ở chỗ đèn giao thông.)"
+      ]
+    }
+  },
+  {
+    "id": "straight",
+    "kanji": "まっすぐ",
+    "hiragana": "まっすぐ",
+    "en": "straight",
+    "vi": "thẳng",
+    "type": "adverb",
+    "explanation": {
+      "content": [
+        "Phó từ chỉ hướng",
+        "Ví dụ: まっすぐ行きます。 (Đi thẳng.)"
+      ]
+    }
+  },
+  {
+    "id": "pleaseDoThis",
+    "kanji": "これでお願いします",
+    "hiragana": "これでおねがいします",
+    "en": "please do this",
+    "vi": "mong anh giúp cho như thế nhé",
+    "type": "other",
+    "explanation": {
+      "content": [
+        "Câu yêu cầu lịch sự",
+        "Ví dụ: これでお願いします。 (Mong anh giúp cho như thế nhé.)"
+      ]
+    }
+  },
+  {
+    "id": "change",
+    "kanji": "お釣り",
+    "hiragana": "おつり",
+    "en": "change",
+    "vi": "tiền thừa, tiền trả lại",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ tiền thừa, có tiền tố お (lịch sự)",
+        "Ví dụ: お釣りをください。 (Cho tiền thừa.)"
+      ]
+    }
+  },
+  {
+    "id": "umeda",
+    "kanji": "梅田",
+    "hiragana": "うめだ",
+    "en": "Umeda",
+    "vi": "tên 1 thị trấn ở Osaka",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Tên địa danh",
+        "Ví dụ: 梅田へ行きます。 (Đi Umeda.)"
       ]
     }
   }

@@ -1,53 +1,252 @@
 ﻿[
   {
-    "id": "i-adjective-negative",
-    "title": "い-adjective - Dạng phủ định",
-    "description": "Dạng phủ định của い-adjective được tạo bằng cách bỏ い và thêm くないです.",
-    "structure": "い-adjective (bỏ い) + くないです",
+    "id": "na-adj-i-adj-intro",
+    "title": "な-Adj & い-Adj - Giới thiệu về tính từ trong tiếng Nhật",
+    "description": "Tính từ trong tiếng Nhật bao gồm 2 loại: Tính từ đuôi い (có đuôi tận cùng là い) và Tính từ đuôi な (có đuôi tận cùng là な). Không giống tính từ đuôi い, do một số chức năng về ngữ pháp mà đuôi な có lúc xuất hiện có lúc không xuất hiện trong từ và câu. Vì thế, về mặt thể hiện, người ta hay để đuôi な trong ngoặc đơn. Một số từ dễ nhầm với tính từ đuôi い: きれい（な） (đẹp, sạch)、有名な (nổi tiếng)、きらい（な） (ghét, không thích)",
+    "structure": "な-Adj & い-Adj",
     "examples": [
       {
-        "japanese": "この本は高くないです。",
-        "romaji": "Kono hon wa takakunai desu.",
-        "vietnamese": "Cuốn sách này không đắt."
+        "japanese": "小さい (nhỏ)",
+        "romaji": "chiisai",
+        "vietnamese": "nhỏ"
       },
       {
-        "japanese": "この部屋は大きくないです。",
-        "romaji": "Kono heya wa ookikunai desu.",
-        "vietnamese": "Căn phòng này không lớn."
+        "japanese": "大きい (to)",
+        "romaji": "ookii",
+        "vietnamese": "to"
       },
       {
-        "japanese": "この問題は難しくないです。",
-        "romaji": "Kono mondai wa muzukashikunai desu.",
-        "vietnamese": "Vấn đề này không khó."
+        "japanese": "ハンサム（な） (đẹp trai)",
+        "romaji": "hansamu (na)",
+        "vietnamese": "đẹp trai"
+      },
+      {
+        "japanese": "しんせつ（な） (tốt bụng)",
+        "romaji": "shinsetsu (na)",
+        "vietnamese": "tốt bụng"
       }
     ],
     "notes": [
-      "Bỏ い và thêm くないです",
-      "Ví dụ: 高い → 高くないです",
-      "Ví dụ: 易しい → 易しくないです"
+      "Tính từ đuôi い: Có đuôi tận cùng là い (ví dụ: 小さい、大きい、熱い、寒い、高い)",
+      "Tính từ đuôi な: Có đuôi tận cùng là な (ví dụ: ハンサム（な）、しんせつ（な）、しずか（な）、べんり（な）)",
+      "Đuôi な có lúc xuất hiện có lúc không xuất hiện trong từ và câu",
+      "Một số từ dễ nhầm với tính từ đuôi い: きれい（な）、有名な、きらい（な）"
     ]
   },
   {
-    "id": "i-adjective-past",
-    "title": "い-adjective - Dạng quá khứ",
-    "description": "Dạng quá khứ của い-adjective được tạo bằng cách bỏ い và thêm かったです.",
-    "structure": "い-adjective (bỏ い) + かったです",
+    "id": "na-adj-i-adj-affirmative",
+    "title": "N は な-Adj [な]です / N は い-Adj です - Câu khẳng định với tính từ",
+    "description": "Tương tự mẫu câu với danh từ, trong đó です được đặt sau tính từ trong câu khẳng định để biểu thị sự lịch sự đối với người nghe. Tính từ đứng trước です, nếu là tính từ đuôi い thì giữ nguyên い còn nếu là tính từ đuôi な thì sẽ không có な",
+    "structure": "N は な-Adj [な]です / N は い-Adj です",
     "examples": [
       {
-        "japanese": "昨日は暑かったです。",
-        "romaji": "Kinou wa atsukatta desu.",
-        "vietnamese": "Hôm qua trời nóng."
+        "japanese": "田中先生 は しんせつです。",
+        "romaji": "Tanaka-sensei wa shinsetsu desu.",
+        "vietnamese": "Thầy Tanaka tốt bụng."
       },
       {
-        "japanese": "その映画は面白かったです。",
-        "romaji": "Sono eiga wa omoshirokatta desu.",
-        "vietnamese": "Bộ phim đó thú vị."
+        "japanese": "富士山 は 高 いです。",
+        "romaji": "Fujisan wa takai desu.",
+        "vietnamese": "Núi Phú Sĩ cao."
+      },
+      {
+        "japanese": "ハノイは あたたかいです。",
+        "romaji": "Hanoi wa atatakai desu.",
+        "vietnamese": "Hà Nội ấm áp."
+      },
+      {
+        "japanese": "あの人は ゆうめいです。",
+        "romaji": "Ano hito wa yuumei desu.",
+        "vietnamese": "Người kia nổi tiếng"
       }
     ],
     "notes": [
-      "Bỏ い và thêm かったです",
-      "Ví dụ: 高い → 高かったです",
-      "Ví dụ: 易しい → 易しかったです"
+      "Tính từ đuôi い: giữ nguyên い trước です",
+      "Tính từ đuôi な: không có な trước です"
+    ]
+  },
+  {
+    "id": "na-adj-i-adj-negative",
+    "title": "N は な-Adj [な]ではありません / N は い-Adj くないです - Câu phủ định với tính từ",
+    "description": "Trong câu phủ định: Đối với tính từ đuôi な: Biến đổi như với trường hợp danh từ. Tức là đổi です thành ではありません hoặc じゃありません. Đối với tính từ đuôi い: đổi cụm いです thành くないです. Trường hợp đặc biệt tính từ いい sẽ đổi いいです thành よくないです",
+    "structure": "N は な-Adj [な]ではありません / N は い-Adj くないです",
+    "examples": [
+      {
+        "japanese": "ハノイは 静 かではありません。",
+        "romaji": "Hanoi wa shizuka dewa arimasen.",
+        "vietnamese": "Hà Nội không yên tĩnh."
+      },
+      {
+        "japanese": "ハノイは 静 かじゃありません。",
+        "romaji": "Hanoi wa shizuka ja arimasen.",
+        "vietnamese": "Hà Nội không yên tĩnh."
+      },
+      {
+        "japanese": "この映画 は おもしろくないです。",
+        "romaji": "Kono eiga wa omoshirokunai desu.",
+        "vietnamese": "Bộ phim này không hay."
+      }
+    ],
+    "notes": [
+      "Tính từ đuôi な: です → ではありません / じゃありません",
+      "Tính từ đuôi い: いです → くないです",
+      "Trường hợp đặc biệt: いいです → よくないです",
+      "Bảng tính từ ở thời hiện tại và tương lai: Khẳng định - い-Adj いです / な-Adj [な]です; Phủ định - い-Adj くないです / な-Adj [な] ではありません"
+    ]
+  },
+  {
+    "id": "dou-desu-ka",
+    "title": "N は どう ですか - Cách đặt câu hỏi với tính từ: cái gì đó thế nào?",
+    "description": "どう là từ để hỏi cho tính chất, cảm tưởng về vật, sự vật, người",
+    "structure": "N は どう ですか",
+    "examples": [
+      {
+        "japanese": "日本 の生活 は どう ですか。",
+        "romaji": "Nihon no seikatsu wa dou desu ka?",
+        "vietnamese": "Cuộc sống ở Nhật thế nào?"
+      },
+      {
+        "japanese": "... 楽 しいです。",
+        "romaji": "...Tanoshii desu.",
+        "vietnamese": "... Rất vui."
+      }
+    ],
+    "notes": [
+      "どう là từ để hỏi cho tính chất, cảm tưởng về vật, sự vật, người"
+    ]
+  },
+  {
+    "id": "adj-modify-noun",
+    "title": "な-Adj な N / い-Adj（～い） N - Cách dùng tính từ để bổ sung ý nghĩa cho danh từ",
+    "description": "Tính từ được đặt trước danh từ để bổ nghĩa cho danh từ đó. Khi đứng trước danh từ: Tính từ đuôi な giữ nguyên な. Tính từ đuôi い thì giữ nguyên い",
+    "structure": "な-Adj な N / い-Adj（～い） N",
+    "examples": [
+      {
+        "japanese": "ジョンさんは ハンサムな人です。",
+        "romaji": "Jon-san wa hansamu na hito desu.",
+        "vietnamese": "Anh John là người đẹp trai."
+      },
+      {
+        "japanese": "今日 は 暑 い日 です。",
+        "romaji": "Kyou wa atsui hi desu.",
+        "vietnamese": "Hôm nay là một ngày nóng."
+      },
+      {
+        "japanese": "Ａｎさんは ゆうめいな ひとです。",
+        "romaji": "An-san wa yuumei na hito desu.",
+        "vietnamese": "Bạn An là người nổi tiếng."
+      },
+      {
+        "japanese": "富 士 山 は たかい山 です。",
+        "romaji": "Fujisan wa takai yama desu.",
+        "vietnamese": "Núi Phú Sĩ là ngọn núi cao."
+      }
+    ],
+    "notes": [
+      "Tính từ đuôi な: giữ nguyên な khi đứng trước danh từ",
+      "Tính từ đuôi い: giữ nguyên い khi đứng trước danh từ"
+    ]
+  },
+  {
+    "id": "amari-negative",
+    "title": "あまり＋．．． phủ định của tính từ - Không ~ lắm / Không ~ mấy",
+    "description": "あまり đứng trước tính từ dạng phủ định thể hiện sự phủ định một phần.",
+    "structure": "あまり＋．．． phủ định của tính từ",
+    "examples": [
+      {
+        "japanese": "この食 べ物 は あまり おいしくないです。",
+        "romaji": "Kono tabemono wa amari oishikunai desu.",
+        "vietnamese": "Đồ ăn này không ngon lắm."
+      },
+      {
+        "japanese": "この辞書 は あまり 便利 ではありません。",
+        "romaji": "Kono jisho wa amari benri dewa arimasen.",
+        "vietnamese": "Quyển từ điển này không tiện lợi lắm."
+      },
+      {
+        "japanese": "日本語 は 難 しいですか。",
+        "romaji": "Nihongo wa muzukashii desu ka?",
+        "vietnamese": "Tiếng Nhật khó phải không?"
+      },
+      {
+        "japanese": "...いいえ、 あまり 難 しくないです。",
+        "romaji": "...Iie, amari muzukashikunai desu.",
+        "vietnamese": "... Không, không khó lắm."
+      }
+    ],
+    "notes": [
+      "あまり đứng trước tính từ dạng phủ định thể hiện sự phủ định một phần"
+    ]
+  },
+  {
+    "id": "dou-donna",
+    "title": "どう／どんな - Cách đặt câu hỏi: một cái gì đó có tính chất như thế nào?",
+    "description": "どう・どんな đều là nghi vấn từ để hỏi về cảm tưởng, tính chất, tình trạng của người hay vật. Tuy nhiên, cần chú ý, どう thì hỏi trực tiếp vào tính chất của danh từ (không có danh từ đằng sau) còn どんな thì hỏi 1 danh từ nào có tính chất gì (phải có danh từ đi sau)",
+    "structure": "N は どうですか / N1 は どんな N2 ですか",
+    "examples": [
+      {
+        "japanese": "日本 の料理 は どう ですか。",
+        "romaji": "Nihon no ryouri wa dou desu ka?",
+        "vietnamese": "Món ăn Nhật thế nào?"
+      },
+      {
+        "japanese": "...おいしいですが、 高 いです。",
+        "romaji": "...Oishii desu ga, takai desu.",
+        "vietnamese": "...Ngon nhưng đắt."
+      },
+      {
+        "japanese": "鈴木 さんは どんな 人 ですか。",
+        "romaji": "Suzuki-san wa donna hito desu ka?",
+        "vietnamese": "Suzuki là người thế nào?"
+      },
+      {
+        "japanese": "...親切 な人 です。",
+        "romaji": "...Shinsetsu na hito desu.",
+        "vietnamese": "... Chị ấy là người tốt."
+      },
+      {
+        "japanese": "Hue は どんな町 ですか。",
+        "romaji": "Hue wa donna machi desu ka?",
+        "vietnamese": "Huế là thành phố như thế nào?"
+      },
+      {
+        "japanese": "... 静 かな 町 です。",
+        "romaji": "...Shizuka na machi desu.",
+        "vietnamese": "Là thành phố yên tĩnh."
+      }
+    ],
+    "notes": [
+      "どう: hỏi trực tiếp vào tính chất của danh từ (không có danh từ đằng sau)",
+      "どんな: hỏi 1 danh từ nào có tính chất gì (phải có danh từ đi sau)",
+      "N は どうですか - N như thế nào?",
+      "N1 は どんな N2 ですか - N1 là N2 như thế nào?"
+    ]
+  },
+  {
+    "id": "dore-desu-ka",
+    "title": "N はどれですか - N là cái nào?",
+    "description": "どれ： là từ để hỏi có nghĩa là \"cái nào\". Sử dụng để yêu cầu người nghe chọn một trong số những cái đưa ra (từ 2 thứ trở lên).",
+    "structure": "N はどれですか",
+    "examples": [
+      {
+        "japanese": "山田さんのとけいは どれですか。",
+        "romaji": "Yamada-san no tokei wa dore desu ka?",
+        "vietnamese": "Đồng hồ của Yamada là cái nào?"
+      },
+      {
+        "japanese": "... あおい とけいです。",
+        "romaji": "...Aoi tokei desu.",
+        "vietnamese": "... Đồng hồ mầu xanh."
+      },
+      {
+        "japanese": "... あおい のです。",
+        "romaji": "...Aoi no desu.",
+        "vietnamese": "... Cái mầu xanh"
+      }
+    ],
+    "notes": [
+      "どれ： là từ để hỏi có nghĩa là \"cái nào\"",
+      "Sử dụng để yêu cầu người nghe chọn một trong số những cái đưa ra (từ 2 thứ trở lên)"
     ]
   }
 ]

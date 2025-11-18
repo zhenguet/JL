@@ -1,57 +1,202 @@
 ﻿[
   {
-    "id": "arimasu-imasu",
-    "title": "あります・います - Có",
-    "description": "あります dùng cho đồ vật, sự việc. います dùng cho người, động vật. Cả hai đều dùng với trợ từ に để chỉ vị trí.",
-    "structure": "Danh từ (vị trí) + に + Danh từ + が + あります/います",
+    "id": "ga-arimasu-imasu-possession",
+    "title": "N が あります／います - Cách thể hiện sự sở hữu (người và đồ vật)",
+    "description": "Có N. Hai động từ あります／います để chỉ sự sở hữu. あります sử dụng khi N là đồ vật. います sử dụng khi N là người và động vật.",
+    "structure": "N が あります／います",
     "examples": [
       {
-        "japanese": "机の上に本があります。",
-        "romaji": "Tsukue no ue ni hon ga arimasu.",
-        "vietnamese": "Có sách trên bàn."
+        "japanese": "コンピューターが あります。",
+        "romaji": "Konpyuutaa ga arimasu.",
+        "vietnamese": "Tôi có máy vi tính."
       },
       {
-        "japanese": "教室に学生がいます。",
-        "romaji": "Kyoushitsu ni gakusei ga imasu.",
-        "vietnamese": "Có học sinh trong lớp học."
-      },
-      {
-        "japanese": "公園に猫がいます。",
-        "romaji": "Kouen ni neko ga imasu.",
-        "vietnamese": "Có mèo trong công viên."
+        "japanese": "兄 が います。",
+        "romaji": "Ani ga imasu.",
+        "vietnamese": "Tôi có anh trai."
       }
     ],
     "notes": [
-      "あります: dùng cho đồ vật, sự việc",
-      "います: dùng cho người, động vật",
-      "に chỉ vị trí, が chỉ chủ ngữ"
+      "あります sử dụng khi N là đồ vật",
+      "います sử dụng khi N là người và động vật"
     ]
   },
   {
-    "id": "no-particle-location",
-    "title": "の - Chỉ vị trí",
-    "description": "の dùng để nối danh từ chỉ vị trí với danh từ khác, tạo thành cụm từ chỉ vị trí.",
-    "structure": "Danh từ + の + Danh từ (vị trí)",
+    "id": "n1-ni-n2-ga-arimasu-imasu",
+    "title": "N1(địa điểm)に N2 が あります／いま す - Cách thể hiện sự tồn tại (người và đồ vật) - nhấn mạnh vào vị trí",
+    "description": "Có N2 ở N1 / Ở N1 có N2. Đây là câu miêu tả một sự thật (như quang cảnh, vị trí...). N1 là địa điểm tồn tại của N2 và được xác định bằng trợ từ に. Nếu N2 là đồ vật: dùng あります; nếu N2 là người, động vật: dùng います",
+    "structure": "N1(địa điểm)に N2 が あります／いま す",
     "examples": [
       {
-        "japanese": "机の上に本があります。",
-        "romaji": "Tsukue no ue ni hon ga arimasu.",
-        "vietnamese": "Có sách trên bàn."
+        "japanese": "私 の部屋 に 電話 があります。",
+        "romaji": "Watashi no heya ni denwa ga arimasu.",
+        "vietnamese": "Trong phòng tôi có cái điện thoại."
       },
       {
-        "japanese": "箱の中に猫がいます。",
-        "romaji": "Hako no naka ni neko ga imasu.",
-        "vietnamese": "Có mèo trong hộp."
+        "japanese": "庭 に さくら の木があります。",
+        "romaji": "Niwa ni sakura no ki ga arimasu.",
+        "vietnamese": "Ở ngoài sân có cây hoa Anh đào."
       },
       {
-        "japanese": "学校の前にバス停があります。",
-        "romaji": "Gakkou no mae ni basutei ga arimasu.",
-        "vietnamese": "Có trạm xe buýt trước trường."
+        "japanese": "教 室 に 田中 さんがいます。",
+        "romaji": "Kyoushitsu ni Tanaka-san ga imasu.",
+        "vietnamese": "Trong phòng học có bạn Tanaka."
+      },
+      {
+        "japanese": "かばんに 何 が ありますか。",
+        "romaji": "Kaban ni nani ga arimasu ka?",
+        "vietnamese": "Trong cặp có gì thế?"
+      },
+      {
+        "japanese": "… 本 や ペンが あります。",
+        "romaji": "...Hon ya pen ga arimasu.",
+        "vietnamese": "... Có sách và bút..."
+      },
+      {
+        "japanese": "にわに 何 が いますか。",
+        "romaji": "Niwa ni nani ga imasu ka?",
+        "vietnamese": "Ngoài sân có con gì thế?"
+      },
+      {
+        "japanese": "… 犬 が います。",
+        "romaji": "...Inu ga imasu.",
+        "vietnamese": "... Có con chó."
+      },
+      {
+        "japanese": "教 室 に だれが いますか。",
+        "romaji": "Kyoushitsu ni dare ga imasu ka?",
+        "vietnamese": "Trong phòng học có ai thế?"
+      },
+      {
+        "japanese": "… 鈴木先生 が います。",
+        "romaji": "...Suzuki-sensei ga imasu.",
+        "vietnamese": "... Có cô Suzuki."
       }
     ],
     "notes": [
-      "の nối danh từ với từ chỉ vị trí",
-      "Các từ chỉ vị trí: 上 (ue - trên), 下 (shita - dưới), 中 (naka - trong), 前 (mae - trước), 後 (ushiro - sau)"
+      "N1 là địa điểm tồn tại của N2 và được xác định bằng trợ từ に",
+      "Nếu N2 là đồ vật: dùng あります",
+      "Nếu N2 là người, động vật: dùng います",
+      "N に なにが ありますか - Ở N (nơi chốn) có cái gì?",
+      "N に なにが いますか - Ở N (nơi chốn) có con gì?",
+      "N に だれが いますか - Ở N (nơi chốn) có ai?"
+    ]
+  },
+  {
+    "id": "n1-wa-n2-ni-arimasu-imasu",
+    "title": "N1 は N2 (địa điểm) に あります／います - Cách thể hiện sự tồn tại (người và đồ vật) - nhấn mạnh vào chủ thể",
+    "description": "N1 ở N2. Đây là câu chỉ về nơi tồn tại của người hay vật. N1 được đưa lên làm chủ đề của cả câu. です thỉnh thoảng được sử dụng thay thế cho động từ chỉ vị trí あります・います khi những động từ đó đã được nói đến hoặc đã xác định.",
+    "structure": "N1 は N2 (địa điểm) に あります／います",
+    "examples": [
+      {
+        "japanese": "ランさんの電話 は うけつけにあります。",
+        "romaji": "Ran-san no denwa wa uketsuke ni arimasu.",
+        "vietnamese": "Điện thoại của Lan ở quầy tiếp tân."
+      },
+      {
+        "japanese": "パソコンは 事務所 に あります。",
+        "romaji": "Pasokon wa jimusho ni arimasu.",
+        "vietnamese": "Máy Laptop ở văn phòng."
+      },
+      {
+        "japanese": "犬 は にわに います。",
+        "romaji": "Inu wa niwa ni imasu.",
+        "vietnamese": "Con chó ở ngoài sân."
+      },
+      {
+        "japanese": "鈴木 さんは 食 堂 に います。",
+        "romaji": "Suzuki-san wa shokudou ni imasu.",
+        "vietnamese": "Cô Suzuki ở phòng ăn."
+      },
+      {
+        "japanese": "Dam Sen は どこに ありますか。",
+        "romaji": "Dam Sen wa doko ni arimasu ka?",
+        "vietnamese": "Đầm Sen ở đâu?"
+      },
+      {
+        "japanese": "... Sai Gon です。",
+        "romaji": "...Sai Gon desu.",
+        "vietnamese": "... Ở Sài Gòn."
+      }
+    ],
+    "notes": [
+      "N1 được đưa lên làm chủ đề của cả câu",
+      "です thỉnh thoảng được sử dụng thay thế cho động từ chỉ vị trí あります・います khi những động từ đó đã được nói đến hoặc đã xác định"
+    ]
+  },
+  {
+    "id": "n1-no-n2-location",
+    "title": "N1 (vật, người, địa điểm) の N2 (danh từ chỉ vị trí) - Cách thể hiện tương quan vị trí",
+    "description": "Cả cụm \"N1 の N2\" được sử dụng như một danh từ chỉ địa điểm.",
+    "structure": "N1 (vật, người, địa điểm) の N2 (danh từ chỉ vị trí)",
+    "examples": [
+      {
+        "japanese": "つくえの 上",
+        "romaji": "tsukue no ue",
+        "vietnamese": "Trên bàn"
+      },
+      {
+        "japanese": "としょかんの 前",
+        "romaji": "toshokan no mae",
+        "vietnamese": "Trước thư viện"
+      },
+      {
+        "japanese": "ビルの となり",
+        "romaji": "biru no tonari",
+        "vietnamese": "Bên cạnh tòa nhà"
+      },
+      {
+        "japanese": "つくえの上 に 本 があります。",
+        "romaji": "Tsukue no ue ni hon ga arimasu.",
+        "vietnamese": "Ở trên bàn có quyển sách."
+      },
+      {
+        "japanese": "としょかんの前 に こうえんがあります。",
+        "romaji": "Toshokan no mae ni kouen ga arimasu.",
+        "vietnamese": "Ở trước thư viện có công viên."
+      },
+      {
+        "japanese": "駅 の近 く で ともだちと 会 います。",
+        "romaji": "Eki no chikaku de tomodachi to aimasu.",
+        "vietnamese": "Tôi gặp bạn ở gần nhà ga."
+      }
+    ],
+    "notes": [
+      "Cả cụm \"N1 の N2\" được sử dụng như một danh từ chỉ địa điểm",
+      "Các từ chỉ vị trí: 上 (ue - trên), 下 (shita - dưới), 中 (naka - trong), 前 (mae - trước), 後 (ushiro - sau), となり (tonari - bên cạnh), 近く (chikaku - gần)"
+    ]
+  },
+  {
+    "id": "n1-ya-n2",
+    "title": "N1 や N2 - Cách liệt kê mang tính chất tượng trưng",
+    "description": "N1 và N2. や dùng để nối các danh từ. Khác với と dùng để liệt kê toàn bộ, や chỉ liệt kê mang tính chất tượng trưng. Đôi khi など được đặt sau danh từ cuối cùng để nhấn mạnh thêm là vẫn còn những vật khác nữa.",
+    "structure": "N1 や N2",
+    "examples": [
+      {
+        "japanese": "きょうしつの中 に つくえや いすが あります。",
+        "romaji": "Kyoushitsu no naka ni tsukue ya isu ga arimasu.",
+        "vietnamese": "Trong phòng học có bàn, ghế..."
+      },
+      {
+        "japanese": "かばんの中 に ペンや 本 が あります。",
+        "romaji": "Kaban no naka ni pen ya hon ga arimasu.",
+        "vietnamese": "Trong cặp có bút, sách..."
+      },
+      {
+        "japanese": "きょうしつの中 に つくえや いすなどが あります。",
+        "romaji": "Kyoushitsu no naka ni tsukue ya isu nado ga arimasu.",
+        "vietnamese": "Trong phòng học có bàn, ghế..."
+      },
+      {
+        "japanese": "かばんの中 に ペンや 本 などが あります。",
+        "romaji": "Kaban no naka ni pen ya hon nado ga arimasu.",
+        "vietnamese": "Trong cặp có bút, sách..."
+      }
+    ],
+    "notes": [
+      "や dùng để nối các danh từ",
+      "Khác với と dùng để liệt kê toàn bộ, や chỉ liệt kê mang tính chất tượng trưng",
+      "Đôi khi など được đặt sau danh từ cuối cùng để nhấn mạnh thêm là vẫn còn những vật khác nữa"
     ]
   }
 ]

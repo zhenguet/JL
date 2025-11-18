@@ -1,1 +1,1038 @@
-﻿[]
+﻿[
+  {
+    "id": "toWalk",
+    "kanji": "歩きます",
+    "hiragana": "あるきます",
+    "en": "to walk",
+    "vi": "đi bộ, bước đi",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm I",
+        "Ví dụ: 公園を歩きます。 (Đi bộ trong công viên.)"
+      ]
+    }
+  },
+  {
+    "id": "toRide",
+    "kanji": "乗ります",
+    "hiragana": "のります",
+    "en": "to ride",
+    "vi": "lên, đi [tàu điện]",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm I",
+        "Ví dụ: 電車に乗ります。 (Lên tàu điện.)"
+      ]
+    }
+  },
+  {
+    "id": "rideTrain",
+    "kanji": "電車に乗ります",
+    "hiragana": "でんしゃにのります",
+    "en": "ride a train",
+    "vi": "lên tàu điện",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm I",
+        "Ví dụ: 電車に乗ります。 (Lên tàu điện.)"
+      ]
+    }
+  },
+  {
+    "id": "toGetOff",
+    "kanji": "降ります",
+    "hiragana": "おります",
+    "en": "to get off",
+    "vi": "xuống [khỏi tàu điện]",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm I",
+        "Ví dụ: 電車を降ります。 (Xuống khỏi tàu điện.)"
+      ]
+    }
+  },
+  {
+    "id": "getOffTrain",
+    "kanji": "電車を降ります",
+    "hiragana": "でんしゃをおります",
+    "en": "get off the train",
+    "vi": "xuống khỏi tàu điện",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm I",
+        "Ví dụ: 電車を降ります。 (Xuống khỏi tàu điện.)"
+      ]
+    }
+  },
+  {
+    "id": "toTransfer",
+    "kanji": "乗り換えます",
+    "hiragana": "のりかえます",
+    "en": "to transfer",
+    "vi": "thay, đổi (tàu điện…)",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm II",
+        "Ví dụ: 駅で乗り換えます。 (Đổi tàu ở ga.)"
+      ]
+    }
+  },
+  {
+    "id": "toHaveMeal",
+    "kanji": "食事します",
+    "hiragana": "しょくじします",
+    "en": "to have a meal",
+    "vi": "ăn cơm, ăn uống",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm III (する)",
+        "Ví dụ: レストランで食事します。 (Ăn cơm ở nhà hàng.)"
+      ]
+    }
+  },
+  {
+    "id": "toWash",
+    "kanji": "洗います",
+    "hiragana": "あらいます",
+    "en": "to wash",
+    "vi": "rửa, tắm rửa, giặt",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm I",
+        "Ví dụ: 手を洗います。 (Rửa tay.)"
+      ]
+    }
+  },
+  {
+    "id": "toTakeShower",
+    "kanji": "浴びます",
+    "hiragana": "あびます",
+    "en": "to take a shower",
+    "vi": "tắm [bằng vòi hoa sen], giội nước, tưới nước",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm I",
+        "Ví dụ: シャワーを浴びます。 (Tắm vòi tắm hoa sen.)"
+      ]
+    }
+  },
+  {
+    "id": "takeShower",
+    "kanji": "シャワーを浴びます",
+    "hiragana": "シャワーをあびます",
+    "en": "take a shower",
+    "vi": "tắm vòi tắm hoa sen",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm I",
+        "Ví dụ: シャワーを浴びます。 (Tắm vòi tắm hoa sen.)"
+      ]
+    }
+  },
+  {
+    "id": "toPutIn",
+    "kanji": "入れます",
+    "hiragana": "いれます",
+    "en": "to put in",
+    "vi": "cho vào, lồng vào",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm II",
+        "Ví dụ: お金を入れます。 (Cho tiền vào.)"
+      ]
+    }
+  },
+  {
+    "id": "toTakeOut",
+    "kanji": "出します",
+    "hiragana": "だします",
+    "en": "to take out",
+    "vi": "lấy ra, đưa ra, nộp (báo cáo)",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm I",
+        "Ví dụ: 本を出します。 (Lấy sách ra.)"
+      ]
+    }
+  },
+  {
+    "id": "toEnter",
+    "kanji": "入ります",
+    "hiragana": "はいります",
+    "en": "to enter",
+    "vi": "vào (trường)",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm I",
+        "Ví dụ: 大学に入ります。 (Vào đại học.)"
+      ]
+    }
+  },
+  {
+    "id": "enterUniversity",
+    "kanji": "大学に入ります",
+    "hiragana": "だいがくにはいります",
+    "en": "enter university",
+    "vi": "vào đại học",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm I",
+        "Ví dụ: 大学に入ります。 (Vào đại học.)"
+      ]
+    }
+  },
+  {
+    "id": "toGraduate",
+    "kanji": "出ます",
+    "hiragana": "でます",
+    "en": "to graduate",
+    "vi": "ra, ra khỏi, tốt nghiệp",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm II",
+        "Ví dụ: 大学を出ます。 (Ra trường.)"
+      ]
+    }
+  },
+  {
+    "id": "graduateUniversity",
+    "kanji": "大学を出ます",
+    "hiragana": "だいがくをでます",
+    "en": "graduate from university",
+    "vi": "ra trường",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm II",
+        "Ví dụ: 大学を出ます。 (Ra trường.)"
+      ]
+    }
+  },
+  {
+    "id": "toQuit",
+    "kanji": "辞めます",
+    "hiragana": "やめます",
+    "en": "to quit",
+    "vi": "nghỉ, thôi (việc)",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm II",
+        "Ví dụ: 会社を辞めます。 (Thôi việc.)"
+      ]
+    }
+  },
+  {
+    "id": "quitCompany",
+    "kanji": "会社を辞めます",
+    "hiragana": "かいしゃをやめます",
+    "en": "quit the company",
+    "vi": "thôi việc",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm II",
+        "Ví dụ: 会社を辞めます。 (Thôi việc.)"
+      ]
+    }
+  },
+  {
+    "id": "toPush",
+    "kanji": "押します",
+    "hiragana": "おします",
+    "en": "to push",
+    "vi": "ấn, đẩy",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm I",
+        "Ví dụ: ボタンを押します。 (Ấn nút.)"
+      ]
+    }
+  },
+  {
+    "id": "long",
+    "kanji": "長い",
+    "hiragana": "ながい",
+    "en": "long",
+    "vi": "dài, lâu",
+    "type": "adjective",
+    "explanation": {
+      "content": [
+        "Tính từ i (い-adjective)",
+        "Ví dụ: 長い道です。 (Con đường dài.)"
+      ]
+    }
+  },
+  {
+    "id": "short",
+    "kanji": "短い",
+    "hiragana": "みじかい",
+    "en": "short",
+    "vi": "ngắn",
+    "type": "adjective",
+    "explanation": {
+      "content": [
+        "Tính từ i (い-adjective)",
+        "Ví dụ: 短い道です。 (Con đường ngắn.)"
+      ]
+    }
+  },
+  {
+    "id": "heavy",
+    "kanji": "重い",
+    "hiragana": "おもい",
+    "en": "heavy",
+    "vi": "nặng",
+    "type": "adjective",
+    "explanation": {
+      "content": [
+        "Tính từ i (い-adjective)",
+        "Ví dụ: 重い箱です。 (Cái hộp nặng.)"
+      ]
+    }
+  },
+  {
+    "id": "light",
+    "kanji": "軽い",
+    "hiragana": "かるい",
+    "en": "light",
+    "vi": "nhẹ",
+    "type": "adjective",
+    "explanation": {
+      "content": [
+        "Tính từ i (い-adjective)",
+        "Ví dụ: 軽い箱です。 (Cái hộp nhẹ.)"
+      ]
+    }
+  },
+  {
+    "id": "wide",
+    "kanji": "広い",
+    "hiragana": "ひろい",
+    "en": "wide",
+    "vi": "rộng, thoáng",
+    "type": "adjective",
+    "explanation": {
+      "content": [
+        "Tính từ i (い-adjective)",
+        "Ví dụ: 広い部屋です。 (Phòng rộng.)"
+      ]
+    }
+  },
+  {
+    "id": "narrow",
+    "kanji": "狭い",
+    "hiragana": "せまい",
+    "en": "narrow",
+    "vi": "hẹp, chật",
+    "type": "adjective",
+    "explanation": {
+      "content": [
+        "Tính từ i (い-adjective)",
+        "Ví dụ: 狭い部屋です。 (Phòng hẹp.)"
+      ]
+    }
+  },
+  {
+    "id": "bright",
+    "kanji": "明るい",
+    "hiragana": "あかるい",
+    "en": "bright",
+    "vi": "sáng, sáng sủa",
+    "type": "adjective",
+    "explanation": {
+      "content": [
+        "Tính từ i (い-adjective)",
+        "Ví dụ: 明るい部屋です。 (Phòng sáng.)"
+      ]
+    }
+  },
+  {
+    "id": "dark",
+    "kanji": "暗い",
+    "hiragana": "くらい",
+    "en": "dark",
+    "vi": "tối, mù mịt",
+    "type": "adjective",
+    "explanation": {
+      "content": [
+        "Tính từ i (い-adjective)",
+        "Ví dụ: 暗い部屋です。 (Phòng tối.)"
+      ]
+    }
+  },
+  {
+    "id": "young",
+    "kanji": "若い",
+    "hiragana": "わかい",
+    "en": "young",
+    "vi": "trẻ",
+    "type": "adjective",
+    "explanation": {
+      "content": [
+        "Tính từ i (い-adjective)",
+        "Ví dụ: 若い人です。 (Người trẻ.)"
+      ]
+    }
+  },
+  {
+    "id": "tall",
+    "kanji": "背が高い",
+    "hiragana": "せがたかい",
+    "en": "tall",
+    "vi": "cao (chiều cao của người)",
+    "type": "adjective",
+    "explanation": {
+      "content": [
+        "Tính từ i (い-adjective)",
+        "Ví dụ: 背が高い人です。 (Người cao.)"
+      ]
+    }
+  },
+  {
+    "id": "smart",
+    "kanji": "頭がいい",
+    "hiragana": "あたまがいい",
+    "en": "smart",
+    "vi": "thông minh",
+    "type": "adjective",
+    "explanation": {
+      "content": [
+        "Tính từ i (い-adjective)",
+        "Ví dụ: 頭がいい人です。 (Người thông minh.)"
+      ]
+    }
+  },
+  {
+    "id": "body",
+    "kanji": "体",
+    "hiragana": "からだ",
+    "en": "body",
+    "vi": "thân thể",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ thân thể",
+        "Ví dụ: 体を動かします。 (Vận động thân thể.)"
+      ]
+    }
+  },
+  {
+    "id": "face",
+    "kanji": "顔",
+    "hiragana": "かお",
+    "en": "face",
+    "vi": "mặt",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ mặt",
+        "Ví dụ: 顔を洗います。 (Rửa mặt.)"
+      ]
+    }
+  },
+  {
+    "id": "eye",
+    "kanji": "目",
+    "hiragana": "め",
+    "en": "eye",
+    "vi": "mắt",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ mắt",
+        "Ví dụ: 目が大きいです。 (Mắt to.)"
+      ]
+    }
+  },
+  {
+    "id": "nose",
+    "kanji": "鼻",
+    "hiragana": "はな",
+    "en": "nose",
+    "vi": "mũi",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ mũi",
+        "Ví dụ: 鼻が高いです。 (Mũi cao.)"
+      ]
+    }
+  },
+  {
+    "id": "mouth",
+    "kanji": "口",
+    "hiragana": "くち",
+    "en": "mouth",
+    "vi": "miệng",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ miệng",
+        "Ví dụ: 口を開けます。 (Mở miệng.)"
+      ]
+    }
+  },
+  {
+    "id": "ear",
+    "kanji": "耳",
+    "hiragana": "みみ",
+    "en": "ear",
+    "vi": "tai",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ tai",
+        "Ví dụ: 耳が聞こえます。 (Tai nghe được.)"
+      ]
+    }
+  },
+  {
+    "id": "tooth",
+    "kanji": "歯",
+    "hiragana": "は",
+    "en": "tooth",
+    "vi": "răng",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ răng",
+        "Ví dụ: 歯を磨きます。 (Đánh răng.)"
+      ]
+    }
+  },
+  {
+    "id": "hair",
+    "kanji": "髪",
+    "hiragana": "かみ",
+    "en": "hair",
+    "vi": "tóc",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ tóc",
+        "Ví dụ: 髪を切ります。 (Cắt tóc.)"
+      ]
+    }
+  },
+  {
+    "id": "hand",
+    "kanji": "手",
+    "hiragana": "て",
+    "en": "hand",
+    "vi": "tay",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ tay",
+        "Ví dụ: 手を上げます。 (Giơ tay.)"
+      ]
+    }
+  },
+  {
+    "id": "foot",
+    "kanji": "足",
+    "hiragana": "あし",
+    "en": "foot",
+    "vi": "chân",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ chân",
+        "Ví dụ: 足が長いです。 (Chân dài.)"
+      ]
+    }
+  },
+  {
+    "id": "stomach",
+    "kanji": "おなか",
+    "hiragana": "おなか",
+    "en": "stomach",
+    "vi": "bụng",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ bụng",
+        "Ví dụ: おなかが痛いです。 (Đau bụng.)"
+      ]
+    }
+  },
+  {
+    "id": "shower",
+    "kanji": "シャワー",
+    "hiragana": "シャワー",
+    "en": "shower",
+    "vi": "hương sen, vòi hoa sen",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ vòi hoa sen (từ mượn)",
+        "Ví dụ: シャワーを浴びます。 (Tắm vòi hoa sen.)"
+      ]
+    }
+  },
+  {
+    "id": "hamburger",
+    "kanji": "ハンバーグ",
+    "hiragana": "ハンバーグ",
+    "en": "hamburger",
+    "vi": "hamburger (thịt bò băm viên)",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ hamburger (từ mượn)",
+        "Ví dụ: ハンバーグを食べます。 (Ăn hamburger.)"
+      ]
+    }
+  },
+  {
+    "id": "service",
+    "kanji": "サービス",
+    "hiragana": "サービス",
+    "en": "service",
+    "vi": "dịch vụ",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ dịch vụ (từ mượn)",
+        "Ví dụ: サービスがいいです。 (Dịch vụ tốt.)"
+      ]
+    }
+  },
+  {
+    "id": "jogging",
+    "kanji": "ジョギング",
+    "hiragana": "ジョギング",
+    "en": "jogging",
+    "vi": "việc chạy bộ (danh từ)",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ việc chạy bộ (từ mượn)",
+        "Ví dụ: ジョギングをします。 (Chạy bộ.)"
+      ]
+    }
+  },
+  {
+    "id": "toJog",
+    "kanji": "ジョギングをします",
+    "hiragana": "ジョギングをします",
+    "en": "to jog",
+    "vi": "chạy bộ",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm III (する)",
+        "Ví dụ: ジョギングをします。 (Chạy bộ.)"
+      ]
+    }
+  },
+  {
+    "id": "green",
+    "kanji": "緑",
+    "hiragana": "みどり",
+    "en": "green",
+    "vi": "màu xanh lá cây",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ màu xanh lá cây",
+        "Ví dụ: 緑の木です。 (Cây màu xanh lá cây.)"
+      ]
+    }
+  },
+  {
+    "id": "temple",
+    "kanji": "お寺",
+    "hiragana": "おてら",
+    "en": "temple",
+    "vi": "chùa",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ chùa, có tiền tố お (lịch sự)",
+        "Ví dụ: お寺へ行きます。 (Đi chùa.)"
+      ]
+    }
+  },
+  {
+    "id": "shrine",
+    "kanji": "神社",
+    "hiragana": "じんじゃ",
+    "en": "shrine",
+    "vi": "đền",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ đền",
+        "Ví dụ: 神社へ行きます。 (Đi đền.)"
+      ]
+    }
+  },
+  {
+    "id": "exchangeStudent",
+    "kanji": "留学生",
+    "hiragana": "りゅうがくせい",
+    "en": "exchange student",
+    "vi": "du học sinh",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ du học sinh",
+        "Ví dụ: 留学生です。 (Là du học sinh.)"
+      ]
+    }
+  },
+  {
+    "id": "number",
+    "kanji": "～番",
+    "hiragana": "～ばん",
+    "en": "number",
+    "vi": "số ～",
+    "type": "other",
+    "explanation": {
+      "content": [
+        "Hậu tố chỉ số thứ tự",
+        "Ví dụ: 1番 (Số 1)"
+      ]
+    }
+  },
+  {
+    "id": "which",
+    "kanji": "どの",
+    "hiragana": "どの",
+    "en": "which",
+    "vi": "~ nào",
+    "type": "other",
+    "explanation": {
+      "content": [
+        "Từ để hỏi",
+        "Ví dụ: どの本ですか。 (Cuốn sách nào?)"
+      ]
+    }
+  },
+  {
+    "id": "how",
+    "kanji": "どうやって",
+    "hiragana": "どうやって",
+    "en": "how",
+    "vi": "làm thế nào",
+    "type": "other",
+    "explanation": {
+      "content": [
+        "Từ để hỏi về cách thức",
+        "Ví dụ: どうやって行きますか。 (Làm thế nào để đi?)"
+      ]
+    }
+  },
+  {
+    "id": "various",
+    "kanji": "色々",
+    "hiragana": "いろいろ",
+    "en": "various",
+    "vi": "nhiều thứ khác nhau",
+    "type": "adjective",
+    "explanation": {
+      "content": [
+        "Tính từ な (な-adjective)",
+        "Ví dụ: 色々な本があります。 (Có nhiều loại sách.)"
+      ]
+    }
+  },
+  {
+    "id": "around",
+    "kanji": "～ごろ",
+    "hiragana": "～ごろ",
+    "en": "around",
+    "vi": "gần, khoảng chừng (về thời gian)",
+    "type": "other",
+    "explanation": {
+      "content": [
+        "Từ chỉ ước lượng thời gian",
+        "Ví dụ: 7時ごろ (Khoảng 7 giờ)"
+      ]
+    }
+  },
+  {
+    "id": "notYet",
+    "kanji": "「いいえ、」まだまだです",
+    "hiragana": "「いいえ、」まだまだです",
+    "en": "not yet",
+    "vi": "không tôi vẫn còn kém lắm (cách nói khiêm tốn)",
+    "type": "other",
+    "explanation": {
+      "content": [
+        "Câu nói khiêm tốn",
+        "Ví dụ: 「いいえ、」まだまだです。 (Không tôi vẫn còn kém lắm.)"
+      ]
+    }
+  },
+  {
+    "id": "anythingIsFine",
+    "kanji": "なんでもいいです",
+    "hiragana": "なんでもいいです",
+    "en": "anything is fine",
+    "vi": "cái gì cũng được. thế nào cũng được",
+    "type": "other",
+    "explanation": {
+      "content": [
+        "Câu trả lời linh hoạt",
+        "Ví dụ: なんでもいいです。 (Cái gì cũng được.)"
+      ]
+    }
+  },
+  {
+    "id": "whatWouldYouLike",
+    "kanji": "何にしますか",
+    "hiragana": "なんにしますか",
+    "en": "what would you like",
+    "vi": "bạn muốn (ăn, uống) gì?",
+    "type": "other",
+    "explanation": {
+      "content": [
+        "Câu hỏi lịch sự",
+        "Ví dụ: 何にしますか。 (Bạn muốn gì?)"
+      ]
+    }
+  },
+  {
+    "id": "illHaveThat",
+    "kanji": "「それ」にします",
+    "hiragana": "「それ」にします",
+    "en": "ill have that",
+    "vi": "tôi chọn [món đấy]",
+    "type": "other",
+    "explanation": {
+      "content": [
+        "Câu chọn món",
+        "Ví dụ: 「それ」にします。 (Tôi chọn món đấy.)"
+      ]
+    }
+  },
+  {
+    "id": "well",
+    "kanji": "ええと．．．",
+    "hiragana": "ええと．．．",
+    "en": "well",
+    "vi": "à… (khi ngừng để suy nghĩ và nói tiếp)",
+    "type": "other",
+    "explanation": {
+      "content": [
+        "Từ đệm khi suy nghĩ",
+        "Ví dụ: ええと．．． (À…)"
+      ]
+    }
+  },
+  {
+    "id": "isItWithdrawal",
+    "kanji": "お引き出しですか",
+    "hiragana": "おひきだしですか",
+    "en": "is it withdrawal",
+    "vi": "(ngài) rút tiền ạ?",
+    "type": "other",
+    "explanation": {
+      "content": [
+        "Câu hỏi trong ngân hàng",
+        "Ví dụ: お引き出しですか。 (Ngài rút tiền ạ?)"
+      ]
+    }
+  },
+  {
+    "id": "first",
+    "kanji": "まず",
+    "hiragana": "まず",
+    "en": "first",
+    "vi": "trước tiên, trước hết",
+    "type": "adverb",
+    "explanation": {
+      "content": [
+        "Phó từ chỉ thứ tự",
+        "Ví dụ: まず、これをします。 (Trước tiên, làm cái này.)"
+      ]
+    }
+  },
+  {
+    "id": "cashCard",
+    "kanji": "キャッシュカード",
+    "hiragana": "キャッシュカード",
+    "en": "cash card",
+    "vi": "thẻ ATM",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ thẻ ATM (từ mượn)",
+        "Ví dụ: キャッシュカードを入れます。 (Cho thẻ ATM vào.)"
+      ]
+    }
+  },
+  {
+    "id": "pinNumber",
+    "kanji": "暗証番号",
+    "hiragana": "あんしょうばんごう",
+    "en": "PIN number",
+    "vi": "mã Pin",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ mã PIN",
+        "Ví dụ: 暗証番号を入力します。 (Nhập mã PIN.)"
+      ]
+    }
+  },
+  {
+    "id": "next",
+    "kanji": "次に",
+    "hiragana": "つぎに",
+    "en": "next",
+    "vi": "tiếp theo",
+    "type": "adverb",
+    "explanation": {
+      "content": [
+        "Phó từ chỉ thứ tự",
+        "Ví dụ: 次に、これをします。 (Tiếp theo, làm cái này.)"
+      ]
+    }
+  },
+  {
+    "id": "amount",
+    "kanji": "金額",
+    "hiragana": "きんがく",
+    "en": "amount",
+    "vi": "số tiền",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ số tiền",
+        "Ví dụ: 金額を入力します。 (Nhập số tiền.)"
+      ]
+    }
+  },
+  {
+    "id": "confirmation",
+    "kanji": "確認",
+    "hiragana": "かくにん",
+    "en": "confirmation",
+    "vi": "sự xác nhận (danh từ)",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ sự xác nhận",
+        "Ví dụ: 確認します。 (Xác nhận.)"
+      ]
+    }
+  },
+  {
+    "id": "toConfirm",
+    "kanji": "確認「～します」",
+    "hiragana": "かくにん「～します」",
+    "en": "to confirm",
+    "vi": "[xác nhận]",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm III (する)",
+        "Ví dụ: 確認します。 (Xác nhận.)"
+      ]
+    }
+  },
+  {
+    "id": "button",
+    "kanji": "ボタン",
+    "hiragana": "ボタン",
+    "en": "button",
+    "vi": "nút, cúc áo",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ nút (từ mượn)",
+        "Ví dụ: ボタンを押します。 (Ấn nút.)"
+      ]
+    }
+  },
+  {
+    "id": "asia",
+    "kanji": "アジア",
+    "hiragana": "アジア",
+    "en": "Asia",
+    "vi": "Asia/Châu Á",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Tên châu lục (từ mượn)",
+        "Ví dụ: アジアの国 (Nước châu Á)"
+      ]
+    }
+  },
+  {
+    "id": "bandung",
+    "kanji": "バンドン",
+    "hiragana": "バンドン",
+    "en": "Bandung",
+    "vi": "Bandung (Indonesia)",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Tên thành phố",
+        "Ví dụ: バンドンへ行きます。 (Đi Bandung.)"
+      ]
+    }
+  },
+  {
+    "id": "veracruz",
+    "kanji": "ベラクルス",
+    "hiragana": "ベラクルス",
+    "en": "Veracruz",
+    "vi": "Veracruz (Mexico)",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Tên thành phố",
+        "Ví dụ: ベラクルスへ行きます。 (Đi Veracruz.)"
+      ]
+    }
+  },
+  {
+    "id": "franken",
+    "kanji": "フランケン",
+    "hiragana": "フランケン",
+    "en": "Franken",
+    "vi": "Franken (Đức)",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Tên địa danh",
+        "Ví dụ: フランケンへ行きます。 (Đi Franken.)"
+      ]
+    }
+  },
+  {
+    "id": "hue",
+    "kanji": "フエ",
+    "hiragana": "フエ",
+    "en": "Hue",
+    "vi": "Huế",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Tên thành phố",
+        "Ví dụ: フエへ行きます。 (Đi Huế.)"
+      ]
+    }
+  }
+]

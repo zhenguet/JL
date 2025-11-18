@@ -1,88 +1,225 @@
 ﻿[
   {
+    "id": "kore-sore-are-n",
+    "title": "これ／それ／あれ は N です - Cái này/cái đó/cái kia là N",
+    "description": "Đây là các danh từ chỉ thị. Được sử dụng như một danh từ. Không có danh từ đi liền sau chúng. これ dùng để chỉ vật ở gần người nói, xa người nghe (Trong phạm vi người nói). それ dùng để chỉ vật ở gần người nghe, xa người nói (Trong phạm vi người nghe). あれ dùng để chỉ vật ở xa cả hai người.",
+    "structure": "これ／それ／あれ は N です",
+    "examples": [
+      {
+        "japanese": "これは 本ですか。",
+        "romaji": "Kore wa hon desu ka?",
+        "vietnamese": "Đây là quyển sách à?"
+      },
+      {
+        "japanese": "…いいえ、 それはノートです。",
+        "romaji": "...Iie, sore wa nooto desu.",
+        "vietnamese": "… Không, đó là quyển vở."
+      },
+      {
+        "japanese": "あれは じどうしゃです。",
+        "romaji": "Are wa jidousha desu.",
+        "vietnamese": "Kia là cái ô tô."
+      }
+    ],
+    "notes": [
+      "これ: vật ở gần người nói, xa người nghe",
+      "それ: vật ở gần người nghe, xa người nói",
+      "あれ: vật ở xa cả hai người",
+      "Khi một vật ở gần cả hai người thì cả hai người đều có thể dùng これ"
+    ]
+  },
+  {
     "id": "kono-sono-ano",
-    "title": "この・その・あの - Từ chỉ định đứng trước danh từ",
-    "description": "この (kono), その (sono), あの (ano) là các từ chỉ định đứng trước danh từ. Khác với これ/それ/あれ, các từ này phải đi kèm với danh từ.",
-    "structure": "この/その/あの + Danh từ",
+    "title": "この N／その N／あの N - Cái N này/đó/kia",
+    "description": "この、その、あの là các từ chỉ thị bổ nghĩa cho danh từ. Về tương quan khoảng cách thì giống với これ、それ、あれ nhưng khác về cách sử dụng vì luôn phải có danh từ đi liền đằng sau. \"この N\" dùng để chỉ vật hoặc người ở gần người nói, xa người nghe. \"その N\" dùng để chỉ vật hay người ở gần người nghe, xa người nói. \"あの N\" dùng để chỉ vật hay người ở xa cả hai người.",
+    "structure": "この N／その N／あの N",
     "examples": [
       {
-        "japanese": "この本は私のです。",
-        "romaji": "Kono hon wa watashi no desu.",
-        "vietnamese": "Cuốn sách này là của tôi."
+        "japanese": "あの人は 山田さんです。",
+        "romaji": "Ano hito wa Yamada-san desu.",
+        "vietnamese": "Người kia là anh Yamada."
       },
       {
-        "japanese": "そのペンはあなたのです。",
-        "romaji": "Sono pen wa anata no desu.",
-        "vietnamese": "Cây bút đó là của bạn."
+        "japanese": "このひとは だれですか。",
+        "romaji": "Kono hito wa dare desu ka?",
+        "vietnamese": "Người này là ai?"
       },
       {
-        "japanese": "あの人はだれですか？",
-        "romaji": "Ano hito wa dare desu ka?",
-        "vietnamese": "Người kia là ai?"
+        "japanese": "…そのひとは 田中さんです。",
+        "romaji": "...Sono hito wa Tanaka-san desu.",
+        "vietnamese": "… Người đó là anh Tanaka."
       }
     ],
     "notes": [
-      "この: đứng trước danh từ, chỉ vật gần người nói",
-      "その: đứng trước danh từ, chỉ vật gần người nghe",
-      "あの: đứng trước danh từ, chỉ vật xa cả hai",
-      "どの: từ để hỏi \"cái nào\" đứng trước danh từ"
+      "この N: vật hoặc người ở gần người nói, xa người nghe",
+      "その N: vật hay người ở gần người nghe, xa người nói",
+      "あの N: vật hay người ở xa cả hai người",
+      "Khi một vật ở gần cả hai người thì cả hai người đều có thể dùng この"
     ]
   },
   {
-    "id": "koko-soko-asoko",
-    "title": "ここ・そこ・あそこ - Từ chỉ nơi chốn",
-    "description": "ここ (koko), そこ (soko), あそこ (asoko) là các từ chỉ nơi chốn. ここ chỉ vị trí gần người nói, そこ chỉ vị trí gần người nghe, あそこ chỉ vị trí xa cả hai.",
-    "structure": "ここ/そこ/あそこ + は + Danh từ + です",
+    "id": "nan",
+    "title": "N は なんですか - N là cái gì?",
+    "description": "なん là từ để hỏi dùng cho vật. だれ là từ để hỏi dùng cho người.",
+    "structure": "N は なんですか",
     "examples": [
       {
-        "japanese": "ここは学校です。",
-        "romaji": "Koko wa gakkou desu.",
-        "vietnamese": "Đây là trường học."
+        "japanese": "これは なんですか。",
+        "romaji": "Kore wa nan desu ka?",
+        "vietnamese": "Đây là cái gì?"
       },
       {
-        "japanese": "そこは図書館です。",
-        "romaji": "Soko wa toshokan desu.",
-        "vietnamese": "Đó là thư viện."
-      },
-      {
-        "japanese": "あそこは病院です。",
-        "romaji": "Asoko wa byouin desu.",
-        "vietnamese": "Kia là bệnh viện."
+        "japanese": "…それは いすです。",
+        "romaji": "...Sore wa isu desu.",
+        "vietnamese": "… Đó là cái ghế."
       }
     ],
     "notes": [
-      "ここ: nơi gần người nói",
-      "そこ: nơi gần người nghe",
-      "あそこ: nơi xa cả người nói và người nghe",
-      "どこ: từ để hỏi \"ở đâu\""
+      "なん là từ để hỏi dùng cho vật",
+      "だれ là từ để hỏi dùng cho người"
     ]
   },
   {
-    "id": "no",
-    "title": "の - Trợ từ sở hữu",
-    "description": "の dùng để chỉ sự sở hữu, tương đương với \"của\" trong tiếng Việt. Khi đứng một mình, の có thể thay thế cho danh từ đã được đề cập trước đó.",
-    "structure": "Danh từ + の + Danh từ / の (đứng một mình)",
+    "id": "sou-desu",
+    "title": "そうです／そうではありません - Đúng vậy/Không phải thế",
+    "description": "そう được sử dụng để trả lời câu hỏi nghi vấn mà tận cùng là danh từ. Trong câu khẳng định dùng: はい、 そうです。 Trong câu phủ định dùng: いいえ、 そう では（じゃ） ありません. Trong trường hợp câu nghi vấn mà tận cùng là động từ hay tính từ thì không sử dụng そうです hay そうではありません để trả lời.",
+    "structure": "そうです／そうではありません",
     "examples": [
       {
-        "japanese": "これは私の本です。",
+        "japanese": "これは えんぴつですか。",
+        "romaji": "Kore wa enpitsu desu ka?",
+        "vietnamese": "Đây là cái bút chì phải không?"
+      },
+      {
+        "japanese": "…はい、えんぴつです。",
+        "romaji": "...Hai, enpitsu desu.",
+        "vietnamese": "…Vâng, đó là cái bút chì."
+      },
+      {
+        "japanese": "…はい、 そうです。",
+        "romaji": "...Hai, sou desu.",
+        "vietnamese": "…Vâng, đúng vậy."
+      },
+      {
+        "japanese": "それは テレホンカードですか。",
+        "romaji": "Sore wa terehonkaado desu ka?",
+        "vietnamese": "Đó là cái thẻ điện thoại phải không?"
+      },
+      {
+        "japanese": "…いいえ、テレホンカードではありません。",
+        "romaji": "...Iie, terehonkaado dewa arimasen.",
+        "vietnamese": "…Không, không phải cái thẻ điện thoại."
+      },
+      {
+        "japanese": "…いいえ、 そうではありません。",
+        "romaji": "...Iie, sou dewa arimasen.",
+        "vietnamese": "…Không, không phải thế."
+      }
+    ],
+    "notes": [
+      "そう được sử dụng để trả lời câu hỏi nghi vấn mà tận cùng là danh từ",
+      "Trong câu khẳng định dùng: はい、 そうです",
+      "Trong câu phủ định dùng: いいえ、 そう では（じゃ） ありません",
+      "Trong trường hợp câu nghi vấn mà tận cùng là động từ hay tính từ thì không sử dụng そうです hay そうではありません để trả lời"
+    ]
+  },
+  {
+    "id": "n1-ka-n2-ka",
+    "title": "N1 ですか、 N2 ですか - N1 hay là N2?",
+    "description": "Đây là loại câu hỏi lựa chọn, được cấu tạo bởi hai câu đơn, dùng khi phân vân, không biết rõ đối tượng là cái gì (có thể vì hình dạng khá giống nhau). Mỗi mệnh đề trước chữ か đều là một câu hỏi về cùng 1 đối tượng.",
+    "structure": "N1 ですか、 N2 ですか",
+    "examples": [
+      {
+        "japanese": "それは ボールペンですか、シャープペンシルですか。",
+        "romaji": "Sore wa boorupen desu ka, shaapupenshiru desu ka?",
+        "vietnamese": "Đó là cái bút bi hay là bút chì kim?"
+      },
+      {
+        "japanese": "…ボールペンです。",
+        "romaji": "...Boorupen desu.",
+        "vietnamese": "…Là cái bút bi."
+      }
+    ],
+    "notes": [
+      "Đây là loại câu hỏi lựa chọn, được cấu tạo bởi hai câu đơn",
+      "Dùng khi phân vân, không biết rõ đối tượng là cái gì",
+      "Mỗi mệnh đề trước chữ か đều là một câu hỏi về cùng 1 đối tượng",
+      "Khi trả lời câu hỏi này không dùng はい hay いいえ"
+    ]
+  },
+  {
+    "id": "no-possessive",
+    "title": "N1 の N2 (tiếp) - N2 của N1",
+    "description": "Ở bài trước, N1 là một tổ chức mà N2 thuộc vào đó. Ở bài này trợ từ の có ý nghĩa chỉ sự sở hữu. N2 thuộc sở hữu của N1. N2 đôi khi được lược bỏ khi đã được nhắc đến trước đó hay đã rõ nghĩa. Khi N2 là một từ chỉ người thì không được bỏ.",
+    "structure": "N1 の N2",
+    "examples": [
+      {
+        "japanese": "これは わたしの ほんです。",
         "romaji": "Kore wa watashi no hon desu.",
-        "vietnamese": "Đây là sách của tôi."
+        "vietnamese": "Đây là quyển sách của tôi."
       },
       {
-        "japanese": "そのペンはあなたのです。",
-        "romaji": "Sono pen wa anata no desu.",
-        "vietnamese": "Cây bút đó là của bạn."
+        "japanese": "あれは だれのかばんですか。",
+        "romaji": "Are wa dare no kaban desu ka?",
+        "vietnamese": "Kia là cái cặp của ai?"
       },
       {
-        "japanese": "この本は私のです。",
-        "romaji": "Kono hon wa watashi no desu.",
-        "vietnamese": "Cuốn sách này là của tôi."
+        "japanese": "… わたしのです。",
+        "romaji": "...Watashi no desu.",
+        "vietnamese": "… Là của tôi."
+      },
+      {
+        "japanese": "そのつくえは ラオさんのですか。",
+        "romaji": "Sono tsukue wa Rao-san no desu ka?",
+        "vietnamese": "Cái bàn đó là của Rao phải không?"
+      },
+      {
+        "japanese": "… いいえ、ラオさんのではありません。",
+        "romaji": "...Iie, Rao-san no dewa arimasen.",
+        "vietnamese": "… Không, không phải của Rao."
+      },
+      {
+        "japanese": "ミラーさんは IMC のしゃいんですか。",
+        "romaji": "Miraa-san wa IMC no shain desu ka?",
+        "vietnamese": "Mira là nhân viên công ty IMC phải không?"
+      },
+      {
+        "japanese": "… はい、 IMC のしゃいんです。",
+        "romaji": "...Hai, IMC no shain desu.",
+        "vietnamese": "… Vâng, (anh ấy) là nhân viên công ty IMC."
       }
     ],
     "notes": [
-      "の dùng để chỉ sự sở hữu",
-      "Khi đứng một mình, の thay thế cho danh từ đã được đề cập",
-      "の cũng có thể dùng để nối danh từ với danh từ (ví dụ: 日本語の本 - sách tiếng Nhật)"
+      "Ở bài này trợ từ の có ý nghĩa chỉ sự sở hữu",
+      "N2 thuộc sở hữu của N1",
+      "N2 đôi khi được lược bỏ khi đã được nhắc đến trước đó hay đã rõ nghĩa",
+      "Khi N2 là một từ chỉ người thì không được bỏ (ví dụ: không dùng IMC のです mà phải dùng IMC のしゃいんです)"
+    ]
+  },
+  {
+    "id": "sou-desu-ka",
+    "title": "そうですか - Ra vậy",
+    "description": "Sử dụng khi người nói nhận được thông tin mới và thể hiện rằng đã hiểu về nó.",
+    "structure": "そうですか",
+    "examples": [
+      {
+        "japanese": "A: このかさは あなたのですか。",
+        "romaji": "A: Kono kasa wa anata no desu ka?",
+        "vietnamese": "A: Cái ô này là của bạn à?"
+      },
+      {
+        "japanese": "B: いいえ、タンさんのです。",
+        "romaji": "B: Iie, Tan-san no desu.",
+        "vietnamese": "B: …Không, của anh Tân."
+      },
+      {
+        "japanese": "A: そうですか。",
+        "romaji": "A: Sou desu ka.",
+        "vietnamese": "A: À, ra vậy."
+      }
+    ],
+    "notes": [
+      "Sử dụng khi người nói nhận được thông tin mới và thể hiện rằng đã hiểu về nó"
     ]
   }
 ]

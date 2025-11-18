@@ -1,1 +1,534 @@
-﻿[]
+﻿[
+  {
+    "id": "canDo",
+    "kanji": "できます",
+    "hiragana": "できます",
+    "en": "can do",
+    "vi": "có thể, được, có khả năng",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm II",
+        "Ví dụ: 日本語ができます。 (Có thể nói tiếng Nhật.)"
+      ]
+    }
+  },
+  {
+    "id": "toSing",
+    "kanji": "歌います",
+    "hiragana": "うたいます",
+    "en": "to sing",
+    "vi": "hát",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm I",
+        "Ví dụ: 歌を歌います。 (Hát bài hát.)"
+      ]
+    }
+  },
+  {
+    "id": "toPlay",
+    "kanji": "弾きます",
+    "hiragana": "ひきます",
+    "en": "to play",
+    "vi": "chơi [đàn pianô]",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm I",
+        "Ví dụ: ピアノを弾きます。 (Chơi đàn piano.)"
+      ]
+    }
+  },
+  {
+    "id": "playPiano",
+    "kanji": "ピアノを弾きます",
+    "hiragana": "ピアノをひきます",
+    "en": "play piano",
+    "vi": "chơi đàn piano",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm I",
+        "Ví dụ: ピアノを弾きます。 (Chơi đàn piano.)"
+      ]
+    }
+  },
+  {
+    "id": "toSwim",
+    "kanji": "泳ぎます",
+    "hiragana": "およぎます",
+    "en": "to swim",
+    "vi": "bơi",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm I",
+        "Ví dụ: プールで泳ぎます。 (Bơi ở bể bơi.)"
+      ]
+    }
+  },
+  {
+    "id": "toFix",
+    "kanji": "直します",
+    "hiragana": "なおします",
+    "en": "to fix",
+    "vi": "sửa, chữa",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm I",
+        "Ví dụ: 車を直します。 (Sửa xe.)"
+      ]
+    }
+  },
+  {
+    "id": "toDrive",
+    "kanji": "運転します",
+    "hiragana": "うんてんします",
+    "en": "to drive",
+    "vi": "lái (xe), điều khiển",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm III (する)",
+        "Ví dụ: 車を運転します。 (Lái xe.)"
+      ]
+    }
+  },
+  {
+    "id": "toPractice",
+    "kanji": "練習します",
+    "hiragana": "れんしゅうします",
+    "en": "to practice",
+    "vi": "tập, luyện tập",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm III (する)",
+        "Ví dụ: ピアノを練習します。 (Tập đàn piano.)"
+      ]
+    }
+  },
+  {
+    "id": "toStart",
+    "kanji": "始めます",
+    "hiragana": "はじめます",
+    "en": "to start",
+    "vi": "bắt đầu",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm II",
+        "Ví dụ: 会議を始めます。 (Bắt đầu cuộc họp.)"
+      ]
+    }
+  },
+  {
+    "id": "toWash",
+    "kanji": "洗います",
+    "hiragana": "あらいます",
+    "en": "to wash",
+    "vi": "rửa, giặt",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm I",
+        "Ví dụ: 服を洗います。 (Giặt quần áo.)"
+      ]
+    }
+  },
+  {
+    "id": "toGather",
+    "kanji": "集めます",
+    "hiragana": "あつめます",
+    "en": "to gather",
+    "vi": "tập trung, tập hợp",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm II",
+        "Ví dụ: 資料を集めます。 (Thu thập tài liệu.)"
+      ]
+    }
+  },
+  {
+    "id": "toThrowAway",
+    "kanji": "捨てます",
+    "hiragana": "すてます",
+    "en": "to throw away",
+    "vi": "vứt đi, bỏ đi",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm II",
+        "Ví dụ: ゴミを捨てます。 (Vứt rác.)"
+      ]
+    }
+  },
+  {
+    "id": "toExchange",
+    "kanji": "換えます",
+    "hiragana": "かえます",
+    "en": "to exchange",
+    "vi": "trao đổi, đổi",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm II",
+        "Ví dụ: お金を換えます。 (Đổi tiền.)"
+      ]
+    }
+  },
+  {
+    "id": "toReserve",
+    "kanji": "予約します",
+    "hiragana": "よやくします",
+    "en": "to reserve",
+    "vi": "đặt chỗ, đặt trước",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm III (する)",
+        "Ví dụ: ホテルを予約します。 (Đặt khách sạn.)"
+      ]
+    }
+  },
+  {
+    "id": "simple",
+    "kanji": "簡単",
+    "hiragana": "かんたん",
+    "en": "simple",
+    "vi": "dễ, đơn giản",
+    "type": "adjective",
+    "explanation": {
+      "content": [
+        "Tính từ な (な-adjective)",
+        "Ví dụ: 簡単な問題です。 (Vấn đề đơn giản.)"
+      ]
+    }
+  },
+  {
+    "id": "breakdown",
+    "kanji": "故障",
+    "hiragana": "こしょう",
+    "en": "breakdown",
+    "vi": "hỏng hóc, trục trặc",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ hỏng hóc",
+        "Ví dụ: 故障があります。 (Có hỏng hóc.)"
+      ]
+    }
+  },
+  {
+    "id": "hobby",
+    "kanji": "趣味",
+    "hiragana": "しゅみ",
+    "en": "hobby",
+    "vi": "sở thích",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ sở thích",
+        "Ví dụ: 趣味は読書です。 (Sở thích là đọc sách.)"
+      ]
+    }
+  },
+  {
+    "id": "skiing",
+    "kanji": "スキー",
+    "hiragana": "スキー",
+    "en": "skiing",
+    "vi": "trượt tuyết",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ trượt tuyết (từ mượn)",
+        "Ví dụ: スキーをします。 (Trượt tuyết.)"
+      ]
+    }
+  },
+  {
+    "id": "meter",
+    "kanji": "メートル",
+    "hiragana": "メートル",
+    "en": "meter",
+    "vi": "mét",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ đơn vị đo (từ mượn)",
+        "Ví dụ: 100メートル (100 mét)"
+      ]
+    }
+  },
+  {
+    "id": "international",
+    "kanji": "国際",
+    "hiragana": "こくさい",
+    "en": "international",
+    "vi": "quốc tế",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ quốc tế",
+        "Ví dụ: 国際会議 (Hội nghị quốc tế)"
+      ]
+    }
+  },
+  {
+    "id": "cash",
+    "kanji": "現金",
+    "hiragana": "げんきん",
+    "en": "cash",
+    "vi": "tiền mặt",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ tiền mặt",
+        "Ví dụ: 現金で払います。 (Trả bằng tiền mặt.)"
+      ]
+    }
+  },
+  {
+    "id": "diary",
+    "kanji": "日記",
+    "hiragana": "にっき",
+    "en": "diary",
+    "vi": "nhật ký",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ nhật ký",
+        "Ví dụ: 日記を書きます。 (Viết nhật ký.)"
+      ]
+    }
+  },
+  {
+    "id": "prayer",
+    "kanji": "お祈り",
+    "hiragana": "おいのり",
+    "en": "prayer",
+    "vi": "sự cầu chúc",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ sự cầu chúc, có tiền tố お (lịch sự)",
+        "Ví dụ: お祈りをします。 (Cầu chúc.)"
+      ]
+    }
+  },
+  {
+    "id": "toPray",
+    "kanji": "お祈り「～をします」",
+    "hiragana": "おいのり「～をします」",
+    "en": "to pray",
+    "vi": "[cầu chúc]",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm III (する)",
+        "Ví dụ: お祈りをします。 (Cầu chúc.)"
+      ]
+    }
+  },
+  {
+    "id": "sectionChief",
+    "kanji": "課長",
+    "hiragana": "かちょう",
+    "en": "section chief",
+    "vi": "trưởng bộ phận, trưởng ban",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ chức vụ",
+        "Ví dụ: 課長です。 (Là trưởng ban.)"
+      ]
+    }
+  },
+  {
+    "id": "departmentChief",
+    "kanji": "部長",
+    "hiragana": "ぶちょう",
+    "en": "department chief",
+    "vi": "trưởng phòng",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ chức vụ",
+        "Ví dụ: 部長です。 (Là trưởng phòng.)"
+      ]
+    }
+  },
+  {
+    "id": "president",
+    "kanji": "社長",
+    "hiragana": "しゃちょう",
+    "en": "president",
+    "vi": "giám đốc, chủ tịch",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ chức vụ",
+        "Ví dụ: 社長です。 (Là giám đốc.)"
+      ]
+    }
+  },
+  {
+    "id": "itsAllRight",
+    "kanji": "大丈夫です",
+    "hiragana": "だいじょうぶです",
+    "en": "it's all right",
+    "vi": "không hề gì. không sao đâu",
+    "type": "other",
+    "explanation": {
+      "content": [
+        "Câu trả lời",
+        "Ví dụ: 大丈夫です。 (Không sao đâu.)"
+      ]
+    }
+  },
+  {
+    "id": "stillNotGood",
+    "kanji": "まだまだだめです",
+    "hiragana": "まだまだだめです",
+    "en": "still not good",
+    "vi": "vẫn còn chưa được (câu nói khiêm tốn)",
+    "type": "other",
+    "explanation": {
+      "content": [
+        "Câu nói khiêm tốn",
+        "Ví dụ: まだまだだめです。 (Vẫn còn chưa được.)"
+      ]
+    }
+  },
+  {
+    "id": "mustPracticeMore",
+    "kanji": "もっと「練習し」ないと…",
+    "hiragana": "もっと「れんしゅうし」ないと…",
+    "en": "must practice more",
+    "vi": "tôi còn phải cố gắng [tập] hơn nữa",
+    "type": "other",
+    "explanation": {
+      "content": [
+        "Câu nói khiêm tốn",
+        "Ví dụ: もっと練習しないと… (Tôi còn phải cố gắng tập hơn nữa.)"
+      ]
+    }
+  },
+  {
+    "id": "animal",
+    "kanji": "動物",
+    "hiragana": "どうぶつ",
+    "en": "animal",
+    "vi": "động vật",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ động vật",
+        "Ví dụ: 動物が好きです。 (Thích động vật.)"
+      ]
+    }
+  },
+  {
+    "id": "really",
+    "kanji": "へえ",
+    "hiragana": "へえ",
+    "en": "really",
+    "vi": "thật á! (dùng khi biểu lộ sự ngạc nhiên)",
+    "type": "other",
+    "explanation": {
+      "content": [
+        "Từ cảm thán",
+        "Ví dụ: へえ (Thật á!)"
+      ]
+    }
+  },
+  {
+    "id": "thatIsInteresting",
+    "kanji": "それは面白いね",
+    "hiragana": "それはおもしろいね",
+    "en": "that is interesting",
+    "vi": "ôi hay quá nhỉ!",
+    "type": "other",
+    "explanation": {
+      "content": [
+        "Câu cảm thán",
+        "Ví dụ: それは面白いね。 (Ôi hay quá nhỉ!)"
+      ]
+    }
+  },
+  {
+    "id": "notEasily",
+    "kanji": "なかなか",
+    "hiragana": "なかなか",
+    "en": "not easily",
+    "vi": "mãi mà (dùng với động từ ở dạng phủ định)",
+    "type": "adverb",
+    "explanation": {
+      "content": [
+        "Phó từ",
+        "Ví dụ: なかなかできません。 (Mãi mà không được.)"
+      ]
+    }
+  },
+  {
+    "id": "ranch",
+    "kanji": "牧場",
+    "hiragana": "ぼくじょう",
+    "en": "ranch",
+    "vi": "trại nuôi gia súc",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ trại nuôi gia súc",
+        "Ví dụ: 牧場へ行きます。 (Đi trại nuôi gia súc.)"
+      ]
+    }
+  },
+  {
+    "id": "really",
+    "kanji": "本当ですか",
+    "hiragana": "ほんとうですか",
+    "en": "really",
+    "vi": "thật sao?",
+    "type": "other",
+    "explanation": {
+      "content": [
+        "Câu hỏi",
+        "Ví dụ: 本当ですか。 (Thật sao?)"
+      ]
+    }
+  },
+  {
+    "id": "byAllMeans",
+    "kanji": "是非",
+    "hiragana": "ぜひ",
+    "en": "by all means",
+    "vi": "bằng mọi cách, nhất định",
+    "type": "adverb",
+    "explanation": {
+      "content": [
+        "Phó từ",
+        "Ví dụ: 是非来てください。 (Nhất định hãy đến.)"
+      ]
+    }
+  },
+  {
+    "id": "beatles",
+    "kanji": "ビートルズ",
+    "hiragana": "ビートルズ",
+    "en": "The Beatles",
+    "vi": "ban nhạc The Beatles",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Tên ban nhạc (từ mượn)",
+        "Ví dụ: ビートルズが好きです。 (Thích ban nhạc The Beatles.)"
+      ]
+    }
+  }
+]

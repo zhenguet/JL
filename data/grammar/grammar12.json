@@ -1,46 +1,158 @@
 ﻿[
   {
-    "id": "mae-ni",
-    "title": "前に - Trước khi",
-    "description": "前に dùng để chỉ thời gian trước khi làm việc gì đó. Động từ đứng trước 前に ở thể từ điển.",
-    "structure": "Động từ (thể từ điển) + 前に",
+    "id": "n-na-adj-past-tense",
+    "title": "Các thì của câu kết thúc bởi danh từ và tính từ đuôi な",
+    "description": "Các thì của câu kết thúc bởi danh từ và tính từ đuôi な. Hiện tại - Khẳng định: N です / な-adj です; Phủ định: N ではありません / な-adj ではありません（じゃ）. Quá khứ - Khẳng định: N でした / な-adj でした; Phủ định: N ではありませんでした / な-adj ではありませんでした（じゃ）",
+    "structure": "N です / な-adj です / N でした / な-adj でした",
     "examples": [
       {
-        "japanese": "食事をする前に手を洗います。",
-        "romaji": "Shokuji o suru mae ni te o araimasu.",
-        "vietnamese": "Rửa tay trước khi ăn."
+        "japanese": "きのうは 雨 でした。",
+        "romaji": "Kinou wa ame deshita.",
+        "vietnamese": "Hôm qua (đã) mưa."
       },
       {
-        "japanese": "寝る前に本を読みます。",
-        "romaji": "Neru mae ni hon o yomimasu.",
-        "vietnamese": "Đọc sách trước khi ngủ."
+        "japanese": "きのうの試験 は 簡単 ではありませんでした。",
+        "romaji": "Kinou no shiken wa kantan dewa arimasen deshita.",
+        "vietnamese": "Kỳ thi hôm qua (đã) không đơn giản."
       }
     ],
     "notes": [
-      "前に dùng với động từ thể từ điển",
-      "Có thể dùng với danh từ: 食事の前に"
+      "Hiện tại - Khẳng định: N です / な-adj です",
+      "Hiện tại - Phủ định: N ではありません / な-adj ではありません（じゃ）",
+      "Quá khứ - Khẳng định: N でした / な-adj でした",
+      "Quá khứ - Phủ định: N ではありませんでした / な-adj ではありませんでした（じゃ）"
     ]
   },
   {
-    "id": "ato-ni",
-    "title": "後に - Sau khi",
-    "description": "後に dùng để chỉ thời gian sau khi làm việc gì đó. Động từ đứng trước 後に ở thể た.",
-    "structure": "Động từ (thể た) + 後に",
+    "id": "i-adj-past-tense",
+    "title": "Các thì của câu kết thúc bằng tính từ đuôi い",
+    "description": "Các thì của câu kết thúc bằng tính từ đuôi い. Hiện tại - Khẳng định: い-adj いです; Phủ định: い-adj くないです. Quá khứ - Khẳng định: い-adj かったです; Phủ định: い-adj くなかったです",
+    "structure": "い-adj いです / い-adj くないです / い-adj かったです / い-adj くなかったです",
     "examples": [
       {
-        "japanese": "食事をした後に歯を磨きます。",
-        "romaji": "Shokuji o shita ato ni ha o migakimasu.",
-        "vietnamese": "Đánh răng sau khi ăn."
+        "japanese": "おとといは 寒 かったです。",
+        "romaji": "Ototoi wa samukatta desu.",
+        "vietnamese": "Hôm kia (đã) lạnh."
       },
       {
-        "japanese": "勉強した後にテレビを見ます。",
-        "romaji": "Benkyou shita ato ni terebi o mimasu.",
-        "vietnamese": "Xem TV sau khi học."
+        "japanese": "おとといのパーティーは あまり 楽 しくなかったです。",
+        "romaji": "Ototoi no paatii wa amari tanoshikunakatta desu.",
+        "vietnamese": "Bữa tiệc hôm kia (đã) không vui lắm."
       }
     ],
     "notes": [
-      "後に dùng với động từ thể た",
-      "Có thể dùng với danh từ: 食事の後に"
+      "Hiện tại - Khẳng định: い-adj いです",
+      "Hiện tại - Phủ định: い-adj くないです",
+      "Quá khứ - Khẳng định: い-adj かったです",
+      "Quá khứ - Phủ định: い-adj くなかったです"
+    ]
+  },
+  {
+    "id": "n1-wa-n2-yori-adj",
+    "title": "N1 は N2 より Adj です - Cách nói so sánh hơn, kém",
+    "description": "N1 ~ hơn N2. Đây là câu so sánh hơn. Trong đó, N1 được đưa ra so sánh với N2.",
+    "structure": "N1 は N2 より Adj です",
+    "examples": [
+      {
+        "japanese": "ひこうきは 自動車 より はやいです。",
+        "romaji": "Hikouki wa jidousha yori hayai desu.",
+        "vietnamese": "Máy bay nhanh hơn ô tô."
+      },
+      {
+        "japanese": "田中 さんは 私 より 高 いです。",
+        "romaji": "Tanaka-san wa watashi yori takai desu.",
+        "vietnamese": "Anh Tanaka cao hơn tôi."
+      }
+    ],
+    "notes": [
+      "Đây là câu so sánh hơn",
+      "N1 được đưa ra so sánh với N2"
+    ]
+  },
+  {
+    "id": "n1-to-n2-to-dochira",
+    "title": "N1 と N2 と どちらが Adj ですか - Cách hỏi và nói so sánh hơn, kém giữa 2 vật",
+    "description": "N1 và N2 cái nào ~ hơn? ...N1 ( N2) ~ hơn. Luôn sử dụng từ để hỏi どちら khi muốn so sánh giữa 2 vật hay người.",
+    "structure": "N1 と N2 と どちらが Adj ですか / ...N1(N2)のほうが Adj です",
+    "examples": [
+      {
+        "japanese": "テニスと サッカーと どちらが おもしろいですか。",
+        "romaji": "Tenisu to sakkaa to dochira ga omoshiroi desu ka?",
+        "vietnamese": "Tennis và bóng đá cái nào thú vị hơn?"
+      },
+      {
+        "japanese": "...サッカーのほうが おもしろいです。",
+        "romaji": "...Sakkaa no hou ga omoshiroi desu.",
+        "vietnamese": "...Bóng đá thú vị hơn."
+      },
+      {
+        "japanese": "春 と 秋 と どちらが 好 きですか。",
+        "romaji": "Haru to aki to dochira ga suki desu ka?",
+        "vietnamese": "Mùa xuân và mùa thu bạn thích mùa nào hơn?"
+      },
+      {
+        "japanese": "...秋 のほうが 好 きです。",
+        "romaji": "...Aki no hou ga suki desu.",
+        "vietnamese": "... Tôi thích mùa thu hơn."
+      }
+    ],
+    "notes": [
+      "Luôn sử dụng từ để hỏi どちら khi muốn so sánh giữa 2 vật hay người",
+      "Trả lời: N1(N2)のほうが Adj です"
+    ]
+  },
+  {
+    "id": "n-nonaka-de-ichiban",
+    "title": "N1[のなか]で N2 が いちばん Adj です - Cách nói so sánh cao nhất",
+    "description": "Trong phạm vi N1 thì N2 ~ nhất. Đây là câu so sánh cao nhất. Trong đó: N2 thuộc phạm vi của N1 và có tính chất [Adj] nhất trong phạm vi đó.",
+    "structure": "N1[のなか]で N2 が いちばん Adj です",
+    "examples": [
+      {
+        "japanese": "くだもののなかで、りんごが いちばん すきです。",
+        "romaji": "Kudamono no naka de, ringo ga ichiban suki desu.",
+        "vietnamese": "Trong các loại quả, tôi thích nhất táo."
+      },
+      {
+        "japanese": "スポーツで サッカーが いちばん おもしろいです。",
+        "romaji": "Supootsu de sakkaa ga ichiban omoshiroi desu.",
+        "vietnamese": "Trong các môn thể thao, bóng đá thú vị nhất."
+      }
+    ],
+    "notes": [
+      "Đây là câu so sánh cao nhất",
+      "N2 thuộc phạm vi của N1 và có tính chất [Adj] nhất trong phạm vi đó"
+    ]
+  },
+  {
+    "id": "n-nonaka-de-nan-doko-dare-itsu-ichiban",
+    "title": "N [のなか] で なに／どこ／だれ／いつが いちばん Adj ですか - Cách đặt câu hỏi so sánh cao nhất",
+    "description": "Trong phạm vi N thì cái gì/nơi nào/ai/khi nào thì Adj nhất?",
+    "structure": "N [のなか] で なに／どこ／だれ／いつが いちばん Adj ですか",
+    "examples": [
+      {
+        "japanese": "1年 で いつが いちばん 寒 いですか。",
+        "romaji": "Ichinen de itsu ga ichiban samui desu ka?",
+        "vietnamese": "Trong 1 năm khi nào lạnh nhất?"
+      },
+      {
+        "japanese": "...2月 が いちばん 寒 いです。",
+        "romaji": "...Nigatsu ga ichiban samui desu.",
+        "vietnamese": "... Tháng 2 lạnh nhất."
+      },
+      {
+        "japanese": "クラスで だれが いちばん 若いですか。",
+        "romaji": "Kurasu de dare ga ichiban wakai desu ka?",
+        "vietnamese": "Trong lớp, ai trẻ nhất?"
+      },
+      {
+        "japanese": "… An さん です。",
+        "romaji": "...An-san desu.",
+        "vietnamese": "Bạn A (trẻ nhất)"
+      }
+    ],
+    "notes": [
+      "Trong phạm vi N thì cái gì/nơi nào/ai/khi nào thì Adj nhất?",
+      "なに - cái gì, どこ - nơi nào, だれ - ai, いつ - khi nào"
     ]
   }
 ]

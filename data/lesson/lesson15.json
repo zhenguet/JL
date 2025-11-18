@@ -1,1 +1,492 @@
-﻿[]
+﻿[
+  {
+    "id": "toUse",
+    "kanji": "使います",
+    "hiragana": "つかいます",
+    "en": "to use",
+    "vi": "dùng, sử dụng",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm I",
+        "Ví dụ: コンピューターを使います。 (Dùng máy tính.)"
+      ]
+    }
+  },
+  {
+    "id": "toSit",
+    "kanji": "座ります",
+    "hiragana": "すわります",
+    "en": "to sit",
+    "vi": "ngồi [vào ghế]",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm I",
+        "Ví dụ: 椅子に座ります。 (Ngồi vào ghế.)"
+      ]
+    }
+  },
+  {
+    "id": "sitOnChair",
+    "kanji": "椅子に座ります",
+    "hiragana": "いすにすわります",
+    "en": "sit on a chair",
+    "vi": "ngồi vào ghế",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm I",
+        "Ví dụ: 椅子に座ります。 (Ngồi vào ghế.)"
+      ]
+    }
+  },
+  {
+    "id": "toStand",
+    "kanji": "立ちます",
+    "hiragana": "たちます",
+    "en": "to stand",
+    "vi": "đứng",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm I",
+        "Ví dụ: 立って待ちます。 (Đứng chờ.)"
+      ]
+    }
+  },
+  {
+    "id": "toPut",
+    "kanji": "置きます",
+    "hiragana": "おきます",
+    "en": "to put",
+    "vi": "đặt, để",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm I",
+        "Ví dụ: 本を置きます。 (Đặt sách.)"
+      ]
+    }
+  },
+  {
+    "id": "toMake",
+    "kanji": "作ります／造ります",
+    "hiragana": "つくります",
+    "en": "to make",
+    "vi": "làm, chế tạo",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm I",
+        "Ví dụ: ケーキを作ります。 (Làm bánh.)"
+      ]
+    }
+  },
+  {
+    "id": "toSell",
+    "kanji": "売ります",
+    "hiragana": "うります",
+    "en": "to sell",
+    "vi": "bán",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm I",
+        "Ví dụ: 本を売ります。 (Bán sách.)"
+      ]
+    }
+  },
+  {
+    "id": "toKnow",
+    "kanji": "知ります",
+    "hiragana": "しります",
+    "en": "to know",
+    "vi": "biết",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm I",
+        "Ví dụ: その人を知ります。 (Biết người đó.)"
+      ]
+    }
+  },
+  {
+    "id": "toHold",
+    "kanji": "持ちます",
+    "hiragana": "もちます",
+    "en": "to hold",
+    "vi": "cầm, nắm, mang",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm I",
+        "Ví dụ: かばんを持ちます。 (Mang cặp.)"
+      ]
+    }
+  },
+  {
+    "id": "toLive",
+    "kanji": "住みます",
+    "hiragana": "すみます",
+    "en": "to live",
+    "vi": "cư trú, sống, ở",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm I",
+        "Ví dụ: 東京に住みます。 (Sống ở Tokyo.)"
+      ]
+    }
+  },
+  {
+    "id": "toResearch",
+    "kanji": "研究します",
+    "hiragana": "けんきゅうします",
+    "en": "to research",
+    "vi": "nghiên cứu",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm III (する)",
+        "Ví dụ: 日本語を研究します。 (Nghiên cứu tiếng Nhật.)"
+      ]
+    }
+  },
+  {
+    "id": "knowing",
+    "kanji": "知っています",
+    "hiragana": "しっています",
+    "en": "knowing",
+    "vi": "biết",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm I (thể tiếp diễn)",
+        "Ví dụ: その人を知っています。 (Biết người đó.)"
+      ]
+    }
+  },
+  {
+    "id": "having",
+    "kanji": "持っています",
+    "hiragana": "もっています",
+    "en": "having",
+    "vi": "có, mang, đang cầm, đang nắm",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm I (thể tiếp diễn)",
+        "Ví dụ: 車を持っています。 (Có xe hơi.)"
+      ]
+    }
+  },
+  {
+    "id": "living",
+    "kanji": "住んでいます",
+    "hiragana": "すんでいます",
+    "en": "living",
+    "vi": "sống, sinh sống [ở Tokyo]",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm I (thể tiếp diễn)",
+        "Ví dụ: 東京に住んでいます。 (Sống ở Tokyo.)"
+      ]
+    }
+  },
+  {
+    "id": "livingInTokyo",
+    "kanji": "東京に住んでいます",
+    "hiragana": "とうきょうにすんでいます",
+    "en": "living in Tokyo",
+    "vi": "sống ở Tokyo",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm I (thể tiếp diễn)",
+        "Ví dụ: 東京に住んでいます。 (Sống ở Tokyo.)"
+      ]
+    }
+  },
+  {
+    "id": "noSmoking",
+    "kanji": "禁煙",
+    "hiragana": "きんえん",
+    "en": "no smoking",
+    "vi": "cấm hút thuốc lá",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ khu vực cấm hút thuốc",
+        "Ví dụ: 禁煙席 (Ghế cấm hút thuốc)"
+      ]
+    }
+  },
+  {
+    "id": "product",
+    "kanji": "製品",
+    "hiragana": "せいひん",
+    "en": "product",
+    "vi": "sản phẩm, hàng",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ sản phẩm",
+        "Ví dụ: 日本製品 (Sản phẩm Nhật Bản)"
+      ]
+    }
+  },
+  {
+    "id": "soap",
+    "kanji": "石鹸",
+    "hiragana": "せっけん",
+    "en": "soap",
+    "vi": "xà phòng",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ xà phòng",
+        "Ví dụ: 石鹸で手を洗います。 (Rửa tay bằng xà phòng.)"
+      ]
+    }
+  },
+  {
+    "id": "towel",
+    "kanji": "タオル",
+    "hiragana": "タオル",
+    "en": "towel",
+    "vi": "khăn lau, khăn mặt",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ khăn (từ mượn)",
+        "Ví dụ: タオルで顔を拭きます。 (Lau mặt bằng khăn.)"
+      ]
+    }
+  },
+  {
+    "id": "material",
+    "kanji": "資料",
+    "hiragana": "しりょう",
+    "en": "material",
+    "vi": "tài liệu, nguyên liệu",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ tài liệu",
+        "Ví dụ: 資料を集めます。 (Thu thập tài liệu.)"
+      ]
+    }
+  },
+  {
+    "id": "catalog",
+    "kanji": "カタログ",
+    "hiragana": "カタログ",
+    "en": "catalog",
+    "vi": "cát ta lô",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ catalog (từ mượn)",
+        "Ví dụ: カタログを見ます。 (Xem catalog.)"
+      ]
+    }
+  },
+  {
+    "id": "timetable",
+    "kanji": "時刻表",
+    "hiragana": "じこくひょう",
+    "en": "timetable",
+    "vi": "thời gian biểu",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ thời gian biểu",
+        "Ví dụ: 時刻表を見ます。 (Xem thời gian biểu.)"
+      ]
+    }
+  },
+  {
+    "id": "clothes",
+    "kanji": "服",
+    "hiragana": "ふく",
+    "en": "clothes",
+    "vi": "quần áo",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ quần áo",
+        "Ví dụ: 服を着ます。 (Mặc quần áo.)"
+      ]
+    }
+  },
+  {
+    "id": "software",
+    "kanji": "ソフト",
+    "hiragana": "ソフト",
+    "en": "software",
+    "vi": "phần mềm",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ phần mềm (từ mượn)",
+        "Ví dụ: ソフトをインストールします。 (Cài đặt phần mềm.)"
+      ]
+    }
+  },
+  {
+    "id": "playGuide",
+    "kanji": "プレイガイド",
+    "hiragana": "プレイガイド",
+    "en": "play guide",
+    "vi": "đại lý bán vé, phòng bán vé",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ đại lý bán vé (từ mượn)",
+        "Ví dụ: プレイガイドで切符を買います。 (Mua vé ở đại lý bán vé.)"
+      ]
+    }
+  },
+  {
+    "id": "single",
+    "kanji": "独身",
+    "hiragana": "どくしん",
+    "en": "single",
+    "vi": "độc thân",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ tình trạng độc thân",
+        "Ví dụ: 独身です。 (Độc thân.)"
+      ]
+    }
+  },
+  {
+    "id": "dentist",
+    "kanji": "歯医者",
+    "hiragana": "はいしゃ",
+    "en": "dentist",
+    "vi": "nha sĩ",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ nha sĩ",
+        "Ví dụ: 歯医者へ行きます。 (Đi nha sĩ.)"
+      ]
+    }
+  },
+  {
+    "id": "barber",
+    "kanji": "床屋",
+    "hiragana": "とこや",
+    "en": "barber",
+    "vi": "cửa hàng cắt tóc",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ cửa hàng cắt tóc",
+        "Ví dụ: 床屋へ行きます。 (Đi cửa hàng cắt tóc.)"
+      ]
+    }
+  },
+  {
+    "id": "elderSister",
+    "kanji": "上の「妹」",
+    "hiragana": "うえの「いもうと」",
+    "en": "elder sister",
+    "vi": "[em gái] lớn",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ em gái lớn",
+        "Ví dụ: 上の妹がいます。 (Có em gái lớn.)"
+      ]
+    }
+  },
+  {
+    "id": "youngerSister",
+    "kanji": "下の「妹」",
+    "hiragana": "したの「いもうと」",
+    "en": "younger sister",
+    "vi": "[em gái] nhỏ",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ em gái nhỏ",
+        "Ví dụ: 下の妹がいます。 (Có em gái nhỏ.)"
+      ]
+    }
+  },
+  {
+    "id": "especially",
+    "kanji": "特に",
+    "hiragana": "とくに",
+    "en": "especially",
+    "vi": "đặc biệt là",
+    "type": "adverb",
+    "explanation": {
+      "content": [
+        "Phó từ chỉ mức độ",
+        "Ví dụ: 特に日本語が好きです。 (Đặc biệt thích tiếng Nhật.)"
+      ]
+    }
+  },
+  {
+    "id": "toRemember",
+    "kanji": "思い出します",
+    "hiragana": "おもいだします",
+    "en": "to remember",
+    "vi": "nhớ lại",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm I",
+        "Ví dụ: 昔のことを思い出します。 (Nhớ lại chuyện xưa.)"
+      ]
+    }
+  },
+  {
+    "id": "family",
+    "kanji": "ご家族",
+    "hiragana": "ごかぞく",
+    "en": "family",
+    "vi": "gia đình (gia đình của người khác)",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ gia đình, có tiền tố ご (lịch sự)",
+        "Ví dụ: ご家族は何人ですか。 (Gia đình có mấy người?)"
+      ]
+    }
+  },
+  {
+    "id": "highSchool",
+    "kanji": "高校",
+    "hiragana": "こうこう",
+    "en": "high school",
+    "vi": "trường trung học phổ thông",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ trường trung học phổ thông",
+        "Ví dụ: 高校の学生です。 (Là học sinh trung học phổ thông.)"
+      ]
+    }
+  },
+  {
+    "id": "nihonbashi",
+    "kanji": "日本橋",
+    "hiragana": "にほんばし",
+    "en": "Nihonbashi",
+    "vi": "tên 1 quận mua sắm ở Osaka",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Tên địa danh",
+        "Ví dụ: 日本橋へ行きます。 (Đi Nihonbashi.)"
+      ]
+    }
+  }
+]

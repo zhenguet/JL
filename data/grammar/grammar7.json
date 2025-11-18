@@ -1,29 +1,167 @@
 ﻿[
   {
-    "id": "de-tool",
-    "title": "で - Trợ từ chỉ công cụ",
-    "description": "で dùng để chỉ công cụ, phương tiện sử dụng để thực hiện hành động.",
-    "structure": "Danh từ (công cụ) + で + Động từ",
+    "id": "n-de-verb-tool",
+    "title": "N で V ます - Cách thể hiện làm gì đó bằng phương cách, công cụ gì",
+    "description": "Làm ~ bằng N. N: Danh từ chỉ phương tiện, công cụ. で: trợ từ chỉ phương tiện, phương thức, phương pháp thực hiện hành động. Ngoài ra, trợ từ で cũng chỉ cả phương tiện ngôn ngữ.",
+    "structure": "N で V ます",
     "examples": [
       {
-        "japanese": "ペンで書きます。",
-        "romaji": "Pen de kakimasu.",
-        "vietnamese": "Viết bằng bút."
+        "japanese": "はしで ごはんを たべます。",
+        "romaji": "Hashi de gohan o tabemasu.",
+        "vietnamese": "Tôi ăn cơm bằng đũa."
       },
       {
-        "japanese": "コンピューターで調べます。",
-        "romaji": "Konpyuutaa de shirabemasu.",
-        "vietnamese": "Tra cứu bằng máy tính."
+        "japanese": "コンピューターで レポートを かきます。",
+        "romaji": "Konpyuutaa de repooto o kakimasu.",
+        "vietnamese": "Tôi viết báo cáo bằng máy tính."
       },
       {
-        "japanese": "日本語で話します。",
-        "romaji": "Nihongo de hanashimasu.",
-        "vietnamese": "Nói bằng tiếng Nhật."
+        "japanese": "なんで りんごを きりますか。",
+        "romaji": "Nande ringo o kirimasu ka?",
+        "vietnamese": "Bạn cắt táo bằng gì thế?"
+      },
+      {
+        "japanese": "… ナイフで きります。",
+        "romaji": "...Naifu de kirimasu.",
+        "vietnamese": "Tôi cắt bằng dao."
+      },
+      {
+        "japanese": "日本語 で でんわを かけます。",
+        "romaji": "Nihongo de denwa o kakemasu.",
+        "vietnamese": "Tôi nói chuyện điện thoại bằng tiếng Nhật."
       }
     ],
     "notes": [
-      "で chỉ công cụ, phương tiện sử dụng",
-      "で cũng chỉ ngôn ngữ sử dụng"
+      "N: Danh từ chỉ phương tiện, công cụ",
+      "で: trợ từ chỉ phương tiện, phương thức, phương pháp thực hiện hành động",
+      "なんで V ますか - Làm ~ bằng gì?",
+      "Ngoài ra, trợ từ で cũng chỉ cả phương tiện ngôn ngữ"
+    ]
+  },
+  {
+    "id": "word-wa-language-de-nan-desu-ka",
+    "title": "(Từ/Câu) は ～語で 何ですか - Cách thể hiện, hỏi 1 từ, 1 cụm từ nào đó nói như thế nào trong tiếng nước khác",
+    "description": "\"Từ/Câu\" trong tiếng~ là gì? Dùng để hỏi cách nói một từ hoặc câu bằng một thứ tiếng nào đó. Khi viết, từ/câu được hỏi thường để trong dấu 「 」 (dấu ngoặc kép trong tiếng Nhật)",
+    "structure": "(Từ/Câu) は ～語で 何ですか",
+    "examples": [
+      {
+        "japanese": "「ありがとう」は ベトナム語で 何ですか。",
+        "romaji": "\"Arigatou\" wa Betonamu-go de nan desu ka?",
+        "vietnamese": "\"Arigatou\" trong tiếng Việt là gì?"
+      }
+    ],
+    "notes": [
+      "Dùng để hỏi cách nói một từ hoặc câu bằng một thứ tiếng nào đó",
+      "Khi viết, từ/câu được hỏi thường để trong dấu 「 」 (dấu ngoặc kép trong tiếng Nhật)"
+    ]
+  },
+  {
+    "id": "n1-ni-n2-wo-ageru",
+    "title": "N1(người) に N2 を あげます/かします/かきます/おしえます - Cách nói làm gì đó cho ai, hướng tới đối tượng nào",
+    "description": "Làm ~ cho N1. に trợ từ chỉ hướng đến của hành động → \"cho ai\". Với động từ あげます, N1 không được dùng là わたし",
+    "structure": "N1(người) に N2 を あげます/かします/かきます/おしえます",
+    "examples": [
+      {
+        "japanese": "ともだちに てがみを かきます。",
+        "romaji": "Tomodachi ni tegami o kakimasu.",
+        "vietnamese": "Tôi sẽ viết thư cho bạn."
+      },
+      {
+        "japanese": "母 に プレゼントをあげます",
+        "romaji": "Haha ni purezento o agemasu.",
+        "vietnamese": "Tôi sẽ tặng quà cho mẹ."
+      },
+      {
+        "japanese": "だれに 日本語 を おしえますか。",
+        "romaji": "Dare ni Nihongo o oshiemasu ka?",
+        "vietnamese": "Bạn dậy tiếng Nhật cho ai?"
+      },
+      {
+        "japanese": "... タンさんに おしえます。",
+        "romaji": "...Tan-san ni oshiemasu.",
+        "vietnamese": "... Dậy cho bạn Tân."
+      }
+    ],
+    "notes": [
+      "に trợ từ chỉ hướng đến của hành động → \"cho ai\"",
+      "だれに V ますか - Làm ~ cho ai?",
+      "Với động từ あげます, N1 không được dùng là わたし",
+      "Các động từ: あげます (Cho, tặng, biếu), かします (Cho vay, cho mượn), かきます (Viết), おしえます (Dậy, chỉ bảo)"
+    ]
+  },
+  {
+    "id": "n1-ni-n2-wo-morau",
+    "title": "N1(người) に N2 を もらいます/かります/ならいます - Cách nói nhận/vay/học từ ai",
+    "description": "(Nhận được) ~ từ N1. N1: chỉ xuất xứ của thứ hoặc vật mà chủ hành động nhận được/vay mượn được/học được; N2: chỉ thứ hoặc vật mà chủ hành động nhận được/vay mượn được/ học được. Khi N1 không phải là người mà là một cơ quan/tổ chức nào đó, sẽ dùng trợ từ から thay cho に.",
+    "structure": "N1(người) に N2 を もらいます/かります/ならいます",
+    "examples": [
+      {
+        "japanese": "木村 さんは山田 さんに花 をもらいました。",
+        "romaji": "Kimura-san wa Yamada-san ni hana o moraimashita.",
+        "vietnamese": "Chị Kimura đã nhận được hoa từ Yamada."
+      },
+      {
+        "japanese": "鈴木先生 に日本語 を習 いました。",
+        "romaji": "Suzuki-sensei ni Nihongo o naraimashita.",
+        "vietnamese": "Tôi đã học tiếng Nhật từ cô Suzuki."
+      },
+      {
+        "japanese": "銀行 から お金 を借 ります。",
+        "romaji": "Ginkou kara okane o karimasu.",
+        "vietnamese": "Tôi sẽ vay tiền từ ngân hàng."
+      },
+      {
+        "japanese": "大学からプレゼントをもらいました。",
+        "romaji": "Daigaku kara purezento o moraimashita.",
+        "vietnamese": "Tôi đã nhận được quà từ trường đại học"
+      },
+      {
+        "japanese": "だれに この時計 を もらいましたか。",
+        "romaji": "Dare ni kono tokei o moraimashita ka?",
+        "vietnamese": "Bạn đã nhận chiếc đồng hồ này từ ai vậy?"
+      },
+      {
+        "japanese": "... 母 に もらいました。",
+        "romaji": "...Haha ni moraimashita.",
+        "vietnamese": "... Tôi nhận từ mẹ tôi."
+      }
+    ],
+    "notes": [
+      "N1: chỉ xuất xứ của thứ hoặc vật mà chủ hành động nhận được/vay mượn được/học được",
+      "N2: chỉ thứ hoặc vật mà chủ hành động nhận được/vay mượn được/ học được",
+      "Khi N1 không phải là người mà là một cơ quan/tổ chức nào đó, sẽ dùng trợ từ から thay cho に",
+      "だれ に（から） V ますか - ～ từ ai?",
+      "Các động từ: もらいます (Nhận được), かります (Vay, mượn), ならいます (Học)"
+    ]
+  },
+  {
+    "id": "mou-mada",
+    "title": "もう & まだ - Cách hỏi và trả lời về hành động đã hoàn thành hay chưa",
+    "description": "もう ＋V ました： đã …rồi. まだ： vẫn/chưa, chỉ một hành động hay trạng thái chưa xảy ra, chưa hoàn thành ở thời điểm nói. Với câu hỏi もう V ましたか？ câu trả lời như sau: Câu trả lời khẳng định: はい、もう V ました。 Câu trả lời phủ định: いいえ、まだです。 (Không trả lời いいえ、まだ V ませんでした)",
+    "structure": "もう V ましたか / はい、もう V ました / いいえ、まだです",
+    "examples": [
+      {
+        "japanese": "もう ごはんを たべましたか。",
+        "romaji": "Mou gohan o tabemashita ka?",
+        "vietnamese": "Bạn đã ăn cơm rồi à?"
+      },
+      {
+        "japanese": "... はい、 もう たべました。",
+        "romaji": "...Hai, mou tabemashita.",
+        "vietnamese": "... Vâng, tôi ăn rồi."
+      },
+      {
+        "japanese": "... いいえ、 まだです。",
+        "romaji": "...Iie, mada desu.",
+        "vietnamese": "... Không, tôi vẫn chưa ăn."
+      }
+    ],
+    "notes": [
+      "もう ＋V ました： đã …rồi",
+      "まだ： vẫn/chưa, chỉ một hành động hay trạng thái chưa xảy ra, chưa hoàn thành ở thời điểm nói",
+      "Với câu hỏi もう V ましたか？ câu trả lời như sau:",
+      "Câu trả lời khẳng định: はい、もう V ました",
+      "Câu trả lời phủ định: いいえ、まだです (Không trả lời いいえ、まだ V ませんでした)"
     ]
   }
 ]

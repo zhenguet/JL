@@ -1,101 +1,231 @@
 ﻿[
   {
-    "id": "de-transportation",
-    "title": "で - Phương tiện di chuyển",
-    "description": "で dùng để chỉ phương tiện di chuyển. Đặt sau tên phương tiện để nói \"bằng\" phương tiện đó.",
-    "structure": "Phương tiện + で + Động từ di chuyển",
+    "id": "gatsu-nichi",
+    "title": "N は ～月(がつ) ～日(にち)です - Cách nói ngày tháng",
+    "description": "N là ngày ~ tháng ~. Cách nói ngày tháng năm của Nhật ngược so với tiếng Việt. Phải nói NĂM, sau đó đến THÁNG và cuối cùng là NGÀY. いつ có thể dùng thay thế cho các từ để hỏi có nghĩa tương tự như なんじ、なんがつ、なんにち",
+    "structure": "N は ～月(がつ) ～日(にち)です",
     "examples": [
       {
-        "japanese": "電車で学校へ行きます。",
-        "romaji": "Densha de gakkou e ikimasu.",
-        "vietnamese": "Đi đến trường bằng tàu điện."
+        "japanese": "きょうは 七月八日 です。",
+        "romaji": "Kyou wa shichigatsu youka desu.",
+        "vietnamese": "Hôm nay là ngày mùng 8 tháng 7."
       },
       {
-        "japanese": "バスで駅へ行きます。",
-        "romaji": "Basu de eki e ikimasu.",
-        "vietnamese": "Đi đến ga bằng xe buýt."
+        "japanese": "あしたは 12日 です。",
+        "romaji": "Ashita wa juuninichi desu.",
+        "vietnamese": "Mai là ngày 12."
       },
       {
-        "japanese": "飛行機で日本へ行きます。",
-        "romaji": "Hikouki de Nihon e ikimasu.",
-        "vietnamese": "Đi đến Nhật Bản bằng máy bay."
+        "japanese": "たんじょうびは いつですか。",
+        "romaji": "Tanjoubi wa itsu desu ka?",
+        "vietnamese": "Sinh nhật bạn là bao giờ?"
+      },
+      {
+        "japanese": "… ７ 月 ７ 日 です。",
+        "romaji": "...Shichigatsu nanoka desu.",
+        "vietnamese": "…. Mùng 7 tháng 7."
+      },
+      {
+        "japanese": "こんげつは 何月 ですか。",
+        "romaji": "Kongetsu wa nangatsu desu ka?",
+        "vietnamese": "Tháng này là tháng mấy?"
+      },
+      {
+        "japanese": "… １０ 月 です。",
+        "romaji": "...Juugatsu desu.",
+        "vietnamese": "…Tháng 10."
+      },
+      {
+        "japanese": "あしたは 何日 ですか。",
+        "romaji": "Ashita wa nannichi desu ka?",
+        "vietnamese": "Ngày mai là mùng mấy?"
+      },
+      {
+        "japanese": "… １４日 です。",
+        "romaji": "...Juu yokka desu.",
+        "vietnamese": "… Ngày 14."
       }
     ],
     "notes": [
-      "で chỉ phương tiện di chuyển",
-      "歩いて (aruite) nghĩa là \"đi bộ\", không dùng で",
-      "一緒に (issho ni) nghĩa là \"cùng nhau\""
+      "N は いつですか - N là bao giờ?",
+      "N は 何月 ですか - N là tháng mấy?",
+      "N は 何日 ですか - N là mùng mấy?",
+      "Cách nói ngày tháng năm của Nhật ngược so với tiếng Việt. Phải nói NĂM, sau đó đến THÁNG và cuối cùng là NGÀY",
+      "いつ có thể dùng thay thế cho các từ để hỏi có nghĩa tương tự như なんじ、なんがつ、なんにち"
     ]
   },
   {
-    "id": "ni-noru",
-    "title": "に - Lên phương tiện",
-    "description": "に dùng với động từ 乗ります (norimasu - lên) để chỉ phương tiện mà người nói lên.",
-    "structure": "Phương tiện + に + 乗ります",
+    "id": "place-e-ikimasu-kimasu-kaerimasu",
+    "title": "N (Danh từ chỉ địa điểm) へ いきます/きます/かえります - Cách nói hành động di chuyển",
+    "description": "Đi/Đến/Về đâu đó (địa điểm N). N là danh từ chỉ nơi chốn, địa điểm. \"へ\" (đọc là e) là trợ từ chỉ phương hướng di chuyển. Đi sau cùng là động từ mang nghĩa di chuyển từ nơi này sang nơi khác.",
+    "structure": "N (Danh từ chỉ địa điểm) へ いきます/きます/かえります",
     "examples": [
       {
-        "japanese": "電車に乗ります。",
-        "romaji": "Densha ni norimasu.",
-        "vietnamese": "Lên tàu điện."
+        "japanese": "わたしは だいがく へ いきます。",
+        "romaji": "Watashi wa daigaku e ikimasu.",
+        "vietnamese": "Tôi đi đến trường."
       },
       {
-        "japanese": "バスに乗ります。",
-        "romaji": "Basu ni norimasu.",
-        "vietnamese": "Lên xe buýt."
+        "japanese": "マイさんは ここへ きます。",
+        "romaji": "Mai-san wa koko e kimasu.",
+        "vietnamese": "Bạn Mai đến đây."
       },
       {
-        "japanese": "自転車に乗ります。",
-        "romaji": "Jitensha ni norimasu.",
-        "vietnamese": "Đi xe đạp."
+        "japanese": "わたしは うちへ かえります。",
+        "romaji": "Watashi wa uchi e kaerimasu.",
+        "vietnamese": "Tôi trở về nhà."
+      },
+      {
+        "japanese": "きょうのごご どこ へ いきますか。",
+        "romaji": "Kyou no gogo doko e ikimasu ka?",
+        "vietnamese": "Chiều hôm nay bạn sẽ đi đâu?"
+      },
+      {
+        "japanese": "… スーパーへ いきます。",
+        "romaji": "...Suupaa e ikimasu.",
+        "vietnamese": "Tôi sẽ đi đến siêu thị."
+      },
+      {
+        "japanese": "おととい どこ へ いきましたか。",
+        "romaji": "Ototoi doko e ikimashita ka?",
+        "vietnamese": "Hôm kia bạn đã đi đâu?"
+      },
+      {
+        "japanese": "… ぎんこうへ いきました。",
+        "romaji": "...Ginkou e ikimashita.",
+        "vietnamese": "Tôi đã đi đến ngân hàng."
+      },
+      {
+        "japanese": "きょうのごご どこ へ いきますか。",
+        "romaji": "Kyou no gogo doko e ikimasu ka?",
+        "vietnamese": "Chiều hôm nay bạn sẽ đi đâu?"
+      },
+      {
+        "japanese": "… どこも いきません。",
+        "romaji": "...Doko mo ikimasen.",
+        "vietnamese": "Tôi sẽ không đi đâu cả."
+      },
+      {
+        "japanese": "きのう どこ へ いきましたか。",
+        "romaji": "Kinou doko e ikimashita ka?",
+        "vietnamese": "Hôm qua bạn đã đi đâu vậy?"
+      },
+      {
+        "japanese": "… どこへも いきませんでした。",
+        "romaji": "...Doko e mo ikimasen deshita.",
+        "vietnamese": "Tôi (đã) không đi đâu cả."
       }
     ],
     "notes": [
-      "に dùng với 乗ります để chỉ phương tiện",
-      "降ります (orimasu) nghĩa là \"xuống\", dùng với を"
+      "～は どこへ ～(Động từ) か - Cách hỏi đi đâu, đến đâu, về đâu",
+      "どこ（へ）も いきません - Không đi đâu cả / Chỗ nào cũng không đi",
+      "Trợ từ も + thể phủ định của động từ: dùng để phủ định tất cả những gì trong phạm vi mà từ để hỏi どこ đưa ra",
+      "Có thể dùng も hoặc để cả へも đều được, nhưng dùng へも thì ý nghĩa phủ định sẽ mạnh hơn"
     ]
   },
   {
-    "id": "o-oriru",
-    "title": "を - Xuống phương tiện",
-    "description": "を dùng với động từ 降ります (orimasu - xuống) để chỉ phương tiện mà người nói xuống.",
-    "structure": "Phương tiện + を + 降ります",
+    "id": "de-ikimasu-kimasu-kaerimasu",
+    "title": "～で いきます/きます/かえります - Cách nói cách thức di chuyển",
+    "description": "Đi/đến/về bằng N (phương tiện). N là DT chỉ phương tiện giao thông, phương tiện đi lại. で là trợ từ, mang ý nghĩa xác định cách thức, phương tiện, có thể dịch tiếng Việt là \"bằng～\", \"bởi～\". Trường hợp muốn nói là \"đi bộ\" thì sử dụng あるいて và không dùng で.",
+    "structure": "～で いきます/きます/かえります",
     "examples": [
       {
-        "japanese": "駅で電車を降ります。",
-        "romaji": "Eki de densha o orimasu.",
-        "vietnamese": "Xuống tàu ở ga."
+        "japanese": "わたしは じどうしゃで びょういんへ いきます。",
+        "romaji": "Watashi wa jidousha de byouin e ikimasu.",
+        "vietnamese": "Tôi đi đến bệnh viện bằng ôtô."
       },
       {
-        "japanese": "バス停でバスを降ります。",
-        "romaji": "Basutei de basu o orimasu.",
-        "vietnamese": "Xuống xe buýt ở trạm."
+        "japanese": "ラオさんは バスで わたしのうちへ きます。",
+        "romaji": "Rao-san wa basu de watashi no uchi e kimasu.",
+        "vietnamese": "Bạn Rao đến nhà tôi bằng xe buýt."
+      },
+      {
+        "japanese": "まいこさんは ひこうき で くにへ かえります。",
+        "romaji": "Maiko-san wa hikouki de kuni e kaerimasu.",
+        "vietnamese": "Bạn Maiko về nước bằng máy bay."
+      },
+      {
+        "japanese": "まいにち あるいて がっこうへ いきます。",
+        "romaji": "Mainichi aruite gakkou e ikimasu.",
+        "vietnamese": "Hàng ngày tôi đi bộ đến trường."
+      },
+      {
+        "japanese": "なんで ここへ きましたか。",
+        "romaji": "Nande koko e kimashita ka?",
+        "vietnamese": "Bạn (đã) đến đây bằng gì vậy?"
+      },
+      {
+        "japanese": "… あるいて きました。",
+        "romaji": "...Aruite kimashita.",
+        "vietnamese": "Tôi (đã) đi bộ đến."
       }
     ],
     "notes": [
-      "を dùng với 降ります để chỉ phương tiện",
-      "で chỉ nơi chốn xảy ra hành động"
+      "N là DT chỉ phương tiện giao thông, phương tiện đi lại",
+      "で là trợ từ, mang ý nghĩa xác định cách thức, phương tiện",
+      "Trường hợp muốn nói là \"đi bộ\" thì sử dụng あるいて và không dùng で",
+      "〔～へ〕 なんで ～ (động từ) か - Đi/đến đâu bằng phương tiện gì?"
     ]
   },
   {
-    "id": "douyatte",
-    "title": "どうやって - Bằng cách nào",
-    "description": "どうやって là từ để hỏi về cách thức, phương tiện. Dùng để hỏi \"bằng cách nào\", \"như thế nào\".",
-    "structure": "どうやって + Động từ + か",
+    "id": "person-to-verb",
+    "title": "N (Danh từ chỉ người) と V ます - Cách nói làm hành động gì cùng với ai",
+    "description": "Làm gì cùng với N. N là danh từ chỉ người; と là trợ từ có ý nghĩa xác định đối tượng cùng tham gia hành động, có thể dịch tiếng Việt là \"cùng, với, cùng với\". Trường hợp muốn nói làm gì đó \"một mình\" thì dùng từ ひとりで và không có と",
+    "structure": "N (Danh từ chỉ người) と V ます",
     "examples": [
       {
-        "japanese": "どうやって学校へ行きますか？",
-        "romaji": "Douyatte gakkou e ikimasu ka?",
-        "vietnamese": "Bạn đi đến trường bằng cách nào?"
+        "japanese": "ともだちと 大学 へ きます。",
+        "romaji": "Tomodachi to daigaku e kimasu.",
+        "vietnamese": "Tôi đến trường cùng với bạn."
       },
       {
-        "japanese": "電車で行きます。",
-        "romaji": "Densha de ikimasu.",
-        "vietnamese": "Đi bằng tàu điện."
+        "japanese": "母 と デパートへ 行 きます。",
+        "romaji": "Haha to depaato e ikimasu.",
+        "vietnamese": "Tôi đi đến bách hóa cùng với mẹ."
+      },
+      {
+        "japanese": "ひとりで くにへ かえりました。",
+        "romaji": "Hitori de kuni e kaerimashita.",
+        "vietnamese": "Tôi đã về nước một mình"
+      },
+      {
+        "japanese": "だれと ぎんこうへ いきましたか。",
+        "romaji": "Dare to ginkou e ikimashita ka?",
+        "vietnamese": "Bạn đã đi đến ngân hàng cùng ai?"
+      },
+      {
+        "japanese": "… ジョンさんと いきました。",
+        "romaji": "...Jon-san to ikimashita.",
+        "vietnamese": "Tôi đã đi với John."
       }
     ],
     "notes": [
-      "どうやって dùng để hỏi về cách thức, phương tiện",
-      "Trả lời bằng cách dùng で + phương tiện"
+      "N là danh từ chỉ người",
+      "と là trợ từ có ý nghĩa xác định đối tượng cùng tham gia hành động",
+      "Trường hợp muốn nói làm gì đó \"một mình\" thì dùng từ ひとりで và không có と",
+      "だれと ～ (động từ) か - Làm gì với ai?"
+    ]
+  },
+  {
+    "id": "yo-particle",
+    "title": "Sentence + よ - Trợ từ よ",
+    "description": "よ được đặt ở cuối câu để nhấn mạnh về 1 sự việc mà người nghe chưa biết hoặc để bộc lộ sự phán xét hay ý kiến bản thân một cách chắc chắn. Không nên nói quá mạnh sẽ khiến người nghe có cảm giác bị ép buộc.",
+    "structure": "Sentence + よ",
+    "examples": [
+      {
+        "japanese": "このバスは Giap Bat へ 行きますか。",
+        "romaji": "Kono basu wa Giap Bat e ikimasu ka?",
+        "vietnamese": "Xe buýt này đi đến Giáp Bát phải à?"
+      },
+      {
+        "japanese": "...いいえ、いきません。 21 ばんせんですよ。",
+        "romaji": "...Iie, ikimasen. Nijuuichiban sen desu yo.",
+        "vietnamese": "Không. Đường số 21 cơ."
+      }
+    ],
+    "notes": [
+      "よ được đặt ở cuối câu để nhấn mạnh về 1 sự việc mà người nghe chưa biết hoặc để bộc lộ sự phán xét hay ý kiến bản thân một cách chắc chắn",
+      "Không nên nói quá mạnh sẽ khiến người nghe có cảm giác bị ép buộc"
     ]
   }
 ]

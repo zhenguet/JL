@@ -1,1 +1,604 @@
-﻿[]
+﻿[
+  {
+    "id": "toForget",
+    "kanji": "忘れます",
+    "hiragana": "わすれます",
+    "en": "to forget",
+    "vi": "quên",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm II",
+        "Ví dụ: 鍵を忘れます。 (Quên chìa khóa.)"
+      ]
+    }
+  },
+  {
+    "id": "toLose",
+    "kanji": "無くします",
+    "hiragana": "なくします",
+    "en": "to lose",
+    "vi": "đánh mất",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm I",
+        "Ví dụ: 財布を無くします。 (Đánh mất ví.)"
+      ]
+    }
+  },
+  {
+    "id": "toWorry",
+    "kanji": "心配します",
+    "hiragana": "しんぱいします",
+    "en": "to worry",
+    "vi": "lo, lo lắng",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm III (する)",
+        "Ví dụ: 試験を心配します。 (Lo lắng về kỳ thi.)"
+      ]
+    }
+  },
+  {
+    "id": "toBeCareful",
+    "kanji": "気をつけます",
+    "hiragana": "きをつけます",
+    "en": "to be careful",
+    "vi": "chú ý, cẩn thận, cảnh giác [với xe ô tô]",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm II",
+        "Ví dụ: 車に気をつけます。 (Cẩn thận với xe ô tô.)"
+      ]
+    }
+  },
+  {
+    "id": "beCarefulWithCar",
+    "kanji": "車に気をつけます",
+    "hiragana": "くるまにきをつけます",
+    "en": "be careful with car",
+    "vi": "cẩn thận với xe ô tô",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm II",
+        "Ví dụ: 車に気をつけます。 (Cẩn thận với xe ô tô.)"
+      ]
+    }
+  },
+  {
+    "id": "toStop",
+    "kanji": "止めます",
+    "hiragana": "とめます",
+    "en": "to stop",
+    "vi": "ngừng, dừng lại, đỗ (xe)",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm II",
+        "Ví dụ: 車を止めます。 (Đỗ xe.)"
+      ]
+    }
+  },
+  {
+    "id": "toReturn",
+    "kanji": "返します",
+    "hiragana": "かえします",
+    "en": "to return",
+    "vi": "trả lại",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm I",
+        "Ví dụ: 本を返します。 (Trả lại sách.)"
+      ]
+    }
+  },
+  {
+    "id": "toPay",
+    "kanji": "払います",
+    "hiragana": "はらいます",
+    "en": "to pay",
+    "vi": "trả, nộp tiền, đóng tiền",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm I",
+        "Ví dụ: お金を払います。 (Trả tiền.)"
+      ]
+    }
+  },
+  {
+    "id": "toTakeOff",
+    "kanji": "脱ぎます",
+    "hiragana": "ぬぎます",
+    "en": "to take off",
+    "vi": "cởi (quần áo, giầy…)",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm I",
+        "Ví dụ: 靴を脱ぎます。 (Cởi giày.)"
+      ]
+    }
+  },
+  {
+    "id": "toTouch",
+    "kanji": "触ります",
+    "hiragana": "さわります",
+    "en": "to touch",
+    "vi": "sờ, mó tay, chạm tay [vào máy]",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm I",
+        "Ví dụ: 機械に触ります。 (Chạm vào máy.)"
+      ]
+    }
+  },
+  {
+    "id": "touchMachine",
+    "kanji": "機械に触ります",
+    "hiragana": "きかいにさわります",
+    "en": "touch the machine",
+    "vi": "chạm vào máy",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm I",
+        "Ví dụ: 機械に触ります。 (Chạm vào máy.)"
+      ]
+    }
+  },
+  {
+    "id": "toGoOut",
+    "kanji": "出かけます",
+    "hiragana": "でかけます",
+    "en": "to go out",
+    "vi": "đi ra ngoài",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm II",
+        "Ví dụ: 買い物に出かけます。 (Đi ra ngoài mua sắm.)"
+      ]
+    }
+  },
+  {
+    "id": "toTake",
+    "kanji": "持って行きます",
+    "hiragana": "もっていきます",
+    "en": "to take",
+    "vi": "đem (cái gì) đi",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm I",
+        "Ví dụ: 本を持って行きます。 (Đem sách đi.)"
+      ]
+    }
+  },
+  {
+    "id": "toBring",
+    "kanji": "持って来ます",
+    "hiragana": "もってきます",
+    "en": "to bring",
+    "vi": "mang (cái gì) đến",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm III",
+        "Ví dụ: 本を持って来ます。 (Mang sách đến.)"
+      ]
+    }
+  },
+  {
+    "id": "toWorkOvertime",
+    "kanji": "残業します",
+    "hiragana": "ざんぎょうします",
+    "en": "to work overtime",
+    "vi": "làm thêm",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm III (する)",
+        "Ví dụ: 今日残業します。 (Hôm nay làm thêm.)"
+      ]
+    }
+  },
+  {
+    "id": "toGoOnBusinessTrip",
+    "kanji": "出張します",
+    "hiragana": "しゅっちょうします",
+    "en": "to go on a business trip",
+    "vi": "đi công tác",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm III (する)",
+        "Ví dụ: 東京へ出張します。 (Đi công tác Tokyo.)"
+      ]
+    }
+  },
+  {
+    "id": "important",
+    "kanji": "大切",
+    "hiragana": "たいせつ",
+    "en": "important",
+    "vi": "quan trọng, quý giá",
+    "type": "adjective",
+    "explanation": {
+      "content": [
+        "Tính từ な (な-adjective)",
+        "Ví dụ: 大切な物です。 (Vật quý giá.)"
+      ]
+    }
+  },
+  {
+    "id": "allRight",
+    "kanji": "大丈夫",
+    "hiragana": "だいじょうぶ",
+    "en": "all right",
+    "vi": "bền, chắc, khỏe",
+    "type": "adjective",
+    "explanation": {
+      "content": [
+        "Tính từ な (な-adjective)",
+        "Ví dụ: 大丈夫です。 (Không sao đâu.)"
+      ]
+    }
+  },
+  {
+    "id": "amazing",
+    "kanji": "すごい",
+    "hiragana": "すごい",
+    "en": "amazing",
+    "vi": "tuyệt vời, cực kỳ, giỏi",
+    "type": "adjective",
+    "explanation": {
+      "content": [
+        "Tính từ i (い-adjective)",
+        "Ví dụ: すごい人です。 (Người giỏi.)"
+      ]
+    }
+  },
+  {
+    "id": "dangerous",
+    "kanji": "危ない",
+    "hiragana": "あぶない",
+    "en": "dangerous",
+    "vi": "nguy hiểm",
+    "type": "adjective",
+    "explanation": {
+      "content": [
+        "Tính từ i (い-adjective)",
+        "Ví dụ: 危ない道です。 (Con đường nguy hiểm.)"
+      ]
+    }
+  },
+  {
+    "id": "sound",
+    "kanji": "音",
+    "hiragana": "おと",
+    "en": "sound",
+    "vi": "tiếng động, âm thanh",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ âm thanh",
+        "Ví dụ: 音が聞こえます。 (Nghe thấy âm thanh.)"
+      ]
+    }
+  },
+  {
+    "id": "robot",
+    "kanji": "ロボット",
+    "hiragana": "ロボット",
+    "en": "robot",
+    "vi": "người máy",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ người máy (từ mượn)",
+        "Ví dụ: ロボットがいます。 (Có người máy.)"
+      ]
+    }
+  },
+  {
+    "id": "permission",
+    "kanji": "許可",
+    "hiragana": "きょか",
+    "en": "permission",
+    "vi": "sự cho phép (danh từ)",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ sự cho phép",
+        "Ví dụ: 許可をもらいます。 (Nhận được sự cho phép.)"
+      ]
+    }
+  },
+  {
+    "id": "switch",
+    "kanji": "スイッチ",
+    "hiragana": "スイッチ",
+    "en": "switch",
+    "vi": "công tắc điện, cái chuyển mạch",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ công tắc điện (từ mượn)",
+        "Ví dụ: スイッチをつけます。 (Bật công tắc.)"
+      ]
+    }
+  },
+  {
+    "id": "cooler",
+    "kanji": "クーラー",
+    "hiragana": "クーラー",
+    "en": "cooler",
+    "vi": "máy điều hòa, máy lạnh",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ máy điều hòa (từ mượn)",
+        "Ví dụ: クーラーをつけます。 (Bật máy điều hòa.)"
+      ]
+    }
+  },
+  {
+    "id": "heater",
+    "kanji": "ヒーター",
+    "hiragana": "ヒーター",
+    "en": "heater",
+    "vi": "máy điều hòa, lò sưởi",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ lò sưởi (từ mượn)",
+        "Ví dụ: ヒーターをつけます。 (Bật lò sưởi.)"
+      ]
+    }
+  },
+  {
+    "id": "problem",
+    "kanji": "問題",
+    "hiragana": "もんだい",
+    "en": "problem",
+    "vi": "câu hỏi, vấn đề",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ vấn đề",
+        "Ví dụ: 問題があります。 (Có vấn đề.)"
+      ]
+    }
+  },
+  {
+    "id": "answer",
+    "kanji": "答え",
+    "hiragana": "こたえ",
+    "en": "answer",
+    "vi": "câu trả lời",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ câu trả lời",
+        "Ví dụ: 答えを書きます。 (Viết câu trả lời.)"
+      ]
+    }
+  },
+  {
+    "id": "noSmoking",
+    "kanji": "禁煙",
+    "hiragana": "きんえん",
+    "en": "no smoking",
+    "vi": "cấm hút thuốc lá",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ khu vực cấm hút thuốc",
+        "Ví dụ: 禁煙席 (Ghế cấm hút thuốc)"
+      ]
+    }
+  },
+  {
+    "id": "healthInsurance",
+    "kanji": "「健康」保険証",
+    "hiragana": "「けんこう」ほけんしょう",
+    "en": "health insurance card",
+    "vi": "giấy bảo hiểm [sức khỏe]",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ giấy bảo hiểm",
+        "Ví dụ: 健康保険証を見せます。 (Cho xem giấy bảo hiểm.)"
+      ]
+    }
+  },
+  {
+    "id": "cold",
+    "kanji": "風邪",
+    "hiragana": "かぜ",
+    "en": "cold",
+    "vi": "cảm cúm",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ cảm cúm",
+        "Ví dụ: 風邪をひきます。 (Bị cảm cúm.)"
+      ]
+    }
+  },
+  {
+    "id": "fever",
+    "kanji": "熱",
+    "hiragana": "ねつ",
+    "en": "fever",
+    "vi": "sốt",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ sốt",
+        "Ví dụ: 熱があります。 (Có sốt.)"
+      ]
+    }
+  },
+  {
+    "id": "bath",
+    "kanji": "お風呂",
+    "hiragana": "おふろ",
+    "en": "bath",
+    "vi": "bồn tắm",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ bồn tắm, có tiền tố お (lịch sự)",
+        "Ví dụ: お風呂に入ります。 (Đi tắm.)"
+      ]
+    }
+  },
+  {
+    "id": "takeBath",
+    "kanji": "お風呂に入る",
+    "hiragana": "おふろにはいる",
+    "en": "take a bath",
+    "vi": "đi tắm",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm I",
+        "Ví dụ: お風呂に入ります。 (Đi tắm.)"
+      ]
+    }
+  },
+  {
+    "id": "jacket",
+    "kanji": "上着",
+    "hiragana": "うわぎ",
+    "en": "jacket",
+    "vi": "áo khoác",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ áo khoác",
+        "Ví dụ: 上着を着ます。 (Mặc áo khoác.)"
+      ]
+    }
+  },
+  {
+    "id": "underwear",
+    "kanji": "下着",
+    "hiragana": "したぎ",
+    "en": "underwear",
+    "vi": "đồ lót",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ đồ lót",
+        "Ví dụ: 下着を着ます。 (Mặc đồ lót.)"
+      ]
+    }
+  },
+  {
+    "id": "by",
+    "kanji": "～までに",
+    "hiragana": "～までに",
+    "en": "by",
+    "vi": "đến khi ~, đến ~ (chỉ thời hạn)",
+    "type": "other",
+    "explanation": {
+      "content": [
+        "Trợ từ chỉ thời hạn",
+        "Ví dụ: 5時までに (Đến 5 giờ)"
+      ]
+    }
+  },
+  {
+    "id": "so",
+    "kanji": "ですから",
+    "hiragana": "ですから",
+    "en": "so",
+    "vi": "vì vậy, cho nên (đứng đầu câu)",
+    "type": "other",
+    "explanation": {
+      "content": [
+        "Từ nối",
+        "Ví dụ: ですから、早く行きます。 (Vì vậy, đi sớm.)"
+      ]
+    }
+  },
+  {
+    "id": "noGood",
+    "kanji": "だめです",
+    "hiragana": "だめです",
+    "en": "no good",
+    "vi": "không được",
+    "type": "other",
+    "explanation": {
+      "content": [
+        "Câu phủ định",
+        "Ví dụ: だめです。 (Không được.)"
+      ]
+    }
+  },
+  {
+    "id": "whatsWrong",
+    "kanji": "どうしましたか",
+    "hiragana": "どうしましたか",
+    "en": "what's wrong",
+    "vi": "có chuyện gì vậy? sao vậy?",
+    "type": "other",
+    "explanation": {
+      "content": [
+        "Câu hỏi",
+        "Ví dụ: どうしましたか。 (Có chuyện gì vậy?)"
+      ]
+    }
+  },
+  {
+    "id": "itHurts",
+    "kanji": "「～が」痛いです",
+    "hiragana": "「～が」いたいです",
+    "en": "it hurts",
+    "vi": "đau [～]",
+    "type": "other",
+    "explanation": {
+      "content": [
+        "Câu chỉ trạng thái đau",
+        "Ví dụ: 頭が痛いです。 (Đau đầu.)"
+      ]
+    }
+  },
+  {
+    "id": "throat",
+    "kanji": "のど",
+    "hiragana": "のど",
+    "en": "throat",
+    "vi": "họng",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ họng",
+        "Ví dụ: のどが痛いです。 (Đau họng.)"
+      ]
+    }
+  },
+  {
+    "id": "takeCare",
+    "kanji": "お大事に",
+    "hiragana": "おだいじに",
+    "en": "take care",
+    "vi": "nhanh chóng bình phục nhé! (dùng để chúc người ốm chóng khỏi)",
+    "type": "other",
+    "explanation": {
+      "content": [
+        "Lời chúc người ốm",
+        "Ví dụ: お大事に。 (Nhanh chóng bình phục nhé!)"
+      ]
+    }
+  }
+]
