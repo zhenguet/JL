@@ -1,31 +1,31 @@
 ﻿[
   {
     "id": "desu",
-    "title": "です - Động từ \"là\"",
-    "description": "です là động từ \"là\" trong tiếng Nhật, dùng để nối danh từ với danh từ. Đây là thể lịch sự, dùng trong giao tiếp thông thường.",
-    "structure": "Danh từ + です",
+    "title": "N1 は N2 です - N1 là N2",
+    "description": "です là động từ \"là\" trong tiếng Nhật, dùng để nối danh từ với danh từ. Đây là thể lịch sự, dùng trong giao tiếp thông thường. Danh từ đứng trước は là chủ đề hoặc chủ ngữ trong câu. です được sử dụng cuối câu khẳng định, biểu lộ sự lịch sự đối với người nghe.",
+    "structure": "N1 は N2 です",
     "examples": [
       {
-        "japanese": "私は学生です。",
+        "japanese": "わたしは たなかです。",
+        "romaji": "Watashi wa Tanaka desu.",
+        "vietnamese": "Tôi là Tanaka."
+      },
+      {
+        "japanese": "わたしは 学生です。",
         "romaji": "Watashi wa gakusei desu.",
-        "vietnamese": "Tôi là học sinh."
+        "vietnamese": "Tôi là sinh viên."
       },
       {
         "japanese": "これは本です。",
         "romaji": "Kore wa hon desu.",
         "vietnamese": "Đây là sách."
-      },
-      {
-        "japanese": "田中さんは日本人です。",
-        "romaji": "Tanaka-san wa Nihonjin desu.",
-        "vietnamese": "Anh Tanaka là người Nhật."
       }
     ],
     "notes": [
       "です là thể lịch sự, dùng trong giao tiếp thông thường",
-      "Dạng phủ định: ではありません / じゃありません",
-      "Dạng quá khứ: でした",
-      "Dạng phủ định quá khứ: ではありませんでした / じゃありませんでした"
+      "Danh từ đứng trước は là chủ đề hoặc chủ ngữ trong câu",
+      "Đứng trước です là một danh từ hoặc tính từ",
+      "は khi là trợ từ được đọc là wa, không phải ha"
     ]
   },
   {

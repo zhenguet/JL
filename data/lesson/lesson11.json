@@ -1,309 +1,673 @@
 ﻿[
   {
-    "id": "toWant",
-    "kanji": "欲しい",
-    "hiragana": "ほしい",
-    "en": "to want",
-    "vi": "muốn",
-    "type": "adjective",
-    "explanation": {
-      "content": [
-        "Tính từ i (い-adjective), dùng với trợ từ が",
-        "Ví dụ: 新しい車が欲しいです。 (Tôi muốn xe hơi mới.)"
-      ]
-    }
-  },
-  {
-    "id": "toWantToDo",
-    "kanji": "たい",
-    "hiragana": "たい",
-    "en": "to want to do",
-    "vi": "muốn làm",
-    "type": "other",
-    "explanation": {
-      "content": [
-        "Đuôi động từ, thêm vào sau thể ます (bỏ ます)",
-        "Ví dụ: 日本へ行きたいです。 (Tôi muốn đi Nhật Bản.)"
-      ]
-    }
-  },
-  {
-    "id": "toKnow",
-    "kanji": "知ります",
-    "hiragana": "しります",
-    "en": "to know",
-    "vi": "biết",
+    "id": "toHave",
+    "kanji": "います",
+    "hiragana": "います",
+    "en": "to have",
+    "vi": "có (dùng cho người, động vật, chỉ sự sở hữu)",
     "type": "verb",
     "explanation": {
       "content": [
-        "Động từ nhóm I, dùng với trợ từ を",
-        "Ví dụ: その人を知ります。 (Biết người đó.)"
+        "Động từ nhóm II, dùng với trợ từ が",
+        "Ví dụ: 子供がいます。 (Có con.)"
       ]
     }
   },
   {
-    "id": "toUnderstand",
-    "kanji": "分かります",
-    "hiragana": "わかります",
-    "en": "to understand",
-    "vi": "hiểu",
+    "id": "toHaveChild",
+    "kanji": "子供がいます",
+    "hiragana": "こどもがいます",
+    "en": "to have a child",
+    "vi": "có con",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm II",
+        "Ví dụ: 子供がいます。 (Có con.)"
+      ]
+    }
+  },
+  {
+    "id": "toExist",
+    "kanji": "います",
+    "hiragana": "います",
+    "en": "to exist, to be",
+    "vi": "ở (chỉ sự tồn tại)",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm II, dùng với trợ từ に",
+        "Ví dụ: 日本にいます。 (Ở Nhật Bản.)"
+      ]
+    }
+  },
+  {
+    "id": "toBeInJapan",
+    "kanji": "日本にいます",
+    "hiragana": "にほんにいます",
+    "en": "to be in Japan",
+    "vi": "ở Nhật Bản",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm II",
+        "Ví dụ: 日本にいます。 (Ở Nhật Bản.)"
+      ]
+    }
+  },
+  {
+    "id": "toTake",
+    "kanji": "かかります",
+    "hiragana": "かかります",
+    "en": "to take",
+    "vi": "mất, tốn (thời gian, tiền bạc)",
     "type": "verb",
     "explanation": {
       "content": [
         "Động từ nhóm I, dùng với trợ từ が",
-        "Ví dụ: 日本語が分かります。 (Hiểu tiếng Nhật.)"
+        "Ví dụ: 時間がかかります。 (Mất thời gian.)"
       ]
     }
   },
   {
-    "id": "toCan",
-    "kanji": "できます",
-    "hiragana": "できます",
-    "en": "can, to be able to",
-    "vi": "có thể",
-    "type": "verb",
+    "id": "oneThing",
+    "kanji": "一つ",
+    "hiragana": "ひとつ",
+    "en": "one thing",
+    "vi": "1 cái (sử dụng để đếm vật nói chung)",
+    "type": "noun",
     "explanation": {
       "content": [
-        "Động từ nhóm III, dùng với trợ từ が",
-        "Ví dụ: 日本語ができます。 (Có thể nói tiếng Nhật.)"
+        "Số đếm: 1 cái",
+        "Ví dụ: 一つ買います。 (Mua 1 cái.)"
       ]
     }
   },
   {
-    "id": "toPlay",
-    "kanji": "遊びます",
-    "hiragana": "あそびます",
-    "en": "to play",
-    "vi": "chơi",
-    "type": "verb",
+    "id": "twoThings",
+    "kanji": "二つ",
+    "hiragana": "ふたつ",
+    "en": "two things",
+    "vi": "2 cái",
+    "type": "noun",
     "explanation": {
       "content": [
-        "Động từ nhóm I, dùng với trợ từ で",
-        "Ví dụ: 公園で遊びます。 (Chơi ở công viên.)"
+        "Số đếm: 2 cái",
+        "Ví dụ: 二つ買います。 (Mua 2 cái.)"
       ]
     }
   },
   {
-    "id": "toSwim",
-    "kanji": "泳ぎます",
-    "hiragana": "およぎます",
-    "en": "to swim",
-    "vi": "bơi",
-    "type": "verb",
+    "id": "threeThings",
+    "kanji": "三つ",
+    "hiragana": "みっつ",
+    "en": "three things",
+    "vi": "3 cái",
+    "type": "noun",
     "explanation": {
       "content": [
-        "Động từ nhóm I, dùng với trợ từ で",
-        "Ví dụ: プールで泳ぎます。 (Bơi ở bể bơi.)"
+        "Số đếm: 3 cái",
+        "Ví dụ: 三つ買います。 (Mua 3 cái.)"
       ]
     }
   },
   {
-    "id": "toSing",
-    "kanji": "歌います",
-    "hiragana": "うたいます",
-    "en": "to sing",
-    "vi": "hát",
-    "type": "verb",
+    "id": "fourThings",
+    "kanji": "四つ",
+    "hiragana": "よっつ",
+    "en": "four things",
+    "vi": "4 cái",
+    "type": "noun",
     "explanation": {
       "content": [
-        "Động từ nhóm I, dùng với trợ từ を",
-        "Ví dụ: 歌を歌います。 (Hát bài hát.)"
+        "Số đếm: 4 cái",
+        "Ví dụ: 四つ買います。 (Mua 4 cái.)"
       ]
     }
   },
   {
-    "id": "toDance",
-    "kanji": "踊ります",
-    "hiragana": "おどります",
-    "en": "to dance",
-    "vi": "nhảy",
-    "type": "verb",
+    "id": "fiveThings",
+    "kanji": "五つ",
+    "hiragana": "いつつ",
+    "en": "five things",
+    "vi": "5 cái",
+    "type": "noun",
     "explanation": {
       "content": [
-        "Động từ nhóm I, dùng với trợ từ を",
-        "Ví dụ: ダンスを踊ります。 (Nhảy.)"
+        "Số đếm: 5 cái",
+        "Ví dụ: 五つ買います。 (Mua 5 cái.)"
       ]
     }
   },
   {
-    "id": "toRun",
-    "kanji": "走ります",
-    "hiragana": "はしります",
-    "en": "to run",
-    "vi": "chạy",
-    "type": "verb",
+    "id": "sixThings",
+    "kanji": "六つ",
+    "hiragana": "むっつ",
+    "en": "six things",
+    "vi": "6 cái",
+    "type": "noun",
     "explanation": {
       "content": [
-        "Động từ nhóm I, dùng với trợ từ を",
-        "Ví dụ: 公園を走ります。 (Chạy trong công viên.)"
+        "Số đếm: 6 cái",
+        "Ví dụ: 六つ買います。 (Mua 6 cái.)"
       ]
     }
   },
   {
-    "id": "toStop",
-    "kanji": "止まります",
-    "hiragana": "とまります",
-    "en": "to stop",
-    "vi": "dừng",
-    "type": "verb",
+    "id": "sevenThings",
+    "kanji": "七つ",
+    "hiragana": "ななつ",
+    "en": "seven things",
+    "vi": "7 cái",
+    "type": "noun",
     "explanation": {
       "content": [
-        "Động từ nhóm I, dùng với trợ từ に",
-        "Ví dụ: 駅で止まります。 (Dừng ở ga.)"
+        "Số đếm: 7 cái",
+        "Ví dụ: 七つ買います。 (Mua 7 cái.)"
       ]
     }
   },
   {
-    "id": "toTurn",
-    "kanji": "曲がります",
-    "hiragana": "まがります",
-    "en": "to turn",
-    "vi": "rẽ",
-    "type": "verb",
+    "id": "eightThings",
+    "kanji": "八つ",
+    "hiragana": "やっつ",
+    "en": "eight things",
+    "vi": "8 cái",
+    "type": "noun",
     "explanation": {
       "content": [
-        "Động từ nhóm I, dùng với trợ từ を",
-        "Ví dụ: 右に曲がります。 (Rẽ phải.)"
+        "Số đếm: 8 cái",
+        "Ví dụ: 八つ買います。 (Mua 8 cái.)"
       ]
     }
   },
   {
-    "id": "toCross",
-    "kanji": "渡ります",
-    "hiragana": "わたります",
-    "en": "to cross",
-    "vi": "băng qua",
-    "type": "verb",
+    "id": "nineThings",
+    "kanji": "九つ",
+    "hiragana": "ここのつ",
+    "en": "nine things",
+    "vi": "9 cái",
+    "type": "noun",
     "explanation": {
       "content": [
-        "Động từ nhóm I, dùng với trợ từ を",
-        "Ví dụ: 橋を渡ります。 (Băng qua cầu.)"
+        "Số đếm: 9 cái",
+        "Ví dụ: 九つ買います。 (Mua 9 cái.)"
       ]
     }
   },
   {
-    "id": "along",
-    "kanji": "沿って",
-    "hiragana": "そって",
-    "en": "along",
-    "vi": "dọc theo",
+    "id": "tenThings",
+    "kanji": "十",
+    "hiragana": "とお",
+    "en": "ten things",
+    "vi": "10 cái",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Số đếm: 10 cái",
+        "Ví dụ: 十買います。 (Mua 10 cái.)"
+      ]
+    }
+  },
+  {
+    "id": "howMany",
+    "kanji": "いくつ",
+    "hiragana": "いくつ",
+    "en": "how many",
+    "vi": "bao nhiêu cái",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Từ để hỏi về số lượng",
+        "Ví dụ: りんごはいくつありますか。 (Có bao nhiêu quả táo?)"
+      ]
+    }
+  },
+  {
+    "id": "onePerson",
+    "kanji": "一人",
+    "hiragana": "ひとり",
+    "en": "one person",
+    "vi": "1 người",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Số đếm: 1 người",
+        "Ví dụ: 一人で行きます。 (Đi một người.)"
+      ]
+    }
+  },
+  {
+    "id": "twoPeople",
+    "kanji": "二人",
+    "hiragana": "ふたり",
+    "en": "two people",
+    "vi": "2 người",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Số đếm: 2 người",
+        "Ví dụ: 二人で行きます。 (Đi hai người.)"
+      ]
+    }
+  },
+  {
+    "id": "people",
+    "kanji": "～人",
+    "hiragana": "～にん",
+    "en": "people",
+    "vi": "~ người",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Đơn vị đếm người",
+        "Ví dụ: 3人 (3 người)"
+      ]
+    }
+  },
+  {
+    "id": "units",
+    "kanji": "～台",
+    "hiragana": "～だい",
+    "en": "units",
+    "vi": "~ chiếc, ~ cái (dùng để đếm máy móc, xe cộ…)",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Đơn vị đếm máy móc, xe cộ",
+        "Ví dụ: 1台 (1 chiếc)"
+      ]
+    }
+  },
+  {
+    "id": "sheets",
+    "kanji": "～枚",
+    "hiragana": "～まい",
+    "en": "sheets",
+    "vi": "~ tờ, chiếc, cái (đơn vị dùng để đếm vật mỏng)",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Đơn vị đếm vật mỏng",
+        "Ví dụ: 1枚 (1 tờ)"
+      ]
+    }
+  },
+  {
+    "id": "times",
+    "kanji": "～回",
+    "hiragana": "～かい",
+    "en": "times",
+    "vi": "~ lần (đơn vị chỉ tần xuất)",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Đơn vị chỉ tần suất",
+        "Ví dụ: 1回 (1 lần)"
+      ]
+    }
+  },
+  {
+    "id": "siblings",
+    "kanji": "兄弟",
+    "hiragana": "きょうだい",
+    "en": "siblings",
+    "vi": "anh chị em",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ anh chị em",
+        "Ví dụ: 兄弟がいます。 (Có anh chị em.)"
+      ]
+    }
+  },
+  {
+    "id": "parents",
+    "kanji": "両親",
+    "hiragana": "りょうしん",
+    "en": "parents",
+    "vi": "bố mẹ",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ bố mẹ",
+        "Ví dụ: 両親がいます。 (Có bố mẹ.)"
+      ]
+    }
+  },
+  {
+    "id": "ticket",
+    "kanji": "切符",
+    "hiragana": "きっぷ",
+    "en": "ticket",
+    "vi": "vé",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ vé",
+        "Ví dụ: 切符を買います。 (Mua vé.)"
+      ]
+    }
+  },
+  {
+    "id": "envelope",
+    "kanji": "封筒",
+    "hiragana": "ふうとう",
+    "en": "envelope",
+    "vi": "phong bì",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ phong bì",
+        "Ví dụ: 封筒を買います。 (Mua phong bì.)"
+      ]
+    }
+  },
+  {
+    "id": "stamp",
+    "kanji": "切手",
+    "hiragana": "きって",
+    "en": "stamp",
+    "vi": "tem",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ tem",
+        "Ví dụ: 切手を買います。 (Mua tem.)"
+      ]
+    }
+  },
+  {
+    "id": "airmail",
+    "kanji": "エアメール",
+    "hiragana": "エアメール",
+    "en": "airmail",
+    "vi": "thư hàng không",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ thư hàng không (từ mượn)",
+        "Ví dụ: エアメールで送ります。 (Gửi bằng thư hàng không.)"
+      ]
+    }
+  },
+  {
+    "id": "seamail",
+    "kanji": "船便",
+    "hiragana": "ふなびん",
+    "en": "seamail",
+    "vi": "thư đường biển",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ thư đường biển",
+        "Ví dụ: 船便で送ります。 (Gửi bằng thư đường biển.)"
+      ]
+    }
+  },
+  {
+    "id": "postcard",
+    "kanji": "はがき",
+    "hiragana": "はがき",
+    "en": "postcard",
+    "vi": "bưu thiếp (thư)",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ bưu thiếp",
+        "Ví dụ: はがきを書きます。 (Viết bưu thiếp.)"
+      ]
+    }
+  },
+  {
+    "id": "express",
+    "kanji": "速達",
+    "hiragana": "そくたつ",
+    "en": "express",
+    "vi": "chuyển phát nhanh",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ chuyển phát nhanh",
+        "Ví dụ: 速達で送ります。 (Gửi bằng chuyển phát nhanh.)"
+      ]
+    }
+  },
+  {
+    "id": "registered",
+    "kanji": "書留",
+    "hiragana": "かきとめ",
+    "en": "registered mail",
+    "vi": "thư bảo đảm",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ thư bảo đảm",
+        "Ví dụ: 書留で送ります。 (Gửi bằng thư bảo đảm.)"
+      ]
+    }
+  },
+  {
+    "id": "foreignCountry",
+    "kanji": "外国",
+    "hiragana": "がいこく",
+    "en": "foreign country",
+    "vi": "nước ngoài",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ nước ngoài",
+        "Ví dụ: 外国へ行きます。 (Đi nước ngoài.)"
+      ]
+    }
+  },
+  {
+    "id": "oneDay",
+    "kanji": "一日",
+    "hiragana": "いちにち",
+    "en": "one day",
+    "vi": "một ngày",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ một ngày",
+        "Ví dụ: 一日かかります。 (Mất một ngày.)"
+      ]
+    }
+  },
+  {
+    "id": "hours",
+    "kanji": "～時間",
+    "hiragana": "～じかん",
+    "en": "hours",
+    "vi": "~ tiếng đồng hồ",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Đơn vị chỉ giờ",
+        "Ví dụ: 1時間 (1 tiếng đồng hồ)"
+      ]
+    }
+  },
+  {
+    "id": "weeks",
+    "kanji": "～週間",
+    "hiragana": "～しゅうかん",
+    "en": "weeks",
+    "vi": "~ tuần",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Đơn vị chỉ tuần",
+        "Ví dụ: 1週間 (1 tuần)"
+      ]
+    }
+  },
+  {
+    "id": "months",
+    "kanji": "～か月",
+    "hiragana": "～かげつ",
+    "en": "months",
+    "vi": "~ tháng",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Đơn vị chỉ tháng",
+        "Ví dụ: 1か月 (1 tháng)"
+      ]
+    }
+  },
+  {
+    "id": "years",
+    "kanji": "～年",
+    "hiragana": "～ねん",
+    "en": "years",
+    "vi": "~ năm",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Đơn vị chỉ năm",
+        "Ví dụ: 1年 (1 năm)"
+      ]
+    }
+  },
+  {
+    "id": "about",
+    "kanji": "～ぐらい",
+    "hiragana": "～ぐらい",
+    "en": "about",
+    "vi": "khoảng ~ (ước tính số lượng hoặc thời gian)",
     "type": "other",
     "explanation": {
       "content": [
-        "Trợ từ chỉ hướng",
-        "Ví dụ: 川に沿って歩きます。 (Đi bộ dọc theo sông.)"
+        "Từ chỉ ước lượng",
+        "Ví dụ: 1時間ぐらい (Khoảng 1 tiếng)"
       ]
     }
   },
   {
-    "id": "straight",
-    "kanji": "まっすぐ",
-    "hiragana": "まっすぐ",
-    "en": "straight",
-    "vi": "thẳng",
+    "id": "howLong",
+    "kanji": "どのぐらい",
+    "hiragana": "どのぐらい",
+    "en": "how long",
+    "vi": "khoảng bao lâu, bao nhiêu",
     "type": "other",
     "explanation": {
       "content": [
-        "Phó từ chỉ hướng",
-        "Ví dụ: まっすぐ行きます。 (Đi thẳng.)"
+        "Từ để hỏi về thời gian hoặc số lượng",
+        "Ví dụ: どのぐらいかかりますか。 (Mất khoảng bao lâu?)"
       ]
     }
   },
   {
-    "id": "right",
-    "kanji": "右",
-    "hiragana": "みぎ",
-    "en": "right",
-    "vi": "bên phải",
-    "type": "noun",
+    "id": "inTotal",
+    "kanji": "全部で",
+    "hiragana": "ぜんぶで",
+    "en": "in total",
+    "vi": "tất cả là, tổng cộng là",
+    "type": "other",
     "explanation": {
       "content": [
-        "Danh từ chỉ bên phải",
-        "Ví dụ: 右に曲がります。 (Rẽ phải.)"
+        "Từ chỉ tổng cộng",
+        "Ví dụ: 全部で1000円です。 (Tất cả là 1000 yên.)"
       ]
     }
   },
   {
-    "id": "left",
-    "kanji": "左",
-    "hiragana": "ひだり",
-    "en": "left",
-    "vi": "bên trái",
+    "id": "everyone",
+    "kanji": "みんな",
+    "hiragana": "みんな",
+    "en": "everyone",
+    "vi": "mọi người, các bạn",
     "type": "noun",
     "explanation": {
       "content": [
-        "Danh từ chỉ bên trái",
-        "Ví dụ: 左に曲がります。 (Rẽ trái.)"
+        "Danh từ chỉ mọi người",
+        "Ví dụ: みんな行きます。 (Mọi người đi.)"
       ]
     }
   },
   {
-    "id": "corner",
-    "kanji": "角",
-    "hiragana": "かど",
-    "en": "corner",
-    "vi": "góc",
-    "type": "noun",
+    "id": "only",
+    "kanji": "～だけ",
+    "hiragana": "～だけ",
+    "en": "only",
+    "vi": "chỉ ~ thôi",
+    "type": "other",
     "explanation": {
       "content": [
-        "Danh từ chỉ góc",
-        "Ví dụ: 角を曲がります。 (Rẽ ở góc.)"
+        "Từ chỉ giới hạn",
+        "Ví dụ: これだけです。 (Chỉ cái này thôi.)"
       ]
     }
   },
   {
-    "id": "signal",
-    "kanji": "信号",
-    "hiragana": "しんごう",
-    "en": "traffic light, signal",
-    "vi": "đèn giao thông",
-    "type": "noun",
+    "id": "niceWeather",
+    "kanji": "いいお天気ですね",
+    "hiragana": "いいおてんきですね",
+    "en": "nice weather",
+    "vi": "thời tiết đẹp nhỉ!",
+    "type": "other",
     "explanation": {
       "content": [
-        "Danh từ chỉ đèn giao thông",
-        "Ví dụ: 信号で止まります。 (Dừng ở đèn giao thông.)"
+        "Câu nói về thời tiết",
+        "Ví dụ: いいお天気ですね。 (Thời tiết đẹp nhỉ!)"
       ]
     }
   },
   {
-    "id": "first",
-    "kanji": "最初",
-    "hiragana": "さいしょ",
-    "en": "first",
-    "vi": "đầu tiên",
-    "type": "noun",
+    "id": "areYouGoingOut",
+    "kanji": "お出かけですか",
+    "hiragana": "おでかけですか",
+    "en": "are you going out",
+    "vi": "anh đi ra ngoài đấy à?",
+    "type": "other",
     "explanation": {
       "content": [
-        "Danh từ chỉ đầu tiên",
-        "Ví dụ: 最初に手を洗います。 (Rửa tay đầu tiên.)"
+        "Câu hỏi lịch sự",
+        "Ví dụ: お出かけですか。 (Anh đi ra ngoài đấy à?)"
       ]
     }
   },
   {
-    "id": "next",
-    "kanji": "次",
-    "hiragana": "つぎ",
-    "en": "next",
-    "vi": "tiếp theo",
-    "type": "noun",
+    "id": "justTo",
+    "kanji": "ちょっと～まで",
+    "hiragana": "ちょっと～まで",
+    "en": "just to",
+    "vi": "tôi đi tới ~ một chút",
+    "type": "other",
     "explanation": {
       "content": [
-        "Danh từ chỉ tiếp theo",
-        "Ví dụ: 次に歯を磨きます。 (Tiếp theo đánh răng.)"
+        "Cụm từ chỉ mục đích ngắn",
+        "Ví dụ: ちょっと郵便局まで。 (Tôi đi tới bưu điện một chút.)"
       ]
     }
   },
   {
-    "id": "finally",
-    "kanji": "最後",
-    "hiragana": "さいご",
-    "en": "finally, last",
-    "vi": "cuối cùng",
-    "type": "noun",
+    "id": "haveAGoodTrip",
+    "kanji": "いっていらっしゃい",
+    "hiragana": "いっていらっしゃい",
+    "en": "have a good trip",
+    "vi": "anh đi rồi về nhé (dùng khi người ở nhà nói với người đi ra ngoài)",
+    "type": "other",
     "explanation": {
       "content": [
-        "Danh từ chỉ cuối cùng",
-        "Ví dụ: 最後に寝ます。 (Cuối cùng đi ngủ.)"
+        "Câu chào khi người khác đi ra ngoài",
+        "Ví dụ: いっていらっしゃい。 (Anh đi rồi về nhé.)"
+      ]
+    }
+  },
+  {
+    "id": "iWillGoAndComeBack",
+    "kanji": "いってまいります",
+    "hiragana": "いってまいります",
+    "en": "i will go and come back",
+    "vi": "tôi đi rồi về (dùng khi người đi ra ngoài nói với người ở nhà)",
+    "type": "other",
+    "explanation": {
+      "content": [
+        "Câu chào khi đi ra ngoài",
+        "Ví dụ: いってまいります。 (Tôi đi rồi về.)"
       ]
     }
   }

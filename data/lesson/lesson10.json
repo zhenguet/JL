@@ -1,24 +1,10 @@
 [
   {
-    "id": "thereIs",
-    "kanji": "あります",
-    "hiragana": "あります",
-    "en": "there is (inanimate)",
-    "vi": "có (đồ vật)",
-    "type": "verb",
-    "explanation": {
-      "content": [
-        "Động từ nhóm III, dùng cho đồ vật, sự việc",
-        "Ví dụ: 机の上に本があります。 (Có sách trên bàn.)"
-      ]
-    }
-  },
-  {
     "id": "thereIsAnimate",
     "kanji": "います",
     "hiragana": "います",
     "en": "there is (animate)",
-    "vi": "có (người, động vật)",
+    "vi": "có (biểu thị sự tồn tại của người)",
     "type": "verb",
     "explanation": {
       "content": [
@@ -28,11 +14,25 @@
     }
   },
   {
+    "id": "thereIs",
+    "kanji": "あります",
+    "hiragana": "あります",
+    "en": "there is (inanimate)",
+    "vi": "có (biểu thị sự tồn tại của vật)",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm III, dùng cho đồ vật, sự việc",
+        "Ví dụ: 机の上に本があります。 (Có sách trên bàn.)"
+      ]
+    }
+  },
+  {
     "id": "various",
     "kanji": "色々",
     "hiragana": "いろいろ",
     "en": "various",
-    "vi": "nhiều loại, đủ thứ",
+    "vi": "nhiều loại, các loại",
     "type": "adjective",
     "explanation": {
       "content": [
@@ -42,53 +42,11 @@
     }
   },
   {
-    "id": "many",
-    "kanji": "たくさん",
-    "hiragana": "たくさん",
-    "en": "many, a lot",
-    "vi": "nhiều",
-    "type": "other",
-    "explanation": {
-      "content": [
-        "Phó từ chỉ số lượng nhiều",
-        "Ví dụ: たくさんの本があります。 (Có nhiều sách.)"
-      ]
-    }
-  },
-  {
-    "id": "howMany",
-    "kanji": "いくつ",
-    "hiragana": "いくつ",
-    "en": "how many",
-    "vi": "bao nhiêu",
-    "type": "noun",
-    "explanation": {
-      "content": [
-        "Từ để hỏi về số lượng",
-        "Ví dụ: りんごはいくつありますか？ (Có bao nhiêu quả táo?)"
-      ]
-    }
-  },
-  {
-    "id": "howMuch",
-    "kanji": "いくら",
-    "hiragana": "いくら",
-    "en": "how much",
-    "vi": "bao nhiêu (tiền)",
-    "type": "noun",
-    "explanation": {
-      "content": [
-        "Từ để hỏi về giá tiền",
-        "Ví dụ: この本はいくらですか？ (Cuốn sách này bao nhiêu tiền?)"
-      ]
-    }
-  },
-  {
     "id": "on",
     "kanji": "上",
     "hiragana": "うえ",
     "en": "on, above",
-    "vi": "trên",
+    "vi": "trên, bên trên",
     "type": "noun",
     "explanation": {
       "content": [
@@ -102,7 +60,7 @@
     "kanji": "下",
     "hiragana": "した",
     "en": "under, below",
-    "vi": "dưới",
+    "vi": "dưới, bên dưới",
     "type": "noun",
     "explanation": {
       "content": [
@@ -112,39 +70,11 @@
     }
   },
   {
-    "id": "inside",
-    "kanji": "中",
-    "hiragana": "なか",
-    "en": "inside",
-    "vi": "trong",
-    "type": "noun",
-    "explanation": {
-      "content": [
-        "Danh từ chỉ vị trí",
-        "Ví dụ: 箱の中に猫がいます。 (Có mèo trong hộp.)"
-      ]
-    }
-  },
-  {
-    "id": "outside",
-    "kanji": "外",
-    "hiragana": "そと",
-    "en": "outside",
-    "vi": "ngoài",
-    "type": "noun",
-    "explanation": {
-      "content": [
-        "Danh từ chỉ vị trí",
-        "Ví dụ: 外に人がいます。 (Có người ở ngoài.)"
-      ]
-    }
-  },
-  {
     "id": "front",
     "kanji": "前",
     "hiragana": "まえ",
     "en": "front, before",
-    "vi": "trước",
+    "vi": "trước, phía trước",
     "type": "noun",
     "explanation": {
       "content": [
@@ -155,71 +85,15 @@
   },
   {
     "id": "back",
-    "kanji": "後",
+    "kanji": "後ろ",
     "hiragana": "うしろ",
     "en": "back, behind",
-    "vi": "sau",
+    "vi": "sau, phía sau, đằng sau",
     "type": "noun",
     "explanation": {
       "content": [
         "Danh từ chỉ vị trí",
         "Ví dụ: 家の後ろに庭があります。 (Có vườn sau nhà.)"
-      ]
-    }
-  },
-  {
-    "id": "nextTo",
-    "kanji": "隣",
-    "hiragana": "となり",
-    "en": "next to",
-    "vi": "bên cạnh",
-    "type": "noun",
-    "explanation": {
-      "content": [
-        "Danh từ chỉ vị trí",
-        "Ví dụ: 学校の隣に病院があります。 (Có bệnh viện bên cạnh trường.)"
-      ]
-    }
-  },
-  {
-    "id": "between",
-    "kanji": "間",
-    "hiragana": "あいだ",
-    "en": "between",
-    "vi": "giữa",
-    "type": "noun",
-    "explanation": {
-      "content": [
-        "Danh từ chỉ vị trí",
-        "Ví dụ: 机と椅子の間に猫がいます。 (Có mèo giữa bàn và ghế.)"
-      ]
-    }
-  },
-  {
-    "id": "near",
-    "kanji": "近く",
-    "hiragana": "ちかく",
-    "en": "near",
-    "vi": "gần",
-    "type": "noun",
-    "explanation": {
-      "content": [
-        "Danh từ chỉ vị trí",
-        "Ví dụ: 学校の近くにコンビニがあります。 (Có cửa hàng tiện lợi gần trường.)"
-      ]
-    }
-  },
-  {
-    "id": "far",
-    "kanji": "遠く",
-    "hiragana": "とおく",
-    "en": "far",
-    "vi": "xa",
-    "type": "noun",
-    "explanation": {
-      "content": [
-        "Danh từ chỉ vị trí",
-        "Ví dụ: 駅は遠くです。 (Ga xa.)"
       ]
     }
   },
@@ -252,30 +126,156 @@
     }
   },
   {
-    "id": "table",
-    "kanji": "机",
-    "hiragana": "つくえ",
-    "en": "desk, table",
-    "vi": "bàn",
+    "id": "inside",
+    "kanji": "中",
+    "hiragana": "なか",
+    "en": "inside",
+    "vi": "trong, bên trong",
     "type": "noun",
     "explanation": {
       "content": [
-        "Danh từ chỉ bàn",
-        "Ví dụ: 机の上に本があります。 (Có sách trên bàn.)"
+        "Danh từ chỉ vị trí",
+        "Ví dụ: 箱の中に猫がいます。 (Có mèo trong hộp.)"
       ]
     }
   },
   {
-    "id": "chair",
-    "kanji": "椅子",
-    "hiragana": "いす",
-    "en": "chair",
-    "vi": "ghế",
+    "id": "outside",
+    "kanji": "外",
+    "hiragana": "そと",
+    "en": "outside",
+    "vi": "ngoài, bên ngoài",
     "type": "noun",
     "explanation": {
       "content": [
-        "Danh từ chỉ ghế",
-        "Ví dụ: 椅子に座ります。 (Ngồi ghế.)"
+        "Danh từ chỉ vị trí",
+        "Ví dụ: 外に人がいます。 (Có người ở ngoài.)"
+      ]
+    }
+  },
+  {
+    "id": "nextTo",
+    "kanji": "隣",
+    "hiragana": "となり",
+    "en": "next to",
+    "vi": "bên cạnh (cạnh sát)",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ vị trí",
+        "Ví dụ: 学校の隣に病院があります。 (Có bệnh viện bên cạnh trường.)"
+      ]
+    }
+  },
+  {
+    "id": "between",
+    "kanji": "間",
+    "hiragana": "あいだ",
+    "en": "between",
+    "vi": "ở giữa",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ vị trí",
+        "Ví dụ: 机と椅子の間に猫がいます。 (Có mèo giữa bàn và ghế.)"
+      ]
+    }
+  },
+  {
+    "id": "near",
+    "kanji": "近く",
+    "hiragana": "ちかく",
+    "en": "near",
+    "vi": "gần (ở vị trí gần)",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ vị trí",
+        "Ví dụ: 学校の近くにコンビニがあります。 (Có cửa hàng tiện lợi gần trường.)"
+      ]
+    }
+  },
+  {
+    "id": "thing",
+    "kanji": "物",
+    "hiragana": "もの",
+    "en": "thing",
+    "vi": "cái, đồ, vật, thứ…",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ vật nói chung",
+        "Ví dụ: 物を買います。 (Mua đồ.)"
+      ]
+    }
+  },
+  {
+    "id": "map",
+    "kanji": "地図",
+    "hiragana": "ちず",
+    "en": "map",
+    "vi": "bản đồ",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ bản đồ",
+        "Ví dụ: 地図を見ます。 (Xem bản đồ.)"
+      ]
+    }
+  },
+  {
+    "id": "tape",
+    "kanji": "セロテープ",
+    "hiragana": "セロテープ",
+    "en": "tape",
+    "vi": "băng dính",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ băng dính (từ mượn)",
+        "Ví dụ: セロテープで貼ります。 (Dán bằng băng dính.)"
+      ]
+    }
+  },
+  {
+    "id": "passport",
+    "kanji": "パスポート",
+    "hiragana": "パスポート",
+    "en": "passport",
+    "vi": "hộ chiếu",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ hộ chiếu (từ mượn)",
+        "Ví dụ: パスポートを見せます。 (Cho xem hộ chiếu.)"
+      ]
+    }
+  },
+  {
+    "id": "bed",
+    "kanji": "ベッド",
+    "hiragana": "ベッド",
+    "en": "bed",
+    "vi": "giường",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ giường (từ mượn)",
+        "Ví dụ: ベッドで寝ます。 (Ngủ trên giường.)"
+      ]
+    }
+  },
+  {
+    "id": "battery",
+    "kanji": "電池",
+    "hiragana": "でんち",
+    "en": "battery",
+    "vi": "pin, cục pin",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ pin",
+        "Ví dụ: 電池を買います。 (Mua pin.)"
       ]
     }
   },
@@ -284,7 +284,7 @@
     "kanji": "箱",
     "hiragana": "はこ",
     "en": "box",
-    "vi": "hộp",
+    "vi": "hộp, cái hộp",
     "type": "noun",
     "explanation": {
       "content": [
@@ -294,100 +294,324 @@
     }
   },
   {
-    "id": "cat",
-    "kanji": "猫",
-    "hiragana": "ねこ",
-    "en": "cat",
-    "vi": "mèo",
+    "id": "switch",
+    "kanji": "スイッチ",
+    "hiragana": "スイッチ",
+    "en": "switch",
+    "vi": "công tắc điện",
     "type": "noun",
     "explanation": {
       "content": [
-        "Danh từ chỉ mèo",
-        "Ví dụ: 猫がいます。 (Có mèo.)"
+        "Danh từ chỉ công tắc điện (từ mượn)",
+        "Ví dụ: スイッチをつけます。 (Bật công tắc.)"
       ]
     }
   },
   {
-    "id": "dog",
-    "kanji": "犬",
-    "hiragana": "いぬ",
-    "en": "dog",
-    "vi": "chó",
+    "id": "refrigerator",
+    "kanji": "冷蔵庫",
+    "hiragana": "れいぞうこ",
+    "en": "refrigerator",
+    "vi": "tủ lạnh",
     "type": "noun",
     "explanation": {
       "content": [
-        "Danh từ chỉ chó",
-        "Ví dụ: 犬がいます。 (Có chó.)"
+        "Danh từ chỉ tủ lạnh",
+        "Ví dụ: 冷蔵庫に食べ物があります。 (Có đồ ăn trong tủ lạnh.)"
       ]
     }
   },
   {
-    "id": "tree",
-    "kanji": "木",
-    "hiragana": "き",
-    "en": "tree",
-    "vi": "cây",
+    "id": "table",
+    "kanji": "テーブル",
+    "hiragana": "テーブル",
+    "en": "table",
+    "vi": "bàn (bàn tròn, bàn ăn)",
     "type": "noun",
     "explanation": {
       "content": [
-        "Danh từ chỉ cây",
-        "Ví dụ: 木の下に猫がいます。 (Có mèo dưới cây.)"
+        "Danh từ chỉ bàn (từ mượn)",
+        "Ví dụ: テーブルの上に本があります。 (Có sách trên bàn.)"
       ]
     }
   },
   {
-    "id": "car",
-    "kanji": "車",
-    "hiragana": "くるま",
-    "en": "car",
-    "vi": "xe hơi",
+    "id": "shelf",
+    "kanji": "棚",
+    "hiragana": "たな",
+    "en": "shelf",
+    "vi": "giá, kệ (bầy hàng)",
     "type": "noun",
     "explanation": {
       "content": [
-        "Danh từ chỉ xe hơi",
-        "Ví dụ: 車があります。 (Có xe hơi.)"
+        "Danh từ chỉ giá, kệ",
+        "Ví dụ: 棚の上に本があります。 (Có sách trên kệ.)"
       ]
     }
   },
   {
-    "id": "bicycle",
-    "kanji": "自転車",
-    "hiragana": "じてんしゃ",
-    "en": "bicycle",
-    "vi": "xe đạp",
+    "id": "man",
+    "kanji": "男の人",
+    "hiragana": "おとこのひと",
+    "en": "man",
+    "vi": "người đàn ông, người con trai",
     "type": "noun",
     "explanation": {
       "content": [
-        "Danh từ chỉ xe đạp",
-        "Ví dụ: 自転車があります。 (Có xe đạp.)"
+        "Danh từ chỉ người đàn ông",
+        "Ví dụ: 男の人がいます。 (Có người đàn ông.)"
       ]
     }
   },
   {
-    "id": "money",
-    "kanji": "お金",
-    "hiragana": "おかね",
-    "en": "money",
-    "vi": "tiền",
+    "id": "woman",
+    "kanji": "女の人",
+    "hiragana": "おんなのひと",
+    "en": "woman",
+    "vi": "người phụ nữ, người con gái",
     "type": "noun",
     "explanation": {
       "content": [
-        "Danh từ chỉ tiền, có tiền tố お (lịch sự)",
-        "Ví dụ: お金があります。 (Có tiền.)"
+        "Danh từ chỉ người phụ nữ",
+        "Ví dụ: 女の人がいます。 (Có người phụ nữ.)"
       ]
     }
   },
   {
-    "id": "yen",
-    "kanji": "円",
-    "hiragana": "えん",
-    "en": "yen",
-    "vi": "yên",
+    "id": "boy",
+    "kanji": "男の子",
+    "hiragana": "おとこのこ",
+    "en": "boy",
+    "vi": "bé trai, con trai (dùng cho trẻ con)",
     "type": "noun",
     "explanation": {
       "content": [
-        "Danh từ chỉ đơn vị tiền tệ Nhật Bản",
-        "Ví dụ: 千円です。 (Là 1000 yên.)"
+        "Danh từ chỉ bé trai",
+        "Ví dụ: 男の子がいます。 (Có bé trai.)"
+      ]
+    }
+  },
+  {
+    "id": "girl",
+    "kanji": "女の子",
+    "hiragana": "おんなのこ",
+    "en": "girl",
+    "vi": "bé gái, con gái (dùng cho trẻ con)",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ bé gái",
+        "Ví dụ: 女の子がいます。 (Có bé gái.)"
+      ]
+    }
+  },
+  {
+    "id": "park",
+    "kanji": "公園",
+    "hiragana": "こうえん",
+    "en": "park",
+    "vi": "công viên",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ công viên",
+        "Ví dụ: 公園へ行きます。 (Đi công viên.)"
+      ]
+    }
+  },
+  {
+    "id": "embassy",
+    "kanji": "大使館",
+    "hiragana": "たいしかん",
+    "en": "embassy",
+    "vi": "đại sứ quán",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ đại sứ quán",
+        "Ví dụ: 大使館へ行きます。 (Đi đại sứ quán.)"
+      ]
+    }
+  },
+  {
+    "id": "postbox",
+    "kanji": "ポスト",
+    "hiragana": "ポスト",
+    "en": "postbox",
+    "vi": "hòm thư, hộp thư",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ hòm thư (từ mượn)",
+        "Ví dụ: ポストに手紙を入れます。 (Bỏ thư vào hòm thư.)"
+      ]
+    }
+  },
+  {
+    "id": "building",
+    "kanji": "ビル",
+    "hiragana": "ビル",
+    "en": "building",
+    "vi": "tòa nhà cao tầng",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ tòa nhà cao tầng (từ mượn)",
+        "Ví dụ: ビルがあります。 (Có tòa nhà cao tầng.)"
+      ]
+    }
+  },
+  {
+    "id": "busStop",
+    "kanji": "乗り場",
+    "hiragana": "のりば",
+    "en": "bus stop, boarding area",
+    "vi": "nơi lên xe (các phương tiện công cộng)",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ nơi lên xe",
+        "Ví dụ: バス乗り場 (Trạm dừng xe buýt)"
+      ]
+    }
+  },
+  {
+    "id": "busStopPlace",
+    "kanji": "バス乗り場",
+    "hiragana": "バスのりば",
+    "en": "bus stop",
+    "vi": "trạm dừng xe buýt",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ trạm dừng xe buýt",
+        "Ví dụ: バス乗り場で待ちます。 (Đợi ở trạm dừng xe buýt.)"
+      ]
+    }
+  },
+  {
+    "id": "prefecture",
+    "kanji": "県",
+    "hiragana": "けん",
+    "en": "prefecture",
+    "vi": "tỉnh",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ tỉnh",
+        "Ví dụ: 神奈川県 (Tỉnh Kanagawa)"
+      ]
+    }
+  },
+  {
+    "id": "kanagawaPrefecture",
+    "kanji": "神奈川県",
+    "hiragana": "かながわけん",
+    "en": "Kanagawa Prefecture",
+    "vi": "tỉnh Kanagawa",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ tỉnh Kanagawa",
+        "Ví dụ: 神奈川県へ行きます。 (Đi tỉnh Kanagawa.)"
+      ]
+    }
+  },
+  {
+    "id": "most",
+    "kanji": "一番",
+    "hiragana": "いちばん",
+    "en": "most",
+    "vi": "~ nhất (tính từ)",
+    "type": "other",
+    "explanation": {
+      "content": [
+        "Từ chỉ mức độ cao nhất",
+        "Ví dụ: 一番難しい (Khó nhất)"
+      ]
+    }
+  },
+  {
+    "id": "mostDifficult",
+    "kanji": "一番難しい",
+    "hiragana": "いちばんむずかしい",
+    "en": "most difficult",
+    "vi": "khó nhất",
+    "type": "adjective",
+    "explanation": {
+      "content": [
+        "Tính từ chỉ mức độ cao nhất",
+        "Ví dụ: 一番難しい問題です。 (Vấn đề khó nhất.)"
+      ]
+    }
+  },
+  {
+    "id": "shelfNumber",
+    "kanji": "～段目",
+    "hiragana": "～だんめ",
+    "en": "shelf number",
+    "vi": "cái giá hàng thứ ~",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ số thứ tự của giá hàng",
+        "Ví dụ: 一段目 (Cái giá hàng thứ nhất)"
+      ]
+    }
+  },
+  {
+    "id": "firstShelf",
+    "kanji": "一段目",
+    "hiragana": "いちだんめ",
+    "en": "first shelf",
+    "vi": "cái giá hàng thứ nhất",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ giá hàng thứ nhất",
+        "Ví dụ: 一段目に本があります。 (Có sách ở giá hàng thứ nhất.)"
+      ]
+    }
+  },
+  {
+    "id": "well",
+    "kanji": "あのう",
+    "hiragana": "あのう",
+    "en": "well",
+    "vi": "này, ~ / dạ thưa, ~ (biểu thị thái độ ngập ngừng, khi bắt đầu câu chuyện)",
+    "type": "other",
+    "explanation": {
+      "content": [
+        "Từ đệm khi bắt đầu câu chuyện",
+        "Ví dụ: あのう、すみません。 (Dạ thưa, xin lỗi.)"
+      ]
+    }
+  },
+  {
+    "id": "chiliSauce",
+    "kanji": "チリソース",
+    "hiragana": "チリソース",
+    "en": "chili sauce",
+    "vi": "tương ớt",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ tương ớt (từ mượn)",
+        "Ví dụ: チリソースを買います。 (Mua tương ớt.)"
+      ]
+    }
+  },
+  {
+    "id": "back",
+    "kanji": "奥",
+    "hiragana": "おく",
+    "en": "back, inner part",
+    "vi": "phía sâu bên trong",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ vị trí phía sâu bên trong",
+        "Ví dụ: 奥にあります。 (Ở phía sâu bên trong.)"
       ]
     }
   }

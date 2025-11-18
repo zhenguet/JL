@@ -1,57 +1,632 @@
 ﻿[
   {
-    "id": "before",
-    "kanji": "前",
-    "hiragana": "まえ",
-    "en": "before",
-    "vi": "trước",
+    "id": "free",
+    "kanji": "暇",
+    "hiragana": "ひま",
+    "en": "free, not busy",
+    "vi": "rỗi, rảnh",
+    "type": "adjective",
+    "explanation": {
+      "content": [
+        "Tính từ な (な-adjective)",
+        "Ví dụ: 今日は暇です。 (Hôm nay rảnh.)"
+      ]
+    }
+  },
+  {
+    "id": "simple",
+    "kanji": "簡単",
+    "hiragana": "かんたん",
+    "en": "simple",
+    "vi": "đơn giản",
+    "type": "adjective",
+    "explanation": {
+      "content": [
+        "Tính từ な (な-adjective)",
+        "Ví dụ: 簡単な問題です。 (Vấn đề đơn giản.)"
+      ]
+    }
+  },
+  {
+    "id": "busy",
+    "kanji": "忙しい",
+    "hiragana": "いそがしい",
+    "en": "busy",
+    "vi": "bận",
+    "type": "adjective",
+    "explanation": {
+      "content": [
+        "Tính từ i (い-adjective)",
+        "Ví dụ: 今日は忙しいです。 (Hôm nay bận.)"
+      ]
+    }
+  },
+  {
+    "id": "near",
+    "kanji": "近い",
+    "hiragana": "ちかい",
+    "en": "near",
+    "vi": "gần",
+    "type": "adjective",
+    "explanation": {
+      "content": [
+        "Tính từ i (い-adjective)",
+        "Ví dụ: 学校は近いです。 (Trường gần.)"
+      ]
+    }
+  },
+  {
+    "id": "far",
+    "kanji": "遠い",
+    "hiragana": "とおい",
+    "en": "far",
+    "vi": "xa",
+    "type": "adjective",
+    "explanation": {
+      "content": [
+        "Tính từ i (い-adjective)",
+        "Ví dụ: 駅は遠いです。 (Ga xa.)"
+      ]
+    }
+  },
+  {
+    "id": "early",
+    "kanji": "早い",
+    "hiragana": "はやい",
+    "en": "early",
+    "vi": "sớm (về thời gian)",
+    "type": "adjective",
+    "explanation": {
+      "content": [
+        "Tính từ i (い-adjective)",
+        "Ví dụ: 早く起きます。 (Thức dậy sớm.)"
+      ]
+    }
+  },
+  {
+    "id": "fast",
+    "kanji": "速い",
+    "hiragana": "はやい",
+    "en": "fast",
+    "vi": "nhanh (về tốc độ)",
+    "type": "adjective",
+    "explanation": {
+      "content": [
+        "Tính từ i (い-adjective)",
+        "Ví dụ: この車は速いです。 (Xe hơi này nhanh.)"
+      ]
+    }
+  },
+  {
+    "id": "slow",
+    "kanji": "遅い",
+    "hiragana": "おそい",
+    "en": "slow, late",
+    "vi": "chậm, muộn",
+    "type": "adjective",
+    "explanation": {
+      "content": [
+        "Tính từ i (い-adjective)",
+        "Ví dụ: この車は遅いです。 (Xe hơi này chậm.)",
+        "Ví dụ: 遅く帰ります。 (Về muộn.)"
+      ]
+    }
+  },
+  {
+    "id": "many",
+    "kanji": "多い",
+    "hiragana": "おおい",
+    "en": "many",
+    "vi": "nhiều, đông",
+    "type": "adjective",
+    "explanation": {
+      "content": [
+        "Tính từ i (い-adjective)",
+        "Ví dụ: 人が多いです。 (Đông người.)"
+      ]
+    }
+  },
+  {
+    "id": "manyPeople",
+    "kanji": "人が多い",
+    "hiragana": "ひとがおおい",
+    "en": "many people",
+    "vi": "đông người",
+    "type": "adjective",
+    "explanation": {
+      "content": [
+        "Cụm từ chỉ đông người",
+        "Ví dụ: 人が多いです。 (Đông người.)"
+      ]
+    }
+  },
+  {
+    "id": "few",
+    "kanji": "少ない",
+    "hiragana": "すくない",
+    "en": "few",
+    "vi": "ít, vắng",
+    "type": "adjective",
+    "explanation": {
+      "content": [
+        "Tính từ i (い-adjective)",
+        "Ví dụ: 人が少ないです。 (Vắng người.)"
+      ]
+    }
+  },
+  {
+    "id": "fewPeople",
+    "kanji": "人が少ない",
+    "hiragana": "ひとがすくない",
+    "en": "few people",
+    "vi": "vắng người",
+    "type": "adjective",
+    "explanation": {
+      "content": [
+        "Cụm từ chỉ vắng người",
+        "Ví dụ: 人が少ないです。 (Vắng người.)"
+      ]
+    }
+  },
+  {
+    "id": "warm",
+    "kanji": "暖かい",
+    "hiragana": "あたたかい",
+    "en": "warm",
+    "vi": "ấm (về thời tiết)",
+    "type": "adjective",
+    "explanation": {
+      "content": [
+        "Tính từ i (い-adjective)",
+        "Ví dụ: 今日は暖かいです。 (Hôm nay ấm.)"
+      ]
+    }
+  },
+  {
+    "id": "warmObject",
+    "kanji": "温かい",
+    "hiragana": "あたたかい",
+    "en": "warm (object)",
+    "vi": "ấm (về nhiệt độ)",
+    "type": "adjective",
+    "explanation": {
+      "content": [
+        "Tính từ i (い-adjective)",
+        "Ví dụ: このコーヒーは温かいです。 (Cà phê này ấm.)"
+      ]
+    }
+  },
+  {
+    "id": "cool",
+    "kanji": "涼しい",
+    "hiragana": "すずしい",
+    "en": "cool",
+    "vi": "mát",
+    "type": "adjective",
+    "explanation": {
+      "content": [
+        "Tính từ i (い-adjective)",
+        "Ví dụ: 今日は涼しいです。 (Hôm nay mát.)"
+      ]
+    }
+  },
+  {
+    "id": "sweet",
+    "kanji": "甘い",
+    "hiragana": "あまい",
+    "en": "sweet",
+    "vi": "ngọt",
+    "type": "adjective",
+    "explanation": {
+      "content": [
+        "Tính từ i (い-adjective)",
+        "Ví dụ: このケーキは甘いです。 (Cái bánh này ngọt.)"
+      ]
+    }
+  },
+  {
+    "id": "spicy",
+    "kanji": "辛い",
+    "hiragana": "からい",
+    "en": "spicy",
+    "vi": "cay",
+    "type": "adjective",
+    "explanation": {
+      "content": [
+        "Tính từ i (い-adjective)",
+        "Ví dụ: この料理は辛いです。 (Món ăn này cay.)"
+      ]
+    }
+  },
+  {
+    "id": "fun",
+    "kanji": "楽しい",
+    "hiragana": "たのしい",
+    "en": "fun",
+    "vi": "vui",
+    "type": "adjective",
+    "explanation": {
+      "content": [
+        "Tính từ i (い-adjective)",
+        "Ví dụ: パーティーは楽しいです。 (Bữa tiệc vui.)"
+      ]
+    }
+  },
+  {
+    "id": "young",
+    "kanji": "若い",
+    "hiragana": "わかい",
+    "en": "young",
+    "vi": "trẻ",
+    "type": "adjective",
+    "explanation": {
+      "content": [
+        "Tính từ i (い-adjective)",
+        "Ví dụ: 若い人です。 (Người trẻ.)"
+      ]
+    }
+  },
+  {
+    "id": "good",
+    "kanji": "いい",
+    "hiragana": "いい",
+    "en": "good",
+    "vi": "thích",
+    "type": "adjective",
+    "explanation": {
+      "content": [
+        "Tính từ i (い-adjective)",
+        "Ví dụ: コーヒーがいいです。 (Thích cà phê.)"
+      ]
+    }
+  },
+  {
+    "id": "likeCoffee",
+    "kanji": "コーヒーがいい",
+    "hiragana": "コーヒーがいい",
+    "en": "like coffee",
+    "vi": "thích cà phê",
+    "type": "adjective",
+    "explanation": {
+      "content": [
+        "Cụm từ chỉ sự thích",
+        "Ví dụ: コーヒーがいいです。 (Thích cà phê.)"
+      ]
+    }
+  },
+  {
+    "id": "heavy",
+    "kanji": "重い",
+    "hiragana": "おもい",
+    "en": "heavy",
+    "vi": "nặng",
+    "type": "adjective",
+    "explanation": {
+      "content": [
+        "Tính từ i (い-adjective)",
+        "Ví dụ: この箱は重いです。 (Cái hộp này nặng.)"
+      ]
+    }
+  },
+  {
+    "id": "light",
+    "kanji": "軽い",
+    "hiragana": "かるい",
+    "en": "light",
+    "vi": "nhẹ",
+    "type": "adjective",
+    "explanation": {
+      "content": [
+        "Tính từ i (い-adjective)",
+        "Ví dụ: この箱は軽いです。 (Cái hộp này nhẹ.)"
+      ]
+    }
+  },
+  {
+    "id": "weather",
+    "kanji": "天気",
+    "hiragana": "てんき",
+    "en": "weather",
+    "vi": "thời tiết",
     "type": "noun",
     "explanation": {
       "content": [
-        "Danh từ chỉ thời gian, dùng với trợ từ に",
-        "Ví dụ: 食事の前に手を洗います。 (Rửa tay trước bữa ăn.)"
+        "Danh từ chỉ thời tiết",
+        "Ví dụ: 天気がいいです。 (Thời tiết tốt.)"
       ]
     }
   },
   {
-    "id": "after",
-    "kanji": "後",
-    "hiragana": "あと",
-    "en": "after",
-    "vi": "sau",
+    "id": "rain",
+    "kanji": "雨",
+    "hiragana": "あめ",
+    "en": "rain",
+    "vi": "mưa",
     "type": "noun",
     "explanation": {
       "content": [
-        "Danh từ chỉ thời gian, dùng với trợ từ に",
-        "Ví dụ: 食事の後に歯を磨きます。 (Đánh răng sau bữa ăn.)"
+        "Danh từ chỉ mưa",
+        "Ví dụ: 雨が降ります。 (Trời mưa.)"
       ]
     }
   },
   {
-    "id": "toWash",
-    "kanji": "洗います",
-    "hiragana": "あらいます",
-    "en": "to wash",
-    "vi": "rửa",
-    "type": "verb",
+    "id": "snow",
+    "kanji": "雪",
+    "hiragana": "ゆき",
+    "en": "snow",
+    "vi": "tuyết",
+    "type": "noun",
     "explanation": {
       "content": [
-        "Động từ nhóm I, dùng với trợ từ を",
-        "Ví dụ: 手を洗います。 (Rửa tay.)"
+        "Danh từ chỉ tuyết",
+        "Ví dụ: 雪が降ります。 (Trời tuyết.)"
       ]
     }
   },
   {
-    "id": "toBrush",
-    "kanji": "磨きます",
-    "hiragana": "みがきます",
-    "en": "to brush",
-    "vi": "chải, đánh",
-    "type": "verb",
+    "id": "cloudy",
+    "kanji": "曇り",
+    "hiragana": "くもり",
+    "en": "cloudy",
+    "vi": "có mây",
+    "type": "noun",
     "explanation": {
       "content": [
-        "Động từ nhóm I, dùng với trợ từ を",
-        "Ví dụ: 歯を磨きます。 (Đánh răng.)"
+        "Danh từ chỉ trời có mây",
+        "Ví dụ: 今日は曇りです。 (Hôm nay có mây.)"
+      ]
+    }
+  },
+  {
+    "id": "season",
+    "kanji": "季節",
+    "hiragana": "きせつ",
+    "en": "season",
+    "vi": "mùa",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ mùa",
+        "Ví dụ: 春の季節です。 (Mùa xuân.)"
+      ]
+    }
+  },
+  {
+    "id": "spring",
+    "kanji": "春",
+    "hiragana": "はる",
+    "en": "spring",
+    "vi": "mùa xuân",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ mùa xuân",
+        "Ví dụ: 春が好きです。 (Thích mùa xuân.)"
+      ]
+    }
+  },
+  {
+    "id": "summer",
+    "kanji": "夏",
+    "hiragana": "なつ",
+    "en": "summer",
+    "vi": "mùa hè",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ mùa hè",
+        "Ví dụ: 夏が好きです。 (Thích mùa hè.)"
+      ]
+    }
+  },
+  {
+    "id": "autumn",
+    "kanji": "秋",
+    "hiragana": "あき",
+    "en": "autumn",
+    "vi": "mùa thu",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ mùa thu",
+        "Ví dụ: 秋が好きです。 (Thích mùa thu.)"
+      ]
+    }
+  },
+  {
+    "id": "winter",
+    "kanji": "冬",
+    "hiragana": "ふゆ",
+    "en": "winter",
+    "vi": "mùa đông",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ mùa đông",
+        "Ví dụ: 冬が好きです。 (Thích mùa đông.)"
+      ]
+    }
+  },
+  {
+    "id": "travel",
+    "kanji": "旅行",
+    "hiragana": "りょこう",
+    "en": "travel",
+    "vi": "chuyến du lịch, sự du lịch",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ du lịch",
+        "Ví dụ: 旅行へ行きます。 (Đi du lịch.)"
+      ]
+    }
+  },
+  {
+    "id": "party",
+    "kanji": "パーティー",
+    "hiragana": "パーティー",
+    "en": "party",
+    "vi": "bữa tiệc, buổi liên hoan",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ bữa tiệc (từ mượn)",
+        "Ví dụ: パーティーへ行きます。 (Đi bữa tiệc.)"
+      ]
+    }
+  },
+  {
+    "id": "shop",
+    "kanji": "店",
+    "hiragana": "みせ",
+    "en": "shop",
+    "vi": "tiệm, cửa hàng",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ cửa hàng",
+        "Ví dụ: 店へ行きます。 (Đi cửa hàng.)"
+      ]
+    }
+  },
+  {
+    "id": "class",
+    "kanji": "クラス",
+    "hiragana": "クラス",
+    "en": "class",
+    "vi": "lớp học",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ lớp học (từ mượn)",
+        "Ví dụ: クラスにいます。 (Ở trong lớp học.)"
+      ]
+    }
+  },
+  {
+    "id": "festival",
+    "kanji": "お祭り",
+    "hiragana": "おまつり",
+    "en": "festival",
+    "vi": "lễ hội",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ lễ hội, có tiền tố お (lịch sự)",
+        "Ví dụ: お祭りへ行きます。 (Đi lễ hội.)"
+      ]
+    }
+  },
+  {
+    "id": "world",
+    "kanji": "世界",
+    "hiragana": "せかい",
+    "en": "world",
+    "vi": "thế giới",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ thế giới",
+        "Ví dụ: 世界を旅行します。 (Du lịch thế giới.)"
+      ]
+    }
+  },
+  {
+    "id": "sukiyaki",
+    "kanji": "すき焼き",
+    "hiragana": "すきやき",
+    "en": "sukiyaki",
+    "vi": "món nhúng",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ món ăn Nhật",
+        "Ví dụ: すき焼きを食べます。 (Ăn món nhúng.)"
+      ]
+    }
+  },
+  {
+    "id": "sashimi",
+    "kanji": "刺身",
+    "hiragana": "さしみ",
+    "en": "sashimi",
+    "vi": "gỏi",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ món ăn Nhật",
+        "Ví dụ: 刺身を食べます。 (Ăn gỏi.)"
+      ]
+    }
+  },
+  {
+    "id": "sushi",
+    "kanji": "おすし",
+    "hiragana": "おすし",
+    "en": "sushi",
+    "vi": "món sushi",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ món ăn Nhật, có tiền tố お (lịch sự)",
+        "Ví dụ: おすしを食べます。 (Ăn món sushi.)"
+      ]
+    }
+  },
+  {
+    "id": "tempura",
+    "kanji": "てんぷら",
+    "hiragana": "てんぷら",
+    "en": "tempura",
+    "vi": "món tôm tẩm bột rán",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ món ăn Nhật",
+        "Ví dụ: てんぷらを食べます。 (Ăn món tôm tẩm bột rán.)"
+      ]
+    }
+  },
+  {
+    "id": "ikebana",
+    "kanji": "いけばな",
+    "hiragana": "いけばな",
+    "en": "ikebana",
+    "vi": "nghệ thuật cắm hoa",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ nghệ thuật cắm hoa",
+        "Ví dụ: いけばなを習います。 (Học nghệ thuật cắm hoa.)"
+      ]
+    }
+  },
+  {
+    "id": "maple",
+    "kanji": "もみじ",
+    "hiragana": "もみじ",
+    "en": "maple",
+    "vi": "cây lá đỏ",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ cây lá đỏ",
+        "Ví dụ: もみじを見ます。 (Xem cây lá đỏ.)"
+      ]
+    }
+  },
+  {
+    "id": "which",
+    "kanji": "どちら",
+    "hiragana": "どちら",
+    "en": "which",
+    "vi": "cái nào, đằng nào, loại nào, thứ nào",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Từ để hỏi (cách nói lịch sự)",
+        "Ví dụ: どちらが好きですか。 (Thích cái nào?)"
       ]
     }
   }
