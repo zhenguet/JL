@@ -1,0 +1,144 @@
+﻿[
+  {
+    "id": "verb-masu",
+    "title": "Động từ thể ます",
+    "description": "Thể ます là thể lịch sự của động từ trong tiếng Nhật. Tất cả động từ đều có thể chuyển sang thể ます để dùng trong giao tiếp lịch sự.",
+    "structure": "Động từ gốc + ます",
+    "examples": [
+      {
+        "japanese": "本を読みます。",
+        "romaji": "Hon o yomimasu.",
+        "vietnamese": "Đọc sách."
+      },
+      {
+        "japanese": "コーヒーを飲みます。",
+        "romaji": "Koohii o nomimasu.",
+        "vietnamese": "Uống cà phê."
+      },
+      {
+        "japanese": "学校へ行きます。",
+        "romaji": "Gakkou e ikimasu.",
+        "vietnamese": "Đi đến trường."
+      }
+    ],
+    "notes": [
+      "Thể ます là thể lịch sự, dùng trong giao tiếp thông thường",
+      "Dạng phủ định: ません",
+      "Dạng quá khứ: ました",
+      "Dạng phủ định quá khứ: ませんでした"
+    ]
+  },
+  {
+    "id": "o-particle",
+    "title": "を - Trợ từ đối tượng",
+    "description": "を (đọc là \"o\") dùng để đánh dấu đối tượng trực tiếp của động từ. Đối tượng là thứ bị tác động bởi hành động.",
+    "structure": "Danh từ + を + Động từ",
+    "examples": [
+      {
+        "japanese": "本を読みます。",
+        "romaji": "Hon o yomimasu.",
+        "vietnamese": "Đọc sách."
+      },
+      {
+        "japanese": "コーヒーを飲みます。",
+        "romaji": "Koohii o nomimasu.",
+        "vietnamese": "Uống cà phê."
+      },
+      {
+        "japanese": "日本語を勉強します。",
+        "romaji": "Nihongo o benkyou shimasu.",
+        "vietnamese": "Học tiếng Nhật."
+      }
+    ],
+    "notes": [
+      "を đọc là \"o\", không phải \"wo\"",
+      "を dùng để đánh dấu đối tượng trực tiếp của động từ",
+      "Một số động từ không dùng を (ví dụ: 行きます, 来ます)"
+    ]
+  },
+  {
+    "id": "e-particle",
+    "title": "へ - Trợ từ chỉ hướng",
+    "description": "へ (đọc là \"e\") dùng để chỉ hướng hoặc đích đến của hành động di chuyển. Có thể thay thế bằng に trong một số trường hợp.",
+    "structure": "Danh từ (địa điểm) + へ + Động từ di chuyển",
+    "examples": [
+      {
+        "japanese": "学校へ行きます。",
+        "romaji": "Gakkou e ikimasu.",
+        "vietnamese": "Đi đến trường."
+      },
+      {
+        "japanese": "日本へ来ます。",
+        "romaji": "Nihon e kimasu.",
+        "vietnamese": "Đến Nhật Bản."
+      },
+      {
+        "japanese": "家へ帰ります。",
+        "romaji": "Ie e kaerimasu.",
+        "vietnamese": "Về nhà."
+      }
+    ],
+    "notes": [
+      "へ đọc là \"e\" khi làm trợ từ, không phải \"he\"",
+      "へ dùng với các động từ di chuyển: 行きます, 来ます, 帰ります",
+      "Có thể thay thế bằng に trong nhiều trường hợp"
+    ]
+  },
+  {
+    "id": "ni-particle",
+    "title": "に - Trợ từ chỉ đích đến, thời gian",
+    "description": "に có nhiều cách dùng: chỉ đích đến của hành động di chuyển, chỉ thời gian, chỉ đối tượng của một số động từ.",
+    "structure": "Danh từ + に + Động từ",
+    "examples": [
+      {
+        "japanese": "九時に起きます。",
+        "romaji": "Kuji ni okimasu.",
+        "vietnamese": "Thức dậy lúc 9 giờ."
+      },
+      {
+        "japanese": "友達に会います。",
+        "romaji": "Tomodachi ni aimasu.",
+        "vietnamese": "Gặp bạn."
+      },
+      {
+        "japanese": "学校に行きます。",
+        "romaji": "Gakkou ni ikimasu.",
+        "vietnamese": "Đi đến trường."
+      }
+    ],
+    "notes": [
+      "に chỉ thời gian cụ thể (giờ, ngày, tháng)",
+      "に chỉ đích đến (có thể thay thế へ)",
+      "に chỉ đối tượng của một số động từ (会います, 聞きます)"
+    ]
+  },
+  {
+    "id": "time-expressions",
+    "title": "Cách nói thời gian",
+    "description": "Trong tiếng Nhật, thời gian được nói theo thứ tự: giờ, phút. Dùng trợ từ に sau thời gian cụ thể.",
+    "structure": "Số giờ + 時 + (Số phút + 分) + に",
+    "examples": [
+      {
+        "japanese": "九時に起きます。",
+        "romaji": "Kuji ni okimasu.",
+        "vietnamese": "Thức dậy lúc 9 giờ."
+      },
+      {
+        "japanese": "三時半に帰ります。",
+        "romaji": "Sanji han ni kaerimasu.",
+        "vietnamese": "Về lúc 3 giờ rưỡi."
+      },
+      {
+        "japanese": "午前七時に起きます。",
+        "romaji": "Gozen shichiji ni okimasu.",
+        "vietnamese": "Thức dậy lúc 7 giờ sáng."
+      }
+    ],
+    "notes": [
+      "Dùng に sau thời gian cụ thể",
+      "半 (han) nghĩa là \"rưỡi\"",
+      "午前 (gozen) = AM, 午後 (gogo) = PM",
+      "Không dùng に với các từ như 今日, 明日, 毎日"
+    ]
+  }
+]

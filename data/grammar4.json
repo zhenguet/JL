@@ -1,0 +1,86 @@
+﻿[
+  {
+    "id": "de-particle",
+    "title": "で - Trợ từ chỉ nơi chốn, phương tiện",
+    "description": "で có nhiều cách dùng: chỉ nơi chốn xảy ra hành động, chỉ phương tiện di chuyển, chỉ công cụ sử dụng.",
+    "structure": "Danh từ + で + Động từ",
+    "examples": [
+      {
+        "japanese": "図書館で本を読みます。",
+        "romaji": "Toshokan de hon o yomimasu.",
+        "vietnamese": "Đọc sách ở thư viện."
+      },
+      {
+        "japanese": "電車で学校へ行きます。",
+        "romaji": "Densha de gakkou e ikimasu.",
+        "vietnamese": "Đi đến trường bằng tàu điện."
+      },
+      {
+        "japanese": "レストランで食事をします。",
+        "romaji": "Resutoran de shokuji o shimasu.",
+        "vietnamese": "Ăn ở nhà hàng."
+      }
+    ],
+    "notes": [
+      "で chỉ nơi chốn xảy ra hành động (khác với に chỉ đích đến)",
+      "で chỉ phương tiện di chuyển",
+      "で chỉ công cụ, phương tiện sử dụng"
+    ]
+  },
+  {
+    "id": "kara-made",
+    "title": "から・まで - Từ... đến...",
+    "description": "から chỉ điểm bắt đầu, まで chỉ điểm kết thúc. Dùng để chỉ khoảng thời gian hoặc khoảng cách.",
+    "structure": "Danh từ + から + Danh từ + まで",
+    "examples": [
+      {
+        "japanese": "月曜日から金曜日まで働きます。",
+        "romaji": "Getsuyoubi kara Kinyoubi made hatarakimasu.",
+        "vietnamese": "Làm việc từ thứ Hai đến thứ Sáu."
+      },
+      {
+        "japanese": "九時から五時まで勉強します。",
+        "romaji": "Kuji kara goji made benkyou shimasu.",
+        "vietnamese": "Học từ 9 giờ đến 5 giờ."
+      },
+      {
+        "japanese": "東京から大阪まで行きます。",
+        "romaji": "Toukyou kara Oosaka made ikimasu.",
+        "vietnamese": "Đi từ Tokyo đến Osaka."
+      }
+    ],
+    "notes": [
+      "から chỉ điểm bắt đầu",
+      "まで chỉ điểm kết thúc",
+      "Có thể dùng riêng から hoặc まで"
+    ]
+  },
+  {
+    "id": "to-particle",
+    "title": "と - Trợ từ \"và\", \"với\"",
+    "description": "と có hai cách dùng chính: nối liệt kê các danh từ (nghĩa là \"và\"), chỉ đối tượng cùng hành động (nghĩa là \"với\").",
+    "structure": "Danh từ + と + Danh từ / と + Động từ",
+    "examples": [
+      {
+        "japanese": "月曜日と水曜日に日本語を勉強します。",
+        "romaji": "Getsuyoubi to Suiyoubi ni Nihongo o benkyou shimasu.",
+        "vietnamese": "Học tiếng Nhật vào thứ Hai và thứ Tư."
+      },
+      {
+        "japanese": "友達と一緒に映画を見ます。",
+        "romaji": "Tomodachi to issho ni eiga o mimasu.",
+        "vietnamese": "Xem phim cùng với bạn."
+      },
+      {
+        "japanese": "本とペンを持っています。",
+        "romaji": "Hon to pen o motte imasu.",
+        "vietnamese": "Có sách và bút."
+      }
+    ],
+    "notes": [
+      "と nối liệt kê danh từ (nghĩa là \"và\")",
+      "と chỉ đối tượng cùng hành động (nghĩa là \"với\")",
+      "一緒に (issho ni) nghĩa là \"cùng nhau\""
+    ]
+  }
+]

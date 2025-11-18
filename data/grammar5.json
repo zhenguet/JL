@@ -1,0 +1,101 @@
+﻿[
+  {
+    "id": "de-transportation",
+    "title": "で - Phương tiện di chuyển",
+    "description": "で dùng để chỉ phương tiện di chuyển. Đặt sau tên phương tiện để nói \"bằng\" phương tiện đó.",
+    "structure": "Phương tiện + で + Động từ di chuyển",
+    "examples": [
+      {
+        "japanese": "電車で学校へ行きます。",
+        "romaji": "Densha de gakkou e ikimasu.",
+        "vietnamese": "Đi đến trường bằng tàu điện."
+      },
+      {
+        "japanese": "バスで駅へ行きます。",
+        "romaji": "Basu de eki e ikimasu.",
+        "vietnamese": "Đi đến ga bằng xe buýt."
+      },
+      {
+        "japanese": "飛行機で日本へ行きます。",
+        "romaji": "Hikouki de Nihon e ikimasu.",
+        "vietnamese": "Đi đến Nhật Bản bằng máy bay."
+      }
+    ],
+    "notes": [
+      "で chỉ phương tiện di chuyển",
+      "歩いて (aruite) nghĩa là \"đi bộ\", không dùng で",
+      "一緒に (issho ni) nghĩa là \"cùng nhau\""
+    ]
+  },
+  {
+    "id": "ni-noru",
+    "title": "に - Lên phương tiện",
+    "description": "に dùng với động từ 乗ります (norimasu - lên) để chỉ phương tiện mà người nói lên.",
+    "structure": "Phương tiện + に + 乗ります",
+    "examples": [
+      {
+        "japanese": "電車に乗ります。",
+        "romaji": "Densha ni norimasu.",
+        "vietnamese": "Lên tàu điện."
+      },
+      {
+        "japanese": "バスに乗ります。",
+        "romaji": "Basu ni norimasu.",
+        "vietnamese": "Lên xe buýt."
+      },
+      {
+        "japanese": "自転車に乗ります。",
+        "romaji": "Jitensha ni norimasu.",
+        "vietnamese": "Đi xe đạp."
+      }
+    ],
+    "notes": [
+      "に dùng với 乗ります để chỉ phương tiện",
+      "降ります (orimasu) nghĩa là \"xuống\", dùng với を"
+    ]
+  },
+  {
+    "id": "o-oriru",
+    "title": "を - Xuống phương tiện",
+    "description": "を dùng với động từ 降ります (orimasu - xuống) để chỉ phương tiện mà người nói xuống.",
+    "structure": "Phương tiện + を + 降ります",
+    "examples": [
+      {
+        "japanese": "駅で電車を降ります。",
+        "romaji": "Eki de densha o orimasu.",
+        "vietnamese": "Xuống tàu ở ga."
+      },
+      {
+        "japanese": "バス停でバスを降ります。",
+        "romaji": "Basutei de basu o orimasu.",
+        "vietnamese": "Xuống xe buýt ở trạm."
+      }
+    ],
+    "notes": [
+      "を dùng với 降ります để chỉ phương tiện",
+      "で chỉ nơi chốn xảy ra hành động"
+    ]
+  },
+  {
+    "id": "douyatte",
+    "title": "どうやって - Bằng cách nào",
+    "description": "どうやって là từ để hỏi về cách thức, phương tiện. Dùng để hỏi \"bằng cách nào\", \"như thế nào\".",
+    "structure": "どうやって + Động từ + か",
+    "examples": [
+      {
+        "japanese": "どうやって学校へ行きますか？",
+        "romaji": "Douyatte gakkou e ikimasu ka?",
+        "vietnamese": "Bạn đi đến trường bằng cách nào?"
+      },
+      {
+        "japanese": "電車で行きます。",
+        "romaji": "Densha de ikimasu.",
+        "vietnamese": "Đi bằng tàu điện."
+      }
+    ],
+    "notes": [
+      "どうやって dùng để hỏi về cách thức, phương tiện",
+      "Trả lời bằng cách dùng で + phương tiện"
+    ]
+  }
+]

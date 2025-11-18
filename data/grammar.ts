@@ -1,0 +1,105 @@
+import { GrammarData, GrammarPoint } from '@/types/grammar'
+import grammar1 from './grammar1.json'
+import grammar2 from './grammar2.json'
+import grammar3 from './grammar3.json'
+import grammar4 from './grammar4.json'
+import grammar5 from './grammar5.json'
+import grammar6 from './grammar6.json'
+import grammar7 from './grammar7.json'
+import grammar8 from './grammar8.json'
+import grammar9 from './grammar9.json'
+import grammar10 from './grammar10.json'
+import grammar11 from './grammar11.json'
+import grammar12 from './grammar12.json'
+import grammar13 from './grammar13.json'
+import grammar14 from './grammar14.json'
+import grammar15 from './grammar15.json'
+import grammar16 from './grammar16.json'
+import grammar17 from './grammar17.json'
+import grammar18 from './grammar18.json'
+import grammar19 from './grammar19.json'
+import grammar20 from './grammar20.json'
+import grammar21 from './grammar21.json'
+import grammar22 from './grammar22.json'
+import grammar23 from './grammar23.json'
+import grammar24 from './grammar24.json'
+import grammar25 from './grammar25.json'
+import grammar26 from './grammar26.json'
+import grammar27 from './grammar27.json'
+import grammar28 from './grammar28.json'
+import grammar29 from './grammar29.json'
+import grammar30 from './grammar30.json'
+import grammar31 from './grammar31.json'
+import grammar32 from './grammar32.json'
+import grammar33 from './grammar33.json'
+import grammar34 from './grammar34.json'
+import grammar35 from './grammar35.json'
+import grammar36 from './grammar36.json'
+import grammar37 from './grammar37.json'
+import grammar38 from './grammar38.json'
+import grammar39 from './grammar39.json'
+import grammar40 from './grammar40.json'
+import grammar41 from './grammar41.json'
+import grammar42 from './grammar42.json'
+import grammar43 from './grammar43.json'
+import grammar44 from './grammar44.json'
+import grammar45 from './grammar45.json'
+import grammar46 from './grammar46.json'
+import grammar47 from './grammar47.json'
+import grammar48 from './grammar48.json'
+import grammar49 from './grammar49.json'
+import grammar50 from './grammar50.json'
+
+export const grammarData: GrammarData = {
+  1: grammar1 as GrammarPoint[],
+  2: grammar2 as GrammarPoint[],
+  3: grammar3 as GrammarPoint[],
+  4: grammar4 as GrammarPoint[],
+  5: grammar5 as GrammarPoint[],
+  6: grammar6 as GrammarPoint[],
+  7: grammar7 as GrammarPoint[],
+  8: grammar8 as GrammarPoint[],
+  9: grammar9 as GrammarPoint[],
+  10: grammar10 as GrammarPoint[],
+  11: grammar11 as GrammarPoint[],
+  12: grammar12 as GrammarPoint[],
+  13: grammar13 as GrammarPoint[],
+  14: grammar14 as GrammarPoint[],
+  15: grammar15 as GrammarPoint[],
+  16: grammar16 as GrammarPoint[],
+  17: grammar17 as GrammarPoint[],
+  18: grammar18 as GrammarPoint[],
+  19: grammar19 as GrammarPoint[],
+  20: grammar20 as GrammarPoint[],
+  21: grammar21 as GrammarPoint[],
+  22: grammar22 as GrammarPoint[],
+  23: grammar23 as GrammarPoint[],
+  24: grammar24 as GrammarPoint[],
+  25: grammar25 as GrammarPoint[],
+  26: grammar26 as GrammarPoint[],
+  27: grammar27 as GrammarPoint[],
+  28: grammar28 as GrammarPoint[],
+  29: grammar29 as GrammarPoint[],
+  30: grammar30 as GrammarPoint[],
+  31: grammar31 as GrammarPoint[],
+  32: grammar32 as GrammarPoint[],
+  33: grammar33 as GrammarPoint[],
+  34: grammar34 as GrammarPoint[],
+  35: grammar35 as GrammarPoint[],
+  36: grammar36 as GrammarPoint[],
+  37: grammar37 as GrammarPoint[],
+  38: grammar38 as GrammarPoint[],
+  39: grammar39 as GrammarPoint[],
+  40: grammar40 as GrammarPoint[],
+  41: grammar41 as GrammarPoint[],
+  42: grammar42 as GrammarPoint[],
+  43: grammar43 as GrammarPoint[],
+  44: grammar44 as GrammarPoint[],
+  45: grammar45 as GrammarPoint[],
+  46: grammar46 as GrammarPoint[],
+  47: grammar47 as GrammarPoint[],
+  48: grammar48 as GrammarPoint[],
+  49: grammar49 as GrammarPoint[],
+  50: grammar50 as GrammarPoint[],
+}
+

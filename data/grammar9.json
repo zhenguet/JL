@@ -1,0 +1,86 @@
+﻿[
+  {
+    "id": "ga-suki",
+    "title": "が - Trợ từ với tính từ cảm xúc",
+    "description": "が dùng với các tính từ cảm xúc như 好き (suki - thích), 嫌い (kirai - ghét), 上手 (jouzu - giỏi), 下手 (heta - kém). Không dùng を với các từ này.",
+    "structure": "Danh từ + が + Tính từ cảm xúc + です",
+    "examples": [
+      {
+        "japanese": "私はりんごが好きです。",
+        "romaji": "Watashi wa ringo ga suki desu.",
+        "vietnamese": "Tôi thích táo."
+      },
+      {
+        "japanese": "私は魚が嫌いです。",
+        "romaji": "Watashi wa sakana ga kirai desu.",
+        "vietnamese": "Tôi ghét cá."
+      },
+      {
+        "japanese": "田中さんは日本語が上手です。",
+        "romaji": "Tanaka-san wa Nihongo ga jouzu desu.",
+        "vietnamese": "Anh Tanaka giỏi tiếng Nhật."
+      }
+    ],
+    "notes": [
+      "が dùng với tính từ cảm xúc, không dùng を",
+      "Các tính từ cảm xúc: 好き, 嫌い, 上手, 下手",
+      "Lưu ý: 上手 không dùng để nói về bản thân một cách trực tiếp"
+    ]
+  },
+  {
+    "id": "o-verb",
+    "title": "を - Trợ từ với động từ",
+    "description": "を dùng để đánh dấu đối tượng trực tiếp của động từ. Các động từ như 食べます, 飲みます, 見ます, 聞きます đều dùng を.",
+    "structure": "Danh từ + を + Động từ",
+    "examples": [
+      {
+        "japanese": "ご飯を食べます。",
+        "romaji": "Gohan o tabemasu.",
+        "vietnamese": "Ăn cơm."
+      },
+      {
+        "japanese": "コーヒーを飲みます。",
+        "romaji": "Koohii o nomimasu.",
+        "vietnamese": "Uống cà phê."
+      },
+      {
+        "japanese": "テレビを見ます。",
+        "romaji": "Terebi o mimasu.",
+        "vietnamese": "Xem TV."
+      }
+    ],
+    "notes": [
+      "を đánh dấu đối tượng trực tiếp của động từ",
+      "Các động từ: 食べます, 飲みます, 見ます, 聞きます, 読みます, 書きます, 買います, 撮ります"
+    ]
+  },
+  {
+    "id": "i-adjective",
+    "title": "い-adjective - Tính từ đuôi い",
+    "description": "い-adjective là tính từ kết thúc bằng い. Các tính từ như おいしい (oishii - ngon), 甘い (amai - ngọt) đều là い-adjective.",
+    "structure": "Danh từ + は + い-adjective + です",
+    "examples": [
+      {
+        "japanese": "この料理はおいしいです。",
+        "romaji": "Kono ryouri wa oishii desu.",
+        "vietnamese": "Món ăn này ngon."
+      },
+      {
+        "japanese": "このケーキは甘いです。",
+        "romaji": "Kono keeki wa amai desu.",
+        "vietnamese": "Cái bánh này ngọt."
+      },
+      {
+        "japanese": "このコーヒーは熱いです。",
+        "romaji": "Kono koohii wa atsui desu.",
+        "vietnamese": "Cà phê này nóng."
+      }
+    ],
+    "notes": [
+      "い-adjective kết thúc bằng い",
+      "Dạng phủ định: bỏ い + くないです",
+      "Dạng quá khứ: bỏ い + かったです",
+      "Lưu ý: きれい (kirei - đẹp) là な-adjective, không phải い-adjective"
+    ]
+  }
+]

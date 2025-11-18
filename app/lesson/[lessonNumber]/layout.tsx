@@ -17,9 +17,10 @@ export default function LessonLayout({
 
   const menuItems = [
     { path: 'vocabulary', label: 'Từ vựng' },
+    { path: 'grammar', label: 'Ngữ pháp' },
+    { path: 'usage', label: 'Giải thích' },
     { path: 'flashcard', label: 'Flashcard' },
     { path: 'exercise', label: 'Bài tập' },
-    { path: 'usage', label: 'Giải thích' },
   ]
 
   return (

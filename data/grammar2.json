@@ -1,0 +1,88 @@
+﻿[
+  {
+    "id": "kono-sono-ano",
+    "title": "この・その・あの - Từ chỉ định đứng trước danh từ",
+    "description": "この (kono), その (sono), あの (ano) là các từ chỉ định đứng trước danh từ. Khác với これ/それ/あれ, các từ này phải đi kèm với danh từ.",
+    "structure": "この/その/あの + Danh từ",
+    "examples": [
+      {
+        "japanese": "この本は私のです。",
+        "romaji": "Kono hon wa watashi no desu.",
+        "vietnamese": "Cuốn sách này là của tôi."
+      },
+      {
+        "japanese": "そのペンはあなたのです。",
+        "romaji": "Sono pen wa anata no desu.",
+        "vietnamese": "Cây bút đó là của bạn."
+      },
+      {
+        "japanese": "あの人はだれですか？",
+        "romaji": "Ano hito wa dare desu ka?",
+        "vietnamese": "Người kia là ai?"
+      }
+    ],
+    "notes": [
+      "この: đứng trước danh từ, chỉ vật gần người nói",
+      "その: đứng trước danh từ, chỉ vật gần người nghe",
+      "あの: đứng trước danh từ, chỉ vật xa cả hai",
+      "どの: từ để hỏi \"cái nào\" đứng trước danh từ"
+    ]
+  },
+  {
+    "id": "koko-soko-asoko",
+    "title": "ここ・そこ・あそこ - Từ chỉ nơi chốn",
+    "description": "ここ (koko), そこ (soko), あそこ (asoko) là các từ chỉ nơi chốn. ここ chỉ vị trí gần người nói, そこ chỉ vị trí gần người nghe, あそこ chỉ vị trí xa cả hai.",
+    "structure": "ここ/そこ/あそこ + は + Danh từ + です",
+    "examples": [
+      {
+        "japanese": "ここは学校です。",
+        "romaji": "Koko wa gakkou desu.",
+        "vietnamese": "Đây là trường học."
+      },
+      {
+        "japanese": "そこは図書館です。",
+        "romaji": "Soko wa toshokan desu.",
+        "vietnamese": "Đó là thư viện."
+      },
+      {
+        "japanese": "あそこは病院です。",
+        "romaji": "Asoko wa byouin desu.",
+        "vietnamese": "Kia là bệnh viện."
+      }
+    ],
+    "notes": [
+      "ここ: nơi gần người nói",
+      "そこ: nơi gần người nghe",
+      "あそこ: nơi xa cả người nói và người nghe",
+      "どこ: từ để hỏi \"ở đâu\""
+    ]
+  },
+  {
+    "id": "no",
+    "title": "の - Trợ từ sở hữu",
+    "description": "の dùng để chỉ sự sở hữu, tương đương với \"của\" trong tiếng Việt. Khi đứng một mình, の có thể thay thế cho danh từ đã được đề cập trước đó.",
+    "structure": "Danh từ + の + Danh từ / の (đứng một mình)",
+    "examples": [
+      {
+        "japanese": "これは私の本です。",
+        "romaji": "Kore wa watashi no hon desu.",
+        "vietnamese": "Đây là sách của tôi."
+      },
+      {
+        "japanese": "そのペンはあなたのです。",
+        "romaji": "Sono pen wa anata no desu.",
+        "vietnamese": "Cây bút đó là của bạn."
+      },
+      {
+        "japanese": "この本は私のです。",
+        "romaji": "Kono hon wa watashi no desu.",
+        "vietnamese": "Cuốn sách này là của tôi."
+      }
+    ],
+    "notes": [
+      "の dùng để chỉ sự sở hữu",
+      "Khi đứng một mình, の thay thế cho danh từ đã được đề cập",
+      "の cũng có thể dùng để nối danh từ với danh từ (ví dụ: 日本語の本 - sách tiếng Nhật)"
+    ]
+  }
+]
