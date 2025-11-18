@@ -1,1 +1,53 @@
-﻿[]
+﻿[
+  {
+    "id": "i-adjective-negative",
+    "title": "い-adjective - Dạng phủ định",
+    "description": "Dạng phủ định của い-adjective được tạo bằng cách bỏ い và thêm くないです.",
+    "structure": "い-adjective (bỏ い) + くないです",
+    "examples": [
+      {
+        "japanese": "この本は高くないです。",
+        "romaji": "Kono hon wa takakunai desu.",
+        "vietnamese": "Cuốn sách này không đắt."
+      },
+      {
+        "japanese": "この部屋は大きくないです。",
+        "romaji": "Kono heya wa ookikunai desu.",
+        "vietnamese": "Căn phòng này không lớn."
+      },
+      {
+        "japanese": "この問題は難しくないです。",
+        "romaji": "Kono mondai wa muzukashikunai desu.",
+        "vietnamese": "Vấn đề này không khó."
+      }
+    ],
+    "notes": [
+      "Bỏ い và thêm くないです",
+      "Ví dụ: 高い → 高くないです",
+      "Ví dụ: 易しい → 易しくないです"
+    ]
+  },
+  {
+    "id": "i-adjective-past",
+    "title": "い-adjective - Dạng quá khứ",
+    "description": "Dạng quá khứ của い-adjective được tạo bằng cách bỏ い và thêm かったです.",
+    "structure": "い-adjective (bỏ い) + かったです",
+    "examples": [
+      {
+        "japanese": "昨日は暑かったです。",
+        "romaji": "Kinou wa atsukatta desu.",
+        "vietnamese": "Hôm qua trời nóng."
+      },
+      {
+        "japanese": "その映画は面白かったです。",
+        "romaji": "Sono eiga wa omoshirokatta desu.",
+        "vietnamese": "Bộ phim đó thú vị."
+      }
+    ],
+    "notes": [
+      "Bỏ い và thêm かったです",
+      "Ví dụ: 高い → 高かったです",
+      "Ví dụ: 易しい → 易しかったです"
+    ]
+  }
+]

@@ -1,1 +1,29 @@
-﻿[]
+﻿[
+  {
+    "id": "de-tool",
+    "title": "で - Trợ từ chỉ công cụ",
+    "description": "で dùng để chỉ công cụ, phương tiện sử dụng để thực hiện hành động.",
+    "structure": "Danh từ (công cụ) + で + Động từ",
+    "examples": [
+      {
+        "japanese": "ペンで書きます。",
+        "romaji": "Pen de kakimasu.",
+        "vietnamese": "Viết bằng bút."
+      },
+      {
+        "japanese": "コンピューターで調べます。",
+        "romaji": "Konpyuutaa de shirabemasu.",
+        "vietnamese": "Tra cứu bằng máy tính."
+      },
+      {
+        "japanese": "日本語で話します。",
+        "romaji": "Nihongo de hanashimasu.",
+        "vietnamese": "Nói bằng tiếng Nhật."
+      }
+    ],
+    "notes": [
+      "で chỉ công cụ, phương tiện sử dụng",
+      "で cũng chỉ ngôn ngữ sử dụng"
+    ]
+  }
+]

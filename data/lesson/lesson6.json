@@ -1,2 +1,296 @@
-[]
-
+[
+  {
+    "id": "toReceive",
+    "kanji": "もらいます",
+    "hiragana": "もらいます",
+    "en": "to receive",
+    "vi": "nhận",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm I, dùng với trợ từ から hoặc に",
+        "Ví dụ: 友達からプレゼントをもらいます。 (Nhận quà từ bạn.)"
+      ]
+    }
+  },
+  {
+    "id": "toGive",
+    "kanji": "あげます",
+    "hiragana": "あげます",
+    "en": "to give",
+    "vi": "tặng, cho",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm II, dùng với trợ từ に",
+        "Ví dụ: 友達にプレゼントをあげます。 (Tặng quà cho bạn.)"
+      ]
+    }
+  },
+  {
+    "id": "toSend",
+    "kanji": "送ります",
+    "hiragana": "おくります",
+    "en": "to send",
+    "vi": "gửi",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm I, dùng với trợ từ に",
+        "Ví dụ: 友達に手紙を送ります。 (Gửi thư cho bạn.)"
+      ]
+    }
+  },
+  {
+    "id": "toShow",
+    "kanji": "見せます",
+    "hiragana": "みせます",
+    "en": "to show",
+    "vi": "cho xem",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm II, dùng với trợ từ に",
+        "Ví dụ: 友達に写真を見せます。 (Cho bạn xem ảnh.)"
+      ]
+    }
+  },
+  {
+    "id": "toTeach",
+    "kanji": "教えます",
+    "hiragana": "おしえます",
+    "en": "to teach",
+    "vi": "dạy",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm II, dùng với trợ từ に",
+        "Ví dụ: 学生に日本語を教えます。 (Dạy tiếng Nhật cho học sinh.)"
+      ]
+    }
+  },
+  {
+    "id": "toTell",
+    "kanji": "話します",
+    "hiragana": "はなします",
+    "en": "to tell, to speak",
+    "vi": "nói, kể",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm I, dùng với trợ từ に",
+        "Ví dụ: 友達に話します。 (Nói với bạn.)"
+      ]
+    }
+  },
+  {
+    "id": "present",
+    "kanji": "プレゼント",
+    "hiragana": "プレゼント",
+    "en": "present, gift",
+    "vi": "quà tặng",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ quà tặng (từ mượn)",
+        "Ví dụ: プレゼントをもらいます。 (Nhận quà.)"
+      ]
+    }
+  },
+  {
+    "id": "letter",
+    "kanji": "手紙",
+    "hiragana": "てがみ",
+    "en": "letter",
+    "vi": "thư",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ thư",
+        "Ví dụ: 手紙を書きます。 (Viết thư.)"
+      ]
+    }
+  },
+  {
+    "id": "photo",
+    "kanji": "写真",
+    "hiragana": "しゃしん",
+    "en": "photo",
+    "vi": "ảnh",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ ảnh",
+        "Ví dụ: 写真を撮ります。 (Chụp ảnh.)"
+      ]
+    }
+  },
+  {
+    "id": "email",
+    "kanji": "メール",
+    "hiragana": "メール",
+    "en": "email",
+    "vi": "email",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ email (từ mượn)",
+        "Ví dụ: メールを送ります。 (Gửi email.)"
+      ]
+    }
+  },
+  {
+    "id": "flower",
+    "kanji": "花",
+    "hiragana": "はな",
+    "en": "flower",
+    "vi": "hoa",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ hoa",
+        "Ví dụ: 花を買います。 (Mua hoa.)"
+      ]
+    }
+  },
+  {
+    "id": "shirt",
+    "kanji": "シャツ",
+    "hiragana": "シャツ",
+    "en": "shirt",
+    "vi": "áo sơ mi",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ áo sơ mi (từ mượn)",
+        "Ví dụ: シャツを買います。 (Mua áo sơ mi.)"
+      ]
+    }
+  },
+  {
+    "id": "tie",
+    "kanji": "ネクタイ",
+    "hiragana": "ネクタイ",
+    "en": "tie",
+    "vi": "cà vạt",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ cà vạt (từ mượn)",
+        "Ví dụ: ネクタイをします。 (Đeo cà vạt.)"
+      ]
+    }
+  },
+  {
+    "id": "wallet",
+    "kanji": "財布",
+    "hiragana": "さいふ",
+    "en": "wallet",
+    "vi": "ví",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ ví",
+        "Ví dụ: 財布を忘れました。 (Quên ví.)"
+      ]
+    }
+  },
+  {
+    "id": "watch",
+    "kanji": "時計",
+    "hiragana": "とけい",
+    "en": "watch, clock",
+    "vi": "đồng hồ",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ đồng hồ",
+        "Ví dụ: 時計を見ます。 (Xem đồng hồ.)"
+      ]
+    }
+  },
+  {
+    "id": "ticket",
+    "kanji": "切符",
+    "hiragana": "きっぷ",
+    "en": "ticket",
+    "vi": "vé",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ vé",
+        "Ví dụ: 切符を買います。 (Mua vé.)"
+      ]
+    }
+  },
+  {
+    "id": "birthday",
+    "kanji": "誕生日",
+    "hiragana": "たんじょうび",
+    "en": "birthday",
+    "vi": "sinh nhật",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ sinh nhật",
+        "Ví dụ: 誕生日にプレゼントをもらいます。 (Nhận quà vào sinh nhật.)"
+      ]
+    }
+  },
+  {
+    "id": "christmas",
+    "kanji": "クリスマス",
+    "hiragana": "クリスマス",
+    "en": "Christmas",
+    "vi": "Giáng sinh",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ Giáng sinh (từ mượn)",
+        "Ví dụ: クリスマスにプレゼントをあげます。 (Tặng quà vào Giáng sinh.)"
+      ]
+    }
+  },
+  {
+    "id": "lastYear",
+    "kanji": "去年",
+    "hiragana": "きょねん",
+    "en": "last year",
+    "vi": "năm ngoái",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ năm ngoái",
+        "Ví dụ: 去年日本へ行きました。 (Đã đi Nhật Bản năm ngoái.)"
+      ]
+    }
+  },
+  {
+    "id": "thisYear",
+    "kanji": "今年",
+    "hiragana": "ことし",
+    "en": "this year",
+    "vi": "năm nay",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ năm nay",
+        "Ví dụ: 今年大学を卒業します。 (Tốt nghiệp đại học năm nay.)"
+      ]
+    }
+  },
+  {
+    "id": "nextYear",
+    "kanji": "来年",
+    "hiragana": "らいねん",
+    "en": "next year",
+    "vi": "năm sau",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ năm sau",
+        "Ví dụ: 来年日本へ行きます。 (Sẽ đi Nhật Bản năm sau.)"
+      ]
+    }
+  }
+]

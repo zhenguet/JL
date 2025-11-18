@@ -1,1 +1,25 @@
-﻿[]
+﻿[
+  {
+    "id": "te-form",
+    "title": "て形 - Thể te",
+    "description": "Thể te của động từ dùng để nối các hành động, yêu cầu, mời mọc. Cách tạo thể te khác nhau tùy theo nhóm động từ.",
+    "structure": "Động từ (thể te) + て + Động từ",
+    "examples": [
+      {
+        "japanese": "本を読んで、テレビを見ます。",
+        "romaji": "Hon o yonde, terebi o mimasu.",
+        "vietnamese": "Đọc sách và xem TV."
+      },
+      {
+        "japanese": "手を洗って、食事をします。",
+        "romaji": "Te o aratte, shokuji o shimasu.",
+        "vietnamese": "Rửa tay và ăn cơm."
+      }
+    ],
+    "notes": [
+      "Nhóm I: い → って, き → いて, ぎ → いで, び/み/に → んで",
+      "Nhóm II: bỏ ます + て",
+      "Nhóm III: します → して, きます → きて"
+    ]
+  }
+]

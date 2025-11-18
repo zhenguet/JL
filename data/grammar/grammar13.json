@@ -1,1 +1,24 @@
-﻿[]
+﻿[
+  {
+    "id": "ga-kakaru",
+    "title": "が - Với かかります",
+    "description": "かかります (mất, tốn) dùng với trợ từ が để chỉ thời gian hoặc tiền bạc cần thiết.",
+    "structure": "Thời gian/Tiền + が + かかります",
+    "examples": [
+      {
+        "japanese": "学校まで一時間かかります。",
+        "romaji": "Gakkou made ichijikan kakarimasu.",
+        "vietnamese": "Mất một giờ để đến trường."
+      },
+      {
+        "japanese": "この本は千円かかります。",
+        "romaji": "Kono hon wa sen en kakarimasu.",
+        "vietnamese": "Cuốn sách này tốn 1000 yên."
+      }
+    ],
+    "notes": [
+      "かかります dùng với が",
+      "Có thể chỉ thời gian hoặc tiền bạc"
+    ]
+  }
+]

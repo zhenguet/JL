@@ -1,1 +1,58 @@
-﻿[]
+﻿[
+  {
+    "id": "before",
+    "kanji": "前",
+    "hiragana": "まえ",
+    "en": "before",
+    "vi": "trước",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ thời gian, dùng với trợ từ に",
+        "Ví dụ: 食事の前に手を洗います。 (Rửa tay trước bữa ăn.)"
+      ]
+    }
+  },
+  {
+    "id": "after",
+    "kanji": "後",
+    "hiragana": "あと",
+    "en": "after",
+    "vi": "sau",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ thời gian, dùng với trợ từ に",
+        "Ví dụ: 食事の後に歯を磨きます。 (Đánh răng sau bữa ăn.)"
+      ]
+    }
+  },
+  {
+    "id": "toWash",
+    "kanji": "洗います",
+    "hiragana": "あらいます",
+    "en": "to wash",
+    "vi": "rửa",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm I, dùng với trợ từ を",
+        "Ví dụ: 手を洗います。 (Rửa tay.)"
+      ]
+    }
+  },
+  {
+    "id": "toBrush",
+    "kanji": "磨きます",
+    "hiragana": "みがきます",
+    "en": "to brush",
+    "vi": "chải, đánh",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm I, dùng với trợ từ を",
+        "Ví dụ: 歯を磨きます。 (Đánh răng.)"
+      ]
+    }
+  }
+]

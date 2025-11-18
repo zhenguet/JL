@@ -1,1 +1,51 @@
-﻿[]
+﻿[
+  {
+    "id": "ni-agemasu",
+    "title": "に - Trợ từ với あげます, 送ります",
+    "description": "に dùng với các động từ như あげます (tặng), 送ります (gửi), 見せます (cho xem) để chỉ người nhận hành động.",
+    "structure": "Danh từ (người nhận) + に + Danh từ + を + Động từ",
+    "examples": [
+      {
+        "japanese": "友達にプレゼントをあげます。",
+        "romaji": "Tomodachi ni purezento o agemasu.",
+        "vietnamese": "Tặng quà cho bạn."
+      },
+      {
+        "japanese": "母に手紙を送ります。",
+        "romaji": "Haha ni tegami o okurimasu.",
+        "vietnamese": "Gửi thư cho mẹ."
+      },
+      {
+        "japanese": "先生に写真を見せます。",
+        "romaji": "Sensei ni shashin o misemasu.",
+        "vietnamese": "Cho thầy cô xem ảnh."
+      }
+    ],
+    "notes": [
+      "に chỉ người nhận hành động",
+      "Các động từ: あげます, 送ります, 見せます, 教えます, 話します"
+    ]
+  },
+  {
+    "id": "kara-moraimasu",
+    "title": "から - Trợ từ với もらいます",
+    "description": "から dùng với もらいます (nhận) để chỉ người cho, người gửi.",
+    "structure": "Danh từ (người cho) + から + Danh từ + を + もらいます",
+    "examples": [
+      {
+        "japanese": "友達からプレゼントをもらいます。",
+        "romaji": "Tomodachi kara purezento o moraimasu.",
+        "vietnamese": "Nhận quà từ bạn."
+      },
+      {
+        "japanese": "母から手紙をもらいます。",
+        "romaji": "Haha kara tegami o moraimasu.",
+        "vietnamese": "Nhận thư từ mẹ."
+      }
+    ],
+    "notes": [
+      "から chỉ người cho, người gửi",
+      "Có thể dùng に thay cho から với もらいます trong một số trường hợp"
+    ]
+  }
+]

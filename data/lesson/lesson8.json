@@ -1,2 +1,424 @@
-[]
-
+[
+  {
+    "id": "easy",
+    "kanji": "易しい",
+    "hiragana": "やさしい",
+    "en": "easy",
+    "vi": "dễ",
+    "type": "adjective",
+    "explanation": {
+      "content": [
+        "Tính từ i (い-adjective)",
+        "Ví dụ: この問題は易しいです。 (Vấn đề này dễ.)"
+      ]
+    }
+  },
+  {
+    "id": "difficult",
+    "kanji": "難しい",
+    "hiragana": "むずかしい",
+    "en": "difficult",
+    "vi": "khó",
+    "type": "adjective",
+    "explanation": {
+      "content": [
+        "Tính từ i (い-adjective)",
+        "Ví dụ: この問題は難しいです。 (Vấn đề này khó.)"
+      ]
+    }
+  },
+  {
+    "id": "high",
+    "kanji": "高い",
+    "hiragana": "たかい",
+    "en": "high, expensive",
+    "vi": "cao, đắt",
+    "type": "adjective",
+    "explanation": {
+      "content": [
+        "Tính từ i (い-adjective)",
+        "Ví dụ: この建物は高いです。 (Tòa nhà này cao.)",
+        "Ví dụ: この本は高いです。 (Cuốn sách này đắt.)"
+      ]
+    }
+  },
+  {
+    "id": "low",
+    "kanji": "低い",
+    "hiragana": "ひくい",
+    "en": "low",
+    "vi": "thấp",
+    "type": "adjective",
+    "explanation": {
+      "content": [
+        "Tính từ i (い-adjective)",
+        "Ví dụ: この建物は低いです。 (Tòa nhà này thấp.)"
+      ]
+    }
+  },
+  {
+    "id": "cheap",
+    "kanji": "安い",
+    "hiragana": "やすい",
+    "en": "cheap",
+    "vi": "rẻ",
+    "type": "adjective",
+    "explanation": {
+      "content": [
+        "Tính từ i (い-adjective)",
+        "Ví dụ: この本は安いです。 (Cuốn sách này rẻ.)"
+      ]
+    }
+  },
+  {
+    "id": "big",
+    "kanji": "大きい",
+    "hiragana": "おおきい",
+    "en": "big",
+    "vi": "lớn",
+    "type": "adjective",
+    "explanation": {
+      "content": [
+        "Tính từ i (い-adjective)",
+        "Ví dụ: この部屋は大きいです。 (Căn phòng này lớn.)"
+      ]
+    }
+  },
+  {
+    "id": "small",
+    "kanji": "小さい",
+    "hiragana": "ちいさい",
+    "en": "small",
+    "vi": "nhỏ",
+    "type": "adjective",
+    "explanation": {
+      "content": [
+        "Tính từ i (い-adjective)",
+        "Ví dụ: この部屋は小さいです。 (Căn phòng này nhỏ.)"
+      ]
+    }
+  },
+  {
+    "id": "new",
+    "kanji": "新しい",
+    "hiragana": "あたらしい",
+    "en": "new",
+    "vi": "mới",
+    "type": "adjective",
+    "explanation": {
+      "content": [
+        "Tính từ i (い-adjective)",
+        "Ví dụ: 新しい車を買いました。 (Đã mua xe hơi mới.)"
+      ]
+    }
+  },
+  {
+    "id": "old",
+    "kanji": "古い",
+    "hiragana": "ふるい",
+    "en": "old",
+    "vi": "cũ",
+    "type": "adjective",
+    "explanation": {
+      "content": [
+        "Tính từ i (い-adjective)",
+        "Ví dụ: 古い本を読みます。 (Đọc sách cũ.)"
+      ]
+    }
+  },
+  {
+    "id": "good",
+    "kanji": "良い",
+    "hiragana": "よい",
+    "en": "good",
+    "vi": "tốt",
+    "type": "adjective",
+    "explanation": {
+      "content": [
+        "Tính từ i (い-adjective), cũng đọc là いい",
+        "Ví dụ: 良い天気です。 (Thời tiết tốt.)"
+      ]
+    }
+  },
+  {
+    "id": "bad",
+    "kanji": "悪い",
+    "hiragana": "わるい",
+    "en": "bad",
+    "vi": "xấu, tệ",
+    "type": "adjective",
+    "explanation": {
+      "content": [
+        "Tính từ i (い-adjective)",
+        "Ví dụ: 悪い天気です。 (Thời tiết xấu.)"
+      ]
+    }
+  },
+  {
+    "id": "beautiful",
+    "kanji": "きれい",
+    "hiragana": "きれい",
+    "en": "beautiful, clean",
+    "vi": "đẹp, sạch",
+    "type": "adjective",
+    "explanation": {
+      "content": [
+        "Tính từ な (な-adjective)",
+        "Ví dụ: きれいな花です。 (Hoa đẹp.)",
+        "Ví dụ: きれいな部屋です。 (Phòng sạch.)"
+      ]
+    }
+  },
+  {
+    "id": "dirty",
+    "kanji": "汚い",
+    "hiragana": "きたない",
+    "en": "dirty",
+    "vi": "bẩn",
+    "type": "adjective",
+    "explanation": {
+      "content": [
+        "Tính từ i (い-adjective)",
+        "Ví dụ: 汚い部屋です。 (Phòng bẩn.)"
+      ]
+    }
+  },
+  {
+    "id": "busy",
+    "kanji": "忙しい",
+    "hiragana": "いそがしい",
+    "en": "busy",
+    "vi": "bận",
+    "type": "adjective",
+    "explanation": {
+      "content": [
+        "Tính từ i (い-adjective)",
+        "Ví dụ: 今日は忙しいです。 (Hôm nay bận.)"
+      ]
+    }
+  },
+  {
+    "id": "free",
+    "kanji": "暇",
+    "hiragana": "ひま",
+    "en": "free, not busy",
+    "vi": "rảnh",
+    "type": "adjective",
+    "explanation": {
+      "content": [
+        "Tính từ な (な-adjective)",
+        "Ví dụ: 今日は暇です。 (Hôm nay rảnh.)"
+      ]
+    }
+  },
+  {
+    "id": "interesting",
+    "kanji": "面白い",
+    "hiragana": "おもしろい",
+    "en": "interesting",
+    "vi": "thú vị",
+    "type": "adjective",
+    "explanation": {
+      "content": [
+        "Tính từ i (い-adjective)",
+        "Ví dụ: この本は面白いです。 (Cuốn sách này thú vị.)"
+      ]
+    }
+  },
+  {
+    "id": "boring",
+    "kanji": "つまらない",
+    "hiragana": "つまらない",
+    "en": "boring",
+    "vi": "chán, nhàm",
+    "type": "adjective",
+    "explanation": {
+      "content": [
+        "Tính từ i (い-adjective)",
+        "Ví dụ: この映画はつまらないです。 (Bộ phim này chán.)"
+      ]
+    }
+  },
+  {
+    "id": "fun",
+    "kanji": "楽しい",
+    "hiragana": "たのしい",
+    "en": "fun, enjoyable",
+    "vi": "vui",
+    "type": "adjective",
+    "explanation": {
+      "content": [
+        "Tính từ i (い-adjective)",
+        "Ví dụ: パーティーは楽しいです。 (Bữa tiệc vui.)"
+      ]
+    }
+  },
+  {
+    "id": "fast",
+    "kanji": "速い",
+    "hiragana": "はやい",
+    "en": "fast",
+    "vi": "nhanh",
+    "type": "adjective",
+    "explanation": {
+      "content": [
+        "Tính từ i (い-adjective)",
+        "Ví dụ: この車は速いです。 (Xe hơi này nhanh.)"
+      ]
+    }
+  },
+  {
+    "id": "slow",
+    "kanji": "遅い",
+    "hiragana": "おそい",
+    "en": "slow",
+    "vi": "chậm",
+    "type": "adjective",
+    "explanation": {
+      "content": [
+        "Tính từ i (い-adjective)",
+        "Ví dụ: この車は遅いです。 (Xe hơi này chậm.)"
+      ]
+    }
+  },
+  {
+    "id": "early",
+    "kanji": "早い",
+    "hiragana": "はやい",
+    "en": "early",
+    "vi": "sớm",
+    "type": "adjective",
+    "explanation": {
+      "content": [
+        "Tính từ i (い-adjective)",
+        "Ví dụ: 早く起きます。 (Thức dậy sớm.)"
+      ]
+    }
+  },
+  {
+    "id": "late",
+    "kanji": "遅い",
+    "hiragana": "おそい",
+    "en": "late",
+    "vi": "muộn",
+    "type": "adjective",
+    "explanation": {
+      "content": [
+        "Tính từ i (い-adjective)",
+        "Ví dụ: 遅く帰ります。 (Về muộn.)"
+      ]
+    }
+  },
+  {
+    "id": "many",
+    "kanji": "多い",
+    "hiragana": "おおい",
+    "en": "many",
+    "vi": "nhiều",
+    "type": "adjective",
+    "explanation": {
+      "content": [
+        "Tính từ i (い-adjective)",
+        "Ví dụ: 人が多いです。 (Có nhiều người.)"
+      ]
+    }
+  },
+  {
+    "id": "few",
+    "kanji": "少ない",
+    "hiragana": "すくない",
+    "en": "few",
+    "vi": "ít",
+    "type": "adjective",
+    "explanation": {
+      "content": [
+        "Tính từ i (い-adjective)",
+        "Ví dụ: 人が少ないです。 (Có ít người.)"
+      ]
+    }
+  },
+  {
+    "id": "long",
+    "kanji": "長い",
+    "hiragana": "ながい",
+    "en": "long",
+    "vi": "dài",
+    "type": "adjective",
+    "explanation": {
+      "content": [
+        "Tính từ i (い-adjective)",
+        "Ví dụ: この道は長いです。 (Con đường này dài.)"
+      ]
+    }
+  },
+  {
+    "id": "short",
+    "kanji": "短い",
+    "hiragana": "みじかい",
+    "en": "short",
+    "vi": "ngắn",
+    "type": "adjective",
+    "explanation": {
+      "content": [
+        "Tính từ i (い-adjective)",
+        "Ví dụ: この道は短いです。 (Con đường này ngắn.)"
+      ]
+    }
+  },
+  {
+    "id": "wide",
+    "kanji": "広い",
+    "hiragana": "ひろい",
+    "en": "wide",
+    "vi": "rộng",
+    "type": "adjective",
+    "explanation": {
+      "content": [
+        "Tính từ i (い-adjective)",
+        "Ví dụ: この部屋は広いです。 (Căn phòng này rộng.)"
+      ]
+    }
+  },
+  {
+    "id": "narrow",
+    "kanji": "狭い",
+    "hiragana": "せまい",
+    "en": "narrow",
+    "vi": "hẹp",
+    "type": "adjective",
+    "explanation": {
+      "content": [
+        "Tính từ i (い-adjective)",
+        "Ví dụ: この道は狭いです。 (Con đường này hẹp.)"
+      ]
+    }
+  },
+  {
+    "id": "heavy",
+    "kanji": "重い",
+    "hiragana": "おもい",
+    "en": "heavy",
+    "vi": "nặng",
+    "type": "adjective",
+    "explanation": {
+      "content": [
+        "Tính từ i (い-adjective)",
+        "Ví dụ: この箱は重いです。 (Cái hộp này nặng.)"
+      ]
+    }
+  },
+  {
+    "id": "light",
+    "kanji": "軽い",
+    "hiragana": "かるい",
+    "en": "light",
+    "vi": "nhẹ",
+    "type": "adjective",
+    "explanation": {
+      "content": [
+        "Tính từ i (い-adjective)",
+        "Ví dụ: この箱は軽いです。 (Cái hộp này nhẹ.)"
+      ]
+    }
+  }
+]

@@ -1,1 +1,58 @@
-﻿[]
+﻿[
+  {
+    "id": "toGive",
+    "kanji": "あげます",
+    "hiragana": "あげます",
+    "en": "to give",
+    "vi": "tặng, cho",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm II, dùng với trợ từ に",
+        "Ví dụ: 友達にプレゼントをあげます。 (Tặng quà cho bạn.)"
+      ]
+    }
+  },
+  {
+    "id": "toReceive",
+    "kanji": "もらいます",
+    "hiragana": "もらいます",
+    "en": "to receive",
+    "vi": "nhận",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm I, dùng với trợ từ から hoặc に",
+        "Ví dụ: 友達からプレゼントをもらいます。 (Nhận quà từ bạn.)"
+      ]
+    }
+  },
+  {
+    "id": "toLend",
+    "kanji": "貸します",
+    "hiragana": "かします",
+    "en": "to lend",
+    "vi": "cho mượn",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm I, dùng với trợ từ に",
+        "Ví dụ: 友達に本を貸します。 (Cho bạn mượn sách.)"
+      ]
+    }
+  },
+  {
+    "id": "toBorrow",
+    "kanji": "借ります",
+    "hiragana": "かります",
+    "en": "to borrow",
+    "vi": "mượn",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm I, dùng với trợ từ から hoặc に",
+        "Ví dụ: 友達から本を借ります。 (Mượn sách từ bạn.)"
+      ]
+    }
+  }
+]

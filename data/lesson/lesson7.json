@@ -1,2 +1,1010 @@
-[]
-
+[
+  {
+    "id": "toCut",
+    "kanji": "切ります",
+    "hiragana": "きります",
+    "en": "to cut",
+    "vi": "cắt, gọt",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm I, dùng với trợ từ を",
+        "Ví dụ: 野菜を切ります。 (Cắt rau.)"
+      ]
+    }
+  },
+  {
+    "id": "toRepair",
+    "kanji": "修理します",
+    "hiragana": "しゅうりします",
+    "en": "to repair",
+    "vi": "sửa chữa",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm III (する), dùng với trợ từ を",
+        "Ví dụ: 車を修理します。 (Sửa xe hơi.)"
+      ]
+    }
+  },
+  {
+    "id": "toCall",
+    "kanji": "かけます",
+    "hiragana": "かけます",
+    "en": "to call",
+    "vi": "gọi (điện thoại)",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm II, dùng với trợ từ に",
+        "Ví dụ: 友達に電話をかけます。 (Gọi điện cho bạn.)"
+      ]
+    }
+  },
+  {
+    "id": "phone",
+    "kanji": "電話",
+    "hiragana": "でんわ",
+    "en": "phone",
+    "vi": "điện thoại",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ điện thoại",
+        "Ví dụ: 電話をかけます。 (Gọi điện thoại.)"
+      ]
+    }
+  },
+  {
+    "id": "toGive",
+    "kanji": "あげます",
+    "hiragana": "あげます",
+    "en": "to give",
+    "vi": "cho, biếu, tặng",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm II, dùng với trợ từ に",
+        "Ví dụ: 友達にプレゼントをあげます。 (Tặng quà cho bạn.)"
+      ]
+    }
+  },
+  {
+    "id": "toReceive",
+    "kanji": "もらいます",
+    "hiragana": "もらいます",
+    "en": "to receive",
+    "vi": "nhận, nhận được",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm I, dùng với trợ từ から hoặc に",
+        "Ví dụ: 友達からプレゼントをもらいます。 (Nhận quà từ bạn.)"
+      ]
+    }
+  },
+  {
+    "id": "toTeach",
+    "kanji": "教えます",
+    "hiragana": "おしえます",
+    "en": "to teach",
+    "vi": "dạy, giảng dạy",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm II, dùng với trợ từ に",
+        "Ví dụ: 学生に日本語を教えます。 (Dạy tiếng Nhật cho học sinh.)"
+      ]
+    }
+  },
+  {
+    "id": "toLearn",
+    "kanji": "習います",
+    "hiragana": "ならいます",
+    "en": "to learn",
+    "vi": "học",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm I, dùng với trợ từ を",
+        "Ví dụ: 日本語を習います。 (Học tiếng Nhật.)"
+      ]
+    }
+  },
+  {
+    "id": "toLend",
+    "kanji": "貸します",
+    "hiragana": "かします",
+    "en": "to lend, to rent out",
+    "vi": "cho vay, cho mượn, cho thuê",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm I, dùng với trợ từ に",
+        "Ví dụ: 友達に本を貸します。 (Cho bạn mượn sách.)"
+      ]
+    }
+  },
+  {
+    "id": "toBorrow",
+    "kanji": "借ります",
+    "hiragana": "かります",
+    "en": "to borrow, to rent",
+    "vi": "mượn, vay, thuê",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm I, dùng với trợ từ から hoặc に",
+        "Ví dụ: 友達から本を借ります。 (Mượn sách từ bạn.)"
+      ]
+    }
+  },
+  {
+    "id": "toSend",
+    "kanji": "送ります",
+    "hiragana": "おくります",
+    "en": "to send",
+    "vi": "gửi",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm I, dùng với trợ từ に",
+        "Ví dụ: 友達に手紙を送ります。 (Gửi thư cho bạn.)"
+      ]
+    }
+  },
+  {
+    "id": "hand",
+    "kanji": "手",
+    "hiragana": "て",
+    "en": "hand",
+    "vi": "tay, bàn tay",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ tay",
+        "Ví dụ: 手を洗います。 (Rửa tay.)"
+      ]
+    }
+  },
+  {
+    "id": "chopsticks",
+    "kanji": "箸",
+    "hiragana": "はし",
+    "en": "chopsticks",
+    "vi": "đũa, đôi đũa",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ đũa",
+        "Ví dụ: 箸で食べます。 (Ăn bằng đũa.)"
+      ]
+    }
+  },
+  {
+    "id": "knife",
+    "kanji": "ナイフ",
+    "hiragana": "ナイフ",
+    "en": "knife",
+    "vi": "dao, con dao",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ dao (từ mượn)",
+        "Ví dụ: ナイフで切ります。 (Cắt bằng dao.)"
+      ]
+    }
+  },
+  {
+    "id": "fork",
+    "kanji": "フォーク",
+    "hiragana": "フォーク",
+    "en": "fork",
+    "vi": "cái dĩa, cái nĩa",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ nĩa (từ mượn)",
+        "Ví dụ: フォークで食べます。 (Ăn bằng nĩa.)"
+      ]
+    }
+  },
+  {
+    "id": "spoon",
+    "kanji": "スプーン",
+    "hiragana": "スプーン",
+    "en": "spoon",
+    "vi": "cái thìa, cái muỗng",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ thìa (từ mượn)",
+        "Ví dụ: スプーンで食べます。 (Ăn bằng thìa.)"
+      ]
+    }
+  },
+  {
+    "id": "scissors",
+    "kanji": "はさみ",
+    "hiragana": "はさみ",
+    "en": "scissors",
+    "vi": "cái kéo",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ kéo",
+        "Ví dụ: はさみで切ります。 (Cắt bằng kéo.)"
+      ]
+    }
+  },
+  {
+    "id": "screwdriver",
+    "kanji": "ドライバー",
+    "hiragana": "ドライバー",
+    "en": "screwdriver",
+    "vi": "cái tuốc-lơ-vít",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ tuốc-lơ-vít (từ mượn)",
+        "Ví dụ: ドライバーでネジを回します。 (Vặn ốc bằng tuốc-lơ-vít.)"
+      ]
+    }
+  },
+  {
+    "id": "wrench",
+    "kanji": "スパナ",
+    "hiragana": "スパナ",
+    "en": "wrench",
+    "vi": "cái mỏ lết",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ mỏ lết (từ mượn)",
+        "Ví dụ: スパナでネジを回します。 (Vặn ốc bằng mỏ lết.)"
+      ]
+    }
+  },
+  {
+    "id": "pliers",
+    "kanji": "ペンチ",
+    "hiragana": "ペンチ",
+    "en": "pliers",
+    "vi": "cái kìm",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ kìm (từ mượn)",
+        "Ví dụ: ペンチで針金を切ります。 (Cắt dây thép bằng kìm.)"
+      ]
+    }
+  },
+  {
+    "id": "stapler",
+    "kanji": "ホッチキス",
+    "hiragana": "ホッチキス",
+    "en": "stapler",
+    "vi": "cái dập ghim",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ dập ghim (từ mượn)",
+        "Ví dụ: ホッチキスで紙を留めます。 (Dập ghim giấy.)"
+      ]
+    }
+  },
+  {
+    "id": "tape",
+    "kanji": "セロテープ",
+    "hiragana": "セロテープ",
+    "en": "tape",
+    "vi": "băng dính, cuộn băng dính",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ băng dính (từ mượn)",
+        "Ví dụ: セロテープで貼ります。 (Dán bằng băng dính.)"
+      ]
+    }
+  },
+  {
+    "id": "eraser",
+    "kanji": "消しゴム",
+    "hiragana": "けしゴム",
+    "en": "eraser",
+    "vi": "cục tẩy",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ cục tẩy",
+        "Ví dụ: 消しゴムで消します。 (Tẩy bằng cục tẩy.)"
+      ]
+    }
+  },
+  {
+    "id": "paper",
+    "kanji": "紙",
+    "hiragana": "かみ",
+    "en": "paper",
+    "vi": "giấy, tờ giấy",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ giấy",
+        "Ví dụ: 紙に書きます。 (Viết trên giấy.)"
+      ]
+    }
+  },
+  {
+    "id": "money",
+    "kanji": "お金",
+    "hiragana": "おかね",
+    "en": "money",
+    "vi": "tiền",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ tiền, có tiền tố お (lịch sự)",
+        "Ví dụ: お金を払います。 (Trả tiền.)"
+      ]
+    }
+  },
+  {
+    "id": "present",
+    "kanji": "プレゼント",
+    "hiragana": "プレゼント",
+    "en": "present, gift",
+    "vi": "quà, món quà",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ quà tặng (từ mượn)",
+        "Ví dụ: プレゼントをもらいます。 (Nhận quà.)"
+      ]
+    }
+  },
+  {
+    "id": "flower",
+    "kanji": "花",
+    "hiragana": "はな",
+    "en": "flower",
+    "vi": "hoa, bông hoa",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ hoa",
+        "Ví dụ: 花を買います。 (Mua hoa.)"
+      ]
+    }
+  },
+  {
+    "id": "luggage",
+    "kanji": "荷物",
+    "hiragana": "にもつ",
+    "en": "luggage",
+    "vi": "hành lý, đồ đạc",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ hành lý",
+        "Ví dụ: 荷物を持ちます。 (Mang hành lý.)"
+      ]
+    }
+  },
+  {
+    "id": "ticket",
+    "kanji": "切符",
+    "hiragana": "きっぷ",
+    "en": "ticket",
+    "vi": "vé, tấm vé",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ vé",
+        "Ví dụ: 切符を買います。 (Mua vé.)"
+      ]
+    }
+  },
+  {
+    "id": "report",
+    "kanji": "レポート",
+    "hiragana": "レポート",
+    "en": "report",
+    "vi": "báo cáo, bản báo cáo",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ báo cáo (từ mượn)",
+        "Ví dụ: レポートを書きます。 (Viết báo cáo.)"
+      ]
+    }
+  },
+  {
+    "id": "fax",
+    "kanji": "ファクス",
+    "hiragana": "ファクス",
+    "en": "fax",
+    "vi": "fax",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ fax (từ mượn)",
+        "Ví dụ: ファクスを送ります。 (Gửi fax.)"
+      ]
+    }
+  },
+  {
+    "id": "wordProcessor",
+    "kanji": "ワープロ",
+    "hiragana": "ワープロ",
+    "en": "word processor",
+    "vi": "máy đánh chữ",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ máy đánh chữ (từ mượn)",
+        "Ví dụ: ワープロで書きます。 (Viết bằng máy đánh chữ.)"
+      ]
+    }
+  },
+  {
+    "id": "personalComputer",
+    "kanji": "パソコン",
+    "hiragana": "パソコン",
+    "en": "personal computer",
+    "vi": "máy tính cá nhân",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ máy tính cá nhân (từ mượn)",
+        "Ví dụ: パソコンを使います。 (Dùng máy tính cá nhân.)"
+      ]
+    }
+  },
+  {
+    "id": "christmas",
+    "kanji": "クリスマス",
+    "hiragana": "クリスマス",
+    "en": "Christmas",
+    "vi": "Giáng sinh",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ Giáng sinh (từ mượn)",
+        "Ví dụ: クリスマスにプレゼントをあげます。 (Tặng quà vào Giáng sinh.)"
+      ]
+    }
+  },
+  {
+    "id": "family",
+    "kanji": "家族",
+    "hiragana": "かぞく",
+    "en": "family",
+    "vi": "gia đình",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ gia đình",
+        "Ví dụ: 家族と一緒に住みます。 (Sống cùng gia đình.)"
+      ]
+    }
+  },
+  {
+    "id": "father",
+    "kanji": "父",
+    "hiragana": "ちち",
+    "en": "father (my)",
+    "vi": "bố (của mình)",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ bố (khi nói về bố của mình)",
+        "Ví dụ: 父は会社員です。 (Bố tôi là nhân viên công ty.)"
+      ]
+    }
+  },
+  {
+    "id": "fatherPolite",
+    "kanji": "お父さん",
+    "hiragana": "おとうさん",
+    "en": "father (other's)",
+    "vi": "bố (của người khác)",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ bố (khi nói về bố của người khác, lịch sự)",
+        "Ví dụ: お父さんは元気ですか。 (Bố bạn có khỏe không?)"
+      ]
+    }
+  },
+  {
+    "id": "mother",
+    "kanji": "母",
+    "hiragana": "はは",
+    "en": "mother (my)",
+    "vi": "mẹ (của mình)",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ mẹ (khi nói về mẹ của mình)",
+        "Ví dụ: 母は先生です。 (Mẹ tôi là giáo viên.)"
+      ]
+    }
+  },
+  {
+    "id": "motherPolite",
+    "kanji": "お母さん",
+    "hiragana": "おかあさん",
+    "en": "mother (other's)",
+    "vi": "mẹ (của người khác)",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ mẹ (khi nói về mẹ của người khác, lịch sự)",
+        "Ví dụ: お母さんは元気ですか。 (Mẹ bạn có khỏe không?)"
+      ]
+    }
+  },
+  {
+    "id": "olderBrother",
+    "kanji": "兄",
+    "hiragana": "あに",
+    "en": "older brother (my)",
+    "vi": "anh trai (của mình)",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ anh trai (khi nói về anh trai của mình)",
+        "Ví dụ: 兄は大学生です。 (Anh trai tôi là sinh viên đại học.)"
+      ]
+    }
+  },
+  {
+    "id": "olderBrotherPolite",
+    "kanji": "お兄さん",
+    "hiragana": "おにいさん",
+    "en": "older brother (other's)",
+    "vi": "anh trai (của người khác)",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ anh trai (khi nói về anh trai của người khác, lịch sự)",
+        "Ví dụ: お兄さんは何歳ですか。 (Anh trai bạn bao nhiêu tuổi?)"
+      ]
+    }
+  },
+  {
+    "id": "olderSister",
+    "kanji": "姉",
+    "hiragana": "あね",
+    "en": "older sister (my)",
+    "vi": "chị gái (của mình)",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ chị gái (khi nói về chị gái của mình)",
+        "Ví dụ: 姉は看護師です。 (Chị gái tôi là y tá.)"
+      ]
+    }
+  },
+  {
+    "id": "olderSisterPolite",
+    "kanji": "お姉さん",
+    "hiragana": "おねえさん",
+    "en": "older sister (other's)",
+    "vi": "chị gái (của người khác)",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ chị gái (khi nói về chị gái của người khác, lịch sự)",
+        "Ví dụ: お姉さんは優しいです。 (Chị gái bạn tốt bụng.)"
+      ]
+    }
+  },
+  {
+    "id": "youngerBrother",
+    "kanji": "弟",
+    "hiragana": "おとうと",
+    "en": "younger brother (my)",
+    "vi": "em trai (của mình)",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ em trai (khi nói về em trai của mình)",
+        "Ví dụ: 弟は中学生です。 (Em trai tôi là học sinh cấp 2.)"
+      ]
+    }
+  },
+  {
+    "id": "youngerBrotherPolite",
+    "kanji": "弟さん",
+    "hiragana": "おとうとさん",
+    "en": "younger brother (other's)",
+    "vi": "em trai (của người khác)",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ em trai (khi nói về em trai của người khác, lịch sự)",
+        "Ví dụ: 弟さんは何歳ですか。 (Em trai bạn bao nhiêu tuổi?)"
+      ]
+    }
+  },
+  {
+    "id": "youngerSister",
+    "kanji": "妹",
+    "hiragana": "いもうと",
+    "en": "younger sister (my)",
+    "vi": "em gái (của mình)",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ em gái (khi nói về em gái của mình)",
+        "Ví dụ: 妹は小学生です。 (Em gái tôi là học sinh tiểu học.)"
+      ]
+    }
+  },
+  {
+    "id": "youngerSisterPolite",
+    "kanji": "妹さん",
+    "hiragana": "いもうとさん",
+    "en": "younger sister (other's)",
+    "vi": "em gái (của người khác)",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ em gái (khi nói về em gái của người khác, lịch sự)",
+        "Ví dụ: 妹さんは可愛いです。 (Em gái bạn dễ thương.)"
+      ]
+    }
+  },
+  {
+    "id": "wife",
+    "kanji": "家内",
+    "hiragana": "かない",
+    "en": "wife (my)",
+    "vi": "vợ (của mình)",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ vợ (khi nói về vợ của mình)",
+        "Ví dụ: 家内は主婦です。 (Vợ tôi là nội trợ.)"
+      ]
+    }
+  },
+  {
+    "id": "wifePolite",
+    "kanji": "奥さん",
+    "hiragana": "おくさん",
+    "en": "wife (other's)",
+    "vi": "vợ (của người khác)",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ vợ (khi nói về vợ của người khác, lịch sự)",
+        "Ví dụ: 奥さんはお元気ですか。 (Vợ bạn có khỏe không?)"
+      ]
+    }
+  },
+  {
+    "id": "husband",
+    "kanji": "主人",
+    "hiragana": "しゅじん",
+    "en": "husband (my)",
+    "vi": "chồng (của mình)",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ chồng (khi nói về chồng của mình)",
+        "Ví dụ: 主人は会社員です。 (Chồng tôi là nhân viên công ty.)"
+      ]
+    }
+  },
+  {
+    "id": "husbandPolite",
+    "kanji": "ご主人",
+    "hiragana": "ごしゅじん",
+    "en": "husband (other's)",
+    "vi": "chồng (của người khác)",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ chồng (khi nói về chồng của người khác, lịch sự)",
+        "Ví dụ: ご主人はお仕事は何ですか。 (Chồng bạn làm nghề gì?)"
+      ]
+    }
+  },
+  {
+    "id": "child",
+    "kanji": "子供",
+    "hiragana": "こども",
+    "en": "child (my)",
+    "vi": "con, con cái (của mình)",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ con (khi nói về con của mình)",
+        "Ví dụ: 子供は二人います。 (Có hai đứa con.)"
+      ]
+    }
+  },
+  {
+    "id": "childPolite",
+    "kanji": "お子さん",
+    "hiragana": "おこさん",
+    "en": "child (other's)",
+    "vi": "con, con cái (của người khác)",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ con (khi nói về con của người khác, lịch sự)",
+        "Ví dụ: お子さんは何歳ですか。 (Con bạn bao nhiêu tuổi?)"
+      ]
+    }
+  },
+  {
+    "id": "already",
+    "kanji": "もう",
+    "hiragana": "もう",
+    "en": "already",
+    "vi": "rồi, đã",
+    "type": "adverb",
+    "explanation": {
+      "content": [
+        "Phó từ chỉ thời gian",
+        "Ví dụ: もう食べました。 (Đã ăn rồi.)"
+      ]
+    }
+  },
+  {
+    "id": "still",
+    "kanji": "まだ",
+    "hiragana": "まだ",
+    "en": "still, not yet",
+    "vi": "vẫn ~ (chưa)",
+    "type": "adverb",
+    "explanation": {
+      "content": [
+        "Phó từ chỉ thời gian",
+        "Ví dụ: まだ食べていません。 (Vẫn chưa ăn.)"
+      ]
+    }
+  },
+  {
+    "id": "fromNowOn",
+    "kanji": "これから",
+    "hiragana": "これから",
+    "en": "from now on",
+    "vi": "từ nay trở đi, từ giờ trở đi",
+    "type": "other",
+    "explanation": {
+      "content": [
+        "Cụm từ chỉ thời gian",
+        "Ví dụ: これから頑張ります。 (Từ giờ trở đi sẽ cố gắng.)"
+      ]
+    }
+  },
+  {
+    "id": "wonderful",
+    "kanji": "すてき",
+    "hiragana": "すてき",
+    "en": "wonderful",
+    "vi": "đẹp quá, tuyệt quá",
+    "type": "adjective",
+    "explanation": {
+      "content": [
+        "Tính từ な (な-adjective)",
+        "Ví dụ: すてきですね。 (Đẹp quá nhỉ!)"
+      ]
+    }
+  },
+  {
+    "id": "congratulations",
+    "kanji": "おめでとうございます",
+    "hiragana": "おめでとうございます",
+    "en": "congratulations",
+    "vi": "chúc mừng",
+    "type": "other",
+    "explanation": {
+      "content": [
+        "Câu chúc mừng",
+        "Ví dụ: お誕生日おめでとうございます。 (Chúc mừng sinh nhật!)"
+      ]
+    }
+  },
+  {
+    "id": "happyBirthday",
+    "kanji": "お誕生日おめでとうございます",
+    "hiragana": "おたんじょうびおめでとうございます",
+    "en": "happy birthday",
+    "vi": "chúc mừng sinh nhật",
+    "type": "other",
+    "explanation": {
+      "content": [
+        "Câu chúc mừng sinh nhật",
+        "Ví dụ: お誕生日おめでとうございます。 (Chúc mừng sinh nhật!)"
+      ]
+    }
+  },
+  {
+    "id": "happyNewYear",
+    "kanji": "新年あけましておめでとうございます",
+    "hiragana": "しんねんあけましておめでとうございます",
+    "en": "happy new year",
+    "vi": "chúc mừng năm mới",
+    "type": "other",
+    "explanation": {
+      "content": [
+        "Câu chúc mừng năm mới",
+        "Ví dụ: 新年あけましておめでとうございます。 (Chúc mừng năm mới!)"
+      ]
+    }
+  },
+  {
+    "id": "wow",
+    "kanji": "わあ",
+    "hiragana": "わあ",
+    "en": "wow",
+    "vi": "ái chà, Ủa (biểu hiện sự ngạc nhiên)",
+    "type": "other",
+    "explanation": {
+      "content": [
+        "Thán từ biểu hiện sự ngạc nhiên",
+        "Ví dụ: わあ、きれいですね。 (Ồ, đẹp quá nhỉ!)"
+      ]
+    }
+  },
+  {
+    "id": "excuseMe",
+    "kanji": "ごめんください",
+    "hiragana": "ごめんください",
+    "en": "excuse me",
+    "vi": "xin lỗi, cho hỏi có ai ở nhà không",
+    "type": "other",
+    "explanation": {
+      "content": [
+        "Câu nói khi đến nhà người khác",
+        "Ví dụ: ごめんください。 (Xin lỗi, cho hỏi có ai ở nhà không?)"
+      ]
+    }
+  },
+  {
+    "id": "welcome",
+    "kanji": "いらっしゃい",
+    "hiragana": "いらっしゃい",
+    "en": "welcome",
+    "vi": "xin chào đón bạn",
+    "type": "other",
+    "explanation": {
+      "content": [
+        "Câu chào đón khách",
+        "Ví dụ: いらっしゃい。 (Xin chào đón bạn!)"
+      ]
+    }
+  },
+  {
+    "id": "pleaseComeIn",
+    "kanji": "どうぞおあがりください",
+    "hiragana": "どうぞおあがりください",
+    "en": "please come in",
+    "vi": "mời bạn vào",
+    "type": "other",
+    "explanation": {
+      "content": [
+        "Câu mời khách vào nhà",
+        "Ví dụ: どうぞおあがりください。 (Mời bạn vào!)"
+      ]
+    }
+  },
+  {
+    "id": "excuseMePolite",
+    "kanji": "失礼します",
+    "hiragana": "しつれいします",
+    "en": "excuse me",
+    "vi": "xin lỗi, xin phép, làm phiền anh",
+    "type": "other",
+    "explanation": {
+      "content": [
+        "Câu nói lịch sự khi vào phòng hoặc rời đi",
+        "Ví dụ: 失礼します。 (Xin lỗi, xin phép.)"
+      ]
+    }
+  },
+  {
+    "id": "howAbout",
+    "kanji": "いかがですか",
+    "hiragana": "いかがですか",
+    "en": "how about",
+    "vi": "bạn có dùng ~ không",
+    "type": "other",
+    "explanation": {
+      "content": [
+        "Câu hỏi lịch sự khi mời người khác",
+        "Ví dụ: コーヒーはいかがですか。 (Bạn có dùng cà phê không?)"
+      ]
+    }
+  },
+  {
+    "id": "thankYouForTheMeal",
+    "kanji": "いただきます",
+    "hiragana": "いただきます",
+    "en": "thank you for the meal",
+    "vi": "xin mời (nói khi bắt đầu ăn, uống)",
+    "type": "other",
+    "explanation": {
+      "content": [
+        "Câu nói trước khi bắt đầu ăn",
+        "Ví dụ: いただきます。 (Xin mời, cảm ơn vì bữa ăn.)"
+      ]
+    }
+  },
+  {
+    "id": "travel",
+    "kanji": "旅行",
+    "hiragana": "りょこう",
+    "en": "travel",
+    "vi": "du lịch",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ du lịch",
+        "Ví dụ: 旅行に行きます。 (Đi du lịch.)"
+      ]
+    }
+  },
+  {
+    "id": "souvenir",
+    "kanji": "お土産",
+    "hiragana": "おみやげ",
+    "en": "souvenir",
+    "vi": "đồ lưu niệm",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ đồ lưu niệm, có tiền tố お (lịch sự)",
+        "Ví dụ: お土産を買います。 (Mua đồ lưu niệm.)"
+      ]
+    }
+  },
+  {
+    "id": "europe",
+    "kanji": "ヨーロッパ",
+    "hiragana": "ヨーロッパ",
+    "en": "Europe",
+    "vi": "Châu Âu",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ Châu Âu (từ mượn)",
+        "Ví dụ: ヨーロッパへ旅行します。 (Du lịch Châu Âu.)"
+      ]
+    }
+  },
+  {
+    "id": "spain",
+    "kanji": "スペイン",
+    "hiragana": "スペイン",
+    "en": "Spain",
+    "vi": "Tây Ban Nha",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ Tây Ban Nha (từ mượn)",
+        "Ví dụ: スペインへ行きます。 (Đi Tây Ban Nha.)"
+      ]
+    }
+  },
+  {
+    "id": "niceShirt",
+    "kanji": "いい[シャツ]ですね",
+    "hiragana": "いい[シャツ]ですね",
+    "en": "nice [shirt]",
+    "vi": "[Áo sơ mi] tốt/đẹp quá nhỉ",
+    "type": "other",
+    "explanation": {
+      "content": [
+        "Câu khen ngợi",
+        "Ví dụ: いいシャツですね。 (Áo sơ mi đẹp quá nhỉ!)"
+      ]
+    }
+  }
+]

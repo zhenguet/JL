@@ -1,1 +1,46 @@
-﻿[]
+﻿[
+  {
+    "id": "mae-ni",
+    "title": "前に - Trước khi",
+    "description": "前に dùng để chỉ thời gian trước khi làm việc gì đó. Động từ đứng trước 前に ở thể từ điển.",
+    "structure": "Động từ (thể từ điển) + 前に",
+    "examples": [
+      {
+        "japanese": "食事をする前に手を洗います。",
+        "romaji": "Shokuji o suru mae ni te o araimasu.",
+        "vietnamese": "Rửa tay trước khi ăn."
+      },
+      {
+        "japanese": "寝る前に本を読みます。",
+        "romaji": "Neru mae ni hon o yomimasu.",
+        "vietnamese": "Đọc sách trước khi ngủ."
+      }
+    ],
+    "notes": [
+      "前に dùng với động từ thể từ điển",
+      "Có thể dùng với danh từ: 食事の前に"
+    ]
+  },
+  {
+    "id": "ato-ni",
+    "title": "後に - Sau khi",
+    "description": "後に dùng để chỉ thời gian sau khi làm việc gì đó. Động từ đứng trước 後に ở thể た.",
+    "structure": "Động từ (thể た) + 後に",
+    "examples": [
+      {
+        "japanese": "食事をした後に歯を磨きます。",
+        "romaji": "Shokuji o shita ato ni ha o migakimasu.",
+        "vietnamese": "Đánh răng sau khi ăn."
+      },
+      {
+        "japanese": "勉強した後にテレビを見ます。",
+        "romaji": "Benkyou shita ato ni terebi o mimasu.",
+        "vietnamese": "Xem TV sau khi học."
+      }
+    ],
+    "notes": [
+      "後に dùng với động từ thể た",
+      "Có thể dùng với danh từ: 食事の後に"
+    ]
+  }
+]

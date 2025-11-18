@@ -1,1 +1,57 @@
-﻿[]
+﻿[
+  {
+    "id": "arimasu-imasu",
+    "title": "あります・います - Có",
+    "description": "あります dùng cho đồ vật, sự việc. います dùng cho người, động vật. Cả hai đều dùng với trợ từ に để chỉ vị trí.",
+    "structure": "Danh từ (vị trí) + に + Danh từ + が + あります/います",
+    "examples": [
+      {
+        "japanese": "机の上に本があります。",
+        "romaji": "Tsukue no ue ni hon ga arimasu.",
+        "vietnamese": "Có sách trên bàn."
+      },
+      {
+        "japanese": "教室に学生がいます。",
+        "romaji": "Kyoushitsu ni gakusei ga imasu.",
+        "vietnamese": "Có học sinh trong lớp học."
+      },
+      {
+        "japanese": "公園に猫がいます。",
+        "romaji": "Kouen ni neko ga imasu.",
+        "vietnamese": "Có mèo trong công viên."
+      }
+    ],
+    "notes": [
+      "あります: dùng cho đồ vật, sự việc",
+      "います: dùng cho người, động vật",
+      "に chỉ vị trí, が chỉ chủ ngữ"
+    ]
+  },
+  {
+    "id": "no-particle-location",
+    "title": "の - Chỉ vị trí",
+    "description": "の dùng để nối danh từ chỉ vị trí với danh từ khác, tạo thành cụm từ chỉ vị trí.",
+    "structure": "Danh từ + の + Danh từ (vị trí)",
+    "examples": [
+      {
+        "japanese": "机の上に本があります。",
+        "romaji": "Tsukue no ue ni hon ga arimasu.",
+        "vietnamese": "Có sách trên bàn."
+      },
+      {
+        "japanese": "箱の中に猫がいます。",
+        "romaji": "Hako no naka ni neko ga imasu.",
+        "vietnamese": "Có mèo trong hộp."
+      },
+      {
+        "japanese": "学校の前にバス停があります。",
+        "romaji": "Gakkou no mae ni basutei ga arimasu.",
+        "vietnamese": "Có trạm xe buýt trước trường."
+      }
+    ],
+    "notes": [
+      "の nối danh từ với từ chỉ vị trí",
+      "Các từ chỉ vị trí: 上 (ue - trên), 下 (shita - dưới), 中 (naka - trong), 前 (mae - trước), 後 (ushiro - sau)"
+    ]
+  }
+]

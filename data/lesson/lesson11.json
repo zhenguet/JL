@@ -1,1 +1,310 @@
-﻿[]
+﻿[
+  {
+    "id": "toWant",
+    "kanji": "欲しい",
+    "hiragana": "ほしい",
+    "en": "to want",
+    "vi": "muốn",
+    "type": "adjective",
+    "explanation": {
+      "content": [
+        "Tính từ i (い-adjective), dùng với trợ từ が",
+        "Ví dụ: 新しい車が欲しいです。 (Tôi muốn xe hơi mới.)"
+      ]
+    }
+  },
+  {
+    "id": "toWantToDo",
+    "kanji": "たい",
+    "hiragana": "たい",
+    "en": "to want to do",
+    "vi": "muốn làm",
+    "type": "other",
+    "explanation": {
+      "content": [
+        "Đuôi động từ, thêm vào sau thể ます (bỏ ます)",
+        "Ví dụ: 日本へ行きたいです。 (Tôi muốn đi Nhật Bản.)"
+      ]
+    }
+  },
+  {
+    "id": "toKnow",
+    "kanji": "知ります",
+    "hiragana": "しります",
+    "en": "to know",
+    "vi": "biết",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm I, dùng với trợ từ を",
+        "Ví dụ: その人を知ります。 (Biết người đó.)"
+      ]
+    }
+  },
+  {
+    "id": "toUnderstand",
+    "kanji": "分かります",
+    "hiragana": "わかります",
+    "en": "to understand",
+    "vi": "hiểu",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm I, dùng với trợ từ が",
+        "Ví dụ: 日本語が分かります。 (Hiểu tiếng Nhật.)"
+      ]
+    }
+  },
+  {
+    "id": "toCan",
+    "kanji": "できます",
+    "hiragana": "できます",
+    "en": "can, to be able to",
+    "vi": "có thể",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm III, dùng với trợ từ が",
+        "Ví dụ: 日本語ができます。 (Có thể nói tiếng Nhật.)"
+      ]
+    }
+  },
+  {
+    "id": "toPlay",
+    "kanji": "遊びます",
+    "hiragana": "あそびます",
+    "en": "to play",
+    "vi": "chơi",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm I, dùng với trợ từ で",
+        "Ví dụ: 公園で遊びます。 (Chơi ở công viên.)"
+      ]
+    }
+  },
+  {
+    "id": "toSwim",
+    "kanji": "泳ぎます",
+    "hiragana": "およぎます",
+    "en": "to swim",
+    "vi": "bơi",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm I, dùng với trợ từ で",
+        "Ví dụ: プールで泳ぎます。 (Bơi ở bể bơi.)"
+      ]
+    }
+  },
+  {
+    "id": "toSing",
+    "kanji": "歌います",
+    "hiragana": "うたいます",
+    "en": "to sing",
+    "vi": "hát",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm I, dùng với trợ từ を",
+        "Ví dụ: 歌を歌います。 (Hát bài hát.)"
+      ]
+    }
+  },
+  {
+    "id": "toDance",
+    "kanji": "踊ります",
+    "hiragana": "おどります",
+    "en": "to dance",
+    "vi": "nhảy",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm I, dùng với trợ từ を",
+        "Ví dụ: ダンスを踊ります。 (Nhảy.)"
+      ]
+    }
+  },
+  {
+    "id": "toRun",
+    "kanji": "走ります",
+    "hiragana": "はしります",
+    "en": "to run",
+    "vi": "chạy",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm I, dùng với trợ từ を",
+        "Ví dụ: 公園を走ります。 (Chạy trong công viên.)"
+      ]
+    }
+  },
+  {
+    "id": "toStop",
+    "kanji": "止まります",
+    "hiragana": "とまります",
+    "en": "to stop",
+    "vi": "dừng",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm I, dùng với trợ từ に",
+        "Ví dụ: 駅で止まります。 (Dừng ở ga.)"
+      ]
+    }
+  },
+  {
+    "id": "toTurn",
+    "kanji": "曲がります",
+    "hiragana": "まがります",
+    "en": "to turn",
+    "vi": "rẽ",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm I, dùng với trợ từ を",
+        "Ví dụ: 右に曲がります。 (Rẽ phải.)"
+      ]
+    }
+  },
+  {
+    "id": "toCross",
+    "kanji": "渡ります",
+    "hiragana": "わたります",
+    "en": "to cross",
+    "vi": "băng qua",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm I, dùng với trợ từ を",
+        "Ví dụ: 橋を渡ります。 (Băng qua cầu.)"
+      ]
+    }
+  },
+  {
+    "id": "along",
+    "kanji": "沿って",
+    "hiragana": "そって",
+    "en": "along",
+    "vi": "dọc theo",
+    "type": "other",
+    "explanation": {
+      "content": [
+        "Trợ từ chỉ hướng",
+        "Ví dụ: 川に沿って歩きます。 (Đi bộ dọc theo sông.)"
+      ]
+    }
+  },
+  {
+    "id": "straight",
+    "kanji": "まっすぐ",
+    "hiragana": "まっすぐ",
+    "en": "straight",
+    "vi": "thẳng",
+    "type": "other",
+    "explanation": {
+      "content": [
+        "Phó từ chỉ hướng",
+        "Ví dụ: まっすぐ行きます。 (Đi thẳng.)"
+      ]
+    }
+  },
+  {
+    "id": "right",
+    "kanji": "右",
+    "hiragana": "みぎ",
+    "en": "right",
+    "vi": "bên phải",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ bên phải",
+        "Ví dụ: 右に曲がります。 (Rẽ phải.)"
+      ]
+    }
+  },
+  {
+    "id": "left",
+    "kanji": "左",
+    "hiragana": "ひだり",
+    "en": "left",
+    "vi": "bên trái",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ bên trái",
+        "Ví dụ: 左に曲がります。 (Rẽ trái.)"
+      ]
+    }
+  },
+  {
+    "id": "corner",
+    "kanji": "角",
+    "hiragana": "かど",
+    "en": "corner",
+    "vi": "góc",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ góc",
+        "Ví dụ: 角を曲がります。 (Rẽ ở góc.)"
+      ]
+    }
+  },
+  {
+    "id": "signal",
+    "kanji": "信号",
+    "hiragana": "しんごう",
+    "en": "traffic light, signal",
+    "vi": "đèn giao thông",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ đèn giao thông",
+        "Ví dụ: 信号で止まります。 (Dừng ở đèn giao thông.)"
+      ]
+    }
+  },
+  {
+    "id": "first",
+    "kanji": "最初",
+    "hiragana": "さいしょ",
+    "en": "first",
+    "vi": "đầu tiên",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ đầu tiên",
+        "Ví dụ: 最初に手を洗います。 (Rửa tay đầu tiên.)"
+      ]
+    }
+  },
+  {
+    "id": "next",
+    "kanji": "次",
+    "hiragana": "つぎ",
+    "en": "next",
+    "vi": "tiếp theo",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ tiếp theo",
+        "Ví dụ: 次に歯を磨きます。 (Tiếp theo đánh răng.)"
+      ]
+    }
+  },
+  {
+    "id": "finally",
+    "kanji": "最後",
+    "hiragana": "さいご",
+    "en": "finally, last",
+    "vi": "cuối cùng",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ cuối cùng",
+        "Ví dụ: 最後に寝ます。 (Cuối cùng đi ngủ.)"
+      ]
+    }
+  }
+]

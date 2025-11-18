@@ -1,1 +1,44 @@
-﻿[]
+﻿[
+  {
+    "id": "toWant",
+    "kanji": "欲しい",
+    "hiragana": "ほしい",
+    "en": "to want",
+    "vi": "muốn",
+    "type": "adjective",
+    "explanation": {
+      "content": [
+        "Tính từ i (い-adjective), dùng với trợ từ が",
+        "Ví dụ: 新しい車が欲しいです。 (Tôi muốn xe hơi mới.)"
+      ]
+    }
+  },
+  {
+    "id": "toNeed",
+    "kanji": "要ります",
+    "hiragana": "いります",
+    "en": "to need",
+    "vi": "cần",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm I, dùng với trợ từ が",
+        "Ví dụ: お金が要ります。 (Cần tiền.)"
+      ]
+    }
+  },
+  {
+    "id": "toTakeTime",
+    "kanji": "かかります",
+    "hiragana": "かかります",
+    "en": "to take (time, money)",
+    "vi": "mất, tốn",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm I, dùng với trợ từ が",
+        "Ví dụ: 一時間かかります。 (Mất một giờ.)"
+      ]
+    }
+  }
+]

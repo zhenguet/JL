@@ -1,1 +1,54 @@
-﻿[]
+﻿[
+  {
+    "id": "tai-form",
+    "title": "たい - Muốn làm",
+    "description": "たい thêm vào sau động từ (bỏ ます) để diễn tả mong muốn làm gì đó. Dùng với trợ từ が thay vì を.",
+    "structure": "Động từ (bỏ ます) + たいです",
+    "examples": [
+      {
+        "japanese": "日本へ行きたいです。",
+        "romaji": "Nihon e ikitai desu.",
+        "vietnamese": "Tôi muốn đi Nhật Bản."
+      },
+      {
+        "japanese": "コーヒーが飲みたいです。",
+        "romaji": "Koohii ga nomitai desu.",
+        "vietnamese": "Tôi muốn uống cà phê."
+      },
+      {
+        "japanese": "映画が見たいです。",
+        "romaji": "Eiga ga mitai desu.",
+        "vietnamese": "Tôi muốn xem phim."
+      }
+    ],
+    "notes": [
+      "たい thêm vào sau động từ (bỏ ます)",
+      "Dùng が thay vì を với たい",
+      "Dạng phủ định: たくないです",
+      "Dạng quá khứ: たかったです"
+    ]
+  },
+  {
+    "id": "hoshii",
+    "title": "欲しい - Muốn có",
+    "description": "欲しい là tính từ i, dùng để diễn tả mong muốn có cái gì đó. Dùng với trợ từ が.",
+    "structure": "Danh từ + が + 欲しいです",
+    "examples": [
+      {
+        "japanese": "新しい車が欲しいです。",
+        "romaji": "Atarashii kuruma ga hoshii desu.",
+        "vietnamese": "Tôi muốn xe hơi mới."
+      },
+      {
+        "japanese": "お金が欲しいです。",
+        "romaji": "Okane ga hoshii desu.",
+        "vietnamese": "Tôi muốn tiền."
+      }
+    ],
+    "notes": [
+      "欲しい là tính từ i, dùng với が",
+      "Dạng phủ định: 欲しくないです",
+      "Dạng quá khứ: 欲しかったです"
+    ]
+  }
+]
