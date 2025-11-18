@@ -4,12 +4,26 @@
     "kanji": "私",
     "hiragana": "わたし",
     "en": "I",
-    "vi": "tôi",
+    "vi": "tôi (ngôi thứ nhất số ít)",
     "type": "noun",
     "explanation": {
       "content": [
-        "Đại từ nhân xưng ngôi thứ nhất",
+        "Đại từ nhân xưng ngôi thứ nhất số ít",
         "Ví dụ: 私は学生です。 (Tôi là học sinh.)"
+      ]
+    }
+  },
+  {
+    "id": "we",
+    "kanji": "私たち",
+    "hiragana": "わたしたち",
+    "en": "we",
+    "vi": "chúng tôi, chúng ta (ngôi thứ nhất số nhiều)",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Đại từ nhân xưng ngôi thứ nhất số nhiều",
+        "Ví dụ: 私たちは学生です。 (Chúng tôi là học sinh.)"
       ]
     }
   },
@@ -18,13 +32,742 @@
     "kanji": "あなた",
     "hiragana": "あなた",
     "en": "you",
-    "vi": "bạn",
+    "vi": "bạn, ông, bà, anh, chị, cô, chú (ngôi thứ hai số ít)",
     "type": "noun",
     "explanation": {
       "content": [
-        "Đại từ nhân xưng ngôi thứ hai",
+        "Đại từ nhân xưng ngôi thứ hai số ít",
         "Ví dụ: あなたは日本人ですか？ (Bạn có phải người Nhật không?)",
-        "Lưu ý: Trong tiếng Nhật, thường bỏ qua あなた khi đã rõ ngữ cảnh"
+        "Lưu ý: Trong tiếng Nhật, thường tránh dùng あなた trực tiếp, thay vào đó dùng tên người kèm さん hoặc chức danh"
+      ]
+    }
+  },
+  {
+    "id": "youPlural",
+    "kanji": "あなたがた",
+    "hiragana": "あなたがた",
+    "en": "you (plural)",
+    "vi": "các bạn, các anh, các chị (ngôi thứ hai số nhiều)",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Đại từ nhân xưng ngôi thứ hai số nhiều",
+        "Ví dụ: あなたがたは学生ですか？ (Các bạn là học sinh phải không?)"
+      ]
+    }
+  },
+  {
+    "id": "person",
+    "kanji": "人",
+    "hiragana": "ひと",
+    "en": "person",
+    "vi": "người",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ người",
+        "Ví dụ: あの人はだれですか。 (Người kia là ai?)"
+      ]
+    }
+  },
+  {
+    "id": "thatPerson",
+    "kanji": "あの人",
+    "hiragana": "あのひと",
+    "en": "that person",
+    "vi": "người ấy, người kia",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ người ở xa",
+        "Ví dụ: あの人は先生です。 (Người kia là giáo viên.)"
+      ]
+    }
+  },
+  {
+    "id": "personPolite",
+    "kanji": "方",
+    "hiragana": "かた",
+    "en": "person (polite)",
+    "vi": "vị (cách nói lịch sự của 人)",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ người (cách nói lịch sự)",
+        "Ví dụ: あの方はどなたですか。 (Vị kia là ai?)"
+      ]
+    }
+  },
+  {
+    "id": "thatPersonPolite",
+    "kanji": "あの方",
+    "hiragana": "あのかた",
+    "en": "that person (polite)",
+    "vi": "vị đó, vị kia (cách nói lịch sự của あの人)",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ người ở xa (cách nói lịch sự)",
+        "Ví dụ: あの方は先生です。 (Vị kia là giáo viên.)"
+      ]
+    }
+  },
+  {
+    "id": "everyone",
+    "kanji": "皆さん",
+    "hiragana": "みなさん",
+    "en": "everyone",
+    "vi": "các bạn, các anh, các chị, mọi người",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ mọi người (cách nói lịch sự)",
+        "Ví dụ: 皆さん、こんにちは。 (Xin chào mọi người.)"
+      ]
+    }
+  },
+  {
+    "id": "san",
+    "kanji": "～さん",
+    "hiragana": "～さん",
+    "en": "Mr./Ms. (suffix)",
+    "vi": "ông ~, bà ~, anh ~, chị ~ (đi kèm theo tên, dùng để gọi tên người khác một cách lịch sự)",
+    "type": "other",
+    "explanation": {
+      "content": [
+        "Hậu tố lịch sự đi kèm tên",
+        "Ví dụ: Maiさん (cô/chị/bạn Mai)"
+      ]
+    }
+  },
+  {
+    "id": "chan",
+    "kanji": "～ちゃん",
+    "hiragana": "～ちゃん",
+    "en": "suffix for girls",
+    "vi": "～ちゃん (đi kèm theo tên, dùng để gọi các bé gái thay cho さん)",
+    "type": "other",
+    "explanation": {
+      "content": [
+        "Hậu tố thân mật dùng cho bé gái",
+        "Ví dụ: Linhちゃん (Bé Linh)"
+      ]
+    }
+  },
+  {
+    "id": "kun",
+    "kanji": "～くん",
+    "hiragana": "～くん",
+    "en": "suffix for boys",
+    "vi": "～くん (đi kèm theo tên, dùng để gọi các bé trai thay cho さん)",
+    "type": "other",
+    "explanation": {
+      "content": [
+        "Hậu tố thân mật dùng cho bé trai",
+        "Ví dụ: しんくん (Bé Shin)"
+      ]
+    }
+  },
+  {
+    "id": "jin",
+    "kanji": "～人",
+    "hiragana": "～じん",
+    "en": "person from ~ (suffix)",
+    "vi": "～じん (đi kèm theo tên nước) người nước ~",
+    "type": "other",
+    "explanation": {
+      "content": [
+        "Hậu tố chỉ người đến từ quốc gia",
+        "Ví dụ: ベトナム人 (Người Việt Nam)"
+      ]
+    }
+  },
+  {
+    "id": "teacher",
+    "kanji": "先生",
+    "hiragana": "せんせい",
+    "en": "teacher",
+    "vi": "thầy giáo (cô giáo), giáo viên (không dùng để chỉ nghề nghiệp, đi kèm với tên để gọi giáo viên)",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ giáo viên, thầy cô",
+        "Ví dụ: Nam先生 (Thầy Nam)",
+        "Lưu ý: 先生 cũng dùng để gọi bác sĩ, luật sư"
+      ]
+    }
+  },
+  {
+    "id": "teacherProfession",
+    "kanji": "教師",
+    "hiragana": "きょうし",
+    "en": "teacher (profession)",
+    "vi": "nhà giáo, giáo viên (dùng để chỉ nghề nghiệp, dùng khi giới thiệu nghề nghiệp của mình)",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ nghề nghiệp giáo viên",
+        "Ví dụ: 私は教師です。 (Tôi làm nghề giáo viên.)"
+      ]
+    }
+  },
+  {
+    "id": "student",
+    "kanji": "学生",
+    "hiragana": "がくせい",
+    "en": "student",
+    "vi": "học sinh, sinh viên (nói chung)",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ học sinh, sinh viên",
+        "Ví dụ: 私は学生です。 (Tôi là học sinh.)"
+      ]
+    }
+  },
+  {
+    "id": "companyEmployee",
+    "kanji": "会社員",
+    "hiragana": "かいしゃいん",
+    "en": "company employee",
+    "vi": "nhân viên công ty nói chung (dùng để chỉ nghề nghiệp)",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ nhân viên công ty (nghề nghiệp)",
+        "Ví dụ: 私は会社員です。 (Tôi là nhân viên công ty.)"
+      ]
+    }
+  },
+  {
+    "id": "employee",
+    "kanji": "社員",
+    "hiragana": "しゃいん",
+    "en": "employee",
+    "vi": "nhân viên của một công ty cụ thể",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ nhân viên của công ty cụ thể",
+        "Ví dụ: FPTの社員 (Nhân viên của FPT)"
+      ]
+    }
+  },
+  {
+    "id": "bankEmployee",
+    "kanji": "銀行員",
+    "hiragana": "ぎんこういん",
+    "en": "bank employee",
+    "vi": "nhân viên ngân hàng (nghề nghiệp)",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ nhân viên ngân hàng",
+        "Ví dụ: 私は銀行員です。 (Tôi là nhân viên ngân hàng.)"
+      ]
+    }
+  },
+  {
+    "id": "doctor",
+    "kanji": "医者",
+    "hiragana": "いしゃ",
+    "en": "doctor",
+    "vi": "bác sỹ (nghề nghiệp)",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ bác sỹ",
+        "Ví dụ: 私は医者です。 (Tôi là bác sỹ.)"
+      ]
+    }
+  },
+  {
+    "id": "researcher",
+    "kanji": "研究者",
+    "hiragana": "けんきゅうしゃ",
+    "en": "researcher",
+    "vi": "nhà nghiên cứu (nghề nghiệp)",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ nhà nghiên cứu",
+        "Ví dụ: 私は研究者です。 (Tôi là nhà nghiên cứu.)"
+      ]
+    }
+  },
+  {
+    "id": "engineer",
+    "kanji": "技術者",
+    "hiragana": "ぎじゅつしゃ",
+    "en": "engineer",
+    "vi": "kỹ sư (エンジニア)",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ kỹ sư",
+        "Ví dụ: 私は技術者です。 (Tôi là kỹ sư.)"
+      ]
+    }
+  },
+  {
+    "id": "trainee",
+    "kanji": "研修生",
+    "hiragana": "けんしゅうせい",
+    "en": "trainee",
+    "vi": "tu nghiệp sinh",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ tu nghiệp sinh",
+        "Ví dụ: 私は研修生です。 (Tôi là tu nghiệp sinh.)"
+      ]
+    }
+  },
+  {
+    "id": "university",
+    "kanji": "大学",
+    "hiragana": "だいがく",
+    "en": "university",
+    "vi": "đại học",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ đại học",
+        "Ví dụ: 私は大学生です。 (Tôi là sinh viên đại học.)"
+      ]
+    }
+  },
+  {
+    "id": "hospital",
+    "kanji": "病院",
+    "hiragana": "びょういん",
+    "en": "hospital",
+    "vi": "bệnh viện",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ bệnh viện",
+        "Ví dụ: 病院へ行きます。 (Đi bệnh viện.)"
+      ]
+    }
+  },
+  {
+    "id": "specialty",
+    "kanji": "専門",
+    "hiragana": "せんもん",
+    "en": "specialty",
+    "vi": "chuyên môn",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ chuyên môn",
+        "Ví dụ: 私の専門は日本語です。 (Chuyên môn của tôi là tiếng Nhật.)"
+      ]
+    }
+  },
+  {
+    "id": "electricity",
+    "kanji": "電気",
+    "hiragana": "でんき",
+    "en": "electricity",
+    "vi": "điện, điện lực",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ điện",
+        "Ví dụ: 電気をつけます。 (Bật điện.)"
+      ]
+    }
+  },
+  {
+    "id": "who",
+    "kanji": "だれ",
+    "hiragana": "だれ",
+    "en": "who",
+    "vi": "ai",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Từ để hỏi \"ai\"",
+        "Ví dụ: あの人はだれですか。 (Người kia là ai?)"
+      ]
+    }
+  },
+  {
+    "id": "whoPolite",
+    "kanji": "どなた",
+    "hiragana": "どなた",
+    "en": "who (polite)",
+    "vi": "là người nào (cách nói lịch sự của だれ)",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Từ để hỏi \"ai\" (cách nói lịch sự)",
+        "Ví dụ: あの方はどなたですか。 (Vị kia là người nào?)"
+      ]
+    }
+  },
+  {
+    "id": "age",
+    "kanji": "～歳",
+    "hiragana": "～さい",
+    "en": "years old",
+    "vi": "～ tuổi",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ tuổi",
+        "Ví dụ: 私は20歳です。 (Tôi 20 tuổi.)"
+      ]
+    }
+  },
+  {
+    "id": "howOld",
+    "kanji": "何歳",
+    "hiragana": "なんさい",
+    "en": "how old",
+    "vi": "mấy tuổi",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Từ để hỏi tuổi",
+        "Ví dụ: あなたは何歳ですか。 (Bạn mấy tuổi?)"
+      ]
+    }
+  },
+  {
+    "id": "howOldPolite",
+    "kanji": "おいくつ",
+    "hiragana": "おいくつ",
+    "en": "how old (polite)",
+    "vi": "bao nhiêu tuổi (hỏi lịch sự hơn 何歳)",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Từ để hỏi tuổi (cách nói lịch sự)",
+        "Ví dụ: おいくつですか。 (Bao nhiêu tuổi?)"
+      ]
+    }
+  },
+  {
+    "id": "yes",
+    "kanji": "はい",
+    "hiragana": "はい",
+    "en": "yes",
+    "vi": "vâng, dạ, ừ",
+    "type": "other",
+    "explanation": {
+      "content": [
+        "Từ đồng ý, xác nhận",
+        "Ví dụ: はい、そうです。 (Vâng, đúng vậy.)"
+      ]
+    }
+  },
+  {
+    "id": "no",
+    "kanji": "いいえ",
+    "hiragana": "いいえ",
+    "en": "no",
+    "vi": "không",
+    "type": "other",
+    "explanation": {
+      "content": [
+        "Từ phủ định",
+        "Ví dụ: いいえ、違います。 (Không, không phải.)"
+      ]
+    }
+  },
+  {
+    "id": "conversation",
+    "kanji": "会話",
+    "hiragana": "かいわ",
+    "en": "conversation",
+    "vi": "hội thoại",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ hội thoại",
+        "Ví dụ: 日本語の会話を練習します。 (Luyện tập hội thoại tiếng Nhật.)"
+      ]
+    }
+  },
+  {
+    "id": "excuseMe",
+    "kanji": "失礼ですが",
+    "hiragana": "しつれいですが",
+    "en": "excuse me",
+    "vi": "xin lỗi, tôi xin thất lễ",
+    "type": "other",
+    "explanation": {
+      "content": [
+        "Câu nói lịch sự khi bắt đầu hỏi",
+        "Ví dụ: 失礼ですが、お名前は？ (Xin lỗi, tên bạn là gì?)"
+      ]
+    }
+  },
+  {
+    "id": "whatIsYourName",
+    "kanji": "おなまえは？",
+    "hiragana": "おなまえは？",
+    "en": "what is your name?",
+    "vi": "tên bạn là gì?",
+    "type": "other",
+    "explanation": {
+      "content": [
+        "Câu hỏi tên",
+        "Ví dụ: おなまえは？ (Tên bạn là gì?)"
+      ]
+    }
+  },
+  {
+    "id": "niceToMeetYou",
+    "kanji": "初めまして",
+    "hiragana": "はじめまして",
+    "en": "nice to meet you",
+    "vi": "xin chào (dùng khi lần đầu tiên gặp mặt)",
+    "type": "other",
+    "explanation": {
+      "content": [
+        "Câu chào khi lần đầu gặp mặt",
+        "Ví dụ: 初めまして。 (Xin chào.)"
+      ]
+    }
+  },
+  {
+    "id": "pleaseBeKind",
+    "kanji": "どうぞよろしく[お願いします]",
+    "hiragana": "どうぞよろしく[おねがいします]",
+    "en": "please be kind to me",
+    "vi": "từ nay mong anh giúp đỡ",
+    "type": "other",
+    "explanation": {
+      "content": [
+        "Câu nói sau khi giới thiệu bản thân",
+        "Ví dụ: どうぞよろしくお願いします。 (Từ nay mong anh giúp đỡ.)"
+      ]
+    }
+  },
+  {
+    "id": "thisIs",
+    "kanji": "こちらは～さんです",
+    "hiragana": "こちらは～さんです",
+    "en": "this is ~",
+    "vi": "đây là anh (chị)..... (dùng khi giới thiệu người khác)",
+    "type": "other",
+    "explanation": {
+      "content": [
+        "Câu giới thiệu người khác",
+        "Ví dụ: こちらは田中さんです。 (Đây là anh Tanaka.)"
+      ]
+    }
+  },
+  {
+    "id": "comeFrom",
+    "kanji": "～から来ました",
+    "hiragana": "～からきました",
+    "en": "I come from ~",
+    "vi": "(tôi) đến từ ……",
+    "type": "other",
+    "explanation": {
+      "content": [
+        "Câu nói về nơi đến",
+        "Ví dụ: 日本から来ました。 (Tôi đến từ Nhật Bản.)"
+      ]
+    }
+  },
+  {
+    "id": "america",
+    "kanji": "アメリカ",
+    "hiragana": "アメリカ",
+    "en": "America",
+    "vi": "Mỹ",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ nước Mỹ (từ mượn)",
+        "Ví dụ: アメリカから来ました。 (Tôi đến từ Mỹ.)"
+      ]
+    }
+  },
+  {
+    "id": "uk",
+    "kanji": "イギリス",
+    "hiragana": "イギリス",
+    "en": "UK",
+    "vi": "Anh",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ nước Anh (từ mượn)",
+        "Ví dụ: イギリスから来ました。 (Tôi đến từ Anh.)"
+      ]
+    }
+  },
+  {
+    "id": "india",
+    "kanji": "インド",
+    "hiragana": "インド",
+    "en": "India",
+    "vi": "Ấn Độ",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ nước Ấn Độ (từ mượn)",
+        "Ví dụ: インドから来ました。 (Tôi đến từ Ấn Độ.)"
+      ]
+    }
+  },
+  {
+    "id": "indonesia",
+    "kanji": "インドネシア",
+    "hiragana": "インドネシア",
+    "en": "Indonesia",
+    "vi": "Indonesia",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ nước Indonesia (từ mượn)",
+        "Ví dụ: インドネシアから来ました。 (Tôi đến từ Indonesia.)"
+      ]
+    }
+  },
+  {
+    "id": "malaysia",
+    "kanji": "マレーシア",
+    "hiragana": "マレーシア",
+    "en": "Malaysia",
+    "vi": "Malaysia",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ nước Malaysia (từ mượn)",
+        "Ví dụ: マレーシアから来ました。 (Tôi đến từ Malaysia.)"
+      ]
+    }
+  },
+  {
+    "id": "korea",
+    "kanji": "韓国",
+    "hiragana": "かんこく",
+    "en": "Korea",
+    "vi": "Hàn Quốc",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ nước Hàn Quốc",
+        "Ví dụ: 韓国から来ました。 (Tôi đến từ Hàn Quốc.)"
+      ]
+    }
+  },
+  {
+    "id": "thailand",
+    "kanji": "タイ",
+    "hiragana": "タイ",
+    "en": "Thailand",
+    "vi": "Thái",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ nước Thái Lan (từ mượn)",
+        "Ví dụ: タイから来ました。 (Tôi đến từ Thái Lan.)"
+      ]
+    }
+  },
+  {
+    "id": "china",
+    "kanji": "中国",
+    "hiragana": "ちゅうごく",
+    "en": "China",
+    "vi": "Trung Quốc",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ nước Trung Quốc",
+        "Ví dụ: 中国から来ました。 (Tôi đến từ Trung Quốc.)"
+      ]
+    }
+  },
+  {
+    "id": "philippines",
+    "kanji": "フィリピン",
+    "hiragana": "フィリピン",
+    "en": "Philippines",
+    "vi": "Philippines",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ nước Philippines (từ mượn)",
+        "Ví dụ: フィリピンから来ました。 (Tôi đến từ Philippines.)"
+      ]
+    }
+  },
+  {
+    "id": "germany",
+    "kanji": "ドイツ",
+    "hiragana": "ドイツ",
+    "en": "Germany",
+    "vi": "Đức",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ nước Đức (từ mượn)",
+        "Ví dụ: ドイツから来ました。 (Tôi đến từ Đức.)"
+      ]
+    }
+  },
+  {
+    "id": "japan",
+    "kanji": "日本",
+    "hiragana": "にほん",
+    "en": "Japan",
+    "vi": "Nhật Bản",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ nước Nhật Bản",
+        "Ví dụ: 日本から来ました。 (Tôi đến từ Nhật Bản.)"
+      ]
+    }
+  },
+  {
+    "id": "france",
+    "kanji": "フランス",
+    "hiragana": "フランス",
+    "en": "France",
+    "vi": "Pháp",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ nước Pháp (từ mượn)",
+        "Ví dụ: フランスから来ました。 (Tôi đến từ Pháp.)"
+      ]
+    }
+  },
+  {
+    "id": "brazil",
+    "kanji": "ブラジル",
+    "hiragana": "ブラジル",
+    "en": "Brazil",
+    "vi": "Brazil",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ nước Brazil (từ mượn)",
+        "Ví dụ: ブラジルから来ました。 (Tôi đến từ Brazil.)"
+      ]
+    }
+  },
+  {
+    "id": "vietnam",
+    "kanji": "ベトナム",
+    "hiragana": "ベトナム",
+    "en": "Vietnam",
+    "vi": "Việt Nam",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ nước Việt Nam (từ mượn)",
+        "Ví dụ: ベトナムから来ました。 (Tôi đến từ Việt Nam.)"
       ]
     }
   },
@@ -155,203 +898,6 @@
     }
   },
   {
-    "id": "student",
-    "kanji": "学生",
-    "hiragana": "がくせい",
-    "en": "student",
-    "vi": "học sinh, sinh viên",
-    "type": "noun",
-    "explanation": {
-      "content": [
-        "Danh từ chỉ học sinh, sinh viên",
-        "Ví dụ: 私は学生です。 (Tôi là học sinh.)"
-      ]
-    }
-  },
-  {
-    "id": "teacher",
-    "kanji": "先生",
-    "hiragana": "せんせい",
-    "en": "teacher",
-    "vi": "giáo viên, thầy cô",
-    "type": "noun",
-    "explanation": {
-      "content": [
-        "Danh từ chỉ giáo viên, thầy cô",
-        "Ví dụ: 田中さんは先生です。 (Anh Tanaka là giáo viên.)",
-        "Lưu ý: 先生 cũng dùng để gọi bác sĩ, luật sư"
-      ]
-    }
-  },
-  {
-    "id": "companyEmployee",
-    "kanji": "会社員",
-    "hiragana": "かいしゃいん",
-    "en": "company employee",
-    "vi": "nhân viên công ty",
-    "type": "noun",
-    "explanation": {
-      "content": [
-        "Danh từ chỉ nhân viên công ty",
-        "Ví dụ: 私は会社員です。 (Tôi là nhân viên công ty.)"
-      ]
-    }
-  },
-  {
-    "id": "japan",
-    "kanji": "日本",
-    "hiragana": "にほん",
-    "en": "Japan",
-    "vi": "Nhật Bản",
-    "type": "noun",
-    "explanation": {
-      "content": [
-        "Danh từ chỉ nước Nhật Bản",
-        "Ví dụ: 私は日本から来ました。 (Tôi đến từ Nhật Bản.)"
-      ]
-    }
-  },
-  {
-    "id": "japanese",
-    "kanji": "日本人",
-    "hiragana": "にほんじん",
-    "en": "Japanese person",
-    "vi": "người Nhật",
-    "type": "noun",
-    "explanation": {
-      "content": [
-        "Danh từ chỉ người Nhật",
-        "Ví dụ: 田中さんは日本人です。 (Anh Tanaka là người Nhật.)"
-      ]
-    }
-  },
-  {
-    "id": "japaneseLanguage",
-    "kanji": "日本語",
-    "hiragana": "にほんご",
-    "en": "Japanese language",
-    "vi": "tiếng Nhật",
-    "type": "noun",
-    "explanation": {
-      "content": [
-        "Danh từ chỉ tiếng Nhật",
-        "Ví dụ: 私は日本語を勉強します。 (Tôi học tiếng Nhật.)"
-      ]
-    }
-  },
-  {
-    "id": "america",
-    "kanji": "アメリカ",
-    "hiragana": "アメリカ",
-    "en": "America",
-    "vi": "Mỹ",
-    "type": "noun",
-    "explanation": {
-      "content": [
-        "Danh từ chỉ nước Mỹ (từ mượn)",
-        "Ví dụ: 私はアメリカから来ました。 (Tôi đến từ Mỹ.)"
-      ]
-    }
-  },
-  {
-    "id": "american",
-    "kanji": "アメリカ人",
-    "hiragana": "アメリカじん",
-    "en": "American",
-    "vi": "người Mỹ",
-    "type": "noun",
-    "explanation": {
-      "content": [
-        "Danh từ chỉ người Mỹ",
-        "Ví dụ: スミスさんはアメリカ人です。 (Anh Smith là người Mỹ.)"
-      ]
-    }
-  },
-  {
-    "id": "korea",
-    "kanji": "韓国",
-    "hiragana": "かんこく",
-    "en": "Korea",
-    "vi": "Hàn Quốc",
-    "type": "noun",
-    "explanation": {
-      "content": [
-        "Danh từ chỉ nước Hàn Quốc",
-        "Ví dụ: 私は韓国から来ました。 (Tôi đến từ Hàn Quốc.)"
-      ]
-    }
-  },
-  {
-    "id": "korean",
-    "kanji": "韓国人",
-    "hiragana": "かんこくじん",
-    "en": "Korean",
-    "vi": "người Hàn Quốc",
-    "type": "noun",
-    "explanation": {
-      "content": [
-        "Danh từ chỉ người Hàn Quốc",
-        "Ví dụ: キムさんは韓国人です。 (Anh Kim là người Hàn Quốc.)"
-      ]
-    }
-  },
-  {
-    "id": "china",
-    "kanji": "中国",
-    "hiragana": "ちゅうごく",
-    "en": "China",
-    "vi": "Trung Quốc",
-    "type": "noun",
-    "explanation": {
-      "content": [
-        "Danh từ chỉ nước Trung Quốc",
-        "Ví dụ: 私は中国から来ました。 (Tôi đến từ Trung Quốc.)"
-      ]
-    }
-  },
-  {
-    "id": "chinese",
-    "kanji": "中国人",
-    "hiragana": "ちゅうごくじん",
-    "en": "Chinese",
-    "vi": "người Trung Quốc",
-    "type": "noun",
-    "explanation": {
-      "content": [
-        "Danh từ chỉ người Trung Quốc",
-        "Ví dụ: 王さんは中国人です。 (Anh Wang là người Trung Quốc.)"
-      ]
-    }
-  },
-  {
-    "id": "vietnam",
-    "kanji": "ベトナム",
-    "hiragana": "ベトナム",
-    "en": "Vietnam",
-    "vi": "Việt Nam",
-    "type": "noun",
-    "explanation": {
-      "content": [
-        "Danh từ chỉ nước Việt Nam (từ mượn)",
-        "Ví dụ: 私はベトナムから来ました。 (Tôi đến từ Việt Nam.)"
-      ]
-    }
-  },
-  {
-    "id": "vietnamese",
-    "kanji": "ベトナム人",
-    "hiragana": "ベトナムじん",
-    "en": "Vietnamese",
-    "vi": "người Việt Nam",
-    "type": "noun",
-    "explanation": {
-      "content": [
-        "Danh từ chỉ người Việt Nam",
-        "Ví dụ: 私はベトナム人です。 (Tôi là người Việt Nam.)"
-      ]
-    }
-  },
-  {
     "id": "toBe",
     "kanji": "です",
     "hiragana": "です",
@@ -378,20 +924,6 @@
         "Từ để hỏi \"cái gì\"",
         "Ví dụ: これは何ですか？ (Đây là cái gì?)",
         "Lưu ý: Đọc là なん khi đứng trước です, なに khi đứng một mình"
-      ]
-    }
-  },
-  {
-    "id": "who",
-    "kanji": "だれ",
-    "hiragana": "だれ",
-    "en": "who",
-    "vi": "ai",
-    "type": "noun",
-    "explanation": {
-      "content": [
-        "Từ để hỏi \"ai\"",
-        "Ví dụ: あの人はだれですか？ (Người kia là ai?)"
       ]
     }
   },
