@@ -1,0 +1,5 @@
+{
+  "/page": "app/page.js",
+  "/lesson/[lessonNumber]/flashcard/page": "app/lesson/[lessonNumber]/flashcard/page.js",
+  "/lesson/[lessonNumber]/vocabulary/page": "app/lesson/[lessonNumber]/vocabulary/page.js"
+}

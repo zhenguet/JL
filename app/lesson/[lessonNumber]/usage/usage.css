@@ -1,0 +1,127 @@
+.usage-container {
+  color: #333;
+}
+
+.usage-container h2 {
+  color: #667eea;
+  margin-bottom: 15px;
+  font-size: 2rem;
+}
+
+.intro-text {
+  color: #666;
+  margin-bottom: 30px;
+  font-size: 1.1rem;
+  line-height: 1.6;
+}
+
+.explanations-list {
+  display: flex;
+  flex-direction: column;
+  gap: 25px;
+}
+
+.explanation-card {
+  background: #f8f9fa;
+  border-radius: 12px;
+  padding: 25px;
+  border-left: 4px solid #667eea;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.explanation-card:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+}
+
+.explanation-header {
+  margin-bottom: 20px;
+  padding-bottom: 15px;
+  border-bottom: 2px solid #e0e0e0;
+}
+
+.word-display {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  flex-wrap: wrap;
+}
+
+.word-kanji {
+  font-size: 1.8rem;
+  font-weight: 700;
+  color: #333;
+}
+
+.word-hiragana {
+  font-size: 1.4rem;
+  color: #555;
+}
+
+.word-meaning {
+  font-size: 1.2rem;
+  color: #667eea;
+  font-weight: 600;
+}
+
+.explanation-content {
+  color: #444;
+}
+
+.explanation-title {
+  color: #764ba2;
+  font-size: 1.3rem;
+  margin-bottom: 15px;
+  font-weight: 600;
+}
+
+.explanation-list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.explanation-list li {
+  padding: 10px 0;
+  padding-left: 25px;
+  position: relative;
+  line-height: 1.8;
+  color: #555;
+}
+
+.explanation-list li::before {
+  content: '•';
+  position: absolute;
+  left: 0;
+  color: #667eea;
+  font-size: 1.5rem;
+  line-height: 1.2;
+}
+
+.empty-message {
+  text-align: center;
+  color: #999;
+  font-size: 1.2rem;
+  padding: 40px;
+}
+
+@media (max-width: 768px) {
+  .word-display {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+
+  .word-kanji {
+    font-size: 1.5rem;
+  }
+
+  .word-hiragana {
+    font-size: 1.2rem;
+  }
+
+  .explanation-card {
+    padding: 20px;
+  }
+}
+
