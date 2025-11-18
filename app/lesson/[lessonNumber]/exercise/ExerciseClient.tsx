@@ -3,6 +3,7 @@
 import { useState, useEffect } from 'react'
 import { vocabularyData } from '@/data/vocabulary'
 import { VocabularyWord } from '@/types/vocabulary'
+import { EmptyMessage, PageTitle } from '@/components'
 import './exercise.css'
 
 interface ExerciseClientProps {
@@ -91,17 +92,15 @@ export default function ExerciseClient({ lessonNumber }: ExerciseClientProps) {
   if (vocabulary.length === 0) {
     return (
       <div className="exercise-container">
-        <h2>Bài tập</h2>
-        <p className="empty-message">
-          Chưa có dữ liệu từ vựng cho bài {lessonNumber}
-        </p>
+        <PageTitle title="Bài tập" lessonNumber={lessonNumber} />
+        <EmptyMessage message={`Chưa có dữ liệu từ vựng cho bài ${lessonNumber}`} />
       </div>
     )
   }
 
   return (
     <div className="exercise-container">
-      <h2>Bài tập - Bài {lessonNumber}</h2>
+      <PageTitle title="Bài tập" lessonNumber={lessonNumber} />
 
       <div className="exercise-type-selector">
         <button

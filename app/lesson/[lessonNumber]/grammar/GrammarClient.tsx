@@ -4,6 +4,7 @@ import { grammarData } from '@/data/grammar'
 import { GrammarPoint } from '@/types/grammar'
 import { useState } from 'react'
 import React from 'react'
+import { EmptyMessage, PageTitle } from '@/components'
 import './grammar.css'
 
 interface GrammarClientProps {
@@ -17,10 +18,8 @@ export default function GrammarClient({ lessonNumber }: GrammarClientProps) {
   if (grammar.length === 0) {
     return (
       <div className="grammar-list">
-        <h2>Ngữ pháp Bài {lessonNumber}</h2>
-        <p className="empty-message">
-          Chưa có dữ liệu ngữ pháp cho bài {lessonNumber}
-        </p>
+        <PageTitle title="Ngữ pháp" lessonNumber={lessonNumber} />
+        <EmptyMessage message={`Chưa có dữ liệu ngữ pháp cho bài ${lessonNumber}`} />
       </div>
     )
   }
@@ -39,19 +38,24 @@ export default function GrammarClient({ lessonNumber }: GrammarClientProps) {
 
   return (
     <div className="grammar-list">
-      <h2>Ngữ pháp Bài {lessonNumber}</h2>
-      <p className="grammar-count">Tổng cộng: {grammar.length} điểm ngữ pháp</p>
+      <PageTitle
+        title="Ngữ pháp"
+        lessonNumber={lessonNumber}
+        count={grammar.length}
+        countLabel="điểm ngữ pháp"
+      />
 
-      <table className="grammar-table">
-        <thead>
-          <tr>
-            <th>Tiêu đề</th>
-            <th>Cấu trúc</th>
-            <th>Ví dụ</th>
-            <th>Chi tiết</th>
-          </tr>
-        </thead>
-        <tbody>
+      <div className="grammar-table-wrapper">
+        <table className="grammar-table">
+          <thead>
+            <tr>
+              <th>Tiêu đề</th>
+              <th>Cấu trúc</th>
+              <th>Ví dụ</th>
+              <th>Chi tiết</th>
+            </tr>
+          </thead>
+          <tbody>
           {grammar.map((point, index) => {
             const isExpanded = expandedIds.has(point.id)
             const firstExample = point.examples[0]
@@ -120,7 +124,8 @@ export default function GrammarClient({ lessonNumber }: GrammarClientProps) {
             )
           })}
         </tbody>
-      </table>
+        </table>
+      </div>
     </div>
   )
 }
