@@ -1,8 +1,9 @@
 'use client'
 
-import { useState, useEffect } from 'react'
+import { useState, useEffect, useRef } from 'react'
 import { vocabularyData } from '@/data/vocabulary'
 import { VocabularyWord } from '@/types/vocabulary'
+import { EmptyMessage, PageTitle, ProgressBar } from '@/components'
 import './flashcard.css'
 
 interface FlashcardClientProps {
@@ -15,6 +16,9 @@ export default function FlashcardClient({ lessonNumber }: FlashcardClientProps) 
   const [isFlipped, setIsFlipped] = useState(false)
   const [shuffledWords, setShuffledWords] = useState<VocabularyWord[]>([])
   const [showKanji, setShowKanji] = useState(true)
+  const [cardHeight, setCardHeight] = useState<number>(400)
+  const cardRef = useRef<HTMLDivElement>(null)
+  const hiddenCardsRef = useRef<HTMLDivElement>(null)
 
   useEffect(() => {
     if (vocabulary.length > 0) {
@@ -23,13 +27,47 @@ export default function FlashcardClient({ lessonNumber }: FlashcardClientProps) 
     }
   }, [vocabulary])
 
+  useEffect(() => {
+    const calculateHeight = () => {
+      if (hiddenCardsRef.current && shuffledWords.length > 0) {
+        const hiddenContainer = hiddenCardsRef.current
+        const cards = hiddenContainer.querySelectorAll('.hidden-card')
+        let maxHeight = 400
+        cards.forEach((card) => {
+          const cardElement = card.querySelector('.card') as HTMLElement
+          if (cardElement) {
+            const front = cardElement.querySelector('.card-front') as HTMLElement
+            const back = cardElement.querySelector('.card-back') as HTMLElement
+            if (front) {
+              const frontHeight = front.getBoundingClientRect().height
+              if (frontHeight > maxHeight) {
+                maxHeight = frontHeight
+              }
+            }
+            if (back) {
+              const backHeight = back.getBoundingClientRect().height
+              if (backHeight > maxHeight) {
+                maxHeight = backHeight
+              }
+            }
+          }
+        })
+        setCardHeight(maxHeight)
+      }
+    }
+
+    const timeoutId = setTimeout(() => {
+      calculateHeight()
+    }, 100)
+
+    return () => clearTimeout(timeoutId)
+  }, [shuffledWords, showKanji])
+
   if (vocabulary.length === 0) {
     return (
       <div className="flashcard-container">
-        <h2>Flashcard</h2>
-        <p className="empty-message">
-          Chưa có dữ liệu từ vựng cho bài {lessonNumber}
-        </p>
+        <PageTitle title="Flashcard" lessonNumber={lessonNumber} />
+        <EmptyMessage message={`Chưa có dữ liệu từ vựng cho bài ${lessonNumber}`} />
       </div>
     )
   }
@@ -37,8 +75,8 @@ export default function FlashcardClient({ lessonNumber }: FlashcardClientProps) 
   if (shuffledWords.length === 0) {
     return (
       <div className="flashcard-container">
-        <h2>Flashcard - Bài {lessonNumber}</h2>
-        <p className="empty-message">Đang tải...</p>
+        <PageTitle title="Flashcard" lessonNumber={lessonNumber} />
+        <EmptyMessage message="Đang tải..." />
       </div>
     )
   }
@@ -47,13 +85,11 @@ export default function FlashcardClient({ lessonNumber }: FlashcardClientProps) 
   if (!currentWord) {
     return (
       <div className="flashcard-container">
-        <h2>Flashcard - Bài {lessonNumber}</h2>
-        <p className="empty-message">Đang tải...</p>
+        <PageTitle title="Flashcard" lessonNumber={lessonNumber} />
+        <EmptyMessage message="Đang tải..." />
       </div>
     )
   }
-
-  const progress = ((currentIndex + 1) / shuffledWords.length) * 100
 
   const handleFlip = () => {
     setIsFlipped(!isFlipped)
@@ -80,7 +116,42 @@ export default function FlashcardClient({ lessonNumber }: FlashcardClientProps) 
 
   return (
     <div className="flashcard-container">
-      <h2>Flashcard - Bài {lessonNumber}</h2>
+      <div
+        ref={hiddenCardsRef}
+        style={{
+          position: 'absolute',
+          visibility: 'hidden',
+          pointerEvents: 'none',
+          top: '-9999px',
+          left: '-9999px',
+          width: '500px',
+          maxWidth: '100%',
+        }}
+      >
+        {shuffledWords.map((word, idx) => (
+          <div key={idx} className="hidden-card" style={{ marginBottom: '20px' }}>
+            <div className="card" style={{ position: 'relative', height: 'auto', minHeight: 'auto' }}>
+              <div className="card-front" style={{ position: 'relative', height: 'auto' }}>
+                <div className="card-content">
+                  {showKanji && word.kanji ? (
+                    <div className="word-kanji">{word.kanji}</div>
+                  ) : null}
+                  <div className="word-hiragana">{word.hiragana}</div>
+                  <div className="card-hint">Click để xem nghĩa</div>
+                </div>
+              </div>
+              <div className="card-back" style={{ position: 'relative', height: 'auto' }}>
+                <div className="card-content">
+                  <div className="word-meaning">{word.vi}</div>
+                  <div className="word-type">{word.type}</div>
+                </div>
+              </div>
+            </div>
+          </div>
+        ))}
+      </div>
+
+      <PageTitle title="Flashcard" lessonNumber={lessonNumber} />
 
       <div className="flashcard-controls">
         <button onClick={handleShuffle} className="btn btn-secondary">
@@ -96,18 +167,17 @@ export default function FlashcardClient({ lessonNumber }: FlashcardClientProps) 
         </label>
       </div>
 
-      <div className="progress-bar">
-        <div
-          className="progress-fill"
-          style={{ width: `${progress}%` }}
-        ></div>
-      </div>
-      <p className="progress-text">
-        {currentIndex + 1} / {shuffledWords.length}
-      </p>
+      <ProgressBar
+        current={currentIndex + 1}
+        total={shuffledWords.length}
+        className="flashcard-progress"
+      />
 
-      <div className="card-wrapper" onClick={handleFlip}>
-        <div className={`card ${isFlipped ? 'flipped' : ''}`}>
+      <div className="card-wrapper" onClick={handleFlip} ref={cardRef}>
+        <div
+          className={`card ${isFlipped ? 'flipped' : ''}`}
+          style={{ height: `${cardHeight}px` }}
+        >
           <div className="card-front">
             <div className="card-content">
               {showKanji && currentWord.kanji ? (
@@ -119,10 +189,6 @@ export default function FlashcardClient({ lessonNumber }: FlashcardClientProps) 
           </div>
           <div className="card-back">
             <div className="card-content">
-              {showKanji && currentWord.kanji ? (
-                <div className="word-kanji">{currentWord.kanji}</div>
-              ) : null}
-              <div className="word-hiragana">{currentWord.hiragana}</div>
               <div className="word-meaning">{currentWord.vi}</div>
               <div className="word-type">{currentWord.type}</div>
             </div>

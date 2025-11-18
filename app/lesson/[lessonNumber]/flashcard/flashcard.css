@@ -32,7 +32,7 @@
   cursor: pointer;
 }
 
-.progress-bar {
+.flashcard-progress .progress-bar {
   width: 100%;
   height: 8px;
   background: #e0e0e0;
@@ -41,13 +41,13 @@
   overflow: hidden;
 }
 
-.progress-fill {
+.flashcard-progress .progress-fill {
   height: 100%;
   background: linear-gradient(90deg, #667eea 0%, #764ba2 100%);
   transition: width 0.3s ease;
 }
 
-.progress-text {
+.flashcard-progress .progress-text {
   text-align: center;
   color: #666;
   margin-bottom: 30px;
@@ -64,7 +64,7 @@
 .card {
   position: relative;
   width: 100%;
-  height: 400px;
+  min-height: 400px;
   transform-style: preserve-3d;
   transition: transform 0.6s;
 }
@@ -84,6 +84,8 @@
   display: flex;
   align-items: center;
   justify-content: center;
+  box-sizing: border-box;
+  padding: 0;
 }
 
 .card-front {
@@ -100,19 +102,33 @@
 .card-content {
   text-align: center;
   padding: 40px;
+  width: 100%;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
 }
 
 .word-kanji {
   font-size: 3.5rem;
   font-weight: 700;
   margin-bottom: 20px;
+  margin-top: 0;
   text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.2);
+  word-wrap: break-word;
+  overflow-wrap: break-word;
+  max-width: 100%;
+  line-height: 1.2;
 }
 
 .word-hiragana {
   font-size: 2rem;
   margin-bottom: 20px;
   opacity: 0.95;
+  word-wrap: break-word;
+  overflow-wrap: break-word;
+  max-width: 100%;
 }
 
 .word-meaning {
@@ -120,6 +136,10 @@
   font-weight: 600;
   margin-bottom: 15px;
   text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.2);
+  word-wrap: break-word;
+  overflow-wrap: break-word;
+  max-width: 100%;
+  line-height: 1.2;
 }
 
 .word-type {
@@ -195,24 +215,154 @@
 }
 
 @media (max-width: 768px) {
+  .flashcard-container {
+    padding: 0 10px;
+  }
+
+  .flashcard-container h2 {
+    font-size: 1.5rem;
+    margin-bottom: 15px;
+  }
+
+  .flashcard-controls {
+    gap: 15px;
+    margin-bottom: 15px;
+  }
+
+  .flashcard-progress .progress-text {
+    margin-bottom: 20px;
+    font-size: 0.9rem;
+  }
+
+  .card-wrapper {
+    margin: 20px auto;
+    max-width: 100%;
+    width: calc(100% - 20px);
+  }
+
   .card {
-    height: 300px;
+    min-height: 350px;
   }
 
   .word-kanji {
-    font-size: 2.5rem;
+    font-size: 2rem;
+    margin-bottom: 12px;
   }
 
   .word-hiragana {
-    font-size: 1.5rem;
+    font-size: 1.3rem;
+    margin-bottom: 12px;
   }
 
   .word-meaning {
-    font-size: 2rem;
+    font-size: 1.4rem;
+    margin-bottom: 10px;
+    line-height: 1.3;
+  }
+
+  .word-type {
+    font-size: 0.9rem;
+    padding: 6px 12px;
   }
 
   .card-content {
-    padding: 20px;
+    padding: 25px 15px;
+    justify-content: center;
+  }
+
+  .card-hint {
+    font-size: 0.85rem;
+    margin-top: 15px;
+  }
+
+  .card-navigation {
+    gap: 10px;
+    margin-top: 20px;
+    padding: 0 10px;
+  }
+
+  .btn {
+    padding: 10px 16px;
+    font-size: 0.9rem;
+    min-width: 100px;
+  }
+}
+
+@media (max-width: 480px) {
+  .flashcard-container {
+    padding: 0 8px;
+  }
+
+  .flashcard-container h2 {
+    font-size: 1.3rem;
+    margin-bottom: 12px;
+  }
+
+  .flashcard-controls {
+    flex-direction: column;
+    gap: 10px;
+    align-items: stretch;
+  }
+
+  .toggle-label {
+    justify-content: center;
+  }
+
+  .flashcard-progress .progress-text {
+    margin-bottom: 15px;
+    font-size: 0.85rem;
+  }
+
+  .card-wrapper {
+    margin: 15px auto;
+    width: calc(100% - 16px);
+  }
+
+  .card {
+    min-height: 320px;
+  }
+
+  .word-kanji {
+    font-size: 1.6rem;
+    margin-bottom: 10px;
+  }
+
+  .word-hiragana {
+    font-size: 1.1rem;
+    margin-bottom: 10px;
+  }
+
+  .word-meaning {
+    font-size: 1.1rem;
+    margin-bottom: 8px;
+    line-height: 1.4;
+  }
+
+  .word-type {
+    font-size: 0.8rem;
+    padding: 5px 10px;
+  }
+
+  .card-content {
+    padding: 20px 10px;
+    justify-content: center;
+  }
+
+  .card-hint {
+    font-size: 0.8rem;
+    margin-top: 12px;
+  }
+
+  .card-navigation {
+    flex-direction: column;
+    gap: 8px;
+    padding: 0 8px;
+  }
+
+  .btn {
+    width: 100%;
+    padding: 12px;
+    font-size: 0.85rem;
   }
 }
 

@@ -2,25 +2,21 @@
   color: #333;
 }
 
-.grammar-list h2 {
-  color: #667eea;
-  margin-bottom: 10px;
-  font-size: 2rem;
-}
-
-.grammar-count {
-  color: #666;
-  margin-bottom: 30px;
-  font-size: 1.1rem;
+.grammar-table-wrapper {
+  width: 100%;
+  overflow-x: auto;
+  margin-bottom: 20px;
+  -webkit-overflow-scrolling: touch;
 }
 
 .grammar-table {
   width: 100%;
   border-collapse: collapse;
-  margin-bottom: 20px;
+  margin-bottom: 0;
   box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
   border-radius: 8px;
   overflow: hidden;
+  min-width: 800px;
 }
 
 .grammar-table thead {
@@ -206,33 +202,78 @@
 }
 
 @media (max-width: 768px) {
+  .grammar-list h2 {
+    font-size: 1.5rem;
+  }
+
+  .grammar-table-wrapper {
+    margin-left: -16px;
+    margin-right: -16px;
+    padding-left: 16px;
+    padding-right: 16px;
+  }
+
   .grammar-table {
-    font-size: 0.9rem;
+    font-size: 0.85rem;
+    min-width: 700px;
   }
 
   .grammar-table th,
   .grammar-table td {
-    padding: 10px;
+    padding: 8px;
   }
 
   .title-cell {
-    min-width: 150px;
+    min-width: 140px;
   }
 
   .structure-cell {
     min-width: 120px;
   }
 
+  .structure-cell code {
+    font-size: 0.85rem;
+    padding: 3px 8px;
+  }
+
   .example-cell {
-    min-width: 180px;
+    min-width: 160px;
+  }
+
+  .example-preview .example-japanese {
+    font-size: 1rem;
+  }
+
+  .example-preview .example-vietnamese {
+    font-size: 0.85rem;
+  }
+
+  .detail-cell {
+    min-width: 100px;
   }
 
   .expand-btn {
-    padding: 6px 12px;
-    font-size: 0.85rem;
+    padding: 6px 10px;
+    font-size: 0.8rem;
   }
 
   .grammar-detail {
     padding: 15px;
+  }
+
+  .detail-section h4 {
+    font-size: 1rem;
+  }
+
+  .detail-section p {
+    font-size: 0.95rem;
+  }
+
+  .example-item .example-japanese {
+    font-size: 1rem;
+  }
+
+  .example-item .example-vietnamese {
+    font-size: 0.9rem;
   }
 }
