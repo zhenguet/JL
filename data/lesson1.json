@@ -1,2 +1,426 @@
-[]
-
+[
+  {
+    "id": "i",
+    "kanji": "私",
+    "hiragana": "わたし",
+    "en": "I",
+    "vi": "tôi",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Đại từ nhân xưng ngôi thứ nhất",
+        "Ví dụ: 私は学生です。 (Tôi là học sinh.)"
+      ]
+    }
+  },
+  {
+    "id": "you",
+    "kanji": "あなた",
+    "hiragana": "あなた",
+    "en": "you",
+    "vi": "bạn",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Đại từ nhân xưng ngôi thứ hai",
+        "Ví dụ: あなたは日本人ですか？ (Bạn có phải người Nhật không?)",
+        "Lưu ý: Trong tiếng Nhật, thường bỏ qua あなた khi đã rõ ngữ cảnh"
+      ]
+    }
+  },
+  {
+    "id": "this",
+    "kanji": "これ",
+    "hiragana": "これ",
+    "en": "this",
+    "vi": "cái này",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Đại từ chỉ định, chỉ vật gần người nói",
+        "Ví dụ: これは本です。 (Đây là sách.)"
+      ]
+    }
+  },
+  {
+    "id": "that",
+    "kanji": "それ",
+    "hiragana": "それ",
+    "en": "that",
+    "vi": "cái đó",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Đại từ chỉ định, chỉ vật gần người nghe",
+        "Ví dụ: それはペンです。 (Đó là bút.)"
+      ]
+    }
+  },
+  {
+    "id": "thatOverThere",
+    "kanji": "あれ",
+    "hiragana": "あれ",
+    "en": "that (over there)",
+    "vi": "cái kia",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Đại từ chỉ định, chỉ vật xa cả người nói và người nghe",
+        "Ví dụ: あれは車です。 (Kia là xe hơi.)"
+      ]
+    }
+  },
+  {
+    "id": "book",
+    "kanji": "本",
+    "hiragana": "ほん",
+    "en": "book",
+    "vi": "sách",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ sách",
+        "Ví dụ: これは本です。 (Đây là sách.)"
+      ]
+    }
+  },
+  {
+    "id": "pen",
+    "kanji": "ペン",
+    "hiragana": "ペン",
+    "en": "pen",
+    "vi": "bút",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ bút (từ mượn)",
+        "Ví dụ: それはペンです。 (Đó là bút.)"
+      ]
+    }
+  },
+  {
+    "id": "pencil",
+    "kanji": "鉛筆",
+    "hiragana": "えんぴつ",
+    "en": "pencil",
+    "vi": "bút chì",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ bút chì",
+        "Ví dụ: これは鉛筆です。 (Đây là bút chì.)"
+      ]
+    }
+  },
+  {
+    "id": "bag",
+    "kanji": "かばん",
+    "hiragana": "かばん",
+    "en": "bag",
+    "vi": "cặp, túi",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ túi, cặp",
+        "Ví dụ: それはかばんです。 (Đó là cặp.)"
+      ]
+    }
+  },
+  {
+    "id": "watch",
+    "kanji": "時計",
+    "hiragana": "とけい",
+    "en": "watch, clock",
+    "vi": "đồng hồ",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ đồng hồ",
+        "Ví dụ: これは時計です。 (Đây là đồng hồ.)"
+      ]
+    }
+  },
+  {
+    "id": "dictionary",
+    "kanji": "辞書",
+    "hiragana": "じしょ",
+    "en": "dictionary",
+    "vi": "từ điển",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ từ điển",
+        "Ví dụ: それは辞書です。 (Đó là từ điển.)"
+      ]
+    }
+  },
+  {
+    "id": "student",
+    "kanji": "学生",
+    "hiragana": "がくせい",
+    "en": "student",
+    "vi": "học sinh, sinh viên",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ học sinh, sinh viên",
+        "Ví dụ: 私は学生です。 (Tôi là học sinh.)"
+      ]
+    }
+  },
+  {
+    "id": "teacher",
+    "kanji": "先生",
+    "hiragana": "せんせい",
+    "en": "teacher",
+    "vi": "giáo viên, thầy cô",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ giáo viên, thầy cô",
+        "Ví dụ: 田中さんは先生です。 (Anh Tanaka là giáo viên.)",
+        "Lưu ý: 先生 cũng dùng để gọi bác sĩ, luật sư"
+      ]
+    }
+  },
+  {
+    "id": "companyEmployee",
+    "kanji": "会社員",
+    "hiragana": "かいしゃいん",
+    "en": "company employee",
+    "vi": "nhân viên công ty",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ nhân viên công ty",
+        "Ví dụ: 私は会社員です。 (Tôi là nhân viên công ty.)"
+      ]
+    }
+  },
+  {
+    "id": "japan",
+    "kanji": "日本",
+    "hiragana": "にほん",
+    "en": "Japan",
+    "vi": "Nhật Bản",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ nước Nhật Bản",
+        "Ví dụ: 私は日本から来ました。 (Tôi đến từ Nhật Bản.)"
+      ]
+    }
+  },
+  {
+    "id": "japanese",
+    "kanji": "日本人",
+    "hiragana": "にほんじん",
+    "en": "Japanese person",
+    "vi": "người Nhật",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ người Nhật",
+        "Ví dụ: 田中さんは日本人です。 (Anh Tanaka là người Nhật.)"
+      ]
+    }
+  },
+  {
+    "id": "japaneseLanguage",
+    "kanji": "日本語",
+    "hiragana": "にほんご",
+    "en": "Japanese language",
+    "vi": "tiếng Nhật",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ tiếng Nhật",
+        "Ví dụ: 私は日本語を勉強します。 (Tôi học tiếng Nhật.)"
+      ]
+    }
+  },
+  {
+    "id": "america",
+    "kanji": "アメリカ",
+    "hiragana": "アメリカ",
+    "en": "America",
+    "vi": "Mỹ",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ nước Mỹ (từ mượn)",
+        "Ví dụ: 私はアメリカから来ました。 (Tôi đến từ Mỹ.)"
+      ]
+    }
+  },
+  {
+    "id": "american",
+    "kanji": "アメリカ人",
+    "hiragana": "アメリカじん",
+    "en": "American",
+    "vi": "người Mỹ",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ người Mỹ",
+        "Ví dụ: スミスさんはアメリカ人です。 (Anh Smith là người Mỹ.)"
+      ]
+    }
+  },
+  {
+    "id": "korea",
+    "kanji": "韓国",
+    "hiragana": "かんこく",
+    "en": "Korea",
+    "vi": "Hàn Quốc",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ nước Hàn Quốc",
+        "Ví dụ: 私は韓国から来ました。 (Tôi đến từ Hàn Quốc.)"
+      ]
+    }
+  },
+  {
+    "id": "korean",
+    "kanji": "韓国人",
+    "hiragana": "かんこくじん",
+    "en": "Korean",
+    "vi": "người Hàn Quốc",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ người Hàn Quốc",
+        "Ví dụ: キムさんは韓国人です。 (Anh Kim là người Hàn Quốc.)"
+      ]
+    }
+  },
+  {
+    "id": "china",
+    "kanji": "中国",
+    "hiragana": "ちゅうごく",
+    "en": "China",
+    "vi": "Trung Quốc",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ nước Trung Quốc",
+        "Ví dụ: 私は中国から来ました。 (Tôi đến từ Trung Quốc.)"
+      ]
+    }
+  },
+  {
+    "id": "chinese",
+    "kanji": "中国人",
+    "hiragana": "ちゅうごくじん",
+    "en": "Chinese",
+    "vi": "người Trung Quốc",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ người Trung Quốc",
+        "Ví dụ: 王さんは中国人です。 (Anh Wang là người Trung Quốc.)"
+      ]
+    }
+  },
+  {
+    "id": "vietnam",
+    "kanji": "ベトナム",
+    "hiragana": "ベトナム",
+    "en": "Vietnam",
+    "vi": "Việt Nam",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ nước Việt Nam (từ mượn)",
+        "Ví dụ: 私はベトナムから来ました。 (Tôi đến từ Việt Nam.)"
+      ]
+    }
+  },
+  {
+    "id": "vietnamese",
+    "kanji": "ベトナム人",
+    "hiragana": "ベトナムじん",
+    "en": "Vietnamese",
+    "vi": "người Việt Nam",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ người Việt Nam",
+        "Ví dụ: 私はベトナム人です。 (Tôi là người Việt Nam.)"
+      ]
+    }
+  },
+  {
+    "id": "toBe",
+    "kanji": "です",
+    "hiragana": "です",
+    "en": "to be",
+    "vi": "là",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ \"là\", thể lịch sự",
+        "Ví dụ: 私は学生です。 (Tôi là học sinh.)",
+        "Dạng phủ định: ではありません / じゃありません"
+      ]
+    }
+  },
+  {
+    "id": "what",
+    "kanji": "何",
+    "hiragana": "なん",
+    "en": "what",
+    "vi": "gì, cái gì",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Từ để hỏi \"cái gì\"",
+        "Ví dụ: これは何ですか？ (Đây là cái gì?)",
+        "Lưu ý: Đọc là なん khi đứng trước です, なに khi đứng một mình"
+      ]
+    }
+  },
+  {
+    "id": "who",
+    "kanji": "だれ",
+    "hiragana": "だれ",
+    "en": "who",
+    "vi": "ai",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Từ để hỏi \"ai\"",
+        "Ví dụ: あの人はだれですか？ (Người kia là ai?)"
+      ]
+    }
+  },
+  {
+    "id": "which",
+    "kanji": "どれ",
+    "hiragana": "どれ",
+    "en": "which",
+    "vi": "cái nào",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Từ để hỏi \"cái nào\" (trong số nhiều)",
+        "Ví dụ: あなたの本はどれですか？ (Sách của bạn là cái nào?)"
+      ]
+    }
+  },
+  {
+    "id": "whichOne",
+    "kanji": "どの",
+    "hiragana": "どの",
+    "en": "which",
+    "vi": "cái nào",
+    "type": "other",
+    "explanation": {
+      "content": [
+        "Từ để hỏi \"cái nào\" (đứng trước danh từ)",
+        "Ví dụ: どの本があなたのですか？ (Cuốn sách nào là của bạn?)"
+      ]
+    }
+  }
+]
