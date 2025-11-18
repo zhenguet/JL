@@ -58,30 +58,46 @@
   },
   {
     "id": "ka",
-    "title": "か - Dấu hỏi",
-    "description": "か đặt ở cuối câu để biến câu khẳng định thành câu hỏi. Trong tiếng Nhật không dùng dấu hỏi \"?\" mà dùng か.",
+    "title": "か - Câu hỏi",
+    "description": "か đặt ở cuối câu để biến câu khẳng định thành câu hỏi. Có hai loại câu hỏi: câu hỏi nghi vấn (có/không) và câu hỏi có từ để hỏi. Câu trả lời cho câu hỏi nghi vấn luôn phải có はい (vâng, đúng) hoặc いいえ (không, không phải).",
     "structure": "Câu + か",
     "examples": [
       {
-        "japanese": "あなたは学生ですか？",
-        "romaji": "Anata wa gakusei desu ka?",
-        "vietnamese": "Bạn có phải là học sinh không?"
+        "japanese": "マイさんは ベトナム人ですか。",
+        "romaji": "Mai-san wa Betonamujin desu ka?",
+        "vietnamese": "Bạn Mai là người Việt Nam phải không?"
       },
       {
-        "japanese": "これは何ですか？",
-        "romaji": "Kore wa nan desu ka?",
-        "vietnamese": "Đây là cái gì?"
+        "japanese": "…はい、ベトナム人です。",
+        "romaji": "...Hai, Betonamujin desu.",
+        "vietnamese": "…Đúng, (bạn ấy) là người Việt Nam."
       },
       {
-        "japanese": "あの人はだれですか？",
+        "japanese": "ミラさんは 学生ですか。",
+        "romaji": "Mira-san wa gakusei desu ka?",
+        "vietnamese": "Bạn Mira là học sinh phải không?"
+      },
+      {
+        "japanese": "…いいえ、 学生ではありません。",
+        "romaji": "...Iie, gakusei dewa arimasen.",
+        "vietnamese": "…Không, (bạn ấy) không phải là học sinh."
+      },
+      {
+        "japanese": "あの人は だれですか。",
         "romaji": "Ano hito wa dare desu ka?",
         "vietnamese": "Người kia là ai?"
+      },
+      {
+        "japanese": "…（あの人は） 山田さんです。",
+        "romaji": "...(Ano hito wa) Yamada-san desu.",
+        "vietnamese": "…(Người kia) Là anh Yamada."
       }
     ],
     "notes": [
-      "か đặt ở cuối câu để tạo câu hỏi",
-      "Trong văn viết thường không dùng dấu \"?\", chỉ dùng か",
-      "Trong văn nói, có thể dùng cả か và \"?\""
+      "Để tạo một câu hỏi chỉ cần thêm か vào cuối câu",
+      "Câu trả lời cho câu hỏi nghi vấn luôn phải có はい hoặc いいえ",
+      "Vị trí đặt từ để hỏi chính là chỗ có từ mà bạn muốn hỏi",
+      "Khi nói thì lên giọng ở trợ từ か"
     ]
   },
   {
@@ -111,6 +127,124 @@
       "それ: vật gần người nghe",
       "あれ: vật xa cả người nói và người nghe",
       "どれ: từ để hỏi \"cái nào\""
+    ]
+  },
+  {
+    "id": "dewa-arimasen",
+    "title": "N1 は N2 ではありません - N1 không phải là N2",
+    "description": "ではありません là dạng phủ định của です. Trong hội thoại người ta có thể dùng じゃありません thay cho ではありません.",
+    "structure": "N1 は N2 ではありません",
+    "examples": [
+      {
+        "japanese": "ラオさんは エンジニアではありません。",
+        "romaji": "Rao-san wa enjinia dewa arimasen.",
+        "vietnamese": "Anh Rao không phải là kỹ sư."
+      },
+      {
+        "japanese": "ラオさんは エンジニアじゃありません。",
+        "romaji": "Rao-san wa enjinia ja arimasen.",
+        "vietnamese": "Anh Rao không phải là kỹ sư."
+      },
+      {
+        "japanese": "ミラさんは 学生ではありません。",
+        "romaji": "Mira-san wa gakusei dewa arimasen.",
+        "vietnamese": "Bạn Mira không phải là học sinh."
+      }
+    ],
+    "notes": [
+      "ではありません là dạng phủ định của です",
+      "Trong hội thoại có thể dùng じゃありません thay cho ではありません",
+      "では đọc là dewa"
+    ]
+  },
+  {
+    "id": "mo",
+    "title": "N も - N cũng",
+    "description": "Trợ từ も được sử dụng thay cho は khi những thông tin về chủ đề của câu giống với những thông tin của chủ đề trước đó.",
+    "structure": "N も",
+    "examples": [
+      {
+        "japanese": "わたしは ベトナム人です。",
+        "romaji": "Watashi wa Betonamujin desu.",
+        "vietnamese": "Tôi là người Việt Nam."
+      },
+      {
+        "japanese": "タンさんも ベトナム人です。",
+        "romaji": "Tan-san mo Betonamujin desu.",
+        "vietnamese": "Anh Tân cũng là người Việt Nam."
+      }
+    ],
+    "notes": [
+      "も được sử dụng thay cho は khi thông tin về chủ đề giống với chủ đề trước đó"
+    ]
+  },
+  {
+    "id": "no",
+    "title": "N1 の N2 - N2 của N1, N2 thuộc về N1",
+    "description": "Trợ từ の dùng để nối 2 danh từ. N1 làm rõ nghĩa cho N2. Trong bài này, N1 là một tổ chức, một nhóm mà N2 thuộc vào đó.",
+    "structure": "N1 の N2",
+    "examples": [
+      {
+        "japanese": "わたしは FPT大学の学生です。",
+        "romaji": "Watashi wa FPT daigaku no gakusei desu.",
+        "vietnamese": "Tôi là sinh viên của trường Đại học FPT."
+      }
+    ],
+    "notes": [
+      "Trợ từ の dùng để nối 2 danh từ",
+      "N1 làm rõ nghĩa cho N2",
+      "N1 là một tổ chức, một nhóm mà N2 thuộc vào đó"
+    ]
+  },
+  {
+    "id": "san",
+    "title": "～さん - Kính ngữ",
+    "description": "Trong tiếng Nhật sử dụng chữ さん đứng ngay sau tên của người nghe hoặc người thứ 3 để bày tỏ sự kính trọng đối với người đó. Chữ さん không bao giờ sử dụng sau tên của chính mình.",
+    "structure": "Tên + さん",
+    "examples": [
+      {
+        "japanese": "わたしは たなかです。",
+        "romaji": "Watashi wa Tanaka desu.",
+        "vietnamese": "Tôi là Tanaka."
+      },
+      {
+        "japanese": "あのかたは きむらさんです。",
+        "romaji": "Ano kata wa Kimura-san desu.",
+        "vietnamese": "Vị kia là Kimura."
+      }
+    ],
+    "notes": [
+      "さん đứng sau tên của người nghe hoặc người thứ 3 để bày tỏ sự kính trọng",
+      "さん không bao giờ sử dụng sau tên của chính mình",
+      "Khi trao đổi trực tiếp, người Nhật ít sử dụng あなた khi đã biết tên của người nghe",
+      "Ở Nhật khi gọi một người thì gọi nguyên cả tên và họ hoặc chỉ cần gọi họ là đủ"
+    ]
+  },
+  {
+    "id": "sai",
+    "title": "～さい - Đếm tuổi",
+    "description": "Khi nói về tuổi thì thêm chữ さい (cách đếm tuổi) sau số thứ tự. Khi hỏi tuổi sử dụng nghi vấn từ なんさい. Trường hợp lễ phép hơn dùng từ おいくつ.",
+    "structure": "Số + さい",
+    "examples": [
+      {
+        "japanese": "すずきさんは なんさい（おいくつ）ですか。",
+        "romaji": "Suzuki-san wa nansai (oikutsu) desu ka?",
+        "vietnamese": "Cô Suzuki bao nhiêu tuổi?"
+      },
+      {
+        "japanese": "…（わたしは） 29 さいです。",
+        "romaji": "...(Watashi wa) 29-sai desu.",
+        "vietnamese": "…(Tôi) 29 tuổi."
+      },
+      {
+        "japanese": "… 29 です。",
+        "romaji": "...29 desu.",
+        "vietnamese": "…29."
+      }
+    ],
+    "notes": [
+      "Khi nói về tuổi thì thêm chữ さい sau số thứ tự",
+      "Khi hỏi tuổi sử dụng なんさい hoặc おいくつ (lễ phép hơn)"
     ]
   }
 ]
