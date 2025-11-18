@@ -1,2 +1,436 @@
-[]
-
+[
+  {
+    "id": "thisThing",
+    "kanji": "この",
+    "hiragana": "この",
+    "en": "this",
+    "vi": "cái này",
+    "type": "other",
+    "explanation": {
+      "content": [
+        "Từ chỉ định, đứng trước danh từ, chỉ vật gần người nói",
+        "Ví dụ: この本は私のです。 (Cuốn sách này là của tôi.)"
+      ]
+    }
+  },
+  {
+    "id": "thatThing",
+    "kanji": "その",
+    "hiragana": "その",
+    "en": "that",
+    "vi": "cái đó",
+    "type": "other",
+    "explanation": {
+      "content": [
+        "Từ chỉ định, đứng trước danh từ, chỉ vật gần người nghe",
+        "Ví dụ: そのペンは私のです。 (Cây bút đó là của tôi.)"
+      ]
+    }
+  },
+  {
+    "id": "thatThingOverThere",
+    "kanji": "あの",
+    "hiragana": "あの",
+    "en": "that (over there)",
+    "vi": "cái kia",
+    "type": "other",
+    "explanation": {
+      "content": [
+        "Từ chỉ định, đứng trước danh từ, chỉ vật xa cả người nói và người nghe",
+        "Ví dụ: あの人はだれですか？ (Người kia là ai?)"
+      ]
+    }
+  },
+  {
+    "id": "whichThing",
+    "kanji": "どの",
+    "hiragana": "どの",
+    "en": "which",
+    "vi": "cái nào",
+    "type": "other",
+    "explanation": {
+      "content": [
+        "Từ để hỏi, đứng trước danh từ",
+        "Ví dụ: どの本があなたのですか？ (Cuốn sách nào là của bạn?)"
+      ]
+    }
+  },
+  {
+    "id": "here",
+    "kanji": "ここ",
+    "hiragana": "ここ",
+    "en": "here",
+    "vi": "ở đây",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ nơi chốn, chỉ vị trí gần người nói",
+        "Ví dụ: ここは学校です。 (Đây là trường học.)"
+      ]
+    }
+  },
+  {
+    "id": "there",
+    "kanji": "そこ",
+    "hiragana": "そこ",
+    "en": "there",
+    "vi": "ở đó",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ nơi chốn, chỉ vị trí gần người nghe",
+        "Ví dụ: そこは図書館です。 (Đó là thư viện.)"
+      ]
+    }
+  },
+  {
+    "id": "overThere",
+    "kanji": "あそこ",
+    "hiragana": "あそこ",
+    "en": "over there",
+    "vi": "ở kia",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ nơi chốn, chỉ vị trí xa cả người nói và người nghe",
+        "Ví dụ: あそこは病院です。 (Kia là bệnh viện.)"
+      ]
+    }
+  },
+  {
+    "id": "where",
+    "kanji": "どこ",
+    "hiragana": "どこ",
+    "en": "where",
+    "vi": "ở đâu",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Từ để hỏi về nơi chốn",
+        "Ví dụ: トイレはどこですか？ (Nhà vệ sinh ở đâu?)"
+      ]
+    }
+  },
+  {
+    "id": "school",
+    "kanji": "学校",
+    "hiragana": "がっこう",
+    "en": "school",
+    "vi": "trường học",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ trường học",
+        "Ví dụ: ここは学校です。 (Đây là trường học.)"
+      ]
+    }
+  },
+  {
+    "id": "hospital",
+    "kanji": "病院",
+    "hiragana": "びょういん",
+    "en": "hospital",
+    "vi": "bệnh viện",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ bệnh viện",
+        "Ví dụ: あそこは病院です。 (Kia là bệnh viện.)"
+      ]
+    }
+  },
+  {
+    "id": "postOffice",
+    "kanji": "郵便局",
+    "hiragana": "ゆうびんきょく",
+    "en": "post office",
+    "vi": "bưu điện",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ bưu điện",
+        "Ví dụ: 郵便局はどこですか？ (Bưu điện ở đâu?)"
+      ]
+    }
+  },
+  {
+    "id": "bank",
+    "kanji": "銀行",
+    "hiragana": "ぎんこう",
+    "en": "bank",
+    "vi": "ngân hàng",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ ngân hàng",
+        "Ví dụ: 銀行はそこです。 (Ngân hàng ở đó.)"
+      ]
+    }
+  },
+  {
+    "id": "library",
+    "kanji": "図書館",
+    "hiragana": "としょかん",
+    "en": "library",
+    "vi": "thư viện",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ thư viện",
+        "Ví dụ: 図書館はここです。 (Thư viện ở đây.)"
+      ]
+    }
+  },
+  {
+    "id": "bookstore",
+    "kanji": "本屋",
+    "hiragana": "ほんや",
+    "en": "bookstore",
+    "vi": "hiệu sách",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ hiệu sách",
+        "Ví dụ: 本屋はどこですか？ (Hiệu sách ở đâu?)"
+      ]
+    }
+  },
+  {
+    "id": "restaurant",
+    "kanji": "レストラン",
+    "hiragana": "レストラン",
+    "en": "restaurant",
+    "vi": "nhà hàng",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ nhà hàng (từ mượn)",
+        "Ví dụ: レストランはあそこです。 (Nhà hàng ở kia.)"
+      ]
+    }
+  },
+  {
+    "id": "cafe",
+    "kanji": "喫茶店",
+    "hiragana": "きっさてん",
+    "en": "cafe",
+    "vi": "quán cà phê",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ quán cà phê",
+        "Ví dụ: 喫茶店はそこです。 (Quán cà phê ở đó.)"
+      ]
+    }
+  },
+  {
+    "id": "hotel",
+    "kanji": "ホテル",
+    "hiragana": "ホテル",
+    "en": "hotel",
+    "vi": "khách sạn",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ khách sạn (từ mượn)",
+        "Ví dụ: ホテルはどこですか？ (Khách sạn ở đâu?)"
+      ]
+    }
+  },
+  {
+    "id": "convenienceStore",
+    "kanji": "コンビニ",
+    "hiragana": "コンビニ",
+    "en": "convenience store",
+    "vi": "cửa hàng tiện lợi",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ cửa hàng tiện lợi (từ mượn)",
+        "Ví dụ: コンビニはここです。 (Cửa hàng tiện lợi ở đây.)"
+      ]
+    }
+  },
+  {
+    "id": "departmentStore",
+    "kanji": "デパート",
+    "hiragana": "デパート",
+    "en": "department store",
+    "vi": "cửa hàng bách hóa",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ cửa hàng bách hóa (từ mượn)",
+        "Ví dụ: デパートはあそこです。 (Cửa hàng bách hóa ở kia.)"
+      ]
+    }
+  },
+  {
+    "id": "station",
+    "kanji": "駅",
+    "hiragana": "えき",
+    "en": "station",
+    "vi": "ga",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ ga tàu, ga xe",
+        "Ví dụ: 駅はどこですか？ (Ga ở đâu?)"
+      ]
+    }
+  },
+  {
+    "id": "airport",
+    "kanji": "空港",
+    "hiragana": "くうこう",
+    "en": "airport",
+    "vi": "sân bay",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ sân bay",
+        "Ví dụ: 空港はあそこです。 (Sân bay ở kia.)"
+      ]
+    }
+  },
+  {
+    "id": "toilet",
+    "kanji": "トイレ",
+    "hiragana": "トイレ",
+    "en": "toilet, restroom",
+    "vi": "nhà vệ sinh",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ nhà vệ sinh (từ mượn)",
+        "Ví dụ: トイレはどこですか？ (Nhà vệ sinh ở đâu?)"
+      ]
+    }
+  },
+  {
+    "id": "room",
+    "kanji": "部屋",
+    "hiragana": "へや",
+    "en": "room",
+    "vi": "phòng",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ phòng",
+        "Ví dụ: この部屋は大きいです。 (Căn phòng này lớn.)"
+      ]
+    }
+  },
+  {
+    "id": "house",
+    "kanji": "家",
+    "hiragana": "いえ",
+    "en": "house",
+    "vi": "nhà",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ nhà",
+        "Ví dụ: 私の家はここです。 (Nhà tôi ở đây.)"
+      ]
+    }
+  },
+  {
+    "id": "building",
+    "kanji": "建物",
+    "hiragana": "たてもの",
+    "en": "building",
+    "vi": "tòa nhà",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ tòa nhà",
+        "Ví dụ: あの建物は病院です。 (Tòa nhà kia là bệnh viện.)"
+      ]
+    }
+  },
+  {
+    "id": "university",
+    "kanji": "大学",
+    "hiragana": "だいがく",
+    "en": "university",
+    "vi": "đại học",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ đại học",
+        "Ví dụ: 大学はそこです。 (Đại học ở đó.)"
+      ]
+    }
+  },
+  {
+    "id": "office",
+    "kanji": "会社",
+    "hiragana": "かいしゃ",
+    "en": "company, office",
+    "vi": "công ty",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ công ty",
+        "Ví dụ: 会社はどこですか？ (Công ty ở đâu?)"
+      ]
+    }
+  },
+  {
+    "id": "my",
+    "kanji": "私の",
+    "hiragana": "わたしの",
+    "en": "my",
+    "vi": "của tôi",
+    "type": "other",
+    "explanation": {
+      "content": [
+        "Từ sở hữu, đứng trước danh từ",
+        "Ví dụ: これは私の本です。 (Đây là sách của tôi.)"
+      ]
+    }
+  },
+  {
+    "id": "your",
+    "kanji": "あなたの",
+    "hiragana": "あなたの",
+    "en": "your",
+    "vi": "của bạn",
+    "type": "other",
+    "explanation": {
+      "content": [
+        "Từ sở hữu, đứng trước danh từ",
+        "Ví dụ: それはあなたのペンです。 (Đó là bút của bạn.)"
+      ]
+    }
+  },
+  {
+    "id": "mine",
+    "kanji": "私のです",
+    "hiragana": "わたしのです",
+    "en": "mine",
+    "vi": "của tôi",
+    "type": "other",
+    "explanation": {
+      "content": [
+        "Đại từ sở hữu, đứng một mình",
+        "Ví dụ: この本は私のです。 (Cuốn sách này là của tôi.)"
+      ]
+    }
+  },
+  {
+    "id": "yours",
+    "kanji": "あなたのです",
+    "hiragana": "あなたのです",
+    "en": "yours",
+    "vi": "của bạn",
+    "type": "other",
+    "explanation": {
+      "content": [
+        "Đại từ sở hữu, đứng một mình",
+        "Ví dụ: そのペンはあなたのです。 (Cây bút đó là của bạn.)"
+      ]
+    }
+  }
+]
