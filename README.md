@@ -6,6 +6,8 @@
 - Bài tập (điền từ, dịch, kanji)
 - Giải thích cách dùng các từ
 
+🌐 **Live Demo:** [https://zhenguet.github.io/JL/](https://zhenguet.github.io/JL/)
+
 ## Cài đặt
 
 ```bash
@@ -18,7 +20,7 @@ npm install
 npm run dev
 ```
 
-Ứng dụng sẽ chạy tại http://localhost:3000
+Ứng dụng sẽ chạy tại http://localhost:3000/JL
 
 ## Cấu trúc project
 
