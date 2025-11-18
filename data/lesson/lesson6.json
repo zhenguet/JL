@@ -1,169 +1,477 @@
 [
   {
-    "id": "toReceive",
-    "kanji": "もらいます",
-    "hiragana": "もらいます",
-    "en": "to receive",
-    "vi": "nhận",
+    "id": "toEat",
+    "kanji": "食べます",
+    "hiragana": "たべます",
+    "en": "to eat",
+    "vi": "ăn",
     "type": "verb",
     "explanation": {
       "content": [
-        "Động từ nhóm I, dùng với trợ từ から hoặc に",
-        "Ví dụ: 友達からプレゼントをもらいます。 (Nhận quà từ bạn.)"
+        "Động từ nhóm II",
+        "Ví dụ: ご飯を食べます。 (Ăn cơm.)"
       ]
     }
   },
   {
-    "id": "toGive",
-    "kanji": "あげます",
-    "hiragana": "あげます",
-    "en": "to give",
-    "vi": "tặng, cho",
+    "id": "toDrink",
+    "kanji": "飲みます",
+    "hiragana": "のみます",
+    "en": "to drink",
+    "vi": "uống",
     "type": "verb",
     "explanation": {
       "content": [
-        "Động từ nhóm II, dùng với trợ từ に",
-        "Ví dụ: 友達にプレゼントをあげます。 (Tặng quà cho bạn.)"
+        "Động từ nhóm I",
+        "Ví dụ: コーヒーを飲みます。 (Uống cà phê.)"
       ]
     }
   },
   {
-    "id": "toSend",
-    "kanji": "送ります",
-    "hiragana": "おくります",
-    "en": "to send",
-    "vi": "gửi",
+    "id": "toSmoke",
+    "kanji": "吸います",
+    "hiragana": "すいます",
+    "en": "to smoke",
+    "vi": "hút",
     "type": "verb",
     "explanation": {
       "content": [
-        "Động từ nhóm I, dùng với trợ từ に",
-        "Ví dụ: 友達に手紙を送ります。 (Gửi thư cho bạn.)"
+        "Động từ nhóm I",
+        "Ví dụ: たばこを吸います。 (Hút thuốc lá.)"
       ]
     }
   },
   {
-    "id": "toShow",
-    "kanji": "見せます",
-    "hiragana": "みせます",
-    "en": "to show",
-    "vi": "cho xem",
+    "id": "toSmokeCigarette",
+    "kanji": "たばこを吸います",
+    "hiragana": "たばこをすいます",
+    "en": "to smoke a cigarette",
+    "vi": "hút thuốc lá",
     "type": "verb",
     "explanation": {
       "content": [
-        "Động từ nhóm II, dùng với trợ từ に",
-        "Ví dụ: 友達に写真を見せます。 (Cho bạn xem ảnh.)"
+        "Động từ nhóm I",
+        "Ví dụ: たばこを吸います。 (Hút thuốc lá.)"
       ]
     }
   },
   {
-    "id": "toTeach",
-    "kanji": "教えます",
-    "hiragana": "おしえます",
-    "en": "to teach",
-    "vi": "dạy",
+    "id": "toWrite",
+    "kanji": "書きます",
+    "hiragana": "かきます",
+    "en": "to write, to draw",
+    "vi": "viết, vẽ",
     "type": "verb",
     "explanation": {
       "content": [
-        "Động từ nhóm II, dùng với trợ từ に",
-        "Ví dụ: 学生に日本語を教えます。 (Dạy tiếng Nhật cho học sinh.)"
-      ]
-    }
-  },
-  {
-    "id": "toTell",
-    "kanji": "話します",
-    "hiragana": "はなします",
-    "en": "to tell, to speak",
-    "vi": "nói, kể",
-    "type": "verb",
-    "explanation": {
-      "content": [
-        "Động từ nhóm I, dùng với trợ từ に",
-        "Ví dụ: 友達に話します。 (Nói với bạn.)"
-      ]
-    }
-  },
-  {
-    "id": "present",
-    "kanji": "プレゼント",
-    "hiragana": "プレゼント",
-    "en": "present, gift",
-    "vi": "quà tặng",
-    "type": "noun",
-    "explanation": {
-      "content": [
-        "Danh từ chỉ quà tặng (từ mượn)",
-        "Ví dụ: プレゼントをもらいます。 (Nhận quà.)"
-      ]
-    }
-  },
-  {
-    "id": "letter",
-    "kanji": "手紙",
-    "hiragana": "てがみ",
-    "en": "letter",
-    "vi": "thư",
-    "type": "noun",
-    "explanation": {
-      "content": [
-        "Danh từ chỉ thư",
+        "Động từ nhóm I",
         "Ví dụ: 手紙を書きます。 (Viết thư.)"
       ]
     }
   },
   {
-    "id": "photo",
-    "kanji": "写真",
-    "hiragana": "しゃしん",
-    "en": "photo",
-    "vi": "ảnh",
-    "type": "noun",
+    "id": "toRead",
+    "kanji": "読みます",
+    "hiragana": "よみます",
+    "en": "to read",
+    "vi": "đọc",
+    "type": "verb",
     "explanation": {
       "content": [
-        "Danh từ chỉ ảnh",
+        "Động từ nhóm I",
+        "Ví dụ: 本を読みます。 (Đọc sách.)"
+      ]
+    }
+  },
+  {
+    "id": "toListen",
+    "kanji": "聞きます",
+    "hiragana": "ききます",
+    "en": "to listen, to hear",
+    "vi": "nghe",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm I",
+        "Ví dụ: 音楽を聞きます。 (Nghe nhạc.)"
+      ]
+    }
+  },
+  {
+    "id": "toWatch",
+    "kanji": "見ます",
+    "hiragana": "みます",
+    "en": "to watch, to see",
+    "vi": "xem, nhìn",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm II",
+        "Ví dụ: テレビを見ます。 (Xem TV.)"
+      ]
+    }
+  },
+  {
+    "id": "toBuy",
+    "kanji": "買います",
+    "hiragana": "かいます",
+    "en": "to buy",
+    "vi": "mua",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm I",
+        "Ví dụ: 本を買います。 (Mua sách.)"
+      ]
+    }
+  },
+  {
+    "id": "toTake",
+    "kanji": "撮ります",
+    "hiragana": "とります",
+    "en": "to take (photo)",
+    "vi": "chụp",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm I",
         "Ví dụ: 写真を撮ります。 (Chụp ảnh.)"
       ]
     }
   },
   {
-    "id": "email",
-    "kanji": "メール",
-    "hiragana": "メール",
-    "en": "email",
-    "vi": "email",
-    "type": "noun",
+    "id": "toTakePhoto",
+    "kanji": "写真を撮ります",
+    "hiragana": "しゃしんをとります",
+    "en": "to take a photo",
+    "vi": "chụp ảnh",
+    "type": "verb",
     "explanation": {
       "content": [
-        "Danh từ chỉ email (từ mượn)",
-        "Ví dụ: メールを送ります。 (Gửi email.)"
+        "Động từ nhóm I",
+        "Ví dụ: 写真を撮ります。 (Chụp ảnh.)"
       ]
     }
   },
   {
-    "id": "flower",
-    "kanji": "花",
-    "hiragana": "はな",
-    "en": "flower",
-    "vi": "hoa",
-    "type": "noun",
+    "id": "toDo",
+    "kanji": "します",
+    "hiragana": "します",
+    "en": "to do",
+    "vi": "làm",
+    "type": "verb",
     "explanation": {
       "content": [
-        "Danh từ chỉ hoa",
-        "Ví dụ: 花を買います。 (Mua hoa.)"
+        "Động từ nhóm III (する)",
+        "Ví dụ: 宿題をします。 (Làm bài tập.)"
       ]
     }
   },
   {
-    "id": "shirt",
-    "kanji": "シャツ",
-    "hiragana": "シャツ",
-    "en": "shirt",
-    "vi": "áo sơ mi",
+    "id": "internship",
+    "kanji": "実習",
+    "hiragana": "じっしゅう",
+    "en": "internship",
+    "vi": "thực tập",
     "type": "noun",
     "explanation": {
       "content": [
-        "Danh từ chỉ áo sơ mi (từ mượn)",
-        "Ví dụ: シャツを買います。 (Mua áo sơ mi.)"
+        "Danh từ chỉ thực tập",
+        "Ví dụ: 実習をします。 (Thực tập.)"
+      ]
+    }
+  },
+  {
+    "id": "toMeet",
+    "kanji": "会います",
+    "hiragana": "あいます",
+    "en": "to meet",
+    "vi": "gặp, gặp gỡ, gặp mặt",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm I",
+        "Ví dụ: 友達に会います。 (Gặp bạn.)"
+      ]
+    }
+  },
+  {
+    "id": "toMeetFriend",
+    "kanji": "友達に会います",
+    "hiragana": "ともだちにあいます",
+    "en": "to meet a friend",
+    "vi": "gặp gỡ bạn",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm I",
+        "Ví dụ: 友達に会います。 (Gặp bạn.)"
+      ]
+    }
+  },
+  {
+    "id": "rice",
+    "kanji": "ご飯",
+    "hiragana": "ごはん",
+    "en": "rice, meal",
+    "vi": "cơm, bữa cơm",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ cơm, bữa cơm",
+        "Ví dụ: ご飯を食べます。 (Ăn cơm.)"
+      ]
+    }
+  },
+  {
+    "id": "breakfast",
+    "kanji": "朝ご飯",
+    "hiragana": "あさごはん",
+    "en": "breakfast",
+    "vi": "bữa ăn sáng",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ bữa ăn sáng",
+        "Ví dụ: 朝ご飯を食べます。 (Ăn bữa sáng.)"
+      ]
+    }
+  },
+  {
+    "id": "lunch",
+    "kanji": "昼ご飯",
+    "hiragana": "ひるごはん",
+    "en": "lunch",
+    "vi": "bữa ăn trưa",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ bữa ăn trưa",
+        "Ví dụ: 昼ご飯を食べます。 (Ăn bữa trưa.)"
+      ]
+    }
+  },
+  {
+    "id": "dinner",
+    "kanji": "晩ご飯",
+    "hiragana": "ばんごはん",
+    "en": "dinner",
+    "vi": "bữa ăn chiều",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ bữa ăn chiều",
+        "Ví dụ: 晩ご飯を食べます。 (Ăn bữa chiều.)"
+      ]
+    }
+  },
+  {
+    "id": "bread",
+    "kanji": "パン",
+    "hiragana": "パン",
+    "en": "bread",
+    "vi": "bánh mì",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ bánh mì (từ mượn)",
+        "Ví dụ: パンを食べます。 (Ăn bánh mì.)"
+      ]
+    }
+  },
+  {
+    "id": "egg",
+    "kanji": "卵",
+    "hiragana": "たまご",
+    "en": "egg",
+    "vi": "trứng, quả trứng",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ trứng",
+        "Ví dụ: 卵を食べます。 (Ăn trứng.)"
+      ]
+    }
+  },
+  {
+    "id": "meat",
+    "kanji": "肉",
+    "hiragana": "にく",
+    "en": "meat",
+    "vi": "thịt, miếng thịt",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ thịt",
+        "Ví dụ: 肉を食べます。 (Ăn thịt.)"
+      ]
+    }
+  },
+  {
+    "id": "fish",
+    "kanji": "魚",
+    "hiragana": "さかな",
+    "en": "fish",
+    "vi": "cá, con cá",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ cá",
+        "Ví dụ: 魚を食べます。 (Ăn cá.)"
+      ]
+    }
+  },
+  {
+    "id": "vegetable",
+    "kanji": "野菜",
+    "hiragana": "やさい",
+    "en": "vegetable",
+    "vi": "rau, rau sống",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ rau",
+        "Ví dụ: 野菜を食べます。 (Ăn rau.)"
+      ]
+    }
+  },
+  {
+    "id": "apple",
+    "kanji": "りんご",
+    "hiragana": "りんご",
+    "en": "apple",
+    "vi": "quả táo, táo tây",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ táo",
+        "Ví dụ: りんごを食べます。 (Ăn táo.)"
+      ]
+    }
+  },
+  {
+    "id": "fruit",
+    "kanji": "果物",
+    "hiragana": "くだもの",
+    "en": "fruit",
+    "vi": "hoa quả, trái cây",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ hoa quả",
+        "Ví dụ: 果物を食べます。 (Ăn hoa quả.)"
+      ]
+    }
+  },
+  {
+    "id": "milk",
+    "kanji": "牛乳／ミルク",
+    "hiragana": "ぎゅうにゅう／ミルク",
+    "en": "milk",
+    "vi": "sữa",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ sữa",
+        "Ví dụ: 牛乳を飲みます。 (Uống sữa.)"
+      ]
+    }
+  },
+  {
+    "id": "water",
+    "kanji": "水",
+    "hiragana": "みず",
+    "en": "water",
+    "vi": "nước, nước lã",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ nước",
+        "Ví dụ: 水を飲みます。 (Uống nước.)"
+      ]
+    }
+  },
+  {
+    "id": "tea",
+    "kanji": "お茶",
+    "hiragana": "おちゃ",
+    "en": "tea",
+    "vi": "nước trà",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ trà, có tiền tố お (lịch sự)",
+        "Ví dụ: お茶を飲みます。 (Uống trà.)"
+      ]
+    }
+  },
+  {
+    "id": "coffee",
+    "kanji": "コーヒー",
+    "hiragana": "コーヒー",
+    "en": "coffee",
+    "vi": "cà phê",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ cà phê (từ mượn)",
+        "Ví dụ: コーヒーを飲みます。 (Uống cà phê.)"
+      ]
+    }
+  },
+  {
+    "id": "blackTea",
+    "kanji": "紅茶",
+    "hiragana": "こうちゃ",
+    "en": "black tea",
+    "vi": "trà đen",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ trà đen",
+        "Ví dụ: 紅茶を飲みます。 (Uống trà đen.)"
+      ]
+    }
+  },
+  {
+    "id": "juice",
+    "kanji": "ジュース",
+    "hiragana": "ジュース",
+    "en": "juice",
+    "vi": "nước hoa quả, nước ngọt",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ nước hoa quả (từ mượn)",
+        "Ví dụ: ジュースを飲みます。 (Uống nước hoa quả.)"
+      ]
+    }
+  },
+  {
+    "id": "beer",
+    "kanji": "ビール",
+    "hiragana": "ビール",
+    "en": "beer",
+    "vi": "bia",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ bia (từ mượn)",
+        "Ví dụ: ビールを飲みます。 (Uống bia.)"
+      ]
+    }
+  },
+  {
+    "id": "sake",
+    "kanji": "お酒",
+    "hiragana": "おさけ",
+    "en": "sake, alcohol",
+    "vi": "rượu",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ rượu, có tiền tố お (lịch sự)",
+        "Ví dụ: お酒を飲みます。 (Uống rượu.)"
       ]
     }
   },
@@ -182,114 +490,492 @@
     }
   },
   {
-    "id": "wallet",
-    "kanji": "財布",
-    "hiragana": "さいふ",
-    "en": "wallet",
-    "vi": "ví",
+    "id": "shirt",
+    "kanji": "シャツ",
+    "hiragana": "シャツ",
+    "en": "shirt",
+    "vi": "áo sơ mi",
     "type": "noun",
     "explanation": {
       "content": [
-        "Danh từ chỉ ví",
-        "Ví dụ: 財布を忘れました。 (Quên ví.)"
+        "Danh từ chỉ áo sơ mi (từ mượn)",
+        "Ví dụ: シャツを買います。 (Mua áo sơ mi.)"
       ]
     }
   },
   {
-    "id": "watch",
-    "kanji": "時計",
-    "hiragana": "とけい",
-    "en": "watch, clock",
-    "vi": "đồng hồ",
+    "id": "shoes",
+    "kanji": "靴",
+    "hiragana": "くつ",
+    "en": "shoes",
+    "vi": "giầy, đôi giầy",
     "type": "noun",
     "explanation": {
       "content": [
-        "Danh từ chỉ đồng hồ",
-        "Ví dụ: 時計を見ます。 (Xem đồng hồ.)"
+        "Danh từ chỉ giầy",
+        "Ví dụ: 靴を買います。 (Mua giầy.)"
       ]
     }
   },
   {
-    "id": "ticket",
-    "kanji": "切符",
-    "hiragana": "きっぷ",
-    "en": "ticket",
-    "vi": "vé",
+    "id": "tape",
+    "kanji": "テープ",
+    "hiragana": "テープ",
+    "en": "tape",
+    "vi": "băng, cuộn băng",
     "type": "noun",
     "explanation": {
       "content": [
-        "Danh từ chỉ vé",
-        "Ví dụ: 切符を買います。 (Mua vé.)"
+        "Danh từ chỉ băng (từ mượn)",
+        "Ví dụ: カセットテープ (Băng cát xét)"
       ]
     }
   },
   {
-    "id": "birthday",
-    "kanji": "誕生日",
-    "hiragana": "たんじょうび",
-    "en": "birthday",
-    "vi": "sinh nhật",
+    "id": "cassetteTape",
+    "kanji": "カセットテープ",
+    "hiragana": "カセットテープ",
+    "en": "cassette tape",
+    "vi": "băng cát xét",
     "type": "noun",
     "explanation": {
       "content": [
-        "Danh từ chỉ sinh nhật",
-        "Ví dụ: 誕生日にプレゼントをもらいます。 (Nhận quà vào sinh nhật.)"
+        "Danh từ chỉ băng cát xét (từ mượn)",
+        "Ví dụ: カセットテープを買います。 (Mua băng cát xét.)"
       ]
     }
   },
   {
-    "id": "christmas",
-    "kanji": "クリスマス",
-    "hiragana": "クリスマス",
-    "en": "Christmas",
-    "vi": "Giáng sinh",
+    "id": "film",
+    "kanji": "フィルム",
+    "hiragana": "フィルム",
+    "en": "film",
+    "vi": "phim (dùng để chụp ảnh)",
     "type": "noun",
     "explanation": {
       "content": [
-        "Danh từ chỉ Giáng sinh (từ mượn)",
-        "Ví dụ: クリスマスにプレゼントをあげます。 (Tặng quà vào Giáng sinh.)"
+        "Danh từ chỉ phim (từ mượn)",
+        "Ví dụ: フィルムを買います。 (Mua phim.)"
       ]
     }
   },
   {
-    "id": "lastYear",
-    "kanji": "去年",
-    "hiragana": "きょねん",
-    "en": "last year",
-    "vi": "năm ngoái",
+    "id": "photo",
+    "kanji": "写真",
+    "hiragana": "しゃしん",
+    "en": "photo",
+    "vi": "ảnh, bức ảnh",
     "type": "noun",
     "explanation": {
       "content": [
-        "Danh từ chỉ năm ngoái",
-        "Ví dụ: 去年日本へ行きました。 (Đã đi Nhật Bản năm ngoái.)"
+        "Danh từ chỉ ảnh",
+        "Ví dụ: 写真を撮ります。 (Chụp ảnh.)"
       ]
     }
   },
   {
-    "id": "thisYear",
-    "kanji": "今年",
-    "hiragana": "ことし",
-    "en": "this year",
-    "vi": "năm nay",
+    "id": "movie",
+    "kanji": "映画",
+    "hiragana": "えいが",
+    "en": "movie",
+    "vi": "phim, bộ phim",
     "type": "noun",
     "explanation": {
       "content": [
-        "Danh từ chỉ năm nay",
-        "Ví dụ: 今年大学を卒業します。 (Tốt nghiệp đại học năm nay.)"
+        "Danh từ chỉ phim",
+        "Ví dụ: 映画を見ます。 (Xem phim.)"
       ]
     }
   },
   {
-    "id": "nextYear",
-    "kanji": "来年",
-    "hiragana": "らいねん",
-    "en": "next year",
-    "vi": "năm sau",
+    "id": "video",
+    "kanji": "ビデオ",
+    "hiragana": "ビデオ",
+    "en": "video",
+    "vi": "băng video",
     "type": "noun",
     "explanation": {
       "content": [
-        "Danh từ chỉ năm sau",
-        "Ví dụ: 来年日本へ行きます。 (Sẽ đi Nhật Bản năm sau.)"
+        "Danh từ chỉ băng video (từ mượn)",
+        "Ví dụ: ビデオを見ます。 (Xem video.)"
+      ]
+    }
+  },
+  {
+    "id": "cd",
+    "kanji": "CD",
+    "hiragana": "シーディー",
+    "en": "CD",
+    "vi": "đĩa CD",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ đĩa CD (từ mượn)",
+        "Ví dụ: CDを聞きます。 (Nghe CD.)"
+      ]
+    }
+  },
+  {
+    "id": "pingPong",
+    "kanji": "ピンポン",
+    "hiragana": "ピンポン",
+    "en": "ping pong",
+    "vi": "bóng bàn",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ bóng bàn (từ mượn)",
+        "Ví dụ: ピンポンをします。 (Chơi bóng bàn.)"
+      ]
+    }
+  },
+  {
+    "id": "report",
+    "kanji": "レポート",
+    "hiragana": "レポート",
+    "en": "report",
+    "vi": "báo cáo, bản báo cáo",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ báo cáo (từ mượn)",
+        "Ví dụ: レポートを書きます。 (Viết báo cáo.)"
+      ]
+    }
+  },
+  {
+    "id": "shop",
+    "kanji": "店",
+    "hiragana": "みせ",
+    "en": "shop",
+    "vi": "cửa hàng, shop",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ cửa hàng",
+        "Ví dụ: 店へ行きます。 (Đi cửa hàng.)"
+      ]
+    }
+  },
+  {
+    "id": "homework",
+    "kanji": "宿題",
+    "hiragana": "しゅくだい",
+    "en": "homework",
+    "vi": "bài tập (về nhà)",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ bài tập về nhà",
+        "Ví dụ: 宿題をします。 (Làm bài tập.)"
+      ]
+    }
+  },
+  {
+    "id": "restaurant",
+    "kanji": "レストラン",
+    "hiragana": "レストラン",
+    "en": "restaurant",
+    "vi": "nhà hàng",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ nhà hàng (từ mượn)",
+        "Ví dụ: レストランへ行きます。 (Đi nhà hàng.)"
+      ]
+    }
+  },
+  {
+    "id": "tennis",
+    "kanji": "テニス",
+    "hiragana": "テニス",
+    "en": "tennis",
+    "vi": "tennis",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ tennis (từ mượn)",
+        "Ví dụ: テニスをします。 (Chơi tennis.)"
+      ]
+    }
+  },
+  {
+    "id": "playTennis",
+    "kanji": "テニスをします",
+    "hiragana": "テニスをします",
+    "en": "to play tennis",
+    "vi": "chơi tennis",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm III (する)",
+        "Ví dụ: テニスをします。 (Chơi tennis.)"
+      ]
+    }
+  },
+  {
+    "id": "soccer",
+    "kanji": "サッカー",
+    "hiragana": "サッカー",
+    "en": "soccer",
+    "vi": "bóng đá",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ bóng đá (từ mượn)",
+        "Ví dụ: サッカーをします。 (Chơi bóng đá.)"
+      ]
+    }
+  },
+  {
+    "id": "playSoccer",
+    "kanji": "サッカーをします",
+    "hiragana": "サッカーをします",
+    "en": "to play soccer",
+    "vi": "chơi bóng đá",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm III (する)",
+        "Ví dụ: サッカーをします。 (Chơi bóng đá.)"
+      ]
+    }
+  },
+  {
+    "id": "cherryBlossomViewing",
+    "kanji": "お花見",
+    "hiragana": "おはなみ",
+    "en": "cherry blossom viewing",
+    "vi": "ngắm hoa Anh Đào (danh từ)",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ ngắm hoa Anh Đào",
+        "Ví dụ: お花見をします。 (Ngắm hoa Anh Đào.)"
+      ]
+    }
+  },
+  {
+    "id": "doCherryBlossomViewing",
+    "kanji": "お花見をします",
+    "hiragana": "おはなみをします",
+    "en": "to view cherry blossoms",
+    "vi": "ngắm hoa Anh Đào (động từ)",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm III (する)",
+        "Ví dụ: お花見をします。 (Ngắm hoa Anh Đào.)"
+      ]
+    }
+  },
+  {
+    "id": "what",
+    "kanji": "何",
+    "hiragana": "なに",
+    "en": "what",
+    "vi": "cái gì",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Từ để hỏi \"cái gì\"",
+        "Ví dụ: 何をしますか。 (Làm cái gì?)"
+      ]
+    }
+  },
+  {
+    "id": "together",
+    "kanji": "一緒に",
+    "hiragana": "いっしょに",
+    "en": "together",
+    "vi": "cùng với",
+    "type": "adverb",
+    "explanation": {
+      "content": [
+        "Phó từ chỉ cùng nhau",
+        "Ví dụ: 友達と一緒に行きます。 (Đi cùng với bạn.)"
+      ]
+    }
+  },
+  {
+    "id": "aLittle",
+    "kanji": "ちょっと",
+    "hiragana": "ちょっと",
+    "en": "a little",
+    "vi": "1 chút, 1 lát",
+    "type": "adverb",
+    "explanation": {
+      "content": [
+        "Phó từ chỉ số lượng ít hoặc thời gian ngắn",
+        "Ví dụ: ちょっと待ってください。 (Xin hãy chờ một chút.)"
+      ]
+    }
+  },
+  {
+    "id": "always",
+    "kanji": "いつも",
+    "hiragana": "いつも",
+    "en": "always",
+    "vi": "luôn luôn, lúc nào cũng",
+    "type": "adverb",
+    "explanation": {
+      "content": [
+        "Phó từ chỉ thường xuyên",
+        "Ví dụ: いつも勉強します。 (Luôn luôn học.)"
+      ]
+    }
+  },
+  {
+    "id": "sometimes",
+    "kanji": "ときどき",
+    "hiragana": "ときどき",
+    "en": "sometimes",
+    "vi": "thỉnh thoảng",
+    "type": "adverb",
+    "explanation": {
+      "content": [
+        "Phó từ chỉ thỉnh thoảng",
+        "Ví dụ: ときどき映画を見ます。 (Thỉnh thoảng xem phim.)"
+      ]
+    }
+  },
+  {
+    "id": "then",
+    "kanji": "それから",
+    "hiragana": "それから",
+    "en": "then",
+    "vi": "sau đó",
+    "type": "other",
+    "explanation": {
+      "content": [
+        "Từ nối chỉ thứ tự",
+        "Ví dụ: ご飯を食べます。それから勉強します。 (Ăn cơm. Sau đó học.)"
+      ]
+    }
+  },
+  {
+    "id": "hello",
+    "kanji": "もしもし",
+    "hiragana": "もしもし",
+    "en": "hello",
+    "vi": "a lô (khi gọi điện thoại)",
+    "type": "other",
+    "explanation": {
+      "content": [
+        "Câu chào khi gọi điện thoại",
+        "Ví dụ: もしもし、田中です。 (A lô, tôi là Tanaka.)"
+      ]
+    }
+  },
+  {
+    "id": "oh",
+    "kanji": "ああ",
+    "hiragana": "ああ",
+    "en": "oh",
+    "vi": "à!",
+    "type": "other",
+    "explanation": {
+      "content": [
+        "Thán từ biểu hiện sự hiểu ra",
+        "Ví dụ: ああ、そうですか。 (À, thế à?)"
+      ]
+    }
+  },
+  {
+    "id": "areYouFreeTomorrow",
+    "kanji": "あしたひまですか",
+    "hiragana": "あしたひまですか",
+    "en": "are you free tomorrow?",
+    "vi": "(ngày mai) bạn có rảnh không?",
+    "type": "other",
+    "explanation": {
+      "content": [
+        "Câu hỏi về thời gian rảnh",
+        "Ví dụ: あしたひまですか。 (Ngày mai bạn có rảnh không?)"
+      ]
+    }
+  },
+  {
+    "id": "yes",
+    "kanji": "ええ",
+    "hiragana": "ええ",
+    "en": "yes",
+    "vi": "có. ừ. đúng. vâng",
+    "type": "other",
+    "explanation": {
+      "content": [
+        "Từ đồng ý, xác nhận",
+        "Ví dụ: ええ、そうです。 (Vâng, đúng vậy.)"
+      ]
+    }
+  },
+  {
+    "id": "thatIsGood",
+    "kanji": "いいですね",
+    "hiragana": "いいですね",
+    "en": "that is good",
+    "vi": "hay nhỉ! được đấy nhỉ!",
+    "type": "other",
+    "explanation": {
+      "content": [
+        "Câu nói thể hiện sự đồng ý",
+        "Ví dụ: いいですね。 (Hay nhỉ!)"
+      ]
+    }
+  },
+  {
+    "id": "understood",
+    "kanji": "わかりました",
+    "hiragana": "わかりました",
+    "en": "understood",
+    "vi": "hiểu rồi, nhất trí",
+    "type": "other",
+    "explanation": {
+      "content": [
+        "Câu nói thể hiện sự hiểu và đồng ý",
+        "Ví dụ: わかりました。 (Hiểu rồi.)"
+      ]
+    }
+  },
+  {
+    "id": "seeYouTomorrow",
+    "kanji": "じゃ、またあした",
+    "hiragana": "じゃ、またあした",
+    "en": "see you tomorrow",
+    "vi": "hẹn gặp lại (ngày mai)",
+    "type": "other",
+    "explanation": {
+      "content": [
+        "Câu chào tạm biệt",
+        "Ví dụ: じゃ、またあした。 (Hẹn gặp lại ngày mai.)"
+      ]
+    }
+  },
+  {
+    "id": "mexico",
+    "kanji": "メキシコ",
+    "hiragana": "メキシコ",
+    "en": "Mexico",
+    "vi": "Mexico",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ nước Mexico (từ mượn)",
+        "Ví dụ: メキシコへ行きます。 (Đi Mexico.)"
+      ]
+    }
+  },
+  {
+    "id": "osakaCastlePark",
+    "kanji": "大阪城公園",
+    "hiragana": "おおさかじょうこうえん",
+    "en": "Osaka Castle Park",
+    "vi": "Công viên ở Osaka",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ công viên ở Osaka",
+        "Ví dụ: 大阪城公園へ行きます。 (Đi công viên ở Osaka.)"
       ]
     }
   }

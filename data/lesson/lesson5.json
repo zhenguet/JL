@@ -8,8 +8,8 @@
     "type": "verb",
     "explanation": {
       "content": [
-        "Động từ nhóm I, dùng với trợ từ へ hoặc に",
-        "Ví dụ: 学校へ行きます。 (Đi đến trường.)"
+        "Động từ nhóm I",
+        "Ví dụ: 学校へ行きます。 (Đi trường học.)"
       ]
     }
   },
@@ -22,7 +22,7 @@
     "type": "verb",
     "explanation": {
       "content": [
-        "Động từ nhóm III, dùng với trợ từ へ hoặc に",
+        "Động từ nhóm III (来る)",
         "Ví dụ: 日本へ来ます。 (Đến Nhật Bản.)"
       ]
     }
@@ -31,293 +31,27 @@
     "id": "toReturn",
     "kanji": "帰ります",
     "hiragana": "かえります",
-    "en": "to return, to go back",
-    "vi": "về",
+    "en": "to return, to go home",
+    "vi": "về, trở về (về nhà, về quê, về nước…)",
     "type": "verb",
     "explanation": {
       "content": [
-        "Động từ nhóm I, dùng với trợ từ へ hoặc に",
+        "Động từ nhóm I",
         "Ví dụ: 家へ帰ります。 (Về nhà.)"
       ]
     }
   },
   {
-    "id": "byBus",
-    "kanji": "バスで",
-    "hiragana": "バスで",
-    "en": "by bus",
-    "vi": "bằng xe buýt",
-    "type": "other",
-    "explanation": {
-      "content": [
-        "Cách thức di chuyển, dùng trợ từ で",
-        "Ví dụ: バスで学校へ行きます。 (Đi đến trường bằng xe buýt.)"
-      ]
-    }
-  },
-  {
-    "id": "byTrain",
-    "kanji": "電車で",
-    "hiragana": "でんしゃで",
-    "en": "by train",
-    "vi": "bằng tàu điện",
-    "type": "other",
-    "explanation": {
-      "content": [
-        "Cách thức di chuyển, dùng trợ từ で",
-        "Ví dụ: 電車で東京へ行きます。 (Đi đến Tokyo bằng tàu điện.)"
-      ]
-    }
-  },
-  {
-    "id": "byCar",
-    "kanji": "車で",
-    "hiragana": "くるまで",
-    "en": "by car",
-    "vi": "bằng xe hơi",
-    "type": "other",
-    "explanation": {
-      "content": [
-        "Cách thức di chuyển, dùng trợ từ で",
-        "Ví dụ: 車で旅行します。 (Đi du lịch bằng xe hơi.)"
-      ]
-    }
-  },
-  {
-    "id": "byPlane",
-    "kanji": "飛行機で",
-    "hiragana": "ひこうきで",
-    "en": "by plane",
-    "vi": "bằng máy bay",
-    "type": "other",
-    "explanation": {
-      "content": [
-        "Cách thức di chuyển, dùng trợ từ で",
-        "Ví dụ: 飛行機で日本へ行きます。 (Đi đến Nhật Bản bằng máy bay.)"
-      ]
-    }
-  },
-  {
-    "id": "byBicycle",
-    "kanji": "自転車で",
-    "hiragana": "じてんしゃで",
-    "en": "by bicycle",
-    "vi": "bằng xe đạp",
-    "type": "other",
-    "explanation": {
-      "content": [
-        "Cách thức di chuyển, dùng trợ từ で",
-        "Ví dụ: 自転車で公園へ行きます。 (Đi đến công viên bằng xe đạp.)"
-      ]
-    }
-  },
-  {
-    "id": "onFoot",
-    "kanji": "歩いて",
-    "hiragana": "あるいて",
-    "en": "on foot, by walking",
-    "vi": "đi bộ",
-    "type": "other",
-    "explanation": {
-      "content": [
-        "Cách thức di chuyển, dùng thể te của động từ 歩く",
-        "Ví dụ: 歩いて学校へ行きます。 (Đi đến trường bằng cách đi bộ.)"
-      ]
-    }
-  },
-  {
-    "id": "together",
-    "kanji": "一緒に",
-    "hiragana": "いっしょに",
-    "en": "together",
-    "vi": "cùng nhau",
-    "type": "other",
-    "explanation": {
-      "content": [
-        "Phó từ chỉ hành động cùng nhau",
-        "Ví dụ: 友達と一緒に映画を見ます。 (Xem phim cùng với bạn.)"
-      ]
-    }
-  },
-  {
-    "id": "alone",
-    "kanji": "一人で",
-    "hiragana": "ひとりで",
-    "en": "alone, by oneself",
-    "vi": "một mình",
-    "type": "other",
-    "explanation": {
-      "content": [
-        "Phó từ chỉ hành động một mình",
-        "Ví dụ: 一人で食事をします。 (Ăn một mình.)"
-      ]
-    }
-  },
-  {
-    "id": "bus",
-    "kanji": "バス",
-    "hiragana": "バス",
-    "en": "bus",
-    "vi": "xe buýt",
+    "id": "factory",
+    "kanji": "工場",
+    "hiragana": "こうじょう",
+    "en": "factory",
+    "vi": "nhà máy",
     "type": "noun",
     "explanation": {
       "content": [
-        "Danh từ chỉ xe buýt (từ mượn)",
-        "Ví dụ: バスに乗ります。 (Lên xe buýt.)"
-      ]
-    }
-  },
-  {
-    "id": "train",
-    "kanji": "電車",
-    "hiragana": "でんしゃ",
-    "en": "train",
-    "vi": "tàu điện",
-    "type": "noun",
-    "explanation": {
-      "content": [
-        "Danh từ chỉ tàu điện",
-        "Ví dụ: 電車で通勤します。 (Đi làm bằng tàu điện.)"
-      ]
-    }
-  },
-  {
-    "id": "car",
-    "kanji": "車",
-    "hiragana": "くるま",
-    "en": "car",
-    "vi": "xe hơi",
-    "type": "noun",
-    "explanation": {
-      "content": [
-        "Danh từ chỉ xe hơi",
-        "Ví dụ: 車を運転します。 (Lái xe hơi.)"
-      ]
-    }
-  },
-  {
-    "id": "plane",
-    "kanji": "飛行機",
-    "hiragana": "ひこうき",
-    "en": "plane, airplane",
-    "vi": "máy bay",
-    "type": "noun",
-    "explanation": {
-      "content": [
-        "Danh từ chỉ máy bay",
-        "Ví dụ: 飛行機で旅行します。 (Đi du lịch bằng máy bay.)"
-      ]
-    }
-  },
-  {
-    "id": "bicycle",
-    "kanji": "自転車",
-    "hiragana": "じてんしゃ",
-    "en": "bicycle",
-    "vi": "xe đạp",
-    "type": "noun",
-    "explanation": {
-      "content": [
-        "Danh từ chỉ xe đạp",
-        "Ví dụ: 自転車に乗ります。 (Đi xe đạp.)"
-      ]
-    }
-  },
-  {
-    "id": "taxi",
-    "kanji": "タクシー",
-    "hiragana": "タクシー",
-    "en": "taxi",
-    "vi": "taxi",
-    "type": "noun",
-    "explanation": {
-      "content": [
-        "Danh từ chỉ taxi (từ mượn)",
-        "Ví dụ: タクシーで空港へ行きます。 (Đi đến sân bay bằng taxi.)"
-      ]
-    }
-  },
-  {
-    "id": "subway",
-    "kanji": "地下鉄",
-    "hiragana": "ちかてつ",
-    "en": "subway, metro",
-    "vi": "tàu điện ngầm",
-    "type": "noun",
-    "explanation": {
-      "content": [
-        "Danh từ chỉ tàu điện ngầm",
-        "Ví dụ: 地下鉄で会社へ行きます。 (Đi đến công ty bằng tàu điện ngầm.)"
-      ]
-    }
-  },
-  {
-    "id": "ship",
-    "kanji": "船",
-    "hiragana": "ふね",
-    "en": "ship",
-    "vi": "tàu thủy",
-    "type": "noun",
-    "explanation": {
-      "content": [
-        "Danh từ chỉ tàu thủy",
-        "Ví dụ: 船で島へ行きます。 (Đi đến đảo bằng tàu thủy.)"
-      ]
-    }
-  },
-  {
-    "id": "toRide",
-    "kanji": "乗ります",
-    "hiragana": "のります",
-    "en": "to ride, to get on",
-    "vi": "lên, đi",
-    "type": "verb",
-    "explanation": {
-      "content": [
-        "Động từ nhóm I, dùng với trợ từ に",
-        "Ví dụ: 電車に乗ります。 (Lên tàu điện.)"
-      ]
-    }
-  },
-  {
-    "id": "toGetOff",
-    "kanji": "降ります",
-    "hiragana": "おります",
-    "en": "to get off",
-    "vi": "xuống",
-    "type": "verb",
-    "explanation": {
-      "content": [
-        "Động từ nhóm I, dùng với trợ từ を",
-        "Ví dụ: 駅で電車を降ります。 (Xuống tàu ở ga.)"
-      ]
-    }
-  },
-  {
-    "id": "toDrive",
-    "kanji": "運転します",
-    "hiragana": "うんてんします",
-    "en": "to drive",
-    "vi": "lái xe",
-    "type": "verb",
-    "explanation": {
-      "content": [
-        "Động từ nhóm III (する), dùng với trợ từ を",
-        "Ví dụ: 車を運転します。 (Lái xe hơi.)"
-      ]
-    }
-  },
-  {
-    "id": "toWalk",
-    "kanji": "歩きます",
-    "hiragana": "あるきます",
-    "en": "to walk",
-    "vi": "đi bộ",
-    "type": "verb",
-    "explanation": {
-      "content": [
-        "Động từ nhóm I",
-        "Ví dụ: 公園を歩きます。 (Đi bộ trong công viên.)"
+        "Danh từ chỉ nhà máy",
+        "Ví dụ: 工場へ行きます。 (Đi nhà máy.)"
       ]
     }
   },
@@ -331,175 +65,693 @@
     "explanation": {
       "content": [
         "Danh từ chỉ ga tàu, ga xe",
-        "Ví dụ: 駅で電車を待ちます。 (Đợi tàu ở ga.)"
+        "Ví dụ: 駅へ行きます。 (Đi ga.)"
       ]
     }
   },
   {
-    "id": "busStop",
-    "kanji": "バス停",
-    "hiragana": "バスてい",
-    "en": "bus stop",
-    "vi": "trạm xe buýt",
+    "id": "hospital",
+    "kanji": "病院",
+    "hiragana": "びょういん",
+    "en": "hospital",
+    "vi": "bệnh viện",
     "type": "noun",
     "explanation": {
       "content": [
-        "Danh từ chỉ trạm xe buýt",
-        "Ví dụ: バス停でバスを待ちます。 (Đợi xe buýt ở trạm.)"
+        "Danh từ chỉ bệnh viện",
+        "Ví dụ: 病院へ行きます。 (Đi bệnh viện.)"
       ]
     }
   },
   {
-    "id": "ticket",
-    "kanji": "切符",
-    "hiragana": "きっぷ",
-    "en": "ticket",
-    "vi": "vé",
+    "id": "school",
+    "kanji": "学校",
+    "hiragana": "がっこう",
+    "en": "school",
+    "vi": "trường học (nói chung)",
     "type": "noun",
     "explanation": {
       "content": [
-        "Danh từ chỉ vé",
-        "Ví dụ: 切符を買います。 (Mua vé.)"
+        "Danh từ chỉ trường học",
+        "Ví dụ: 学校へ行きます。 (Đi trường học.)"
       ]
     }
   },
   {
-    "id": "ticketOffice",
-    "kanji": "切符売り場",
-    "hiragana": "きっぷうりば",
-    "en": "ticket office",
-    "vi": "quầy bán vé",
+    "id": "supermarket",
+    "kanji": "スーパー",
+    "hiragana": "スーパー",
+    "en": "supermarket",
+    "vi": "siêu thị",
     "type": "noun",
     "explanation": {
       "content": [
-        "Danh từ chỉ quầy bán vé",
-        "Ví dụ: 切符売り場で切符を買います。 (Mua vé ở quầy bán vé.)"
+        "Danh từ chỉ siêu thị (từ mượn)",
+        "Ví dụ: スーパーへ行きます。 (Đi siêu thị.)"
       ]
     }
   },
   {
-    "id": "platform",
-    "kanji": "ホーム",
-    "hiragana": "ホーム",
-    "en": "platform",
-    "vi": "sân ga",
+    "id": "bookstore",
+    "kanji": "本屋",
+    "hiragana": "ほんや",
+    "en": "bookstore",
+    "vi": "hiệu sách",
     "type": "noun",
     "explanation": {
       "content": [
-        "Danh từ chỉ sân ga (từ mượn)",
-        "Ví dụ: 三番ホームで電車を待ちます。 (Đợi tàu ở sân ga số 3.)"
+        "Danh từ chỉ hiệu sách",
+        "Ví dụ: 本屋へ行きます。 (Đi hiệu sách.)"
       ]
     }
   },
   {
-    "id": "entrance",
-    "kanji": "入口",
-    "hiragana": "いりぐち",
-    "en": "entrance",
-    "vi": "lối vào",
+    "id": "shop",
+    "kanji": "～屋",
+    "hiragana": "～や",
+    "en": "shop",
+    "vi": "hiệu ~, cửa hàng ~",
     "type": "noun",
     "explanation": {
       "content": [
-        "Danh từ chỉ lối vào",
-        "Ví dụ: 入口から入ります。 (Vào từ lối vào.)"
+        "Hậu tố chỉ cửa hàng",
+        "Ví dụ: さかな屋 (Cửa hàng cá)"
       ]
     }
   },
   {
-    "id": "exit",
-    "kanji": "出口",
-    "hiragana": "でぐち",
-    "en": "exit",
-    "vi": "lối ra",
+    "id": "fishShop",
+    "kanji": "さかな屋",
+    "hiragana": "さかなや",
+    "en": "fish shop",
+    "vi": "cửa hàng cá",
     "type": "noun",
     "explanation": {
       "content": [
-        "Danh từ chỉ lối ra",
-        "Ví dụ: 出口から出ます。 (Ra từ lối ra.)"
+        "Danh từ chỉ cửa hàng cá",
+        "Ví dụ: さかな屋へ行きます。 (Đi cửa hàng cá.)"
       ]
     }
   },
   {
-    "id": "toEnter",
-    "kanji": "入ります",
-    "hiragana": "はいります",
-    "en": "to enter",
-    "vi": "vào",
-    "type": "verb",
+    "id": "month",
+    "kanji": "～月",
+    "hiragana": "～がつ",
+    "en": "month",
+    "vi": "tháng～",
+    "type": "noun",
     "explanation": {
       "content": [
-        "Động từ nhóm I, dùng với trợ từ に",
-        "Ví dụ: 店に入ります。 (Vào cửa hàng.)"
+        "Danh từ chỉ tháng",
+        "Ví dụ: 1月 (Tháng 1)"
       ]
     }
   },
   {
-    "id": "toExit",
-    "kanji": "出ます",
-    "hiragana": "でます",
-    "en": "to exit, to leave",
-    "vi": "ra, rời",
-    "type": "verb",
+    "id": "whatMonth",
+    "kanji": "何月",
+    "hiragana": "なんがつ",
+    "en": "what month",
+    "vi": "tháng mấy",
+    "type": "noun",
     "explanation": {
       "content": [
-        "Động từ nhóm II, dùng với trợ từ を",
-        "Ví dụ: 家を出ます。 (Rời nhà.)"
+        "Từ để hỏi về tháng",
+        "Ví dụ: 今は何月ですか。 (Bây giờ là tháng mấy?)"
       ]
     }
   },
   {
-    "id": "toWait",
-    "kanji": "待ちます",
-    "hiragana": "まちます",
-    "en": "to wait",
-    "vi": "đợi",
-    "type": "verb",
+    "id": "day",
+    "kanji": "～日",
+    "hiragana": "～にち",
+    "en": "day",
+    "vi": "ngày～, (～ ngày)",
+    "type": "noun",
     "explanation": {
       "content": [
-        "Động từ nhóm I, dùng với trợ từ を",
-        "Ví dụ: 友達を待ちます。 (Đợi bạn.)"
+        "Danh từ chỉ ngày",
+        "Ví dụ: 1日 (Ngày 1)"
       ]
     }
   },
   {
-    "id": "how",
-    "kanji": "どうやって",
-    "hiragana": "どうやって",
-    "en": "how",
-    "vi": "bằng cách nào",
-    "type": "other",
+    "id": "whatDay",
+    "kanji": "何日",
+    "hiragana": "なんにち",
+    "en": "what day",
+    "vi": "ngày bao nhiêu? (bao nhiêu ngày?)",
+    "type": "noun",
     "explanation": {
       "content": [
-        "Từ để hỏi về cách thức",
-        "Ví dụ: どうやって学校へ行きますか？ (Bạn đi đến trường bằng cách nào?)"
+        "Từ để hỏi về ngày",
+        "Ví dụ: 今日は何日ですか。 (Hôm nay là ngày bao nhiêu?)"
       ]
     }
   },
   {
-    "id": "by",
-    "kanji": "で",
-    "hiragana": "で",
-    "en": "by (means of)",
-    "vi": "bằng",
-    "type": "other",
+    "id": "year",
+    "kanji": "～年",
+    "hiragana": "～ねん",
+    "en": "year",
+    "vi": "năm～",
+    "type": "noun",
     "explanation": {
       "content": [
-        "Trợ từ chỉ phương tiện, cách thức",
+        "Danh từ chỉ năm",
+        "Ví dụ: 2024年 (Năm 2024)"
+      ]
+    }
+  },
+  {
+    "id": "whatYear",
+    "kanji": "何年",
+    "hiragana": "なんねん",
+    "en": "what year",
+    "vi": "năm bao nhiêu? (bao nhiêu năm?)",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Từ để hỏi về năm",
+        "Ví dụ: 今年は何年ですか。 (Năm nay là năm bao nhiêu?)"
+      ]
+    }
+  },
+  {
+    "id": "when",
+    "kanji": "いつ",
+    "hiragana": "いつ",
+    "en": "when",
+    "vi": "khi nào, lúc nào",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Từ để hỏi về thời gian",
+        "Ví dụ: いつ日本へ行きますか。 (Khi nào đi Nhật Bản?)"
+      ]
+    }
+  },
+  {
+    "id": "lastWeek",
+    "kanji": "先週",
+    "hiragana": "せんしゅう",
+    "en": "last week",
+    "vi": "tuần trước",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ tuần trước",
+        "Ví dụ: 先週学校へ行きました。 (Tuần trước đã đi trường.)"
+      ]
+    }
+  },
+  {
+    "id": "thisWeek",
+    "kanji": "今週",
+    "hiragana": "こんしゅう",
+    "en": "this week",
+    "vi": "tuần này",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ tuần này",
+        "Ví dụ: 今週忙しいです。 (Tuần này bận.)"
+      ]
+    }
+  },
+  {
+    "id": "nextWeek",
+    "kanji": "来週",
+    "hiragana": "らいしゅう",
+    "en": "next week",
+    "vi": "tuần sau, tuần tới",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ tuần sau",
+        "Ví dụ: 来週試験があります。 (Tuần sau có thi.)"
+      ]
+    }
+  },
+  {
+    "id": "lastMonth",
+    "kanji": "先月",
+    "hiragana": "せんげつ",
+    "en": "last month",
+    "vi": "tháng trước",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ tháng trước",
+        "Ví dụ: 先月日本へ行きました。 (Tháng trước đã đi Nhật Bản.)"
+      ]
+    }
+  },
+  {
+    "id": "thisMonth",
+    "kanji": "今月",
+    "hiragana": "こんげつ",
+    "en": "this month",
+    "vi": "tháng này",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ tháng này",
+        "Ví dụ: 今月忙しいです。 (Tháng này bận.)"
+      ]
+    }
+  },
+  {
+    "id": "nextMonth",
+    "kanji": "来月",
+    "hiragana": "らいげつ",
+    "en": "next month",
+    "vi": "tháng sau, tháng tới",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ tháng sau",
+        "Ví dụ: 来月旅行します。 (Tháng sau sẽ đi du lịch.)"
+      ]
+    }
+  },
+  {
+    "id": "lastYear",
+    "kanji": "去年",
+    "hiragana": "きょねん",
+    "en": "last year",
+    "vi": "năm ngoái, năm trước",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ năm ngoái",
+        "Ví dụ: 去年日本へ行きました。 (Năm ngoái đã đi Nhật Bản.)"
+      ]
+    }
+  },
+  {
+    "id": "thisYear",
+    "kanji": "今年",
+    "hiragana": "ことし",
+    "en": "this year",
+    "vi": "năm nay",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ năm nay",
+        "Ví dụ: 今年大学を卒業します。 (Năm nay tốt nghiệp đại học.)"
+      ]
+    }
+  },
+  {
+    "id": "nextYear",
+    "kanji": "来年",
+    "hiragana": "らいねん",
+    "en": "next year",
+    "vi": "năm sau, năm tới",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ năm sau",
+        "Ví dụ: 来年日本へ行きます。 (Năm sau sẽ đi Nhật Bản.)"
+      ]
+    }
+  },
+  {
+    "id": "birthday",
+    "kanji": "誕生日",
+    "hiragana": "たんじょうび",
+    "en": "birthday",
+    "vi": "sinh nhật, ngày sinh",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ sinh nhật",
+        "Ví dụ: 誕生日にプレゼントをもらいます。 (Nhận quà vào sinh nhật.)"
+      ]
+    }
+  },
+  {
+    "id": "airplane",
+    "kanji": "飛行機",
+    "hiragana": "ひこうき",
+    "en": "airplane",
+    "vi": "máy bay",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ máy bay",
+        "Ví dụ: 飛行機で行きます。 (Đi bằng máy bay.)"
+      ]
+    }
+  },
+  {
+    "id": "ship",
+    "kanji": "船",
+    "hiragana": "ふね",
+    "en": "ship",
+    "vi": "tàu thủy",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ tàu thủy",
+        "Ví dụ: 船で行きます。 (Đi bằng tàu thủy.)"
+      ]
+    }
+  },
+  {
+    "id": "train",
+    "kanji": "電車",
+    "hiragana": "でんしゃ",
+    "en": "train",
+    "vi": "tàu điện",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ tàu điện",
         "Ví dụ: 電車で行きます。 (Đi bằng tàu điện.)"
       ]
     }
   },
   {
-    "id": "with",
-    "kanji": "と",
-    "hiragana": "と",
-    "en": "with",
-    "vi": "với",
+    "id": "subway",
+    "kanji": "地下鉄",
+    "hiragana": "ちかてつ",
+    "en": "subway",
+    "vi": "tàu điện ngầm",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ tàu điện ngầm",
+        "Ví dụ: 地下鉄で行きます。 (Đi bằng tàu điện ngầm.)"
+      ]
+    }
+  },
+  {
+    "id": "shinkansen",
+    "kanji": "新幹線",
+    "hiragana": "しんかんせん",
+    "en": "Shinkansen",
+    "vi": "tàu Shinkansen",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ tàu Shinkansen",
+        "Ví dụ: 新幹線で行きます。 (Đi bằng tàu Shinkansen.)"
+      ]
+    }
+  },
+  {
+    "id": "bus",
+    "kanji": "バス",
+    "hiragana": "バス",
+    "en": "bus",
+    "vi": "xe buýt",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ xe buýt (từ mượn)",
+        "Ví dụ: バスで行きます。 (Đi bằng xe buýt.)"
+      ]
+    }
+  },
+  {
+    "id": "taxi",
+    "kanji": "タクシー",
+    "hiragana": "タクシー",
+    "en": "taxi",
+    "vi": "taxi",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ taxi (từ mượn)",
+        "Ví dụ: タクシーで行きます。 (Đi bằng taxi.)"
+      ]
+    }
+  },
+  {
+    "id": "bicycle",
+    "kanji": "自転車",
+    "hiragana": "じてんしゃ",
+    "en": "bicycle",
+    "vi": "xe đạp",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ xe đạp",
+        "Ví dụ: 自転車で行きます。 (Đi bằng xe đạp.)"
+      ]
+    }
+  },
+  {
+    "id": "onFoot",
+    "kanji": "歩いて",
+    "hiragana": "あるいて",
+    "en": "on foot",
+    "vi": "đi bộ (chỉ phương tiện, = on foot)",
     "type": "other",
     "explanation": {
       "content": [
-        "Trợ từ chỉ đối tượng cùng hành động",
-        "Ví dụ: 友達と一緒に映画を見ます。 (Xem phim cùng với bạn.)"
+        "Cách di chuyển: đi bộ",
+        "Ví dụ: 歩いて行きます。 (Đi bộ.)"
+      ]
+    }
+  },
+  {
+    "id": "person",
+    "kanji": "人",
+    "hiragana": "ひと",
+    "en": "person",
+    "vi": "người",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ người",
+        "Ví dụ: あの人はだれですか。 (Người kia là ai?)"
+      ]
+    }
+  },
+  {
+    "id": "friend",
+    "kanji": "友達",
+    "hiragana": "ともだち",
+    "en": "friend",
+    "vi": "bạn, bạn bè",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ bạn",
+        "Ví dụ: 友達と遊びます。 (Chơi với bạn.)"
+      ]
+    }
+  },
+  {
+    "id": "lover",
+    "kanji": "恋人",
+    "hiragana": "こいびと",
+    "en": "lover",
+    "vi": "người yêu",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ người yêu",
+        "Ví dụ: 恋人と会います。 (Gặp người yêu.)"
+      ]
+    }
+  },
+  {
+    "id": "he",
+    "kanji": "彼",
+    "hiragana": "かれ",
+    "en": "he",
+    "vi": "anh ấy (ngôi thứ ba số ít)",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Đại từ nhân xưng ngôi thứ ba số ít",
+        "Ví dụ: 彼は学生です。 (Anh ấy là học sinh.)"
+      ]
+    }
+  },
+  {
+    "id": "she",
+    "kanji": "彼女",
+    "hiragana": "かのじょ",
+    "en": "she",
+    "vi": "cô ấy (ngôi thứ ba số ít)",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Đại từ nhân xưng ngôi thứ ba số ít",
+        "Ví dụ: 彼女は先生です。 (Cô ấy là giáo viên.)"
+      ]
+    }
+  },
+  {
+    "id": "family",
+    "kanji": "家族",
+    "hiragana": "かぞく",
+    "en": "family",
+    "vi": "gia đình",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ gia đình",
+        "Ví dụ: 家族と一緒に住みます。 (Sống cùng gia đình.)"
+      ]
+    }
+  },
+  {
+    "id": "alone",
+    "kanji": "1人で",
+    "hiragana": "ひとりで",
+    "en": "alone",
+    "vi": "một mình",
+    "type": "other",
+    "explanation": {
+      "content": [
+        "Cụm từ chỉ một mình",
+        "Ví dụ: 1人で行きます。 (Đi một mình.)"
+      ]
+    }
+  },
+  {
+    "id": "local",
+    "kanji": "普通",
+    "hiragana": "ふつう",
+    "en": "local, regular",
+    "vi": "thông thường, tàu thường",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ tàu thường",
+        "Ví dụ: 普通で行きます。 (Đi bằng tàu thường.)"
+      ]
+    }
+  },
+  {
+    "id": "express",
+    "kanji": "急行",
+    "hiragana": "きゅうこう",
+    "en": "express",
+    "vi": "tốc hành, tàu tốc hành",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ tàu tốc hành",
+        "Ví dụ: 急行で行きます。 (Đi bằng tàu tốc hành.)"
+      ]
+    }
+  },
+  {
+    "id": "limitedExpress",
+    "kanji": "特急",
+    "hiragana": "とっきゅう",
+    "en": "limited express",
+    "vi": "cao tốc, tàu cao tốc",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ tàu cao tốc",
+        "Ví dụ: 特急で行きます。 (Đi bằng tàu cao tốc.)"
+      ]
+    }
+  },
+  {
+    "id": "next",
+    "kanji": "次の～",
+    "hiragana": "つぎの～",
+    "en": "next",
+    "vi": "～tiếp theo",
+    "type": "other",
+    "explanation": {
+      "content": [
+        "Từ chỉ tiếp theo",
+        "Ví dụ: 次の駅 (Ga tiếp theo)"
+      ]
+    }
+  },
+  {
+    "id": "nextStation",
+    "kanji": "次の駅",
+    "hiragana": "つぎのえき",
+    "en": "next station",
+    "vi": "ga tiếp theo",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ ga tiếp theo",
+        "Ví dụ: 次の駅で降ります。 (Xuống ở ga tiếp theo.)"
+      ]
+    }
+  },
+  {
+    "id": "platform",
+    "kanji": "～番線",
+    "hiragana": "～ばんせん",
+    "en": "platform",
+    "vi": "bến tàu số ～, đường tàu số ～",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ bến tàu",
+        "Ví dụ: 3番線 (Bến tàu số 3)"
+      ]
+    }
+  },
+  {
+    "id": "hakata",
+    "kanji": "博多",
+    "hiragana": "はかた",
+    "en": "Hakata",
+    "vi": "Thị trấn Hakata ở Kyushu",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ thị trấn Hakata",
+        "Ví dụ: 博多へ行きます。 (Đi Hakata.)"
+      ]
+    }
+  },
+  {
+    "id": "fushimi",
+    "kanji": "伏見",
+    "hiragana": "ふしみ",
+    "en": "Fushimi",
+    "vi": "Thị trấn Fushimi ở Kyoto",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ thị trấn Fushimi",
+        "Ví dụ: 伏見へ行きます。 (Đi Fushimi.)"
+      ]
+    }
+  },
+  {
+    "id": "koshien",
+    "kanji": "甲子園",
+    "hiragana": "こうしえん",
+    "en": "Koshien",
+    "vi": "Thị trấn Koshien gần Osaka",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ thị trấn Koshien",
+        "Ví dụ: 甲子園へ行きます。 (Đi Koshien.)"
+      ]
+    }
+  },
+  {
+    "id": "osakaCastle",
+    "kanji": "大阪城",
+    "hiragana": "おおさかじょう",
+    "en": "Osaka Castle",
+    "vi": "Thành cổ Osaka, thành cổ nổi tiếng ở Osaka",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ thành cổ Osaka",
+        "Ví dụ: 大阪城へ行きます。 (Đi thành cổ Osaka.)"
       ]
     }
   }

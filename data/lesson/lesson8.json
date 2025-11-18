@@ -1,72 +1,141 @@
 [
   {
-    "id": "easy",
-    "kanji": "易しい",
-    "hiragana": "やさしい",
-    "en": "easy",
-    "vi": "dễ",
+    "id": "beautiful",
+    "kanji": "きれい",
+    "hiragana": "きれい",
+    "en": "beautiful, clean",
+    "vi": "đẹp, xinh đẹp, sạch sẽ",
     "type": "adjective",
     "explanation": {
       "content": [
-        "Tính từ i (い-adjective)",
-        "Ví dụ: この問題は易しいです。 (Vấn đề này dễ.)"
+        "Tính từ な (な-adjective)",
+        "Ví dụ: きれいな花です。 (Hoa đẹp.)"
       ]
     }
   },
   {
-    "id": "difficult",
-    "kanji": "難しい",
-    "hiragana": "むずかしい",
-    "en": "difficult",
-    "vi": "khó",
+    "id": "handsome",
+    "kanji": "ハンサム",
+    "hiragana": "ハンサム",
+    "en": "handsome",
+    "vi": "đẹp trai",
     "type": "adjective",
     "explanation": {
       "content": [
-        "Tính từ i (い-adjective)",
-        "Ví dụ: この問題は難しいです。 (Vấn đề này khó.)"
+        "Tính từ な (な-adjective, từ mượn)",
+        "Ví dụ: ハンサムな人です。 (Người đẹp trai.)"
       ]
     }
   },
   {
-    "id": "high",
-    "kanji": "高い",
-    "hiragana": "たかい",
-    "en": "high, expensive",
-    "vi": "cao, đắt",
+    "id": "kind",
+    "kanji": "親切",
+    "hiragana": "しんせつ",
+    "en": "kind",
+    "vi": "tử tế, tốt bụng, thân thiện",
     "type": "adjective",
     "explanation": {
       "content": [
-        "Tính từ i (い-adjective)",
-        "Ví dụ: この建物は高いです。 (Tòa nhà này cao.)",
-        "Ví dụ: この本は高いです。 (Cuốn sách này đắt.)"
+        "Tính từ な (な-adjective)",
+        "Ví dụ: 親切な人です。 (Người tử tế.)"
       ]
     }
   },
   {
-    "id": "low",
-    "kanji": "低い",
-    "hiragana": "ひくい",
-    "en": "low",
-    "vi": "thấp",
+    "id": "famous",
+    "kanji": "有名",
+    "hiragana": "ゆうめい",
+    "en": "famous",
+    "vi": "nổi tiếng",
     "type": "adjective",
     "explanation": {
       "content": [
-        "Tính từ i (い-adjective)",
-        "Ví dụ: この建物は低いです。 (Tòa nhà này thấp.)"
+        "Tính từ な (な-adjective)",
+        "Ví dụ: 有名な人です。 (Người nổi tiếng.)"
       ]
     }
   },
   {
-    "id": "cheap",
-    "kanji": "安い",
-    "hiragana": "やすい",
-    "en": "cheap",
-    "vi": "rẻ",
+    "id": "healthy",
+    "kanji": "元気",
+    "hiragana": "げんき",
+    "en": "healthy, energetic",
+    "vi": "khỏe, khỏe mạnh",
     "type": "adjective",
     "explanation": {
       "content": [
-        "Tính từ i (い-adjective)",
-        "Ví dụ: この本は安いです。 (Cuốn sách này rẻ.)"
+        "Tính từ な (な-adjective)",
+        "Ví dụ: 元気な人です。 (Người khỏe mạnh.)"
+      ]
+    }
+  },
+  {
+    "id": "quiet",
+    "kanji": "静か",
+    "hiragana": "しずか",
+    "en": "quiet",
+    "vi": "yên tĩnh, yên ắng",
+    "type": "adjective",
+    "explanation": {
+      "content": [
+        "Tính từ な (な-adjective)",
+        "Ví dụ: 静かな部屋です。 (Phòng yên tĩnh.)"
+      ]
+    }
+  },
+  {
+    "id": "lively",
+    "kanji": "にぎやか",
+    "hiragana": "にぎやか",
+    "en": "lively, bustling",
+    "vi": "đông đúc, nhộn nhịp",
+    "type": "adjective",
+    "explanation": {
+      "content": [
+        "Tính từ な (な-adjective)",
+        "Ví dụ: にぎやかな町です。 (Thị trấn đông đúc.)"
+      ]
+    }
+  },
+  {
+    "id": "free",
+    "kanji": "暇",
+    "hiragana": "ひま",
+    "en": "free, not busy",
+    "vi": "rảnh rỗi, rỗi rãi",
+    "type": "adjective",
+    "explanation": {
+      "content": [
+        "Tính từ な (な-adjective)",
+        "Ví dụ: 今日は暇です。 (Hôm nay rảnh.)"
+      ]
+    }
+  },
+  {
+    "id": "convenient",
+    "kanji": "便利",
+    "hiragana": "べんり",
+    "en": "convenient",
+    "vi": "tiện lợi, thuận tiện",
+    "type": "adjective",
+    "explanation": {
+      "content": [
+        "Tính từ な (な-adjective)",
+        "Ví dụ: 便利な場所です。 (Nơi tiện lợi.)"
+      ]
+    }
+  },
+  {
+    "id": "wonderful",
+    "kanji": "すてき",
+    "hiragana": "すてき",
+    "en": "wonderful",
+    "vi": "đẹp, tuyệt vời",
+    "type": "adjective",
+    "explanation": {
+      "content": [
+        "Tính từ な (な-adjective)",
+        "Ví dụ: すてきな服です。 (Quần áo đẹp.)"
       ]
     }
   },
@@ -75,12 +144,12 @@
     "kanji": "大きい",
     "hiragana": "おおきい",
     "en": "big",
-    "vi": "lớn",
+    "vi": "to, lớn",
     "type": "adjective",
     "explanation": {
       "content": [
         "Tính từ i (い-adjective)",
-        "Ví dụ: この部屋は大きいです。 (Căn phòng này lớn.)"
+        "Ví dụ: 大きい部屋です。 (Phòng lớn.)"
       ]
     }
   },
@@ -89,12 +158,12 @@
     "kanji": "小さい",
     "hiragana": "ちいさい",
     "en": "small",
-    "vi": "nhỏ",
+    "vi": "nhỏ, bé",
     "type": "adjective",
     "explanation": {
       "content": [
         "Tính từ i (い-adjective)",
-        "Ví dụ: この部屋は小さいです。 (Căn phòng này nhỏ.)"
+        "Ví dụ: 小さい部屋です。 (Phòng nhỏ.)"
       ]
     }
   },
@@ -108,7 +177,7 @@
     "explanation": {
       "content": [
         "Tính từ i (い-adjective)",
-        "Ví dụ: 新しい車を買いました。 (Đã mua xe hơi mới.)"
+        "Ví dụ: 新しい車です。 (Xe mới.)"
       ]
     }
   },
@@ -122,21 +191,21 @@
     "explanation": {
       "content": [
         "Tính từ i (い-adjective)",
-        "Ví dụ: 古い本を読みます。 (Đọc sách cũ.)"
+        "Ví dụ: 古い本です。 (Sách cũ.)"
       ]
     }
   },
   {
     "id": "good",
-    "kanji": "良い",
-    "hiragana": "よい",
+    "kanji": "いい（よい）",
+    "hiragana": "いい（よい）",
     "en": "good",
-    "vi": "tốt",
+    "vi": "tốt, đẹp",
     "type": "adjective",
     "explanation": {
       "content": [
-        "Tính từ i (い-adjective), cũng đọc là いい",
-        "Ví dụ: 良い天気です。 (Thời tiết tốt.)"
+        "Tính từ i (い-adjective)",
+        "Ví dụ: いい天気です。 (Thời tiết tốt.)"
       ]
     }
   },
@@ -145,7 +214,7 @@
     "kanji": "悪い",
     "hiragana": "わるい",
     "en": "bad",
-    "vi": "xấu, tệ",
+    "vi": "tồi, xấu",
     "type": "adjective",
     "explanation": {
       "content": [
@@ -155,59 +224,114 @@
     }
   },
   {
-    "id": "beautiful",
-    "kanji": "きれい",
-    "hiragana": "きれい",
-    "en": "beautiful, clean",
-    "vi": "đẹp, sạch",
-    "type": "adjective",
-    "explanation": {
-      "content": [
-        "Tính từ な (な-adjective)",
-        "Ví dụ: きれいな花です。 (Hoa đẹp.)",
-        "Ví dụ: きれいな部屋です。 (Phòng sạch.)"
-      ]
-    }
-  },
-  {
-    "id": "dirty",
-    "kanji": "汚い",
-    "hiragana": "きたない",
-    "en": "dirty",
-    "vi": "bẩn",
+    "id": "hot",
+    "kanji": "暑い",
+    "hiragana": "あつい",
+    "en": "hot",
+    "vi": "nóng, bức",
     "type": "adjective",
     "explanation": {
       "content": [
         "Tính từ i (い-adjective)",
-        "Ví dụ: 汚い部屋です。 (Phòng bẩn.)"
+        "Ví dụ: 暑い日です。 (Ngày nóng.)"
       ]
     }
   },
   {
-    "id": "busy",
-    "kanji": "忙しい",
-    "hiragana": "いそがしい",
-    "en": "busy",
-    "vi": "bận",
+    "id": "cold",
+    "kanji": "寒い",
+    "hiragana": "さむい",
+    "en": "cold",
+    "vi": "lạnh, rét (thời tiết)",
     "type": "adjective",
     "explanation": {
       "content": [
         "Tính từ i (い-adjective)",
-        "Ví dụ: 今日は忙しいです。 (Hôm nay bận.)"
+        "Ví dụ: 寒い日です。 (Ngày lạnh.)"
       ]
     }
   },
   {
-    "id": "free",
-    "kanji": "暇",
-    "hiragana": "ひま",
-    "en": "free, not busy",
-    "vi": "rảnh",
+    "id": "coldObject",
+    "kanji": "冷たい",
+    "hiragana": "つめたい",
+    "en": "cold (object)",
+    "vi": "lạnh (nói về nhiệt độ)",
     "type": "adjective",
     "explanation": {
       "content": [
-        "Tính từ な (な-adjective)",
-        "Ví dụ: 今日は暇です。 (Hôm nay rảnh.)"
+        "Tính từ i (い-adjective)",
+        "Ví dụ: 冷たい水です。 (Nước lạnh.)"
+      ]
+    }
+  },
+  {
+    "id": "difficult",
+    "kanji": "難しい",
+    "hiragana": "むずかしい",
+    "en": "difficult",
+    "vi": "khó",
+    "type": "adjective",
+    "explanation": {
+      "content": [
+        "Tính từ i (い-adjective)",
+        "Ví dụ: 難しい問題です。 (Vấn đề khó.)"
+      ]
+    }
+  },
+  {
+    "id": "easy",
+    "kanji": "優しい",
+    "hiragana": "やさしい",
+    "en": "easy, gentle",
+    "vi": "dễ",
+    "type": "adjective",
+    "explanation": {
+      "content": [
+        "Tính từ i (い-adjective)",
+        "Ví dụ: 優しい問題です。 (Vấn đề dễ.)"
+      ]
+    }
+  },
+  {
+    "id": "expensive",
+    "kanji": "高い",
+    "hiragana": "たかい",
+    "en": "expensive, high",
+    "vi": "đắt, cao",
+    "type": "adjective",
+    "explanation": {
+      "content": [
+        "Tính từ i (い-adjective)",
+        "Ví dụ: 高い本です。 (Sách đắt.)"
+      ]
+    }
+  },
+  {
+    "id": "cheap",
+    "kanji": "安い",
+    "hiragana": "やすい",
+    "en": "cheap",
+    "vi": "rẻ",
+    "type": "adjective",
+    "explanation": {
+      "content": [
+        "Tính từ i (い-adjective)",
+        "Ví dụ: 安い本です。 (Sách rẻ.)"
+      ]
+    }
+  },
+  {
+    "id": "low",
+    "kanji": "低い",
+    "hiragana": "ひくい",
+    "en": "low",
+    "vi": "thấp",
+    "type": "adjective",
+    "explanation": {
+      "content": [
+        "Tính từ i (い-adjective)",
+        "Ví dụ: 低い建物です。 (Tòa nhà thấp.)"
       ]
     }
   },
@@ -216,26 +340,40 @@
     "kanji": "面白い",
     "hiragana": "おもしろい",
     "en": "interesting",
-    "vi": "thú vị",
+    "vi": "hay, thú vị",
     "type": "adjective",
     "explanation": {
       "content": [
         "Tính từ i (い-adjective)",
-        "Ví dụ: この本は面白いです。 (Cuốn sách này thú vị.)"
+        "Ví dụ: 面白い本です。 (Sách hay.)"
       ]
     }
   },
   {
-    "id": "boring",
-    "kanji": "つまらない",
-    "hiragana": "つまらない",
-    "en": "boring",
-    "vi": "chán, nhàm",
+    "id": "delicious",
+    "kanji": "おいしい",
+    "hiragana": "おいしい",
+    "en": "delicious",
+    "vi": "ngon",
     "type": "adjective",
     "explanation": {
       "content": [
         "Tính từ i (い-adjective)",
-        "Ví dụ: この映画はつまらないです。 (Bộ phim này chán.)"
+        "Ví dụ: おいしい料理です。 (Món ăn ngon.)"
+      ]
+    }
+  },
+  {
+    "id": "busy",
+    "kanji": "忙しい",
+    "hiragana": "いそがしい",
+    "en": "busy",
+    "vi": "bận, bận rộn",
+    "type": "adjective",
+    "explanation": {
+      "content": [
+        "Tính từ i (い-adjective)",
+        "Ví dụ: 忙しい人です。 (Người bận.)"
       ]
     }
   },
@@ -243,181 +381,559 @@
     "id": "fun",
     "kanji": "楽しい",
     "hiragana": "たのしい",
-    "en": "fun, enjoyable",
-    "vi": "vui",
+    "en": "fun",
+    "vi": "vui vẻ",
     "type": "adjective",
     "explanation": {
       "content": [
         "Tính từ i (い-adjective)",
-        "Ví dụ: パーティーは楽しいです。 (Bữa tiệc vui.)"
+        "Ví dụ: 楽しいパーティーです。 (Bữa tiệc vui.)"
       ]
     }
   },
   {
-    "id": "fast",
-    "kanji": "速い",
-    "hiragana": "はやい",
-    "en": "fast",
-    "vi": "nhanh",
+    "id": "white",
+    "kanji": "白い",
+    "hiragana": "しろい",
+    "en": "white",
+    "vi": "trắng",
     "type": "adjective",
     "explanation": {
       "content": [
         "Tính từ i (い-adjective)",
-        "Ví dụ: この車は速いです。 (Xe hơi này nhanh.)"
+        "Ví dụ: 白い花です。 (Hoa trắng.)"
       ]
     }
   },
   {
-    "id": "slow",
-    "kanji": "遅い",
-    "hiragana": "おそい",
-    "en": "slow",
-    "vi": "chậm",
+    "id": "black",
+    "kanji": "黒い",
+    "hiragana": "くろい",
+    "en": "black",
+    "vi": "đen",
     "type": "adjective",
     "explanation": {
       "content": [
         "Tính từ i (い-adjective)",
-        "Ví dụ: この車は遅いです。 (Xe hơi này chậm.)"
+        "Ví dụ: 黒い車です。 (Xe đen.)"
       ]
     }
   },
   {
-    "id": "early",
-    "kanji": "早い",
-    "hiragana": "はやい",
-    "en": "early",
-    "vi": "sớm",
+    "id": "red",
+    "kanji": "赤い",
+    "hiragana": "あかい",
+    "en": "red",
+    "vi": "đỏ",
     "type": "adjective",
     "explanation": {
       "content": [
         "Tính từ i (い-adjective)",
-        "Ví dụ: 早く起きます。 (Thức dậy sớm.)"
+        "Ví dụ: 赤い花です。 (Hoa đỏ.)"
       ]
     }
   },
   {
-    "id": "late",
-    "kanji": "遅い",
-    "hiragana": "おそい",
-    "en": "late",
-    "vi": "muộn",
+    "id": "blue",
+    "kanji": "青い",
+    "hiragana": "あおい",
+    "en": "blue",
+    "vi": "xanh",
     "type": "adjective",
     "explanation": {
       "content": [
         "Tính từ i (い-adjective)",
-        "Ví dụ: 遅く帰ります。 (Về muộn.)"
+        "Ví dụ: 青い空です。 (Bầu trời xanh.)"
       ]
     }
   },
   {
-    "id": "many",
-    "kanji": "多い",
-    "hiragana": "おおい",
-    "en": "many",
-    "vi": "nhiều",
-    "type": "adjective",
+    "id": "exam",
+    "kanji": "試験",
+    "hiragana": "しけん",
+    "en": "exam",
+    "vi": "thi, kiểm tra",
+    "type": "noun",
     "explanation": {
       "content": [
-        "Tính từ i (い-adjective)",
-        "Ví dụ: 人が多いです。 (Có nhiều người.)"
+        "Danh từ chỉ thi, kiểm tra",
+        "Ví dụ: 試験を受けます。 (Thi.)"
       ]
     }
   },
   {
-    "id": "few",
-    "kanji": "少ない",
-    "hiragana": "すくない",
-    "en": "few",
-    "vi": "ít",
-    "type": "adjective",
+    "id": "homework",
+    "kanji": "宿題",
+    "hiragana": "しゅくだい",
+    "en": "homework",
+    "vi": "bài tập (về nhà)",
+    "type": "noun",
     "explanation": {
       "content": [
-        "Tính từ i (い-adjective)",
-        "Ví dụ: 人が少ないです。 (Có ít người.)"
+        "Danh từ chỉ bài tập về nhà",
+        "Ví dụ: 宿題をします。 (Làm bài tập.)"
       ]
     }
   },
   {
-    "id": "long",
-    "kanji": "長い",
-    "hiragana": "ながい",
-    "en": "long",
-    "vi": "dài",
-    "type": "adjective",
+    "id": "food",
+    "kanji": "食べ物",
+    "hiragana": "たべもの",
+    "en": "food",
+    "vi": "đồ ăn",
+    "type": "noun",
     "explanation": {
       "content": [
-        "Tính từ i (い-adjective)",
-        "Ví dụ: この道は長いです。 (Con đường này dài.)"
+        "Danh từ chỉ đồ ăn",
+        "Ví dụ: 食べ物を買います。 (Mua đồ ăn.)"
       ]
     }
   },
   {
-    "id": "short",
-    "kanji": "短い",
-    "hiragana": "みじかい",
-    "en": "short",
-    "vi": "ngắn",
-    "type": "adjective",
+    "id": "cherryBlossom",
+    "kanji": "桜",
+    "hiragana": "さくら",
+    "en": "cherry blossom",
+    "vi": "hoa Anh Đào",
+    "type": "noun",
     "explanation": {
       "content": [
-        "Tính từ i (い-adjective)",
-        "Ví dụ: この道は短いです。 (Con đường này ngắn.)"
+        "Danh từ chỉ hoa Anh Đào",
+        "Ví dụ: 桜を見ます。 (Xem hoa Anh Đào.)"
       ]
     }
   },
   {
-    "id": "wide",
-    "kanji": "広い",
-    "hiragana": "ひろい",
-    "en": "wide",
-    "vi": "rộng",
-    "type": "adjective",
+    "id": "flower",
+    "kanji": "花",
+    "hiragana": "はな",
+    "en": "flower",
+    "vi": "hoa, bông hoa",
+    "type": "noun",
     "explanation": {
       "content": [
-        "Tính từ i (い-adjective)",
-        "Ví dụ: この部屋は広いです。 (Căn phòng này rộng.)"
+        "Danh từ chỉ hoa",
+        "Ví dụ: 花を買います。 (Mua hoa.)"
       ]
     }
   },
   {
-    "id": "narrow",
-    "kanji": "狭い",
-    "hiragana": "せまい",
-    "en": "narrow",
-    "vi": "hẹp",
-    "type": "adjective",
+    "id": "town",
+    "kanji": "町",
+    "hiragana": "まち",
+    "en": "town",
+    "vi": "thị xã, phố, phường",
+    "type": "noun",
     "explanation": {
       "content": [
-        "Tính từ i (い-adjective)",
-        "Ví dụ: この道は狭いです。 (Con đường này hẹp.)"
+        "Danh từ chỉ thị xã, phố",
+        "Ví dụ: 静かな町です。 (Thị xã yên tĩnh.)"
       ]
     }
   },
   {
-    "id": "heavy",
-    "kanji": "重い",
-    "hiragana": "おもい",
-    "en": "heavy",
-    "vi": "nặng",
-    "type": "adjective",
+    "id": "mountain",
+    "kanji": "山",
+    "hiragana": "やま",
+    "en": "mountain",
+    "vi": "núi, ngọn núi",
+    "type": "noun",
     "explanation": {
       "content": [
-        "Tính từ i (い-adjective)",
-        "Ví dụ: この箱は重いです。 (Cái hộp này nặng.)"
+        "Danh từ chỉ núi",
+        "Ví dụ: 高い山です。 (Núi cao.)"
       ]
     }
   },
   {
-    "id": "light",
-    "kanji": "軽い",
-    "hiragana": "かるい",
-    "en": "light",
-    "vi": "nhẹ",
-    "type": "adjective",
+    "id": "mountFuji",
+    "kanji": "富士山",
+    "hiragana": "ふじさん",
+    "en": "Mount Fuji",
+    "vi": "núi Phú Sĩ",
+    "type": "noun",
     "explanation": {
       "content": [
-        "Tính từ i (い-adjective)",
-        "Ví dụ: この箱は軽いです。 (Cái hộp này nhẹ.)"
+        "Danh từ chỉ núi Phú Sĩ",
+        "Ví dụ: 富士山は高いです。 (Núi Phú Sĩ cao.)"
+      ]
+    }
+  },
+  {
+    "id": "place",
+    "kanji": "所",
+    "hiragana": "ところ",
+    "en": "place",
+    "vi": "nơi, chỗ",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ nơi, chỗ",
+        "Ví dụ: 静かな所です。 (Nơi yên tĩnh.)"
+      ]
+    }
+  },
+  {
+    "id": "dormitory",
+    "kanji": "寮",
+    "hiragana": "りょう",
+    "en": "dormitory",
+    "vi": "ký túc xá",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ ký túc xá",
+        "Ví dụ: 寮に住みます。 (Sống ở ký túc xá.)"
+      ]
+    }
+  },
+  {
+    "id": "car",
+    "kanji": "車",
+    "hiragana": "くるま",
+    "en": "car",
+    "vi": "xe ô tô",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ xe ô tô",
+        "Ví dụ: 新しい車です。 (Xe mới.)"
+      ]
+    }
+  },
+  {
+    "id": "life",
+    "kanji": "生活",
+    "hiragana": "せいかつ",
+    "en": "life",
+    "vi": "cuộc sống (hằng ngày)",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ cuộc sống",
+        "Ví dụ: 生活は忙しいです。 (Cuộc sống bận.)"
+      ]
+    }
+  },
+  {
+    "id": "work",
+    "kanji": "お仕事",
+    "hiragana": "おしごと",
+    "en": "work",
+    "vi": "công việc",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ công việc, có tiền tố お (lịch sự)",
+        "Ví dụ: お仕事は忙しいです。 (Công việc bận.)"
+      ]
+    }
+  },
+  {
+    "id": "how",
+    "kanji": "どう",
+    "hiragana": "どう",
+    "en": "how",
+    "vi": "như thế nào, ra sao",
+    "type": "other",
+    "explanation": {
+      "content": [
+        "Từ để hỏi về cách thức, tình trạng",
+        "Ví dụ: どうですか。 (Như thế nào?)"
+      ]
+    }
+  },
+  {
+    "id": "whatKindOf",
+    "kanji": "どんな～",
+    "hiragana": "どんな～",
+    "en": "what kind of",
+    "vi": "~ như thế nào? (+danh từ)",
+    "type": "other",
+    "explanation": {
+      "content": [
+        "Từ để hỏi về tính chất, đứng trước danh từ",
+        "Ví dụ: どんな本ですか。 (Sách như thế nào?)"
+      ]
+    }
+  },
+  {
+    "id": "which",
+    "kanji": "どれ",
+    "hiragana": "どれ",
+    "en": "which",
+    "vi": "cái nào",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Từ để hỏi \"cái nào\"",
+        "Ví dụ: どれが好きですか。 (Thích cái nào?)"
+      ]
+    }
+  },
+  {
+    "id": "very",
+    "kanji": "大変",
+    "hiragana": "たいへん",
+    "en": "very",
+    "vi": "cực kỳ, vô cùng",
+    "type": "adverb",
+    "explanation": {
+      "content": [
+        "Phó từ chỉ mức độ cao",
+        "Ví dụ: 大変忙しいです。 (Rất bận.)"
+      ]
+    }
+  },
+  {
+    "id": "notVery",
+    "kanji": "あまり",
+    "hiragana": "あまり",
+    "en": "not very",
+    "vi": "không ~ lắm (phủ định)",
+    "type": "adverb",
+    "explanation": {
+      "content": [
+        "Phó từ dùng với câu phủ định",
+        "Ví dụ: あまり高くないです。 (Không đắt lắm.)"
+      ]
+    }
+  },
+  {
+    "id": "very",
+    "kanji": "とても",
+    "hiragana": "とても",
+    "en": "very",
+    "vi": "rất",
+    "type": "adverb",
+    "explanation": {
+      "content": [
+        "Phó từ chỉ mức độ cao",
+        "Ví dụ: とても高いです。 (Rất đắt.)"
+      ]
+    }
+  },
+  {
+    "id": "and",
+    "kanji": "そして",
+    "hiragana": "そして",
+    "en": "and",
+    "vi": "và rồi",
+    "type": "other",
+    "explanation": {
+      "content": [
+        "Từ nối chỉ thứ tự",
+        "Ví dụ: ご飯を食べます。そして勉強します。 (Ăn cơm. Và rồi học.)"
+      ]
+    }
+  },
+  {
+    "id": "but",
+    "kanji": "～が、",
+    "hiragana": "～が、",
+    "en": "but",
+    "vi": "~ nhưng ~",
+    "type": "other",
+    "explanation": {
+      "content": [
+        "Từ nối chỉ sự đối lập",
+        "Ví dụ: 高いですが、いいです。 (Đắt nhưng tốt.)"
+      ]
+    }
+  },
+  {
+    "id": "hey",
+    "kanji": "やあ",
+    "hiragana": "やあ",
+    "en": "hey",
+    "vi": "này!, chào! (dùng để chào bạn bè)",
+    "type": "other",
+    "explanation": {
+      "content": [
+        "Câu chào thân mật",
+        "Ví dụ: やあ、元気？ (Này, khỏe không?)"
+      ]
+    }
+  },
+  {
+    "id": "longTimeNoSee",
+    "kanji": "しばらくですね",
+    "hiragana": "しばらくですね",
+    "en": "long time no see",
+    "vi": "lâu lắm không gặp nhỉ",
+    "type": "other",
+    "explanation": {
+      "content": [
+        "Câu chào khi lâu không gặp",
+        "Ví dụ: しばらくですね。 (Lâu lắm không gặp nhỉ.)"
+      ]
+    }
+  },
+  {
+    "id": "howAreYou",
+    "kanji": "お元気ですか",
+    "hiragana": "おげんきですか",
+    "en": "how are you",
+    "vi": "bạn có khỏe không",
+    "type": "other",
+    "explanation": {
+      "content": [
+        "Câu hỏi thăm sức khỏe",
+        "Ví dụ: お元気ですか。 (Bạn có khỏe không?)"
+      ]
+    }
+  },
+  {
+    "id": "pleaseThisWay",
+    "kanji": "どうぞこちらへ",
+    "hiragana": "どうぞこちらへ",
+    "en": "please this way",
+    "vi": "xin mời đi lối này",
+    "type": "other",
+    "explanation": {
+      "content": [
+        "Câu mời đi",
+        "Ví dụ: どうぞこちらへ。 (Xin mời đi lối này.)"
+      ]
+    }
+  },
+  {
+    "id": "howAboutCoffee",
+    "kanji": "コーヒーはいかがですか",
+    "hiragana": "コーヒーはいかがですか",
+    "en": "how about coffee",
+    "vi": "uống/dùng (cà phê) nhé/không?",
+    "type": "other",
+    "explanation": {
+      "content": [
+        "Câu mời lịch sự",
+        "Ví dụ: コーヒーはいかがですか。 (Uống cà phê nhé?)"
+      ]
+    }
+  },
+  {
+    "id": "howAboutAnotherCoffee",
+    "kanji": "コーヒーをもう一杯いかがですか",
+    "hiragana": "コーヒーをもういっぱいいかがですか",
+    "en": "how about another coffee",
+    "vi": "uống/dùng thêm (cà phê) nhé/không?",
+    "type": "other",
+    "explanation": {
+      "content": [
+        "Câu mời lịch sự",
+        "Ví dụ: コーヒーをもう一杯いかがですか。 (Uống thêm cà phê nhé?)"
+      ]
+    }
+  },
+  {
+    "id": "thankYouForTheMeal",
+    "kanji": "いただきます",
+    "hiragana": "いただきます",
+    "en": "thank you for the meal",
+    "vi": "xin mời (nói khi bắt đầu ăn, uống gì đó)",
+    "type": "other",
+    "explanation": {
+      "content": [
+        "Câu nói trước khi bắt đầu ăn",
+        "Ví dụ: いただきます。 (Xin mời, cảm ơn vì bữa ăn.)"
+      ]
+    }
+  },
+  {
+    "id": "thankYouForTheMealAfter",
+    "kanji": "ごちそうさまでした",
+    "hiragana": "ごちそうさまでした",
+    "en": "thank you for the meal (after eating)",
+    "vi": "xin cảm ơn (vì bữa ăn ngon) (nói khi ăn, uống xong)",
+    "type": "other",
+    "explanation": {
+      "content": [
+        "Câu nói sau khi ăn xong",
+        "Ví dụ: ごちそうさまでした。 (Xin cảm ơn vì bữa ăn ngon.)"
+      ]
+    }
+  },
+  {
+    "id": "noThankYou",
+    "kanji": "いいえ、けっこうです",
+    "hiragana": "いいえ、けっこうです",
+    "en": "no thank you",
+    "vi": "không, cảm ơn, tôi đủ rồi (nói khi từ chối ăn tiếp)",
+    "type": "other",
+    "explanation": {
+      "content": [
+        "Câu từ chối lịch sự",
+        "Ví dụ: いいえ、けっこうです。 (Không, cảm ơn, tôi đủ rồi.)"
+      ]
+    }
+  },
+  {
+    "id": "already",
+    "kanji": "もう～ですね",
+    "hiragana": "もう～ですね",
+    "en": "already",
+    "vi": "đã ~ rồi (nhỉ)",
+    "type": "other",
+    "explanation": {
+      "content": [
+        "Câu nói thể hiện sự nhận biết",
+        "Ví dụ: もう12時ですね。 (Đã 12 giờ rồi nhỉ.)"
+      ]
+    }
+  },
+  {
+    "id": "alreadyTwelve",
+    "kanji": "もう12時ですね",
+    "hiragana": "もうじゅうにじですね",
+    "en": "already twelve o'clock",
+    "vi": "đã 12 giờ rồi nhỉ",
+    "type": "other",
+    "explanation": {
+      "content": [
+        "Câu nói thể hiện sự nhận biết",
+        "Ví dụ: もう12時ですね。 (Đã 12 giờ rồi nhỉ.)"
+      ]
+    }
+  },
+  {
+    "id": "thatIsRight",
+    "kanji": "そうですね",
+    "hiragana": "そうですね",
+    "en": "that is right",
+    "vi": "à, cái đó thì… (nói khi tạm ngừng và suy nghĩ) vâng, vâng đúng rồi (nói khi đồng ý với ý kiến khác)",
+    "type": "other",
+    "explanation": {
+      "content": [
+        "Câu nói thể hiện sự đồng ý hoặc suy nghĩ",
+        "Ví dụ: そうですね。 (Vâng, đúng rồi.)"
+      ]
+    }
+  },
+  {
+    "id": "iMustBeGoing",
+    "kanji": "そろそろ失礼します",
+    "hiragana": "そろそろしつれいします",
+    "en": "i must be going",
+    "vi": "tôi xin phép ra về (vì đã đến giờ nên về)",
+    "type": "other",
+    "explanation": {
+      "content": [
+        "Câu nói khi ra về",
+        "Ví dụ: そろそろ失礼します。 (Tôi xin phép ra về.)"
+      ]
+    }
+  },
+  {
+    "id": "pleaseComeAgain",
+    "kanji": "またいらっしゃってください",
+    "hiragana": "またいらっしゃってください",
+    "en": "please come again",
+    "vi": "lần sau lại đến nhé",
+    "type": "other",
+    "explanation": {
+      "content": [
+        "Câu mời lần sau",
+        "Ví dụ: またいらっしゃってください。 (Lần sau lại đến nhé.)"
       ]
     }
   }
