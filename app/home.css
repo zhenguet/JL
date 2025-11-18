@@ -23,6 +23,19 @@
   margin-bottom: 40px;
 }
 
+.level-section {
+  margin-bottom: 50px;
+}
+
+.level-title {
+  text-align: center;
+  color: white;
+  font-size: 2rem;
+  margin-bottom: 25px;
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3);
+  font-weight: 700;
+}
+
 .lessons-grid {
   display: grid;
   grid-template-columns: repeat(auto-fill, minmax(120px, 1fr));

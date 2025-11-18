@@ -23,6 +23,16 @@ export default function LessonLayout({
     { path: 'exercise', label: 'Bài tập' },
   ]
 
+  const currentLesson = parseInt(lessonNumber, 10)
+  const prevLesson = currentLesson > 1 ? currentLesson - 1 : null
+  const nextLesson = currentLesson < 50 ? currentLesson + 1 : null
+  
+  const getPathForLesson = (lessonNum: number) => {
+    const pathParts = pathname.split('/')
+    const currentSection = pathParts[pathParts.length - 1]
+    return `/lesson/${lessonNum}/${currentSection}`
+  }
+
   return (
     <div className="lesson-page">
       <div className="lesson-container">
@@ -30,7 +40,29 @@ export default function LessonLayout({
           <Link href="/" className="back-button">
             ← Về trang chủ
           </Link>
-          <h1>Bài {lessonNumber}</h1>
+          <h1 className="lesson-title">Bài {lessonNumber}</h1>
+          <div className="lesson-navigation">
+            {prevLesson ? (
+              <Link
+                href={getPathForLesson(prevLesson)}
+                className="nav-lesson-btn prev-lesson"
+              >
+                ← Bài {prevLesson}
+              </Link>
+            ) : (
+              <span className="nav-lesson-btn prev-lesson disabled">← Bài trước</span>
+            )}
+            {nextLesson ? (
+              <Link
+                href={getPathForLesson(nextLesson)}
+                className="nav-lesson-btn next-lesson"
+              >
+                Bài {nextLesson} →
+              </Link>
+            ) : (
+              <span className="nav-lesson-btn next-lesson disabled">Bài sau →</span>
+            )}
+          </div>
         </div>
 
         <nav className="lesson-nav">
