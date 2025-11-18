@@ -1,2 +1,562 @@
-[]
-
+[
+  {
+    "id": "toGetUp",
+    "kanji": "起きます",
+    "hiragana": "おきます",
+    "en": "to get up",
+    "vi": "thức dậy",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm II",
+        "Ví dụ: 毎朝六時に起きます。 (Thức dậy lúc 6 giờ mỗi sáng.)"
+      ]
+    }
+  },
+  {
+    "id": "toSleep",
+    "kanji": "寝ます",
+    "hiragana": "ねます",
+    "en": "to sleep",
+    "vi": "ngủ",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm II",
+        "Ví dụ: 夜十時に寝ます。 (Ngủ lúc 10 giờ tối.)"
+      ]
+    }
+  },
+  {
+    "id": "toWork",
+    "kanji": "働きます",
+    "hiragana": "はたらきます",
+    "en": "to work",
+    "vi": "làm việc",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm I",
+        "Ví dụ: 会社で働きます。 (Làm việc ở công ty.)"
+      ]
+    }
+  },
+  {
+    "id": "toRest",
+    "kanji": "休みます",
+    "hiragana": "やすみます",
+    "en": "to rest, to take a day off",
+    "vi": "nghỉ",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm I",
+        "Ví dụ: 日曜日に休みます。 (Nghỉ vào Chủ nhật.)"
+      ]
+    }
+  },
+  {
+    "id": "toStudy",
+    "kanji": "勉強します",
+    "hiragana": "べんきょうします",
+    "en": "to study",
+    "vi": "học",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm III (する)",
+        "Ví dụ: 日本語を勉強します。 (Học tiếng Nhật.)"
+      ]
+    }
+  },
+  {
+    "id": "toFinish",
+    "kanji": "終わります",
+    "hiragana": "おわります",
+    "en": "to finish, to end",
+    "vi": "kết thúc",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm I",
+        "Ví dụ: 授業は五時に終わります。 (Lớp học kết thúc lúc 5 giờ.)"
+      ]
+    }
+  },
+  {
+    "id": "departmentStore",
+    "kanji": "デパート",
+    "hiragana": "デパート",
+    "en": "department store",
+    "vi": "cửa hàng bách hóa",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ cửa hàng bách hóa (từ mượn)",
+        "Ví dụ: デパートで買い物をします。 (Mua sắm ở cửa hàng bách hóa.)"
+      ]
+    }
+  },
+  {
+    "id": "bank",
+    "kanji": "銀行",
+    "hiragana": "ぎんこう",
+    "en": "bank",
+    "vi": "ngân hàng",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ ngân hàng",
+        "Ví dụ: 銀行でお金を下ろします。 (Rút tiền ở ngân hàng.)"
+      ]
+    }
+  },
+  {
+    "id": "postOffice",
+    "kanji": "郵便局",
+    "hiragana": "ゆうびんきょく",
+    "en": "post office",
+    "vi": "bưu điện",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ bưu điện",
+        "Ví dụ: 郵便局で手紙を出します。 (Gửi thư ở bưu điện.)"
+      ]
+    }
+  },
+  {
+    "id": "library",
+    "kanji": "図書館",
+    "hiragana": "としょかん",
+    "en": "library",
+    "vi": "thư viện",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ thư viện",
+        "Ví dụ: 図書館で本を読みます。 (Đọc sách ở thư viện.)"
+      ]
+    }
+  },
+  {
+    "id": "hospital",
+    "kanji": "病院",
+    "hiragana": "びょういん",
+    "en": "hospital",
+    "vi": "bệnh viện",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ bệnh viện",
+        "Ví dụ: 病院で診察を受けます。 (Khám bệnh ở bệnh viện.)"
+      ]
+    }
+  },
+  {
+    "id": "cinema",
+    "kanji": "映画館",
+    "hiragana": "えいがかん",
+    "en": "cinema, movie theater",
+    "vi": "rạp chiếu phim",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ rạp chiếu phim",
+        "Ví dụ: 映画館で映画を見ます。 (Xem phim ở rạp chiếu phim.)"
+      ]
+    }
+  },
+  {
+    "id": "hotel",
+    "kanji": "ホテル",
+    "hiragana": "ホテル",
+    "en": "hotel",
+    "vi": "khách sạn",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ khách sạn (từ mượn)",
+        "Ví dụ: ホテルに泊まります。 (Ở khách sạn.)"
+      ]
+    }
+  },
+  {
+    "id": "restaurant",
+    "kanji": "レストラン",
+    "hiragana": "レストラン",
+    "en": "restaurant",
+    "vi": "nhà hàng",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ nhà hàng (từ mượn)",
+        "Ví dụ: レストランで食事をします。 (Ăn ở nhà hàng.)"
+      ]
+    }
+  },
+  {
+    "id": "cafe",
+    "kanji": "喫茶店",
+    "hiragana": "きっさてん",
+    "en": "cafe",
+    "vi": "quán cà phê",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ quán cà phê",
+        "Ví dụ: 喫茶店でコーヒーを飲みます。 (Uống cà phê ở quán cà phê.)"
+      ]
+    }
+  },
+  {
+    "id": "park",
+    "kanji": "公園",
+    "hiragana": "こうえん",
+    "en": "park",
+    "vi": "công viên",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ công viên",
+        "Ví dụ: 公園で散歩します。 (Đi dạo ở công viên.)"
+      ]
+    }
+  },
+  {
+    "id": "zoo",
+    "kanji": "動物園",
+    "hiragana": "どうぶつえん",
+    "en": "zoo",
+    "vi": "sở thú",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ sở thú",
+        "Ví dụ: 動物園で動物を見ます。 (Xem động vật ở sở thú.)"
+      ]
+    }
+  },
+  {
+    "id": "museum",
+    "kanji": "博物館",
+    "hiragana": "はくぶつかん",
+    "en": "museum",
+    "vi": "bảo tàng",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ bảo tàng",
+        "Ví dụ: 博物館で歴史を学びます。 (Học lịch sử ở bảo tàng.)"
+      ]
+    }
+  },
+  {
+    "id": "station",
+    "kanji": "駅",
+    "hiragana": "えき",
+    "en": "station",
+    "vi": "ga",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ ga tàu, ga xe",
+        "Ví dụ: 駅で電車に乗ります。 (Lên tàu ở ga.)"
+      ]
+    }
+  },
+  {
+    "id": "airport",
+    "kanji": "空港",
+    "hiragana": "くうこう",
+    "en": "airport",
+    "vi": "sân bay",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ sân bay",
+        "Ví dụ: 空港で飛行機に乗ります。 (Lên máy bay ở sân bay.)"
+      ]
+    }
+  },
+  {
+    "id": "bridge",
+    "kanji": "橋",
+    "hiragana": "はし",
+    "en": "bridge",
+    "vi": "cầu",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ cầu",
+        "Ví dụ: 橋を渡ります。 (Đi qua cầu.)"
+      ]
+    }
+  },
+  {
+    "id": "building",
+    "kanji": "建物",
+    "hiragana": "たてもの",
+    "en": "building",
+    "vi": "tòa nhà",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ tòa nhà",
+        "Ví dụ: あの建物は高いです。 (Tòa nhà kia cao.)"
+      ]
+    }
+  },
+  {
+    "id": "morning",
+    "kanji": "朝",
+    "hiragana": "あさ",
+    "en": "morning",
+    "vi": "buổi sáng",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ buổi sáng",
+        "Ví dụ: 朝早く起きます。 (Thức dậy sớm vào buổi sáng.)"
+      ]
+    }
+  },
+  {
+    "id": "noon",
+    "kanji": "昼",
+    "hiragana": "ひる",
+    "en": "noon, daytime",
+    "vi": "buổi trưa, ban ngày",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ buổi trưa, ban ngày",
+        "Ví dụ: 昼に昼食を食べます。 (Ăn trưa vào buổi trưa.)"
+      ]
+    }
+  },
+  {
+    "id": "evening",
+    "kanji": "晩",
+    "hiragana": "ばん",
+    "en": "evening, night",
+    "vi": "buổi tối",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ buổi tối",
+        "Ví dụ: 晩にテレビを見ます。 (Xem TV vào buổi tối.)"
+      ]
+    }
+  },
+  {
+    "id": "night",
+    "kanji": "夜",
+    "hiragana": "よる",
+    "en": "night",
+    "vi": "đêm",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ đêm",
+        "Ví dụ: 夜遅く寝ます。 (Ngủ muộn vào đêm.)"
+      ]
+    }
+  },
+  {
+    "id": "yesterday",
+    "kanji": "昨日",
+    "hiragana": "きのう",
+    "en": "yesterday",
+    "vi": "hôm qua",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ hôm qua",
+        "Ví dụ: 昨日は日曜日でした。 (Hôm qua là Chủ nhật.)"
+      ]
+    }
+  },
+  {
+    "id": "today",
+    "kanji": "今日",
+    "hiragana": "きょう",
+    "en": "today",
+    "vi": "hôm nay",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ hôm nay",
+        "Ví dụ: 今日は月曜日です。 (Hôm nay là thứ Hai.)"
+      ]
+    }
+  },
+  {
+    "id": "tomorrow",
+    "kanji": "明日",
+    "hiragana": "あした",
+    "en": "tomorrow",
+    "vi": "ngày mai",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ ngày mai",
+        "Ví dụ: 明日は火曜日です。 (Ngày mai là thứ Ba.)"
+      ]
+    }
+  },
+  {
+    "id": "week",
+    "kanji": "週",
+    "hiragana": "しゅう",
+    "en": "week",
+    "vi": "tuần",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ tuần",
+        "Ví dụ: 一週間に三回運動します。 (Tập thể dục 3 lần một tuần.)"
+      ]
+    }
+  },
+  {
+    "id": "month",
+    "kanji": "月",
+    "hiragana": "つき",
+    "en": "month",
+    "vi": "tháng",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ tháng",
+        "Ví dụ: 一ヶ月に一回映画を見ます。 (Xem phim một lần một tháng.)"
+      ]
+    }
+  },
+  {
+    "id": "year",
+    "kanji": "年",
+    "hiragana": "ねん",
+    "en": "year",
+    "vi": "năm",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ năm",
+        "Ví dụ: 一年に一回旅行します。 (Đi du lịch một lần một năm.)"
+      ]
+    }
+  },
+  {
+    "id": "whatTime",
+    "kanji": "何時",
+    "hiragana": "なんじ",
+    "en": "what time",
+    "vi": "mấy giờ",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Từ để hỏi về giờ",
+        "Ví dụ: 今、何時ですか？ (Bây giờ là mấy giờ?)"
+      ]
+    }
+  },
+  {
+    "id": "when",
+    "kanji": "いつ",
+    "hiragana": "いつ",
+    "en": "when",
+    "vi": "khi nào",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Từ để hỏi về thời gian",
+        "Ví dụ: いつ日本へ行きますか？ (Khi nào bạn đi Nhật Bản?)"
+      ]
+    }
+  },
+  {
+    "id": "at",
+    "kanji": "に",
+    "hiragana": "に",
+    "en": "at (time)",
+    "vi": "vào lúc",
+    "type": "other",
+    "explanation": {
+      "content": [
+        "Trợ từ chỉ thời gian",
+        "Ví dụ: 九時に起きます。 (Thức dậy lúc 9 giờ.)"
+      ]
+    }
+  },
+  {
+    "id": "from",
+    "kanji": "から",
+    "hiragana": "から",
+    "en": "from",
+    "vi": "từ",
+    "type": "other",
+    "explanation": {
+      "content": [
+        "Trợ từ chỉ điểm bắt đầu",
+        "Ví dụ: 月曜日から金曜日まで働きます。 (Làm việc từ thứ Hai đến thứ Sáu.)"
+      ]
+    }
+  },
+  {
+    "id": "until",
+    "kanji": "まで",
+    "hiragana": "まで",
+    "en": "until",
+    "vi": "đến",
+    "type": "other",
+    "explanation": {
+      "content": [
+        "Trợ từ chỉ điểm kết thúc",
+        "Ví dụ: 朝九時から午後五時まで働きます。 (Làm việc từ 9 giờ sáng đến 5 giờ chiều.)"
+      ]
+    }
+  },
+  {
+    "id": "and",
+    "kanji": "と",
+    "hiragana": "と",
+    "en": "and",
+    "vi": "và",
+    "type": "other",
+    "explanation": {
+      "content": [
+        "Trợ từ nối liệt kê",
+        "Ví dụ: 月曜日と水曜日に日本語を勉強します。 (Học tiếng Nhật vào thứ Hai và thứ Tư.)"
+      ]
+    }
+  },
+  {
+    "id": "with",
+    "kanji": "と",
+    "hiragana": "と",
+    "en": "with",
+    "vi": "với",
+    "type": "other",
+    "explanation": {
+      "content": [
+        "Trợ từ chỉ đối tượng cùng hành động",
+        "Ví dụ: 友達と映画を見ます。 (Xem phim với bạn.)"
+      ]
+    }
+  },
+  {
+    "id": "alone",
+    "kanji": "一人で",
+    "hiragana": "ひとりで",
+    "en": "alone, by oneself",
+    "vi": "một mình",
+    "type": "other",
+    "explanation": {
+      "content": [
+        "Phó từ chỉ hành động một mình",
+        "Ví dụ: 一人で食事をします。 (Ăn một mình.)"
+      ]
+    }
+  }
+]
