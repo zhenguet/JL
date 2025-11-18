@@ -1,1 +1,134 @@
-﻿[]
+﻿[
+  {
+    "id": "tara-conditional",
+    "title": "Thể quá khứ thông thường + ら、～ - Cách nói giả định, giả sử loại 2: dùng cho hầu hết các tình huống",
+    "description": "nếu…, giả sử…. Thêm chữ ら ở thể quá khứ thông thường của động từ, tính từ… thì sẽ biến mệnh đề đứng trước nó thành mệnh đề biểu hiện điều kiện. Có thể dùng khi người nói muốn bày tỏ lập trường, ý kiến, yêu cầu, lời mời… của mình trong điều kiện đó.",
+    "structure": "Thể quá khứ thông thường + ら、～",
+    "examples": [
+      {
+        "japanese": "お金 が あったら 、 旅行 します。",
+        "romaji": "Okane ga attara, ryokou shimasu.",
+        "vietnamese": "Nếu có tiền tôi sẽ đi du lịch."
+      },
+      {
+        "japanese": "時間 が なかったら 、テレビを 見 ません。",
+        "romaji": "Jikan ga nakattara, terebi o mimasen.",
+        "vietnamese": "Nếu không có thời gian tôi sẽ không xem ti vi."
+      },
+      {
+        "japanese": "安 かったら 、パソコンを 買 いたいです。",
+        "romaji": "Yasukattara, pasokon o kaitai desu.",
+        "vietnamese": "Nếu rẻ tôi muốn mua 1 cái máy tính cá nhân."
+      },
+      {
+        "japanese": "暇 だったら 、 手伝 ってください。",
+        "romaji": "Hima dattara, tetsudatte kudasai.",
+        "vietnamese": "Nếu rỗi thì giúp tôi một tay nhé."
+      },
+      {
+        "japanese": "いい天気 だったら 、 散歩 しませんか。",
+        "romaji": "Ii tenki dattara, sanpo shimasen ka?",
+        "vietnamese": "Nếu thời tiết đẹp thì bạn có đi bộ cùng tôi không?"
+      }
+    ],
+    "notes": [
+      "Thêm chữ ら ở thể quá khứ thông thường của động từ, tính từ… thì sẽ biến mệnh đề đứng trước nó thành mệnh đề biểu hiện điều kiện",
+      "Có thể dùng khi người nói muốn bày tỏ lập trường, ý kiến, yêu cầu, lời mời… của mình trong điều kiện đó",
+      "Động từ: V た + ら",
+      "Tính từ đuôi i: ～かった + ら",
+      "Tính từ đuôi na: ～だった + ら",
+      "Danh từ: ～だった + ら"
+    ]
+  },
+  {
+    "id": "v-tara-second-meaning",
+    "title": "V たら、～ - Ý nghĩa thứ 2 của mẫu câu ～たら: khi, sau khi",
+    "description": "khi, sau khi. Ngoài cách dùng thể hiện điều kiện, mẫu câu ～たら còn được dùng để thể hiện 1 hành động sẽ được thực hiện, hoặc 1 tình huống sẽ xẩy ra khi 1 sự việc nào đó mà được cho là chắc chắn sẽ xảy ra trong tương lai được hoàn thành hoặc đạt được. Thì của mệnh đề chính luôn ở thời hiện tại",
+    "structure": "V たら、～",
+    "examples": [
+      {
+        "japanese": "１ ０ 時 になったら 、 出 かけましょう。",
+        "romaji": "Juuji ni nattara, dekakemashou.",
+        "vietnamese": "Chúng ta sẽ đi ra ngoài khi nào 10 giờ"
+      },
+      {
+        "japanese": "家 へ 帰 っ たら 、すぐ シャワーを 浴 びます。",
+        "romaji": "Uchi e kaettara, sugu shawaa o abimasu.",
+        "vietnamese": "Về nhà là tôi đi tắm ngay"
+      },
+      {
+        "japanese": "何時 ごろ 見学 に 行 きますか。",
+        "romaji": "Nanji goro kengaku ni ikimasu ka?",
+        "vietnamese": "Khoảng mấy giờ thì đi tham quan?"
+      },
+      {
+        "japanese": "…昼 ごはんを 食 べたら 、すぐ 行 きます。",
+        "romaji": "...Hiru gohan o tabetara, sugu ikimasu.",
+        "vietnamese": "…Sau khi ăn cơm trưa xong là đi ngay."
+      }
+    ],
+    "notes": [
+      "Ngoài cách dùng thể hiện điều kiện, mẫu câu ～たら còn được dùng để thể hiện 1 hành động sẽ được thực hiện, hoặc 1 tình huống sẽ xẩy ra khi 1 sự việc nào đó mà được cho là chắc chắn sẽ xảy ra trong tương lai được hoàn thành hoặc đạt được",
+      "Thì của mệnh đề chính luôn ở thời hiện tại"
+    ]
+  },
+  {
+    "id": "v-te-mo",
+    "title": "V て / い－Adj（～い） → ～くて / な－Adj「な」 →で / N で も、～ - Cách nói mệnh đề ngược nghĩa",
+    "description": "dù…, mặc dù…, cho dù…. Thêm も sau て là có được một từ chỉ điều kiện nghịch. Ngược với mẫu câu ～たら, mẫu câu ～ても dùng trong tình huống hy vọng một việc gì đó đương nhiên sẽ xảy ra trong điều kiện cho trước nhưng lại không xảy ra, hoặc kết quả xảy ra trái ngược với những gì đã kỳ vọng.",
+    "structure": "V て / い－Adj（～い） → ～くて / な－Adj「な」 →で / N で も、～",
+    "examples": [
+      {
+        "japanese": "スイッチを 入 れても 、 機械 が 動 きません。",
+        "romaji": "Suicchi o irete mo, kikai ga ugokimasen.",
+        "vietnamese": "Dù đã bật công tắc nhưng máy vẫn không chạy."
+      },
+      {
+        "japanese": "高 くても 、 このラジカセを 買 いたいです。",
+        "romaji": "Takakute mo, kono rajikase o kaitai desu.",
+        "vietnamese": "Mặc dù đắt nhưng tôi vẫn muốn mua cái radio-cassette này."
+      },
+      {
+        "japanese": "静 かでも 、 寝 ることが できません。",
+        "romaji": "Shizuka de mo, neru koto ga dekimasen.",
+        "vietnamese": "Mặc dù yên tĩnh nhưng cũng không ngủ được."
+      },
+      {
+        "japanese": "日曜日 でも 、 仕事 を します。",
+        "romaji": "Nichiyoubi de mo, shigoto o shimasu.",
+        "vietnamese": "Mặc dù là chủ nhật nhưng vẫn làm việc."
+      }
+    ],
+    "notes": [
+      "Thêm も sau て là có được một từ chỉ điều kiện nghịch",
+      "Ngược với mẫu câu ～たら, mẫu câu ～ても dùng trong tình huống hy vọng một việc gì đó đương nhiên sẽ xảy ra trong điều kiện cho trước nhưng lại không xảy ra",
+      "Hoặc kết quả xảy ra trái ngược với những gì đã kỳ vọng",
+      "V て + も",
+      "い－Adj（～い） → ～くて + も",
+      "な－Adj「な」 → で + も",
+      "N で + も"
+    ]
+  },
+  {
+    "id": "moshi-ikura",
+    "title": "もし ＆ いくら - Từ nhấn mạnh",
+    "description": "もし được sử dụng trong mẫu câu ~たら、 bao hàm ý nhấn mạnh về giả thuyết của người nói. いくら được sử dụng trong mẫu câu ~ても（～でも）, nhấn mạnh về mức độ điều kiện.",
+    "structure": "もし + ～たら / いくら + ～ても（～でも）",
+    "examples": [
+      {
+        "japanese": "もし １ 億円 あっ たら、いろいろな国 を 旅行 したいです。",
+        "romaji": "Moshi ichi oku en attara, iroiro na kuni o ryokou shitai desu.",
+        "vietnamese": "Giả sử, nếu có 100 triệu yên tôi muốn đi du lịch thật nhiều nước."
+      },
+      {
+        "japanese": "いくら 考 えても 、 分 かりません。",
+        "romaji": "Ikura kangaete mo, wakarimasen.",
+        "vietnamese": "Mặc dù có suy nghĩ bao nhiêu đi chăng nữa cũng chẳng hiểu được."
+      }
+    ],
+    "notes": [
+      "もし được sử dụng trong mẫu câu ~たら、 bao hàm ý nhấn mạnh về giả thuyết của người nói",
+      "いくら được sử dụng trong mẫu câu ~ても（～でも）, nhấn mạnh về mức độ điều kiện"
+    ]
+  }
+]

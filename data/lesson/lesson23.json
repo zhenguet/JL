@@ -1,1 +1,632 @@
-﻿[]
+﻿[
+  {
+    "id": "toAsk",
+    "kanji": "聞きます",
+    "hiragana": "ききます",
+    "en": "to ask",
+    "vi": "hỏi",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm I",
+        "Ví dụ: 先生に聞きます。 (Hỏi thầy cô giáo.)"
+      ]
+    }
+  },
+  {
+    "id": "askTeacher",
+    "kanji": "先生に聞きます",
+    "hiragana": "せんせいにききます",
+    "en": "ask teacher",
+    "vi": "hỏi thầy cô giáo",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm I",
+        "Ví dụ: 先生に聞きます。 (Hỏi thầy cô giáo.)"
+      ]
+    }
+  },
+  {
+    "id": "toPush",
+    "kanji": "押します",
+    "hiragana": "おします",
+    "en": "to push",
+    "vi": "đẩy, ép, ấn",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm I",
+        "Ví dụ: ボタンを押します。 (Ấn nút.)"
+      ]
+    }
+  },
+  {
+    "id": "toTurn",
+    "kanji": "回します",
+    "hiragana": "まわします",
+    "en": "to turn",
+    "vi": "quay, vặn, xoay",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm I",
+        "Ví dụ: 鍵を回します。 (Vặn chìa khóa.)"
+      ]
+    }
+  },
+  {
+    "id": "toMove",
+    "kanji": "動きます",
+    "hiragana": "うごきます",
+    "en": "to move",
+    "vi": "chạy, vận hành",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm I",
+        "Ví dụ: 機械が動きます。 ([Máy] chạy, vận hành.)"
+      ]
+    }
+  },
+  {
+    "id": "machineMoves",
+    "kanji": "機械が動きます",
+    "hiragana": "きかいがうごきます",
+    "en": "machine moves",
+    "vi": "[máy] chạy, vận hành",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm I",
+        "Ví dụ: 機械が動きます。 ([Máy] chạy, vận hành.)"
+      ]
+    }
+  },
+  {
+    "id": "toStop",
+    "kanji": "止まります",
+    "hiragana": "とまります",
+    "en": "to stop",
+    "vi": "ngừng, dừng lại",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm I",
+        "Ví dụ: 機械が止まります。 ([Máy] ngừng, dừng lại.)"
+      ]
+    }
+  },
+  {
+    "id": "machineStops",
+    "kanji": "機械が止まります",
+    "hiragana": "きかいがとまります",
+    "en": "machine stops",
+    "vi": "[máy] ngừng, dừng lại",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm I",
+        "Ví dụ: 機械が止まります。 ([Máy] ngừng, dừng lại.)"
+      ]
+    }
+  },
+  {
+    "id": "toComeOut",
+    "kanji": "出ます",
+    "hiragana": "でます",
+    "en": "to come out",
+    "vi": "ra, chạy ra",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm II",
+        "Ví dụ: 切符が出ます。 (Vé ra.)"
+      ]
+    }
+  },
+  {
+    "id": "ticketComesOut",
+    "kanji": "切符が出ます",
+    "hiragana": "きっぷがでます",
+    "en": "ticket comes out",
+    "vi": "vé ra",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm II",
+        "Ví dụ: 切符が出ます。 (Vé ra.)"
+      ]
+    }
+  },
+  {
+    "id": "toBeTroubled",
+    "kanji": "困ります",
+    "hiragana": "こまります",
+    "en": "to be troubled",
+    "vi": "thắc mắc, không ổn, phiền, khó khăn",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm I",
+        "Ví dụ: 困ります。 (Thắc mắc, không ổn.)"
+      ]
+    }
+  },
+  {
+    "id": "toDoOnesBest",
+    "kanji": "頑張ります",
+    "hiragana": "がんばります",
+    "en": "to do one's best",
+    "vi": "gắng sức, cố gắng",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm I",
+        "Ví dụ: 頑張ります。 (Cố gắng.)"
+      ]
+    }
+  },
+  {
+    "id": "toCross",
+    "kanji": "渡ります",
+    "hiragana": "わたります",
+    "en": "to cross",
+    "vi": "sang, qua",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm I",
+        "Ví dụ: 道を渡ります。 (Sang, qua [đường].)"
+      ]
+    }
+  },
+  {
+    "id": "crossRoad",
+    "kanji": "道を渡ります",
+    "hiragana": "みちをわたります",
+    "en": "cross road",
+    "vi": "sang, qua [đường]",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm I",
+        "Ví dụ: 道を渡ります。 (Sang, qua [đường].)"
+      ]
+    }
+  },
+  {
+    "id": "toTurn",
+    "kanji": "曲がります",
+    "hiragana": "まがります",
+    "en": "to turn",
+    "vi": "rẽ, quẹo",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm I",
+        "Ví dụ: 右へ曲がります。 (Rẽ, quẹo phải.)"
+      ]
+    }
+  },
+  {
+    "id": "turnRight",
+    "kanji": "右へ曲がります",
+    "hiragana": "みぎへまがります",
+    "en": "turn right",
+    "vi": "rẽ, quẹo phải",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm I",
+        "Ví dụ: 右へ曲がります。 (Rẽ, quẹo phải.)"
+      ]
+    }
+  },
+  {
+    "id": "toAdjust",
+    "kanji": "調節（します、する、して）",
+    "hiragana": "ちょうせつ（します、する、して）",
+    "en": "to adjust",
+    "vi": "điều chỉnh",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm III (する)",
+        "Ví dụ: 温度を調節します。 (Điều chỉnh nhiệt độ.)"
+      ]
+    }
+  },
+  {
+    "id": "sad",
+    "kanji": "悲しい",
+    "hiragana": "かなしい",
+    "en": "sad",
+    "vi": "buồn, đau khổ",
+    "type": "adjective",
+    "explanation": {
+      "content": [
+        "Tính từ i (い-adjective)",
+        "Ví dụ: 悲しいです。 (Buồn.)"
+      ]
+    }
+  },
+  {
+    "id": "happy",
+    "kanji": "嬉しい",
+    "hiragana": "うれしい",
+    "en": "happy",
+    "vi": "sướng, vui sướng",
+    "type": "adjective",
+    "explanation": {
+      "content": [
+        "Tính từ i (い-adjective)",
+        "Ví dụ: 嬉しいです。 (Vui sướng.)"
+      ]
+    }
+  },
+  {
+    "id": "lonely",
+    "kanji": "寂しい",
+    "hiragana": "さびしい",
+    "en": "lonely",
+    "vi": "lẻ loi, cô đơn, buồn",
+    "type": "adjective",
+    "explanation": {
+      "content": [
+        "Tính từ i (い-adjective)",
+        "Ví dụ: 寂しいです。 (Cô đơn, buồn.)"
+      ]
+    }
+  },
+  {
+    "id": "sleepy",
+    "kanji": "眠い",
+    "hiragana": "ねむい",
+    "en": "sleepy",
+    "vi": "buồn ngủ",
+    "type": "adjective",
+    "explanation": {
+      "content": [
+        "Tính từ i (い-adjective)",
+        "Ví dụ: 眠いです。 (Buồn ngủ.)"
+      ]
+    }
+  },
+  {
+    "id": "meaning",
+    "kanji": "意味",
+    "hiragana": "いみ",
+    "en": "meaning",
+    "vi": "nghĩa, ý nghĩa",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ nghĩa",
+        "Ví dụ: 意味を調べます。 (Tra nghĩa.)"
+      ]
+    }
+  },
+  {
+    "id": "thousandYenBill",
+    "kanji": "「千円」札",
+    "hiragana": "「せんえん」さつ",
+    "en": "thousand yen bill",
+    "vi": "tờ một nghìn Yên",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ tờ tiền",
+        "Ví dụ: 「千円」札を入れます。 (Cho tờ một nghìn Yên vào.)"
+      ]
+    }
+  },
+  {
+    "id": "change",
+    "kanji": "おつり",
+    "hiragana": "おつり",
+    "en": "change",
+    "vi": "tiền thừa",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ tiền thừa, có tiền tố お (lịch sự)",
+        "Ví dụ: おつりを取ります。 (Lấy tiền thừa.)"
+      ]
+    }
+  },
+  {
+    "id": "smallChange",
+    "kanji": "細かいお金",
+    "hiragana": "こまかいおかね",
+    "en": "small change",
+    "vi": "tiền lẻ",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ tiền lẻ",
+        "Ví dụ: 細かいお金があります。 (Có tiền lẻ.)"
+      ]
+    }
+  },
+  {
+    "id": "button",
+    "kanji": "ボタン",
+    "hiragana": "ボタン",
+    "en": "button",
+    "vi": "nút, cúc, khuy",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ nút (từ mượn)",
+        "Ví dụ: ボタンを押します。 (Ấn nút.)"
+      ]
+    }
+  },
+  {
+    "id": "trafficLight",
+    "kanji": "信号",
+    "hiragana": "しんごう",
+    "en": "traffic light",
+    "vi": "đèn giao thông",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ đèn giao thông",
+        "Ví dụ: 信号を待ちます。 (Chờ đèn giao thông.)"
+      ]
+    }
+  },
+  {
+    "id": "road",
+    "kanji": "道",
+    "hiragana": "みち",
+    "en": "road",
+    "vi": "đường",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ đường",
+        "Ví dụ: 道を渡ります。 (Sang đường.)"
+      ]
+    }
+  },
+  {
+    "id": "bridge",
+    "kanji": "橋",
+    "hiragana": "はし",
+    "en": "bridge",
+    "vi": "cầu",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ cầu",
+        "Ví dụ: 橋を渡ります。 (Sang cầu.)"
+      ]
+    }
+  },
+  {
+    "id": "straight",
+    "kanji": "まっすぐ",
+    "hiragana": "まっすぐ",
+    "en": "straight",
+    "vi": "thẳng",
+    "type": "adverb",
+    "explanation": {
+      "content": [
+        "Phó từ chỉ hướng",
+        "Ví dụ: まっすぐ行きます。 (Đi thẳng.)"
+      ]
+    }
+  },
+  {
+    "id": "often",
+    "kanji": "よく",
+    "hiragana": "よく",
+    "en": "often",
+    "vi": "thường, hay",
+    "type": "adverb",
+    "explanation": {
+      "content": [
+        "Phó từ chỉ tần suất",
+        "Ví dụ: よく行きます。 (Thường đi.)"
+      ]
+    }
+  },
+  {
+    "id": "ohNo",
+    "kanji": "困ったな",
+    "hiragana": "こまったな",
+    "en": "oh no",
+    "vi": "chết rồi! gay quá!",
+    "type": "other",
+    "explanation": {
+      "content": [
+        "Câu cảm thán",
+        "Ví dụ: 困ったな。 (Chết rồi! Gay quá!)"
+      ]
+    }
+  },
+  {
+    "id": "whatIsItUsedFor",
+    "kanji": "何に使いますか",
+    "hiragana": "なににつかいますか",
+    "en": "what is it used for",
+    "vi": "dùng (cái này) để làm gì?",
+    "type": "other",
+    "explanation": {
+      "content": [
+        "Câu hỏi",
+        "Ví dụ: 何に使いますか。 (Dùng để làm gì?)"
+      ]
+    }
+  },
+  {
+    "id": "toPull",
+    "kanji": "引きます",
+    "hiragana": "ひきます",
+    "en": "to pull",
+    "vi": "kéo, lôi",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm I",
+        "Ví dụ: ドアを引きます。 (Kéo cửa.)"
+      ]
+    }
+  },
+  {
+    "id": "moving",
+    "kanji": "引越し（します、する、して）",
+    "hiragana": "ひっこし（します、する、して）",
+    "en": "moving",
+    "vi": "chuyển đi, chuyển nhà",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm III (する)",
+        "Ví dụ: 引越しをします。 (Chuyển nhà.)"
+      ]
+    }
+  },
+  {
+    "id": "breakdown",
+    "kanji": "故障（します、する、して）",
+    "hiragana": "こしょう（します、する、して）",
+    "en": "breakdown",
+    "vi": "hỏng hóc, trục trặc",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm III (する)",
+        "Ví dụ: 故障があります。 (Có hỏng hóc.)"
+      ]
+    }
+  },
+  {
+    "id": "size",
+    "kanji": "サイズ",
+    "hiragana": "サイズ",
+    "en": "size",
+    "vi": "cỡ, kích cỡ",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ kích cỡ (từ mượn)",
+        "Ví dụ: サイズを選びます。 (Chọn cỡ.)"
+      ]
+    }
+  },
+  {
+    "id": "doorknob",
+    "kanji": "つまみ",
+    "hiragana": "つまみ",
+    "en": "doorknob",
+    "vi": "quả đấm cửa",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ quả đấm cửa",
+        "Ví dụ: つまみを回します。 (Vặn quả đấm cửa.)"
+      ]
+    }
+  },
+  {
+    "id": "intersection",
+    "kanji": "交差点",
+    "hiragana": "こうさてん",
+    "en": "intersection",
+    "vi": "ngã tư",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ ngã tư",
+        "Ví dụ: 交差点で曲がります。 (Rẽ ở ngã tư.)"
+      ]
+    }
+  },
+  {
+    "id": "corner",
+    "kanji": "角",
+    "hiragana": "かど",
+    "en": "corner",
+    "vi": "góc, góc đường",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ góc",
+        "Ví dụ: 角を曲がります。 (Rẽ ở góc.)"
+      ]
+    }
+  },
+  {
+    "id": "parkingLot",
+    "kanji": "駐車場",
+    "hiragana": "ちゅうしゃじょう",
+    "en": "parking lot",
+    "vi": "điểm đỗ xe, bãi đỗ xe",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ bãi đỗ xe",
+        "Ví dụ: 駐車場に車を止めます。 (Đỗ xe ở bãi đỗ xe.)"
+      ]
+    }
+  },
+  {
+    "id": "ordinal",
+    "kanji": "～目",
+    "hiragana": "～め",
+    "en": "ordinal",
+    "vi": "thứ ~ (thứ tự)",
+    "type": "other",
+    "explanation": {
+      "content": [
+        "Hậu tố chỉ thứ tự",
+        "Ví dụ: 1目 (Thứ nhất)"
+      ]
+    }
+  },
+  {
+    "id": "newYear",
+    "kanji": "お正月",
+    "hiragana": "おしょうがつ",
+    "en": "New Year",
+    "vi": "năm mới, ngày đầu năm",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ năm mới, có tiền tố お (lịch sự)",
+        "Ví dụ: お正月を祝います。 (Chúc mừng năm mới.)"
+      ]
+    }
+  },
+  {
+    "id": "building",
+    "kanji": "建物",
+    "hiragana": "たてもの",
+    "en": "building",
+    "vi": "tòa nhà",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ tòa nhà",
+        "Ví dụ: 建物を見ます。 (Xem tòa nhà.)"
+      ]
+    }
+  },
+  {
+    "id": "alienRegistrationCard",
+    "kanji": "外国人登録証",
+    "hiragana": "がいこくじんとうろくしょう",
+    "en": "alien registration card",
+    "vi": "thẻ đăng ký người nước ngoài",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ thẻ đăng ký",
+        "Ví dụ: 外国人登録証を見せます。 (Cho xem thẻ đăng ký người nước ngoài.)"
+      ]
+    }
+  }
+]

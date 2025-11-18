@@ -1,1 +1,187 @@
-﻿[]
+﻿[
+  {
+    "id": "to-omou",
+    "title": "Thể thông thường + と おもいます - Cách thể hiện suy nghĩ, quan điểm của cá nhân",
+    "description": "(tôi) nghĩ rằng ~ / (tôi) cho rằng ~. Thể hiện sự phỏng đoán, ý kiến chủ quan của cá nhân về một vấn đề, sự việc nào đó. Nội dung phỏng đoán, ý kiến đưa ra được xác định bởi trợ từ と. Khi nói câu phủ định, có 2 cách thể hiện: ① むずかしく ないと 思 います (Tôi nghĩ là không khó) - dùng trong sơ cấp và trong bài này; ② むずかしいと 思 いません (Tôi không nghĩ là khó) - có ý nghĩa phủ định mạnh hơn. Cách nói ngắn khi đồng ý hay không đồng ý: 私 も そう 思 います (Tôi cũng nghĩ như vậy), 私 は そう［は］ 思 いません (Tôi thì không nghĩ là như vậy). Câu hỏi: ～に ついて どう 思 いますか (không cần trợ từ と sau どう nữa)",
+    "structure": "Thể thông thường + と おもいます",
+    "examples": [
+      {
+        "japanese": "明日 雨 が 降 る と 思 います。",
+        "romaji": "Ashita ame ga furu to omoimasu.",
+        "vietnamese": "Tôi nghĩ ngày mai trời sẽ mưa."
+      },
+      {
+        "japanese": "テレサちゃんは もう 寝 たと 思 います。",
+        "romaji": "Teresa-chan wa mou neta to omoimasu.",
+        "vietnamese": "Tôi nghĩ bé Teresa chắc là đã ngủ rồi."
+      },
+      {
+        "japanese": "かれは 日本語が 分 からないと 思 います。",
+        "romaji": "Kare wa Nihongo ga wakaranai to omoimasu.",
+        "vietnamese": "Tôi nghĩ anh ấy không biết tiếng Nhật."
+      },
+      {
+        "japanese": "あのカメラは よくないと 思 います。",
+        "romaji": "Ano kamera wa yokunai to omoimasu.",
+        "vietnamese": "Tôi nghĩ cái máy ảnh kia không tốt."
+      },
+      {
+        "japanese": "彼女 は 日本人だと 思 います。",
+        "romaji": "Kanojo wa Nihonjin da to omoimasu.",
+        "vietnamese": "Tôi nghĩ cô ấy là người Nhật Bản."
+      },
+      {
+        "japanese": "日よう日は ひまだと 思 います。",
+        "romaji": "Nichiyoubi wa hima da to omoimasu.",
+        "vietnamese": "Tôi nghĩ Chủ Nhật thì rỗi."
+      },
+      {
+        "japanese": "日本語のテストは どうですか。",
+        "romaji": "Nihongo no tesuto wa dou desu ka?",
+        "vietnamese": "Bài kiểm tra tiếng Nhật thế nào?"
+      },
+      {
+        "japanese": "… むずかしく ないと 思 います。",
+        "romaji": "...Muzukashikunai to omoimasu.",
+        "vietnamese": "… Tôi nghĩ là không khó."
+      },
+      {
+        "japanese": "A: ファクスは 便利 ですね。",
+        "romaji": "A: Fakusu wa benri desu ne.",
+        "vietnamese": "A: Máy fax thuận tiện thật đấy nhỉ!"
+      },
+      {
+        "japanese": "B: 私 も そう 思 います。",
+        "romaji": "B: Watashi mo sou omoimasu.",
+        "vietnamese": "B: Tôi cũng nghĩ như vậy"
+      },
+      {
+        "japanese": "C: 私 は そう［は］ 思 いません。",
+        "romaji": "C: Watashi wa sou [wa] omoimasen.",
+        "vietnamese": "C: Tôi thì không nghĩ là như vậy"
+      },
+      {
+        "japanese": "新 しい空港 に ついて どう 思 いま すか。",
+        "romaji": "Atarashii kuukou ni tsuite dou omoimasu ka?",
+        "vietnamese": "Bạn nghĩ thế nào về sân bay mới?"
+      },
+      {
+        "japanese": "…きれいですが、ちょっと 交通 が 不便 だと 思 います。",
+        "romaji": "...Kirei desu ga, chotto koutsuu ga fuben da to omoimasu.",
+        "vietnamese": "…Tôi nghĩ rằng nó đẹp nhưng giao thông hơi bất tiện."
+      }
+    ],
+    "notes": [
+      "Thể hiện sự phỏng đoán, ý kiến chủ quan của cá nhân về một vấn đề, sự việc nào đó",
+      "Nội dung phỏng đoán, ý kiến đưa ra được xác định bởi trợ từ と",
+      "Động từ: V る・V ない・V た + と おもいます",
+      "Tính từ đuôi i: ～い + と おもいます",
+      "Tính từ đuôi na: ～だ + と おもいます",
+      "Danh từ: ～だ + と おもいます",
+      "Khi nói câu phủ định, trong sơ cấp chỉ dùng cách: むずかしく ないと 思 います",
+      "Cách nói ngắn khi đồng ý: 私 も そう 思 います",
+      "Cách nói ngắn khi không đồng ý: 私 は そう［は］ 思 いません",
+      "Câu hỏi: ～に ついて どう 思 いますか (không cần trợ từ と sau どう nữa)"
+    ]
+  },
+  {
+    "id": "to-iu",
+    "title": "\"Sentence\" / Dạng thông thường + と 言 います / い 言 いました - Cách trích dẫn trực tiếp hoặc gián tiếp 1 câu nói, 1 ý kiến mà ai đó đã đưa ra",
+    "description": "(ai đó) nói rằng / đã nói rằng ～. Nội dung trích dẫn được xác định bởi trợ từ と. Có 2 kiểu trích dẫn: (1) Trích dẫn trực tiếp: nhắc lại chính xác nội dung câu nói → để nội dung đó trong ngoặc kép「 」. (2) Trích dẫn gián tiếp: sử dụng thể thông thường trước trợ từ と. Thì của câu trích dẫn không bị ảnh hưởng bởi thì của câu chính.",
+    "structure": "\"Sentence\" / Dạng thông thường + と 言 います / い 言 いました",
+    "examples": [
+      {
+        "japanese": "寝 る 前 に「お休 みなさい」 と 言 います。",
+        "romaji": "Neru mae ni \"oyasuminasai\" to iimasu.",
+        "vietnamese": "Trước khi đi ngủ thì nói \"Chúc ngủ ngon\"."
+      },
+      {
+        "japanese": "ミラーさんは「 来 週 東 京 へ 出 張 します」 と 言 いました。",
+        "romaji": "Miraa-san wa \"raishuu Toukyou e shucchou shimasu\" to iimashita.",
+        "vietnamese": "Ông Miler đã nói rằng \"Tuần sau tôi sẽ đi công tác Tokyo\"."
+      },
+      {
+        "japanese": "ミラーさんは 来 週 東 京 へ 出 張 すると 言 いました。",
+        "romaji": "Miraa-san wa raishuu Toukyou e shucchou suru to iimashita.",
+        "vietnamese": "Ông Miler đã nói rằng tuần sau ống ấy sẽ đi công tác Tokyo."
+      }
+    ],
+    "notes": [
+      "Nội dung trích dẫn được xác định bởi trợ từ と",
+      "(1) Trích dẫn trực tiếp: nhắc lại chính xác nội dung câu nói → để nội dung đó trong ngoặc kép「 」",
+      "(2) Trích dẫn gián tiếp: sử dụng thể thông thường trước trợ từ と",
+      "Thì của câu trích dẫn không bị ảnh hưởng bởi thì của câu chính",
+      "Động từ: V る・V ない・V た + と いいます",
+      "Tính từ đuôi i: ～い + と いいます",
+      "Tính từ đuôi na: ～だ + と いいます",
+      "Danh từ: ～だ + と いいます"
+    ]
+  },
+  {
+    "id": "deshou",
+    "title": "V / い－Adj / な－Adj thể thông thường / N ～だ thể thông thường + でしょう？ - Cách xác nhận 1 thông tin nào đó và mong muốn người nghe tán đồng với ý kiến của mình",
+    "description": "～có đúng không? / ～có đúng không nhỉ? → giống câu hỏi đuôi trong tiếng Anh. Dùng khi kỳ vọng rằng người nghe cũng biết hoặc có sự hiểu biết về chuyện mình nói và mong muốn người nghe sẽ tán thành ý kiến của mình. でしょう được đọc lên giọng giống như 1 câu hỏi để xác nhận sự đồng tình của người nghe. Cách chia: trước でしょう là thể thông thường. Tuy nhiên đối với tính từ đuôi -な và danh từ, bỏ だ và ghép thẳng với でしょう",
+    "structure": "V / い－Adj / な－Adj thể thông thường / N ～だ thể thông thường + でしょう？",
+    "examples": [
+      {
+        "japanese": "明日 パーティーに行く でしょう ？",
+        "romaji": "Ashita paatii ni iku deshou?",
+        "vietnamese": "Ngày mai bạn đi party chứ nhỉ?"
+      },
+      {
+        "japanese": "…ええ、行きます。",
+        "romaji": "...Ee, ikimasu.",
+        "vietnamese": "… Ừ, đi chứ."
+      },
+      {
+        "japanese": "北海道 は 寒 かったでしょう 。",
+        "romaji": "Hokkaidou wa samukatta deshou.",
+        "vietnamese": "Hokkaido chắc là lạnh lắm nhỉ?"
+      },
+      {
+        "japanese": "…いいえ、そんなに寒 く なかったです。",
+        "romaji": "...Iie, sonnani samuku nakatta desu.",
+        "vietnamese": "… Không, không lạnh đến thế đâu."
+      },
+      {
+        "japanese": "新 宿 は にぎやかでしょう ？",
+        "romaji": "Shinjuku wa nigiyaka deshou?",
+        "vietnamese": "Khu Shinjuku nhộn nhịp lắm nhỉ?"
+      },
+      {
+        "japanese": "…はい、にぎやかです。",
+        "romaji": "...Hai, nigiyaka desu.",
+        "vietnamese": "… Vâng, rất nhộn nhịp."
+      }
+    ],
+    "notes": [
+      "～có đúng không? / ～có đúng không nhỉ? → giống câu hỏi đuôi trong tiếng Anh",
+      "Dùng khi kỳ vọng rằng người nghe cũng biết hoặc có sự hiểu biết về chuyện mình nói",
+      "Mong muốn người nghe sẽ tán thành ý kiến của mình",
+      "でしょう được đọc lên giọng giống như 1 câu hỏi để xác nhận sự đồng tình của người nghe",
+      "Cách chia: trước でしょう là thể thông thường",
+      "Đối với tính từ đuôi -な và danh từ, bỏ だ và ghép thẳng với でしょう"
+    ]
+  },
+  {
+    "id": "n1-de-n2-ga-aru",
+    "title": "N1 (địa điểm)で N2 があります - Ở N1 được tổ chức, diễn ra N2",
+    "description": "ở N1 được tổ chức, diễn ra N2. Khi N2 là các sự kiện như bữa tiệc, buổi hòa nhạc, ngày hội, vụ tai nạn hay thảm họa… thì lúc đó あります có nghĩa là được tổ chức, diễn ra.",
+    "structure": "N1 (địa điểm)で N2 があります",
+    "examples": [
+      {
+        "japanese": "東 京 で 日本 とブラジルの サッカ ー試合 が あります。",
+        "romaji": "Toukyou de Nihon to Burajiru no sakkaa shiai ga arimasu.",
+        "vietnamese": "Ở Tokyo sẽ (có) diễn ra trận bóng đá giữa Nhật Bản và Braxin"
+      },
+      {
+        "japanese": "神 べ戸 で 大 きい 地 震 が ありました。",
+        "romaji": "Koube de ookii jishin ga arimashita.",
+        "vietnamese": "Ở Kobe đã (có) xảy ra trận động đất lớn"
+      }
+    ],
+    "notes": [
+      "Khi N2 là các sự kiện như bữa tiệc, buổi hòa nhạc, ngày hội, vụ tai nạn hay thảm họa… thì lúc đó あります có nghĩa là được tổ chức, diễn ra"
+    ]
+  }
+]

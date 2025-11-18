@@ -1,1 +1,152 @@
-﻿[]
+﻿[
+  {
+    "id": "ta-form",
+    "title": "Cách tạo động từ thể た",
+    "description": "Cách tạo động từ thể た: → giống y như thể て. Chỗ nào chia là て và で thì thay bằng た và だ. Nhóm I: かいて → かいた, のんで → のんだ. Nhóm II: たべて → たべた, みて → みた. Nhóm III: きて → きた, して → した",
+    "structure": "V た",
+    "examples": [
+      {
+        "japanese": "かいて → かいた",
+        "romaji": "kaite → kaita",
+        "vietnamese": "viết"
+      },
+      {
+        "japanese": "のんで → のんだ",
+        "romaji": "nonde → nonda",
+        "vietnamese": "uống"
+      },
+      {
+        "japanese": "たべて → たべた",
+        "romaji": "tabete → tabeta",
+        "vietnamese": "ăn"
+      },
+      {
+        "japanese": "みて → みた",
+        "romaji": "mite → mita",
+        "vietnamese": "xem"
+      },
+      {
+        "japanese": "きて → きた",
+        "romaji": "kite → kita",
+        "vietnamese": "đến"
+      },
+      {
+        "japanese": "して → した",
+        "romaji": "shite → shita",
+        "vietnamese": "làm"
+      }
+    ],
+    "notes": [
+      "Giống y như thể て",
+      "Chỗ nào chia là て và で thì thay bằng た và だ",
+      "Nhóm I: かいて → かいた, のんで → のんだ",
+      "Nhóm II: たべて → たべた, みて → みた",
+      "Nhóm III: きて → きた, して → した"
+    ]
+  },
+  {
+    "id": "ta-koto-ga-aru",
+    "title": "V たことが あります - Cách thể hiện kinh nghiệm trong quá khứ",
+    "description": "đã từng (làm).... Nói về một kinh nghiệm đã gặp, đã từng trải qua trong quá khứ. Thể câu văn này khác cơ bản với thể câu văn muốn diễn tả một hành động chỉ đơn thuần xảy ra ở quá khứ. Câu hỏi của mẫu câu này sẽ có nghĩa là hỏi xem ai đó đã từng làm gì đó hay chưa",
+    "structure": "V たことが あります",
+    "examples": [
+      {
+        "japanese": "馬 に 乗 ったことが あります。",
+        "romaji": "Uma ni notta koto ga arimasu.",
+        "vietnamese": "(Tôi đã từng cưỡi ngựa)"
+      },
+      {
+        "japanese": "桜 を 見 たことが あります。",
+        "romaji": "Sakura o mita koto ga arimasu.",
+        "vietnamese": "(Tôi đã từng nhìn thấy hoa anh đào)"
+      },
+      {
+        "japanese": "去年 北海道 で 馬 に 乗 りました。",
+        "romaji": "Kyonen Hokkaidou de uma ni norimashita.",
+        "vietnamese": "(Năm ngoái tôi đã cưỡi ngựa ở Hokkaido)"
+      },
+      {
+        "japanese": "先 週 桜 を 見 ました。",
+        "romaji": "Senshuu sakura o mimashita.",
+        "vietnamese": "(Tuần trước, tôi đã nhìn thấy hoa anh đào)"
+      },
+      {
+        "japanese": "日本 へ 行 ったことが ありますか。",
+        "romaji": "Nihon e itta koto ga arimasu ka?",
+        "vietnamese": "(Bạn đã bao giờ đi Nhật Bản chưa)"
+      },
+      {
+        "japanese": "… はい、あります／…はい、３回 あります。",
+        "romaji": "...Hai, arimasu / ...Hai, sankai arimasu.",
+        "vietnamese": "(Có, đã từng/Có, đã 3 lần)"
+      },
+      {
+        "japanese": "… いいえ、ありません／…いいえ、 一度 も ありません。",
+        "romaji": "...Iie, arimasen / ...Iie, ichido mo arimasen.",
+        "vietnamese": "(Chưa lần nào)"
+      }
+    ],
+    "notes": [
+      "Nói về một kinh nghiệm đã gặp, đã từng trải qua trong quá khứ",
+      "Thể câu văn này khác cơ bản với thể câu văn muốn diễn tả một hành động chỉ đơn thuần xảy ra ở quá khứ",
+      "Câu hỏi của mẫu câu này sẽ có nghĩa là hỏi xem ai đó đã từng làm gì đó hay chưa"
+    ]
+  },
+  {
+    "id": "v-tari-v-tari-suru",
+    "title": "V たり、 V たり します - Cách liệt kê hành động (nhưng không quan tâm đến thứ tự diễn ra)",
+    "description": "lúc thì… lúc thì… và.... Dùng khi muốn biểu hiện một vài hành động đại diện trong số nhiều hành động mà chủ thể thực hiện mà không cần biết cái nào xảy ra trước, cái nào xảy ra sau. Thì của mẫu câu được biểu thị ở cuối câu. Không nhầm với câu văn sử dụng て để nối câu đã học ở bài 16. Ở câu với て ý nghĩa là hành động xem phim diễn ra sau khi chơi tennis. Ở câu với たり không có mối quan hệ về mặt thời gian giữa hai hành động. Trong rất nhiều các hoạt động diễn ra vào ngày chủ nhật sẽ bao gồm hai hành động chơi tennis và xem phim. Và sẽ không tự nhiên khi dùng để liệt kê những hành động mang tính chất hàng ngày của con người như ngủ dậy, ăn cơm hay đi ngủ...",
+    "structure": "V たり、 V たり します",
+    "examples": [
+      {
+        "japanese": "日曜日 は テニス を したり、 映画 を 見 たり します。",
+        "romaji": "Nichiyoubi wa tenisu o shitari, eiga o mitari shimasu.",
+        "vietnamese": "(Chủ Nhật, lúc thì tôi chơi tenis, lúc thì xem phim.)"
+      },
+      {
+        "japanese": "昨日 買い物 したり、 音楽 を 聞 いたり しました。",
+        "romaji": "Kinou kaimono shitari, ongaku o kiitari shimashita.",
+        "vietnamese": "(Hôm qua, lúc thì tôi đi mua sắm, lúc thì nghe nhạc)"
+      },
+      {
+        "japanese": "日曜日 は テニスを して、 映画 を みます。",
+        "romaji": "Nichiyoubi wa tenisu o shite, eiga o mimasu.",
+        "vietnamese": "(Chủ Nhật, tôi chơi tenis, xong rồi xem phim.)"
+      }
+    ],
+    "notes": [
+      "Dùng khi muốn biểu hiện một vài hành động đại diện trong số nhiều hành động mà chủ thể thực hiện mà không cần biết cái nào xảy ra trước, cái nào xảy ra sau",
+      "Thì của mẫu câu được biểu thị ở cuối câu",
+      "Không nhầm với câu văn sử dụng て để nối câu: て có mối quan hệ về mặt thời gian, たり không có mối quan hệ về mặt thời gian"
+    ]
+  },
+  {
+    "id": "adj-kunaru",
+    "title": "A い（～い） → ～く / A な「な」 → に / N に なります - Cách nối tính từ với động từ → biến tính từ thành phó từ",
+    "description": "trở nên (được). Chỉ sự thay đổi một tình trạng hay một điều kiện.",
+    "structure": "A い（～い） → ～く なります / A な「な」 → に なります / N に なります",
+    "examples": [
+      {
+        "japanese": "寒 いです → 寒 く なります",
+        "romaji": "samui desu → samuku narimasu",
+        "vietnamese": "trở nên lạnh"
+      },
+      {
+        "japanese": "元気 「な」 → 元気 に なります",
+        "romaji": "genki [na] → genki ni narimasu",
+        "vietnamese": "trở nên khỏe"
+      },
+      {
+        "japanese": "25歳 → 25歳 に なります",
+        "romaji": "nijuugosai → nijuugosai ni narimasu",
+        "vietnamese": "trở thành 25 tuổi"
+      }
+    ],
+    "notes": [
+      "Chỉ sự thay đổi một tình trạng hay một điều kiện",
+      "Tính từ đuôi い: bỏ い thay bằng く なります",
+      "Tính từ đuôi な: bỏ な thay bằng に なります",
+      "Danh từ: thêm に なります"
+    ]
+  }
+]

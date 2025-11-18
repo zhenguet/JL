@@ -1,1 +1,149 @@
-﻿[]
+﻿[
+  {
+    "id": "n-wo-kuremasu",
+    "title": "N をくれます - Cách thể hiện hành động ai đó cho, tặng mình hoặc người thân trong gia đình mình cái gì",
+    "description": "cho (người nói). Về ý nghĩa, くれます giống với あげます học trong bài 7 nhưng điểm khác biệt là ở chỗ あげます chỉ dùng khi thể hiện việc người nói tặng cho ai, người nào đó tặng cho người khác chứ không dùng để thể hiện việc ai đó tặng, cho người nói hoặc người thân trong gia đình người nói. Trong trường hợp này, chúng ta dùng động từ くれます thay thế.",
+    "structure": "N をくれます",
+    "examples": [
+      {
+        "japanese": "わたしは 佐 藤 さんに 花 を あげました。",
+        "romaji": "Watashi wa Satou-san ni hana o agemashita.",
+        "vietnamese": "Tôi đã tặng hoa cho chị Sato."
+      },
+      {
+        "japanese": "佐藤 さんは キムさんに プレゼントを あげました。",
+        "romaji": "Satou-san wa Kimu-san ni purezento o agemashita.",
+        "vietnamese": "Chị Sato đã tặng quà cho bạn Kim"
+      },
+      {
+        "japanese": "佐藤 さんは わたしに クリスマスカードを あげました。",
+        "romaji": "Satou-san wa watashi ni kurisumasukaado o agemashita.",
+        "vietnamese": "Chị Sato đã tặng thiệp giáng sinh cho tôi"
+      },
+      {
+        "japanese": "→ 佐藤 さんは 私に クリスマスカードを くれました。",
+        "romaji": "→ Satou-san wa watashi ni kurisumasukaado o kuremashita.",
+        "vietnamese": "→ Sato đã tặng tôi một tấm thiếp Giáng Sinh."
+      },
+      {
+        "japanese": "佐藤 さんは 妹 に お菓子 を くれました。",
+        "romaji": "Satou-san wa imouto ni okashi o kuremashita.",
+        "vietnamese": "Sato đã tặng kẹo cho em gái tôi."
+      }
+    ],
+    "notes": [
+      "Về ý nghĩa, くれます giống với あげます học trong bài 7",
+      "あげます chỉ dùng khi thể hiện việc người nói tặng cho ai, người nào đó tặng cho người khác",
+      "あげます không dùng để thể hiện việc ai đó tặng, cho người nói hoặc người thân trong gia đình người nói",
+      "Trong trường hợp ai đó tặng, cho người nói hoặc người thân trong gia đình người nói, chúng ta dùng động từ くれます thay thế"
+    ]
+  },
+  {
+    "id": "v-te-agemasu",
+    "title": "V てあげます - Cách nói làm gì đó cho ai",
+    "description": "(làm cái gì) cho ai. Ai đó làm cho người khác một việc với ý nghĩa thiện chí, lòng tốt, thân thiện. Khi người nói là người thực hiện hành động và người nghe là người nhận hành động, thì cách thể hiện này có thể gây cảm giác người nói đang ra vẻ bề trên. Vì vậy, cần chú ý tránh sử dụng cách nói này đối người lớn hay cấp trên, người không mấy thân thiết, chỉ nên sử dụng với người thân thiết. Khi muốn nói ý tương tự đối với người không thân thiết thì sử dụng mẫu câu V ましょうか.",
+    "structure": "V てあげます",
+    "examples": [
+      {
+        "japanese": "私 は 木村 さんに 本 を 貸 して あげました。",
+        "romaji": "Watashi wa Kimura-san ni hon o kashite agemashita.",
+        "vietnamese": "Tôi đã cho chị Kimura mượn sách."
+      },
+      {
+        "japanese": "私 は ラオさんに ひらがなを 教 えて あげました。",
+        "romaji": "Watashi wa Rao-san ni hiragana o oshiete agemashita.",
+        "vietnamese": "Tôi đã dạy cho anh Rao chữ Hiragana."
+      },
+      {
+        "japanese": "タクシーを 呼 びましょうか。",
+        "romaji": "Takushii o yobimashou ka?",
+        "vietnamese": "Để tôi gọi taxi cho nhé."
+      },
+      {
+        "japanese": "手伝 いましょうか。",
+        "romaji": "Tetsudaimashou ka?",
+        "vietnamese": "Để tôi giúp một tay nhé."
+      }
+    ],
+    "notes": [
+      "Ai đó làm cho người khác một việc với ý nghĩa thiện chí, lòng tốt, thân thiện",
+      "Khi người nói là người thực hiện hành động và người nghe là người nhận hành động, thì cách thể hiện này có thể gây cảm giác người nói đang ra vẻ bề trên",
+      "Cần chú ý tránh sử dụng cách nói này đối người lớn hay cấp trên, người không mấy thân thiết, chỉ nên sử dụng với người thân thiết",
+      "Khi muốn nói ý tương tự đối với người không thân thiết thì sử dụng mẫu câu V ましょうか"
+    ]
+  },
+  {
+    "id": "v-te-moraimasu",
+    "title": "V てもらいます - Cách nói nhận được việc gì đó do ai làm cho",
+    "description": "nhận (việc gì) từ ai; được ai đó làm gì cho. Biểu thị lòng biết ơn của người được nhận hành vi giúp đỡ. Chủ ngữ là người nhận.",
+    "structure": "V てもらいます",
+    "examples": [
+      {
+        "japanese": "私 は 鈴木 さんに 日本語 を 教えて もらいました。",
+        "romaji": "Watashi wa Suzuki-san ni Nihongo o oshiete moraimashita.",
+        "vietnamese": "Tôi được cô Suzuki dạy cho tiếng Nhật."
+      },
+      {
+        "japanese": "私 は 田中 さんに 病 院 へ 連 れて 行 っ て もらいました。",
+        "romaji": "Watashi wa Tanaka-san ni byouin e tsurete itte moraimashita.",
+        "vietnamese": "Tôi được anh Tanaka dẫn đến bệnh viện."
+      }
+    ],
+    "notes": [
+      "Biểu thị lòng biết ơn của người được nhận hành vi giúp đỡ",
+      "Chủ ngữ là người nhận"
+    ]
+  },
+  {
+    "id": "v-te-kuremasu",
+    "title": "V てくれます - Cách nói ai đó làm gì cho mình",
+    "description": "ai làm cho cái gì. Giống với ～てもらいます、～てくれます cũng nói lên sự cảm tạ của người nhận hành vi giúp đỡ. Khác với ～てもらいます chủ ngữ là người nhận, còn trong câu ～てくれます chủ ngữ là người thực hiện hành động. Người nhận thường là người nói nên 私に (chỉ người nhận) thường được lược bỏ.",
+    "structure": "V てくれます",
+    "examples": [
+      {
+        "japanese": "家内 は（ 私 に） 子供 の写真 を 送 ってくれました。",
+        "romaji": "Kanai wa (watashi ni) kodomo no shashin o okutte kuremashita.",
+        "vietnamese": "Vợ tôi gửi ảnh mấy đứa con (cho tôi)."
+      },
+      {
+        "japanese": "加藤 さんは（ 私 に） 宿 題 を 出 してくれました。",
+        "romaji": "Katou-san wa (watashi ni) shukudai o dashite kuremashita.",
+        "vietnamese": "Bạn Kato đã nộp bài tập (giúp tôi)"
+      }
+    ],
+    "notes": [
+      "Giống với ～てもらいます、～てくれます cũng nói lên sự cảm tạ của người nhận hành vi giúp đỡ",
+      "Khác với ～てもらいます chủ ngữ là người nhận, còn trong câu ～てくれます chủ ngữ là người thực hiện hành động",
+      "Người nhận thường là người nói nên 私に (chỉ người nhận) thường được lược bỏ"
+    ]
+  },
+  {
+    "id": "giving-receiving-summary",
+    "title": "BIỂU HIỆN CỦA HÀNH ĐỘNG CHO VÀ NHẬN - Tổng kết",
+    "description": "Cả あげます、もらいます、くれます đều dùng để thể hiện hành động cho, tặng, biếu, nhận 1 vật nào đó. Chúng cũng được sử dụng để thể hiện sự cho và nhận các hành động: ai làm gì đó cho ai đồng thời bao hàm trong đó tình cảm, thái độ của người thực hiện hành động. Trong trường hợp này, hành động được thể hiện bởi động từ dạng -te",
+    "structure": "V て + あげます / もらいます / くれます",
+    "examples": [
+      {
+        "japanese": "あげます",
+        "romaji": "agemasu",
+        "vietnamese": "cho, tặng (người nói cho người khác)"
+      },
+      {
+        "japanese": "もらいます",
+        "romaji": "moraimasu",
+        "vietnamese": "nhận (người nói nhận từ người khác)"
+      },
+      {
+        "japanese": "くれます",
+        "romaji": "kuremasu",
+        "vietnamese": "cho (người khác cho người nói)"
+      }
+    ],
+    "notes": [
+      "Cả あげます、もらいます、くれます đều dùng để thể hiện hành động cho, tặng, biếu, nhận 1 vật nào đó",
+      "Chúng cũng được sử dụng để thể hiện sự cho và nhận các hành động: ai làm gì đó cho ai",
+      "Bao hàm trong đó tình cảm, thái độ của người thực hiện hành động",
+      "Trong trường hợp này, hành động được thể hiện bởi động từ dạng -te"
+    ]
+  }
+]

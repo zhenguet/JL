@@ -1,1 +1,174 @@
-﻿[]
+﻿[
+  {
+    "id": "v1-te-v2-te",
+    "title": "V１て、 V2 て...V ます - Cách nối 2 hay nhiều động từ (thể hiện ý liệt kê hành động)",
+    "description": "Làm V1 rồi làm V2,... Mẫu câu sử dụng để liệt kê các hành động xẩy ra theo trình tự thời gian, hành động đứng trước xẩy ra trước. Thì của cả câu được chia ở động từ cuối cùng.",
+    "structure": "V１て、 V2 て...V ます",
+    "examples": [
+      {
+        "japanese": "毎朝 ジョギングをして、シャワーを浴 びて、 学校 へ行 きます。",
+        "romaji": "Maiasa jogingu o shite, shawaa o abite, gakkou e ikimasu.",
+        "vietnamese": "(Hàng sáng tôi chạy bộ rồi tắm sau đó đến trường.)"
+      },
+      {
+        "japanese": "きのう Vicom へ行 っ て、 友 だちにあって、 映画 を見 ました。",
+        "romaji": "Kinou Vicom e itte, tomodachi ni atte, eiga o mimashita.",
+        "vietnamese": "(Hôm qua tôi đến Vincom, gặp bạn và xem phim.)"
+      }
+    ],
+    "notes": [
+      "Mẫu câu sử dụng để liệt kê các hành động xẩy ra theo trình tự thời gian",
+      "Hành động đứng trước xẩy ra trước",
+      "Thì của cả câu được chia ở động từ cuối cùng"
+    ]
+  },
+  {
+    "id": "i-adj-kute-na-adj-de",
+    "title": "い- adj(～い) ～くて、～ / な-adj [な] で、～ / N で、～ - Cách nối 2 hay nhiều tính từ với nhau, 2 hay nhiều danh từ với nhau",
+    "description": "Khi nối 2 hay nhiều tính từ của cùng 1 chủ thể, nếu đi trước là tính từ đuôi い thì đuôi い sẽ được bỏ đi thay thế bằng くて, các tính từ có thể được cách nhau bởi dấu phẩy ( 、 ). Khi nối 2 hay nhiều tính từ của cùng 1 chủ thể, nếu đi trước là tính từ đuôi な thì đuôi な sẽ được bỏ đi thay thế bằng で, các tính từ có thể được cách nhau bởi dấu phẩy ( 、 ). Cách nối đó có nghĩa là \" và \" vì vậy không sử dụng để nối 2 câu có ý nghĩa trái ngược. Thì của cả câu được chia ở câu đứng sau. Riêng cấu trúc với danh từ, không nhất thiết chỉ sử dụng khi có cùng chủ ngữ, có thể là 2 câu có chủ ngữ khác nhau (trong trường hợp này, nó sẽ trở thành cách kết hợp 2 câu với nhau)",
+    "structure": "い- adj(～い) ～くて、～ / な-adj [な] で、～ / N で、～",
+    "examples": [
+      {
+        "japanese": "大きい 新しい → 大きくて、新しい",
+        "romaji": "ookii atarashii → ookikute, atarashii",
+        "vietnamese": "(to và mới)"
+      },
+      {
+        "japanese": "いい 安い → よくて、安い",
+        "romaji": "ii yasui → yokute, yasui",
+        "vietnamese": "(tốt và rẻ)"
+      },
+      {
+        "japanese": "鈴木 さんは 若 くて、 元気 です。",
+        "romaji": "Suzuki-san wa wakakute, genki desu.",
+        "vietnamese": "Cô Suzuki trẻ và khỏe mạnh."
+      },
+      {
+        "japanese": "ハノイは 人 が多 くて、にぎやかです。",
+        "romaji": "Hanoi wa hito ga ookute, nigiyaka desu.",
+        "vietnamese": "Hà Nội đông người và nhộn nhịp."
+      },
+      {
+        "japanese": "ラオさんは ハンサムで、 親切 です。",
+        "romaji": "Rao-san wa hansamu de, shinsetsu desu.",
+        "vietnamese": "Anh Rao đẹp trai và tốt bụng."
+      },
+      {
+        "japanese": "Hue は 静 かで、きれいな町 です。",
+        "romaji": "Hue wa shizuka de, kirei na machi desu.",
+        "vietnamese": "Huế là thành phố yên tĩnh và đẹp."
+      },
+      {
+        "japanese": "田中 さんは 日本人 で、 留学生 です。",
+        "romaji": "Tanaka-san wa Nihonjin de, ryuugakusei desu.",
+        "vietnamese": "Anh Tanaka là người Nhật và là lưu học sinh"
+      },
+      {
+        "japanese": "カリナさんは 研修生 で、マリアさんは 主婦 です。",
+        "romaji": "Karina-san wa kenshuusei de, Maria-san wa shufu desu.",
+        "vietnamese": "(Karina là tu nghiệp sinh còn Maria là vợ.)"
+      }
+    ],
+    "notes": [
+      "Tính từ đuôi い: bỏ い thay bằng くて",
+      "Tính từ đuôi な: bỏ な thay bằng で",
+      "Danh từ: thêm で",
+      "Cách nối có nghĩa là \"và\", không sử dụng để nối 2 câu có ý nghĩa trái ngược",
+      "Thì của cả câu được chia ở câu đứng sau",
+      "Riêng cấu trúc với danh từ, có thể là 2 câu có chủ ngữ khác nhau"
+    ]
+  },
+  {
+    "id": "v1-te-kara-v2",
+    "title": "V１てから、 V2 ます - Cách nói làm gì sau khi làm gì",
+    "description": "Làm V1 rồi làm V2 / Sau. Mẫu câu này cũng diễn tả sự liên tiếp của hành động nhưng nhấn mạnh hành động thứ nhất kết thúc rối mới đến hành động 2. Thì của cả câu được quyết định ở cuối câu.",
+    "structure": "V１てから、 V2 ます",
+    "examples": [
+      {
+        "japanese": "国 へ帰 っ てから 、 父 の会社 で 働 きます。",
+        "romaji": "Kuni e kaette kara, chichi no kaisha de hatarakimasu.",
+        "vietnamese": "Sau khi về nước tôi sẽ làm việc ở công ty của bố."
+      },
+      {
+        "japanese": "コンサートが 終 わっ てから 、レストランで 食事 しました。",
+        "romaji": "Konsaato ga owatte kara, resutoran de shokuji shimashita.",
+        "vietnamese": "Sau khi kết thúc buổi biểu diễn âm nhạc tôi đã ăn ở nhà hàng."
+      }
+    ],
+    "notes": [
+      "Mẫu câu này cũng diễn tả sự liên tiếp của hành động nhưng nhấn mạnh hành động thứ nhất kết thúc rối mới đến hành động 2",
+      "Thì của cả câu được quyết định ở cuối câu"
+    ]
+  },
+  {
+    "id": "n1-wa-n2-ga-adj",
+    "title": "N1 は N2 が Adj - Cách miêu tả cụ thể một thành phần, một bộ phận",
+    "description": "Mẫu câu này dùng để miêu tả cụ thể một thành phần, một bộ phận của 1 vật hoặc người.",
+    "structure": "N1 は N2 が Adj",
+    "examples": [
+      {
+        "japanese": "Hue は 食 べ物 が おいしいです。",
+        "romaji": "Hue wa tabemono ga oishii desu.",
+        "vietnamese": "Đồ ăn Huế ngon."
+      },
+      {
+        "japanese": "マリアさんは 髪 が 長 いです。",
+        "romaji": "Maria-san wa kami ga nagai desu.",
+        "vietnamese": "Maria có mái tóc dài."
+      },
+      {
+        "japanese": "田中 さんは 背 が 高 いです。",
+        "romaji": "Tanaka-san wa se ga takai desu.",
+        "vietnamese": "Bạn Tanaka cao."
+      }
+    ],
+    "notes": [
+      "Mẫu câu này dùng để miêu tả cụ thể một thành phần, một bộ phận của 1 vật hoặc người"
+    ]
+  },
+  {
+    "id": "douyatte",
+    "title": "どうやって - Cách hỏi cách làm, phương thức",
+    "description": "Đây là từ để hỏi cho cách làm, phương thức làm một việc nào đó và có nghĩa là \"Làm thế nào\". Để trả lời cho câu hỏi này thường sử dụng mẫu câu số 1",
+    "structure": "どうやって",
+    "examples": [
+      {
+        "japanese": "大学 まで どうやって 行 きますか。",
+        "romaji": "Daigaku made douyatte ikimasu ka?",
+        "vietnamese": "Đến trường bạn đi thế nào?"
+      },
+      {
+        "japanese": "...バス乗 り 場 まで 5分 ぐらいあるいて、 16番 のバスに乗 っ て、 大学前 でおります。",
+        "romaji": "...Basu noriba made gofun gurai aruite, juurokuban no basu ni notte, daigakumae de orimasu.",
+        "vietnamese": "...Tôi đi bộ khoảng 5 phút đến bến xe bus, lên xe số 16 và xuống ở đằng trước trường."
+      }
+    ],
+    "notes": [
+      "Đây là từ để hỏi cho cách làm, phương thức làm một việc nào đó",
+      "Có nghĩa là \"Làm thế nào\"",
+      "Để trả lời cho câu hỏi này thường sử dụng mẫu câu số 1"
+    ]
+  },
+  {
+    "id": "dono-n",
+    "title": "どの N - Từ để hỏi \"nào\"",
+    "description": "Trước đây đã học các từ この、その、あの và どの là từ để hỏi cho các từ đó và có nghĩa là \"nào\". Đằng sau どの luôn là một danh từ.",
+    "structure": "どの N",
+    "examples": [
+      {
+        "japanese": "田中 さんは どの人 ですか。",
+        "romaji": "Tanaka-san wa dono hito desu ka?",
+        "vietnamese": "Tanaka là người nào?"
+      },
+      {
+        "japanese": "...あの背 が高 くて、 髪 が 黒 い人 です。",
+        "romaji": "...Ano se ga takakute, kami ga kuroi hito desu.",
+        "vietnamese": "...Là người cao và tóc màu đen."
+      }
+    ],
+    "notes": [
+      "どの là từ để hỏi cho この、その、あの và có nghĩa là \"nào\"",
+      "Đằng sau どの luôn là một danh từ"
+    ]
+  }
+]

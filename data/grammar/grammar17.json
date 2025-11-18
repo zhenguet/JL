@@ -1,1 +1,217 @@
-﻿[]
+﻿[
+  {
+    "id": "nai-form",
+    "title": "V ない - Cách chia và các mẫu câu với động từ phủ định dạng ngắn (thể ない)",
+    "description": "Động từ đi với ない được gọi là thể ない (còn gọi là động từ phủ định dạng ngắn). Nhóm I: là các động từ đều có vần [-i] đứng trước ます. Để chuyển sang thể ない chỉ cần thay thế [-i] bằng vần [-a]. Trường hợp đặc biệt, những động từ có đuôi là い thì chuyển thành わ. Nhóm II: bỏ [-ます] thêm ない. Nhóm III: (là 2 động từ đặc biệt nên phải nhớ) します → しない, きます → こない",
+    "structure": "V ない",
+    "examples": [
+      {
+        "japanese": "あいます → あわない",
+        "romaji": "aimasu → awanai",
+        "vietnamese": "gặp"
+      },
+      {
+        "japanese": "かきます → かかない",
+        "romaji": "kakimasu → kakanai",
+        "vietnamese": "viết"
+      },
+      {
+        "japanese": "いそぎます → いそがない",
+        "romaji": "isogimasu → isoganai",
+        "vietnamese": "vội"
+      },
+      {
+        "japanese": "はなします → はなさない",
+        "romaji": "hanashimasu → hanasanai",
+        "vietnamese": "nói chuyện"
+      },
+      {
+        "japanese": "まちます → またない",
+        "romaji": "machimasu → matanai",
+        "vietnamese": "đợi"
+      },
+      {
+        "japanese": "あそびます → あそばない",
+        "romaji": "asobimasu → asobanai",
+        "vietnamese": "chơi"
+      },
+      {
+        "japanese": "よみます → よまない",
+        "romaji": "yomimasu → yomanai",
+        "vietnamese": "đọc"
+      },
+      {
+        "japanese": "とります → とらない",
+        "romaji": "torimasu → toranai",
+        "vietnamese": "lấy"
+      },
+      {
+        "japanese": "たべます → たべない",
+        "romaji": "tabemasu → tabenai",
+        "vietnamese": "ăn"
+      },
+      {
+        "japanese": "みます → みない",
+        "romaji": "mimasu → minai",
+        "vietnamese": "xem"
+      },
+      {
+        "japanese": "します → しない",
+        "romaji": "shimasu → shinai",
+        "vietnamese": "làm"
+      },
+      {
+        "japanese": "きます → こない",
+        "romaji": "kimasu → konai",
+        "vietnamese": "đến"
+      }
+    ],
+    "notes": [
+      "Nhóm I: thay thế [-i] bằng vần [-a]. Trường hợp đặc biệt, những động từ có đuôi là い thì chuyển thành わ",
+      "Nhóm II: bỏ [-ます] thêm ない",
+      "Nhóm III: します → しない, きます → こない"
+    ]
+  },
+  {
+    "id": "nai-de-kudasai",
+    "title": "V ないで ください - Câu sai khiến, nhờ vả, khuyên bảo lịch sự ở dạng phủ định → hãy đừng…, xin đừng…",
+    "description": "Xin đừng…. Cách dùng: khi muốn khuyên hay yêu cầu ai không làm gì việc gì đó",
+    "structure": "V ないで ください",
+    "examples": [
+      {
+        "japanese": "私 は 元気 ですから、 心配 しないで ください。",
+        "romaji": "Watashi wa genki desu kara, shinpai shinai de kudasai.",
+        "vietnamese": "(Tôi khỏe lắm nên đừng lo lắng)"
+      },
+      {
+        "japanese": "ここで 写真 を 撮 らないで ください。",
+        "romaji": "Koko de shashin o toranai de kudasai.",
+        "vietnamese": "(Xin đừng chụp ảnh ở đây)"
+      }
+    ],
+    "notes": [
+      "Khi muốn khuyên hay yêu cầu ai không làm gì việc gì đó"
+    ]
+  },
+  {
+    "id": "nakereba-narimasen",
+    "title": "V なければ なりません - Cách nói bắt buộc → phải làm gì",
+    "description": "phải…, bắt buộc phải…. Cách chia: động từ chia sang thể ない, bỏ い + ければ なりません. Mẫu câu này biểu thị một việc coi như nghĩa vụ phải làm, bất chấp ý hướng của người làm. Chú ý: Mặc dù động từ chia ở dạng phủ định nhưng cả câu không mang nghĩa phủ định (thực chất là phủ định của phủ định → \"không làm gì thì không được\")",
+    "structure": "V なければ なりません",
+    "examples": [
+      {
+        "japanese": "薬 を 飲 まなければなりません。",
+        "romaji": "Kusuri o nomanakereba narimasen.",
+        "vietnamese": "(Phải uống thuốc)"
+      },
+      {
+        "japanese": "毎日 日本語 を 勉 強 しなければなりません。",
+        "romaji": "Mainichi Nihongo o benkyou shinakereba narimasen.",
+        "vietnamese": "(Hàng ngày (tôi) phải học tiếng Nhật.)"
+      }
+    ],
+    "notes": [
+      "Cách chia: động từ chia sang thể ない, bỏ い + ければ なりません",
+      "Mẫu câu này biểu thị một việc coi như nghĩa vụ phải làm, bất chấp ý hướng của người làm",
+      "Mặc dù động từ chia ở dạng phủ định nhưng cả câu không mang nghĩa phủ định (thực chất là phủ định của phủ định → \"không làm gì thì không được\")"
+    ]
+  },
+  {
+    "id": "nakutemo-ii-desu",
+    "title": "V なくても いいです - Cách nói cho phép ở dạng phủ định → không làm gì cũng được",
+    "description": "không cần … cũng được. Biểu thị sự không cần thiết của hành vi mà động từ diễn tả. Mở rộng: Áp dụng mẫu câu này ở thể nghi vấn, ta sẽ được câu hỏi, xin phép không làm gì có được không.",
+    "structure": "V なくても いいです",
+    "examples": [
+      {
+        "japanese": "明日 こ来 なくても いいです。",
+        "romaji": "Ashita konakutemo ii desu.",
+        "vietnamese": "(Ngài mai bạn không đến cũng được)"
+      },
+      {
+        "japanese": "土曜日 の午後 勉 強 しなくても いいです。",
+        "romaji": "Doyoubi no gogo benkyou shinakutemo ii desu.",
+        "vietnamese": "(Chiều thứ 7 không học cũng được)"
+      },
+      {
+        "japanese": "明日 こ来 なくても いいですか。",
+        "romaji": "Ashita konakutemo ii desu ka?",
+        "vietnamese": "(Ngài mai không đến cũng được chứ ạ?)"
+      },
+      {
+        "japanese": "土曜日 の午後 勉 強 しなくても いいですか。",
+        "romaji": "Doyoubi no gogo benkyou shinakutemo ii desu ka?",
+        "vietnamese": "(Chiều thứ 7 không học có được không ạ?)"
+      }
+    ],
+    "notes": [
+      "Biểu thị sự không cần thiết của hành vi mà động từ diễn tả",
+      "Áp dụng mẫu câu này ở thể nghi vấn, ta sẽ được câu hỏi, xin phép không làm gì có được không"
+    ]
+  },
+  {
+    "id": "n-object-wa",
+    "title": "N (tân ngữ) は - Cách nói nhấn mạnh vào tân ngữ",
+    "description": "đưa tân ngữ lên làm chủ đề nhằm nhấn mạnh ý muốn diễn tả. Vì được đưa lên làm chủ đề nên trợ từ を của tân ngữ được thay bằng は",
+    "structure": "N (tân ngữ) は",
+    "examples": [
+      {
+        "japanese": "ここに 荷物 を 置 かないでください。",
+        "romaji": "Koko ni nimotsu o okanai de kudasai.",
+        "vietnamese": "(Đừng để hành lý ở đây)"
+      },
+      {
+        "japanese": "→ 荷物 は ここに 置 かないでください。",
+        "romaji": "→ Nimotsu wa koko ni okanai de kudasai.",
+        "vietnamese": "(→ Hành lý thì xin đừng để ở đây)"
+      },
+      {
+        "japanese": "会社 の 食 堂 で 昼 ごはんを 食 べます。",
+        "romaji": "Kaisha no shokudou de hiru gohan o tabemasu.",
+        "vietnamese": "(Tôi ăn cơm trưa tại nhà ăn công ty)"
+      },
+      {
+        "japanese": "→ 昼 ごはんは 会社 の 食 堂 で 食 べます。",
+        "romaji": "→ Hiru gohan wa kaisha no shokudou de tabemasu.",
+        "vietnamese": "(→ Cơm trưa thì tôi ăn tại nhà ăn cty)"
+      }
+    ],
+    "notes": [
+      "đưa tân ngữ lên làm chủ đề nhằm nhấn mạnh ý muốn diễn tả",
+      "Vì được đưa lên làm chủ đề nên trợ từ を của tân ngữ được thay bằng は"
+    ]
+  },
+  {
+    "id": "n-time-made-ni",
+    "title": "N(thời gian)までに V - Trợ từ chỉ giới hạn, hạn định",
+    "description": "chậm nhất, trễ nhất, trước (thời điểm). Chỉ rõ thời gian cuối mà một hành động hay một công việc phải được tiến hành. Có nghĩa là, hành động hay công việc phải được tiến hành trước thời hạn được chỉ định bởi までに. Phân biệt までに với trợ từ まで và trợ từ に: まで chỉ thời điểm chấm dứt một hành động; に chỉ thời điểm mà một hành động diễn ra.",
+    "structure": "N(thời gian)までに V",
+    "examples": [
+      {
+        "japanese": "会議 は ５ 時 までに 終 わります。",
+        "romaji": "Kaigi wa goji made ni owarimasu.",
+        "vietnamese": "(Cuộc họp sẽ kết thúc trước 5 giờ)"
+      },
+      {
+        "japanese": "土曜日 までに 本 を 返 さなければなりません。",
+        "romaji": "Doyoubi made ni hon o kaesanakereba narimasen.",
+        "vietnamese": "(Phải trả sách trước thứ 7)"
+      },
+      {
+        "japanese": "昼 １２ 時 まで 日本語 を 勉 強 します。",
+        "romaji": "Hiru juuniji made Nihongo o benkyou shimasu.",
+        "vietnamese": "(Buổi trưa, tôi học đến 12 giờ)"
+      },
+      {
+        "japanese": "朝 ６ 時 に 起 きます。",
+        "romaji": "Asa rokuji ni okimasu.",
+        "vietnamese": "(Tôi thức dậy vào lúc 6 giờ)"
+      }
+    ],
+    "notes": [
+      "chậm nhất, trễ nhất, trước (thời điểm)",
+      "Chỉ rõ thời gian cuối mà một hành động hay một công việc phải được tiến hành",
+      "Hành động hay công việc phải được tiến hành trước thời hạn được chỉ định bởi までに",
+      "Phân biệt: まで chỉ thời điểm chấm dứt một hành động; に chỉ thời điểm mà một hành động diễn ra"
+    ]
+  }
+]

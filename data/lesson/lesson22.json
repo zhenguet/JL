@@ -1,1 +1,478 @@
-﻿[]
+﻿[
+  {
+    "id": "toWear",
+    "kanji": "着ます",
+    "hiragana": "きます",
+    "en": "to wear",
+    "vi": "mặc [áo sơ mi…]",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm II",
+        "Ví dụ: シャツを着ます。 (Mặc áo sơ mi.)"
+      ]
+    }
+  },
+  {
+    "id": "wearShirt",
+    "kanji": "シャツ／コートを着ます",
+    "hiragana": "シャツ／コートをきます",
+    "en": "wear a shirt",
+    "vi": "mặc áo sơ mi",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm II",
+        "Ví dụ: シャツを着ます。 (Mặc áo sơ mi.)"
+      ]
+    }
+  },
+  {
+    "id": "toPutOn",
+    "kanji": "履きます",
+    "hiragana": "はきます",
+    "en": "to put on",
+    "vi": "đi [giày], mặc [quần]",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm I",
+        "Ví dụ: くつを履きます。 (Đi giày.)"
+      ]
+    }
+  },
+  {
+    "id": "putOnShoes",
+    "kanji": "くつ／くつした／ずぼんを履きます",
+    "hiragana": "くつ／くつした／ずぼんをはきます",
+    "en": "put on shoes",
+    "vi": "đi giày",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm I",
+        "Ví dụ: くつを履きます。 (Đi giày.)"
+      ]
+    }
+  },
+  {
+    "id": "toPutOnHat",
+    "kanji": "被ります",
+    "hiragana": "かぶります",
+    "en": "to put on (hat)",
+    "vi": "đội [mũ]",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm I",
+        "Ví dụ: ぼうしを被ります。 (Đội mũ.)"
+      ]
+    }
+  },
+  {
+    "id": "putOnHat",
+    "kanji": "ぼうしを被ります",
+    "hiragana": "ぼうしをかぶります",
+    "en": "put on a hat",
+    "vi": "đội mũ",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm I",
+        "Ví dụ: ぼうしを被ります。 (Đội mũ.)"
+      ]
+    }
+  },
+  {
+    "id": "toPutOnGlasses",
+    "kanji": "掛けます",
+    "hiragana": "かけます",
+    "en": "to put on (glasses)",
+    "vi": "đeo [kính]",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm II",
+        "Ví dụ: めがねを掛けます。 (Đeo kính.)"
+      ]
+    }
+  },
+  {
+    "id": "putOnGlasses",
+    "kanji": "めがねを掛けます",
+    "hiragana": "めがねをかけます",
+    "en": "put on glasses",
+    "vi": "đeo kính",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm II",
+        "Ví dụ: めがねを掛けます。 (Đeo kính.)"
+      ]
+    }
+  },
+  {
+    "id": "toTake",
+    "kanji": "持って行きます",
+    "hiragana": "もっていきます",
+    "en": "to take",
+    "vi": "mang đi",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm I",
+        "Ví dụ: 本を持って行きます。 (Mang sách đi.)"
+      ]
+    }
+  },
+  {
+    "id": "toBring",
+    "kanji": "持って来ます",
+    "hiragana": "もってきます",
+    "en": "to bring",
+    "vi": "mang đến",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm III",
+        "Ví dụ: 本を持って来ます。 (Mang sách đến.)"
+      ]
+    }
+  },
+  {
+    "id": "parts",
+    "kanji": "部品",
+    "hiragana": "ぶひん",
+    "en": "parts",
+    "vi": "phụ tùng, linh kiện",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ phụ tùng",
+        "Ví dụ: 部品を買います。 (Mua phụ tùng.)"
+      ]
+    }
+  },
+  {
+    "id": "clothes",
+    "kanji": "服",
+    "hiragana": "ふく",
+    "en": "clothes",
+    "vi": "áo, quần áo",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ quần áo",
+        "Ví dụ: 服を着ます。 (Mặc quần áo.)"
+      ]
+    }
+  },
+  {
+    "id": "hat",
+    "kanji": "帽子",
+    "hiragana": "ぼうし",
+    "en": "hat",
+    "vi": "mũ",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ mũ",
+        "Ví dụ: 帽子を被ります。 (Đội mũ.)"
+      ]
+    }
+  },
+  {
+    "id": "glasses",
+    "kanji": "眼鏡",
+    "hiragana": "めがね",
+    "en": "glasses",
+    "vi": "kính",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ kính",
+        "Ví dụ: 眼鏡を掛けます。 (Đeo kính.)"
+      ]
+    }
+  },
+  {
+    "id": "helmet",
+    "kanji": "ヘルメット",
+    "hiragana": "ヘルメット",
+    "en": "helmet",
+    "vi": "mũ bảo hiểm, mũ an toàn",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ mũ bảo hiểm (từ mượn)",
+        "Ví dụ: ヘルメットを被ります。 (Đội mũ bảo hiểm.)"
+      ]
+    }
+  },
+  {
+    "id": "coat",
+    "kanji": "コート",
+    "hiragana": "コート",
+    "en": "coat",
+    "vi": "áo choàng ngoài, áo măng tô",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ áo choàng (từ mượn)",
+        "Ví dụ: コートを着ます。 (Mặc áo choàng.)"
+      ]
+    }
+  },
+  {
+    "id": "suit",
+    "kanji": "スーツ",
+    "hiragana": "スーツ",
+    "en": "suit",
+    "vi": "bộ com lê",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ bộ com lê (từ mượn)",
+        "Ví dụ: スーツを着ます。 (Mặc bộ com lê.)"
+      ]
+    }
+  },
+  {
+    "id": "sweater",
+    "kanji": "セーター",
+    "hiragana": "セーター",
+    "en": "sweater",
+    "vi": "áo len",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ áo len (từ mượn)",
+        "Ví dụ: セーターを着ます。 (Mặc áo len.)"
+      ]
+    }
+  },
+  {
+    "id": "maker",
+    "kanji": "メーカー",
+    "hiragana": "メーカー",
+    "en": "maker",
+    "vi": "nhà sản xuất",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ nhà sản xuất (từ mượn)",
+        "Ví dụ: メーカーを選びます。 (Chọn nhà sản xuất.)"
+      ]
+    }
+  },
+  {
+    "id": "promise",
+    "kanji": "約束",
+    "hiragana": "やくそく",
+    "en": "promise",
+    "vi": "lời hứa, hẹn",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ lời hứa",
+        "Ví dụ: 約束をします。 (Hứa hẹn.)"
+      ]
+    }
+  },
+  {
+    "id": "nextTimePlease",
+    "kanji": "また今度お願いします",
+    "hiragana": "またこんどおねがいします",
+    "en": "next time please",
+    "vi": "xin để lần khác (cách từ chối gián tiếp)",
+    "type": "other",
+    "explanation": {
+      "content": [
+        "Câu từ chối lịch sự",
+        "Ví dụ: また今度お願いします。 (Xin để lần khác.)"
+      ]
+    }
+  },
+  {
+    "id": "excuseMeFirst",
+    "kanji": "お先に失礼します",
+    "hiragana": "おさきにしつれいします",
+    "en": "excuse me first",
+    "vi": "xin phép tôi về trước (dùng khi về sớm hơn người khác)",
+    "type": "other",
+    "explanation": {
+      "content": [
+        "Lời chào khi về sớm",
+        "Ví dụ: お先に失礼します。 (Xin phép tôi về trước.)"
+      ]
+    }
+  },
+  {
+    "id": "thankYouForYourHardWork",
+    "kanji": "お疲れさまでした",
+    "hiragana": "おつかれさまでした",
+    "en": "thank you for your hard work",
+    "vi": "cảm ơn nhé. anh về nhé. (dùng khi người khác làm việc cho mình xong. hoặc khi người cùng làm trong cơ quan về sớm hơn mình thì nói câu này để chào.)",
+    "type": "other",
+    "explanation": {
+      "content": [
+        "Lời chào khi kết thúc công việc",
+        "Ví dụ: お疲れさまでした。 (Cảm ơn nhé. Anh về nhé.)"
+      ]
+    }
+  },
+  {
+    "id": "toBeBorn",
+    "kanji": "生まれます",
+    "hiragana": "うまれます",
+    "en": "to be born",
+    "vi": "được sinh ra",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm II",
+        "Ví dụ: 日本で生まれます。 (Được sinh ra ở Nhật.)"
+      ]
+    }
+  },
+  {
+    "id": "rent",
+    "kanji": "家賃",
+    "hiragana": "やちん",
+    "en": "rent",
+    "vi": "tiền thuê nhà",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ tiền thuê nhà",
+        "Ví dụ: 家賃を払います。 (Trả tiền thuê nhà.)"
+      ]
+    }
+  },
+  {
+    "id": "apartment",
+    "kanji": "アパート",
+    "hiragana": "アパート",
+    "en": "apartment",
+    "vi": "chung cư",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ chung cư (từ mượn)",
+        "Ví dụ: アパートに住みます。 (Sống ở chung cư.)"
+      ]
+    }
+  },
+  {
+    "id": "japaneseRoom",
+    "kanji": "和室",
+    "hiragana": "わしつ",
+    "en": "Japanese room",
+    "vi": "phòng kiểu nhật",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ phòng kiểu Nhật",
+        "Ví dụ: 和室で寝ます。 (Ngủ ở phòng kiểu Nhật.)"
+      ]
+    }
+  },
+  {
+    "id": "closet",
+    "kanji": "押し入れ",
+    "hiragana": "おしいれ",
+    "en": "closet",
+    "vi": "tủ đựng quần áo kiểu Nhật",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ tủ đựng quần áo",
+        "Ví dụ: 押し入れに服を入れます。 (Bỏ quần áo vào tủ.)"
+      ]
+    }
+  },
+  {
+    "id": "futon",
+    "kanji": "布団",
+    "hiragana": "ふとん",
+    "en": "futon",
+    "vi": "chăn",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ chăn",
+        "Ví dụ: 布団で寝ます。 (Ngủ bằng chăn.)"
+      ]
+    }
+  },
+  {
+    "id": "diningKitchen",
+    "kanji": "ダイニングキッチン",
+    "hiragana": "ダイニングキッチン",
+    "en": "dining kitchen",
+    "vi": "nhà bếp kiêm phòng ăn",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ nhà bếp kiêm phòng ăn (từ mượn)",
+        "Ví dụ: ダイニングキッチンで料理します。 (Nấu ăn ở nhà bếp kiêm phòng ăn.)"
+      ]
+    }
+  },
+  {
+    "id": "paris",
+    "kanji": "パリ",
+    "hiragana": "パリ",
+    "en": "Paris",
+    "vi": "Paris",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Tên thành phố",
+        "Ví dụ: パリへ行きます。 (Đi Paris.)"
+      ]
+    }
+  },
+  {
+    "id": "greatWall",
+    "kanji": "万里の長城",
+    "hiragana": "ばんりのちょうじょう",
+    "en": "Great Wall",
+    "vi": "Vạn lý trường thành",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Tên địa danh",
+        "Ví dụ: 万里の長城を見ます。 (Xem Vạn lý trường thành.)"
+      ]
+    }
+  },
+  {
+    "id": "leisureWhitePaper",
+    "kanji": "レジャー白書",
+    "hiragana": "レジャーはくしょ",
+    "en": "leisure white paper",
+    "vi": "sách trắng giải trí",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ sách trắng",
+        "Ví dụ: レジャー白書を読みます。 (Đọc sách trắng giải trí.)"
+      ]
+    }
+  },
+  {
+    "id": "hmm",
+    "kanji": "うーん",
+    "hiragana": "うーん",
+    "en": "hmm",
+    "vi": "để tôi xem đã",
+    "type": "other",
+    "explanation": {
+      "content": [
+        "Từ đệm khi suy nghĩ",
+        "Ví dụ: うーん (Để tôi xem đã)"
+      ]
+    }
+  }
+]

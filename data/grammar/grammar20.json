@@ -1,1 +1,200 @@
-﻿[]
+﻿[
+  {
+    "id": "plain-form-intro",
+    "title": "Trình bày về thể văn lịch sự và thông thường",
+    "description": "Thể lịch sự: là cách nói mà kết thúc câu luôn là –desu (với tính từ, danh từ) và –masu (với động từ) và các dạng phái sinh của nó (-deshita, -dewa arimasen, -masen, -mashita). Thể thông thường: là cách nói không có –desu hay –masu. Dùng luôn dạng cơ bản, dạng gốc và các dạng phái sinh dạng ngắn của các loại từ đó. Thể lịch sự dùng với: Người lớn tuổi, Người gặp lần đầu tiên, Cấp trên, Mình là nhân viên mới, Trong các sự kiện nghiêm túc. Thể thông thường dùng với: Người kém tuổi, Người ngang tuổi, Bạn thân, Người trong gia đình. Chú ý: (1) Trong trường hợp từ ① đến ⑤ mà sử dụng thể thông thường thì bị coi là thất lễ. (2) Người Nhật đối với người nước ngoài hay nhân viên lâu năm khi chỉ đạo, hướng dẫn nhân viên mới để thể hiện sự thân mật tùy thuộc vào ý đồ vẫn có thể sử dụng được thể thông thường. (3) Từ a~d, cũng tùy thuộc vào trường hợp vẫn có thể sử dụng thể lịch sự",
+    "structure": "Thể lịch sự / Thể thông thường",
+    "examples": [
+      {
+        "japanese": "かきます / かく",
+        "romaji": "kakimasu / kaku",
+        "vietnamese": "viết"
+      },
+      {
+        "japanese": "かきません / かかない",
+        "romaji": "kakimasen / kakanai",
+        "vietnamese": "không viết"
+      },
+      {
+        "japanese": "かきました / かいた",
+        "romaji": "kakimashita / kaita",
+        "vietnamese": "đã viết"
+      },
+      {
+        "japanese": "あついです / あつい",
+        "romaji": "atsui desu / atsui",
+        "vietnamese": "nóng"
+      },
+      {
+        "japanese": "ひまです / ひまだ",
+        "romaji": "hima desu / hima da",
+        "vietnamese": "rảnh"
+      }
+    ],
+    "notes": [
+      "Thể lịch sự: kết thúc câu luôn là –desu (với tính từ, danh từ) và –masu (với động từ)",
+      "Thể thông thường: không có –desu hay –masu, dùng dạng cơ bản, dạng gốc",
+      "Thể lịch sự dùng với: Người lớn tuổi, Người gặp lần đầu tiên, Cấp trên, Mình là nhân viên mới, Trong các sự kiện nghiêm túc",
+      "Thể thông thường dùng với: Người kém tuổi, Người ngang tuổi, Bạn thân, Người trong gia đình"
+    ]
+  },
+  {
+    "id": "plain-form-conjugation",
+    "title": "Thể văn lịch sự và thông thường của động từ, tính từ, danh từ",
+    "description": "Bảng so sánh thể lịch sự và thể thông thường của động từ, tính từ, danh từ và các nhóm từ ngữ theo sau",
+    "structure": "Thể lịch sự / Thể thông thường",
+    "examples": [
+      {
+        "japanese": "飲みたいです / 飲みたい",
+        "romaji": "nomitai desu / nomitai",
+        "vietnamese": "Muốn uống"
+      },
+      {
+        "japanese": "飲みに 行きます / 飲みに 行く",
+        "romaji": "nomi ni ikimasu / nomi ni iku",
+        "vietnamese": "Đi uống"
+      },
+      {
+        "japanese": "書いてください / 書いて",
+        "romaji": "kaite kudasai / kaite",
+        "vietnamese": "Xin hãy viết"
+      },
+      {
+        "japanese": "書いています / 書いている",
+        "romaji": "kaite imasu / kaite iru",
+        "vietnamese": "Đang viết"
+      },
+      {
+        "japanese": "書いても いいです / 書いても いい",
+        "romaji": "kaite mo ii desu / kaite mo ii",
+        "vietnamese": "Có thể viết"
+      },
+      {
+        "japanese": "書かなくても いいです / 書かなくても いい",
+        "romaji": "kakanakutemo ii desu / kakanakutemo ii",
+        "vietnamese": "Không cần phải viết"
+      },
+      {
+        "japanese": "行かなければなりません / 行かなければならない",
+        "romaji": "ikanakereba narimasen / ikanakereba naranai",
+        "vietnamese": "Phải đi"
+      },
+      {
+        "japanese": "食べることが できます / 食べることが できる",
+        "romaji": "taberu koto ga dekimasu / taberu koto ga dekiru",
+        "vietnamese": "Có thể ăn"
+      },
+      {
+        "japanese": "読んだことがあります / 読んだことがある",
+        "romaji": "yonda koto ga arimasu / yonda koto ga aru",
+        "vietnamese": "Có đọc"
+      },
+      {
+        "japanese": "読んだり、書いたり します / 読んだり、書いたり する",
+        "romaji": "yondari, kaitari shimasu / yondari, kaitari suru",
+        "vietnamese": "Đọc, viết và…"
+      }
+    ],
+    "notes": [
+      "Khi đổi những câu được nối với nhau bằng から hay が、けど thành thể văn thông thường thì tất cả các từ lịch sự trong câu phải được đổi sang thể thông thường",
+      "Ví dụ: おなかが 痛 いですから、 病 院 へ 行 きます → おなかが 痛 いから、 病 院 へ いく"
+    ]
+  },
+  {
+    "id": "plain-form-question",
+    "title": "Câu nghi vấn ở thể văn thông thường",
+    "description": "Bỏ trợ từ chỉ sự nghi vấn là か ở cuối câu, thay vào đó đọc cao giọng chữ ở cuối câu để biểu thị sự nghi vấn. Cũng có những câu nghi vấn ở thể văn thông thường mà không bỏ chữ か ở sau như: 飲むか、見たか…, nhưng chỉ được sử dụng giới hạn trong phạm vi nam giới khi người trên hỏi người dưới hoặc những người quá thân nhau. Đối với câu nghi vấn danh từ hay tính từ thì chữ だ thể thông thường của です được giản lược. Khi đàm thoại thường dùng じゃない. Trợ từ trong câu nghi vấn ở thể văn thông văn cũng thường được lược bỏ. Trong thể thông thường, chữ い trong mẫu câu V ている cũng thường được lược bỏ",
+    "structure": "Câu nghi vấn thể thông thường",
+    "examples": [
+      {
+        "japanese": "コーヒーを 飲む？",
+        "romaji": "Koohii o nomu?",
+        "vietnamese": "Uống cà phê không?"
+      },
+      {
+        "japanese": "…うん、飲む",
+        "romaji": "...Un, nomu.",
+        "vietnamese": "Ừ, uống"
+      },
+      {
+        "japanese": "今晩 暇？",
+        "romaji": "Konban hima?",
+        "vietnamese": "Tối nay rảnh không?"
+      },
+      {
+        "japanese": "…うん、暇（だよ）",
+        "romaji": "...Un, hima (da yo).",
+        "vietnamese": "Ừ, rảnh"
+      },
+      {
+        "japanese": "…ううん、暇ではない。",
+        "romaji": "...Uun, hima dewa nai.",
+        "vietnamese": "Không, không rảnh"
+      },
+      {
+        "japanese": "…ううん、暇じゃない。",
+        "romaji": "...Uun, hima ja nai.",
+        "vietnamese": "Không, không rảnh"
+      },
+      {
+        "japanese": "ご飯 食 べる ？",
+        "romaji": "Gohan taberu?",
+        "vietnamese": "Ăn cơm không?"
+      },
+      {
+        "japanese": "明日 京都 行 かない？",
+        "romaji": "Ashita Kyouto ikanai?",
+        "vietnamese": "Mai đi Kyoto không?"
+      },
+      {
+        "japanese": "そこに はさみある？",
+        "romaji": "Soko ni hasami aru?",
+        "vietnamese": "Ở đó có kéo không?"
+      },
+      {
+        "japanese": "辞書 、 持 っ てる？",
+        "romaji": "Jisho, motteru?",
+        "vietnamese": "Có từ điển không?"
+      },
+      {
+        "japanese": "…うん、 持 っ てる。",
+        "romaji": "...Un, motteru.",
+        "vietnamese": "Ừ, có"
+      },
+      {
+        "japanese": "…ううん、持ってない。",
+        "romaji": "...Uun, mottenai.",
+        "vietnamese": "Không, không có"
+      }
+    ],
+    "notes": [
+      "Bỏ trợ từ chỉ sự nghi vấn là か ở cuối câu, thay vào đó đọc cao giọng chữ ở cuối câu để biểu thị sự nghi vấn",
+      "Đối với câu nghi vấn danh từ hay tính từ thì chữ だ thể thông thường của です được giản lược",
+      "Khi đàm thoại thường dùng じゃない",
+      "Trợ từ trong câu nghi vấn ở thể văn thông thường cũng thường được lược bỏ",
+      "Trong thể thông thường, chữ い trong mẫu câu V ている cũng thường được lược bỏ"
+    ]
+  },
+  {
+    "id": "plain-form-yes-no",
+    "title": "Thể thông thường của はい、いいえ",
+    "description": "Thể thông thường của はい、いいえ",
+    "structure": "うん / ううん",
+    "examples": [
+      {
+        "japanese": "はい → うん",
+        "romaji": "hai → un",
+        "vietnamese": "vâng → ừ"
+      },
+      {
+        "japanese": "いいえ → ううん",
+        "romaji": "iie → uun",
+        "vietnamese": "không → không (phát âm u u n)"
+      }
+    ],
+    "notes": [
+      "はい → うん",
+      "いいえ → ううん (phát âm u u n)"
+    ]
+  }
+]

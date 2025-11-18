@@ -1,1 +1,179 @@
-﻿[]
+﻿[
+  {
+    "id": "toki",
+    "title": "～ とき、～ - Cách thể hiện ý nói: khi (làm gì) thì (làm gì)",
+    "description": "khi ～, lúc ～. → giống hệt cách tạo 1 định ngữ. Về bản chất, とき cũng là 1 danh từ, vì vậy, cách cấu thành mẫu câu này áp dụng toàn bộ quy tắc bổ nghĩa danh từ hay tạo 1 định ngữ (đối với động từ). Thì của câu tính từ và câu danh từ bổ nghĩa cho とき không bị ảnh hưởng bởi thì của mệnh đề chính trong câu.",
+    "structure": "Động từ dạng ngắn / Tính từ đuôi i / Tính từ đuôi na / Danh từ + とき",
+    "examples": [
+      {
+        "japanese": "図書館 で 本 を借 りる とき 、カードが 要 ります。",
+        "romaji": "Toshokan de hon o kariru toki, kaado ga irimasu.",
+        "vietnamese": "Khi mượn sách ở thư viện cần có thẻ."
+      },
+      {
+        "japanese": "使 い方 が 分 からないとき 、 私 に 聞 いてください。",
+        "romaji": "Tsukaikata ga wakaranai toki, watashi ni kiite kudasai.",
+        "vietnamese": "Khi không biết cách sử dụng thì hãy hỏi tôi."
+      },
+      {
+        "japanese": "忙 しいとき 、１０ 時 ごろまで 働 きます。",
+        "romaji": "Isogashii toki, juuji goro made hatarakimasu.",
+        "vietnamese": "Khi bận rộn thì làm cho đến khoảng 10 giờ."
+      },
+      {
+        "japanese": "暇 なとき 、うちへ 遊 びに行 きませんか。",
+        "romaji": "Hima na toki, uchi e asobi ni ikimasen ka?",
+        "vietnamese": "Bạn sẽ đến nhà tôi chơi khi rảnh rỗi chứ?"
+      },
+      {
+        "japanese": "妻 が 病気 のとき 、 会社 を 休 みます。",
+        "romaji": "Tsuma ga byouki no toki, kaisha o yasumimasu.",
+        "vietnamese": "Khi vợ ốm tôi sẽ xin nghỉ làm"
+      },
+      {
+        "japanese": "子供 のとき 、よく 川 で 泳 ぎました。",
+        "romaji": "Kodomo no toki, yoku kawa de oyogimashita.",
+        "vietnamese": "Hồi còn bé / Khi còn là trẻ con, tôi rất hay bơi trên sông."
+      },
+      {
+        "japanese": "若 いとき 、あまり 勉 強 しませんでした。",
+        "romaji": "Wakai toki, amari benkyou shimasen deshita.",
+        "vietnamese": "Khi còn trẻ, tôi không học hành mấy."
+      }
+    ],
+    "notes": [
+      "→ giống hệt cách tạo 1 định ngữ",
+      "Về bản chất, とき cũng là 1 danh từ",
+      "Cách cấu thành mẫu câu này áp dụng toàn bộ quy tắc bổ nghĩa danh từ hay tạo 1 định ngữ",
+      "Động từ: V る・V ない・V た + とき",
+      "Tính từ đuôi i: ～い + とき",
+      "Tính từ đuôi na: ～な + とき",
+      "Danh từ: ～の + とき",
+      "Thì của câu tính từ và câu danh từ bổ nghĩa cho とき không bị ảnh hưởng bởi thì của mệnh đề chính trong câu"
+    ]
+  },
+  {
+    "id": "v-ru-toki-v-ta-toki",
+    "title": "V る / V た とき、～ - Phân biệt giữa V る＋とき、 và V た＋とき",
+    "description": "Đều có nghĩa là \"khi\" nhưng nếu thì của động từ trước とき khác nhau thì nghĩa của câu cũng khác nhau. Cụ thể: V る: biểu thị một hành động chưa hoàn thành. V た: biểu thị một việc, hành động hay tình trạng đã hoàn tất",
+    "structure": "V る / V た とき、～",
+    "examples": [
+      {
+        "japanese": "東 京 へ行 くとき 、 このかばんを 買いました。",
+        "romaji": "Toukyou e iku toki, kono kaban o kaimashita.",
+        "vietnamese": "Tôi đã mua chiếc cặp này khi đi Tokyo"
+      },
+      {
+        "japanese": "→ Chiếc cặp này được mua trên đường đi đến Tokyo",
+        "romaji": "",
+        "vietnamese": "→ Chiếc cặp này được mua trên đường đi đến Tokyo"
+      },
+      {
+        "japanese": "東 京 へ行 っ たとき 、 このかばんを 買いました。",
+        "romaji": "Toukyou e itta toki, kono kaban o kaimashita.",
+        "vietnamese": "Tôi đã mua chiếc cặp này khi đi Tokyo"
+      },
+      {
+        "japanese": "→ Chiếc cặp này được mua sau khi đã đến Tokyo",
+        "romaji": "",
+        "vietnamese": "→ Chiếc cặp này được mua sau khi đã đến Tokyo"
+      }
+    ],
+    "notes": [
+      "V る: biểu thị một hành động chưa hoàn thành",
+      "V た: biểu thị một việc, hành động hay tình trạng đã hoàn tất"
+    ]
+  },
+  {
+    "id": "v-ru-to",
+    "title": "V る / V ない と、～ - Cách nói giả định, giả sử loại 1: về 1 sự việc chắn chắn sẽ xảy ra",
+    "description": "Nếu… thì…; cứ … thì sẽ…. Câu giả sử kiểu này dùng khi diễn tả 1 tình huống mà ở đó, do kết quả của 1 hành động nào đó mà 1 hành động, 1 sự việc khác chắn chắn sẽ xảy ra. Trợ từ と (mang nghĩa là \"nếu\") được đặt ở giữa để nối 2 câu và đóng vai trò xác định mệnh đề giả sử. Chú ý: mệnh đề đứng sau ~と không sử dụng để biểu hiện một ý hướng, một hy vọng, một sự rủ rê hay một sự nhờ vả.",
+    "structure": "V る / V ない と、～",
+    "examples": [
+      {
+        "japanese": "このボタンを 押 すと 、お釣 りが 出 ます。",
+        "romaji": "Kono botan o osu to, otsuri ga demasu.",
+        "vietnamese": "Nếu bấm nút này thì tiền thừa sẽ chạy ra."
+      },
+      {
+        "japanese": "これを 回 すと 、 音 が 大 きく なります。",
+        "romaji": "Kore o mawasu to, oto ga ookiku narimasu.",
+        "vietnamese": "Nếu vặn cái này thì tiếng sẽ to lên."
+      },
+      {
+        "japanese": "右 へ 曲 がると 、 郵 便 局 が あります。",
+        "romaji": "Migi e magaru to, yuubinkyoku ga arimasu.",
+        "vietnamese": "Nếu rẽ phải thì sẽ có một cái bưu điện."
+      },
+      {
+        "japanese": "日本語 が 分 からないと 、 困 りますよ。",
+        "romaji": "Nihongo ga wakaranai to, komarimasu yo.",
+        "vietnamese": "Nếu không biết tiếng Nhật thì sẽ khó khăn đấy."
+      },
+      {
+        "japanese": "もっと がんばらないと 、 合格 できません。",
+        "romaji": "Motto ganbaranai to, goukaku dekimasen.",
+        "vietnamese": "Nếu không cố gắng hơn nữa thì sẽ không thể đỗ được"
+      }
+    ],
+    "notes": [
+      "Câu giả sử kiểu này dùng khi diễn tả 1 tình huống mà ở đó, do kết quả của 1 hành động nào đó mà 1 hành động, 1 sự việc khác chắn chắn sẽ xảy ra",
+      "Trợ từ と (mang nghĩa là \"nếu\") được đặt ở giữa để nối 2 câu",
+      "Mệnh đề đứng sau ~と không sử dụng để biểu hiện một ý hướng, một hy vọng, một sự rủ rê hay một sự nhờ vả",
+      "Kiểu giả sử này chúng ta sẽ học ở bài 25 với mẫu câu 「～たら」"
+    ]
+  },
+  {
+    "id": "n-ga-adj-v",
+    "title": "N が Adj／V - Cách biểu thị tình trạng hay quang cảnh như nó vốn có",
+    "description": "Khi biểu thị một tình trạng hay một quang cảnh như nó vốn có, thì trợ từ được sử dụng sau chủ ngữ sẽ là が",
+    "structure": "N が Adj／V",
+    "examples": [
+      {
+        "japanese": "音 が 小 さいです。",
+        "romaji": "Oto ga chiisai desu.",
+        "vietnamese": "Tiếng nhỏ."
+      },
+      {
+        "japanese": "天気 が 明 るくなりました。",
+        "romaji": "Tenki ga akaruku narimashita.",
+        "vietnamese": "Thời tiết trở nên quang đãng."
+      },
+      {
+        "japanese": "この ボタンを 押 すと、 切符 が 出 ます。",
+        "romaji": "Kono botan o osu to, kippu ga demasu.",
+        "vietnamese": "Nếu bấm nút này thì vé sẽ ra."
+      }
+    ],
+    "notes": [
+      "Khi biểu thị một tình trạng hay một quang cảnh như nó vốn có, thì trợ từ được sử dụng sau chủ ngữ sẽ là が"
+    ]
+  },
+  {
+    "id": "n-place-wo-movement-verb",
+    "title": "N (địa điểm) を V (động từ di chuyển) - Chỉ địa điểm đi qua",
+    "description": "Được sử dụng để chỉ địa điểm, vị trí nơi mà 1 người hay 1 vật nào đó đi qua.",
+    "structure": "N (địa điểm) を V (động từ di chuyển)",
+    "examples": [
+      {
+        "japanese": "橋 を 渡 ります。",
+        "romaji": "Hashi o watarimasu.",
+        "vietnamese": "Đi qua cầu."
+      },
+      {
+        "japanese": "公園 を 散歩 します。",
+        "romaji": "Kouen o sanpo shimasu.",
+        "vietnamese": "Đi dạo trong công viên."
+      },
+      {
+        "japanese": "交差点 を 右 へ 曲 がります。",
+        "romaji": "Kousaten o migi e magarimasu.",
+        "vietnamese": "Rẽ phải ở ngã tư."
+      }
+    ],
+    "notes": [
+      "Được sử dụng để chỉ địa điểm, vị trí nơi mà 1 người hay 1 vật nào đó đi qua",
+      "Các động từ di chuyển: あるきます (đi bộ), わたります (băng qua), さんぽします (đi dạo)"
+    ]
+  }
+]

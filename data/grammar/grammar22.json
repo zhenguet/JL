@@ -1,1 +1,167 @@
-﻿[]
+﻿[
+  {
+    "id": "noun-modifier-intro",
+    "title": "ĐỊNH NGỮ - Giới thiệu",
+    "description": "Các cách bổ nghĩa cho danh từ: Đã học: bổ nghĩa bằng đơn vị từ (ミラーさんの家, 新しい家, きれいな家). Bài này học: bổ nghĩa bằng đơn vị câu với động từ (→ định ngữ). Định ngữ (danh từ được bổ nghĩa bằng câu động từ) có thể ở nhiều vị trí trong câu, đóng vai trò nhiều thành phần của câu (như 1 danh từ bình thường).",
+    "structure": "Động từ dạng ngắn + DANH TỪ",
+    "examples": [
+      {
+        "japanese": "ミラーさんの 家",
+        "romaji": "Miraa-san no uchi",
+        "vietnamese": "Ngôi nhà của anh Miler (bài 2)"
+      },
+      {
+        "japanese": "新 しい 家",
+        "romaji": "Atarashii uchi",
+        "vietnamese": "Ngôi nhà mới (bài 8)"
+      },
+      {
+        "japanese": "きれいな 家",
+        "romaji": "Kirei na uchi",
+        "vietnamese": "Ngôi nhà đẹp (bài 8)"
+      }
+    ],
+    "notes": [
+      "Đã học: bổ nghĩa bằng đơn vị từ",
+      "Bài này học: bổ nghĩa bằng đơn vị câu với động từ (→ định ngữ)",
+      "Định ngữ có thể ở nhiều vị trí trong câu, đóng vai trò nhiều thành phần của câu"
+    ]
+  },
+  {
+    "id": "noun-modifier-formation",
+    "title": "Cách cấu thành định ngữ: (bổ nghĩa danh từ bằng câu động từ)",
+    "description": "Các danh từ đóng vai trò là các yếu tố khác nhau trong câu có thể được chọn ra và bổ nghĩa bằng chính động từ của câu đó → định ngữ. Khi các danh từ được bổ nghĩa thì các trợ từ を、で、に ở câu gốc sẽ không cần nữa.",
+    "structure": "Động từ dạng ngắn [V る・V ない・V た] + DANH TỪ",
+    "examples": [
+      {
+        "japanese": "行く人",
+        "romaji": "iku hito",
+        "vietnamese": "Người sẽ đi Kyoto"
+      },
+      {
+        "japanese": "行かない人",
+        "romaji": "ikanai hito",
+        "vietnamese": "Người không đi Kyoto"
+      },
+      {
+        "japanese": "行った人",
+        "romaji": "itta hito",
+        "vietnamese": "Người đã đi Kyoto"
+      },
+      {
+        "japanese": "行かなかった人",
+        "romaji": "ikanakatta hito",
+        "vietnamese": "Người đã không đi Kyoto"
+      },
+      {
+        "japanese": "私 は 先 週 映画 を 見 ました。",
+        "romaji": "Watashi wa senshuu eiga o mimashita.",
+        "vietnamese": "Tuần trước tôi đã xem phim."
+      },
+      {
+        "japanese": "→ 私 が 先 週 み 見 た 映画",
+        "romaji": "→ Watashi ga senshuu mita eiga",
+        "vietnamese": "→ Bộ phim mà tuần trước tôi đã xem"
+      },
+      {
+        "japanese": "ワンさんは 病 院 で 働 いています。",
+        "romaji": "Wan-san wa byouin de hataraite imasu.",
+        "vietnamese": "Ông Wang làm việc tại bệnh viện"
+      },
+      {
+        "japanese": "→ ワンさんが 働 いている 病 院",
+        "romaji": "→ Wan-san ga hataraite iru byouin",
+        "vietnamese": "→ Bệnh viên nơi ông Wang làm việc"
+      },
+      {
+        "japanese": "私 は 明日 友達 に 会 います。",
+        "romaji": "Watashi wa ashita tomodachi ni aimasu.",
+        "vietnamese": "Ngày mai tôi sẽ gặp bạn tôi"
+      },
+      {
+        "japanese": "→ 私 が 明日 あ 会 う 友達",
+        "romaji": "→ Watashi ga ashita au tomodachi",
+        "vietnamese": "→ Người bạn mà ngày mai tôi sẽ gặp"
+      }
+    ],
+    "notes": [
+      "Các danh từ đóng vai trò là các yếu tố khác nhau trong câu có thể được chọn ra và bổ nghĩa bằng chính động từ của câu đó",
+      "Khi các danh từ được bổ nghĩa thì các trợ từ を、で、に ở câu gốc sẽ không cần nữa"
+    ]
+  },
+  {
+    "id": "noun-modifier-positions",
+    "title": "Định ngữ ở các vị trí khác nhau trong câu",
+    "description": "Định ngữ (danh từ được bổ nghĩa bằng câu động từ) có thể ở nhiều vị trí trong câu, đóng vai trò nhiều thành phần của câu (như 1 danh từ bình thường).",
+    "structure": "Định ngữ + です / は / を / が / に / へ",
+    "examples": [
+      {
+        "japanese": "これは ミラーさんが 住 んでいる 家 です。",
+        "romaji": "Kore wa Miraa-san ga sunde iru uchi desu.",
+        "vietnamese": "Đây là ngôi nhà ông Miller đang ở."
+      },
+      {
+        "japanese": "ミラーさんが 住 んでいる 家 は 古 いです。",
+        "romaji": "Miraa-san ga sunde iru uchi wa furui desu.",
+        "vietnamese": "Ngôi nhà ông Milller đang ở thật là cũ."
+      },
+      {
+        "japanese": "ミラーさんが 住 んでいる 家 を 買 いました。",
+        "romaji": "Miraa-san ga sunde iru uchi o kaimashita.",
+        "vietnamese": "Tôi đã mua căn nhà mà ông Miller đang ở."
+      },
+      {
+        "japanese": "私は ミラーさんが 住 んでいる 家 が 好 きです。",
+        "romaji": "Watashi wa Miraa-san ga sunde iru uchi ga suki desu.",
+        "vietnamese": "Tôi thích căn nhà mà ông Miller đang ở"
+      },
+      {
+        "japanese": "ミラーさんが 住 んでいる 家 に 猫 が いました。",
+        "romaji": "Miraa-san ga sunde iru uchi ni neko ga imashita.",
+        "vietnamese": "Đã có một con mèo ở ngôi nhà ông Miller đang ở."
+      },
+      {
+        "japanese": "ミラーさんが 住 んでいる 家 へ 行 っ たこと が あります。",
+        "romaji": "Miraa-san ga sunde iru uchi e itta koto ga arimasu.",
+        "vietnamese": "Tôi đã từng đến ngôi nhà mà ông Miller đang ở."
+      }
+    ],
+    "notes": [
+      "Định ngữ có thể ở nhiều vị trí trong câu",
+      "Đóng vai trò nhiều thành phần của câu (như 1 danh từ bình thường)",
+      "Có thể là: vị ngữ, chủ ngữ, tân ngữ, danh từ chỉ vị trí, danh từ chỉ địa điểm"
+    ]
+  },
+  {
+    "id": "n-ga-in-modifier",
+    "title": "N が - Chủ ngữ trong câu định ngữ",
+    "description": "Khi câu động từ bổ nghĩa cho 1 danh từ (tạo ra định ngữ) thì chủ ngữ (chủ thể của hành động) trong câu bổ nghĩa đó được xác định bởi trợ từ が",
+    "structure": "N が + V + DANH TỪ",
+    "examples": [
+      {
+        "japanese": "ミラーさんは ケーキを 作 りました。",
+        "romaji": "Miraa-san wa keeki o tsukurimashita.",
+        "vietnamese": "Ông Miller đã làm bánh ngọt."
+      },
+      {
+        "japanese": "→ これは ミラーさんが 作 ったケーキです。",
+        "romaji": "→ Kore wa Miraa-san ga tsukutta keeki desu.",
+        "vietnamese": "→ Đây là cái bánh ngọt ông Miller đã làm."
+      },
+      {
+        "japanese": "カリナさんは 絵 を 書 きました。",
+        "romaji": "Karina-san wa e o kakimashita.",
+        "vietnamese": "Chị Carina đã vẽ tranh."
+      },
+      {
+        "japanese": "→ わたしは カリナさんが 書 いた絵 が 好 きです。",
+        "romaji": "→ Watashi wa Karina-san ga kaita e ga suki desu.",
+        "vietnamese": "→ Tôi thích bức tranh mà chị Carina đã vẽ."
+      }
+    ],
+    "notes": [
+      "Khi câu động từ bổ nghĩa cho 1 danh từ (tạo ra định ngữ) thì chủ ngữ (chủ thể của hành động) trong câu bổ nghĩa đó được xác định bởi trợ từ が",
+      "Trong câu bình thường dùng は, trong câu định ngữ dùng が"
+    ]
+  }
+]

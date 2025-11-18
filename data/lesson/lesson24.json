@@ -1,1 +1,352 @@
-﻿[]
+﻿[
+  {
+    "id": "toSendOff",
+    "kanji": "送ります",
+    "hiragana": "おくります",
+    "en": "to send off",
+    "vi": "tiễn",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm I",
+        "Ví dụ: 人を送ります。 (Tiễn người.)"
+      ]
+    }
+  },
+  {
+    "id": "sendOffPerson",
+    "kanji": "人を送ります",
+    "hiragana": "ひとをおくります",
+    "en": "send off a person",
+    "vi": "tiễn người",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm I",
+        "Ví dụ: 人を送ります。 (Tiễn người.)"
+      ]
+    }
+  },
+  {
+    "id": "toInvestigate",
+    "kanji": "調べます",
+    "hiragana": "しらべます",
+    "en": "to investigate",
+    "vi": "xem xét, điều tra",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm II",
+        "Ví dụ: 問題を調べます。 (Điều tra vấn đề.)"
+      ]
+    }
+  },
+  {
+    "id": "toGive",
+    "kanji": "くれます",
+    "hiragana": "くれます",
+    "en": "to give",
+    "vi": "cho, biếu (cho mình)",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm II",
+        "Ví dụ: 友達が本をくれます。 (Bạn cho tôi sách.)"
+      ]
+    }
+  },
+  {
+    "id": "toCopy",
+    "kanji": "コピー（します、する、して）",
+    "hiragana": "コピー（します、する、して）",
+    "en": "to copy",
+    "vi": "sao chụp, photo",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm III (する)",
+        "Ví dụ: 書類をコピーします。 (Sao chụp tài liệu.)"
+      ]
+    }
+  },
+  {
+    "id": "toTake",
+    "kanji": "連れて行きます",
+    "hiragana": "つれていきます",
+    "en": "to take",
+    "vi": "đưa (ai) đi, dẫn đi",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm I",
+        "Ví dụ: 友達を連れて行きます。 (Đưa bạn đi.)"
+      ]
+    }
+  },
+  {
+    "id": "toBring",
+    "kanji": "連れて来ます",
+    "hiragana": "つれてきます",
+    "en": "to bring",
+    "vi": "đưa (ai) đến, dẫn đến",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm I",
+        "Ví dụ: 友達を連れて来ます。 (Đưa bạn đến.)"
+      ]
+    }
+  },
+  {
+    "id": "toExplain",
+    "kanji": "説明（します、する、して）",
+    "hiragana": "せつめい（します、する、して）",
+    "en": "to explain",
+    "vi": "thuyết minh, giải thích",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm III (する)",
+        "Ví dụ: 問題を説明します。 (Giải thích vấn đề.)"
+      ]
+    }
+  },
+  {
+    "id": "toGuide",
+    "kanji": "案内（します、する、して）",
+    "hiragana": "あんない（します、する、して）",
+    "en": "to guide",
+    "vi": "hướng dẫn, dẫn đường",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm III (する)",
+        "Ví dụ: 観光地を案内します。 (Hướng dẫn địa điểm du lịch.)"
+      ]
+    }
+  },
+  {
+    "id": "toIntroduce",
+    "kanji": "紹介（します、する、して）",
+    "hiragana": "しょうかい（します、する、して）",
+    "en": "to introduce",
+    "vi": "giới thiệu",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm III (する)",
+        "Ví dụ: 友達を紹介します。 (Giới thiệu bạn.)"
+      ]
+    }
+  },
+  {
+    "id": "doll",
+    "kanji": "人形",
+    "hiragana": "にんぎょう",
+    "en": "doll",
+    "vi": "búp bê",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ búp bê",
+        "Ví dụ: 人形を買います。 (Mua búp bê.)"
+      ]
+    }
+  },
+  {
+    "id": "businessCard",
+    "kanji": "名詞",
+    "hiragana": "めいし",
+    "en": "business card",
+    "vi": "danh thiếp",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ danh thiếp",
+        "Ví dụ: 名詞を交換します。 (Trao đổi danh thiếp.)"
+      ]
+    }
+  },
+  {
+    "id": "tokyoTower",
+    "kanji": "東京タワー",
+    "hiragana": "とうきょうタワー",
+    "en": "Tokyo Tower",
+    "vi": "tháp Tokyo",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Tên địa danh",
+        "Ví dụ: 東京タワーへ行きます。 (Đi tháp Tokyo.)"
+      ]
+    }
+  },
+  {
+    "id": "osakaCastle",
+    "kanji": "大阪城",
+    "hiragana": "おおさかじょう",
+    "en": "Osaka Castle",
+    "vi": "thành Osaka",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Tên địa danh",
+        "Ví dụ: 大阪城へ行きます。 (Đi thành Osaka.)"
+      ]
+    }
+  },
+  {
+    "id": "byOneself",
+    "kanji": "自分で",
+    "hiragana": "じぶんで",
+    "en": "by oneself",
+    "vi": "tự mình",
+    "type": "adverb",
+    "explanation": {
+      "content": [
+        "Phó từ chỉ cách thức",
+        "Ví dụ: 自分で作ります。 (Tự mình làm.)"
+      ]
+    }
+  },
+  {
+    "id": "recently",
+    "kanji": "この間",
+    "hiragana": "このあいだ",
+    "en": "recently",
+    "vi": "mấy hôm trước, vừa qua",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ thời gian gần đây",
+        "Ví dụ: この間、会いました。 (Mấy hôm trước đã gặp.)"
+      ]
+    }
+  },
+  {
+    "id": "really",
+    "kanji": "本当ですか",
+    "hiragana": "ほんとうですか",
+    "en": "really",
+    "vi": "thật sao?",
+    "type": "other",
+    "explanation": {
+      "content": [
+        "Câu hỏi",
+        "Ví dụ: 本当ですか。 (Thật sao?)"
+      ]
+    }
+  },
+  {
+    "id": "pleaseDoYourBest",
+    "kanji": "頑張ってください",
+    "hiragana": "がんばってください",
+    "en": "please do your best",
+    "vi": "cố gắng lên",
+    "type": "other",
+    "explanation": {
+      "content": [
+        "Lời cổ vũ",
+        "Ví dụ: 頑張ってください。 (Cố gắng lên.)"
+      ]
+    }
+  },
+  {
+    "id": "toMake",
+    "kanji": "入れます",
+    "hiragana": "いれます",
+    "en": "to make",
+    "vi": "pha chế, làm",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm II",
+        "Ví dụ: コーヒーを入れます。 (Pha cà phê.)"
+      ]
+    }
+  },
+  {
+    "id": "makeCoffee",
+    "kanji": "コーヒー／お茶を入れます",
+    "hiragana": "コーヒー／おちゃをいれます",
+    "en": "make coffee/tea",
+    "vi": "pha cà phê / pha trà",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm II",
+        "Ví dụ: コーヒーを入れます。 (Pha cà phê.)"
+      ]
+    }
+  },
+  {
+    "id": "all",
+    "kanji": "全部",
+    "hiragana": "ぜんぶ",
+    "en": "all",
+    "vi": "tất cả, toàn bộ",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ toàn bộ",
+        "Ví dụ: 全部で1000円です。 (Tất cả là 1000 yên.)"
+      ]
+    }
+  },
+  {
+    "id": "preparation",
+    "kanji": "準備",
+    "hiragana": "じゅんび",
+    "en": "preparation",
+    "vi": "sự chuẩn bị (danh từ)",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ sự chuẩn bị",
+        "Ví dụ: 準備をします。 (Chuẩn bị.)"
+      ]
+    }
+  },
+  {
+    "id": "besides",
+    "kanji": "他に",
+    "hiragana": "ほかに",
+    "en": "besides",
+    "vi": "bên cạnh đó, ngoài ra",
+    "type": "adverb",
+    "explanation": {
+      "content": [
+        "Phó từ",
+        "Ví dụ: 他に何かありますか。 (Ngoài ra còn có gì không?)"
+      ]
+    }
+  },
+  {
+    "id": "bento",
+    "kanji": "お弁当",
+    "hiragana": "おべんとう",
+    "en": "bento",
+    "vi": "cơm hộp",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ cơm hộp, có tiền tố お (lịch sự)",
+        "Ví dụ: お弁当を食べます。 (Ăn cơm hộp.)"
+      ]
+    }
+  },
+  {
+    "id": "mothersDay",
+    "kanji": "母の日",
+    "hiragana": "ははのひ",
+    "en": "Mother's Day",
+    "vi": "ngày của mẹ",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ ngày của mẹ",
+        "Ví dụ: 母の日を祝います。 (Chúc mừng ngày của mẹ.)"
+      ]
+    }
+  }
+]

@@ -1,1 +1,478 @@
-﻿[]
+﻿[
+  {
+    "id": "toThink",
+    "kanji": "考えます",
+    "hiragana": "かんがえます",
+    "en": "to think",
+    "vi": "suy nghĩ",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm II",
+        "Ví dụ: 問題を考えます。 (Suy nghĩ về vấn đề.)"
+      ]
+    }
+  },
+  {
+    "id": "toContinue",
+    "kanji": "続けます",
+    "hiragana": "つづけます",
+    "en": "to continue",
+    "vi": "tiếp, tiếp tục",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm II",
+        "Ví dụ: 勉強を続けます。 (Tiếp tục học.)"
+      ]
+    }
+  },
+  {
+    "id": "toStop",
+    "kanji": "止めます",
+    "hiragana": "やめます",
+    "en": "to stop",
+    "vi": "thôi, bỏ, từ bỏ",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm II",
+        "Ví dụ: 勉強を止めます。 (Bỏ học, thôi học.)"
+      ]
+    }
+  },
+  {
+    "id": "stopStudying",
+    "kanji": "勉強を止めます",
+    "hiragana": "べんきょうをやめます",
+    "en": "stop studying",
+    "vi": "bỏ học, thôi học",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm II",
+        "Ví dụ: 勉強を止めます。 (Bỏ học, thôi học.)"
+      ]
+    }
+  },
+  {
+    "id": "toPutIn",
+    "kanji": "入れます",
+    "hiragana": "いれます",
+    "en": "to put in",
+    "vi": "bật, ấn",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm II",
+        "Ví dụ: スイッチを入れます。 (Bật công tắc.)"
+      ]
+    }
+  },
+  {
+    "id": "turnOnSwitch",
+    "kanji": "スイッチを入れます",
+    "hiragana": "スイッチをいれます",
+    "en": "turn on switch",
+    "vi": "bật công tắc",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm II",
+        "Ví dụ: スイッチを入れます。 (Bật công tắc.)"
+      ]
+    }
+  },
+  {
+    "id": "toCut",
+    "kanji": "切ります",
+    "hiragana": "きります",
+    "en": "to cut",
+    "vi": "tắt, ngắt",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm I",
+        "Ví dụ: スイッチを切ります。 (Tắt công tắc.)"
+      ]
+    }
+  },
+  {
+    "id": "turnOffSwitch",
+    "kanji": "スイッチを切ります",
+    "hiragana": "スイッチをきります",
+    "en": "turn off switch",
+    "vi": "tắt công tắc",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm I",
+        "Ví dụ: スイッチを切ります。 (Tắt công tắc.)"
+      ]
+    }
+  },
+  {
+    "id": "toTidyUp",
+    "kanji": "片付けます",
+    "hiragana": "かたづけます",
+    "en": "to tidy up",
+    "vi": "dọn dẹp, sắp xếp",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm II",
+        "Ví dụ: 部屋を片付けます。 (Dọn dẹp phòng.)"
+      ]
+    }
+  },
+  {
+    "id": "toFix",
+    "kanji": "直します",
+    "hiragana": "なおします",
+    "en": "to fix",
+    "vi": "sửa, sửa chữa",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm I",
+        "Ví dụ: 間違いを直します。 (Sửa sai, chữa lỗi.)"
+      ]
+    }
+  },
+  {
+    "id": "fixMistake",
+    "kanji": "間違いを直します",
+    "hiragana": "まちがいをなおします",
+    "en": "fix mistake",
+    "vi": "sửa sai, chữa lỗi",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm I",
+        "Ví dụ: 間違いを直します。 (Sửa sai, chữa lỗi.)"
+      ]
+    }
+  },
+  {
+    "id": "mistake",
+    "kanji": "間違い",
+    "hiragana": "まちがい",
+    "en": "mistake",
+    "vi": "nhầm, sai, sai lầm",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ sai lầm",
+        "Ví dụ: 間違いがあります。 (Có sai lầm.)"
+      ]
+    }
+  },
+  {
+    "id": "tool",
+    "kanji": "道具",
+    "hiragana": "どうぐ",
+    "en": "tool",
+    "vi": "dụng cụ, công cụ",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ dụng cụ",
+        "Ví dụ: 道具を使います。 (Dùng dụng cụ.)"
+      ]
+    }
+  },
+  {
+    "id": "generalTraining",
+    "kanji": "一般研修",
+    "hiragana": "いっぱんけんしゅう",
+    "en": "general training",
+    "vi": "tu nghiệp tổng quát",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ tu nghiệp tổng quát",
+        "Ví dụ: 一般研修を受けます。 (Nhận tu nghiệp tổng quát.)"
+      ]
+    }
+  },
+  {
+    "id": "world",
+    "kanji": "世界",
+    "hiragana": "せかい",
+    "en": "world",
+    "vi": "thế giới",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ thế giới",
+        "Ví dụ: 世界を旅行します。 (Du lịch thế giới.)"
+      ]
+    }
+  },
+  {
+    "id": "trouble",
+    "kanji": "困ったこと",
+    "hiragana": "こまったこと",
+    "en": "trouble",
+    "vi": "chuyện phiền toái, sự phiền phức",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ chuyện phiền toái",
+        "Ví dụ: 困ったことがあります。 (Có chuyện phiền toái.)"
+      ]
+    }
+  },
+  {
+    "id": "picnic",
+    "kanji": "ピクニック",
+    "hiragana": "ピクニック",
+    "en": "picnic",
+    "vi": "picnic",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ picnic (từ mượn)",
+        "Ví dụ: ピクニックへ行きます。 (Đi picnic.)"
+      ]
+    }
+  },
+  {
+    "id": "if",
+    "kanji": "もし「～たら」",
+    "hiragana": "もし「～たら」",
+    "en": "if",
+    "vi": "nếu (~ thì)",
+    "type": "other",
+    "explanation": {
+      "content": [
+        "Từ nối điều kiện",
+        "Ví dụ: もし雨が降ったら、行きません。 (Nếu trời mưa thì không đi.)"
+      ]
+    }
+  },
+  {
+    "id": "noMatterHow",
+    "kanji": "いくら「～ても」",
+    "hiragana": "いくら「～ても」",
+    "en": "no matter how",
+    "vi": "cho dù (~ đến mấy đi chăng nữa)",
+    "type": "other",
+    "explanation": {
+      "content": [
+        "Từ nối nhượng bộ",
+        "Ví dụ: いくら勉強しても、難しいです。 (Cho dù học đến mấy đi chăng nữa, vẫn khó.)"
+      ]
+    }
+  },
+  {
+    "id": "anytime",
+    "kanji": "いつでも",
+    "hiragana": "いつでも",
+    "en": "anytime",
+    "vi": "bất cứ lúc nào",
+    "type": "adverb",
+    "explanation": {
+      "content": [
+        "Phó từ chỉ thời gian",
+        "Ví dụ: いつでも来てください。 (Hãy đến bất cứ lúc nào.)"
+      ]
+    }
+  },
+  {
+    "id": "thankYouForEverything",
+    "kanji": "「いろいろ」お世話になりました",
+    "hiragana": "「いろいろ」おせわになりました",
+    "en": "thank you for everything",
+    "vi": "xin cảm ơn ông về tất cả những gì ông đã giúp tôi (lời tỏ lòng biết ơn đối với người đã giúp đỡ mình)",
+    "type": "other",
+    "explanation": {
+      "content": [
+        "Lời cảm ơn",
+        "Ví dụ: 「いろいろ」お世話になりました。 (Xin cảm ơn ông về tất cả những gì ông đã giúp tôi.)"
+      ]
+    }
+  },
+  {
+    "id": "pleaseTakeCare",
+    "kanji": "どうぞお元気で",
+    "hiragana": "どうぞおげんきで",
+    "en": "please take care",
+    "vi": "chúc (anh) lên đường mạnh khỏe (dùng khi chia tay và có thể không gặp trong một thời gian dài.)",
+    "type": "other",
+    "explanation": {
+      "content": [
+        "Lời chúc khi chia tay",
+        "Ví dụ: どうぞお元気で。 (Chúc anh lên đường mạnh khỏe.)"
+      ]
+    }
+  },
+  {
+    "id": "seeYouAgain",
+    "kanji": "また会いましょう",
+    "hiragana": "またあいましょう",
+    "en": "see you again",
+    "vi": "hẹn gặp lại",
+    "type": "other",
+    "explanation": {
+      "content": [
+        "Lời chào khi chia tay",
+        "Ví dụ: また会いましょう。 (Hẹn gặp lại.)"
+      ]
+    }
+  },
+  {
+    "id": "toArrive",
+    "kanji": "着きます",
+    "hiragana": "つきます",
+    "en": "to arrive",
+    "vi": "đến nơi",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm I",
+        "Ví dụ: 駅に着きます。 (Đến ga.)"
+      ]
+    }
+  },
+  {
+    "id": "arriveAtStation",
+    "kanji": "駅に着きます",
+    "hiragana": "えきにつきます",
+    "en": "arrive at station",
+    "vi": "đến ga",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm I",
+        "Ví dụ: 駅に着きます。 (Đến ga.)"
+      ]
+    }
+  },
+  {
+    "id": "toTakeAge",
+    "kanji": "取ります",
+    "hiragana": "とります",
+    "en": "to take age",
+    "vi": "có tuổi",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm I",
+        "Ví dụ: 年を取ります。 (Già, có tuổi.)"
+      ]
+    }
+  },
+  {
+    "id": "takeAge",
+    "kanji": "年を取ります",
+    "hiragana": "としをとります",
+    "en": "take age",
+    "vi": "già, có tuổi",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm I",
+        "Ví dụ: 年を取ります。 (Già, có tuổi.)"
+      ]
+    }
+  },
+  {
+    "id": "transfer",
+    "kanji": "転勤（します、する、して）",
+    "hiragana": "てんきん（します、する、して）",
+    "en": "transfer",
+    "vi": "sự thuyên chuyển, chuyển công tác",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm III (する)",
+        "Ví dụ: 転勤をします。 (Chuyển công tác.)"
+      ]
+    }
+  },
+  {
+    "id": "countryside",
+    "kanji": "田舎",
+    "hiragana": "いなか",
+    "en": "countryside",
+    "vi": "quê, nông thôn",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ nông thôn",
+        "Ví dụ: 田舎へ帰ります。 (Về quê.)"
+      ]
+    }
+  },
+  {
+    "id": "embassy",
+    "kanji": "大使館",
+    "hiragana": "たいしかん",
+    "en": "embassy",
+    "vi": "đại sứ quán",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ đại sứ quán",
+        "Ví dụ: 大使館へ行きます。 (Đi đại sứ quán.)"
+      ]
+    }
+  },
+  {
+    "id": "group",
+    "kanji": "グループ",
+    "hiragana": "グループ",
+    "en": "group",
+    "vi": "nhóm, tổ",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ nhóm (từ mượn)",
+        "Ví dụ: グループで行きます。 (Đi theo nhóm.)"
+      ]
+    }
+  },
+  {
+    "id": "chance",
+    "kanji": "チャンス",
+    "hiragana": "チャンス",
+    "en": "chance",
+    "vi": "cơ hội",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ cơ hội (từ mượn)",
+        "Ví dụ: チャンスがあります。 (Có cơ hội.)"
+      ]
+    }
+  },
+  {
+    "id": "hundredMillion",
+    "kanji": "億",
+    "hiragana": "おく",
+    "en": "hundred million",
+    "vi": "trăm triệu",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ số đếm",
+        "Ví dụ: 1億 (1 trăm triệu)"
+      ]
+    }
+  },
+  {
+    "id": "letsDrink",
+    "kanji": "一杯飲みましょう",
+    "hiragana": "いっぱいのみましょう",
+    "en": "let's drink",
+    "vi": "hãy cùng uống một chén nào",
+    "type": "other",
+    "explanation": {
+      "content": [
+        "Lời mời",
+        "Ví dụ: 一杯飲みましょう。 (Hãy cùng uống một chén nào.)"
+      ]
+    }
+  }
+]

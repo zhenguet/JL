@@ -1,1 +1,196 @@
-﻿[]
+﻿[
+  {
+    "id": "dictionary-form",
+    "title": "Thể nguyên mẫu (thể từ điển) của động từ",
+    "description": "Thể nguyên mẫu (còn gọi là thể từ điển) là thể cơ bản (động từ gốc) của động từ, trong sách từ điển các động từ được trình bày ở thể này. (1) Nhóm 1: Là các động từ có kết thúc bởi các âm sau: [-う]、[-つ]、[-る]、[-む]、[-ぬ]、[-ぶ]、[-す]、[-く]、[-ぐ]. (2) Nhóm 2: Là các động từ có dạng [-e る] [-i る]. Trừ một số động từ đặc biệt: かえります → かえる, しります → しる. (3) Nhóm 3: Bao gồm 2 động từ: します → する, きます → くる",
+    "structure": "V る",
+    "examples": [
+      {
+        "japanese": "かいます → かう",
+        "romaji": "kaimasu → kau",
+        "vietnamese": "mua"
+      },
+      {
+        "japanese": "まちます → まつ",
+        "romaji": "machimasu → matsu",
+        "vietnamese": "đợi"
+      },
+      {
+        "japanese": "たべます → たべる",
+        "romaji": "tabemasu → taberu",
+        "vietnamese": "ăn"
+      },
+      {
+        "japanese": "みます → みる",
+        "romaji": "mimasu → miru",
+        "vietnamese": "xem"
+      },
+      {
+        "japanese": "します → する",
+        "romaji": "shimasu → suru",
+        "vietnamese": "làm"
+      },
+      {
+        "japanese": "きます → くる",
+        "romaji": "kimasu → kuru",
+        "vietnamese": "đến"
+      }
+    ],
+    "notes": [
+      "Nhóm 1: Kết thúc bởi các âm [-う]、[-つ]、[-る]、[-む]、[-ぬ]、[-ぶ]、[-す]、[-く]、[-ぐ]",
+      "Nhóm 2: Có dạng [-e る] [-i る]. Trừ một số động từ đặc biệt",
+      "Nhóm 3: します → する, きます → くる"
+    ]
+  },
+  {
+    "id": "n-ga-dekimasu",
+    "title": "N が できます / V ることが できます - Cách thể hiện khả năng",
+    "description": "có thể làm…, biết làm…. Trường hợp danh từ: danh từ được sử dụng phải có tính động tác (tức là những danh từ có thể ghép với します để trở thành động từ có nghĩa tương ứng) như: 運転、買い物、ダンス (→ gọi chung là danh động từ)... Ngoài ra, các danh từ chỉ về những khả năng như 日本語、ピアノ、スキー cũng có thể sử dụng. Trường hợp động từ: khi biểu thị một khả năng có thể làm được một chuyện gì thì phải thêm こと sau động từ thể nguyên mẫu để biến thành một nhóm danh từ (→ danh từ hóa). Nghĩa của động từ できます: ① Năng lực (Biết đọc chữ Hán), ② Khả năng (Có thể gọi taxi tại quầy lễ tân)",
+    "structure": "N が できます / V ることが できます",
+    "examples": [
+      {
+        "japanese": "運転 が できます。",
+        "romaji": "Unten ga dekimasu.",
+        "vietnamese": "(Tôi biết/có thể lái xe)"
+      },
+      {
+        "japanese": "ミラーさんは 日本語 が できます。",
+        "romaji": "Miraa-san wa Nihongo ga dekimasu.",
+        "vietnamese": "(Anh Miler biết tiếng Nhật (có thể nói tiếng Nhật))"
+      },
+      {
+        "japanese": "ミラーさんは 漢字 を 読 むことが できます。",
+        "romaji": "Miraa-san wa kanji o yomu koto ga dekimasu.",
+        "vietnamese": "(Anh Miler biết/có thể đọc được chữ Hán)"
+      },
+      {
+        "japanese": "カードで 払 うことが できます。",
+        "romaji": "Kaado de harau koto ga dekimasu.",
+        "vietnamese": "(Có thể thanh toán/trả tiền bằng thẻ)"
+      },
+      {
+        "japanese": "受付 で タクシ ーを 呼 ぶことが できます。",
+        "romaji": "Uketsuke de takushii o yobu koto ga dekimasu.",
+        "vietnamese": "(→ Có thể gọi taxi tại quầy lễ tân)"
+      }
+    ],
+    "notes": [
+      "Trường hợp danh từ: danh từ được sử dụng phải có tính động tác hoặc chỉ về những khả năng",
+      "Trường hợp động từ: thêm こと sau động từ thể nguyên mẫu để biến thành một nhóm danh từ",
+      "Nghĩa của động từ できます: ① Năng lực, ② Khả năng"
+    ]
+  },
+  {
+    "id": "shumi-wa-n-desu",
+    "title": "私の 趣味 は N です / V ることです - Cách thể hiện sở thích",
+    "description": "sở thích (của tôi) là…. Nói về sở thích. Khi một danh từ không thể biểu hiện đầy đủ ý nghĩa thì ta có thể diễn tả dùng cách danh từ hóa để trình bày rõ, cụ thể hơn",
+    "structure": "私の 趣味 は N です / V ることです",
+    "examples": [
+      {
+        "japanese": "私の趣味は 絵です。",
+        "romaji": "Watashi no shumi wa e desu.",
+        "vietnamese": "(Sở thích của tôi là hội họa)"
+      },
+      {
+        "japanese": "私の趣味は 絵を描くことです。",
+        "romaji": "Watashi no shumi wa e o kaku koto desu.",
+        "vietnamese": "(Sở thích của tôi là (việc) vẽ tranh)"
+      },
+      {
+        "japanese": "私の趣味は 絵を見ることです。",
+        "romaji": "Watashi no shumi wa e o miru koto desu.",
+        "vietnamese": "(Sở thích của tôi là (việc) ngắm tranh)"
+      }
+    ],
+    "notes": [
+      "Nói về sở thích",
+      "Khi một danh từ không thể biểu hiện đầy đủ ý nghĩa thì ta có thể diễn tả dùng cách danh từ hóa để trình bày rõ, cụ thể hơn"
+    ]
+  },
+  {
+    "id": "v-ru-mae-ni",
+    "title": "V る / N の まえに、 V2 - Cách nói câu \"trước khi làm gì thì làm gì\"",
+    "description": "làm V2 trước..., trước khi làm V1…. a) Động từ: Hành động thứ 2 diễn ra trước hành động thứ nhất. Không thay đổi theo thì của động từ. Nghĩa là khi thì của động từ thứ 2 là quá khứ hay tương lai thì thì của động từ 1 luôn ở thể từ điển. b) Danh từ: Thêm trợ từ の ở giữa danh từ và まえに. Danh từ đứng trước まえに là những danh từ biểu thị hành động. c) Số tự (thời gian): Đứng sau danh từ chỉ số thì không cần の",
+    "structure": "V る / N の まえに、 V2",
+    "examples": [
+      {
+        "japanese": "日本 へ 来る 前 に、 日本語 を 勉 強 しました。",
+        "romaji": "Nihon e kuru mae ni, Nihongo o benkyou shimashita.",
+        "vietnamese": "(Tôi đã học tiếng Nhật trước khi đến Nhật)"
+      },
+      {
+        "japanese": "寝 る まえに、 本 を 読 みます。",
+        "romaji": "Neru mae ni, hon o yomimasu.",
+        "vietnamese": "(Trước khi đi ngủ, tôi đọc sách)"
+      },
+      {
+        "japanese": "食事の まえに、手を洗います。",
+        "romaji": "Shokuji no mae ni, te o araimasu.",
+        "vietnamese": "(Trước bữa cơm/Trước khi ăn cơm, (tôi) rửa tay.)"
+      },
+      {
+        "japanese": "講義の まえに、事務所へ 行ってください。",
+        "romaji": "Kougi no mae ni, jimusho e itte kudasai.",
+        "vietnamese": "(Hãy đến văn phòng trước giờ học)"
+      },
+      {
+        "japanese": "３ 年前 に、 結婚 しました。",
+        "romaji": "Sannen mae ni, kekkon shimashita.",
+        "vietnamese": "(Tôi đã kết hôn cách đây 3 năm)"
+      },
+      {
+        "japanese": "田中 さんは １ 時間前 に、 出 かけました。",
+        "romaji": "Tanaka-san wa ichijikan mae ni, dekakemashita.",
+        "vietnamese": "(Tanaka đã ra ngoài cách đây 1 tiếng)"
+      }
+    ],
+    "notes": [
+      "a) Động từ: Hành động thứ 2 diễn ra trước hành động thứ nhất. Không thay đổi theo thì của động từ",
+      "b) Danh từ: Thêm trợ từ の ở giữa danh từ và まえに",
+      "c) Số tự (thời gian): Đứng sau danh từ chỉ số thì không cần の"
+    ]
+  },
+  {
+    "id": "nakanaka",
+    "title": "なかなか - mãi mà không…",
+    "description": "mãi mà không…. Luôn đi với động từ ở dạng phủ định",
+    "structure": "なかなか + V ない",
+    "examples": [
+      {
+        "japanese": "日本 で なかなか 馬 を 見 ることが できません。",
+        "romaji": "Nihon de nakanaka uma o miru koto ga dekimasen.",
+        "vietnamese": "(Ở Nhật, mãi mà tôi không thể nhìn thấy con ngựa nào)"
+      },
+      {
+        "japanese": "バスが なかなか 来 ません。",
+        "romaji": "Basu ga nakanaka kimasen.",
+        "vietnamese": "(Xe buýt mãi mà không thấy tới)"
+      }
+    ],
+    "notes": [
+      "Luôn đi với động từ ở dạng phủ định"
+    ]
+  },
+  {
+    "id": "zehi",
+    "title": "ぜひ - nhất định",
+    "description": "nhất định. Được dùng để biểu thị sự hy vọng hay yêu cầu. Thường đi với các dạng câu ほしいです、 V たいです、 V てください với ý nghĩa nhấn mạnh sự biểu thị",
+    "structure": "ぜひ + ほしいです / V たいです / V てください",
+    "examples": [
+      {
+        "japanese": "ぜひ 北海道 へ 行 きたいです。",
+        "romaji": "Zehi Hokkaidou e ikitai desu.",
+        "vietnamese": "(Tôi rất muốn đi Hokkaido (nhất định sẽ đi))"
+      },
+      {
+        "japanese": "ぜひ 遊 びに 来 てください。",
+        "romaji": "Zehi asobi ni kite kudasai.",
+        "vietnamese": "(Bạn nhất định phải đến nhà tôi chơi đấy nhé!)"
+      }
+    ],
+    "notes": [
+      "Được dùng để biểu thị sự hy vọng hay yêu cầu",
+      "Thường đi với các dạng câu ほしいです、 V たいです、 V てください với ý nghĩa nhấn mạnh sự biểu thị"
+    ]
+  }
+]
