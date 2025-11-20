@@ -209,17 +209,29 @@ export default function ExerciseClient({ lessonNumber }: ExerciseClientProps) {
         usedMethod = 'ai';
       } else {
         // AI failed, fallback to local check
-        const normalizedUserAnswer = userAnswer.trim().toLowerCase();
-        const normalizedCorrectAnswer = ('answer' in currentExercise ? currentExercise.answer : '').trim().toLowerCase();
-        const answerParts = normalizedCorrectAnswer
-          .split(/[,、]/)
-          .map((part) => part.trim());
+        const cleanText = (text: string) => {
+          return text
+            .toLowerCase()
+            .replace(/[~～]/g, '') // Remove tildes
+            .replace(/\(.*?\)|（.*?）/g, '') // Remove content in parentheses
+            .replace(/[!.,;?]/g, '') // Remove punctuation
+            .trim();
+        };
+
+        const normalizedUserAnswer = cleanText(userAnswer);
+        const originalAnswer = 'answer' in currentExercise ? currentExercise.answer : '';
         
-        correct = answerParts.some(
-          (part) =>
-            normalizedUserAnswer.includes(part) ||
-            part.includes(normalizedUserAnswer)
-        );
+        // Split by common delimiters
+        const answerParts = originalAnswer.split(/[,、\/;]/).map(cleanText);
+        
+        // Check for exact match with any valid part
+        correct = answerParts.some(part => part === normalizedUserAnswer);
+
+        // Also allow if the user answer is contained in the original answer (for longer sentences)
+        // but only if the user answer is of sufficient length to avoid false positives
+        if (!correct && normalizedUserAnswer.length > 2) {
+           correct = answerParts.some(part => part.includes(normalizedUserAnswer));
+        }
         
         if (aiResult?.error) {
           // Only show error in development, hide in production (expected on GitHub Pages)

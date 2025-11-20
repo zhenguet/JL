@@ -26,7 +26,7 @@ export async function POST(request: Request) {
     }
 
     const prompt = `
-      Bạn là một giáo viên tiếng Nhật. Hãy kiểm tra câu trả lời của học sinh.
+      Bạn là một giáo viên tiếng Nhật dạy trình độ N5 (cơ bản). Hãy kiểm tra câu trả lời của học sinh.
       
       Loại bài tập: ${type}
       Câu hỏi: "${question}"
@@ -34,15 +34,17 @@ export async function POST(request: Request) {
       Câu trả lời của học sinh: "${userAnswer}"
       
       Nhiệm vụ:
-      1. Xác định xem câu trả lời của học sinh có đúng về mặt ý nghĩa và ngữ pháp không (chấp nhận các cách diễn đạt tương đương).
-      2. Giải thích ngắn gọn bằng tiếng Việt (tối đa 2 câu).
+      1. Xác định xem câu trả lời của học sinh có đúng về mặt ý nghĩa CƠ BẢN không.
+      2. QUAN TRỌNG: Bỏ qua các chi tiết trong ngoặc đơn ( ) của đáp án chuẩn. Ví dụ: nếu đáp án là "xin chào (lần đầu gặp)", học sinh trả lời "xin chào" vẫn tính là ĐÚNG.
+      3. Chấp nhận các cách diễn đạt tương đương trong tiếng Việt.
+      4. Nếu đúng ý nghĩa chính, hãy trả về true, đừng quá khắt khe về sắc thái nâng cao.
       
       Trả về định dạng JSON KHÔNG có markdown block:
       {
         "isCorrect": boolean,
-        "explanation": "string"
+        "explanation": "string" // Giải thích ngắn gọn (tối đa 2 câu)
       }
-    `
+    `;
 
     const response = await fetch(apiUrl, {
       method: 'POST',
