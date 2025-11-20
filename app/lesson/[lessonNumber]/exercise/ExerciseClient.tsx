@@ -183,7 +183,10 @@ export default function ExerciseClient({ lessonNumber }: ExerciseClientProps) {
         );
         
         if (aiResult?.error) {
-          explanation = `⚠️ AI lỗi (dùng local check): ${aiResult.error}`;
+          // Only show error in development, hide in production (expected on GitHub Pages)
+          if (process.env.NODE_ENV === 'development') {
+            explanation = `⚠️ AI lỗi (dùng local check): ${aiResult.error}`;
+          }
         }
         usedMethod = 'local';
       }
