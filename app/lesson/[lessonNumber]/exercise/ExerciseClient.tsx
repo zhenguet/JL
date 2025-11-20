@@ -3,9 +3,9 @@
 import { EmptyMessage, PageTitle } from '@/components';
 import { MultipleChoice, ReadingPassage } from '@/components/exercises';
 import { vocabularyData } from '@/data/vocabulary';
-import { getGrammarExercises, getRandomGrammarExercise } from '@/data/exercises/grammar';
-import { getMultipleChoiceExercises, getRandomMultipleChoiceExercise } from '@/data/exercises/multipleChoice';
-import { getReadingExercises, getRandomReadingExercise } from '@/data/exercises/reading';
+import { getGrammarExercises, getRandomGrammarExercise } from '@/data/grammarExercises';
+import { getMultipleChoiceExercises, getRandomMultipleChoiceExercise } from '@/data/multipleChoiceExercises';
+import { getReadingExercises, getRandomReadingExercise } from '@/data/readingExercises';
 import { Exercise, ExerciseType, isGrammarExercise, isMultipleChoiceExercise, isReadingExercise } from '@/types/exercise';
 import { useEffect, useRef, useState } from 'react';
 import './exercise.css';
@@ -29,18 +29,47 @@ export default function ExerciseClient({ lessonNumber }: ExerciseClientProps) {
   const [isChecking, setIsChecking] = useState(false);
   const [aiExplanation, setAiExplanation] = useState('');
   const [checkMethod, setCheckMethod] = useState<'ai' | 'local' | null>(null);
+  const [isGenerating, setIsGenerating] = useState(false);
   const inputRef = useRef<HTMLInputElement>(null);
 
   useEffect(() => {
     generateExercise();
   }, [exerciseType, vocabulary]);
 
-  const generateExercise = () => {
+  const generateWithAI = async (type: ExerciseType): Promise<Exercise | null> => {
+    try {
+      const res = await fetch('/JL/api/ai/generate/', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({ type, lessonNumber }),
+      });
+
+      if (!res.ok) {
+        console.warn('AI generation failed, using local data');
+        return null;
+      }
+
+      const data = await res.json();
+      return data.exercise;
+    } catch (error) {
+      console.warn('AI generation error:', error);
+      return null;
+    }
+  };
+
+  const generateExercise = async () => {
+    console.log('generateExercise called', { exerciseType, vocabLength: vocabulary.length });
+    setIsGenerating(true);
     let exercise: Exercise | null = null;
 
     if (exerciseType === 'fill') {
-      if (vocabulary.length === 0) return;
+      if (vocabulary.length === 0) {
+        console.log('Vocabulary empty, returning');
+        setIsGenerating(false);
+        return;
+      }
       const randomWord = vocabulary[Math.floor(Math.random() * vocabulary.length)];
+      console.log('Selected word:', randomWord);
       exercise = {
         id: `fill-${Date.now()}`,
         type: 'fill',
@@ -75,17 +104,26 @@ export default function ExerciseClient({ lessonNumber }: ExerciseClientProps) {
         answer: randomWord.kanji!,
         hiragana: randomWord.hiragana,
       };
-    } else if (exerciseType === 'grammar') {
-      exercise = getRandomGrammarExercise(lessonNumber);
-    } else if (exerciseType === 'multiple-choice') {
-      exercise = getRandomMultipleChoiceExercise(lessonNumber);
-    } else if (exerciseType === 'reading') {
-      exercise = getRandomReadingExercise(lessonNumber);
+    } else if (exerciseType === 'grammar' || exerciseType === 'multiple-choice' || exerciseType === 'reading') {
+      // Try AI generation first
+      exercise = await generateWithAI(exerciseType);
+      
+      // Fallback to local data if AI fails
+      if (!exercise) {
+        if (exerciseType === 'grammar') {
+          exercise = getRandomGrammarExercise(lessonNumber);
+        } else if (exerciseType === 'multiple-choice') {
+          exercise = getRandomMultipleChoiceExercise(lessonNumber);
+        } else if (exerciseType === 'reading') {
+          exercise = getRandomReadingExercise(lessonNumber);
+        }
+      }
     }
 
     if (!exercise) {
       // No exercises available for this type
       setCurrentExercise(null);
+      setIsGenerating(false);
       return;
     }
 
@@ -97,6 +135,7 @@ export default function ExerciseClient({ lessonNumber }: ExerciseClientProps) {
     setAiExplanation('');
     setCheckMethod(null);
     setIsChecking(false);
+    setIsGenerating(false);
     setTimeout(() => {
       inputRef.current?.focus();
     }, 100);
@@ -304,28 +343,6 @@ export default function ExerciseClient({ lessonNumber }: ExerciseClientProps) {
     return 'answer' in currentExercise ? currentExercise.answer : '';
   };
 
-  if (vocabulary.length === 0 && ['fill', 'translate', 'kanji'].includes(exerciseType)) {
-    return (
-      <div className="exercise-container">
-        <PageTitle title="Bài tập" lessonNumber={lessonNumber} />
-        <EmptyMessage
-          message={`Chưa có dữ liệu từ vựng cho bài ${lessonNumber}`}
-        />
-      </div>
-    );
-  }
-
-  if (!currentExercise) {
-    return (
-      <div className="exercise-container">
-        <PageTitle title="Bài tập" lessonNumber={lessonNumber} />
-        <EmptyMessage
-          message={`Chưa có bài tập ${exerciseType} cho bài ${lessonNumber}`}
-        />
-      </div>
-    );
-  }
-
   return (
     <div className="exercise-container">
       <PageTitle title="Bài tập" lessonNumber={lessonNumber} />
@@ -389,86 +406,107 @@ export default function ExerciseClient({ lessonNumber }: ExerciseClientProps) {
         ></div>
       </div>
 
-      <div
-        className={`exercise-card ${
-          showResult ? (isCorrect ? 'card-correct' : 'card-incorrect') : ''
-        }`}
-      >
-        <div className="exercise-question">
-          <h3>{currentExercise.question}</h3>
+      {isGenerating ? (
+        <div className="loading-container">
+          <div className="generating-indicator">
+            <span className="spinner">⏳</span> Đang tạo câu hỏi mới...
+          </div>
         </div>
+      ) : !currentExercise ? (
+        <EmptyMessage
+          message={
+            vocabulary.length === 0 && ['fill', 'translate', 'kanji'].includes(exerciseType)
+              ? `Chưa có dữ liệu từ vựng cho bài ${lessonNumber}`
+              : `Chưa có bài tập ${exerciseType} cho bài ${lessonNumber}`
+          }
+        />
+      ) : (
+        <div
+          className={`exercise-card ${
+            showResult ? (isCorrect ? 'card-correct' : 'card-incorrect') : ''
+          }`}
+        >
+          <div className="exercise-question">
+            <h3>
+              {currentExercise.question}
+              {currentExercise.id.includes('-ai-') && (
+                <span className="ai-badge" title="Câu hỏi được tạo bởi AI">🤖 AI</span>
+              )}
+            </h3>
+          </div>
 
-        {renderExerciseInput()}
+          {renderExerciseInput()}
 
-        {showResult && (
-          <div
-            className={`result-message ${
-              isCorrect ? 'correct' : 'incorrect'
-            }`}
-          >
-            {isCorrect ? (
-              <div className="result-content">
-                <span className="result-icon">✓</span>
-                <div>
-                  <div className="result-header">
-                    <span>Chính xác! +1 điểm</span>
-                    {checkMethod && (
-                      <span className={`check-badge ${checkMethod}`}>
-                        {checkMethod === 'ai' ? '🤖 AI' : '💻 Local'}
-                      </span>
+          {showResult && (
+            <div
+              className={`result-message ${
+                isCorrect ? 'correct' : 'incorrect'
+              }`}
+            >
+              {isCorrect ? (
+                <div className="result-content">
+                  <span className="result-icon">✓</span>
+                  <div>
+                    <div className="result-header">
+                      <span>Chính xác! +1 điểm</span>
+                      {checkMethod && (
+                        <span className={`check-badge ${checkMethod}`}>
+                          {checkMethod === 'ai' ? '🤖 AI' : '💻 Local'}
+                        </span>
+                      )}
+                    </div>
+                    {aiExplanation && (
+                      <div className="ai-explanation">{aiExplanation}</div>
                     )}
                   </div>
-                  {aiExplanation && (
-                    <div className="ai-explanation">{aiExplanation}</div>
-                  )}
                 </div>
-              </div>
+              ) : (
+                <div className="result-content">
+                  <span className="result-icon">✗</span>
+                  <div>
+                    <div className="result-header">
+                      <span>
+                        Sai rồi. Đáp án:{' '}
+                        <strong className="correct-answer-text">
+                          {getCorrectAnswer()}
+                        </strong>
+                      </span>
+                      {checkMethod && (
+                        <span className={`check-badge ${checkMethod}`}>
+                          {checkMethod === 'ai' ? '🤖 AI' : '💻 Local'}
+                        </span>
+                      )}
+                    </div>
+                    {aiExplanation && (
+                      <div className="ai-explanation">{aiExplanation}</div>
+                    )}
+                  </div>
+                </div>
+              )}
+            </div>
+          )}
+
+          <div className="exercise-actions">
+            {!showResult ? (
+              <button
+                onClick={handleSubmit}
+                className="btn btn-submit"
+                disabled={isChecking}
+              >
+                {isChecking ? 'Đang kiểm tra...' : 'Kiểm tra'}
+              </button>
             ) : (
-              <div className="result-content">
-                <span className="result-icon">✗</span>
-                <div>
-                  <div className="result-header">
-                    <span>
-                      Sai rồi. Đáp án:{' '}
-                      <strong className="correct-answer-text">
-                        {getCorrectAnswer()}
-                      </strong>
-                    </span>
-                    {checkMethod && (
-                      <span className={`check-badge ${checkMethod}`}>
-                        {checkMethod === 'ai' ? '🤖 AI' : '💻 Local'}
-                      </span>
-                    )}
-                  </div>
-                  {aiExplanation && (
-                    <div className="ai-explanation">{aiExplanation}</div>
-                  )}
-                </div>
-              </div>
+              <button
+                onClick={handleNext}
+                className="btn btn-next"
+                ref={(btn) => btn?.focus()}
+              >
+                Tiếp tục ↵
+              </button>
             )}
           </div>
-        )}
-
-        <div className="exercise-actions">
-          {!showResult ? (
-            <button
-              onClick={handleSubmit}
-              className="btn btn-submit"
-              disabled={isChecking}
-            >
-              {isChecking ? 'Đang kiểm tra...' : 'Kiểm tra'}
-            </button>
-          ) : (
-            <button
-              onClick={handleNext}
-              className="btn btn-next"
-              ref={(btn) => btn?.focus()}
-            >
-              Tiếp tục ↵
-            </button>
-          )}
         </div>
-      </div>
+      )}
     </div>
   );
 }
