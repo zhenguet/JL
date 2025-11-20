@@ -1,1 +1,872 @@
-﻿[]
+﻿[
+  {
+    "id": "toProtect",
+    "kanji": "守ります",
+    "hiragana": "まもります",
+    "en": "to protect",
+    "vi": "Giữ gìn, tuân thủ",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm I",
+        "《守ります、守る、守って》"
+      ]
+    }
+  },
+  {
+    "id": "toRun",
+    "kanji": "走ります",
+    "hiragana": "はしります",
+    "en": "to run",
+    "vi": "Chạy",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm I",
+        "《走ります、走る、走って》",
+        "●「道を～」 Chạy trên đường"
+      ]
+    }
+  },
+  {
+    "id": "toCarry",
+    "kanji": "運びます",
+    "hiragana": "はこびます",
+    "en": "to carry",
+    "vi": "Vận chuyển, chở",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm I",
+        "《運びます、運ぶ、運んで》"
+      ]
+    }
+  },
+  {
+    "id": "toRaise",
+    "kanji": "上げます",
+    "hiragana": "あげます",
+    "en": "to raise",
+    "vi": "Nâng lên",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm II",
+        "《上げます、上げる、上げて》"
+      ]
+    }
+  },
+  {
+    "id": "toLower",
+    "kanji": "下げます",
+    "hiragana": "さげます",
+    "en": "to lower",
+    "vi": "Hạ xuống",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm II",
+        "《下げます、下げる、下げて》"
+      ]
+    }
+  },
+  {
+    "id": "toConfirm",
+    "kanji": "確かめます",
+    "hiragana": "たしかめます",
+    "en": "to confirm",
+    "vi": "Xác nhận",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm II",
+        "《確かめます、確かめる、確かめて》"
+      ]
+    }
+  },
+  {
+    "id": "toNotify",
+    "kanji": "知らせます",
+    "hiragana": "しらせます",
+    "en": "to notify",
+    "vi": "Thông báo, cho biết",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm I",
+        "《知らせます、知らせる、知らせて》"
+      ]
+    }
+  },
+  {
+    "id": "toChangeClothes",
+    "kanji": "きがえます",
+    "hiragana": "きがえます",
+    "en": "to change clothes",
+    "vi": "Thay quần áo",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm II",
+        "《きがえます、きがえる、きがえて》"
+      ]
+    }
+  },
+  {
+    "id": "toPayAttention",
+    "kanji": "注意",
+    "hiragana": "ちゅうい",
+    "en": "to pay attention",
+    "vi": "Chú ý, coi chừng",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm III",
+        "《します、する、して》",
+        "●「車に～」 Chú ý ô tô"
+      ]
+    }
+  },
+  {
+    "id": "bothersome",
+    "kanji": "邪魔",
+    "hiragana": "じゃま",
+    "en": "bothersome",
+    "vi": "Cản trở, làm phiền",
+    "type": "adjective",
+    "explanation": {
+      "content": [
+        "Tính từ",
+        "［な］"
+      ]
+    }
+  },
+  {
+    "id": "garbage",
+    "kanji": "ごみ",
+    "hiragana": "ごみ",
+    "en": "garbage",
+    "vi": "Rác",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "lamp",
+    "kanji": "ランプ",
+    "hiragana": "ランプ",
+    "en": "lamp",
+    "vi": "Đèn",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "crane",
+    "kanji": "クレーン",
+    "hiragana": "クレーン",
+    "en": "crane",
+    "vi": "Cầu trục, cần cẩu",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "lever",
+    "kanji": "レバー",
+    "hiragana": "レバー",
+    "en": "lever",
+    "vi": "Đòn bẩy",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "truck",
+    "kanji": "トラック",
+    "hiragana": "トラック",
+    "en": "truck",
+    "vi": "Xe tải",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "rule",
+    "kanji": "規則",
+    "hiragana": "きそく",
+    "en": "rule",
+    "vi": "Quy tắc, nội quy",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "danger",
+    "kanji": "危険",
+    "hiragana": "きけん",
+    "en": "danger",
+    "vi": "Nguy hiểm",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "safety",
+    "kanji": "安全",
+    "hiragana": "あんぜん",
+    "en": "safety",
+    "vi": "An toàn",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "first",
+    "kanji": "第一",
+    "hiragana": "だいいち",
+    "en": "first",
+    "vi": "Trên hết, số 1, quan trọng nhất",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "safetyShoes",
+    "kanji": "安全靴",
+    "hiragana": "あんぜんぐつ",
+    "en": "safety shoes",
+    "vi": "Giầy an toàn",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "noUse",
+    "kanji": "使用禁止",
+    "hiragana": "しようきんし",
+    "en": "no use",
+    "vi": "Cấm sử dụng",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "noEntry",
+    "kanji": "立ち入り禁止",
+    "hiragana": "たちいりきんし",
+    "en": "no entry",
+    "vi": "Cấm vào",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "tidyingUp",
+    "kanji": "整理整頓",
+    "hiragana": "せいりせいとん",
+    "en": "tidying up",
+    "vi": "Thu xếp, sắp đặt trật tự",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "headOffice",
+    "kanji": "本社",
+    "hiragana": "ほんしゃ",
+    "en": "head office",
+    "vi": "Công ty mẹ",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "fax",
+    "kanji": "ファックス",
+    "hiragana": "ファックス",
+    "en": "fax",
+    "vi": "Máy Fax",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "locker",
+    "kanji": "ロッカー",
+    "hiragana": "ロッカー",
+    "en": "locker",
+    "vi": "Tủ sắt nhỏ",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "whatKindOf",
+    "kanji": "どういう～",
+    "hiragana": "どういう～",
+    "en": "what kind of",
+    "vi": "~ là gì, là như thế nào",
+    "type": "other",
+    "explanation": {
+      "content": [
+        "Từ nghi vấn"
+      ]
+    }
+  },
+  {
+    "id": "justNow",
+    "kanji": "さっき",
+    "hiragana": "さっき",
+    "en": "just now",
+    "vi": "Vừa rồi",
+    "type": "adverb",
+    "explanation": {
+      "content": [
+        "Phó từ"
+      ]
+    }
+  },
+  {
+    "id": "certainly",
+    "kanji": "かならず",
+    "hiragana": "かならず",
+    "en": "certainly",
+    "vi": "Nhất định, phải",
+    "type": "adverb",
+    "explanation": {
+      "content": [
+        "Phó từ"
+      ]
+    }
+  },
+  {
+    "id": "toEscape",
+    "kanji": "逃げます",
+    "hiragana": "にげます",
+    "en": "to escape",
+    "vi": "Chạy trốn",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm II",
+        "《逃げます、逃げる、逃げて》"
+      ]
+    }
+  },
+  {
+    "id": "toMakeNoise",
+    "kanji": "騒ぎます",
+    "hiragana": "さわぎます",
+    "en": "to make noise",
+    "vi": "Làm ồn",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm I",
+        "《騒ぎます、騒ぐ、騒いで》"
+      ]
+    }
+  },
+  {
+    "id": "toGiveUp",
+    "kanji": "あきらめます",
+    "hiragana": "あきらめます",
+    "en": "to give up",
+    "vi": "Chán nản, từ bỏ",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm II",
+        "《あきらめます、あきらめる、あきらめて》"
+      ]
+    }
+  },
+  {
+    "id": "toThrow",
+    "kanji": "投げます",
+    "hiragana": "なげます",
+    "en": "to throw",
+    "vi": "Ném",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm II",
+        "《投げます、投げる、投げて》"
+      ]
+    }
+  },
+  {
+    "id": "toTell",
+    "kanji": "伝えます",
+    "hiragana": "つたえます",
+    "en": "to tell",
+    "vi": "Truyền đạt",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm II",
+        "《伝えます、伝える、伝えて》"
+      ]
+    }
+  },
+  {
+    "id": "toHit",
+    "kanji": "打ちます",
+    "hiragana": "うちます",
+    "en": "to hit",
+    "vi": "Đánh, gõ",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm I",
+        "《打ちます、打つ、打って》"
+      ]
+    }
+  },
+  {
+    "id": "toUse",
+    "kanji": "利用",
+    "hiragana": "りよう",
+    "en": "to use",
+    "vi": "Sử dụng",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm III",
+        "《します、する、して》"
+      ]
+    }
+  },
+  {
+    "id": "noGood",
+    "kanji": "だめ",
+    "hiragana": "だめ",
+    "en": "no good",
+    "vi": "Không được",
+    "type": "adjective",
+    "explanation": {
+      "content": [
+        "Tính từ",
+        "［な］"
+      ]
+    }
+  },
+  {
+    "id": "seat",
+    "kanji": "席",
+    "hiragana": "せき",
+    "en": "seat",
+    "vi": "Chỗ",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "fight",
+    "kanji": "ファイト",
+    "hiragana": "ファイト",
+    "en": "fight",
+    "vi": "Cố lên",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "mark",
+    "kanji": "マーク",
+    "hiragana": "マーク",
+    "en": "mark",
+    "vi": "Dấu hiệu, biển hiệu",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "washingMachine",
+    "kanji": "洗濯機",
+    "hiragana": "せんたくき",
+    "en": "washing machine",
+    "vi": "Máy giặt",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "machine",
+    "kanji": "～機",
+    "hiragana": "～き",
+    "en": "machine",
+    "vi": "Máy~",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "emergencyExit",
+    "kanji": "非常口",
+    "hiragana": "ひじょうぐち",
+    "en": "emergency exit",
+    "vi": "Cửa thoát hiểm",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "free",
+    "kanji": "無料",
+    "hiragana": "むりょう",
+    "en": "free",
+    "vi": "Miễn phí",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "closedToday",
+    "kanji": "本日休業",
+    "hiragana": "ほんじつきゅうぎょう",
+    "en": "closed today",
+    "vi": "Hôm nay không làm việc",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "inProgress",
+    "kanji": "～中",
+    "hiragana": "～ちゅう",
+    "en": "in progress",
+    "vi": "Đang~",
+    "type": "other",
+    "explanation": {
+      "content": [
+        "Hậu tố",
+        "● かいぎちゅう 会議中 Đang họp",
+        "● じゅぎょうちゅう 授業中 Đang trong giờ học",
+        "● えいぎょうちゅう 営業中 Đang bán hàng",
+        "● しようちゅう 使用中 Đang sử dụng"
+      ]
+    }
+  },
+  {
+    "id": "already",
+    "kanji": "もう",
+    "hiragana": "もう",
+    "en": "already",
+    "vi": "Đã, thêm, không ~ nữa",
+    "type": "adverb",
+    "explanation": {
+      "content": [
+        "Phó từ"
+      ]
+    }
+  },
+  {
+    "id": "after",
+    "kanji": "あと～",
+    "hiragana": "あと～",
+    "en": "after",
+    "vi": "Còn~",
+    "type": "other",
+    "explanation": {
+      "content": [
+        "Từ chỉ định"
+      ]
+    }
+  },
+  {
+    "id": "parkingViolation",
+    "kanji": "駐車違反",
+    "hiragana": "ちゅうしゃいはん",
+    "en": "parking violation",
+    "vi": "Phạm lỗi đỗ xe",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "within",
+    "kanji": "～以内",
+    "hiragana": "～いない",
+    "en": "within",
+    "vi": "Trong vòng ~",
+    "type": "other",
+    "explanation": {
+      "content": [
+        "Hậu tố"
+      ]
+    }
+  },
+  {
+    "id": "police",
+    "kanji": "警察",
+    "hiragana": "けいさつ",
+    "en": "police",
+    "vi": "Cảnh sát",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "fine",
+    "kanji": "罰金",
+    "hiragana": "ばっきん",
+    "en": "fine",
+    "vi": "Tiền phạt",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "telegram",
+    "kanji": "電報",
+    "hiragana": "でんぽう",
+    "en": "telegram",
+    "vi": "Điện báo",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "people",
+    "kanji": "人々",
+    "hiragana": "ひとびと",
+    "en": "people",
+    "vi": "Mọi người",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "urgentMatter",
+    "kanji": "急用",
+    "hiragana": "きゅうよう",
+    "en": "urgent matter",
+    "vi": "Việc khẩn cấp",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "asMuchAsPossible",
+    "kanji": "できるだけ",
+    "hiragana": "できるだけ",
+    "en": "as much as possible",
+    "vi": "Cố gắng hết sức",
+    "type": "adverb",
+    "explanation": {
+      "content": [
+        "Phó từ"
+      ]
+    }
+  },
+  {
+    "id": "briefly",
+    "kanji": "短く",
+    "hiragana": "みじかく",
+    "en": "briefly",
+    "vi": "Ngắn gọn",
+    "type": "adverb",
+    "explanation": {
+      "content": [
+        "Phó từ"
+      ]
+    }
+  },
+  {
+    "id": "forExample",
+    "kanji": "例えば",
+    "hiragana": "たとえば",
+    "en": "for example",
+    "vi": "Ví dụ",
+    "type": "adverb",
+    "explanation": {
+      "content": [
+        "Phó từ"
+      ]
+    }
+  },
+  {
+    "id": "critical",
+    "kanji": "危篤",
+    "hiragana": "きとく",
+    "en": "critical",
+    "vi": "Nguy kịch",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "seriousIllness",
+    "kanji": "重い病気",
+    "hiragana": "おもいびょうき",
+    "en": "serious illness",
+    "vi": "Ốm nặng",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "tomorrow",
+    "kanji": "明日",
+    "hiragana": "あす",
+    "en": "tomorrow",
+    "vi": "Ngày mai",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "away",
+    "kanji": "留守",
+    "hiragana": "るす",
+    "en": "away",
+    "vi": "Vắng nhà",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "answeringMachine",
+    "kanji": "留守番",
+    "hiragana": "るすばん",
+    "en": "answering machine",
+    "vi": "Phím nhắn",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "congratulation",
+    "kanji": "お祝い",
+    "hiragana": "おいわい",
+    "en": "congratulation",
+    "vi": "Chúc mừng",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ",
+        "［お］祝い"
+      ]
+    }
+  },
+  {
+    "id": "sorrow",
+    "kanji": "悲しみ",
+    "hiragana": "かなしみ",
+    "en": "sorrow",
+    "vi": "Nỗi đau, tin buồn",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  }
+]

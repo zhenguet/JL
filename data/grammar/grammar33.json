@@ -1,1 +1,335 @@
-﻿[]
+﻿[
+  {
+    "id": "command-form",
+    "title": "Động từ thể mệnh lệnh（命令形）",
+    "description": "Dạng động từ diễn đạt sự sai khiến, cấm đoán. Thể mệnh lệnh được dùng để sai khiến, ép buộc ai đó làm một việc gì đó. Cả hai thể này đều mang nghĩa ép buộc, là kiểu câu mệnh lệnh dạng ngắn nên phạm vi sử dụng khá hẹp, do đó nên hạn chế dùng chúng một mình ở cuối câu. Thông thường, nam giới hay sử dụng hơn",
+    "structure": "Nhóm I: chuyển đuôi 「u」 sang e / Nhóm II: bỏ る thêm ろ / Nhóm III: する → しろ, くる → こい",
+    "examples": [
+      {
+        "japanese": "急ぐ → 急げ",
+        "romaji": "isogu → isoge",
+        "vietnamese": "vội → hãy vội"
+      },
+      {
+        "japanese": "飲む → 飲め",
+        "romaji": "nomu → nome",
+        "vietnamese": "uống → hãy uống"
+      },
+      {
+        "japanese": "行く → 行け",
+        "romaji": "iku → ike",
+        "vietnamese": "đi → hãy đi"
+      },
+      {
+        "japanese": "切る → 切れ",
+        "romaji": "kiru → kire",
+        "vietnamese": "cắt → hãy cắt"
+      },
+      {
+        "japanese": "歌う → 歌え",
+        "romaji": "utau → utae",
+        "vietnamese": "hát → hãy hát"
+      },
+      {
+        "japanese": "持つ → 持て",
+        "romaji": "motsu → mote",
+        "vietnamese": "cầm → hãy cầm"
+      },
+      {
+        "japanese": "直す → 直せ",
+        "romaji": "naosu → naose",
+        "vietnamese": "sửa → hãy sửa"
+      },
+      {
+        "japanese": "食べる → 食べろ",
+        "romaji": "taberu → tabero",
+        "vietnamese": "ăn → hãy ăn"
+      },
+      {
+        "japanese": "起きる → 起きろ",
+        "romaji": "okiru → okiro",
+        "vietnamese": "thức dậy → hãy thức dậy"
+      },
+      {
+        "japanese": "見る → 見ろ",
+        "romaji": "miru → miro",
+        "vietnamese": "xem → hãy xem"
+      },
+      {
+        "japanese": "する → しろ",
+        "romaji": "suru → shiro",
+        "vietnamese": "làm → hãy làm"
+      },
+      {
+        "japanese": "来る → 来い",
+        "romaji": "kuru → koi",
+        "vietnamese": "đến → hãy đến"
+      },
+      {
+        "japanese": "早く 寝ろ。",
+        "romaji": "Hayaku nero.",
+        "vietnamese": "Hãy ngủ sớm."
+      },
+      {
+        "japanese": "もっと 勉強しろ。",
+        "romaji": "Motto benkyou shiro.",
+        "vietnamese": "Phải học nhiều hơn."
+      },
+      {
+        "japanese": "明日 うちへ来い［よ］。",
+        "romaji": "Ashita uchi e koi [yo].",
+        "vietnamese": "Ngày mai anh hãy đến nhà tôi nhé."
+      },
+      {
+        "japanese": "逃げろ。",
+        "romaji": "Nigero.",
+        "vietnamese": "Chạy đi."
+      },
+      {
+        "japanese": "スイッチをきれ。",
+        "romaji": "Suicchi o kire.",
+        "vietnamese": "Tắt công tắc điện đi."
+      },
+      {
+        "japanese": "頑張れ。",
+        "romaji": "Ganbare.",
+        "vietnamese": "Cố lên."
+      },
+      {
+        "japanese": "走れ。",
+        "romaji": "Hashire.",
+        "vietnamese": "Chạy đi."
+      },
+      {
+        "japanese": "止まれ。",
+        "romaji": "Tomare.",
+        "vietnamese": "Dừng lại."
+      }
+    ],
+    "notes": [
+      "Nhóm I: chuyển đuôi 「u」 sang e (động từ dạng –masu thì bỏ -masu và đổi đuôi –i thành –e)",
+      "Nhóm II: bỏ る thêm ろ (động từ dạng –masu thì bỏ -masu và thêm –ro)",
+      "Nhóm III: する → しろ, くる → こい",
+      "Thể mệnh lệnh được dùng để sai khiến, ép buộc ai đó làm một việc gì đó",
+      "Phạm vi sử dụng khá hẹp, do đó nên hạn chế dùng chúng một mình ở cuối câu",
+      "Thông thường, nam giới hay sử dụng hơn",
+      "Được dùng trong các trường hợp:",
+      "a) Người nhiều tuổi nói với người ít tuổi hơn hoặc người địa vị cao nói với người có địa vị thấp hơn; bố mẹ nói với con cái",
+      "b) Giữa bạn bè thân thiết với nhau. Trong trường hợp này, よ được thêm vào cuối câu để làm mềm âm điệu",
+      "c) Trong những trường hợp khẩn cấp, khi không có đủ thời gian để nói những lời lịch sự",
+      "d) Khi cổ vũ ở các sự kiện thể thao (trường hợp này, phái nữ cũng có thể dùng)",
+      "e) Trong những khẩu hiệu, biển báo mang tính súc tích, có tính tuyên truyền cao"
+    ]
+  },
+  {
+    "id": "prohibition-form",
+    "title": "Động từ thể cấm đoán（禁止形）",
+    "description": "Thể cấm đoán được dùng để cấm ai đó không làm gì. Cả hai thể này đều mang nghĩa ép buộc, là kiểu câu mệnh lệnh dạng ngắn nên phạm vi sử dụng khá hẹp, do đó nên hạn chế dùng chúng một mình ở cuối câu",
+    "structure": "Động từ thể từ điển + な",
+    "examples": [
+      {
+        "japanese": "行きます → 行く な",
+        "romaji": "ikimasu → iku na",
+        "vietnamese": "đi → không được đi"
+      },
+      {
+        "japanese": "つくります → つくる な",
+        "romaji": "tsukurimasu → tsukuru na",
+        "vietnamese": "làm → không được làm"
+      },
+      {
+        "japanese": "のみます → のむ な",
+        "romaji": "nomimasu → nomu na",
+        "vietnamese": "uống → không được uống"
+      },
+      {
+        "japanese": "まちます → まつ な",
+        "romaji": "machimasu → matsu na",
+        "vietnamese": "đợi → không được đợi"
+      },
+      {
+        "japanese": "借ります → 借りる な",
+        "romaji": "karimasu → kariru na",
+        "vietnamese": "mượn → không được mượn"
+      },
+      {
+        "japanese": "ねます → ねる な",
+        "romaji": "nemasu → neru na",
+        "vietnamese": "ngủ → không được ngủ"
+      },
+      {
+        "japanese": "します → する な",
+        "romaji": "shimasu → suru na",
+        "vietnamese": "làm → không được làm"
+      },
+      {
+        "japanese": "きます → くる な",
+        "romaji": "kimasu → kuru na",
+        "vietnamese": "đến → không được đến"
+      },
+      {
+        "japanese": "遅れるな。",
+        "romaji": "Okureru na.",
+        "vietnamese": "Không được đến muộn."
+      },
+      {
+        "japanese": "あまり 飲むな［よ］。",
+        "romaji": "Amari nomu na [yo].",
+        "vietnamese": "Anh đừng uống nhiều nhé."
+      },
+      {
+        "japanese": "エレベーターを使うな。",
+        "romaji": "Erebeetaa o tsukau na.",
+        "vietnamese": "Không được dùng cầu thang máy."
+      },
+      {
+        "japanese": "負けるな。",
+        "romaji": "Makeru na.",
+        "vietnamese": "Không được thua."
+      },
+      {
+        "japanese": "入るな。",
+        "romaji": "Hairu na.",
+        "vietnamese": "Cấm vào."
+      }
+    ],
+    "notes": [
+      "Thể cấm đoán được dùng để cấm ai đó không làm gì",
+      "Động từ dạng –masu thì phải chuyển về dạng từ điển và thêm –na",
+      "Cả hai thể này đều mang nghĩa ép buộc, là kiểu câu mệnh lệnh dạng ngắn nên phạm vi sử dụng khá hẹp",
+      "Được dùng trong các trường hợp tương tự như thể mệnh lệnh"
+    ]
+  },
+  {
+    "id": "v-masu-nasai",
+    "title": "V ます＋なさい - Thể văn mệnh lệnh nhẹ nhàng",
+    "description": "Trong thể văn mệnh lệnh, ngoài cách dùng thể mệnh lệnh, thì \"V ます＋なさい\" cũng được dùng. Nó được dùng trong trường hợp bố mẹ nói với con cái, thầy cô giáo với học sinh. Tuy nhiên sắc thái của nó nhẹ nhàng hơn thể mệnh lệnh. Vì vậy, phụ nữ thường dùng mẫu câu này thay thế cho thể mệnh lệnh. Tuy nhiên, ta không sử dụng mẫu câu này với bề trên",
+    "structure": "V ます＋なさい",
+    "examples": [
+      {
+        "japanese": "勉強しなさい。",
+        "romaji": "Benkyou shinasai.",
+        "vietnamese": "Hãy học đi."
+      },
+      {
+        "japanese": "早く 寝なさい。",
+        "romaji": "Hayaku nasai.",
+        "vietnamese": "Hãy ngủ sớm đi."
+      }
+    ],
+    "notes": [
+      "Được dùng trong trường hợp bố mẹ nói với con cái, thầy cô giáo với học sinh",
+      "Sắc thái của nó nhẹ nhàng hơn thể mệnh lệnh",
+      "Phụ nữ thường dùng mẫu câu này thay thế cho thể mệnh lệnh",
+      "Tuy nhiên, ta không sử dụng mẫu câu này với bề trên"
+    ]
+  },
+  {
+    "id": "v-te-kure",
+    "title": "V て＋くれ - Hãy / xin hãy (làm gì / đừng làm gì)",
+    "description": "hãy / xin hãy (làm gì / đừng làm gì). ～てくれ là thể thông thường của ~てください, mẫu câu biểu hiện sự nhờ cậy, yêu cầu lịch sự. Mẫu câu này thể hiện ý mệnh lệnh, cấm đoán nhưng nhẹ nhàng hơn nhiều và không bao hàm ý áp đặt, ép buộc",
+    "structure": "V て＋くれ",
+    "examples": [
+      {
+        "japanese": "ちょっと 手伝ってくれ。",
+        "romaji": "Chotto tetsudatte kure.",
+        "vietnamese": "Hãy giúp tôi một chút."
+      },
+      {
+        "japanese": "ちょっと はさみを 貸して。",
+        "romaji": "Chotto hasami o kashite.",
+        "vietnamese": "Cho tôi mượn cái kéo một chút."
+      }
+    ],
+    "notes": [
+      "～てくれ là thể thông thường của ~てください",
+      "Mẫu câu biểu hiện sự nhờ cậy, yêu cầu lịch sự",
+      "Mẫu câu này thể hiện ý mệnh lệnh, cấm đoán nhưng nhẹ nhàng hơn nhiều và không bao hàm ý áp đặt, ép buộc",
+      "Chỉ có nam giới sử dụng (nữ giới tuyệt đối không sử dụng)",
+      "Không dùng với người lớn tuổi hơn hay cấp trên"
+    ]
+  },
+  {
+    "id": "to-yomu-kaku",
+    "title": "～と 読みます / ～と 書いてあります - Đọc là… / Viết là…",
+    "description": "Đọc là… / Viết là…. (～と trong 2 ví dụ trên có nghĩa giống ～と trong mẫu ~といいます ở bài 21)",
+    "structure": "～と 読みます / ～と 書いてあります",
+    "examples": [
+      {
+        "japanese": "あの漢字は 何と 読むんですか。",
+        "romaji": "Ano kanji wa nan to yomu n desu ka.",
+        "vietnamese": "Chữ Hán kia đọc là gì?"
+      },
+      {
+        "japanese": "あそこに「止まれ」と 書いてあります。",
+        "romaji": "Asoko ni \"tomare\" to kaite arimasu.",
+        "vietnamese": "Ở đằng kia có viết là \"dừng lại\"."
+      }
+    ],
+    "notes": [
+      "～と trong 2 ví dụ trên có nghĩa giống ～と trong mẫu ~といいます ở bài 21"
+    ]
+  },
+  {
+    "id": "x-wa-y-to-iu-imi",
+    "title": "Xは Yという 意味です - Cách diễn đạt ý nghĩa của 1 từ, cụm từ, biển báo…",
+    "description": "X có nghĩa là Y. Mẫu câu này được dùng để định nghĩa từ được biểu diễn bởi \"X\" (という bắt nguồn từ といいます)",
+    "structure": "Xは Yという 意味です",
+    "examples": [
+      {
+        "japanese": "\"ありがとう\" は \"Cám ơn\" という 意味です。",
+        "romaji": "\"Arigatou\" wa \"Cam on\" to iu imi desu.",
+        "vietnamese": "\"Arigatou\" có nghĩa là \"Cám ơn\"."
+      },
+      {
+        "japanese": "あの漢字は どいう 意味ですか。",
+        "romaji": "Ano kanji wa dou iu imi desu ka.",
+        "vietnamese": "Chữ Hán kia có nghĩa là gì?"
+      },
+      {
+        "japanese": "使うな という 意味です。",
+        "romaji": "Tsukau na to iu imi desu.",
+        "vietnamese": "Nó có nghĩa là \"không được dùng\"."
+      }
+    ],
+    "notes": [
+      "Mẫu câu này được dùng để định nghĩa từ được biểu diễn bởi \"X\"",
+      "という bắt nguồn từ といいます"
+    ]
+  },
+  {
+    "id": "to-itte-imashita",
+    "title": "(Thể thường) と 言っていました - (ai đó) đã nói là / rằng …",
+    "description": "(ai đó) đã nói là / rằng …. Dùng để truyền đạt, thông báo, trích dẫn lại 1 câu nói, 1 lời nhắn của ai đó cho người thứ 3",
+    "structure": "(Thể thường) と 言っていました",
+    "examples": [
+      {
+        "japanese": "田中さん：１０時に 本社に 来てください。",
+        "romaji": "Tanaka-san: Juuji ni honsha ni kite kudasai.",
+        "vietnamese": "Anh Tanaka nói là: hãy đến trụ sở công ty lúc 10 giờ"
+      },
+      {
+        "japanese": "田中さんは １０時に 本社に 来てくれ と 言っていました。",
+        "romaji": "Tanaka-san wa juuji ni honsha ni kite kure to itte imashita.",
+        "vietnamese": "Anh Tanaka nói là: hãy đến trụ sở công ty lúc 10 giờ"
+      },
+      {
+        "japanese": "田中さん： 明日 休みます。",
+        "romaji": "Tanaka-san: Ashita yasumimasu.",
+        "vietnamese": "Anh Tanaka nói là ngày mai anh ấy nghỉ."
+      },
+      {
+        "japanese": "田中さんは 明日 休むと 言っていました。",
+        "romaji": "Tanaka-san wa ashita yasumu to itte imashita.",
+        "vietnamese": "Anh Tanaka nói là ngày mai anh ấy nghỉ."
+      }
+    ],
+    "notes": [
+      "Dùng để truyền đạt, thông báo, trích dẫn lại 1 câu nói, 1 lời nhắn của ai đó cho người thứ 3",
+      "Phân biệt: 「～と 言いました」 và 「～と言っていました」",
+      "Giống: cùng dùng để truyền đạt lại 1 câu nói, lời nhắn của ai đó",
+      "Khác: 「～と 言いました」 đặt trọng tâm vào việc ai nói, vào chủ thể của câu nói đó",
+      "Trong khi đó, 「～と言っていました」 đặt trọng tâm vào việc truyền đạt lại nội dung câu nói"
+    ]
+  }
+]

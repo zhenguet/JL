@@ -1,1 +1,225 @@
-﻿[]
+﻿[
+  {
+    "id": "volitional-form",
+    "title": "Động từ thể ý chí（意向形）",
+    "description": "Dạng động từ diễn đạt ý muốn, dự định. Về bản chất, \"thể ý chí\" chính là cách nói thông thường (cách nói thân thiết, suồng sã được đề cập ở bài 20) của động từ dạng 「～ましょう」 nên có thể dùng thay cho 「～ましょう」 khi rủ ai đó cùng làm một việc gì hay đề nghị giúp ai đó làm gì",
+    "structure": "Nhóm I: chuyển đuôi 「u」 sang ō / Nhóm II: bỏ る thêm よう / Nhóm III: する → しよう, くる → こよう",
+    "examples": [
+      {
+        "japanese": "行く → 行こう",
+        "romaji": "iku → ikou",
+        "vietnamese": "đi → hãy đi"
+      },
+      {
+        "japanese": "急ぐ → 急ごう",
+        "romaji": "isogu → isogou",
+        "vietnamese": "vội → hãy vội"
+      },
+      {
+        "japanese": "飲む → 飲もう",
+        "romaji": "nomu → nomou",
+        "vietnamese": "uống → hãy uống"
+      },
+      {
+        "japanese": "呼ぶ → 呼ぼう",
+        "romaji": "yobu → yobou",
+        "vietnamese": "gọi → hãy gọi"
+      },
+      {
+        "japanese": "終わる → 終わろう",
+        "romaji": "owaru → owarou",
+        "vietnamese": "kết thúc → hãy kết thúc"
+      },
+      {
+        "japanese": "待つ → 待とう",
+        "romaji": "matsu → matou",
+        "vietnamese": "đợi → hãy đợi"
+      },
+      {
+        "japanese": "会う → 会おう",
+        "romaji": "au → aou",
+        "vietnamese": "gặp → hãy gặp"
+      },
+      {
+        "japanese": "話す → 話そう",
+        "romaji": "hanasu → hanasou",
+        "vietnamese": "nói → hãy nói"
+      },
+      {
+        "japanese": "食べる → 食べよう",
+        "romaji": "taberu → tabeyou",
+        "vietnamese": "ăn → hãy ăn"
+      },
+      {
+        "japanese": "始める → 始めよう",
+        "romaji": "hajimeru → hajimeyou",
+        "vietnamese": "bắt đầu → hãy bắt đầu"
+      },
+      {
+        "japanese": "出かける → 出かけよう",
+        "romaji": "dekakeru → dekakeyou",
+        "vietnamese": "ra ngoài → hãy ra ngoài"
+      },
+      {
+        "japanese": "見る → 見よう",
+        "romaji": "miru → miyou",
+        "vietnamese": "xem → hãy xem"
+      },
+      {
+        "japanese": "する → しよう",
+        "romaji": "suru → shiyou",
+        "vietnamese": "làm → hãy làm"
+      },
+      {
+        "japanese": "来る → 来よう",
+        "romaji": "kuru → koyou",
+        "vietnamese": "đến → hãy đến"
+      },
+      {
+        "japanese": "ちょっと 休まない？",
+        "romaji": "Chotto yasumanai?",
+        "vietnamese": "Nghỉ một lát không?"
+      },
+      {
+        "japanese": "...うん、 休もう。",
+        "romaji": "...Un, yasumou.",
+        "vietnamese": "Ừ, nghỉ đi!"
+      },
+      {
+        "japanese": "少し 休もうか。",
+        "romaji": "Sukoshi yasumou ka.",
+        "vietnamese": "Nghỉ một lát đi!"
+      },
+      {
+        "japanese": "手伝おうか。",
+        "romaji": "Tetsudau ka.",
+        "vietnamese": "Mình giúp một tay nhé?"
+      }
+    ],
+    "notes": [
+      "Nhóm I: chuyển đuôi 「u」 sang ō",
+      "Nhóm II: bỏ る thêm よう",
+      "Nhóm III: する → しよう, くる → こよう",
+      "Về bản chất, \"thể ý chí\" chính là cách nói thông thường của động từ dạng 「～ましょう」",
+      "Có thể dùng thay cho 「～ましょう」 khi rủ ai đó cùng làm một việc gì hay đề nghị giúp ai đó làm gì",
+      "Chú ý: trong ví dụ 2 và 3 ở cuối các câu か không được lược bỏ"
+    ]
+  },
+  {
+    "id": "v-volitional-to-omotte-iru",
+    "title": "V thể ý chí と 思っています - (tôi/ai đó) định làm gì / dự định sẽ làm gì",
+    "description": "(tôi/ai đó) định làm gì / dự định sẽ làm gì. Dùng để biểu lộ dự định, ý muốn làm một chuyện gì cho người nghe biết. 「~とおもっています」 cũng được dùng để chỉ dự định của người thứ ba",
+    "structure": "V thể ý chí と 思っています",
+    "examples": [
+      {
+        "japanese": "週末は デパートで 買い物しよう と 思っています。",
+        "romaji": "Shuumatsu wa depaato de kaimono shiyou to omotte imasu.",
+        "vietnamese": "Tôi dự định đi mua sắm vào cuối tuần."
+      },
+      {
+        "japanese": "今から 銀行へ 行こう と 思っています。",
+        "romaji": "Ima kara ginkou e ikou to omotte imasu.",
+        "vietnamese": "Tôi dự định đi đến ngân hàng bây giờ."
+      },
+      {
+        "japanese": "彼は 外国で 働こうと 思っています。",
+        "romaji": "Kare wa gaikoku de hatarakou to omotte imasu.",
+        "vietnamese": "Anh ấy có ý định làm việc ở nước ngoài."
+      }
+    ],
+    "notes": [
+      "Dùng để biểu lộ dự định, ý muốn làm một chuyện gì cho người nghe biết",
+      "「~とおもっています」 cũng được dùng để chỉ dự định của người thứ ba"
+    ]
+  },
+  {
+    "id": "v-ru-tsumori",
+    "title": "V る/V ない つもりです - Dự định làm, dự định không làm một việc gì đó",
+    "description": "dự định làm, dự định không làm một việc gì đó. So với mẫu câu V thể ý chí とおもっています, V thông thường つもりです mang ý nghĩa quyết đoán hơn được sử dụng để chỉ một ý hướng rõ rệt, 1 quyết định chắc chắn hoặc 1 dự định lớn trong cuộc sống",
+    "structure": "V る/V ない つもりです",
+    "examples": [
+      {
+        "japanese": "来年 結婚する つもり です。",
+        "romaji": "Rainen kekkon suru tsumori desu.",
+        "vietnamese": "Năm tới tôi dự định sẽ kết hôn."
+      },
+      {
+        "japanese": "明日からは たばこを 吸わない つもり です。",
+        "romaji": "Ashita kara wa tabako o suwanai tsumori desu.",
+        "vietnamese": "Tôi định từ ngày mai sẽ không hút thuốc."
+      }
+    ],
+    "notes": [
+      "So với mẫu câu V thể ý chí とおもっています, V thông thường つもりです mang ý nghĩa quyết đoán hơn",
+      "Được sử dụng để chỉ một ý hướng rõ rệt, 1 quyết định chắc chắn hoặc 1 dự định lớn trong cuộc sống"
+    ]
+  },
+  {
+    "id": "v-ru-yotei",
+    "title": "V る/N＋の 予定です - Dự định làm gì; có kế hoạch làm gì",
+    "description": "dự định làm gì; có kế hoạch làm gì. Cũng diễn tả 1 dự định, kế hoạch gì đó nhưng chỉ dùng với những sự kiện đã được định sẵn mà không phụ thuộc vào ý chí của bản thân người nói",
+    "structure": "V る/N＋の 予定です",
+    "examples": [
+      {
+        "japanese": "７月の終わりに ドイツへ 出張する 予定です。",
+        "romaji": "Shichigatsu no owari ni Doitsu e shucchou suru yotei desu.",
+        "vietnamese": "Tôi có kế hoạch đi Đức công tác vào cuối tháng 7."
+      },
+      {
+        "japanese": "旅行は １週間ぐらいの 予定です。",
+        "romaji": "Ryokou wa isshuukan gurai no yotei desu.",
+        "vietnamese": "Chuyến du lịch được dự định kéo dài 1 tuần."
+      }
+    ],
+    "notes": [
+      "Cũng diễn tả 1 dự định, kế hoạch gì đó nhưng chỉ dùng với những sự kiện đã được định sẵn mà không phụ thuộc vào ý chí của bản thân người nói"
+    ]
+  },
+  {
+    "id": "mada-v-te-inai",
+    "title": "まだ V ていません - Chưa làm ~",
+    "description": "chưa làm ~. Biểu thị một việc gì đó chưa diễn ra hoặc chưa làm",
+    "structure": "まだ V ていません",
+    "examples": [
+      {
+        "japanese": "銀行は まだ 開いていません。",
+        "romaji": "Ginkou wa mada aite imasen.",
+        "vietnamese": "Ngân hàng vẫn chưa mở."
+      },
+      {
+        "japanese": "レポートは もう 書きましたか。",
+        "romaji": "Repooto wa mou kakimashita ka.",
+        "vietnamese": "Anh đã viết xong bản báo cáo chưa?"
+      },
+      {
+        "japanese": "...いいえ、 まだ 書いていません。",
+        "romaji": "...Iie, mada kaite imasen.",
+        "vietnamese": "…Chưa, tôi chưa viết xong."
+      }
+    ],
+    "notes": [
+      "Biểu thị một việc gì đó chưa diễn ra hoặc chưa làm"
+    ]
+  },
+  {
+    "id": "wa-emphasis",
+    "title": "～は - Nhấn mạnh (thay cho trợ từ を)",
+    "description": "nhấn mạnh. Thay cho trợ từ を",
+    "structure": "～は",
+    "examples": [
+      {
+        "japanese": "もう 昼ご飯を 食べましたか。",
+        "romaji": "Mou hiru gohan o tabemashita ka.",
+        "vietnamese": "Anh đã cơm trưa rồi à?"
+      },
+      {
+        "japanese": "昼ご飯は もう 食べましたか。",
+        "romaji": "Hiru gohan wa mou tabemashita ka.",
+        "vietnamese": "Cơm trưa thì anh đã ăn rồi."
+      }
+    ],
+    "notes": [
+      "Thay cho trợ từ を để nhấn mạnh"
+    ]
+  }
+]
