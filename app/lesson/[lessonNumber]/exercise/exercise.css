@@ -240,6 +240,7 @@
 .exercise-actions {
   display: flex;
   justify-content: center;
+  margin-top: 32px;
 }
 
 .btn {
