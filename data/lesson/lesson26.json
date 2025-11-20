@@ -1,1 +1,830 @@
-﻿[]
+﻿[
+  {
+    "id": "toBeLate",
+    "kanji": "遅れます",
+    "hiragana": "おくれます",
+    "en": "to be late",
+    "vi": "Muộn, chậm",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm II",
+        "《遅れます、遅れる、遅れて》",
+        "●「時間・かいぎに～」 Muộn giờ"
+      ]
+    }
+  },
+  {
+    "id": "toBeOnTime",
+    "kanji": "間に合います",
+    "hiragana": "まにあいます",
+    "en": "to be on time",
+    "vi": "Đúng giờ, kịp",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm I",
+        "《間に合います、間に合う、間に合って》",
+        "●「時間・かいぎに～」"
+      ]
+    }
+  },
+  {
+    "id": "toDo",
+    "kanji": "やります",
+    "hiragana": "やります",
+    "en": "to do",
+    "vi": "Làm, chơi, tổ chức…",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm I"
+      ]
+    }
+  },
+  {
+    "id": "toCheck",
+    "kanji": "みます",
+    "hiragana": "みます",
+    "en": "to check",
+    "vi": "Xem xét",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm II"
+      ]
+    }
+  },
+  {
+    "id": "toTurnOn",
+    "kanji": "つきます",
+    "hiragana": "つきます",
+    "en": "to turn on",
+    "vi": "Bật, được bật",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm I",
+        "《つきます、つく、ついて》",
+        "●「電気・エアコンが～」 Đèn sáng / Máy điều hòa chạy"
+      ]
+    }
+  },
+  {
+    "id": "toGoOut",
+    "kanji": "消えます",
+    "hiragana": "きえます",
+    "en": "to go out",
+    "vi": "Tắt, dập",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm II",
+        "《消えます、消える、消えて》",
+        "●「電気・エアコンが～」 Đèn tắt / Máy điều hòa tắt"
+      ]
+    }
+  },
+  {
+    "id": "toOpen",
+    "kanji": "開きます",
+    "hiragana": "あきます",
+    "en": "to open",
+    "vi": "Mở, được mở",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm I",
+        "《開きます、開く、開いて》",
+        "●「ドアが～」 Cửa mở"
+      ]
+    }
+  },
+  {
+    "id": "toClose",
+    "kanji": "閉まります",
+    "hiragana": "しまります",
+    "en": "to close",
+    "vi": "Đóng, bị đóng",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm I",
+        "《閉まります、閉まる、閉まって》",
+        "●「ドアが～」 Cửa đóng"
+      ]
+    }
+  },
+  {
+    "id": "toContact",
+    "kanji": "連絡",
+    "hiragana": "れんらく",
+    "en": "to contact",
+    "vi": "Liên lạc",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm III",
+        "《します、する、して》",
+        "●「会社・友だちに～」 Liên lạc với công ty / bạn bè"
+      ]
+    }
+  },
+  {
+    "id": "convenient",
+    "kanji": "都合がいい",
+    "hiragana": "つごうがいい",
+    "en": "convenient",
+    "vi": "Thuận tiện",
+    "type": "adjective",
+    "explanation": {
+      "content": [
+        "Tính từ"
+      ]
+    }
+  },
+  {
+    "id": "inconvenient",
+    "kanji": "都合が悪い",
+    "hiragana": "つごうがわるい",
+    "en": "inconvenient",
+    "vi": "Không thuận tiện",
+    "type": "adjective",
+    "explanation": {
+      "content": [
+        "Tính từ"
+      ]
+    }
+  },
+  {
+    "id": "strange",
+    "kanji": "おかしい",
+    "hiragana": "おかしい",
+    "en": "strange",
+    "vi": "Kỳ lạ, buồn cười",
+    "type": "adjective",
+    "explanation": {
+      "content": [
+        "Tính từ"
+      ]
+    }
+  },
+  {
+    "id": "boring",
+    "kanji": "つまらない",
+    "hiragana": "つまらない",
+    "en": "boring",
+    "vi": "Chán, buồn tẻ",
+    "type": "adjective",
+    "explanation": {
+      "content": [
+        "Tính từ"
+      ]
+    }
+  },
+  {
+    "id": "scary",
+    "kanji": "怖い",
+    "hiragana": "こわい",
+    "en": "scary",
+    "vi": "Đáng sợ",
+    "type": "adjective",
+    "explanation": {
+      "content": [
+        "Tính từ"
+      ]
+    }
+  },
+  {
+    "id": "condition",
+    "kanji": "調子",
+    "hiragana": "ちょうし",
+    "en": "condition",
+    "vi": "Tình trạng",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "dormitory",
+    "kanji": "寮",
+    "hiragana": "りょう",
+    "en": "dormitory",
+    "vi": "Ký túc xá",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "manager",
+    "kanji": "管理人",
+    "hiragana": "かんりにん",
+    "en": "manager",
+    "vi": "Người quản lý",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "dinner",
+    "kanji": "夕食",
+    "hiragana": "ゆうしょく",
+    "en": "dinner",
+    "vi": "Bữa tối",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "bath",
+    "kanji": "風呂",
+    "hiragana": "ふろ",
+    "en": "bath",
+    "vi": "Bồn tắm kiểu Nhật",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ",
+        "「お」ふろ"
+      ]
+    }
+  },
+  {
+    "id": "hotWater",
+    "kanji": "湯",
+    "hiragana": "ゆ",
+    "en": "hot water",
+    "vi": "Nước nóng",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ",
+        "「お」ゆ"
+      ]
+    }
+  },
+  {
+    "id": "gas",
+    "kanji": "ガス",
+    "hiragana": "ガス",
+    "en": "gas",
+    "vi": "Ga, khí đốt",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "washingMachine",
+    "kanji": "洗濯機",
+    "hiragana": "せんたくき",
+    "en": "washing machine",
+    "vi": "Máy giặt",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "machine",
+    "kanji": "～機",
+    "hiragana": "～き",
+    "en": "machine",
+    "vi": "Máy~",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "way",
+    "kanji": "方",
+    "hiragana": "かた",
+    "en": "way",
+    "vi": "Cách~",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "likeThis",
+    "kanji": "こんな～",
+    "hiragana": "こんな～",
+    "en": "like this",
+    "vi": "Như thế này…",
+    "type": "other",
+    "explanation": {
+      "content": [
+        "Từ chỉ định (DT)"
+      ]
+    }
+  },
+  {
+    "id": "likeThat",
+    "kanji": "そんな～",
+    "hiragana": "そんな～",
+    "en": "like that",
+    "vi": "Như thế đó…",
+    "type": "other",
+    "explanation": {
+      "content": [
+        "Từ chỉ định (DT)"
+      ]
+    }
+  },
+  {
+    "id": "likeThatOverThere",
+    "kanji": "あんな～",
+    "hiragana": "あんな～",
+    "en": "like that over there",
+    "vi": "Như thế kia…",
+    "type": "other",
+    "explanation": {
+      "content": [
+        "Từ chỉ định (DT)"
+      ]
+    }
+  },
+  {
+    "id": "likeThis",
+    "kanji": "こうやって",
+    "hiragana": "こうやって",
+    "en": "like this",
+    "vi": "Làm như thế này",
+    "type": "adverb",
+    "explanation": {
+      "content": [
+        "Phó từ"
+      ]
+    }
+  },
+  {
+    "id": "first",
+    "kanji": "先に",
+    "hiragana": "さきに",
+    "en": "first",
+    "vi": "(Làm, đi…) trước",
+    "type": "adverb",
+    "explanation": {
+      "content": [
+        "Phó từ"
+      ]
+    }
+  },
+  {
+    "id": "thankYouForYourHelp",
+    "kanji": "お世話になります",
+    "hiragana": "おせわになります",
+    "en": "thank you for your help",
+    "vi": "Mong nhận được sự quan tâm, giúp đỡ",
+    "type": "other",
+    "explanation": {
+      "content": [
+        "Lời cảm ơn"
+      ]
+    }
+  },
+  {
+    "id": "sameHere",
+    "kanji": "こちらこそ",
+    "hiragana": "こちらこそ",
+    "en": "same here",
+    "vi": "Tôi cũng vậy (Trả lời cho câu )",
+    "type": "other",
+    "explanation": {
+      "content": [
+        "Lời đáp lại"
+      ]
+    }
+  },
+  {
+    "id": "toSearch",
+    "kanji": "探します",
+    "hiragana": "さがします",
+    "en": "to search",
+    "vi": "Tìm kiếm",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm I",
+        "《探します、探す、探して》"
+      ]
+    }
+  },
+  {
+    "id": "toApply",
+    "kanji": "申し込みます",
+    "hiragana": "もうしこみます",
+    "en": "to apply",
+    "vi": "Đăng kí",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm I",
+        "《申し込みます、申し込む、申し込んで》"
+      ]
+    }
+  },
+  {
+    "id": "toParticipate",
+    "kanji": "参加",
+    "hiragana": "さんか",
+    "en": "to participate",
+    "vi": "Tham gia",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm III",
+        "《します、する、して》",
+        "●「パーティーに～」 Tham gia bữa tiệc"
+      ]
+    }
+  },
+  {
+    "id": "feelGood",
+    "kanji": "気分がいい",
+    "hiragana": "きぶんがいい",
+    "en": "feel good",
+    "vi": "Dễ chịu",
+    "type": "adjective",
+    "explanation": {
+      "content": [
+        "Tính từ"
+      ]
+    }
+  },
+  {
+    "id": "feelBad",
+    "kanji": "気分が悪い",
+    "hiragana": "きぶんがわるい",
+    "en": "feel bad",
+    "vi": "Khó chịu",
+    "type": "adjective",
+    "explanation": {
+      "content": [
+        "Tính từ"
+      ]
+    }
+  },
+  {
+    "id": "newspaperCompany",
+    "kanji": "新聞社",
+    "hiragana": "しんぶんしゃ",
+    "en": "newspaper company",
+    "vi": "Tòa soạn báo",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "judo",
+    "kanji": "柔道",
+    "hiragana": "じゅうどう",
+    "en": "judo",
+    "vi": "Võ judo, Nhu đạo",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "sportsDay",
+    "kanji": "運動会",
+    "hiragana": "うんどうかい",
+    "en": "sports day",
+    "vi": "Thế vận hội, đại hội thể thao",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "volunteer",
+    "kanji": "ボランティア",
+    "hiragana": "ボランティア",
+    "en": "volunteer",
+    "vi": "Tình nguyện",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "dialect",
+    "kanji": "～べん",
+    "hiragana": "～べん",
+    "en": "dialect",
+    "vi": "Tiếng vùng~",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "nextTime",
+    "kanji": "今度",
+    "hiragana": "こんど",
+    "en": "next time",
+    "vi": "Lần tới",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "quite",
+    "kanji": "ずいぶん",
+    "hiragana": "ずいぶん",
+    "en": "quite",
+    "vi": "Khá là",
+    "type": "adverb",
+    "explanation": {
+      "content": [
+        "Phó từ"
+      ]
+    }
+  },
+  {
+    "id": "directly",
+    "kanji": "直接",
+    "hiragana": "ちょくせつ",
+    "en": "directly",
+    "vi": "Trực tiếp",
+    "type": "adverb",
+    "explanation": {
+      "content": [
+        "Phó từ"
+      ]
+    }
+  },
+  {
+    "id": "anytime",
+    "kanji": "いつでも",
+    "hiragana": "いつでも",
+    "en": "anytime",
+    "vi": "Lúc nào cũng",
+    "type": "adverb",
+    "explanation": {
+      "content": [
+        "Phó từ"
+      ]
+    }
+  },
+  {
+    "id": "anywhere",
+    "kanji": "どこでも",
+    "hiragana": "どこでも",
+    "en": "anywhere",
+    "vi": "Ở đâu cũng",
+    "type": "adverb",
+    "explanation": {
+      "content": [
+        "Phó từ"
+      ]
+    }
+  },
+  {
+    "id": "anyone",
+    "kanji": "だれでも",
+    "hiragana": "だれでも",
+    "en": "anyone",
+    "vi": "Ai cũng",
+    "type": "other",
+    "explanation": {
+      "content": [
+        "Đại từ"
+      ]
+    }
+  },
+  {
+    "id": "anything",
+    "kanji": "何でも",
+    "hiragana": "なんでも",
+    "en": "anything",
+    "vi": "Cái gì cũng",
+    "type": "other",
+    "explanation": {
+      "content": [
+        "Đại từ"
+      ]
+    }
+  },
+  {
+    "id": "nhk",
+    "kanji": "日本放送局",
+    "hiragana": "にほんほうそうきょく",
+    "en": "NHK",
+    "vi": "Kênh truyền hình Nhật Bản",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ",
+        "＊NHK"
+      ]
+    }
+  },
+  {
+    "id": "childrensDay",
+    "kanji": "子供の日",
+    "hiragana": "こどものひ",
+    "en": "children's day",
+    "vi": "Ngày của trẻ em",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ",
+        "＊こどものひ（５月５日）"
+      ]
+    }
+  },
+  {
+    "id": "garbage",
+    "kanji": "ごみ",
+    "hiragana": "ごみ",
+    "en": "garbage",
+    "vi": "Rác",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "mondayWednesdayFriday",
+    "kanji": "月・水・金",
+    "hiragana": "げつ・すい・きん",
+    "en": "Monday, Wednesday, Friday",
+    "vi": "Thứ 2, 4, 6",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "storagePlace",
+    "kanji": "置き場",
+    "hiragana": "おきば",
+    "en": "storage place",
+    "vi": "Nơi đặt, nơi để",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "side",
+    "kanji": "横",
+    "hiragana": "よこ",
+    "en": "side",
+    "vi": "Ngang, cạnh ngang",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "bottle",
+    "kanji": "瓶",
+    "hiragana": "びん",
+    "en": "bottle",
+    "vi": "Cái bình",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "can",
+    "kanji": "缶",
+    "hiragana": "かん",
+    "en": "can",
+    "vi": "Vỏ hộp",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "company",
+    "kanji": "～会社",
+    "hiragana": "～がいしゃ",
+    "en": "company",
+    "vi": "Công ty…",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "email",
+    "kanji": "電子メール",
+    "hiragana": "でんしメール",
+    "en": "email",
+    "vi": "Thư điện tử",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "universe",
+    "kanji": "宇宙",
+    "hiragana": "うちゅう",
+    "en": "universe",
+    "vi": "Vũ trụ",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "spaceship",
+    "kanji": "宇宙船",
+    "hiragana": "うちゅうせん",
+    "en": "spaceship",
+    "vi": "Tàu vũ trụ",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "astronaut",
+    "kanji": "宇宙飛行士",
+    "hiragana": "うちゅうひこうし",
+    "en": "astronaut",
+    "vi": "Nhà du hành vũ trụ",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "different",
+    "kanji": "別の",
+    "hiragana": "べつの",
+    "en": "different",
+    "vi": "Riêng biệt, khác biệt",
+    "type": "adjective",
+    "explanation": {
+      "content": [
+        "Tính từ"
+      ]
+    }
+  }
+]

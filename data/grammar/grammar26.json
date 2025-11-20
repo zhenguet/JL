@@ -1,1 +1,171 @@
-﻿[]
+﻿[
+  {
+    "id": "n-desu-basic",
+    "title": "～んです - Nhấn mạnh ý muốn nói, muốn hỏi",
+    "description": "Nhấn mạnh ý muốn nói, muốn hỏi; dùng trong văn nói nhiều",
+    "structure": "V (Thể thường) / Aい (Thể thường) / Aな (Thể thường ～だ → な) / N (～だ → な) + んです",
+    "examples": [
+      {
+        "japanese": "Vる・Vない・Vた + んです",
+        "romaji": "V-ru・V-nai・V-ta + n desu",
+        "vietnamese": "Động từ dạng ngắn + んです"
+      },
+      {
+        "japanese": "～い + んです",
+        "romaji": "~i + n desu",
+        "vietnamese": "Tính từ đuôi i + んです"
+      },
+      {
+        "japanese": "～な + んです",
+        "romaji": "~na + n desu",
+        "vietnamese": "Tính từ đuôi na + んです"
+      },
+      {
+        "japanese": "N + な + んです",
+        "romaji": "N + na + n desu",
+        "vietnamese": "Danh từ + な + んです"
+      }
+    ],
+    "notes": [
+      "Nhấn mạnh ý muốn nói, muốn hỏi",
+      "Dùng trong văn nói nhiều",
+      "Động từ: Vる・Vない・Vた + んです",
+      "Tính từ đuôi i: ～い + んです",
+      "Tính từ đuôi na: ～な + んです",
+      "Danh từ: ～な + んです"
+    ]
+  },
+  {
+    "id": "n-desu-ka-questions",
+    "title": "～んですか - Trong các câu hỏi",
+    "description": "Dùng trong các câu hỏi để xác nhận thông tin, hỏi về thông tin nghe hoặc nhìn thấy, hoặc muốn nghe giải thích nguyên nhân, lý do",
+    "structure": "～んですか",
+    "examples": [
+      {
+        "japanese": "渡辺さんは ときどき 大阪べんを 使いますね。大阪に 住んでいたんですか。",
+        "romaji": "Watanabe-san wa tokidoki Oosaka-ben o tsukaimasu ne. Oosaka ni sunde ita n desu ka.",
+        "vietnamese": "Anh watanabe thỉnh thoảng dùng tiếng Osaka nhỉ. Anh đã sống ở Osaka à?"
+      },
+      {
+        "japanese": "…ええ、１５歳まで 大阪に 住んでいました。",
+        "romaji": "...Ee, juu go sai made Oosaka ni sunde imashita.",
+        "vietnamese": "Vâng, tôi đã sống ở Osaka đến năm 15 tuổi."
+      },
+      {
+        "japanese": "いいカメラですね。どこで 買ったんですか。",
+        "romaji": "Ii kamera desu ne. Doko de katta n desu ka.",
+        "vietnamese": "Chiếc máy ảnh đẹp quá. Anh mua ở đâu vậy?"
+      },
+      {
+        "japanese": "…日本で 買いました。",
+        "romaji": "...Nihon de kaimashita.",
+        "vietnamese": "Tôi mua ở Nhật Bản."
+      },
+      {
+        "japanese": "どうして 遅れたんですか。",
+        "romaji": "Doushite okureta n desu ka.",
+        "vietnamese": "Tại sao anh lại đến muộn thế?"
+      }
+    ],
+    "notes": [
+      "a) Dùng trong trường hợp xác nhận lại thông tin xem có đúng như cái mà mình đang nhìn thấy hoặc đang suy đoán không",
+      "b) Khi người nói hỏi về thông tin mà anh ấy nghe hoặc nhìn thấy",
+      "c) Khi người nói muốn nghe giải thích nguyên nhân, lý do của sự việc mà anh ấy nghe hoặc nhìn thấy",
+      "Chú ý: Đôi khi ～んですか biểu thị sự ngạc nhiên, mối nghi ngờ hay sự tò mò sâu sắc. Tuy nhiên, nếu không dùng đúng thì có thể làm tổn thương người nghe. Vì thế nên cẩn thận khi dùng",
+      "× 社長、帰らないんですか。 (Biểu hiện này có hàm ý trách móc, dễ dẫn đến thất lễ)",
+      "○ 社長、帰りませんか。 (Cách nói đúng)"
+    ]
+  },
+  {
+    "id": "n-desu-declarative",
+    "title": "～んです - Trong câu trần thuật",
+    "description": "Biểu hiện này thường dùng khi trả lời câu hỏi tại sao hoặc khi người nói trình bày thêm nguyên nhân, lý do",
+    "structure": "～んです",
+    "examples": [
+      {
+        "japanese": "どうして 遅れたんですか。",
+        "romaji": "Doushite okureta n desu ka.",
+        "vietnamese": "Tại sao anh lại đến muộn?"
+      },
+      {
+        "japanese": "…バスが 来なかったんです。",
+        "romaji": "...Basu ga konakatta n desu.",
+        "vietnamese": "Tại vì xe buýt không đến."
+      },
+      {
+        "japanese": "毎朝、新聞を 読みますか。",
+        "romaji": "Maiasa, shinbun o yomimasu ka.",
+        "vietnamese": "Hàng sáng anh có đọc báo không?"
+      },
+      {
+        "japanese": "…いいえ。時間が ないんです。",
+        "romaji": "...Iie. Jikan ga nai n desu.",
+        "vietnamese": "Không. Vì tôi không có thời gian."
+      }
+    ],
+    "notes": [
+      "a) Khi trả lời câu hỏi tại sao giống như ý C ở phần trên. (phía sau không còn から nữa)",
+      "b) Khi người nói trình bày thêm nguyên nhân, lý do. (phía sau không còn から nữa)",
+      "Chú ý: Không được dùng ～んです để diễn tả sự thật đơn thuần",
+      "○ 私は ミラーです。 (Cách nói đúng)",
+      "× 私は ミラーなんです。 (Cách nói sai)"
+    ]
+  },
+  {
+    "id": "n-desu-ga-te-itadakemasen-ka",
+    "title": "～んですが、Vていただけませんか - Cách yêu cầu, đề nghị ai làm gì giúp mình một cách lịch sự",
+    "description": "mong (ai đó) làm gì giúp được không? Dùng để yêu cầu, nhờ ai đó làm gì giúp mình nhưng có ý nghĩa yêu cầu, nhờ vả lịch sự hơn Vてください rất nhiều",
+    "structure": "～んですが、Vていただけませんか",
+    "examples": [
+      {
+        "japanese": "日本語で 手紙を 書いたんですが、見て いただけませんか。",
+        "romaji": "Nihongo de tegami o kaita n desu ga, mite itadakemasen ka.",
+        "vietnamese": "Tôi đã viết 1 bức thư bằng tiếng Nhật, anh/chị xem giúp tôi được không ạ?"
+      },
+      {
+        "japanese": "コピー機の 使い方が 分からないんですが、教えて いただけませんか。",
+        "romaji": "Kopii-ki no tsukaikata ga wakaranai n desu ga, oshiete itadakemasen ka.",
+        "vietnamese": "Tôi không biết cách sử dụng máy photo, anh/chị chỉ giúp tôi được không ạ?"
+      }
+    ],
+    "notes": [
+      "んですが thường dùng để giới thiệu một chủ đề, giới hạn lại câu chuyện muốn nói",
+      "Theo sau nó thường là một yêu cầu, một lời mời hay xin lời khuyên",
+      "[が] trong trường hợp này được dùng để nối các vế câu 1 cách tự nhiên và biểu thị sự ngập ngừng do dự từ phía người nói chứ không mang nghĩa là \"nhưng\"",
+      "Chú ý: ～ていただけませんか chứ không phải là ～ていただきませんか"
+    ]
+  },
+  {
+    "id": "n-desu-ga-tara-ii-desu-ka",
+    "title": "～んですが、Vたらいいですか - Cách hỏi cách làm, xin lời khuyên, sự chỉ dẫn",
+    "description": "làm thế nào … thì được nhỉ?; nên làm thế nào nhỉ?... Dùng khi muốn được người nghe cho lời khuyên hoặc hướng dẫn phải làm gì",
+    "structure": "～んですが、Vたらいいですか",
+    "examples": [
+      {
+        "japanese": "日本語を 勉強したいんですが、どうしたら いいですか。",
+        "romaji": "Nihongo o benkyou shitai n desu ga, dou shitara ii desu ka.",
+        "vietnamese": "Tôi muốn học tiếng Nhật, vậy thì nên làm thế nào nhỉ?"
+      },
+      {
+        "japanese": "…FPT大学で 勉強したら いいと 思います。",
+        "romaji": "...FPT Daigaku de benkyou shitara ii to omoimasu.",
+        "vietnamese": "Tôi nghĩ anh nên học tiếng Nhật ở Đại học FPT."
+      },
+      {
+        "japanese": "試験の予定を 知りたいんですが、だれに 聞いたら いいですか。",
+        "romaji": "Shiken no yotei o shiritai n desu ga, dare ni kiitara ii desu ka.",
+        "vietnamese": "Tôi muốn biết kế hoạch thi, vậy tôi nên hỏi ai bây giờ?"
+      },
+      {
+        "japanese": "…試験部の Nga さんに 聞いて ください。",
+        "romaji": "...Shiken-bu no Nga-san ni kiite kudasai.",
+        "vietnamese": "Anh/chị hãy hỏi chị Nga phòng khảo thí."
+      }
+    ],
+    "notes": [
+      "んですが thường dùng để giới thiệu một chủ đề, giới hạn lại câu chuyện muốn nói",
+      "Theo sau nó thường là một yêu cầu, một lời mời hay xin lời khuyên",
+      "[が] trong trường hợp này được dùng để nối các vế câu 1 cách tự nhiên và biểu thị sự ngập ngừng do dự từ phía người nói chứ không mang nghĩa là \"nhưng\""
+    ]
+  }
+]
