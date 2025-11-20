@@ -1,1 +1,212 @@
-﻿[]
+﻿[
+  {
+    "id": "potential-form",
+    "title": "Động từ thể khả năng（可能形）",
+    "description": "Thể hiện khả năng, năng lực làm việc gì đó. Những động từ khi được biến đổi sang thể khả năng sẽ mất đi nghĩa gốc của nó, thay vào đó là từ \"có thể\". Tất cả các động từ sau khi chuyển sang thể khả năng đều trở thành động từ nhóm II",
+    "structure": "Nhóm I: [i] → [e] + ます / Nhóm II: bỏ ます thêm られます / Nhóm III: します → できます, きます → こられます",
+    "examples": [
+      {
+        "japanese": "およぎます → およげます",
+        "romaji": "oyogimasu → oyogemasu",
+        "vietnamese": "bơi → có thể bơi"
+      },
+      {
+        "japanese": "よみます → よめます",
+        "romaji": "yomimasu → yomemasu",
+        "vietnamese": "đọc → có thể đọc"
+      },
+      {
+        "japanese": "いきます → いけます",
+        "romaji": "ikimasu → ikemasu",
+        "vietnamese": "đi → có thể đi"
+      },
+      {
+        "japanese": "たべます → たべられます",
+        "romaji": "tabemasu → taberaremasu",
+        "vietnamese": "ăn → có thể ăn"
+      },
+      {
+        "japanese": "します → できます",
+        "romaji": "shimasu → dekimasu",
+        "vietnamese": "làm → có thể làm"
+      },
+      {
+        "japanese": "きます → こられます",
+        "romaji": "kimasu → koraremasu",
+        "vietnamese": "đến → có thể đến"
+      },
+      {
+        "japanese": "私は 日本語を 話します。",
+        "romaji": "Watashi wa Nihongo o hanashimasu.",
+        "vietnamese": "Tôi nói tiếng Nhật"
+      },
+      {
+        "japanese": "私は 日本語が 話せます。",
+        "romaji": "Watashi wa Nihongo ga hanasemasu.",
+        "vietnamese": "Tôi có thể nói tiếng Nhật"
+      },
+      {
+        "japanese": "一人で 病院へ 行きますか。",
+        "romaji": "Hitori de byouin e ikimasu ka.",
+        "vietnamese": "Bạn đi một mình đến bệnh viên à?"
+      },
+      {
+        "japanese": "一人で 病院へ 行けますか。",
+        "romaji": "Hitori de byouin e ikemasu ka.",
+        "vietnamese": "Bạn có thể đi một mình đến bệnh viện không?"
+      },
+      {
+        "japanese": "私は 漢字が 読めます。",
+        "romaji": "Watashi wa kanji ga yomemasu.",
+        "vietnamese": "Tôi có thể đọc được chữ Hán."
+      },
+      {
+        "japanese": "銀行で お金が 換えられます。",
+        "romaji": "Ginkou de okane ga kaeraremasu.",
+        "vietnamese": "Có thể đổi tiền ở ngân hàng."
+      }
+    ],
+    "notes": [
+      "Nhóm I: Là các động từ có vần [i] đứng trước ます. Để chuyển sang động từ thể khả năng chỉ cần chuyển [i] thành [e]",
+      "Nhóm II: Bỏ ます thêm られます",
+      "Nhóm III: します → できます, きます → こられます",
+      "Tất cả các động từ sau khi chuyển sang thể khả năng đều trở thành động từ nhóm II",
+      "Trong câu, trợ từ [を] được chuyển thành [が]. Các trợ từ khác vẫn giữ nguyên",
+      "Cách dùng giống như cách dùng của「V ることができます」học ở bài 18",
+      "a) Dùng để chỉ khả năng của ai đó có thể làm được gì",
+      "b) Dùng để chỉ tính khả thi. Ở đâu đó có thể xảy ra việc gì đó"
+    ]
+  },
+  {
+    "id": "mieru-kikoeru",
+    "title": "見えます và 聞こえます - Động từ đặc biệt của 見る và 聞く",
+    "description": "見えます (nhìn thấy) và 聞こえます (nghe thấy) là 2 động từ đặc biệt của 見る và 聞く. Hai động từ này chỉ khả năng của mắt, tai một cách tự nhiên. Được dùng khi hình ảnh hay âm thanh đập vào mắt, tai một cách tự nhiên, không liên quan đến khả năng của con người",
+    "structure": "～が見えます / ～が聞こえます",
+    "examples": [
+      {
+        "japanese": "２階から 山が 見えます。",
+        "romaji": "Ni-kai kara yama ga miemasu.",
+        "vietnamese": "Từ tầng 2 có thể nhìn thấy núi."
+      },
+      {
+        "japanese": "ここから 波の音が 聞こえます。",
+        "romaji": "Koko kara nami no oto ga kikoemasu.",
+        "vietnamese": "Từ đây có thể nghe thấy tiếng sóng biển."
+      },
+      {
+        "japanese": "忙しいですから、テレビが 見られません。",
+        "romaji": "Isogashii desu kara, terebi ga miraremasen.",
+        "vietnamese": "Vì bận nên tôi không thể xem được tivi."
+      },
+      {
+        "japanese": "ラジオが ありませんから、音楽が 聞けません。",
+        "romaji": "Rajio ga arimasen kara, ongaku ga kikemasen.",
+        "vietnamese": "Vì không có đài nên không thể nghe được nhạc."
+      }
+    ],
+    "notes": [
+      "見えます và 聞こえます chỉ khả năng của mắt, tai một cách tự nhiên",
+      "Được dùng khi hình ảnh hay âm thanh đập vào mắt, tai một cách tự nhiên, không liên quan đến khả năng của con người",
+      "Tân ngữ của chúng đi với trợ từ [が]",
+      "Phân biệt với 見られます và 聞けます: Hai động từ này mới chính là thể khả năng (theo đúng quy tắc và ý nghĩa) của 見る và 聞く. Thể hiện về khả năng, năng lực thực hiện hành động"
+    ]
+  },
+  {
+    "id": "mada-potential-masen",
+    "title": "まだ V khả năng ません - Cách nói chưa thể làm được gì",
+    "description": "Chưa thể (làm gì). Thể hiện 1 việc trong thời điểm nói thì chưa thể làm được nhưng sẽ cố gắng để sau này có thể thực hiện được",
+    "structure": "まだ V khả năng ません",
+    "examples": [
+      {
+        "japanese": "日本の歌が まだ 歌えません。",
+        "romaji": "Nihon no uta ga mada utaemasen.",
+        "vietnamese": "Tôi chưa thể hát được bài hát Nhật"
+      },
+      {
+        "japanese": "日本語が まだ 上手に 話せません。",
+        "romaji": "Nihongo ga mada jouzu ni hanasemasen.",
+        "vietnamese": "Tôi chưa thể nói giỏi tiếng Nhật được."
+      }
+    ],
+    "notes": [
+      "Thể hiện 1 việc trong thời điểm nói thì chưa thể làm được nhưng sẽ cố gắng để sau này có thể thực hiện được"
+    ]
+  },
+  {
+    "id": "shika-masen",
+    "title": "～しか ～ません - Chỉ (với ý khiêm tốn)",
+    "description": "Chỉ. Thể hiện sự giới hạn trong thực hiện hành động. Động từ đi sau しか luôn chia ở dạng phủ định. Loại câu này thuộc hình thức phủ định nhưng luôn mang nghĩa khẳng định (người Nhật dùng với ý khiêm tốn)",
+    "structure": "～しか ～ません",
+    "examples": [
+      {
+        "japanese": "わたしは ひらがなだけ 書けます。",
+        "romaji": "Watashi wa hiragana dake kakemasu.",
+        "vietnamese": "Tôi chỉ có thể viết được chữ Hiragana."
+      },
+      {
+        "japanese": "わたしは ひらがなしか 書けません。",
+        "romaji": "Watashi wa hiragana shika kakemasen.",
+        "vietnamese": "Tôi chỉ có thể viết được chữ Hiragana."
+      },
+      {
+        "japanese": "彼は 英語しか 分かりません。",
+        "romaji": "Kare wa Eigo shika wakarimasen.",
+        "vietnamese": "Anh ấy chỉ biết tiếng Anh thôi."
+      }
+    ],
+    "notes": [
+      "Thể hiện sự giới hạn trong thực hiện hành động",
+      "Động từ đi sau しか luôn chia ở dạng phủ định",
+      "Loại câu này thuộc hình thức phủ định nhưng luôn mang nghĩa khẳng định (người Nhật dùng với ý khiêm tốn)",
+      "Chú ý: trước đây chúng ta đã học [だけ] với ý nghĩa là \"chỉ\". Sự khác nhau cơ bản ở đây là:",
+      "[だけ] đi với câu dạng khẳng định",
+      "[しか] đi với câu dạng phủ định",
+      "[しか] có thể thay thế cho các trợ từ như [が、を]"
+    ]
+  },
+  {
+    "id": "n1-wa-ga-n2-wa",
+    "title": "N１は～が、 N２は～ - Cách nói 2 điều trái ngược nhau với 2 vế khác nhau",
+    "description": "N1 thì ～, nhưng N2 thì ～. Dùng để thể hiện 2 điều trái ngược hoàn toàn, thường là về khả năng với ý nghĩa \"cái này thì làm được, còn cái kia thì không làm được\". Khi đó, trợ từ được dùng ở đây là [は] thay cho [が]; còn trợ từ [が] ở giữa là để nối 2 vế với nghĩa là \"nhưng\"",
+    "structure": "N１は～が、 N２は～",
+    "examples": [
+      {
+        "japanese": "ひらがなは 書けますが、 漢字は 書けません。",
+        "romaji": "Hiragana wa kakemasu ga, kanji wa kakemasen.",
+        "vietnamese": "Chữ Hiragana thì tôi có thể viết nhưng chữ Hán thì không thể"
+      },
+      {
+        "japanese": "テニスは できますが、スキーは できません。",
+        "romaji": "Tenisu wa dekimasu ga, sukii wa dekimasen.",
+        "vietnamese": "Tenis thì tôi chơi được nhưng trượt tuyết thì không"
+      }
+    ],
+    "notes": [
+      "Dùng để thể hiện 2 điều trái ngược hoàn toàn, thường là về khả năng với ý nghĩa \"cái này thì làm được, còn cái kia thì không làm được\"",
+      "Khi đó, trợ từ được dùng ở đây là [は] thay cho [が]",
+      "Trợ từ [が] ở giữa là để nối 2 vế với nghĩa là \"nhưng\""
+    ]
+  },
+  {
+    "id": "n1-ni-n2-ga-dekimasu",
+    "title": "N1 に N2 が できます - Ở N1 có N2 được hoàn thành",
+    "description": "Ở N1 có N2 được hoàn thành. Dùng để thể hiện sự hoàn thành của sự vật. Trợ từ cho danh từ chỉ nơi chốn trong mẫu câu này là [に]",
+    "structure": "N1 に N2 が できます",
+    "examples": [
+      {
+        "japanese": "駅の前に 大きいスーパーが できました。",
+        "romaji": "Eki no mae ni ookii suupaa ga dekimashita.",
+        "vietnamese": "Trước cửa nhà ga, một siêu thị lớn đã được xây xong."
+      },
+      {
+        "japanese": "大阪に 新しい空港が できました。",
+        "romaji": "Oosaka ni atarashii kuukou ga dekimashita.",
+        "vietnamese": "Ở Osaka một sân bay mới đã hoàn thành."
+      }
+    ],
+    "notes": [
+      "Dùng để thể hiện sự hoàn thành của sự vật",
+      "Trợ từ cho danh từ chỉ nơi chốn trong mẫu câu này là [に]"
+    ]
+  }
+]

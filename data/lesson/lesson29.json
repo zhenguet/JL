@@ -1,1 +1,619 @@
-﻿[]
+﻿[
+  {
+    "id": "toBeCrowded",
+    "kanji": "込みます",
+    "hiragana": "こみます",
+    "en": "to be crowded",
+    "vi": "Đông, đông đúc",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm I",
+        "《込みます、込む、込んで》",
+        "●「道／電車が～」 Đường / Xe đông"
+      ]
+    }
+  },
+  {
+    "id": "toBeEmpty",
+    "kanji": "すきます",
+    "hiragana": "すきます",
+    "en": "to be empty",
+    "vi": "Vắng, vắng vẻ",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm I",
+        "《すきます、すく、すいて》",
+        "●「道／電車が～」 Đường / Xe vắng"
+      ]
+    }
+  },
+  {
+    "id": "toBreak",
+    "kanji": "壊れます",
+    "hiragana": "こわれます",
+    "en": "to break",
+    "vi": "Hỏng, bị hỏng, hỏng hóc",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm II",
+        "《壊れます、壊れる、壊れて》",
+        "●「いす・コンピューターが～」 Ghế / Máy tính bị hỏng"
+      ]
+    }
+  },
+  {
+    "id": "toCrack",
+    "kanji": "割れます",
+    "hiragana": "われます",
+    "en": "to crack",
+    "vi": "Vỡ, bị vỡ",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm II",
+        "《割れます、割れる、割れて》",
+        "●「コップ・グラスが～」 Cốc / Kính bị vỡ"
+      ]
+    }
+  },
+  {
+    "id": "toBreakOff",
+    "kanji": "折れます",
+    "hiragana": "おれます",
+    "en": "to break off",
+    "vi": "Gãy, bị gãy",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm II",
+        "《折れます、折れる、折れて》",
+        "●「木／ほねが～」 Cây / Xương bị gãy"
+      ]
+    }
+  },
+  {
+    "id": "toTear",
+    "kanji": "破れます",
+    "hiragana": "やぶれます",
+    "en": "to tear",
+    "vi": "Rách, bị rách",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm II",
+        "《破れます、破れる、破れて》",
+        "●「かみ・ふくが～」 Giấy / Quần áo bị rách"
+      ]
+    }
+  },
+  {
+    "id": "toCut",
+    "kanji": "切れます",
+    "hiragana": "きれます",
+    "en": "to cut",
+    "vi": "Đứt",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm II",
+        "《切れます、切れる、切れて》",
+        "●「ひもが～」 Dây đứt"
+      ]
+    }
+  },
+  {
+    "id": "toGetDirty",
+    "kanji": "汚れます",
+    "hiragana": "よごれます",
+    "en": "to get dirty",
+    "vi": "Bẩn, bị bẩn",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm II",
+        "《汚れます、汚れる、汚れて》",
+        "●「ふく・ぼうしが～」 Quần áo / Mũ bị bẩn"
+      ]
+    }
+  },
+  {
+    "id": "toLock",
+    "kanji": "掛かります",
+    "hiragana": "かかります",
+    "en": "to lock",
+    "vi": "Bị khóa",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm I",
+        "《掛かります、掛かる、掛かって》",
+        "●「かぎが～」 (Cửa) bị khóa"
+      ]
+    }
+  },
+  {
+    "id": "toMakeMistake",
+    "kanji": "間違えます",
+    "hiragana": "まちがえます",
+    "en": "to make mistake",
+    "vi": "Nhầm, nhầm lẫn",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm II",
+        "《間違えます、間違える、間違えて》"
+      ]
+    }
+  },
+  {
+    "id": "toDrop",
+    "kanji": "落とします",
+    "hiragana": "おとします",
+    "en": "to drop",
+    "vi": "Rơi, đánh rơi, làm rơi, làm mất",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm I",
+        "《落とします、落とす、落として》"
+      ]
+    }
+  },
+  {
+    "id": "toPickUp",
+    "kanji": "拾います",
+    "hiragana": "ひろいます",
+    "en": "to pick up",
+    "vi": "Nhặt, nhặt được",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm I",
+        "《拾います、拾う、拾って》"
+      ]
+    }
+  },
+  {
+    "id": "plate",
+    "kanji": "皿",
+    "hiragana": "さら",
+    "en": "plate",
+    "vi": "Đĩa, cái đĩa",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ",
+        "「お」さら"
+      ]
+    }
+  },
+  {
+    "id": "bowl",
+    "kanji": "茶碗",
+    "hiragana": "ちゃわん",
+    "en": "bowl",
+    "vi": "Bát, cái bát",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ",
+        "「お」ちゃわん"
+      ]
+    }
+  },
+  {
+    "id": "cup",
+    "kanji": "コップ",
+    "hiragana": "コップ",
+    "en": "cup",
+    "vi": "Cốc, cái cốc",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "glass",
+    "kanji": "ガラス",
+    "hiragana": "ガラス",
+    "en": "glass",
+    "vi": "Kính",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "bag",
+    "kanji": "袋",
+    "hiragana": "ふくろ",
+    "en": "bag",
+    "vi": "Cái túi, túi đựng",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "gloves",
+    "kanji": "手袋",
+    "hiragana": "てぶくろ",
+    "en": "gloves",
+    "vi": "Găng tay",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "string",
+    "kanji": "紐",
+    "hiragana": "ひも",
+    "en": "string",
+    "vi": "Dây, sợi dây",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "wallet",
+    "kanji": "財布",
+    "hiragana": "さいふ",
+    "en": "wallet",
+    "vi": "Ví",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "pants",
+    "kanji": "ズボン",
+    "hiragana": "ズボン",
+    "en": "pants",
+    "vi": "Quần, quần dài",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "pocket",
+    "kanji": "ポケット",
+    "hiragana": "ポケット",
+    "en": "pocket",
+    "vi": "Túi (Áo, quần)",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "socks",
+    "kanji": "靴下",
+    "hiragana": "くつした",
+    "en": "socks",
+    "vi": "Tất",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "commuterPass",
+    "kanji": "定期",
+    "hiragana": "ていき",
+    "en": "commuter pass",
+    "vi": "Định kì / Vé tháng",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "notebook",
+    "kanji": "手帳",
+    "hiragana": "てちょう",
+    "en": "notebook",
+    "vi": "Sổ tay",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "documents",
+    "kanji": "書類",
+    "hiragana": "しょるい",
+    "en": "documents",
+    "vi": "Giấy tờ",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "lastTrain",
+    "kanji": "今の電車",
+    "hiragana": "いまのでんしゃ",
+    "en": "last train",
+    "vi": "Chuyến tàu vừa rồi",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "lostItem",
+    "kanji": "忘れ物",
+    "hiragana": "わすれもの",
+    "en": "lost item",
+    "vi": "Đồ bỏ quên",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "overheadRack",
+    "kanji": "網棚",
+    "hiragana": "あみだな",
+    "en": "overhead rack",
+    "vi": "Giá để đồ trên tàu xe",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "aboutThisSize",
+    "kanji": "このくらい",
+    "hiragana": "このくらい",
+    "en": "about this size",
+    "vi": "Cỡ như thế này",
+    "type": "other",
+    "explanation": {
+      "content": [
+        "Từ chỉ định"
+      ]
+    }
+  },
+  {
+    "id": "carNumber",
+    "kanji": "～両目",
+    "hiragana": "～りょうめ",
+    "en": "car number",
+    "vi": "Toa xe thứ…",
+    "type": "other",
+    "explanation": {
+      "content": [
+        "Hậu tố"
+      ]
+    }
+  },
+  {
+    "id": "good",
+    "kanji": "よかった",
+    "hiragana": "よかった",
+    "en": "good",
+    "vi": "[Ôi] tốt quá!",
+    "type": "other",
+    "explanation": {
+      "content": [
+        "Thán từ",
+        "「ああ、」よかった"
+      ]
+    }
+  },
+  {
+    "id": "noProblem",
+    "kanji": "かまいません",
+    "hiragana": "かまいません",
+    "en": "no problem",
+    "vi": "Không sao đâu",
+    "type": "other",
+    "explanation": {
+      "content": [
+        "Cụm từ"
+      ]
+    }
+  },
+  {
+    "id": "thatsRight",
+    "kanji": "ほんとうだ",
+    "hiragana": "ほんとうだ",
+    "en": "that's right",
+    "vi": "Đúng vậy",
+    "type": "other",
+    "explanation": {
+      "content": [
+        "Cụm từ"
+      ]
+    }
+  },
+  {
+    "id": "toComeOff",
+    "kanji": "外れます",
+    "hiragana": "はずれます",
+    "en": "to come off",
+    "vi": "Tuột, bị trệch, bị lệch",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm II",
+        "《外れます、外れる、外れて》",
+        "●「ボタンが～」 Khuy tuột"
+      ]
+    }
+  },
+  {
+    "id": "toBeAttached",
+    "kanji": "付きます",
+    "hiragana": "つきます",
+    "en": "to be attached",
+    "vi": "Có, có gắn, được gắn",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm I",
+        "《付きます、付く、付いて》",
+        "●「ポケットが～」 Được gắn túi"
+      ]
+    }
+  },
+  {
+    "id": "toStop",
+    "kanji": "止まります",
+    "hiragana": "とまります",
+    "en": "to stop",
+    "vi": "Dừng, ngưng",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm I",
+        "《止まります、止まる、止まって》",
+        "●「エレベーターが～」 Thang máy dừng"
+      ]
+    }
+  },
+  {
+    "id": "toFall",
+    "kanji": "倒れます",
+    "hiragana": "たおれます",
+    "en": "to fall",
+    "vi": "Ngã, đổ, đổ bệnh",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm II",
+        "《倒れます、倒れる、倒れて》"
+      ]
+    }
+  },
+  {
+    "id": "toPoint",
+    "kanji": "指します",
+    "hiragana": "さします",
+    "en": "to point",
+    "vi": "Chỉ, chỉ định",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm I",
+        "《指します、指す、指して》"
+      ]
+    }
+  },
+  {
+    "id": "aroundHere",
+    "kanji": "この辺",
+    "hiragana": "このへん",
+    "en": "around here",
+    "vi": "Vùng này, quanh đây",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "earthquake",
+    "kanji": "地震",
+    "hiragana": "じしん",
+    "en": "earthquake",
+    "vi": "Động đất",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "wall",
+    "kanji": "壁",
+    "hiragana": "かべ",
+    "en": "wall",
+    "vi": "Tường, bức tường",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "needle",
+    "kanji": "針",
+    "hiragana": "はり",
+    "en": "needle",
+    "vi": "Cái kim",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "pleaseGoAhead",
+    "kanji": "お先にどうぞ",
+    "hiragana": "おさきにどうぞ",
+    "en": "please go ahead",
+    "vi": "Xin mời dùng, đi ~ trước",
+    "type": "other",
+    "explanation": {
+      "content": [
+        "Cụm từ"
+      ]
+    }
+  },
+  {
+    "id": "iDontRemember",
+    "kanji": "覚えていません",
+    "hiragana": "おぼえていません",
+    "en": "I don't remember",
+    "vi": "Tôi không nhớ",
+    "type": "other",
+    "explanation": {
+      "content": [
+        "Cụm từ"
+      ]
+    }
+  }
+]

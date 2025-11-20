@@ -1,1 +1,879 @@
-﻿[]
+﻿[
+  {
+    "id": "toChoose",
+    "kanji": "選びます",
+    "hiragana": "えらびます",
+    "en": "to choose",
+    "vi": "Lựa chọn",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm I",
+        "《選びます、選ぶ、選んで》"
+      ]
+    }
+  },
+  {
+    "id": "toTake",
+    "kanji": "取ります",
+    "hiragana": "とります",
+    "en": "to take",
+    "vi": "Ghi",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm I",
+        "《取ります、取る、取って》",
+        "●「メモを～」 Ghi chép",
+        "● メモする"
+      ]
+    }
+  },
+  {
+    "id": "toAsk",
+    "kanji": "頼みます",
+    "hiragana": "たのみます",
+    "en": "to ask",
+    "vi": "Nhờ vả",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm I",
+        "《頼みます、頼む、頼んで》"
+      ]
+    }
+  },
+  {
+    "id": "toBloom",
+    "kanji": "咲きます",
+    "hiragana": "さきます",
+    "en": "to bloom",
+    "vi": "Nở",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm I",
+        "《咲きます、咲く、咲いて》",
+        "●「花が～」 Hoa nở"
+      ]
+    }
+  },
+  {
+    "id": "serious",
+    "kanji": "真面目",
+    "hiragana": "まじめ",
+    "en": "serious",
+    "vi": "Nghiêm chỉnh, ngoan ngoãn",
+    "type": "adjective",
+    "explanation": {
+      "content": [
+        "Tính từ",
+        "「な」"
+      ]
+    }
+  },
+  {
+    "id": "kind",
+    "kanji": "優しい",
+    "hiragana": "やさしい",
+    "en": "kind",
+    "vi": "Tốt bụng, hiền lành",
+    "type": "adjective",
+    "explanation": {
+      "content": [
+        "Tính từ"
+      ]
+    }
+  },
+  {
+    "id": "good",
+    "kanji": "うまい",
+    "hiragana": "うまい",
+    "en": "good",
+    "vi": "Ngọt, giỏi",
+    "type": "adjective",
+    "explanation": {
+      "content": [
+        "Tính từ"
+      ]
+    }
+  },
+  {
+    "id": "bad",
+    "kanji": "まずい",
+    "hiragana": "まずい",
+    "en": "bad",
+    "vi": "Chán, dở, kém",
+    "type": "adjective",
+    "explanation": {
+      "content": [
+        "Tính từ"
+      ]
+    }
+  },
+  {
+    "id": "hard",
+    "kanji": "硬い",
+    "hiragana": "かたい",
+    "en": "hard",
+    "vi": "Cứng, cứng rắn",
+    "type": "adjective",
+    "explanation": {
+      "content": [
+        "Tính từ"
+      ]
+    }
+  },
+  {
+    "id": "soft",
+    "kanji": "柔らかい",
+    "hiragana": "やわらかい",
+    "en": "soft",
+    "vi": "Mềm, mềm dẻo",
+    "type": "adjective",
+    "explanation": {
+      "content": [
+        "Tính từ"
+      ]
+    }
+  },
+  {
+    "id": "cute",
+    "kanji": "かわいい",
+    "hiragana": "かわいい",
+    "en": "cute",
+    "vi": "Đáng yêu",
+    "type": "adjective",
+    "explanation": {
+      "content": [
+        "Tính từ"
+      ]
+    }
+  },
+  {
+    "id": "strong",
+    "kanji": "強い",
+    "hiragana": "つよい",
+    "en": "strong",
+    "vi": "Mạnh",
+    "type": "adjective",
+    "explanation": {
+      "content": [
+        "Tính từ"
+      ]
+    }
+  },
+  {
+    "id": "weak",
+    "kanji": "弱い",
+    "hiragana": "よわい",
+    "en": "weak",
+    "vi": "Yếu",
+    "type": "adjective",
+    "explanation": {
+      "content": [
+        "Tính từ"
+      ]
+    }
+  },
+  {
+    "id": "he",
+    "kanji": "彼",
+    "hiragana": "かれ",
+    "en": "he",
+    "vi": "Anh ấy",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "she",
+    "kanji": "彼女",
+    "hiragana": "かのじょ",
+    "en": "she",
+    "vi": "Cô ấy",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "taste",
+    "kanji": "味",
+    "hiragana": "あじ",
+    "en": "taste",
+    "vi": "Vị",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "smell",
+    "kanji": "におい",
+    "hiragana": "におい",
+    "en": "smell",
+    "vi": "Mùi",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "color",
+    "kanji": "色",
+    "hiragana": "いろ",
+    "en": "color",
+    "vi": "Màu sắc",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "shape",
+    "kanji": "かたち",
+    "hiragana": "かたち",
+    "en": "shape",
+    "vi": "Hình thức",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "design",
+    "kanji": "デザイン",
+    "hiragana": "デザイン",
+    "en": "design",
+    "vi": "Thiết kế",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "experience",
+    "kanji": "経験",
+    "hiragana": "けいけん",
+    "en": "experience",
+    "vi": "Kinh nghiệm",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "goods",
+    "kanji": "品物",
+    "hiragana": "しなもの",
+    "en": "goods",
+    "vi": "Hàng hóa",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "price",
+    "kanji": "値段",
+    "hiragana": "ねだん",
+    "en": "price",
+    "vi": "Giá cả",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "memo",
+    "kanji": "メモ",
+    "hiragana": "メモ",
+    "en": "memo",
+    "vi": "Ghi nhớ, note",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "drama",
+    "kanji": "ドラマ",
+    "hiragana": "ドラマ",
+    "en": "drama",
+    "vi": "Phim truyền hình",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "manual",
+    "kanji": "マニュアル",
+    "hiragana": "マニュアル",
+    "en": "manual",
+    "vi": "Sách chỉ dẫn",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "program",
+    "kanji": "番組",
+    "hiragana": "ばんぐみ",
+    "en": "program",
+    "vi": "Chương trình",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "bento",
+    "kanji": "お弁当",
+    "hiragana": "おべんとう",
+    "en": "bento",
+    "vi": "Cơm hộp",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ",
+        "「お」べんとう"
+      ]
+    }
+  },
+  {
+    "id": "coffeeShop",
+    "kanji": "喫茶店",
+    "hiragana": "きっさてん",
+    "en": "coffee shop",
+    "vi": "Quán cà phê",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "menu",
+    "kanji": "メニュー",
+    "hiragana": "メニュー",
+    "en": "menu",
+    "vi": "Thực đơn",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "day",
+    "kanji": "日",
+    "hiragana": "ひ",
+    "en": "day",
+    "vi": "Ngày",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "wind",
+    "kanji": "風",
+    "hiragana": "かぜ",
+    "en": "wind",
+    "vi": "Gió",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "news",
+    "kanji": "ニュース",
+    "hiragana": "ニュース",
+    "en": "news",
+    "vi": "Tin tức",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "moreover",
+    "kanji": "それに",
+    "hiragana": "それに",
+    "en": "moreover",
+    "vi": "Hơn nữa",
+    "type": "other",
+    "explanation": {
+      "content": [
+        "Từ nối"
+      ]
+    }
+  },
+  {
+    "id": "so",
+    "kanji": "それで",
+    "hiragana": "それで",
+    "en": "so",
+    "vi": "Vì thế, và",
+    "type": "other",
+    "explanation": {
+      "content": [
+        "Từ nối"
+      ]
+    }
+  },
+  {
+    "id": "finally",
+    "kanji": "やっと",
+    "hiragana": "やっと",
+    "en": "finally",
+    "vi": "Cuối cùng thì … (sau rất nhiều khó khăn)",
+    "type": "adverb",
+    "explanation": {
+      "content": [
+        "Phó từ"
+      ]
+    }
+  },
+  {
+    "id": "quite",
+    "kanji": "ずいぶん",
+    "hiragana": "ずいぶん",
+    "en": "quite",
+    "vi": "Khá là… (Dùng khi ngạc nhiên)",
+    "type": "adverb",
+    "explanation": {
+      "content": [
+        "Phó từ"
+      ]
+    }
+  },
+  {
+    "id": "toSellWell",
+    "kanji": "売れます",
+    "hiragana": "うれます",
+    "en": "to sell well",
+    "vi": "Bán chạy, bán tốt",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm II",
+        "《売れます、売れる、売れて》",
+        "●「パン・でんわが～」 Bánh mỳ bán chạy"
+      ]
+    }
+  },
+  {
+    "id": "toDance",
+    "kanji": "踊ります",
+    "hiragana": "おどります",
+    "en": "to dance",
+    "vi": "Múa, nhảy múa",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm I",
+        "《踊ります、踊る、踊って》"
+      ]
+    }
+  },
+  {
+    "id": "toBite",
+    "kanji": "噛みます",
+    "hiragana": "かみます",
+    "en": "to bite",
+    "vi": "Cắn, nhai",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm I",
+        "《噛みます、噛む、噛んで》"
+      ]
+    }
+  },
+  {
+    "id": "toBeDifferent",
+    "kanji": "違います",
+    "hiragana": "ちがいます",
+    "en": "to be different",
+    "vi": "Khác, không đúng",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm I",
+        "《違います、違う、違って》"
+      ]
+    }
+  },
+  {
+    "id": "toCommute",
+    "kanji": "通います",
+    "hiragana": "かよいます",
+    "en": "to commute",
+    "vi": "Đi lại, đi (đi học, đi làm)",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm I",
+        "《通います、通う、通って》",
+        "●「大学・会社に～」 Đi học đại học / Đi làm"
+      ]
+    }
+  },
+  {
+    "id": "toChat",
+    "kanji": "おしゃべり",
+    "hiragana": "おしゃべり",
+    "en": "to chat",
+    "vi": "Nói chuyện, tán gẫu",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm III",
+        "《します、する、して》"
+      ]
+    }
+  },
+  {
+    "id": "enthusiastic",
+    "kanji": "熱心",
+    "hiragana": "ねっしん",
+    "en": "enthusiastic",
+    "vi": "Nhiệt tình",
+    "type": "adjective",
+    "explanation": {
+      "content": [
+        "Tính từ",
+        "「な」"
+      ]
+    }
+  },
+  {
+    "id": "great",
+    "kanji": "偉い",
+    "hiragana": "えらい",
+    "en": "great",
+    "vi": "Vĩ đại",
+    "type": "adjective",
+    "explanation": {
+      "content": [
+        "Tính từ"
+      ]
+    }
+  },
+  {
+    "id": "justRight",
+    "kanji": "ちょうどいい",
+    "hiragana": "ちょうどいい",
+    "en": "just right",
+    "vi": "Vừa vặn, vừa đủ, vừa khít, vừa xinh",
+    "type": "adjective",
+    "explanation": {
+      "content": [
+        "Tính từ"
+      ]
+    }
+  },
+  {
+    "id": "habit",
+    "kanji": "習慣",
+    "hiragana": "しゅうかん",
+    "en": "habit",
+    "vi": "Thói quen, phong tục, tập quán",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "power",
+    "kanji": "力",
+    "hiragana": "ちから",
+    "en": "power",
+    "vi": "Lực, sức mạnh",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "salary",
+    "kanji": "給料",
+    "hiragana": "きゅうりょう",
+    "en": "salary",
+    "vi": "Lương",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "gum",
+    "kanji": "ガム",
+    "hiragana": "ガム",
+    "en": "gum",
+    "vi": "Kẹo cao su",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "bonus",
+    "kanji": "ボーナス",
+    "hiragana": "ボーナス",
+    "en": "bonus",
+    "vi": "Tiền thưởng",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "novel",
+    "kanji": "小説",
+    "hiragana": "しょうせつ",
+    "en": "novel",
+    "vi": "Tiểu thuyết",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "novelist",
+    "kanji": "小説家",
+    "hiragana": "しょうせつか",
+    "en": "novelist",
+    "vi": "Nhà viết tiểu thuyết",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "singer",
+    "kanji": "歌手",
+    "hiragana": "かしゅ",
+    "en": "singer",
+    "vi": "Ca sỹ",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "son",
+    "kanji": "息子",
+    "hiragana": "むすこ",
+    "en": "son",
+    "vi": "Con trai (của mình)",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "sonPolite",
+    "kanji": "息子さん",
+    "hiragana": "むすこさん",
+    "en": "son (polite)",
+    "vi": "Con trai (người khác)",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "daughter",
+    "kanji": "娘",
+    "hiragana": "むすめ",
+    "en": "daughter",
+    "vi": "Con gái (của mình)",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "daughterPolite",
+    "kanji": "娘さん",
+    "hiragana": "むすめさん",
+    "en": "daughter (polite)",
+    "vi": "Con gái (người khác)",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "forAWhile",
+    "kanji": "しばらく",
+    "hiragana": "しばらく",
+    "en": "for a while",
+    "vi": "Lâu lâu, một lúc",
+    "type": "adverb",
+    "explanation": {
+      "content": [
+        "Phó từ"
+      ]
+    }
+  },
+  {
+    "id": "usually",
+    "kanji": "たいてい",
+    "hiragana": "たいてい",
+    "en": "usually",
+    "vi": "Thường thường",
+    "type": "adverb",
+    "explanation": {
+      "content": [
+        "Phó từ"
+      ]
+    }
+  },
+  {
+    "id": "iHaveAFavor",
+    "kanji": "ちょっとお願いがあるんですが",
+    "hiragana": "ちょっとおねがいがあるんですが",
+    "en": "I have a favor",
+    "vi": "Tôi có việc muốn nhờ anh một chút",
+    "type": "other",
+    "explanation": {
+      "content": [
+        "Cụm từ",
+        "「ちょっと」お願いがあるんですが"
+      ]
+    }
+  },
+  {
+    "id": "homestay",
+    "kanji": "ホームステイ",
+    "hiragana": "ホームステイ",
+    "en": "homestay",
+    "vi": "Ở trọ cùng nhà chủ",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "notice",
+    "kanji": "お知らせ",
+    "hiragana": "おしらせ",
+    "en": "notice",
+    "vi": "Thông báo",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "date",
+    "kanji": "日にち",
+    "hiragana": "ひにち",
+    "en": "date",
+    "vi": "Ngày tháng",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "gymnasium",
+    "kanji": "体育館",
+    "hiragana": "たいいくかん",
+    "en": "gymnasium",
+    "vi": "Phòng tập thể dục",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "free",
+    "kanji": "無料",
+    "hiragana": "むりょう",
+    "en": "free",
+    "vi": "Miễn phí",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  }
+]
