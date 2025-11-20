@@ -8,6 +8,9 @@ export default function HomePage() {
   return (
     <div className="home-page">
       <div className="home-container">
+        <div className="logo-container">
+          <img src="/JL/logo.png" alt="JL Logo" className="app-logo" />
+        </div>
         <h1>Minna no Nihongo</h1>
         <p className="subtitle">Chọn bài học để bắt đầu</p>
         
