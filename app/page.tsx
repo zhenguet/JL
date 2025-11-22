@@ -1,4 +1,5 @@
 import Link from 'next/link'
+import { AlphabetButton } from '@/components'
 import './home.css'
 
 export default function HomePage() {
@@ -44,6 +45,7 @@ export default function HomePage() {
           </div>
         </div>
       </div>
+      <AlphabetButton />
     </div>
   )
 }
