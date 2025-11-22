@@ -1,1 +1,234 @@
-﻿[]
+﻿[
+  {
+    "id": "kenjougo-o-v-shimasu",
+    "title": "おVします - Khiêm nhường ngữ của động từ",
+    "description": "Khiêm nhường ngữ là cách nói khiêm tốn, nhún nhường dùng cho những hành động, hành vi của người nói A hay những người thuộc quan hệ trong của A đối với người nghe B hay người được nói tới C. Chính vì vậy, cách nói này tuyệt đối không được sử dụng đối với những hành vi của người thuộc quan hệ ngoài, với người B hay C",
+    "structure": "おVます します",
+    "examples": [
+      {
+        "japanese": "持ちます → お持ちします",
+        "romaji": "mochimasu → o mochi shimasu",
+        "vietnamese": "cầm → cầm (khiêm nhường)"
+      },
+      {
+        "japanese": "調べます → お調べします",
+        "romaji": "shirabemasu → o shirabe shimasu",
+        "vietnamese": "kiểm tra → kiểm tra (khiêm nhường)"
+      },
+      {
+        "japanese": "案内します → ご案内します",
+        "romaji": "annai shimasu → go annai shimasu",
+        "vietnamese": "hướng dẫn → hướng dẫn (khiêm nhường)"
+      },
+      {
+        "japanese": "邪魔します → お邪魔します",
+        "romaji": "jama shimasu → o jama shimasu",
+        "vietnamese": "làm phiền → làm phiền (khiêm nhường)"
+      },
+      {
+        "japanese": "江戸東京博物館へ ご案内します。",
+        "romaji": "Edo Toukyou hakubutsukan e go annai shimasu.",
+        "vietnamese": "Tôi xin hướng dẫn tới Nhà bảo tàng Edo Tokyo."
+      },
+      {
+        "japanese": "今日の 予定を ご説明します。",
+        "romaji": "Kyou no yotei o go setsumei shimasu.",
+        "vietnamese": "Tôi xin giải thích về dự định của ngày hôm nay."
+      },
+      {
+        "japanese": "私は 毎日 新聞を 読みます。",
+        "romaji": "Watashi wa mainichi shinbun o yomimasu.",
+        "vietnamese": "Hàng ngày tôi đọc báo. (không dùng お読みします)"
+      },
+      {
+        "japanese": "父を 駅まで 送りました。",
+        "romaji": "Chichi o eki made okurimashita.",
+        "vietnamese": "Tôi đã đưa bố đến ga. (không dùng お送りしました)"
+      }
+    ],
+    "notes": [
+      "Ý nghĩa: thể hiện sự nhún nhường, hạ mình của người nói",
+      "Khiêm nhường ngữ là cách nói khiêm tốn, nhún nhường dùng cho những hành động, hành vi của người nói A hay những người thuộc quan hệ trong của A đối với người nghe B hay người được nói tới C",
+      "Cách nói này tuyệt đối không được sử dụng đối với những hành vi của người thuộc quan hệ ngoài, với người B hay C",
+      "Cách cấu tạo: Vます → おVします",
+      "Nhóm I: 持ちます → お持ちします",
+      "Nhóm II: 調べます → お調べします",
+      "Nhóm III: 案内します → ご案内します, 邪魔します → お邪魔します",
+      "Mẫu câu này được sử dụng khi người nói thực hiện hành động gì đó cho người nghe hay người được nhắc tới nên sẽ không dùng với trường hợp mà hành động của người nói không liên quan đến người nghe, người được nhắc tới",
+      "Không dùng trong trường hợp người được nhắc tới trong câu chuyện là người thuộc nhóm mình kể cả người bề trên",
+      "Không sử dụng những động từ có 1 âm tiết ví dụ như: 来ます、見ます、います",
+      "来ます → ×おきします ○まいります",
+      "見ます → ×おみします ○はいけんします",
+      "います → ×おいします ○おります"
+    ]
+  },
+  {
+    "id": "kenjougo-go-n-shimasu",
+    "title": "ごNします - Khiêm nhường ngữ của danh động từ",
+    "description": "Cách danh động từ (động từ nhóm 3 có dạng「Nします」 thường là những từ gốc Hán nên sẽ ghép 「ご」 và tạo thành 「ごNします」. (nhưng không áp dụng với các động từ như 「勉強します、実習します、結婚します」)",
+    "structure": "ごNします",
+    "examples": [
+      {
+        "japanese": "案内します → ご案内します",
+        "romaji": "annai shimasu → go annai shimasu",
+        "vietnamese": "hướng dẫn → hướng dẫn (khiêm nhường)"
+      },
+      {
+        "japanese": "説明します → ご説明します",
+        "romaji": "setsumei shimasu → go setsumei shimasu",
+        "vietnamese": "giải thích → giải thích (khiêm nhường)"
+      },
+      {
+        "japanese": "電話します → お電話します",
+        "romaji": "denwa shimasu → o denwa shimasu",
+        "vietnamese": "gọi điện → gọi điện (khiêm nhường)"
+      },
+      {
+        "japanese": "約束します → お約束します",
+        "romaji": "yakusoku shimasu → o yakusoku shimasu",
+        "vietnamese": "hứa → hứa (khiêm nhường)"
+      },
+      {
+        "japanese": "江戸東京博物館へ ご案内します。",
+        "romaji": "Edo Toukyou hakubutsukan e go annai shimasu.",
+        "vietnamese": "Tôi xin hướng dẫn tới Nhà bảo tàng Edo Tokyo."
+      },
+      {
+        "japanese": "今日の 予定を ご説明します。",
+        "romaji": "Kyou no yotei o go setsumei shimasu.",
+        "vietnamese": "Tôi xin giải thích về dự định của ngày hôm nay."
+      }
+    ],
+    "notes": [
+      "Cách danh động từ (động từ nhóm 3 có dạng「Nします」 thường là những từ gốc Hán nên sẽ ghép 「ご」 và tạo thành 「ごNします」",
+      "Không áp dụng với các động từ như 「勉強します、実習します、結婚します」",
+      "Một số trường hợp đặc biệt:",
+      "電話します → お電話します (không phải ご電話します)",
+      "約束します → お約束します (không phải ご約束します)"
+    ]
+  },
+  {
+    "id": "kenjougo-special-verbs",
+    "title": "Động từ khiêm nhường ngữ đặc biệt",
+    "description": "Các động từ có dạng khiêm nhường ngữ đặc biệt, không tuân theo quy tắc thông thường",
+    "structure": "Khiêm nhường ngữ đặc biệt",
+    "examples": [
+      {
+        "japanese": "いきます → まいります",
+        "romaji": "ikimasu → mairimasu",
+        "vietnamese": "đi → đi (khiêm nhường)"
+      },
+      {
+        "japanese": "きます → まいります",
+        "romaji": "kimasu → mairimasu",
+        "vietnamese": "đến → đến (khiêm nhường)"
+      },
+      {
+        "japanese": "います → おります",
+        "romaji": "imasu → orimasu",
+        "vietnamese": "ở → ở (khiêm nhường)"
+      },
+      {
+        "japanese": "たべます → いただきます",
+        "romaji": "tabemasu → itadakimasu",
+        "vietnamese": "ăn → ăn (khiêm nhường)"
+      },
+      {
+        "japanese": "のみます → いただきます",
+        "romaji": "nomimasu → itadakimasu",
+        "vietnamese": "uống → uống (khiêm nhường)"
+      },
+      {
+        "japanese": "します → いたします",
+        "romaji": "shimasu → itashimasu",
+        "vietnamese": "làm → làm (khiêm nhường)"
+      },
+      {
+        "japanese": "いいます → もうします",
+        "romaji": "iimasu → moushimasu",
+        "vietnamese": "nói → nói (khiêm nhường)"
+      },
+      {
+        "japanese": "しっています → ぞんじております",
+        "romaji": "shitte imasu → zonjite orimasu",
+        "vietnamese": "biết → biết (khiêm nhường)"
+      },
+      {
+        "japanese": "ききます → うかがいます",
+        "romaji": "kikimasu → ukagaimasu",
+        "vietnamese": "nghe → nghe (khiêm nhường)"
+      },
+      {
+        "japanese": "ほうもんします → うかがいます",
+        "romaji": "houmon shimasu → ukagaimasu",
+        "vietnamese": "thăm → thăm (khiêm nhường)"
+      },
+      {
+        "japanese": "あいます → おめにかかります",
+        "romaji": "aimasu → omeni kakari masu",
+        "vietnamese": "gặp → gặp (khiêm nhường)"
+      },
+      {
+        "japanese": "みせます → おめにかけます",
+        "romaji": "misemasu → omeni kakemasu",
+        "vietnamese": "cho xem → cho xem (khiêm nhường)"
+      },
+      {
+        "japanese": "もらいます → いただきます",
+        "romaji": "moraimasu → itadakimasu",
+        "vietnamese": "nhận → nhận (khiêm nhường)"
+      },
+      {
+        "japanese": "（Vて）もらいます → （Vて）いただきます",
+        "romaji": "(V te) moraimasu → (V te) itadakimasu",
+        "vietnamese": "được làm → được làm (khiêm nhường)"
+      }
+    ],
+    "notes": [
+      "Các động từ có dạng khiêm nhường ngữ đặc biệt, không tuân theo quy tắc thông thường",
+      "Xem BẢNG KÍNH NGỮ ĐẶC BIỆT của động từ để biết chi tiết",
+      "Một số ví dụ: いきます → まいります, たべます → いただきます, いいます → もうします"
+    ]
+  },
+  {
+    "id": "teineigo-gozaimasu",
+    "title": "Thể lịch sự（丁寧語）",
+    "description": "Sử dụng khi người nói muốn bày tỏ sự kính trọng với người nghe. Thể hiện sự lịch sự, lễ phép nên phạm vi sử dụng khá rộng, có thể sử dụng với hầu hết các đối tượng",
+    "structure": "ございます / ～でございます / よろしいでしょうか",
+    "examples": [
+      {
+        "japanese": "電話は 階段の 横に ございます。",
+        "romaji": "Denwa wa kaidan no yoko ni gozaimasu.",
+        "vietnamese": "Điện thoại có ở bên cạnh cầu thang ạ."
+      },
+      {
+        "japanese": "はい、IMCで ございます。",
+        "romaji": "Hai, IMC de gozaimasu.",
+        "vietnamese": "Vâng, IMC xin nghe."
+      },
+      {
+        "japanese": "…パワー電気の シュッミトですが、ミラーさん、お願いします。",
+        "romaji": "... Paawaa denki no Shumitto desu ga, Miraa-san, onegai shimasu.",
+        "vietnamese": "Tôi là Summit người của công ty điện lực Power, tôi xin gặp anh Miler."
+      },
+      {
+        "japanese": "お飲み物は 何が よろしいでしょうか。",
+        "romaji": "O nomimono wa nani ga yoroshii deshou ka.",
+        "vietnamese": "Ngài sẽ dùng đồ uống gì ạ?"
+      },
+      {
+        "japanese": "コーヒーを お願いします。",
+        "romaji": "Koohii o onegai shimasu.",
+        "vietnamese": "Cho tôi cà phê."
+      }
+    ],
+    "notes": [
+      "Sử dụng khi người nói muốn bày tỏ sự kính trọng với người nghe",
+      "Thể hiện sự lịch sự, lễ phép nên phạm vi sử dụng khá rộng, có thể sử dụng với hầu hết các đối tượng",
+      "Các thể lịch sự hay dùng:",
+      "- ございます: thay cho あります",
+      "- ～でございます: thay cho ～です",
+      "- よろしいでしょうか: thay cho いいですか"
+    ]
+  }
+]

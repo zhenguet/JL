@@ -1,1 +1,980 @@
-﻿[]
+﻿[
+  {
+    "id": "toSave",
+    "kanji": "貯めます",
+    "hiragana": "ためます",
+    "en": "to save",
+    "vi": "Dành dụm, tích trữ",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm II",
+        "《貯めます、貯める、貯めて》"
+      ]
+    }
+  },
+  {
+    "id": "toSharpen",
+    "kanji": "削ります",
+    "hiragana": "けずります",
+    "en": "to sharpen",
+    "vi": "Gọt (bút chì)",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm I",
+        "《削ります、削る、削って》"
+      ]
+    }
+  },
+  {
+    "id": "toRemove",
+    "kanji": "外します",
+    "hiragana": "はずします",
+    "en": "to remove",
+    "vi": "Tháo ra, gỡ bỏ ra",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm I",
+        "《外します、外す、外して》"
+      ]
+    }
+  },
+  {
+    "id": "toMakeHole",
+    "kanji": "空けます",
+    "hiragana": "あけます",
+    "en": "to make hole",
+    "vi": "Khoan, đục (lỗ)",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm II",
+        "《空けます、空ける、空けて》",
+        "●「あなを～」 「穴を～」"
+      ]
+    }
+  },
+  {
+    "id": "toMix",
+    "kanji": "混ぜます",
+    "hiragana": "まぜます",
+    "en": "to mix",
+    "vi": "Trộn lẫn",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm II",
+        "《混ぜます、混ぜる、混ぜて》"
+      ]
+    }
+  },
+  {
+    "id": "toBend",
+    "kanji": "曲げます",
+    "hiragana": "まげます",
+    "en": "to bend",
+    "vi": "Bẻ, uốn cong",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm II",
+        "《曲げます、曲げる、曲げて》"
+      ]
+    }
+  },
+  {
+    "id": "toParticipate",
+    "kanji": "参加",
+    "hiragana": "さんか",
+    "en": "to participate",
+    "vi": "Tham gia",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm III",
+        "《参加します、する、して》"
+      ]
+    }
+  },
+  {
+    "id": "toApply",
+    "kanji": "申込みます",
+    "hiragana": "もうしこみます",
+    "en": "to apply",
+    "vi": "Đăng ký",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm I",
+        "《申込みます、申し込む、申込んで》"
+      ]
+    }
+  },
+  {
+    "id": "necessary",
+    "kanji": "必要",
+    "hiragana": "ひつよう",
+    "en": "necessary",
+    "vi": "Cần thiết",
+    "type": "adjective",
+    "explanation": {
+      "content": [
+        "Tính từ",
+        "［な］"
+      ]
+    }
+  },
+  {
+    "id": "detailed",
+    "kanji": "詳しい",
+    "hiragana": "くわしい",
+    "en": "detailed",
+    "vi": "Tỉ mỉ, cặn kẽ, chi tiết",
+    "type": "adjective",
+    "explanation": {
+      "content": [
+        "Tính từ",
+        "［い］"
+      ]
+    }
+  },
+  {
+    "id": "board",
+    "kanji": "板",
+    "hiragana": "いた",
+    "en": "board",
+    "vi": "Tấm ván",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "hole",
+    "kanji": "穴",
+    "hiragana": "あな",
+    "en": "hole",
+    "vi": "Lỗ, lỗ thủng",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "mixer",
+    "kanji": "ミキサー",
+    "hiragana": "ミキサー",
+    "en": "mixer",
+    "vi": "Máy trộn, máy xay",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "maintenance",
+    "kanji": "整備",
+    "hiragana": "せいび",
+    "en": "maintenance",
+    "vi": "Bảo trì",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "cost",
+    "kanji": "コスト",
+    "hiragana": "コスト",
+    "en": "cost",
+    "vi": "Chi phí",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "habit",
+    "kanji": "習慣",
+    "hiragana": "しゅうかん",
+    "en": "habit",
+    "vi": "Tập quán, thói quen",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "health",
+    "kanji": "健康",
+    "hiragana": "けんこう",
+    "en": "health",
+    "vi": "Sức khỏe",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "air",
+    "kanji": "空気",
+    "hiragana": "くうき",
+    "en": "air",
+    "vi": "Không khí",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "employee",
+    "kanji": "社員",
+    "hiragana": "しゃいん",
+    "en": "employee",
+    "vi": "Nhân viên công ty",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "personInCharge",
+    "kanji": "係り",
+    "hiragana": "かかり",
+    "en": "person in charge",
+    "vi": "Nhân viên phụ trách",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "partTimeJob",
+    "kanji": "アルバイト",
+    "hiragana": "アルバイト",
+    "en": "part-time job",
+    "vi": "Việc làm thêm (Tính theo giờ)",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "maple",
+    "kanji": "紅葉",
+    "hiragana": "もみじ",
+    "en": "maple",
+    "vi": "Lá đỏ, cây lá đỏ",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "lake",
+    "kanji": "湖",
+    "hiragana": "みずうみ",
+    "en": "lake",
+    "vi": "Hồ",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "everyMonth",
+    "kanji": "毎月",
+    "hiragana": "まいつき",
+    "en": "every month",
+    "vi": "Hàng tháng",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "everyYear",
+    "kanji": "毎年",
+    "hiragana": "まいとし",
+    "en": "every year",
+    "vi": "Hàng năm",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "season",
+    "kanji": "季節",
+    "hiragana": "きせつ",
+    "en": "season",
+    "vi": "Mùa",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "littleByLittle",
+    "kanji": "少しずつ",
+    "hiragana": "すこしずつ",
+    "en": "little by little",
+    "vi": "Từng chút một",
+    "type": "adverb",
+    "explanation": {
+      "content": [
+        "Phó từ"
+      ]
+    }
+  },
+  {
+    "id": "toWrap",
+    "kanji": "包みます",
+    "hiragana": "つつみます",
+    "en": "to wrap",
+    "vi": "Gói",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm I",
+        "《包みます、包む、包んで》"
+      ]
+    }
+  },
+  {
+    "id": "toBoil",
+    "kanji": "沸かします",
+    "hiragana": "わかします",
+    "en": "to boil",
+    "vi": "Đun (nước)",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm I",
+        "《沸かします、沸かす、沸かして》"
+      ]
+    }
+  },
+  {
+    "id": "toCalculate",
+    "kanji": "計算",
+    "hiragana": "けいさん",
+    "en": "to calculate",
+    "vi": "Tính toán",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm III",
+        "《計算します、～する、～して》"
+      ]
+    }
+  },
+  {
+    "id": "thick",
+    "kanji": "厚い",
+    "hiragana": "あつい",
+    "en": "thick",
+    "vi": "Dày",
+    "type": "adjective",
+    "explanation": {
+      "content": [
+        "Tính từ",
+        "［い］"
+      ]
+    }
+  },
+  {
+    "id": "thin",
+    "kanji": "薄い",
+    "hiragana": "うすい",
+    "en": "thin",
+    "vi": "Mỏng",
+    "type": "adjective",
+    "explanation": {
+      "content": [
+        "Tính từ",
+        "［い］"
+      ]
+    }
+  },
+  {
+    "id": "lawyer",
+    "kanji": "弁護士",
+    "hiragana": "べんごし",
+    "en": "lawyer",
+    "vi": "Luật sư",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "musician",
+    "kanji": "音楽家",
+    "hiragana": "おんがくか",
+    "en": "musician",
+    "vi": "Nhạc sĩ",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "education",
+    "kanji": "教育",
+    "hiragana": "きょういく",
+    "en": "education",
+    "vi": "Đào tạo, giáo dục",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "history",
+    "kanji": "歴史",
+    "hiragana": "れきし",
+    "en": "history",
+    "vi": "Lịch sử",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "culture",
+    "kanji": "文化",
+    "hiragana": "ぶんか",
+    "en": "culture",
+    "vi": "Văn hóa",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "society",
+    "kanji": "社会",
+    "hiragana": "しゃかい",
+    "en": "society",
+    "vi": "Xã hội",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "law",
+    "kanji": "法律",
+    "hiragana": "ほうりつ",
+    "en": "law",
+    "vi": "Pháp luật",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "war",
+    "kanji": "戦争",
+    "hiragana": "せんそう",
+    "en": "war",
+    "vi": "Chiến tranh",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "peace",
+    "kanji": "平和",
+    "hiragana": "へいわ",
+    "en": "peace",
+    "vi": "Hòa bình",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "purpose",
+    "kanji": "目的",
+    "hiragana": "もくてき",
+    "en": "purpose",
+    "vi": "Mục đích",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "safety",
+    "kanji": "安全",
+    "hiragana": "あんぜん",
+    "en": "safety",
+    "vi": "An toàn",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "thesis",
+    "kanji": "論文",
+    "hiragana": "ろんぶん",
+    "en": "thesis",
+    "vi": "Luận văn, bài luận",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "kettle",
+    "kanji": "やかん",
+    "hiragana": "やかん",
+    "en": "kettle",
+    "vi": "Cái ấm",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "bottleOpener",
+    "kanji": "栓抜",
+    "hiragana": "せんぬき",
+    "en": "bottle opener",
+    "vi": "Cái mở nút chai",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "canOpener",
+    "kanji": "缶切り",
+    "hiragana": "かんきり",
+    "en": "can opener",
+    "vi": "Cái mở đồ hộp",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "cannedFood",
+    "kanji": "缶詰",
+    "hiragana": "かんづめ",
+    "en": "canned food",
+    "vi": "Đồ hộp",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "wrappingCloth",
+    "kanji": "ふろしき",
+    "hiragana": "ふろしき",
+    "en": "wrapping cloth",
+    "vi": "Vải bọc, vải gói",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "abacus",
+    "kanji": "そろばん",
+    "hiragana": "そろばん",
+    "en": "abacus",
+    "vi": "Bàn tính",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "thermometer",
+    "kanji": "体温計",
+    "hiragana": "たいおんけい",
+    "en": "thermometer",
+    "vi": "Cặp nhiệt độ",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "material",
+    "kanji": "材料",
+    "hiragana": "ざいりょう",
+    "en": "material",
+    "vi": "Nguyên liệu",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "stone",
+    "kanji": "石",
+    "hiragana": "いし",
+    "en": "stone",
+    "vi": "Hòn đá",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "pyramid",
+    "kanji": "ピラミッド",
+    "hiragana": "ピラミッド",
+    "en": "pyramid",
+    "vi": "Kim tự tháp",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "data",
+    "kanji": "データ",
+    "hiragana": "データ",
+    "en": "data",
+    "vi": "Dữ liệu",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "file",
+    "kanji": "ファイル",
+    "hiragana": "ファイル",
+    "en": "file",
+    "vi": "File",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "why",
+    "kanji": "なぜ",
+    "hiragana": "なぜ",
+    "en": "why",
+    "vi": "Tại sao",
+    "type": "adverb",
+    "explanation": {
+      "content": [
+        "Phó từ"
+      ]
+    }
+  },
+  {
+    "id": "un",
+    "kanji": "国連",
+    "hiragana": "こくれん",
+    "en": "UN",
+    "vi": "Liên Hợp Quốc",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "forElise",
+    "kanji": "エリーゼのために",
+    "hiragana": "エリーゼのために",
+    "en": "for Elise",
+    "vi": "Dành cho Elize",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "beethoven",
+    "kanji": "ベートーベン",
+    "hiragana": "ベートーベン",
+    "en": "Beethoven",
+    "vi": "Beethoven",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "poland",
+    "kanji": "ポーランド",
+    "hiragana": "ポーランド",
+    "en": "Poland",
+    "vi": "Phần Lan",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "loan",
+    "kanji": "ローン",
+    "hiragana": "ローン",
+    "en": "loan",
+    "vi": "Tiền mua trả góp",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "set",
+    "kanji": "セット",
+    "hiragana": "セット",
+    "en": "set",
+    "vi": "Bộ",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "remaining",
+    "kanji": "あと",
+    "hiragana": "あと",
+    "en": "remaining",
+    "vi": "Phần còn lại",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "cupNoodles",
+    "kanji": "カップラーメン",
+    "hiragana": "カップラーメン",
+    "en": "cup noodles",
+    "vi": "Mì hộp",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "instantNoodles",
+    "kanji": "インスタントラーメン",
+    "hiragana": "インスタントラーメン",
+    "en": "instant noodles",
+    "vi": "Mì gói, mì ăn liền",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "pot",
+    "kanji": "なべ",
+    "hiragana": "なべ",
+    "en": "pot",
+    "vi": "Nồi (lẩu…)",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "bowl",
+    "kanji": "どんぶり",
+    "hiragana": "どんぶり",
+    "en": "bowl",
+    "vi": "Bát to",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "food",
+    "kanji": "食品",
+    "hiragana": "しょくひん",
+    "en": "food",
+    "vi": "Thực phẩm",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "survey",
+    "kanji": "調査",
+    "hiragana": "ちょうさ",
+    "en": "survey",
+    "vi": "Điều tra",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "cup",
+    "kanji": "カップ",
+    "hiragana": "カップ",
+    "en": "cup",
+    "vi": "Cốc",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "insteadOf",
+    "kanji": "～のかわりに",
+    "hiragana": "～のかわりに",
+    "en": "instead of",
+    "vi": "Thay thế~",
+    "type": "other",
+    "explanation": {
+      "content": [
+        "Thành ngữ"
+      ]
+    }
+  },
+  {
+    "id": "anywhere",
+    "kanji": "どこででも",
+    "hiragana": "どこででも",
+    "en": "anywhere",
+    "vi": "Ở đâu cũng",
+    "type": "adverb",
+    "explanation": {
+      "content": [
+        "Phó từ"
+      ]
+    }
+  },
+  {
+    "id": "nowadays",
+    "kanji": "今では",
+    "hiragana": "いまでは",
+    "en": "nowadays",
+    "vi": "Bây giờ thì",
+    "type": "adverb",
+    "explanation": {
+      "content": [
+        "Phó từ"
+      ]
+    }
+  }
+]

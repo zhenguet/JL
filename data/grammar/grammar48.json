@@ -1,1 +1,169 @@
-﻿[]
+﻿[
+  {
+    "id": "causative-form",
+    "title": "Động từ thể sai khiến（使役形）",
+    "description": "Cách chia động từ thể sai khiến từ động từ dạng từ điển. Nhóm I: chuyển đuôi 「u」 sang a + せる. Nhóm II: bỏ る thêm させる. Nhóm III: する → させる, くる → 来させる（こさせる）",
+    "structure": "V（さ）せる",
+    "examples": [
+      {
+        "japanese": "書く → 書かせる",
+        "romaji": "kaku → kakaseru",
+        "vietnamese": "viết → bắt viết"
+      },
+      {
+        "japanese": "急ぐ → 急がせる",
+        "romaji": "isogu → isogaseru",
+        "vietnamese": "vội → bắt vội"
+      },
+      {
+        "japanese": "食べる → 食べさせる",
+        "romaji": "taberu → tabesaseru",
+        "vietnamese": "ăn → bắt ăn"
+      },
+      {
+        "japanese": "する → させる",
+        "romaji": "suru → saseru",
+        "vietnamese": "làm → bắt làm"
+      },
+      {
+        "japanese": "来る → 来させる",
+        "romaji": "kuru → kosaseru",
+        "vietnamese": "đến → bắt đến"
+      }
+    ],
+    "notes": [
+      "Nhóm I: chuyển đuôi 「u」 sang a + せる",
+      "Nhóm II: bỏ る thêm させる",
+      "Nhóm III: する → させる, くる → 来させる（こさせる）",
+      "Động từ thể sai khiến biểu hiện ý cho phép (cho làm gì) hay mệnh lệnh, yêu cầu, cưỡng chế (bắt làm gì…)",
+      "Do đây là mẫu câu thể hiện ý sai khiến, mệnh lệnh rất mạnh của người trên yêu cầu người dưới làm gì đó và người dưới phải làm theo",
+      "Vì thế, không sử dụng mẫu này đối với những quan hệ ngang bằng hay đối với người trên, thay vào đó sẽ dùng các mẫu đã học về quan hệ cho nhận như: 「Ｖていただく（４１課）」、「Ｖてもらう（２４課）」",
+      "Tuy nhiên những động từ mang ý diễn đạt tâm lý, tình cảm như 「しんぱいする、びっくりする、困る」 thì vẫn có thể dùng với người trên với ý: làm cho lo lắng, làm cho ngạc nhiên, làm cho khó khăn…"
+    ]
+  },
+  {
+    "id": "causative-intransitive",
+    "title": "～を V（さ）せる - Cho (ai đó) làm ～; bắt (ai đó) làm ～ (tự động từ)",
+    "description": "Đối với \"tự động từ\"（自動詞）. Biến đổi tự động từ sang thể 「使役」 để tạo ra 1 động từ mới mang nghĩa sai khiến, mệnh lệnh yêu cầu ai đó làm gì. Trong kiểu câu này, người thực hiện hành động, động tác sẽ đi với trợ từ 「を」. Kiểu câu này còn được gọi tên là kiểu câu 「を-使役文」 (câu sai khiến với trợ từ を)",
+    "structure": "～を V（さ）せる",
+    "examples": [
+      {
+        "japanese": "部長は 加藤さんを 大阪へ 出張させます。",
+        "romaji": "Buchou wa Kato-san o Oosaka e shucchou sasemasu.",
+        "vietnamese": "Trưởng phòng sai anh Kato đi công tác Osaka."
+      },
+      {
+        "japanese": "私は 娘を 自由に 遊ばせました。",
+        "romaji": "Watashi wa musume o jiyuu ni asobasemashita.",
+        "vietnamese": "Tôi để cho con gái chơi tự do."
+      },
+      {
+        "japanese": "わたしは 弟を 駅で 待たせた。",
+        "romaji": "Watashi wa otouto o eki de mataseta.",
+        "vietnamese": "Tôi bắt em trai đợi ở ga."
+      },
+      {
+        "japanese": "先生は 学生に 山道を 歩かせた。",
+        "romaji": "Sensei wa gakusei ni yamamichi o arukaseta.",
+        "vietnamese": "Thầy giáo bắt học sinh đi bộ trên đường núi."
+      }
+    ],
+    "notes": [
+      "Ý nghĩa: cho (ai đó) làm ～; bắt (ai đó) làm ～",
+      "Đối với \"tự động từ\"（自動詞）",
+      "Trong kiểu câu này, người thực hiện hành động, động tác sẽ đi với trợ từ 「を」",
+      "Kiểu câu này còn được gọi tên là kiểu câu 「を-使役文」 (câu sai khiến với trợ từ を)",
+      "Một số tự động từ như「行く、来る、帰る、歩く」 cũng có khi đi với trợ từ 「に」 để tránh lặp trợ từ 「を」",
+      "Những động từ như「答える、しゃべる、言う、質問する、反対する、発言する」 là những tự động từ thực hiện hành vi có hướng đến 1 đối tượng nào đó nhưng có nhiều khi dùng trợ từ 「に」 thay cho trợ từ「を」"
+    ]
+  },
+  {
+    "id": "causative-transitive",
+    "title": "～に ～を V（さ）せる - Cho (ai đó) làm ～; bắt (ai đó) làm ～ (tha động từ)",
+    "description": "Đối với \"tha động từ\"（他動詞）. Biến đổi tha động từ sang thể 「使役」 để tạo ra 1 động từ mới mang nghĩa sai khiến, mệnh lệnh yêu cầu ai đó làm gì. Trong kiểu câu này, người thực hiện hành động, động tác sẽ đi với trợ từ 「に」, còn tân ngữ (đối tượng tác động của động từ) vẫn được xác định bởi trợ từ 「を」. Kiểu câu này còn được gọi tên là kiểu câu 「に-使役文」 (câu sai khiến với trợ từ に)",
+    "structure": "～に ～を V（さ）せる",
+    "examples": [
+      {
+        "japanese": "先生は 生徒に まどを 開けさせました。",
+        "romaji": "Sensei wa seito ni mado o akesasemashita.",
+        "vietnamese": "Giáo viên sai (bảo) sinh viên mở cửa sổ."
+      },
+      {
+        "japanese": "朝は 忙しいですから、娘に 朝ごはんの準備を 手伝わせます。",
+        "romaji": "Asa wa isogashii desu kara, musume ni asagohan no junbi o tetsudawasemasu.",
+        "vietnamese": "Vì buổi sáng bận nên tôi bắt con gái cùng phụ chuẩn bị bữa sáng."
+      },
+      {
+        "japanese": "わたしは 弟に 父の帰りを 待たせた。",
+        "romaji": "Watashi wa otouto ni chichi no kaeri o mataseta.",
+        "vietnamese": "Tôi bắt em trai đợi bố về."
+      },
+      {
+        "japanese": "わたしは 娘に ピアノを 勉強させた。",
+        "romaji": "Watashi wa musume ni piano o benkyou saseta.",
+        "vietnamese": "Tôi bắt con gái học piano."
+      }
+    ],
+    "notes": [
+      "Ý nghĩa: cho (ai đó) làm ～; bắt (ai đó) làm ～",
+      "Đối với \"tha động từ\"（他動詞）",
+      "Trong kiểu câu này, người thực hiện hành động, động tác sẽ đi với trợ từ 「に」",
+      "Còn tân ngữ (đối tượng tác động của động từ) vẫn được xác định bởi trợ từ 「を」",
+      "Kiểu câu này còn được gọi tên là kiểu câu 「に-使役文」 (câu sai khiến với trợ từ に)",
+      "Một số trường hợp đặc biệt: Những động từ như 「待つ、勉強する」 là tha động từ nhưng cũng có khi đi với trợ từ 「を」"
+    ]
+  },
+  {
+    "id": "v-sasete-itadakemasen-ka",
+    "title": "V（さ）せて いただけませんか - Cho phép tôi (làm gì), hãy để tôi (làm gì) được không?",
+    "description": "Dùng để xin phép, nhờ vả, yêu cầu người nghe xác nhận và cho phép mình được thực hiện 1 hành động nào đó",
+    "structure": "V（さ）せて いただけませんか",
+    "examples": [
+      {
+        "japanese": "すみませんが、早く 帰らせて いただけませんか。",
+        "romaji": "Sumimasen ga, hayaku kaerasete itadakemasen ka.",
+        "vietnamese": "Xin lỗi cho phép tôi về sớm được không ạ?"
+      },
+      {
+        "japanese": "コピー機を 使わせて いただけませんか。",
+        "romaji": "Kopii ki o tsukawasete itadakemasen ka.",
+        "vietnamese": "Cho phép tôi sử dụng máy photo được không ạ?"
+      },
+      {
+        "japanese": "すみませんが、写真を 撮らせて いただけませんか。",
+        "romaji": "Sumimasen ga, shashin o torasete itadakemasen ka.",
+        "vietnamese": "Xin lỗi, cho phép tôi chụp ảnh được không ạ?"
+      }
+    ],
+    "notes": [
+      "Ý nghĩa: cho phép tôi (làm gì), hãy để tôi (làm gì) được không?",
+      "Dùng để xin phép, nhờ vả, yêu cầu người nghe xác nhận và cho phép mình được thực hiện 1 hành động nào đó",
+      "Động từ 使役 chia dạng て いただけませんか",
+      "Chú ý: （× いただきませんか）",
+      "Ngoài cách nói trên, còn có thể dùng các cách nói dưới đây để xin phép làm gì đó:",
+      "- 「Ｖ（さ）せて ください」",
+      "- 「Ｖ（さ）せて くださいませんか」",
+      "Phân biệt chủ thể hành động của 2 mẫu câu yêu cầu, nhờ vả:",
+      "- Trường hợp yêu cầu, mong muốn ai đó làm gì: Vて くれ / ください / もらえませんか / くださいませんか / いただけませんか",
+      "- Trường hợp yêu cầu, mong muốn để mình được làm gì: V（さ）せて くれ / ください / もらえませんか / くださいませんか / いただけませんか"
+    ]
+  },
+  {
+    "id": "keigo-overview",
+    "title": "Khái quát về kính ngữ trong tiếng Nhật",
+    "description": "Kính ngữ gồm 1 hệ thống các từ ngữ (danh từ, động từ, tính từ, trợ từ…), mẫu câu dùng để thể hiện sự tôn trọng, kính trọng của người nói với người nghe hoặc người ở ngôi thứ ba",
+    "structure": "Kính ngữ",
+    "examples": [],
+    "notes": [
+      "Kính ngữ gồm 1 hệ thống các từ ngữ (danh từ, động từ, tính từ, trợ từ…), mẫu câu dùng để thể hiện sự tôn trọng, kính trọng",
+      "Có ba mối quan hệ chính khi sử dụng kính ngữ:",
+      "- Người nói là người ít tuổi hơn, cấp dưới hoặc là người có địa vị xã hội thấp hơn",
+      "- Người nói không có quan hệ thân thiết với người nghe",
+      "- Căn cứ vào mối quan hệ \"trong\" và \"ngoài\"",
+      "Các loại kính ngữ: Có 3 loại chính:",
+      "- Tôn kính ngữ「尊敬語（そんけいご）」: thể hiện sự tôn trọng, tôn kính, đề cao hành vi, hành động của người nói (A) đối với người nghe (B) hoặc người được đề cập đến (C). Tuyệt đối không sử dụng cho bản thân (A) hoặc người \"trong\" của (A)",
+      "- Khiêm nhường ngữ「謙譲語（けんじょうご）」: thể hiện sự nhún nhường, khiêm tốn, hạ thấp bản thân của (A) nhằm thể hiện sự kính trọng đối với (B) hoặc (C). Tuyệt đối không sử dụng cho (B) hoặc (C)",
+      "- Thể lịch sự「丁寧語（ていねいご）」: thể hiện sự lịch sự, lễ phép nên phạm vi sử dụng khá rộng, có thể sử dụng với hầu hết các đối tượng"
+    ]
+  }
+]

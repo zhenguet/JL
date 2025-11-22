@@ -1,1 +1,584 @@
-﻿[]
+﻿[
+  {
+    "id": "toChange",
+    "kanji": "変わります",
+    "hiragana": "かわります",
+    "en": "to change",
+    "vi": "Thay đổi",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm I",
+        "《変わります、変わる、変わって》",
+        "●「いろが～」 「色が～」 Đổi màu"
+      ]
+    }
+  },
+  {
+    "id": "toGet",
+    "kanji": "付きます",
+    "hiragana": "つきます",
+    "en": "to get",
+    "vi": "Bị (nứt, rạn…)",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm I",
+        "《付きます、付く、付いて》",
+        "●「きずが～」 「傷が～」"
+      ]
+    }
+  },
+  {
+    "id": "toRedo",
+    "kanji": "やり直します",
+    "hiragana": "やりなおします",
+    "en": "to redo",
+    "vi": "Làm lại từ đầu",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm I",
+        "《やり直します、やり直す、やり直して》"
+      ]
+    }
+  },
+  {
+    "id": "thick",
+    "kanji": "太い",
+    "hiragana": "ふとい",
+    "en": "thick",
+    "vi": "To tròn",
+    "type": "adjective",
+    "explanation": {
+      "content": [
+        "Tính từ",
+        "［い］"
+      ]
+    }
+  },
+  {
+    "id": "thin",
+    "kanji": "細い",
+    "hiragana": "ほそい",
+    "en": "thin",
+    "vi": "Thon nhỏ",
+    "type": "adjective",
+    "explanation": {
+      "content": [
+        "Tính từ",
+        "［い］"
+      ]
+    }
+  },
+  {
+    "id": "thick",
+    "kanji": "厚い",
+    "hiragana": "あつい",
+    "en": "thick",
+    "vi": "Dày",
+    "type": "adjective",
+    "explanation": {
+      "content": [
+        "Tính từ",
+        "［い］"
+      ]
+    }
+  },
+  {
+    "id": "thin",
+    "kanji": "薄い",
+    "hiragana": "うすい",
+    "en": "thin",
+    "vi": "Mỏng",
+    "type": "adjective",
+    "explanation": {
+      "content": [
+        "Tính từ",
+        "［い］"
+      ]
+    }
+  },
+  {
+    "id": "thick",
+    "kanji": "濃い",
+    "hiragana": "こい",
+    "en": "thick",
+    "vi": "Đậm",
+    "type": "adjective",
+    "explanation": {
+      "content": [
+        "Tính từ",
+        "［い］"
+      ]
+    }
+  },
+  {
+    "id": "dirty",
+    "kanji": "汚い",
+    "hiragana": "きたない",
+    "en": "dirty",
+    "vi": "Bẩn",
+    "type": "adjective",
+    "explanation": {
+      "content": [
+        "Tính từ",
+        "［い］"
+      ]
+    }
+  },
+  {
+    "id": "bitter",
+    "kanji": "苦い",
+    "hiragana": "にがい",
+    "en": "bitter",
+    "vi": "Đắng",
+    "type": "adjective",
+    "explanation": {
+      "content": [
+        "Tính từ",
+        "［い］"
+      ]
+    }
+  },
+  {
+    "id": "outerwear",
+    "kanji": "上着",
+    "hiragana": "うわぎ",
+    "en": "outerwear",
+    "vi": "Áo khoác",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "underwear",
+    "kanji": "下着",
+    "hiragana": "したぎ",
+    "en": "underwear",
+    "vi": "Quần áo lót",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "amount",
+    "kanji": "量",
+    "hiragana": "りょう",
+    "en": "amount",
+    "vi": "Số lượng",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "half",
+    "kanji": "半分",
+    "hiragana": "はんぶん",
+    "en": "half",
+    "vi": "Một nửa",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "times",
+    "kanji": "～倍",
+    "hiragana": "～ばい",
+    "en": "times",
+    "vi": "~Lần",
+    "type": "other",
+    "explanation": {
+      "content": [
+        "Hậu tố"
+      ]
+    }
+  },
+  {
+    "id": "startButton",
+    "kanji": "スタートボタン",
+    "hiragana": "スタートボタン",
+    "en": "start button",
+    "vi": "Nút khởi động",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "forever",
+    "kanji": "いつまでも",
+    "hiragana": "いつまでも",
+    "en": "forever",
+    "vi": "Mãi mãi",
+    "type": "adverb",
+    "explanation": {
+      "content": [
+        "Phó từ"
+      ]
+    }
+  },
+  {
+    "id": "thatWontDo",
+    "kanji": "それはいけませんね",
+    "hiragana": "それはいけませんね",
+    "en": "that won't do",
+    "vi": "Thế thì không được rồi.",
+    "type": "other",
+    "explanation": {
+      "content": [
+        "Câu nói",
+        "(Dùng để an ủi khi đối phương gặp khó khăn)"
+      ]
+    }
+  },
+  {
+    "id": "look",
+    "kanji": "ほら",
+    "hiragana": "ほら",
+    "en": "look",
+    "vi": "Coi chừng! Kia kìa!",
+    "type": "other",
+    "explanation": {
+      "content": [
+        "Thán từ"
+      ]
+    }
+  },
+  {
+    "id": "toCry",
+    "kanji": "泣きます",
+    "hiragana": "なきます",
+    "en": "to cry",
+    "vi": "Khóc",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm I",
+        "《泣きます、泣く、泣いて》"
+      ]
+    }
+  },
+  {
+    "id": "toLaugh",
+    "kanji": "笑います",
+    "hiragana": "わらいます",
+    "en": "to laugh",
+    "vi": "Cười",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm I",
+        "《笑います、笑う、笑って》"
+      ]
+    }
+  },
+  {
+    "id": "toDry",
+    "kanji": "乾きます",
+    "hiragana": "かわきます",
+    "en": "to dry",
+    "vi": "Khô",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm I",
+        "《乾きます、乾く、乾いて》"
+      ]
+    }
+  },
+  {
+    "id": "toGetWet",
+    "kanji": "濡れます",
+    "hiragana": "ぬれます",
+    "en": "to get wet",
+    "vi": "Ướt",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm II",
+        "《濡れます、濡れる、濡れて》"
+      ]
+    }
+  },
+  {
+    "id": "toSlip",
+    "kanji": "滑ります",
+    "hiragana": "すべります",
+    "en": "to slip",
+    "vi": "Trượt",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm I",
+        "《滑ります、滑る、滑って》"
+      ]
+    }
+  },
+  {
+    "id": "toOccur",
+    "kanji": "起きます",
+    "hiragana": "おきます",
+    "en": "to occur",
+    "vi": "Xảy ra",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm II",
+        "《起きます、起きる、起きて》",
+        "●「じこが～」 「事故が～」 Xảy ra tai nạn"
+      ]
+    }
+  },
+  {
+    "id": "toDislike",
+    "kanji": "嫌がります",
+    "hiragana": "いやがります",
+    "en": "to dislike",
+    "vi": "Ghét, không thích",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm I",
+        "《嫌がります、嫌がる、嫌がって》"
+      ]
+    }
+  },
+  {
+    "id": "toPart",
+    "kanji": "分かれます",
+    "hiragana": "わかれます",
+    "en": "to part",
+    "vi": "Chia tay",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm II",
+        "《分かれます、分かれる、分かれて》"
+      ]
+    }
+  },
+  {
+    "id": "tears",
+    "kanji": "涙",
+    "hiragana": "なみだ",
+    "en": "tears",
+    "vi": "Nước mắt",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "sideDish",
+    "kanji": "おかず",
+    "hiragana": "おかず",
+    "en": "side dish",
+    "vi": "Thức ăn",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "single",
+    "kanji": "シングル",
+    "hiragana": "シングル",
+    "en": "single",
+    "vi": "Phòng đơn",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "chestOfDrawers",
+    "kanji": "箪笥",
+    "hiragana": "たんす",
+    "en": "chest of drawers",
+    "vi": "Tủ",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "laundry",
+    "kanji": "洗濯物",
+    "hiragana": "せんたくもの",
+    "en": "laundry",
+    "vi": "Đồ giặt",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "shampoo",
+    "kanji": "シャンプー",
+    "hiragana": "シャンプー",
+    "en": "shampoo",
+    "vi": "Dầu gội",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "short",
+    "kanji": "ショート",
+    "hiragana": "ショート",
+    "en": "short",
+    "vi": "Ngắn",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "and",
+    "kanji": "また",
+    "hiragana": "また",
+    "en": "and",
+    "vi": "Và, hơn nữa",
+    "type": "adverb",
+    "explanation": {
+      "content": [
+        "Phó từ"
+      ]
+    }
+  },
+  {
+    "id": "expression",
+    "kanji": "表現",
+    "hiragana": "ひょうげん",
+    "en": "expression",
+    "vi": "Cách nói, biểu hiện",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "these",
+    "kanji": "これら",
+    "hiragana": "これら",
+    "en": "these",
+    "vi": "Những cái này",
+    "type": "other",
+    "explanation": {
+      "content": [
+        "Đại từ"
+      ]
+    }
+  },
+  {
+    "id": "badOmen",
+    "kanji": "縁起が悪い",
+    "hiragana": "えんぎがわるい",
+    "en": "bad omen",
+    "vi": "Điều gở, điều kiêng kỵ",
+    "type": "other",
+    "explanation": {
+      "content": [
+        "Thành ngữ"
+      ]
+    }
+  },
+  {
+    "id": "whatWouldYouLike",
+    "kanji": "どうなさいますか",
+    "hiragana": "どうなさいますか",
+    "en": "what would you like",
+    "vi": "Làm thế nào?",
+    "type": "other",
+    "explanation": {
+      "content": [
+        "Câu hỏi"
+      ]
+    }
+  },
+  {
+    "id": "howWouldYouLike",
+    "kanji": "どういうふうになさいますか",
+    "hiragana": "どういうふうになさいますか",
+    "en": "how would you like",
+    "vi": "Làm như thế nào?",
+    "type": "other",
+    "explanation": {
+      "content": [
+        "Câu hỏi"
+      ]
+    }
+  },
+  {
+    "id": "pleaseDoLike",
+    "kanji": "～みたいにしてください",
+    "hiragana": "～みたいにしてください",
+    "en": "please do like",
+    "vi": "Làm giống như là ~",
+    "type": "other",
+    "explanation": {
+      "content": [
+        "Câu nói"
+      ]
+    }
+  },
+  {
+    "id": "isThisOk",
+    "kanji": "これでよろしいでしょうか",
+    "hiragana": "これでよろしいでしょうか",
+    "en": "is this ok",
+    "vi": "Thế này được chưa?",
+    "type": "other",
+    "explanation": {
+      "content": [
+        "Câu hỏi"
+      ]
+    }
+  },
+  {
+    "id": "thankYouForYourWork",
+    "kanji": "おつかれさまでした",
+    "hiragana": "おつかれさまでした",
+    "en": "thank you for your work",
+    "vi": "Cám ơn",
+    "type": "other",
+    "explanation": {
+      "content": [
+        "Câu nói",
+        "「どうも」おつかれさまでした。"
+      ]
+    }
+  }
+]

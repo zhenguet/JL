@@ -1,1 +1,561 @@
-﻿[]
+﻿[
+  {
+    "id": "toAttend",
+    "kanji": "出席します",
+    "hiragana": "しゅっせきします",
+    "en": "to attend",
+    "vi": "Tham dự, có mặt",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm III",
+        "《出席します、出席する、出席して》"
+      ]
+    }
+  },
+  {
+    "id": "toDeliver",
+    "kanji": "届けます",
+    "hiragana": "とどけます",
+    "en": "to deliver",
+    "vi": "Gửi đến, đưa đến",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm II",
+        "《届けます、届ける、届けて》"
+      ]
+    }
+  },
+  {
+    "id": "history",
+    "kanji": "歴史",
+    "hiragana": "れきし",
+    "en": "history",
+    "vi": "Lịch sử",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "culture",
+    "kanji": "文化",
+    "hiragana": "ぶんか",
+    "en": "culture",
+    "vi": "Văn hóa",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "swimming",
+    "kanji": "水泳",
+    "hiragana": "すいえい",
+    "en": "swimming",
+    "vi": "Bơi lội",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "cramSchool",
+    "kanji": "塾",
+    "hiragana": "じゅく",
+    "en": "cram school",
+    "vi": "Trường học thêm",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "condition",
+    "kanji": "様子",
+    "hiragana": "ようす",
+    "en": "condition",
+    "vi": "Tình trạng",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "oneself",
+    "kanji": "自分",
+    "hiragana": "じぶん",
+    "en": "oneself",
+    "vi": "Tự mình",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "person",
+    "kanji": "～者",
+    "hiragana": "～もの",
+    "en": "person",
+    "vi": "Người",
+    "type": "other",
+    "explanation": {
+      "content": [
+        "Hậu tố",
+        "●会社の者 Người của công ty"
+      ]
+    }
+  },
+  {
+    "id": "newYear",
+    "kanji": "お正月",
+    "hiragana": "おしょうがつ",
+    "en": "new year",
+    "vi": "Tết, năm mới",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "feast",
+    "kanji": "ご馳走",
+    "hiragana": "ごちそう",
+    "en": "feast",
+    "vi": "Bữa ăn ngon",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "instead",
+    "kanji": "かわりに",
+    "hiragana": "かわりに",
+    "en": "instead",
+    "vi": "Thay thế cho, đại diện cho (người)",
+    "type": "other",
+    "explanation": {
+      "content": [
+        "Thành ngữ"
+      ]
+    }
+  },
+  {
+    "id": "sorryToKeepYouWaiting",
+    "kanji": "お待たせしました",
+    "hiragana": "おまたせしました",
+    "en": "sorry to keep you waiting",
+    "vi": "Xin lỗi đã để (ông, bà) đợi lâu.",
+    "type": "other",
+    "explanation": {
+      "content": [
+        "Câu nói"
+      ]
+    }
+  },
+  {
+    "id": "happyNewYear",
+    "kanji": "おめでとうございます",
+    "hiragana": "あけましておめでとうございます",
+    "en": "happy new year",
+    "vi": "Chúc mừng năm mới.",
+    "type": "other",
+    "explanation": {
+      "content": [
+        "Câu nói",
+        "あけまして おめでとう ございます。"
+      ]
+    }
+  },
+  {
+    "id": "pleaseDontStandOnCeremony",
+    "kanji": "えんりょくなく",
+    "hiragana": "えんりょくなく",
+    "en": "please don't stand on ceremony",
+    "vi": "Đừng làm khách, cứ tự nhiên",
+    "type": "other",
+    "explanation": {
+      "content": [
+        "Câu nói",
+        "えんりょくなく [どうぞ]。"
+      ]
+    }
+  },
+  {
+    "id": "toUnload",
+    "kanji": "降ろします",
+    "hiragana": "おろします",
+    "en": "to unload",
+    "vi": "Kéo xuống, bê xuống",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm I",
+        "《降ろします、降ろす、降ろして》"
+      ]
+    }
+  },
+  {
+    "id": "toTakeCare",
+    "kanji": "世話をします",
+    "hiragana": "せわをします",
+    "en": "to take care",
+    "vi": "Chăm sóc",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm III",
+        "《世話をします、世話をする、世話をして》"
+      ]
+    }
+  },
+  {
+    "id": "toEnjoy",
+    "kanji": "楽しみます",
+    "hiragana": "たのしみます",
+    "en": "to enjoy",
+    "vi": "Vui vẻ",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm I",
+        "《楽しみます、楽しむ、楽しんで》"
+      ]
+    }
+  },
+  {
+    "id": "toSubstitute",
+    "kanji": "かわりをします",
+    "hiragana": "かわりをします",
+    "en": "to substitute",
+    "vi": "Thay cho, thay thế",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm III"
+      ]
+    }
+  },
+  {
+    "id": "toCompete",
+    "kanji": "競走します",
+    "hiragana": "きょうそうします",
+    "en": "to compete",
+    "vi": "Cạnh tranh, thi đua",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm III",
+        "《競走します、競走する、競走して》"
+      ]
+    }
+  },
+  {
+    "id": "toCatch",
+    "kanji": "捕らえます",
+    "hiragana": "とらえます",
+    "en": "to catch",
+    "vi": "Giữ, nắm, bắt",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm II",
+        "《捕らえます、捕らえる、捕らえて》"
+      ]
+    }
+  },
+  {
+    "id": "disgusting",
+    "kanji": "嫌",
+    "hiragana": "いや",
+    "en": "disgusting",
+    "vi": "Chán ghét",
+    "type": "adjective",
+    "explanation": {
+      "content": [
+        "Tính từ",
+        "［な］"
+      ]
+    }
+  },
+  {
+    "id": "strict",
+    "kanji": "厳しい",
+    "hiragana": "きびしい",
+    "en": "strict",
+    "vi": "Nghiêm khắc",
+    "type": "adjective",
+    "explanation": {
+      "content": [
+        "Tính từ",
+        "［い］"
+      ]
+    }
+  },
+  {
+    "id": "schedule",
+    "kanji": "スケジュール",
+    "hiragana": "スケジュール",
+    "en": "schedule",
+    "vi": "Thời khóa biểu, lịch trình",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "student",
+    "kanji": "生徒",
+    "hiragana": "せいと",
+    "en": "student",
+    "vi": "Học sinh",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "immigration",
+    "kanji": "入管",
+    "hiragana": "にゅうかん",
+    "en": "immigration",
+    "vi": "Cục quản lý xuất nhập cảnh",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "freely",
+    "kanji": "自由に",
+    "hiragana": "じゆうに",
+    "en": "freely",
+    "vi": "Tự do",
+    "type": "adverb",
+    "explanation": {
+      "content": [
+        "Phó từ"
+      ]
+    }
+  },
+  {
+    "id": "thatsGood",
+    "kanji": "いいことですね",
+    "hiragana": "いいことですね",
+    "en": "that's good",
+    "vi": "Tốt quá nhỉ.",
+    "type": "other",
+    "explanation": {
+      "content": [
+        "Câu nói"
+      ]
+    }
+  },
+  {
+    "id": "areYouBusy",
+    "kanji": "お忙しいですか",
+    "hiragana": "おいそがしいですか",
+    "en": "are you busy",
+    "vi": "Anh (chị) có bận không ạ?",
+    "type": "other",
+    "explanation": {
+      "content": [
+        "Câu hỏi"
+      ]
+    }
+  },
+  {
+    "id": "longTimeNoSee",
+    "kanji": "久しぶり",
+    "hiragana": "ひさしぶり",
+    "en": "long time no see",
+    "vi": "Lâu rồi",
+    "type": "other",
+    "explanation": {
+      "content": [
+        "Thành ngữ"
+      ]
+    }
+  },
+  {
+    "id": "business",
+    "kanji": "営業",
+    "hiragana": "えいぎょう",
+    "en": "business",
+    "vi": "Kinh doanh",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "byThen",
+    "kanji": "それまでに",
+    "hiragana": "それまでに",
+    "en": "by then",
+    "vi": "Đến đó, đến lúc đó",
+    "type": "adverb",
+    "explanation": {
+      "content": [
+        "Phó từ"
+      ]
+    }
+  },
+  {
+    "id": "noProblem",
+    "kanji": "かまいません",
+    "hiragana": "かまいません",
+    "en": "no problem",
+    "vi": "Không sao",
+    "type": "other",
+    "explanation": {
+      "content": [
+        "Câu nói"
+      ]
+    }
+  },
+  {
+    "id": "originally",
+    "kanji": "もともと",
+    "hiragana": "もともと",
+    "en": "originally",
+    "vi": "Vốn dĩ",
+    "type": "adverb",
+    "explanation": {
+      "content": [
+        "Phó từ"
+      ]
+    }
+  },
+  {
+    "id": "century",
+    "kanji": "～世紀",
+    "hiragana": "～せいき",
+    "en": "century",
+    "vi": "Thế kỉ~",
+    "type": "other",
+    "explanation": {
+      "content": [
+        "Hậu tố"
+      ]
+    }
+  },
+  {
+    "id": "speed",
+    "kanji": "スピード",
+    "hiragana": "スピード",
+    "en": "speed",
+    "vi": "Tốc độ",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "circus",
+    "kanji": "サーカス",
+    "hiragana": "サーカス",
+    "en": "circus",
+    "vi": "Xiếc",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "art",
+    "kanji": "芸",
+    "hiragana": "げい",
+    "en": "art",
+    "vi": "Nghệ thuật",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "beautiful",
+    "kanji": "美しい",
+    "hiragana": "うつくしい",
+    "en": "beautiful",
+    "vi": "Đẹp",
+    "type": "adjective",
+    "explanation": {
+      "content": [
+        "Tính từ",
+        "［い］"
+      ]
+    }
+  },
+  {
+    "id": "figure",
+    "kanji": "姿",
+    "hiragana": "すがた",
+    "en": "figure",
+    "vi": "Hình dáng",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "heart",
+    "kanji": "心",
+    "hiragana": "こころ",
+    "en": "heart",
+    "vi": "Trái tim",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "for",
+    "kanji": "～にとって",
+    "hiragana": "～にとって",
+    "en": "for",
+    "vi": "Đối với",
+    "type": "other",
+    "explanation": {
+      "content": [
+        "Thành ngữ"
+      ]
+    }
+  }
+]

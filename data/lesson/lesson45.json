@@ -1,1 +1,605 @@
-﻿[]
+﻿[
+  {
+    "id": "toOccur",
+    "kanji": "起きます",
+    "hiragana": "おきます",
+    "en": "to occur",
+    "vi": "Xảy ra",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm II",
+        "《起きます、起きる、起きて》",
+        "●「じしんが～」 「地震が～」"
+      ]
+    }
+  },
+  {
+    "id": "toEscape",
+    "kanji": "逃げます",
+    "hiragana": "にげます",
+    "en": "to escape",
+    "vi": "Chạy trốn",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm II",
+        "《逃げます、逃げる、逃げて》"
+      ]
+    }
+  },
+  {
+    "id": "toBegin",
+    "kanji": "始まります",
+    "hiragana": "はじまります",
+    "en": "to begin",
+    "vi": "Bắt đầu",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm I",
+        "《始まります、始まる、始まって》",
+        "●「かいぎが～」 「会議が～」 Bắt đầu cuộc họp"
+      ]
+    }
+  },
+  {
+    "id": "toPass",
+    "kanji": "過ぎます",
+    "hiragana": "すぎます",
+    "en": "to pass",
+    "vi": "Trôi qua (thời gian), đi qua",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm II",
+        "《過ぎます、過ぎる、過ぎて》"
+      ]
+    }
+  },
+  {
+    "id": "toGetLost",
+    "kanji": "迷います",
+    "hiragana": "まよいます",
+    "en": "to get lost",
+    "vi": "Lạc (đường)",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm I",
+        "《迷います、迷う、迷って》",
+        "●「みちに～」 「道に～」"
+      ]
+    }
+  },
+  {
+    "id": "toGet",
+    "kanji": "入ります",
+    "hiragana": "はいります",
+    "en": "to get",
+    "vi": "Có (vết nứt)",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm I",
+        "《入ります、入る、入って》",
+        "●「ひびが～」"
+      ]
+    }
+  },
+  {
+    "id": "red",
+    "kanji": "赤",
+    "hiragana": "あか",
+    "en": "red",
+    "vi": "Màu đỏ",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "black",
+    "kanji": "黒",
+    "hiragana": "くろ",
+    "en": "black",
+    "vi": "Màu đen",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "white",
+    "kanji": "白",
+    "hiragana": "しろ",
+    "en": "white",
+    "vi": "Màu trắng",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "blue",
+    "kanji": "青",
+    "hiragana": "あお",
+    "en": "blue",
+    "vi": "Màu xanh",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "yellow",
+    "kanji": "黄色",
+    "hiragana": "きいろ",
+    "en": "yellow",
+    "vi": "Màu vàng",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "green",
+    "kanji": "緑",
+    "hiragana": "みどり",
+    "en": "green",
+    "vi": "Màu xanh lá cây",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "police",
+    "kanji": "警察",
+    "hiragana": "けいさつ",
+    "en": "police",
+    "vi": "Cảnh sát",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "emergencyExit",
+    "kanji": "非常口",
+    "hiragana": "ひじょうぐち",
+    "en": "emergency exit",
+    "vi": "Cửa thoát hiểm",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "automatic",
+    "kanji": "自動～",
+    "hiragana": "じどう～",
+    "en": "automatic",
+    "vi": "~tự động",
+    "type": "other",
+    "explanation": {
+      "content": [
+        "Tiền tố"
+      ]
+    }
+  },
+  {
+    "id": "reply",
+    "kanji": "返事",
+    "hiragana": "へんじ",
+    "en": "reply",
+    "vi": "Trả lời, hồi âm",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "method",
+    "kanji": "方法",
+    "hiragana": "ほうほう",
+    "en": "method",
+    "vi": "Phương pháp",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "cylinder",
+    "kanji": "シリンダー",
+    "hiragana": "シリンダー",
+    "en": "cylinder",
+    "vi": "Xi lanh",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "inside",
+    "kanji": "内側",
+    "hiragana": "うちがわ",
+    "en": "inside",
+    "vi": "Phía bên trong",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "crack",
+    "kanji": "ひび",
+    "hiragana": "ひび",
+    "en": "crack",
+    "vi": "Vết rạn nứt",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "cooling",
+    "kanji": "冷却",
+    "hiragana": "れいきゃく",
+    "en": "cooling",
+    "vi": "Làm lạnh",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "temperature",
+    "kanji": "温度",
+    "hiragana": "おんど",
+    "en": "temperature",
+    "vi": "Nhiệt độ",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "degree",
+    "kanji": "～度",
+    "hiragana": "～ど",
+    "en": "degree",
+    "vi": "~ độ",
+    "type": "other",
+    "explanation": {
+      "content": [
+        "Hậu tố"
+      ]
+    }
+  },
+  {
+    "id": "inCase",
+    "kanji": "まんいち",
+    "hiragana": "まんいち",
+    "en": "in case",
+    "vi": "Giả sử, vạn nhất nếu (có trường hợp)",
+    "type": "other",
+    "explanation": {
+      "content": [
+        "Thành ngữ",
+        "「～ばあいは」"
+      ]
+    }
+  },
+  {
+    "id": "occasionally",
+    "kanji": "たまに",
+    "hiragana": "たまに",
+    "en": "occasionally",
+    "vi": "Đôi khi",
+    "type": "adverb",
+    "explanation": {
+      "content": [
+        "Phó từ"
+      ]
+    }
+  },
+  {
+    "id": "recently",
+    "kanji": "このごろ",
+    "hiragana": "このごろ",
+    "en": "recently",
+    "vi": "Dạo này",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "whatIsIt",
+    "kanji": "なんでしょうか",
+    "hiragana": "なんでしょうか",
+    "en": "what is it",
+    "vi": "Có việc gì thế?",
+    "type": "other",
+    "explanation": {
+      "content": [
+        "Câu hỏi"
+      ]
+    }
+  },
+  {
+    "id": "thatsRight",
+    "kanji": "そのとおりです",
+    "hiragana": "そのとおりです",
+    "en": "that's right",
+    "vi": "Đúng như vậy",
+    "type": "other",
+    "explanation": {
+      "content": [
+        "Câu nói"
+      ]
+    }
+  },
+  {
+    "id": "toApologize",
+    "kanji": "誤ります",
+    "hiragana": "あやまります",
+    "en": "to apologize",
+    "vi": "Xin lỗi",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm I",
+        "《誤ります、誤る、誤って》"
+      ]
+    }
+  },
+  {
+    "id": "toPrepare",
+    "kanji": "用意",
+    "hiragana": "ようい",
+    "en": "to prepare",
+    "vi": "Chuẩn bị",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm III",
+        "《用意します、する、して》"
+      ]
+    }
+  },
+  {
+    "id": "toCancel",
+    "kanji": "キャンセルします",
+    "hiragana": "キャンセルします",
+    "en": "to cancel",
+    "vi": "Hủy",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm I"
+      ]
+    }
+  },
+  {
+    "id": "toWin",
+    "kanji": "優勝",
+    "hiragana": "ゆうしょう",
+    "en": "to win",
+    "vi": "Đoạt giải nhất",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm III",
+        "《優勝します、する、して》"
+      ]
+    }
+  },
+  {
+    "id": "toSleep",
+    "kanji": "眠ります",
+    "hiragana": "ねむります",
+    "en": "to sleep",
+    "vi": "Ngủ",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm I",
+        "《眠ります、眠る、眠って》"
+      ]
+    }
+  },
+  {
+    "id": "toWakeUp",
+    "kanji": "目が覚めます",
+    "hiragana": "めがさめます",
+    "en": "to wake up",
+    "vi": "Tỉnh giấc",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm II",
+        "《目が覚めます、覚める、覚めて》"
+      ]
+    }
+  },
+  {
+    "id": "toRing",
+    "kanji": "鳴ります",
+    "hiragana": "なります",
+    "en": "to ring",
+    "vi": "(Chuông) kêu",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm I",
+        "《鳴ります、鳴る、鳴って》"
+      ]
+    }
+  },
+  {
+    "id": "toSet",
+    "kanji": "セット",
+    "hiragana": "セット",
+    "en": "to set",
+    "vi": "Cài đặt",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm III",
+        "《セットします、する、して》"
+      ]
+    }
+  },
+  {
+    "id": "warranty",
+    "kanji": "保証書",
+    "hiragana": "ほしょうしょ",
+    "en": "warranty",
+    "vi": "Giấy bảo lãnh",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "receipt",
+    "kanji": "領収書",
+    "hiragana": "りょうしゅうしょ",
+    "en": "receipt",
+    "vi": "Hóa đơn",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "wrongNumber",
+    "kanji": "間違い電話",
+    "hiragana": "まちがいでんわ",
+    "en": "wrong number",
+    "vi": "Cuộc gọi điện thoại nhầm",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "cancellation",
+    "kanji": "中止",
+    "hiragana": "ちゅうし",
+    "en": "cancellation",
+    "vi": "Hoãn lại",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "course",
+    "kanji": "コース",
+    "hiragana": "コース",
+    "en": "course",
+    "vi": "Khóa học",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "rank",
+    "kanji": "～位",
+    "hiragana": "～い",
+    "en": "rank",
+    "vi": "Vị trí thứ ~",
+    "type": "other",
+    "explanation": {
+      "content": [
+        "Hậu tố"
+      ]
+    }
+  },
+  {
+    "id": "worry",
+    "kanji": "悩み",
+    "hiragana": "なやみ",
+    "en": "worry",
+    "vi": "Nỗi khổ tâm, nỗi lo",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "alarmClock",
+    "kanji": "目覚まし時計",
+    "hiragana": "めざましどけい",
+    "en": "alarm clock",
+    "vi": "Đồng hồ báo thức",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "evenSo",
+    "kanji": "それでも",
+    "hiragana": "それでも",
+    "en": "even so",
+    "vi": "Dù vậy",
+    "type": "adverb",
+    "explanation": {
+      "content": [
+        "Phó từ"
+      ]
+    }
+  }
+]

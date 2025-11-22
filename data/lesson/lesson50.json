@@ -1,1 +1,620 @@
-﻿[]
+﻿[
+  {
+    "id": "toGo",
+    "kanji": "参ります",
+    "hiragana": "まいります",
+    "en": "to go",
+    "vi": "Đi, đến (từ khiêm tốn của きます、いきます)",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm I",
+        "《参ります、参る、参って》"
+      ]
+    }
+  },
+  {
+    "id": "toBe",
+    "kanji": "居ります",
+    "hiragana": "おります",
+    "en": "to be",
+    "vi": "Ở (từ khiêm tốn của います)",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm I",
+        "《居ります、居る、居って》"
+      ]
+    }
+  },
+  {
+    "id": "toReceive",
+    "kanji": "頂きます",
+    "hiragana": "いただきます",
+    "en": "to receive",
+    "vi": "Ăn, uống, nhận (từ khiêm tốn của 食べます、のみます、もらいます)",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm I",
+        "《頂きます、頂く、頂いて》"
+      ]
+    }
+  },
+  {
+    "id": "toSay",
+    "kanji": "申します",
+    "hiragana": "もうします",
+    "en": "to say",
+    "vi": "(từ khiêm tốn của いいます)",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm I",
+        "《申します、申す、申して》"
+      ]
+    }
+  },
+  {
+    "id": "toDo",
+    "kanji": "致します",
+    "hiragana": "いたします",
+    "en": "to do",
+    "vi": "Làm (từ khiêm tốn します)",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm I",
+        "《致します、致す、致して》"
+      ]
+    }
+  },
+  {
+    "id": "toSee",
+    "kanji": "拝見します",
+    "hiragana": "はいけんします",
+    "en": "to see",
+    "vi": "Xem, nhìn (từ khiêm tốn của みます)",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm III",
+        "《拝見します、拝見する、拝見して》"
+      ]
+    }
+  },
+  {
+    "id": "toKnow",
+    "kanji": "存じます",
+    "hiragana": "ぞんじます",
+    "en": "to know",
+    "vi": "Biết (từ khiêm tốn của しっています)",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm III",
+        "《存じます、存ずる、存じて》"
+      ]
+    }
+  },
+  {
+    "id": "toAsk",
+    "kanji": "伺います",
+    "hiragana": "うかがいます",
+    "en": "to ask",
+    "vi": "Nghe, hỏi (từ khiêm tốn của ききます)",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm I",
+        "《伺います、伺う、伺って》"
+      ]
+    }
+  },
+  {
+    "id": "toExist",
+    "kanji": "ございます",
+    "hiragana": "ございます",
+    "en": "to exist",
+    "vi": "Có (kính ngữ của あります、います)",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm I",
+        "《ございます、ござる、ござって》"
+      ]
+    }
+  },
+  {
+    "id": "toBe",
+    "kanji": "～でございます",
+    "hiragana": "～でございます",
+    "en": "to be",
+    "vi": "Là (cách nói lịch sự của です)",
+    "type": "other",
+    "explanation": {
+      "content": [
+        "Thành ngữ"
+      ]
+    }
+  },
+  {
+    "id": "busy",
+    "kanji": "お忙しい",
+    "hiragana": "おいそがしい",
+    "en": "busy",
+    "vi": "Bận (dùng cho người khác)",
+    "type": "adjective",
+    "explanation": {
+      "content": [
+        "Tính từ",
+        "［い］"
+      ]
+    }
+  },
+  {
+    "id": "I",
+    "kanji": "私",
+    "hiragana": "わたくし",
+    "en": "I",
+    "vi": "Tôi (khiêm tốn của わたし)",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "everyone",
+    "kanji": "皆様",
+    "hiragana": "みなさま",
+    "en": "everyone",
+    "vi": "Quí vị",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "farewellParty",
+    "kanji": "送別会",
+    "hiragana": "そうべつかい",
+    "en": "farewell party",
+    "vi": "Tiệc chia tay",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "kindness",
+    "kanji": "ご親切",
+    "hiragana": "ごしんせつ",
+    "en": "kindness",
+    "vi": "Chu đáo, cẩn thận (dùng cho người khác)",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "safely",
+    "kanji": "無事に",
+    "hiragana": "ぶじに",
+    "en": "safely",
+    "vi": "Bình an, vô sự",
+    "type": "adverb",
+    "explanation": {
+      "content": [
+        "Phó từ"
+      ]
+    }
+  },
+  {
+    "id": "then",
+    "kanji": "では／それでは",
+    "hiragana": "では／それでは",
+    "en": "then",
+    "vi": "Thế thì, Vậy thì",
+    "type": "other",
+    "explanation": {
+      "content": [
+        "Từ nối"
+      ]
+    }
+  },
+  {
+    "id": "whileYouAreBusy",
+    "kanji": "お忙しいところ",
+    "hiragana": "おいそがしいところ",
+    "en": "while you are busy",
+    "vi": "Lúc các ông (bà) đang bận.",
+    "type": "other",
+    "explanation": {
+      "content": [
+        "Thành ngữ"
+      ]
+    }
+  },
+  {
+    "id": "thankYouForAttending",
+    "kanji": "ご出席くださいまして",
+    "hiragana": "ごしゅっせきくださいまして",
+    "en": "thank you for attending",
+    "vi": "",
+    "type": "other",
+    "explanation": {
+      "content": [
+        "Câu nói"
+      ]
+    }
+  },
+  {
+    "id": "toMeet",
+    "kanji": "お目にかかります",
+    "hiragana": "おめにかかります",
+    "en": "to meet",
+    "vi": "Gặp (từ khiêm tốn của)",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm I",
+        "《お目にかかります、お目にかかる、お目にかかって》"
+      ]
+    }
+  },
+  {
+    "id": "toBeNervous",
+    "kanji": "緊張します",
+    "hiragana": "きんちょうします",
+    "en": "to be nervous",
+    "vi": "Căng thẳng, lo lắng",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm III",
+        "《緊張します、緊張する、緊張して》"
+      ]
+    }
+  },
+  {
+    "id": "toBroadcast",
+    "kanji": "放送します",
+    "hiragana": "ほうそうします",
+    "en": "to broadcast",
+    "vi": "Phát sóng",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm III",
+        "《放送します、放送する、放送して》"
+      ]
+    }
+  },
+  {
+    "id": "toRecord",
+    "kanji": "撮ります",
+    "hiragana": "とります",
+    "en": "to record",
+    "vi": "Thu",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm I",
+        "《撮ります、撮る、撮って》",
+        "●「ビデオに～」 Thu vào băng video"
+      ]
+    }
+  },
+  {
+    "id": "toComeTrue",
+    "kanji": "かないます",
+    "hiragana": "かないます",
+    "en": "to come true",
+    "vi": "Trở thành hiện thực",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm I",
+        "《かないます、かなう、かなって》",
+        "●「ゆめが～」 Giấc mơ trở thành hiện thực"
+      ]
+    }
+  },
+  {
+    "id": "toCooperate",
+    "kanji": "協力します",
+    "hiragana": "きょうりょくします",
+    "en": "to cooperate",
+    "vi": "Hợp tác",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm III",
+        "《協力します、協力する、協力して》"
+      ]
+    }
+  },
+  {
+    "id": "toThank",
+    "kanji": "感謝します",
+    "hiragana": "かんしゃします",
+    "en": "to thank",
+    "vi": "Cảm ơn, cảm tạ",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm III",
+        "《感謝します、感謝する、感謝して》"
+      ]
+    }
+  },
+  {
+    "id": "toBother",
+    "kanji": "めいわくをかけます",
+    "hiragana": "めいわくをかけます",
+    "en": "to bother",
+    "vi": "Làm phiền",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm II",
+        "《かける、かけて》"
+      ]
+    }
+  },
+  {
+    "id": "guide",
+    "kanji": "ガイド",
+    "hiragana": "ガイド",
+    "en": "guide",
+    "vi": "Người hướng dẫn, hướng dẫn viên du lịch",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "suburbs",
+    "kanji": "郊外",
+    "hiragana": "こうがい",
+    "en": "suburbs",
+    "vi": "Ngoại ô, ngoại thành",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "album",
+    "kanji": "アルバム",
+    "hiragana": "アルバム",
+    "en": "album",
+    "vi": "Album",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "weekAfterNext",
+    "kanji": "再来週",
+    "hiragana": "さらいしゅう",
+    "en": "week after next",
+    "vi": "Tuần sau nữa",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "monthAfterNext",
+    "kanji": "再来月",
+    "hiragana": "さらいげつ",
+    "en": "month after next",
+    "vi": "Tháng sau nữa",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "yearAfterNext",
+    "kanji": "再来年",
+    "hiragana": "さらいねん",
+    "en": "year after next",
+    "vi": "Năm sau nữa",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "edoTokyoMuseum",
+    "kanji": "江戸東京博物館",
+    "hiragana": "えどとうきょうはくぶつかん",
+    "en": "Edo Tokyo Museum",
+    "vi": "Bảo tàng Edo Tokyo",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "prizeMoney",
+    "kanji": "賞金",
+    "hiragana": "しょうきん",
+    "en": "prize money",
+    "vi": "Tiền thưởng",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "nature",
+    "kanji": "自然",
+    "hiragana": "しぜん",
+    "en": "nature",
+    "vi": "Tự nhiên, thiên nhiên",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "giraffe",
+    "kanji": "きりん",
+    "hiragana": "きりん",
+    "en": "giraffe",
+    "vi": "Hươu cao cổ",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "elephant",
+    "kanji": "像",
+    "hiragana": "ぞう",
+    "en": "elephant",
+    "vi": "Voi",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "when",
+    "kanji": "ころ",
+    "hiragana": "ころ",
+    "en": "when",
+    "vi": "Khi, lúc",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "mayISayFewWords",
+    "kanji": "ひとことよろしいでしょうか",
+    "hiragana": "ひとことよろしいでしょうか",
+    "en": "may I say few words",
+    "vi": "Tôi nói vài lời có được không?",
+    "type": "other",
+    "explanation": {
+      "content": [
+        "Câu hỏi"
+      ]
+    }
+  },
+  {
+    "id": "fromTheHeart",
+    "kanji": "心から",
+    "hiragana": "こころから",
+    "en": "from the heart",
+    "vi": "Từ tấm lòng",
+    "type": "adverb",
+    "explanation": {
+      "content": [
+        "Phó từ"
+      ]
+    }
+  },
+  {
+    "id": "thanks",
+    "kanji": "お礼",
+    "hiragana": "おれい",
+    "en": "thanks",
+    "vi": "Cảm ơn",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "dear",
+    "kanji": "拝啓",
+    "hiragana": "はいけい",
+    "en": "dear",
+    "vi": "Kính gửi (từ đầu thư)",
+    "type": "other",
+    "explanation": {
+      "content": [
+        "Thành ngữ"
+      ]
+    }
+  },
+  {
+    "id": "areYouWell",
+    "kanji": "お元気でいらっしゃいますか",
+    "hiragana": "おげんきでいらっしゃいますか",
+    "en": "are you well",
+    "vi": "Anh (chị) có khỏe không ạ?",
+    "type": "other",
+    "explanation": {
+      "content": [
+        "Câu hỏi"
+      ]
+    }
+  },
+  {
+    "id": "sincerely",
+    "kanji": "敬具",
+    "hiragana": "けいぐ",
+    "en": "sincerely",
+    "vi": "Kính thư (từ kết thúc của bức thư)",
+    "type": "other",
+    "explanation": {
+      "content": [
+        "Thành ngữ"
+      ]
+    }
+  },
+  {
+    "id": "munich",
+    "kanji": "ミュンヘン",
+    "hiragana": "ミュンヘン",
+    "en": "Munich",
+    "vi": "Địa danh của Đức",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  }
+]

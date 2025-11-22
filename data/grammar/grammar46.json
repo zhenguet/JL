@@ -1,1 +1,158 @@
-﻿[]
+﻿[
+  {
+    "id": "v-dict-tokoro-desu",
+    "title": "V dict. ところです - Sắp sửa (làm ～), chuẩn bị (làm ～)",
+    "description": "Dùng để diễn tả ý nói một hành động sắp sửa, chuẩn bị diễn ra và nhấn mạnh vào thời điểm trước khi diễn ra hành động đó. Mẫu câu này thường đi kèm với các cụm từ chỉ thời điểm như: 「これから」、「（ちょうど）今から」",
+    "structure": "V dict. ところです",
+    "examples": [
+      {
+        "japanese": "A: 昼ご飯は もう 食べましたか。 B: いいえ、これから 食べるところです。",
+        "romaji": "A: Hirugohan wa mou tabemashita ka. B: Iie, kore kara taberu tokoro desu.",
+        "vietnamese": "A: Bạn đã ăn trưa rồi à? B: Chưa, tôi chuẩn bị ăn bây giờ."
+      },
+      {
+        "japanese": "A: 会議は もう 始まりましたか。 B: いいえ、今から 始まるところです。",
+        "romaji": "A: Kaigi wa mou hajimarimashita ka. B: Iie, ima kara hajimaru tokoro desu.",
+        "vietnamese": "A: Cuộc họp đã bắt đầu rồi à? B: Chưa, sắp sửa bắt đầu."
+      },
+      {
+        "japanese": "ちょうど 今から お茶を 飲むところです。いっしょに いかがですか。",
+        "romaji": "Choudo ima kara ocha o nomu tokoro desu. Issho ni ikaga desu ka.",
+        "vietnamese": "Đúng lúc tôi chuẩn bị uống trà. Bạn uống cùng tôi nhé!"
+      }
+    ],
+    "notes": [
+      "Ý nghĩa: sắp sửa (làm ～), chuẩn bị (làm ～)",
+      "Dùng để diễn tả ý nói một hành động sắp sửa, chuẩn bị diễn ra và nhấn mạnh vào thời điểm trước khi diễn ra hành động đó",
+      "Mẫu câu này thường đi kèm với các cụm từ chỉ thời điểm như: 「これから」、「（ちょうど）今から」",
+      "Trước đây, ở bài 8 ta đã học từ 「ところ」 với ý nghĩa là nơi, chỗ (chỉ vị trí, địa điểm). Đến bài này 「ところ」 sẽ được mở rộng hơn với 1 ý nghĩa khác: \"thể hiện thời điểm\"",
+      "Ý nghĩa chỉ thời điểm của 「ところ」 sẽ thay đổi tùy theo thời của động từ đi trước nó",
+      "Vì 「ところ」 là 1 danh từ nên động từ kết hợp với nó tất cả đều là dạng ngắn"
+    ]
+  },
+  {
+    "id": "v-te-iru-tokoro-desu",
+    "title": "Vているところです - Đang (làm ～), đang trong lúc (làm ～)",
+    "description": "Dùng để diễn tả hành động đang diễn ra tại 1 thời điểm nào đó, nhấn mạnh vào thời điểm hành động đang xẩy ra (mạnh hơn Vています). Mẫu câu này thường đi kèm với trạng từ chỉ thời gian 「今」",
+    "structure": "Vているところです",
+    "examples": [
+      {
+        "japanese": "A: ピンポン しませんか。 B: 今 勉強しているところですから、あとで 行きます。",
+        "romaji": "A: Pinpon shimasen ka. B: Ima benkyou shite iru tokoro desu kara, ato de ikimasu.",
+        "vietnamese": "A: Cậu có chơi bóng bàn không? B: Vì bây giờ tôi đang học bài, nên tôi sẽ đi sau."
+      },
+      {
+        "japanese": "A: 会議の資料は もう できましたか。 B: すみません。今 コピーしているところですから、もう少し 待ってください。",
+        "romaji": "A: Kaigi no shiryou wa mou dekimashita ka. B: Sumimasen. Ima kopii shite iru tokoro desu kara, mou sukoshi matte kudasai.",
+        "vietnamese": "A: Tài liệu buổi họp đã chuẩn bị xong chưa? B: Xin lỗi. Vì bây giờ đang phôtô nên hãy chờ thêm chút nữa."
+      },
+      {
+        "japanese": "田中さんは 今 FPTビルで 働いているところです。",
+        "romaji": "Tanaka-san wa ima FPT biru de hataraite iru tokoro desu.",
+        "vietnamese": "Anh Tanaka bây giờ đang làm việc ở tòa nhà FPT (Anh ta hiện đang ở tòa nhà FPT và đang làm việc)"
+      }
+    ],
+    "notes": [
+      "Ý nghĩa: đang (làm ～), đang trong lúc (làm ～)",
+      "Dùng để diễn tả hành động đang diễn ra tại 1 thời điểm nào đó, nhấn mạnh vào thời điểm hành động đang xẩy ra (mạnh hơn Vています)",
+      "Mẫu câu này thường đi kèm với trạng từ chỉ thời gian 「今」",
+      "Tất cả các mẫu câu ～ところです đều mang ý tả lại trạng thái tại 1 thời điểm 1 cách đơn thuần",
+      "Không sử dụng khi chủ ngữ không phải là sinh vật như mưa, gió, tuyết… (ví dụ: 雨が降っているところです × → 雨が降っています ○)",
+      "Không sử dụng với các động từ chỉ trạng thái kết quả như 結婚している、知っている…"
+    ]
+  },
+  {
+    "id": "v-ta-tokoro-desu",
+    "title": "Vたところです - Vừa mới (làm ～) xong",
+    "description": "Dùng để diễn tả 1 hành động vừa mới kết thúc trong và nhấn mạnh vào thời điểm ngay sau khi hành động hoàn thành. Mẫu câu này chỉ đi được với trạng từ chỉ thời gian 「たった今」",
+    "structure": "Vたところです",
+    "examples": [
+      {
+        "japanese": "A: ８時のバスは もう 出ましたか。 B: はい、たった今 出たところです。",
+        "romaji": "A: Hachiji no basu wa mou demashita ka. B: Hai, tatta ima deta tokoro desu.",
+        "vietnamese": "A: Chuyến xe 8 giờ đã đi rồi à? B: Vâng, vừa mới đi."
+      },
+      {
+        "japanese": "良子さんは たった今 うちへ 帰ったところです。",
+        "romaji": "Yoshiko-san wa tatta ima uchi e kaetta tokoro desu.",
+        "vietnamese": "Yoshiko vừa trở về nhà."
+      },
+      {
+        "japanese": "A: けさ ハノイに 着いたんですか。 B: はい、たった今 着いたところだ。",
+        "romaji": "A: Kesa Hanoii ni tsuita n desu ka. B: Hai, tatta ima tsuita tokoro da.",
+        "vietnamese": "A: Bạn đã đến Hà Nội sáng nay à? B: Vâng, tôi vừa đến."
+      }
+    ],
+    "notes": [
+      "Ý nghĩa: vừa mới (làm ～) xong",
+      "Dùng để diễn tả 1 hành động vừa mới kết thúc trong và nhấn mạnh vào thời điểm ngay sau khi hành động hoàn thành",
+      "Mẫu câu này chỉ đi được với trạng từ chỉ thời gian 「たった今」",
+      "Chỉ nhấn mạnh vào thời điểm ngay sau khi hành động kết thúc, không bao gồm cảm giác, tình cảm tâm lý của người nói",
+      "Không dùng với các phó từ chỉ thời gian trong quá khứ nào khác ngoài 「たった今」",
+      "Dùng để trả lời hay giải thích hay nêu lý do cho 1 câu hỏi hay 1 sự bắt đầu câu chuyện của 1 ai đó",
+      "Không dùng để bắt đầu câu chuyện"
+    ]
+  },
+  {
+    "id": "v-ta-bakari-desu",
+    "title": "Vたばかりです - Mới / vừa mới (làm ～)",
+    "description": "Dùng để diễn tả hành động vừa mới hoàn thành, vừa mới kết thúc nhưng chưa lâu lắm. Thời điểm xẩy ra chưa lâu đó hoàn toàn là do phán đoán chủ quan của người nói (có thể là mới đây hoặc cũng có thể là đã lâu rồi)",
+    "structure": "Vたばかりです",
+    "examples": [
+      {
+        "japanese": "山田さんと山本さんは ３か月まえに 結婚したばかりです。",
+        "romaji": "Yamada-san to Yamamoto-san wa sankagetsu mae ni kekkon shita bakari desu.",
+        "vietnamese": "Cô Yamada và anh Yamamoto vừa kết hôn 3 tháng trước."
+      },
+      {
+        "japanese": "田中さんは ３週間まえに ベトナムへ 来たばかりです。",
+        "romaji": "Tanaka-san wa sanshuukan mae ni Betonamu e kita bakari desu.",
+        "vietnamese": "Anh Tanaka vừa đến Việt Nam 3 tuần trước."
+      },
+      {
+        "japanese": "このカメラは きのう 買ったばかりです。",
+        "romaji": "Kono kamera wa kinou katta bakari desu.",
+        "vietnamese": "Cái máy ảnh này hôm qua tôi vừa mua."
+      },
+      {
+        "japanese": "さっき 食べたばかりですから、まだおなかが いっぱいです。",
+        "romaji": "Sakki tabeta bakari desu kara, mada onaka ga ippai desu.",
+        "vietnamese": "Bởi vì vừa ăn nên tôi vẫn còn no."
+      },
+      {
+        "japanese": "ペンキを 塗ったばかりなので、触らないようにしてください。",
+        "romaji": "Penki o nutta bakari na node, sawaranaide kudasai.",
+        "vietnamese": "Vì vừa mới sơn xong nên đừng động vào"
+      },
+      {
+        "japanese": "この時計は 買ったばかりなのに、もう壊れてしまいました。",
+        "romaji": "Kono tokei wa katta bakari na noni, mou kowarete shimaimashita.",
+        "vietnamese": "Cái đồng hồ này vừa mới mua vậy mà đã hỏng mất rồi."
+      },
+      {
+        "japanese": "きのう 教えたばかりなのに、もう忘れてしまいましたか。",
+        "romaji": "Kinou oshieta bakari na noni, mou wasurete shimaimashita ka.",
+        "vietnamese": "Vừa mới dạy ngày hôm qua vậy mà đã quên rồi sau?"
+      },
+      {
+        "japanese": "私は ３ヶ月前に 結婚したばかりです。",
+        "romaji": "Watashi wa sankagetsu mae ni kekkon shita bakari desu.",
+        "vietnamese": "Tôi vừa kết hôn 3 tháng trước."
+      }
+    ],
+    "notes": [
+      "Ý nghĩa: mới / vừa mới (làm ～)",
+      "Dùng để diễn tả hành động vừa mới hoàn thành, vừa mới kết thúc nhưng chưa lâu lắm",
+      "Thời điểm xẩy ra chưa lâu đó hoàn toàn là do phán đoán chủ quan của người nói (có thể là mới đây hoặc cũng có thể là đã lâu rồi)",
+      "Diễn tả hành động vừa xẩy ra nhưng có bao gồm cảm giác, tình cảm, tâm lý của người nói (rằng việc đó chỉ mới xẩy ra cách đây không lâu)",
+      "Dùng được với các phó từ chỉ thời gian trong quá khứ như「この間」「きょねん」…",
+      "Có thể dùng để bắt đầu câu chuyện",
+      "Thể hiện quan hệ nhân quả với 「～ばかりですから、～」、「～ばかりなので、～」",
+      "Thể hiện quan hệ nghịch lý, không ngờ với 「～ばかりですなのに、～」",
+      "Vたばかり cũng được coi như 1 danh từ",
+      "Phân biệt với 「Vたところ」:",
+      "- 「Vたところ」: Chỉ nhấn mạnh vào thời điểm ngay sau khi hành động kết thúc, không bao gồm cảm giác, tình cảm tâm lý của người nói. Không dùng với các phó từ chỉ thời gian trong quá khứ nào khác ngoài 「たった今」. Không dùng để bắt đầu câu chuyện",
+      "- 「Vたばかり」: Diễn tả hành động vừa xẩy ra nhưng có bao gồm cảm giác, tình cảm, tâm lý của người nói. Dùng được với các phó từ chỉ thời gian trong quá khứ. Có thể dùng để bắt đầu câu chuyện"
+    ]
+  }
+]

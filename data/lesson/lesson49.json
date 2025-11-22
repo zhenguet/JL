@@ -1,1 +1,687 @@
-﻿[]
+﻿[
+  {
+    "id": "toRest",
+    "kanji": "休みます",
+    "hiragana": "やすみます",
+    "en": "to rest",
+    "vi": "Suy nghĩ",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm I",
+        "《休みます、休む、休んで》"
+      ]
+    }
+  },
+  {
+    "id": "toHang",
+    "kanji": "掛けます",
+    "hiragana": "かけます",
+    "en": "to hang",
+    "vi": "Thôi, bỏ, từ bỏ",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm II",
+        "《掛けます、掛ける、掛けて》",
+        "●「いすに～」 Bỏ học, thôi học"
+      ]
+    }
+  },
+  {
+    "id": "toReturn",
+    "kanji": "戻ります",
+    "hiragana": "もどります",
+    "en": "to return",
+    "vi": "Bật, ấn",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm I",
+        "《戻ります、戻る、戻って》"
+      ]
+    }
+  },
+  {
+    "id": "toGreet",
+    "kanji": "挨拶します",
+    "hiragana": "あいさつします",
+    "en": "to greet",
+    "vi": "Tắt, ngắt",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm III",
+        "《挨拶します、挨拶する、挨拶して》"
+      ]
+    }
+  },
+  {
+    "id": "toCome",
+    "kanji": "いらっしゃいます",
+    "hiragana": "いらっしゃいます",
+    "en": "to come",
+    "vi": "Suy nghĩ",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm I",
+        "《いらっしゃいます、いらっしゃいる、いらっしゃいて》"
+      ]
+    }
+  },
+  {
+    "id": "toEat",
+    "kanji": "召し上がります",
+    "hiragana": "めしあがります",
+    "en": "to eat",
+    "vi": "Dọn dẹp, sắp xếp",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm I",
+        "《召し上がります、召し上がる、召し上がって》"
+      ]
+    }
+  },
+  {
+    "id": "toSay",
+    "kanji": "おっしゃいます",
+    "hiragana": "おっしゃいます",
+    "en": "to say",
+    "vi": "Sửa, sửa chữa",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm I",
+        "《おっしゃいます、おっしゃいる、おっしゃいて》"
+      ]
+    }
+  },
+  {
+    "id": "toDo",
+    "kanji": "なさいます",
+    "hiragana": "なさいます",
+    "en": "to do",
+    "vi": "Làm (kính ngữ của します)",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm I",
+        "《なさいます、なさる、なさって》"
+      ]
+    }
+  },
+  {
+    "id": "toSee",
+    "kanji": "ご覧になります",
+    "hiragana": "ごらんになります",
+    "en": "to see",
+    "vi": "Xem (kính ngữ của みます)",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm I",
+        "《ご覧になります、ご覧になる、ご覧になって》"
+      ]
+    }
+  },
+  {
+    "id": "toKnow",
+    "kanji": "ご存知です",
+    "hiragana": "ごぞんじです",
+    "en": "to know",
+    "vi": "Biết (kính ngữ của しっています)",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm III",
+        "ご存知です"
+      ]
+    }
+  },
+  {
+    "id": "skilled",
+    "kanji": "お上手",
+    "hiragana": "おじょうず",
+    "en": "skilled",
+    "vi": "Giỏi (kính ngữ của じょうず)",
+    "type": "adjective",
+    "explanation": {
+      "content": [
+        "Tính từ",
+        "［な］"
+      ]
+    }
+  },
+  {
+    "id": "yourHouse",
+    "kanji": "お宅",
+    "hiragana": "おたく",
+    "en": "your house",
+    "vi": "Nhà của ông (bà, ngài)",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "yourCountry",
+    "kanji": "お国",
+    "hiragana": "おくに",
+    "en": "your country",
+    "vi": "Nước (kính ngữ khi nói về đất nước của người khác)",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "honorificPrefix",
+    "kanji": "お～",
+    "hiragana": "お～",
+    "en": "honorific prefix",
+    "vi": "Tiếp đầu ngữ bày tỏ sự kính trọng",
+    "type": "other",
+    "explanation": {
+      "content": [
+        "Tiền tố"
+      ]
+    }
+  },
+  {
+    "id": "yourFamily",
+    "kanji": "ご家族",
+    "hiragana": "ごかぞく",
+    "en": "your family",
+    "vi": "Gia đình ông (bà)",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "honorificPrefix",
+    "kanji": "ご～",
+    "hiragana": "ご～",
+    "en": "honorific prefix",
+    "vi": "Tiếp đầu ngữ bày tỏ sự kính trọng",
+    "type": "other",
+    "explanation": {
+      "content": [
+        "Tiền tố"
+      ]
+    }
+  },
+  {
+    "id": "person",
+    "kanji": "～方",
+    "hiragana": "～かた",
+    "en": "person",
+    "vi": "Vị, ngài",
+    "type": "other",
+    "explanation": {
+      "content": [
+        "Hậu tố",
+        "●あのかた あの方 Vị kia, ngài kia"
+      ]
+    }
+  },
+  {
+    "id": "honorificSuffix",
+    "kanji": "～様",
+    "hiragana": "～さま",
+    "en": "honorific suffix",
+    "vi": "Ngài, ông, bà, cô ~ (kính ngữ của さん)",
+    "type": "other",
+    "explanation": {
+      "content": [
+        "Hậu tố"
+      ]
+    }
+  },
+  {
+    "id": "venue",
+    "kanji": "会場",
+    "hiragana": "かいじょう",
+    "en": "venue",
+    "vi": "Hội trường",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "before",
+    "kanji": "～前",
+    "hiragana": "～まえ",
+    "en": "before",
+    "vi": "Trước ~",
+    "type": "other",
+    "explanation": {
+      "content": [
+        "Hậu tố"
+      ]
+    }
+  },
+  {
+    "id": "past",
+    "kanji": "～過ぎ",
+    "hiragana": "～すぎ",
+    "en": "past",
+    "vi": "Quá ~",
+    "type": "other",
+    "explanation": {
+      "content": [
+        "Hậu tố"
+      ]
+    }
+  },
+  {
+    "id": "first",
+    "kanji": "最初に",
+    "hiragana": "さいしょに",
+    "en": "first",
+    "vi": "Trước hết",
+    "type": "adverb",
+    "explanation": {
+      "content": [
+        "Phó từ"
+      ]
+    }
+  },
+  {
+    "id": "finally",
+    "kanji": "最後に",
+    "hiragana": "さいごに",
+    "en": "finally",
+    "vi": "Cuối cùng",
+    "type": "adverb",
+    "explanation": {
+      "content": [
+        "Phó từ"
+      ]
+    }
+  },
+  {
+    "id": "excuseMe",
+    "kanji": "失礼ですが",
+    "hiragana": "しつれいですが",
+    "en": "excuse me",
+    "vi": "Xin phép cho tôi hỏi…",
+    "type": "other",
+    "explanation": {
+      "content": [
+        "Câu nói"
+      ]
+    }
+  },
+  {
+    "id": "pleaseWait",
+    "kanji": "お待ちください",
+    "hiragana": "おまちください",
+    "en": "please wait",
+    "vi": "Xin vui lòng chờ.",
+    "type": "other",
+    "explanation": {
+      "content": [
+        "Câu nói"
+      ]
+    }
+  },
+  {
+    "id": "anythingNew",
+    "kanji": "おかわりありませんか",
+    "hiragana": "おかわりありませんか",
+    "en": "anything new",
+    "vi": "Có gì mới không? Có gì lạ không?",
+    "type": "other",
+    "explanation": {
+      "content": [
+        "Câu hỏi",
+        "(thay cho câu chào khi gặp nhau)"
+      ]
+    }
+  },
+  {
+    "id": "toWork",
+    "kanji": "勤めます",
+    "hiragana": "つとめます",
+    "en": "to work",
+    "vi": "Làm việc",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm II",
+        "《勤めます、勤める、勤めて》",
+        "●「かいしゃに～」 「会社に～」 Làm việc ở công ty"
+      ]
+    }
+  },
+  {
+    "id": "toSpend",
+    "kanji": "過ごします",
+    "hiragana": "すごします",
+    "en": "to spend",
+    "vi": "Trải qua",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm I",
+        "《過ごします、過ごす、過ごして》"
+      ]
+    }
+  },
+  {
+    "id": "toStopBy",
+    "kanji": "寄ります",
+    "hiragana": "よります",
+    "en": "to stop by",
+    "vi": "Ghé vào",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm I",
+        "《寄ります、寄る、寄って》",
+        "●「ぎんこうに～」 「銀行に～」 Ghé vào ngân hàng"
+      ]
+    }
+  },
+  {
+    "id": "toTakeOut",
+    "kanji": "出します",
+    "hiragana": "だします",
+    "en": "to take out",
+    "vi": "Cho ra, đưa ra",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm I",
+        "《出します、出す、出して》",
+        "●「ねつを～」 「熱を～」 Bị sốt, phát sốt"
+      ]
+    }
+  },
+  {
+    "id": "toReceiveAward",
+    "kanji": "受賞します",
+    "hiragana": "じゅじょうします",
+    "en": "to receive award",
+    "vi": "Nhận giải thưởng",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm III",
+        "《受賞します、受賞する、受賞して》"
+      ]
+    }
+  },
+  {
+    "id": "inn",
+    "kanji": "旅館",
+    "hiragana": "りょかん",
+    "en": "inn",
+    "vi": "Lữ quán, nhà nghỉ",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "busStop",
+    "kanji": "バス停",
+    "hiragana": "バスてい",
+    "en": "bus stop",
+    "vi": "Trạm xe buýt, bến xe buýt",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "trade",
+    "kanji": "貿易",
+    "hiragana": "ぼうえき",
+    "en": "trade",
+    "vi": "Thương mại, giao dịch buôn bán",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "onTheWayBack",
+    "kanji": "帰りに",
+    "hiragana": "かえりに",
+    "en": "on the way back",
+    "vi": "Trên đường về",
+    "type": "adverb",
+    "explanation": {
+      "content": [
+        "Phó từ"
+      ]
+    }
+  },
+  {
+    "id": "occasionally",
+    "kanji": "たまに",
+    "hiragana": "たまに",
+    "en": "occasionally",
+    "vi": "Thỉnh thoảng",
+    "type": "adverb",
+    "explanation": {
+      "content": [
+        "Phó từ"
+      ]
+    }
+  },
+  {
+    "id": "notAtAll",
+    "kanji": "ちっとも",
+    "hiragana": "ちっとも",
+    "en": "not at all",
+    "vi": "Một chút, một ít",
+    "type": "adverb",
+    "explanation": {
+      "content": [
+        "Phó từ"
+      ]
+    }
+  },
+  {
+    "id": "gradeClass",
+    "kanji": "～年～組",
+    "hiragana": "～ねん～くみ",
+    "en": "grade class",
+    "vi": "Lớp~ năm thứ~",
+    "type": "other",
+    "explanation": {
+      "content": [
+        "Thành ngữ"
+      ]
+    }
+  },
+  {
+    "id": "pleaseGiveMyRegards",
+    "kanji": "よろしくおつたえください",
+    "hiragana": "よろしくおつたえください",
+    "en": "please give my regards",
+    "vi": "Xin nhắn lại giúp tôi.",
+    "type": "other",
+    "explanation": {
+      "content": [
+        "Câu nói"
+      ]
+    }
+  },
+  {
+    "id": "excuseMe",
+    "kanji": "失礼いたします",
+    "hiragana": "しつれいいたします",
+    "en": "excuse me",
+    "vi": "Tôi xin phép.",
+    "type": "other",
+    "explanation": {
+      "content": [
+        "Câu nói"
+      ]
+    }
+  },
+  {
+    "id": "himawariElementary",
+    "kanji": "ひまわり小学校",
+    "hiragana": "ひまわりしょうがっこう",
+    "en": "Himawari Elementary",
+    "vi": "Trường tiểu học Himawari",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "lecturer",
+    "kanji": "講師",
+    "hiragana": "こうし",
+    "en": "lecturer",
+    "vi": "Giảng viên, người diễn thuyết",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "many",
+    "kanji": "多くの～",
+    "hiragana": "おおくの～",
+    "en": "many",
+    "vi": "Nhiều ~",
+    "type": "other",
+    "explanation": {
+      "content": [
+        "Thành ngữ"
+      ]
+    }
+  },
+  {
+    "id": "work",
+    "kanji": "作品",
+    "hiragana": "さくひん",
+    "en": "work",
+    "vi": "Tác phẩm",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "worldwide",
+    "kanji": "世界的に",
+    "hiragana": "せかいてきに",
+    "en": "worldwide",
+    "vi": "Mang tầm thế giới",
+    "type": "adverb",
+    "explanation": {
+      "content": [
+        "Phó từ"
+      ]
+    }
+  },
+  {
+    "id": "author",
+    "kanji": "作家",
+    "hiragana": "さっか",
+    "en": "author",
+    "vi": "Tác giả",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "eldestSon",
+    "kanji": "長男",
+    "hiragana": "ちょうなん",
+    "en": "eldest son",
+    "vi": "Trưởng nam",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "disability",
+    "kanji": "障害",
+    "hiragana": "しょうがい",
+    "en": "disability",
+    "vi": "Tật nguyền",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "compose",
+    "kanji": "作曲",
+    "hiragana": "さっきょく",
+    "en": "compose",
+    "vi": "Soạn nhạc",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "activity",
+    "kanji": "活動",
+    "hiragana": "かつどう",
+    "en": "activity",
+    "vi": "Hoạt động",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "nobelPrize",
+    "kanji": "ノーベル文学賞",
+    "hiragana": "ノーベルぶんがくしょう",
+    "en": "Nobel Prize",
+    "vi": "Giải thưởng văn học Nobel",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  }
+]

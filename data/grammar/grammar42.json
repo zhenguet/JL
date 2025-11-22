@@ -1,1 +1,166 @@
-﻿[]
+﻿[
+  {
+    "id": "v-ru-tame-ni",
+    "title": "V1るために、V2 - Để thực hiện V1 thì V2",
+    "description": "Đây là mẫu câu biểu hiện mục đích. Mệnh đề trước đi với ために là mệnh đề biểu hiện mục đích, mệnh đề sau biểu hiện hành vi có ý chí để thực hiện mục đích ấy. Động từ đi trước ｢ために｣ là động từ thể từ điển và là những động từ mang tính ý chí thể hiện 1 mục đích nào đó",
+    "structure": "V1るために、V2",
+    "examples": [
+      {
+        "japanese": "らいねん 世界旅行を するために、今お金を ためています。",
+        "romaji": "Rainen sekai ryokou o suru tame ni, ima okane o tamete imasu.",
+        "vietnamese": "Bây giờ tôi đang tiết kiệm tiền để năm sau đi du lịch."
+      },
+      {
+        "japanese": "漢字を 勉強するために、辞書を 買いました。",
+        "romaji": "Kanji o benkyou suru tame ni, jisho o kaimashita.",
+        "vietnamese": "Tôi đã mua từ điển để học chữ Hán."
+      },
+      {
+        "japanese": "毎日雨が降ったために、橋が 壊れた。",
+        "romaji": "Mainichi ame ga futta tame ni, hashi ga kowareta.",
+        "vietnamese": "Cây cầu bị hỏng do ngày nào trời cũng mưa."
+      }
+    ],
+    "notes": [
+      "Ý nghĩa: Để",
+      "Đây là mẫu câu biểu hiện mục đích",
+      "Mệnh đề trước đi với ために là mệnh đề biểu hiện mục đích, mệnh đề sau biểu hiện hành vi có ý chí để thực hiện mục đích ấy",
+      "Động từ đi trước ｢ために｣ là động từ thể từ điển và là những động từ mang tính ý chí",
+      "Phân biệt「～ように」 (bài 36) với「～ために」:",
+      "Sự giống nhau: Mệnh đề trước là mục đích của mệnh đề sau, mệnh đề sau là hành vi để đạt được mục đích ấy. Động từ được sử dụng ở mệnh đề trước là động từ có tính ý chí. Cả「～ように」 và「～ために」 đều đi với động từ ở thể từ điển",
+      "Sự khác nhau: Ở mệnh đề trước của mẫu câu 「～ように」 có thể sử dụng cả động từ không có tính ý chí",
+      "Động từ có tính ý chí: たべる (ăn), のむ (uống), いく (đi), つくる (tạo ra), ねる (ngủ)...",
+      "Động từ không có tính ý chí: ある (có), 壊れる (bị vỡ), 雨が降る (mưa rơi), できる (có thể)...",
+      "Trong mẫu câu 「～ために」, nếu mệnh đề trước là động từ không có tính ý chí hay là các hiện tượng tự nhiên thì mệnh đề đó không phải chỉ mục đích mà sẽ trở thành mệnh đề chỉ nguyên nhân, lý do"
+    ]
+  },
+  {
+    "id": "n-no-tame-ni",
+    "title": "Nのために、V - Vì/để (danh từ)",
+    "description": "Khi kết hợp với danh từ, mệnh đề 「Nのために」 mang 2 ý nghĩa: 1) Nếu là những danh từ chỉ sự việc, thì mệnh đề này cũng thể hiện mục đích (giống với mẫu cầu với động từ「Vるために」). Nếu là những danh từ chỉ thiên tai... thì mệnh đề này thường thể hiện nguyên nhân, lý do. 2) Nếu là danh từ chỉ người… thì mệnh đề sau là hành vi được thực hiện vì lợi ích của đối tượng đó",
+    "structure": "Nのために、V",
+    "examples": [
+      {
+        "japanese": "健康のために、たばこを やめた。",
+        "romaji": "Kenkou no tame ni, tabako o yameta.",
+        "vietnamese": "Tôi bỏ thuốc lá (để) cho khỏe."
+      },
+      {
+        "japanese": "発表の準備のために、本を 借りました。",
+        "romaji": "Happyou no junbi no tame ni, hon o karimashita.",
+        "vietnamese": "Tôi đã mượn sách để chuẩn bị phát biểu"
+      },
+      {
+        "japanese": "台風のために、木が 倒れた。",
+        "romaji": "Taifuu no tame ni, ki ga taoreta.",
+        "vietnamese": "Cây đổ tại (vì) bão."
+      },
+      {
+        "japanese": "家族のために、一生懸命働かなければなりません。",
+        "romaji": "Kazoku no tame ni, isshoukenmei hatarakanakereba narimasen.",
+        "vietnamese": "Tôi phải cố làm việc hết sức vì gia đình."
+      },
+      {
+        "japanese": "奥さんのために、新しいバイクを買うつもりです。",
+        "romaji": "Okusan no tame ni, atarashii baiku o kau tsumori desu.",
+        "vietnamese": "Tôi định mua 1 chiếc xe máy mới vì/cho vợ."
+      }
+    ],
+    "notes": [
+      "Khi kết hợp với danh từ, mệnh đề 「Nのために」 mang 2 ý nghĩa:",
+      "1) Nếu là những danh từ chỉ sự việc, thì mệnh đề này cũng thể hiện mục đích (giống với mẫu cầu với động từ「Vるために」)",
+      "Nếu là những danh từ chỉ thiên tai... thì mệnh đề này thường thể hiện nguyên nhân, lý do",
+      "2) Nếu là danh từ chỉ người… thì mệnh đề sau là hành vi được thực hiện vì lợi ích của đối tượng đó"
+    ]
+  },
+  {
+    "id": "v-ru-no-ni-tsukau",
+    "title": "Vるのに / Nに 使います/便利です... - Cách sử dụng nữa của trợ từ に thể hiện mục đích",
+    "description": "Trợ từ「に」 có thêm ý nghĩa thể hiện mục đích. Nếu kết hợp với danh từ thì dùng 「Ｎに」, nếu kết hợp với động từ thì dùng phương pháp \"danh từ hóa động từ\" (「曲げるのに」). Về ý nghĩa thể hiện mục đích, mẫu câu này khá giống với 「（の）ために」 nhưng không mạnh mẽ bằng và mệnh đề sau của mẫu câu này thường chỉ giới hạn ở 1 số động từ, tính từ mang tính trạng thái",
+    "structure": "Vるのに / Nに + 使います/便利です/必要です/いいです/役に立ちます/（時間、お金）がかかります",
+    "examples": [
+      {
+        "japanese": "このはさみは 紙を 切るのに 使います。",
+        "romaji": "Kono hasami wa kami o kiru no ni tsukaimasu.",
+        "vietnamese": "Cái kéo này dùng để cắt giấy."
+      },
+      {
+        "japanese": "この ミキサーは 何に 使うんですか。",
+        "romaji": "Kono mikisaa wa nani ni tsukau n desu ka.",
+        "vietnamese": "Cái máy trộn này dùng để làm gì thế?"
+      },
+      {
+        "japanese": "…原料を まぜるのに 使います。",
+        "romaji": "... genryou o mazeru no ni tsukaimasu.",
+        "vietnamese": "Dùng để trộn nguyên liệu."
+      },
+      {
+        "japanese": "この辞書は 漢字を調べるのに 便利です。",
+        "romaji": "Kono jisho wa kanji o shiraberu no ni benri desu.",
+        "vietnamese": "Cuốn từ điển này rất tiện cho việc tra chữ Hán."
+      },
+      {
+        "japanese": "この本は 日本のことを知るのに 役に立ちます。",
+        "romaji": "Kono hon wa nihon no koto o shiru no ni yakuni tachimasu.",
+        "vietnamese": "Quyển sách này có ích cho việc tìm hiểu NB."
+      },
+      {
+        "japanese": "この時計は 直すのに １週間 かかります。",
+        "romaji": "Kono tokei wa naosu no ni isshuukan kakarimasu.",
+        "vietnamese": "Cái đồng hồ này phải mất 1 tuần để sửa."
+      },
+      {
+        "japanese": "新宿へ行くのには、地下鉄が便利です。",
+        "romaji": "Shinjuku e iku no ni wa, chikatetsu ga benri desu.",
+        "vietnamese": "Đi Shinjuku thì tàu điện ngầm là tiện nhất."
+      }
+    ],
+    "notes": [
+      "Ý nghĩa: (sử dụng) vào việc gì / (có lợi) cho việc gì / (cần thiết) cho cái gì",
+      "Có ý nghĩa na ná như các mẫu câu 「とき」 (bài 23) hay「場合」 (bài 45)",
+      "Trợ từ「に」 có thêm ý nghĩa thể hiện mục đích",
+      "Nếu kết hợp với danh từ thì dùng 「Ｎに」",
+      "Nếu kết hợp với động từ thì dùng phương pháp \"danh từ hóa động từ\" (「曲げるのに」)",
+      "Riêng với các động từ nhóm III có dạng「Ｎします」 thì khi kết hợp, không kết hợp theo kiểu 「Ｎするのに」 mà ghép thẳng thành「Ｎに」 (VD: 勉強します→ 勉強に, 修理します→ 修理に)",
+      "Về ý nghĩa thể hiện mục đích, mẫu câu này khá giống với 「（の）ために」 nhưng không mạnh mẽ bằng",
+      "Mệnh đề sau của mẫu câu này thường chỉ giới hạn ở 1 số động từ, tính từ mang tính trạng thái như:",
+      "- 「~に使います」 (cách sử dụng)",
+      "- 「~に便利です、必要です、いいです、役に立ちます…」 (đánh giá)",
+      "- 「~に（時間、お金）がかかります」 (tính toán)"
+    ]
+  },
+  {
+    "id": "purpose-comparison",
+    "title": "So sánh các mẫu câu thể hiện mục đích",
+    "description": "So sánh các mẫu câu thể hiện mục đích 「~に」「~ように」「～ために」「～（の）に」",
+    "structure": "Vますに / Vるように / Vるために / Vるのに",
+    "examples": [
+      {
+        "japanese": "神田へ本を買いに 行きます。",
+        "romaji": "Kanda e hon o kai ni ikimasu.",
+        "vietnamese": "Đi Kanda để mua sách."
+      },
+      {
+        "japanese": "漢字が読めるように、毎日練習します。",
+        "romaji": "Kanji ga yomeru you ni, mainichi renshuu shimasu.",
+        "vietnamese": "Tôi luyện tập hàng ngày để đọc được chữ Hán."
+      },
+      {
+        "japanese": "家を建てるために、お金をためている。",
+        "romaji": "Ie o tateru tame ni, okane o tamete iru.",
+        "vietnamese": "Tiết kiệm tiền để xây nhà."
+      },
+      {
+        "japanese": "新宿へ行くのには、地下鉄が便利です。",
+        "romaji": "Shinjuku e iku no ni wa, chikatetsu ga benri desu.",
+        "vietnamese": "Đi Shinjuku thì tàu điện ngầm là tiện nhất."
+      }
+    ],
+    "notes": [
+      "「~に」 (Bài 13): Vますに + 行く/来る/帰る. Động từ có tính ý chí + に + 行く, 来る, 帰る. Ý nghĩa: Đi (đến, trở về) một nơi nào đó để làm việc gì",
+      "「~ように」 (Bài 36): Vる/Vないように. Mệnh đề trước: Động từ không có tính ý chí / Động từ thể khả năng. Ý nghĩa: Ở mệnh đề trước, sự việc trở thành có khả năng là mục đích, mệnh đề sau thể hiện sự nỗ lực để tiến đến khả năng ấy",
+      "「～ために」 (Bài 42): Vるために. Mệnh đề trước: Động từ có tính ý chí. Mệnh đề sau: Động từ có tính ý chí. Ý nghĩa: Nhấn mạnh vào ý mục đích của mệnh đề trước",
+      "「～（の）に」 (Bài 42): Vるのに. Mệnh đề trước: Động từ có tính ý chí / Động từ không có tính ý chí / Động từ trạng thái / Aい / Aな. Mệnh đề sau: Động từ trạng thái. Ý nghĩa: So với「ために」 thì tính mục đích yếu hơn. Mệnh đề sau thể hiện trạng thái"
+    ]
+  }
+]

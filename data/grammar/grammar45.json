@@ -1,1 +1,112 @@
-﻿[]
+﻿[
+  {
+    "id": "baai-wa",
+    "title": "～場合は - Trong trường hợp…, Nếu…",
+    "description": "Dùng để diễn đạt ý giả định về một tình huống nào đó (ý nghĩa gần giống với mẫu câu 「～たら」) nhưng thường chỉ dùng trong những tình huống không hay, không mong đợi hoặc những điều hiếm khi xảy ra. Hành động ở vế sau thể hiện điều cần phải làm trong trường hợp đó hoặc kết quả do tình huống đó đem lại",
+    "structure": "Vた / Vない / Aい / Aな / Nの + 場合は、～",
+    "examples": [
+      {
+        "japanese": "時間に遅れた 場合は、教室に 入れません。",
+        "romaji": "Jikan ni okureta baai wa, kyoushitsu ni hairemasen.",
+        "vietnamese": "Trong trường hợp đến muộn giờ thì sẽ không vào lớp học được."
+      },
+      {
+        "japanese": "雨が降った 場合は、学校を 休みます。",
+        "romaji": "Ame ga futta baai wa, gakkou o yasumimasu.",
+        "vietnamese": "Tôi sẽ nghỉ học nếu trời mưa."
+      },
+      {
+        "japanese": "会議に間に合わない 場合は、連絡してください。",
+        "romaji": "Kaigi ni maniawanai baai wa, renraku shite kudasai.",
+        "vietnamese": "Trong trường hợp không kịp giờ họp, hãy liên lạc nhé!"
+      },
+      {
+        "japanese": "参加できない 場合は、私に 言ってください。",
+        "romaji": "Sanka dekinai baai wa, watashi ni itte kudasai.",
+        "vietnamese": "Trường hợp không thể tham gia, hãy nói với tôi."
+      },
+      {
+        "japanese": "ファックスの 調子が 悪い 場合は、どうしたらいいですか。",
+        "romaji": "Fakkusu no choushi ga warui baai wa, dou shitara ii desu ka.",
+        "vietnamese": "Tôi nên làm thế nào trong trường hợp máy fax gặp trục trặc?"
+      },
+      {
+        "japanese": "パスポートが 必要な 場合は、彼に言ってください。",
+        "romaji": "Pasupooto ga hitsuyou na baai wa, kare ni itte kudasai.",
+        "vietnamese": "Anh hãy nói với anh ý trong trường hợp cần hộ chiếu."
+      },
+      {
+        "japanese": "火事や 地震の 場合は、エレベーターを 使わないでください。",
+        "romaji": "Kaji ya jishin no baai wa, erebeetaa o tsukawanaide kudasai.",
+        "vietnamese": "Trong trường hợp xảy ra động đất và hỏa hoạn, không được dùng cầu thang máy."
+      }
+    ],
+    "notes": [
+      "Ý nghĩa: Trong trường hợp…, Nếu…",
+      "Dùng để diễn đạt ý giả định về một tình huống nào đó (ý nghĩa gần giống với mẫu câu 「～たら」)",
+      "Thường chỉ dùng trong những tình huống không hay, không mong đợi hoặc những điều hiếm khi xảy ra",
+      "Hành động ở vế sau thể hiện điều cần phải làm trong trường hợp đó hoặc kết quả do tình huống đó đem lại",
+      "Bản thân「場合」 là một danh từ nên nó kết hợp với các loại từ khác (động từ, tính từ, danh từ) theo đúng các quy tắc đã học",
+      "Với động từ: Vた / Vない + 場合は",
+      "Với tính từ: Aい / Aな + 場合は",
+      "Với danh từ: Nの + 場合は",
+      "Trên thực tế, cũng có mẫu câu 「Ｖdict.場合は」 nhưng tính giả định của mẫu câu này không mạnh bằng 「Ｖた場合は」 và trong giáo trình này chỉ dùng mẫu câu 「Ｖた場合は」",
+      "Khi muốn nhấn mạnh, có thể thêm cụm từ 「万一」 hoặc「万が一」 (vạn nhất) vào phía đầu của vế có 「～場合は」"
+    ]
+  },
+  {
+    "id": "no-ni-contrary",
+    "title": "～のに - …thế mà, vậy mà…",
+    "description": "Dùng khi muốn diễn đạt việc không đạt được kết quả như mong đợi trong 1 tình huống nào đó. Điểm khác biệt cần lưu ý ở mẫu câu này (so với cách nói cùng ý nghĩa như 「～が」 hay「～ても」) là nó bao hàm những tình cảm, cảm giác mạnh mẽ của người nói như sự bất mãn, không ngờ…",
+    "structure": "Thể thường + のに、～",
+    "examples": [
+      {
+        "japanese": "ダイエットしているのに、太ってしまいました。",
+        "romaji": "Daietto shite iru no ni, futotte shimaimashita.",
+        "vietnamese": "Tôi đã ăn kiêng thế mà vẫn bị béo."
+      },
+      {
+        "japanese": "約束をしたのに、彼女は 来ませんでした。",
+        "romaji": "Yakusoku o shita no ni, kanojo wa kimasen deshita.",
+        "vietnamese": "Hẹn rồi vậy mà cô ấy không đến."
+      },
+      {
+        "japanese": "ボタンを押したのに、コピーできません。",
+        "romaji": "Botan o oshita no ni, kopii dekimasen.",
+        "vietnamese": "Tôi đã ấn nút rồi thế mà vẫn không thể copy."
+      },
+      {
+        "japanese": "古くて、狭いのに、家賃は 高いです。",
+        "romaji": "Furukute, semai no ni, yachin wa takai desu.",
+        "vietnamese": "Nhà vừa cổ lại hẹp thế mà tiền nhà lại đắt đỏ."
+      },
+      {
+        "japanese": "今日は日曜日なのに、働かなければなりません。",
+        "romaji": "Kyou wa nichiyoubi na no ni, hatarakanakereba narimasen.",
+        "vietnamese": "Hôm nay là chủ nhật mà tôi vẫn phải làm việc."
+      },
+      {
+        "japanese": "このレストランは有名なのに、おいしくないです。",
+        "romaji": "Kono resutoran wa yuumei na no ni, oishikunai desu.",
+        "vietnamese": "Nhà hàng này nổi tiếng thế mà chẳng ngon."
+      },
+      {
+        "japanese": "約束したのに、どうして 来なかったんですか。",
+        "romaji": "Yakusoku shita no ni, doushite konakatta n desu ka.",
+        "vietnamese": "Đã hứa rồi mà sao bạn lại không đến vậy?"
+      }
+    ],
+    "notes": [
+      "Ý nghĩa: …thế mà, vậy mà…",
+      "Dùng khi muốn diễn đạt việc không đạt được kết quả như mong đợi trong 1 tình huống nào đó",
+      "Bao hàm những tình cảm, cảm giác mạnh mẽ của người nói như sự bất mãn, không ngờ…",
+      "Cách chia: Thể thường + のに、～",
+      "Sự khác nhau giữa「～のに」 và「～が/～ても」:",
+      "- 「～が」: chỉ đơn thuần có ý gắn nối 2 sự đánh giá có tính đối lập, không bao hàm ý chỉ kết quả nằm ngoài mong đợi",
+      "- 「～ても」: chỉ dùng để giả định về 1 việc chưa xảy ra trong hiện thực",
+      "- 「～のに」: mang ý ngược nghĩa, nghịch lý giữa 2 vế nhưng có bao hàm cảm giác thất vọng, bất mãn hay không ngờ trong câu nói",
+      "「～のに」 có ý nghĩa hoàn toàn ngược với「～ので」",
+      "Chú ý phân biệt giữa mẫu câu chỉ mục đích「～（の）に」 (bài 42) và mẫu câu diễn đạt nghịch lý「～のに」 của bài này"
+    ]
+  }
+]

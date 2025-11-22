@@ -1,1 +1,233 @@
-﻿[]
+﻿[
+  {
+    "id": "ni-n-wo-itadakimasu",
+    "title": "～に Nを いただきます - Cách nhận từ người trên",
+    "description": "「いただきます」 là khiêm nhường ngữ được dùng thay cho「もらいます」 với hàm ý thể hiện sự khiêm tốn, nhún nhường của người nhận đối với người cho khi người nói nhận gì đó từ người có tuổi tác, địa vị xã hội cao hơn mình (trừ người trong gia đình), người không thân quen lắm hoặc khi muốn thể hiện sự tôn trọng đối với người cho mình",
+    "structure": "～に Nを いただきます",
+    "examples": [
+      {
+        "japanese": "わたしは 社長に とけいを いただきます。",
+        "romaji": "Watashi wa shachou ni tokei o itadakimasu.",
+        "vietnamese": "Tôi nhận được cái đồng hồ từ giám đốc."
+      },
+      {
+        "japanese": "わたしは 先生に プレゼントを いただきました。",
+        "romaji": "Watashi wa sensei ni purezento o itadakimashita.",
+        "vietnamese": "Tôi đã nhận được một món quà từ thầy/cô giáo."
+      },
+      {
+        "japanese": "わたしは 父に お金を いただきます。",
+        "romaji": "Watashi wa chichi ni okane o itadakimasu.",
+        "vietnamese": "(không đúng)"
+      },
+      {
+        "japanese": "わたしは 父に お金を もらいます。",
+        "romaji": "Watashi wa chichi ni okane o moraimasu.",
+        "vietnamese": "Tôi nhận được tiền từ bố."
+      }
+    ],
+    "notes": [
+      "Ý nghĩa: (mình) nhận (từ ai đó) cái gì",
+      "「いただきます」 là khiêm nhường ngữ được dùng thay cho「もらいます」",
+      "Dùng với người có tuổi tác, địa vị xã hội cao hơn mình (trừ người trong gia đình), người không thân quen lắm hoặc khi muốn thể hiện sự tôn trọng",
+      "Chủ thể của động từ này luôn luôn là 「わたし」 (tôi)",
+      "Không dùng với người trong gia đình (ウチの人), dù là người trên. Với người trong gia đình vẫn dùng もらいます"
+    ]
+  },
+  {
+    "id": "wa-ga-n-wo-kudasaimasu",
+    "title": "～は（が）Nを くださいます - Cách người trên cho mình",
+    "description": "「くださいます」 là tôn kính ngữ được dùng thay cho「くれます」 với hàm ý thể hiện sự tôn trọng của người nhận khi người cho là người có tuổi tác, địa vị xã hội cao hơn mình (trừ người trong gia đình), hay người không thân quen lắm",
+    "structure": "～は（が）Nを くださいます",
+    "examples": [
+      {
+        "japanese": "社長は わたしに とけいを くださいます。",
+        "romaji": "Shachou wa watashi ni tokei o kudasaimasu.",
+        "vietnamese": "Giám đốc cho tôi cái đồng hồ."
+      },
+      {
+        "japanese": "先生は わたしに ボールペンを くださいます。",
+        "romaji": "Sensei wa watashi ni boorupen o kudasaimasu.",
+        "vietnamese": "Cô giáo cho tôi cái bút bi."
+      },
+      {
+        "japanese": "母は わたしに 花を くださいます。",
+        "romaji": "Haha wa watashi ni hana o kudasaimasu.",
+        "vietnamese": "(không đúng)"
+      },
+      {
+        "japanese": "母は わたしに 花を くれます。",
+        "romaji": "Haha wa watashi ni hana o kuremasu.",
+        "vietnamese": "Mẹ tặng tôi hoa."
+      },
+      {
+        "japanese": "部長は 妹に おみやげを くださいました。",
+        "romaji": "Buchou wa imouto ni omiyage o kudasaimashita.",
+        "vietnamese": "Trưởng phòng đã cho em gái tôi quà."
+      }
+    ],
+    "notes": [
+      "Ý nghĩa: (ai đó) cho mình cái gì",
+      "「くださいます」 là tôn kính ngữ được dùng thay cho「くれます」",
+      "Dùng khi người cho là người có tuổi tác, địa vị xã hội cao hơn mình (trừ người trong gia đình), hay người không thân quen lắm",
+      "Chủ thể của động từ này luôn là đại từ nhân xưng ngôi thứ 2 hoặc ngôi thứ 3, không bao giờ là 「わたし」 (tôi)",
+      "Thể từ điển của 「くださいます」 là「くださる」, và chuyển sang thể -TE là「くださって」",
+      "Không dùng với người trong gia đình (ウチの人), dù là người trên. Với người trong gia đình vẫn dùng くれます",
+      "「くださいます」 và 「くれます」 cũng được dùng khi người nhận là người trong gia đình hay người có quan hệ \"Trong\" với người nói"
+    ]
+  },
+  {
+    "id": "ni-n-wo-yarimasu",
+    "title": "～に Nを やります - Cách cho người dưới/động vật",
+    "description": "「やります」 được dùng thay cho「あげます」 trong trường hợp đối tượng nhận hành động có địa vị thấp hơn, ít tuổi hơn (em trai, em gái, con cái trong gia đình), động vật, thực vật",
+    "structure": "～に Nを やります",
+    "examples": [
+      {
+        "japanese": "わたしは 弟に さいふを やります。",
+        "romaji": "Watashi wa otouto ni saifu o yarimasu.",
+        "vietnamese": "Tôi cho em trai cái ví."
+      },
+      {
+        "japanese": "わたしは 猫に さかなを やります。",
+        "romaji": "Watashi wa neko ni sakana o yarimasu.",
+        "vietnamese": "Tôi cho mèo ăn cá"
+      },
+      {
+        "japanese": "わたしは 花に 水を やります。",
+        "romaji": "Watashi wa hana ni mizu o yarimasu.",
+        "vietnamese": "Tôi tưới nước cho hoa."
+      },
+      {
+        "japanese": "わたしは 社長に ネクタイを さしあげます。",
+        "romaji": "Watashi wa shachou ni nekutai o sashiagemasu.",
+        "vietnamese": "Tôi biếu ông giám đốc chiếc cà vạt."
+      }
+    ],
+    "notes": [
+      "Ý nghĩa: (mình) cho ai đó cái gì",
+      "「やります」 được dùng thay cho「あげます」",
+      "Dùng với đối tượng nhận có địa vị thấp hơn, ít tuổi hơn (em trai, em gái, con cái trong gia đình), động vật, thực vật",
+      "Cùng là hành động cho, tặng nhưng trong trường hợp người nói muốn thể hiện sự thái độ tôn kính với người nhận là người có địa vị, tuổi tác cao hơn thì dùng「さしあげます」"
+    ]
+  },
+  {
+    "id": "ni-wo-v-te-itadakimasu",
+    "title": "～に ～を Vて いただきます - Được ai đó làm cho việc gì",
+    "description": "Cũng biểu thị lòng biết ơn của người được nhận hành vi giúp đỡ nhưng hàm ý lịch sự, khiêm nhường hơn so với ～てもらいます. Chủ ngữ của câu luôn là 「わたし」 (tôi)",
+    "structure": "～に ～を Vて いただきます",
+    "examples": [
+      {
+        "japanese": "私は 鈴木さんに 日本語を 教えて いただきました。",
+        "romaji": "Watashi wa Suzuki-san ni nihongo o oshiete itadakimashita.",
+        "vietnamese": "Tôi được cô Suzuki dạy cho tiếng Nhật."
+      },
+      {
+        "japanese": "私は 中村さんに 本社へ 連れて 行って いただきました。",
+        "romaji": "Watashi wa Nakamura-san ni honsha e tsurete itte itadakimashita.",
+        "vietnamese": "Tôi được anh Nakamura dẫn đến trụ sở công ty."
+      }
+    ],
+    "notes": [
+      "Ý nghĩa: nhận (việc gì) từ ai; được ai đó làm gì cho",
+      "Cũng biểu thị lòng biết ơn của người được nhận hành vi giúp đỡ nhưng hàm ý lịch sự, khiêm nhường hơn so với ～てもらいます",
+      "Chủ ngữ của câu luôn là 「わたし」 (tôi)",
+      "Dùng với người trên, người không thân quen"
+    ]
+  },
+  {
+    "id": "wa-ga-wo-v-te-kudasaimasu",
+    "title": "～は（が） ～を Vて くださいます - Ai đó làm việc gì cho mình",
+    "description": "Giống với ～ていただきます, cũng nói lên sự cảm tạ của người nhận hành vi giúp đỡ. Khác với ～ていただきます chủ ngữ là người nhận, còn trong câu ～てくださいます chủ ngữ là người thực hiện hành động",
+    "structure": "～は（が） ～を Vて くださいます",
+    "examples": [
+      {
+        "japanese": "部長の奥さんは（私に） 日本料理を 作って くださいました。",
+        "romaji": "Buchou no okusan wa (watashi ni) nihon ryouri o tsukutte kudasaimashita.",
+        "vietnamese": "Vợ của trưởng phòng đã nấu (cho tôi ăn) món ăn Nhật."
+      },
+      {
+        "japanese": "会社の人は（私に） この機械の使い方を 教えてくださいました。",
+        "romaji": "Kaisha no hito wa (watashi ni) kono kikai no tsukaikata o oshiete kudasaimashita.",
+        "vietnamese": "Người trong công ty đã dạy (cho tôi) cách sử dụng của chiếc máy này."
+      }
+    ],
+    "notes": [
+      "Ý nghĩa: ai làm cho việc gì",
+      "Giống với ～ていただきます, cũng nói lên sự cảm tạ của người nhận hành vi giúp đỡ",
+      "Khác với ～ていただきます chủ ngữ là người nhận, còn trong câu ～てくださいます chủ ngữ là người thực hiện hành động",
+      "Dùng với người trên, người không thân quen"
+    ]
+  },
+  {
+    "id": "ni-wo-v-te-yarimasu",
+    "title": "～に ～を Vて やります - Làm việc gì cho ai",
+    "description": "Ý nghĩa thiện chí, lòng tốt khi làm cho ai việc gì (chỉ giới hạn dùng với em trai, em gái, con cái trong gia đình hay với động, thực vật)",
+    "structure": "～に ～を Vて やります",
+    "examples": [
+      {
+        "japanese": "私は 娘に おもちゃを 買ってやりました。",
+        "romaji": "Watashi wa musume ni omocha o katte yarimashita.",
+        "vietnamese": "Tôi mua đồ chơi cho con gái."
+      },
+      {
+        "japanese": "私は おとうとに 誕生日のパーティーを 準備して やりました。",
+        "romaji": "Watashi wa otouto ni tanjoubi no paatii o junbi shite yarimashita.",
+        "vietnamese": "Tôi đã chuẩn bị cho em trai bữa tiệc sinh nhật."
+      },
+      {
+        "japanese": "わたしは 犬を 散歩に 連れて 行って やります。",
+        "romaji": "Watashi wa inu o sanpo ni tsurete itte yarimasu.",
+        "vietnamese": "Tôi dắt chó đi dạo."
+      },
+      {
+        "japanese": "わたしは 社長に 写真を 見せて（さし）あげました。",
+        "romaji": "Watashi wa shachou ni shashin o misete (sashi) agemashita.",
+        "vietnamese": "(không nên dùng)"
+      },
+      {
+        "japanese": "お子さんに どんな おみやげを 買ってあげますか。",
+        "romaji": "Okoosan ni donna omiyage o katte agemasu ka.",
+        "vietnamese": "Anh sẽ mua quà gì cho con anh thế?"
+      },
+      {
+        "japanese": "…とけいか ラジカセを 買ってやりたいです。",
+        "romaji": "... tokei ka rajikase o katte yaritai desu.",
+        "vietnamese": "Tôi muốn mua đồng hồ hay đài casset cho nó."
+      }
+    ],
+    "notes": [
+      "Ý nghĩa: làm việc gì (cho ai)",
+      "Ý nghĩa thiện chí, lòng tốt khi làm cho ai việc gì",
+      "Chỉ giới hạn dùng với em trai, em gái, con cái trong gia đình hay với động, thực vật",
+      "Cũng giống như 「Vてあげます」 đã giải thích ở bài 24, nếu sử dụng「Vてさしあげます」 với ý làm gì đó cho người trên sẽ dễ gây cảm giác ép buộc, không tự nhiên. Vì thế, trong trường hợp này người ta thường không dùng cách nói này, mà sẽ dùng cách nói khiêm nhường sẽ học ở bài 50",
+      "Trường hợp câu hỏi: Khi hỏi về con của người khác (お子さん), người hỏi cũng phải dùng cách nói lịch sự là 「～Vてあげますか」 chứ không dùng 「～Vてやりますか」"
+    ]
+  },
+  {
+    "id": "v-te-itadakemasen-ka",
+    "title": "～Vていただけませんか - Cách yêu cầu lịch sự",
+    "description": "Là biểu hiện nhờ vả lịch sự nhất với những người có địa vị, tuổi tác cao hơn mình hay người không quen biết, lịch sự hơn Vてくださいませんか",
+    "structure": "～Vていただけませんか",
+    "examples": [
+      {
+        "japanese": "すみませんが、もう一度 説明して いただけませんか。",
+        "romaji": "Sumimasen ga, mou ichido setsumei shite itadakemasen ka.",
+        "vietnamese": "Xin lỗi, anh có thể giải thích thêm một lần nữa giúp tôi được không ạ?"
+      },
+      {
+        "japanese": "手紙の書き方が 分からないんですが、ちょっと 教えて いただけませんか。",
+        "romaji": "Tegami no kakikata ga wakaranai n desu ga, chotto oshiete itadakemasen ka.",
+        "vietnamese": "Tôi không biết cách viết thư, anh/chị chỉ giúp tôi được không ạ?"
+      }
+    ],
+    "notes": [
+      "Ý nghĩa: mong (ai đó) làm gì giúp được không?",
+      "Là biểu hiện nhờ vả lịch sự nhất với những người có địa vị, tuổi tác cao hơn mình hay người không quen biết",
+      "Lịch sự hơn Vてくださいませんか",
+      "Chú ý: 「～ていただけませんか」 chứ không phải là 「～ていただきませんか。」",
+      "Bảng tổng kết các biểu hiện nhờ vả theo mức độ lịch sự tăng dần:",
+      "Thể khẳng định: Vてくれ (Bài 33) → Vて (Bài 20) → Vてください (Bài 14) → Vてくださいませんか (Bài 26) → Vていただけませんか (Bài 41)",
+      "Thể phủ định: Vないでくれ (Bài 33) → Vないで (Bài 20) → Vないでください (Bài 14) → Vないでくださいませんか (Bài 26) → Vないでいただけませんか (Bài 41)"
+    ]
+  }
+]

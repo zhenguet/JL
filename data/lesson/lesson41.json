@@ -1,1 +1,732 @@
-﻿[]
+﻿[
+  {
+    "id": "toReceive",
+    "kanji": "頂きます",
+    "hiragana": "いただきます",
+    "en": "to receive",
+    "vi": "Nhận (kính ngữ của もらう)",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm I",
+        "《頂きます、頂く、頂いて》"
+      ]
+    }
+  },
+  {
+    "id": "toGive",
+    "kanji": "下さいます",
+    "hiragana": "くださいます",
+    "en": "to give",
+    "vi": "Cho (kính ngữ của くれる)",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm I",
+        "《下さいます、下さる、下さって》"
+      ]
+    }
+  },
+  {
+    "id": "toGive",
+    "kanji": "やります",
+    "hiragana": "やります",
+    "en": "to give",
+    "vi": "Cho (dùng với người ít tuổi hoặc đồ vật)",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm I",
+        "《やります、やる、やって》"
+      ]
+    }
+  },
+  {
+    "id": "toInvite",
+    "kanji": "招待",
+    "hiragana": "しょうたい",
+    "en": "to invite",
+    "vi": "Mời",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm III",
+        "《招待します、する、して》"
+      ]
+    }
+  },
+  {
+    "id": "toBeKind",
+    "kanji": "親切に",
+    "hiragana": "しんせつに",
+    "en": "to be kind",
+    "vi": "Đối xử tử tế, nhiệt tình",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm III",
+        "《親切にします、する、して》"
+      ]
+    }
+  },
+  {
+    "id": "polite",
+    "kanji": "丁寧",
+    "hiragana": "ていねい",
+    "en": "polite",
+    "vi": "Lịch sự, lễ phép, đàng hoàng",
+    "type": "adjective",
+    "explanation": {
+      "content": [
+        "Tính từ",
+        "［な］"
+      ]
+    }
+  },
+  {
+    "id": "rare",
+    "kanji": "珍しい",
+    "hiragana": "めずらしい",
+    "en": "rare",
+    "vi": "Hiếm, lạ",
+    "type": "adjective",
+    "explanation": {
+      "content": [
+        "Tính từ",
+        "［い］"
+      ]
+    }
+  },
+  {
+    "id": "son",
+    "kanji": "息子",
+    "hiragana": "むすこ",
+    "en": "son",
+    "vi": "Con trai (của mình)",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "daughter",
+    "kanji": "娘",
+    "hiragana": "むすめ",
+    "en": "daughter",
+    "vi": "Con gái (của mình)",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "son",
+    "kanji": "息子さん",
+    "hiragana": "むすこさん",
+    "en": "son",
+    "vi": "Con trai (anh, chị…)",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "daughter",
+    "kanji": "娘さん",
+    "hiragana": "むすめさん",
+    "en": "daughter",
+    "vi": "Con gái (anh, chị…)",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "child",
+    "kanji": "お子さん",
+    "hiragana": "おこさん",
+    "en": "child",
+    "vi": "Con (nói chung của người khác)",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "toy",
+    "kanji": "玩具",
+    "hiragana": "おもちゃ",
+    "en": "toy",
+    "vi": "Đồ chơi",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "telephoneCard",
+    "kanji": "テレホンカード",
+    "hiragana": "テレホンカード",
+    "en": "telephone card",
+    "vi": "Thẻ điện thoại",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "homestay",
+    "kanji": "ホームステイ",
+    "hiragana": "ホームステイ",
+    "en": "homestay",
+    "vi": "Sống chung với gia đình người nước ngoài",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "thanks",
+    "kanji": "お礼",
+    "hiragana": "おれい",
+    "en": "thanks",
+    "vi": "Sự cảm tạ, cảm ơn",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "dance",
+    "kanji": "踊り",
+    "hiragana": "おどり",
+    "en": "dance",
+    "vi": "Điệu múa, điệu nhảy",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "temple",
+    "kanji": "お寺",
+    "hiragana": "おてら",
+    "en": "temple",
+    "vi": "Chùa",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "or",
+    "kanji": "～か～",
+    "hiragana": "～か～",
+    "en": "or",
+    "vi": "~ hay ~",
+    "type": "other",
+    "explanation": {
+      "content": [
+        "Từ nối"
+      ]
+    }
+  },
+  {
+    "id": "toExchange",
+    "kanji": "取り替えます",
+    "hiragana": "とりかえます",
+    "en": "to exchange",
+    "vi": "Đổi, thay",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm II",
+        "《取り替えます、取り替える、取り替えて》"
+      ]
+    }
+  },
+  {
+    "id": "imSorry",
+    "kanji": "申し訳ありません",
+    "hiragana": "もうしわけありません",
+    "en": "I'm sorry",
+    "vi": "Tôi xin lỗi",
+    "type": "other",
+    "explanation": {
+      "content": [
+        "Câu nói"
+      ]
+    }
+  },
+  {
+    "id": "toKeep",
+    "kanji": "預かります",
+    "hiragana": "あずかります",
+    "en": "to keep",
+    "vi": "Giữ",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm I",
+        "《預かります、預かる、預かって》"
+      ]
+    }
+  },
+  {
+    "id": "toBeHelped",
+    "kanji": "助かります",
+    "hiragana": "たすかります",
+    "en": "to be helped",
+    "vi": "Được giúp",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm I",
+        "《助かります、助かる、助かって》"
+      ]
+    }
+  },
+  {
+    "id": "toHelp",
+    "kanji": "助けます",
+    "hiragana": "たすけます",
+    "en": "to help",
+    "vi": "Cứu, giúp",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm II",
+        "《助けます、助ける、助けて》"
+      ]
+    }
+  },
+  {
+    "id": "toLive",
+    "kanji": "暮らします",
+    "hiragana": "くらします",
+    "en": "to live",
+    "vi": "Sinh sống",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm I",
+        "《暮らします、暮らす、暮らして》"
+      ]
+    }
+  },
+  {
+    "id": "toBully",
+    "kanji": "苛めます",
+    "hiragana": "いじめます",
+    "en": "to bully",
+    "vi": "Bắt nạt",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm II",
+        "《苛めます、苛める、苛めて》"
+      ]
+    }
+  },
+  {
+    "id": "cute",
+    "kanji": "可愛い",
+    "hiragana": "かわいい",
+    "en": "cute",
+    "vi": "Đáng yêu, dễ thương",
+    "type": "adjective",
+    "explanation": {
+      "content": [
+        "Tính từ",
+        "［い］"
+      ]
+    }
+  },
+  {
+    "id": "newYearMoney",
+    "kanji": "お年玉",
+    "hiragana": "おとしだま",
+    "en": "new year money",
+    "vi": "Tiền mừng tuổi",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "visit",
+    "kanji": "お見舞い",
+    "hiragana": "おみまい",
+    "en": "visit",
+    "vi": "Thăm (người ốm, người bệnh)",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "interest",
+    "kanji": "興味",
+    "hiragana": "きょうみ",
+    "en": "interest",
+    "vi": "Hứng thú, quan tâm",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "information",
+    "kanji": "情報",
+    "hiragana": "じょうほう",
+    "en": "information",
+    "vi": "Thông tin, tin tức",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "grammar",
+    "kanji": "文法",
+    "hiragana": "ぶんぽう",
+    "en": "grammar",
+    "vi": "Ngữ pháp",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "pronunciation",
+    "kanji": "発音",
+    "hiragana": "はつおん",
+    "en": "pronunciation",
+    "vi": "Phát âm",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "monkey",
+    "kanji": "猿",
+    "hiragana": "さる",
+    "en": "monkey",
+    "vi": "Con khỉ",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "feed",
+    "kanji": "餌",
+    "hiragana": "えさ",
+    "en": "feed",
+    "vi": "Thức ăn (dành cho vật nuôi)",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "pictureBook",
+    "kanji": "絵本",
+    "hiragana": "えほん",
+    "en": "picture book",
+    "vi": "Truyện tranh",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "picturePostcard",
+    "kanji": "絵はがき",
+    "hiragana": "えはがき",
+    "en": "picture postcard",
+    "vi": "Bưu ảnh, bưu thiếp",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "handkerchief",
+    "kanji": "ハンカチ",
+    "hiragana": "ハンカチ",
+    "en": "handkerchief",
+    "vi": "Khăn mùi xoa",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "socks",
+    "kanji": "靴下",
+    "hiragana": "くつした",
+    "en": "socks",
+    "vi": "Tất",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "grandfather",
+    "kanji": "祖父",
+    "hiragana": "そふ",
+    "en": "grandfather",
+    "vi": "Ông (của mình)",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "grandmother",
+    "kanji": "祖母",
+    "hiragana": "そぼ",
+    "en": "grandmother",
+    "vi": "Bà (của mình)",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "grandchild",
+    "kanji": "孫",
+    "hiragana": "まご",
+    "en": "grandchild",
+    "vi": "Cháu",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "uncle",
+    "kanji": "おじ",
+    "hiragana": "おじ",
+    "en": "uncle",
+    "vi": "Chú, cậu, bác (trai) (của mình)",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "uncle",
+    "kanji": "おじさん",
+    "hiragana": "おじさん",
+    "en": "uncle",
+    "vi": "Chú, cậu, bác (trai) (của người khác)",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "aunt",
+    "kanji": "おば",
+    "hiragana": "おば",
+    "en": "aunt",
+    "vi": "Cô, dì, bác (gái) (của mình)",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "aunt",
+    "kanji": "おばさん",
+    "hiragana": "おばさん",
+    "en": "aunt",
+    "vi": "Cô, dì, bác (gái) (của người khác)",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "yearBeforeLast",
+    "kanji": "おととし",
+    "hiragana": "おととし",
+    "en": "year before last",
+    "vi": "Năm kia",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "theOtherDay",
+    "kanji": "先日",
+    "hiragana": "せんじつ",
+    "en": "the other day",
+    "vi": "Hôm trước",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "folktale",
+    "kanji": "昔話",
+    "hiragana": "むかしばなし",
+    "en": "folktale",
+    "vi": "Truyện cổ tích",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "turtle",
+    "kanji": "亀",
+    "hiragana": "かめ",
+    "en": "turtle",
+    "vi": "Con rùa",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "castle",
+    "kanji": "お城",
+    "hiragana": "おしろ",
+    "en": "castle",
+    "vi": "Thành, cung thành",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "princess",
+    "kanji": "お姫様",
+    "hiragana": "おひめさま",
+    "en": "princess",
+    "vi": "Công nương, công chúa",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "land",
+    "kanji": "陸",
+    "hiragana": "りく",
+    "en": "land",
+    "vi": "Đất liền",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "smoke",
+    "kanji": "煙",
+    "hiragana": "けむり",
+    "en": "smoke",
+    "vi": "Khói",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "pureWhite",
+    "kanji": "真っ白",
+    "hiragana": "まっしろ",
+    "en": "pure white",
+    "vi": "Trắng xóa",
+    "type": "adjective",
+    "explanation": {
+      "content": [
+        "Tính từ",
+        "［な］"
+      ]
+    }
+  }
+]
