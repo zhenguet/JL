@@ -79,6 +79,80 @@
   color: #333;
 }
 
+.detail-cell {
+  text-align: center;
+  min-width: 120px;
+}
+
+.expand-btn {
+  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+  color: white;
+  border: none;
+  padding: 8px 16px;
+  border-radius: 6px;
+  cursor: pointer;
+  font-size: 0.95rem;
+  font-weight: 500;
+  transition: opacity 0.2s ease;
+}
+
+.expand-btn:hover {
+  opacity: 0.9;
+}
+
+.vocab-detail-row {
+  background-color: #f9f9f9;
+}
+
+.detail-content {
+  padding: 0 !important;
+}
+
+.vocab-detail {
+  padding: 20px;
+  background: white;
+  border-left: 4px solid #667eea;
+}
+
+.detail-section {
+  margin-bottom: 20px;
+}
+
+.detail-section:last-child {
+  margin-bottom: 0;
+}
+
+.detail-section h4 {
+  color: #764ba2;
+  margin: 0 0 10px 0;
+  font-size: 1.2rem;
+  font-weight: 600;
+}
+
+.explanation-list {
+  list-style: disc;
+  list-style-position: outside;
+  padding-left: 20px;
+  margin: 0;
+  color: #555;
+}
+
+.explanation-list li {
+  margin-bottom: 8px;
+  line-height: 1.5;
+  font-size: 1.1rem;
+  list-style: disc;
+  list-style-position: outside;
+}
+
+.explanation-list li::before {
+  content: none !important;
+}
+
+.explanation-list li::marker {
+  color: #555;
+}
+
 @media (max-width: 768px) {
   .vocab-type-title {
     font-size: 1.2rem;
@@ -113,6 +187,27 @@
 
   .meaning-cell {
     font-size: 0.85rem;
+  }
+
+  .detail-cell {
+    min-width: 100px;
+  }
+
+  .expand-btn {
+    padding: 6px 10px;
+    font-size: 0.8rem;
+  }
+
+  .vocab-detail {
+    padding: 15px;
+  }
+
+  .detail-section h4 {
+    font-size: 1rem;
+  }
+
+  .explanation-list li {
+    font-size: 0.95rem;
   }
 }
 

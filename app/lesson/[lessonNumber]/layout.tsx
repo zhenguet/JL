@@ -2,7 +2,8 @@
 
 import Link from 'next/link'
 import { usePathname } from 'next/navigation'
-import { ReactNode } from 'react'
+import { ReactNode, useState } from 'react'
+import { AlphabetModal } from '@/components'
 import './lesson.css'
 
 export default function LessonLayout({
@@ -14,11 +15,11 @@ export default function LessonLayout({
 }) {
   const lessonNumber = params.lessonNumber
   const pathname = usePathname()
+  const [isAlphabetModalOpen, setIsAlphabetModalOpen] = useState(false)
 
   const menuItems = [
     { path: 'vocabulary', label: 'Từ vựng' },
     { path: 'grammar', label: 'Ngữ pháp' },
-    { path: 'usage', label: 'Giải thích' },
     { path: 'flashcard', label: 'Flashcard' },
     { path: 'exercise', label: 'Bài tập' },
   ]
@@ -83,6 +84,19 @@ export default function LessonLayout({
 
         <div className="lesson-content">{children}</div>
       </div>
+
+      <button
+        className="alphabet-floating-btn"
+        onClick={() => setIsAlphabetModalOpen(true)}
+        aria-label="Xem bảng chữ cái"
+      >
+        あ
+      </button>
+
+      <AlphabetModal
+        isOpen={isAlphabetModalOpen}
+        onClose={() => setIsAlphabetModalOpen(false)}
+      />
     </div>
   )
 }
