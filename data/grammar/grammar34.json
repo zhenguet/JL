@@ -1,1 +1,148 @@
-﻿[]
+﻿[
+  {
+    "id": "toori-ni",
+    "title": "～とおりに - Theo như…, theo đúng như…",
+    "description": "Dùng để diễn đạt ý nói làm gì đó (V2) theo như hoặc giống y như những gì mà mình nghe thấy, nhìn thấy, đọc được....(V1) hoặc theo như hướng dẫn trong 1 cuốn sách, 1 sự chỉ dẫn nào đó… (N)",
+    "structure": "V1 thể -た / N の + とおりに、V2",
+    "examples": [
+      {
+        "japanese": "私が やったとおりに、やってください。",
+        "romaji": "Watashi ga yatta toori ni, yatte kudasai.",
+        "vietnamese": "Hãy làm giống hệt tôi làm."
+      },
+      {
+        "japanese": "私が 言ったとおりに、書いてください。",
+        "romaji": "Watashi ga itta toori ni, kaite kudasai.",
+        "vietnamese": "Hãy viết theo đúng những gì tôi nói."
+      },
+      {
+        "japanese": "見たとおりに、話してください。",
+        "romaji": "Mita toori ni, hanashite kudasai.",
+        "vietnamese": "Hãy kể đúng những gì anh thấy."
+      },
+      {
+        "japanese": "線のとおりに、紙を 切ってください。",
+        "romaji": "Sen no toori ni, kami o kitte kudasai.",
+        "vietnamese": "Hãy cắt giấy theo đường."
+      },
+      {
+        "japanese": "説明書のとおりに、組み立てます。",
+        "romaji": "Setsumeisho no toori ni, kumitatemasu.",
+        "vietnamese": "Lắp ráp theo như sách hướng dẫn."
+      }
+    ],
+    "notes": [
+      "Dùng để diễn đạt ý nói làm gì đó (V2) theo như hoặc giống y như những gì mà mình nghe thấy, nhìn thấy, đọc được....(V1)",
+      "Hoặc theo như hướng dẫn trong 1 cuốn sách, 1 sự chỉ dẫn nào đó… (N)",
+      "Với động từ: dùng thể -た",
+      "Với danh từ: dùng N の"
+    ]
+  },
+  {
+    "id": "ta-ato-de",
+    "title": "～たあとで - Sau khi…",
+    "description": "Dùng để diễn tả tuần tự của các hành động. Tùy từng loại từ mà cách kết hợp sẽ khác nhau: với động từ thì chia ở dạng –ta; với danh từ thì có の; với số từ thì ghép trực tiếp",
+    "structure": "V1 た / N の / Số từ + あとで、V2",
+    "examples": [
+      {
+        "japanese": "新しいのを 買ったあとで、なくした時計が みつかりました。",
+        "romaji": "Atarashii no o katta ato de, nakushita tokei ga mitsukarimashita.",
+        "vietnamese": "Sau khi mua đồng hồ mới, tôi đã tìm thấy chiếc đồng hồ cũ."
+      },
+      {
+        "japanese": "仕事のあとで、飲みに 行きませんか。",
+        "romaji": "Shigoto no ato de, nomi ni ikimasen ka.",
+        "vietnamese": "Sau khi làm việc xong, mình đi uống cà phê nhé."
+      },
+      {
+        "japanese": "２週間あとで、国へ 帰ります。",
+        "romaji": "Nishuukan ato de, kuni e kaerimasu.",
+        "vietnamese": "2 tuần sau, tôi sẽ về nước"
+      },
+      {
+        "japanese": "あした 勉強したあとで、見物に 行きます。",
+        "romaji": "Ashita benkyou shita ato de, kenbutsu ni ikimasu.",
+        "vietnamese": "Ngày mai sau khi học xong, tôi sẽ đi tham quan."
+      },
+      {
+        "japanese": "きのう 勉強したあとで、見物に 行きました。",
+        "romaji": "Kinou benkyou shita ato de, kenbutsu ni ikimashita.",
+        "vietnamese": "Hôm qua sau khi học xong, tôi đã đi tham quan."
+      }
+    ],
+    "notes": [
+      "Dùng để diễn tả tuần tự của các hành động",
+      "Với động từ: chia ở dạng –ta",
+      "Với danh từ: có の",
+      "Với số từ: ghép trực tiếp",
+      "Ở vế 「～たあとで」 động từ luôn chia ở thể ～た, không bị ảnh hưởng của thời điểm diễn ra",
+      "Phân biệt với 「～てから」: 「～てから」 diễn tả ý làm hành động A xong, tiếp ngay sau đó là hành động B. 「～たあとで」 diễn tả tuần tự các hành động: A được làm trước và B được làm sau",
+      "「～てから」 có thể diễn tả thời gian (ví dụ: 日本へ来てから３年になる), còn 「～たあとで」 thì không"
+    ]
+  },
+  {
+    "id": "v-te-v2-state",
+    "title": "V て / V ないで + V2 - Làm V2 (trong trạng thái) V1",
+    "description": "Động từ dạng ～て hoặc ～ないで có thể được dùng để diễn tả trạng thái, tình huống làm nền để 1 hành động khác xảy ra",
+    "structure": "V1 て / V1ないで + V2",
+    "examples": [
+      {
+        "japanese": "あの人は 立って、話しています。",
+        "romaji": "Ano hito wa tatte, hanashite imasu.",
+        "vietnamese": "Người kia đang đứng nói chuyện (đang nói chuyện trong trạng thái đứng)"
+      },
+      {
+        "japanese": "わたしは 座って、話しています。",
+        "romaji": "Watashi wa suwatte, hanashite imasu.",
+        "vietnamese": "Tôi đang ngồi nói chuyện. (đang nói chuyện trong trạng thái ngồi)"
+      },
+      {
+        "japanese": "ヘルメットをかぶって、運転します。",
+        "romaji": "Herumetto o kabutte, unten shimasu.",
+        "vietnamese": "Đội mũ lái xe (trong trạng thái đội mũ)"
+      },
+      {
+        "japanese": "めがねを かけて、本を 読みます。",
+        "romaji": "Megane o kakete, hon o yomimasu.",
+        "vietnamese": "Đeo kính đọc sách (trong trạng thái đeo kính)"
+      },
+      {
+        "japanese": "めがねを かけないで、本を 読みます。",
+        "romaji": "Megane o kakenaide, hon o yomimasu.",
+        "vietnamese": "Đọc sách mà không đeo kính"
+      },
+      {
+        "japanese": "マニュアルを見ないで、機械を操作します。",
+        "romaji": "Manyuaru o minaide, kikai o sousa shimasu.",
+        "vietnamese": "Thao tác máy mà không đọc sách hướng dẫn"
+      }
+    ],
+    "notes": [
+      "Động từ dạng ～て hoặc ～ないで có thể được dùng để diễn tả trạng thái, tình huống làm nền để 1 hành động khác xảy ra",
+      "V て: làm V2 trong trạng thái V1",
+      "V ないで: làm V2 mà không làm V1"
+    ]
+  },
+  {
+    "id": "v1-naide-v2-choice",
+    "title": "V1ないで、V2 - Làm V2 mà không làm V1 (chọn 1 trong 2 hành động)",
+    "description": "Mẫu câu này được dùng khi người nói chỉ một hành động không diễn ra như dự đoán mà được thay thế bởi một hành động khác",
+    "structure": "V1ないで、V2",
+    "examples": [
+      {
+        "japanese": "日曜日 どこも 行かないで、家で ゆっくり 休みます。",
+        "romaji": "Nichiyoubi dokomo ikanaide, ie de yukkuri yasumimasu.",
+        "vietnamese": "Chủ nhật tôi sẽ nghỉ thong thả ở nhà mà không đi đâu cả."
+      },
+      {
+        "japanese": "今晩 家へ 帰らないで、友だちの家に とまります。",
+        "romaji": "Konban uchi e kaeranaide, tomodachi no ie ni tomarimasu.",
+        "vietnamese": "Tối nay tôi không về nhà, mà ở lại nhà bạn"
+      }
+    ],
+    "notes": [
+      "Mẫu câu này được dùng khi người nói chỉ một hành động không diễn ra như dự đoán mà được thay thế bởi một hành động khác",
+      "Chọn 1 trong 2 hành động: không làm V1 mà làm V2"
+    ]
+  }
+]

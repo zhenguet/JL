@@ -1,1 +1,664 @@
-﻿[]
+﻿[
+  {
+    "id": "toGetUsedTo",
+    "kanji": "慣れます",
+    "hiragana": "なれます",
+    "en": "to get used to",
+    "vi": "Quen",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm II",
+        "《慣れます、慣れる、慣れて》",
+        "●「生活に～」 quen (đời sống)"
+      ]
+    }
+  },
+  {
+    "id": "toFall",
+    "kanji": "落ちます",
+    "hiragana": "おちます",
+    "en": "to fall",
+    "vi": "Rơi xuống",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm II",
+        "《落ちます、落ちる、落ちて》",
+        "●「荷物が～」 Rơi xuống (hàng hóa)"
+      ]
+    }
+  },
+  {
+    "id": "toCover",
+    "kanji": "かけます",
+    "hiragana": "かけます",
+    "en": "to cover",
+    "vi": "Bao phủ, che kín lại",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm II",
+        "《かけます、かける、かけて》",
+        "●「カバーを～」 Bao phủ, che lại"
+      ]
+    }
+  },
+  {
+    "id": "toAnnounce",
+    "kanji": "発表します",
+    "hiragana": "はっぴょうします",
+    "en": "to announce",
+    "vi": "Phát biểu; công bố",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm III",
+        "《発表します、～する、～して》"
+      ]
+    }
+  },
+  {
+    "id": "big",
+    "kanji": "大きな",
+    "hiragana": "おおきな",
+    "en": "big",
+    "vi": "~ to",
+    "type": "adjective",
+    "explanation": {
+      "content": [
+        "Tính từ",
+        "［な］"
+      ]
+    }
+  },
+  {
+    "id": "small",
+    "kanji": "小さな",
+    "hiragana": "ちいさな",
+    "en": "small",
+    "vi": "~ nhỏ",
+    "type": "adjective",
+    "explanation": {
+      "content": [
+        "Tính từ",
+        "［な］"
+      ]
+    }
+  },
+  {
+    "id": "life",
+    "kanji": "生活",
+    "hiragana": "せいかつ",
+    "en": "life",
+    "vi": "Sinh hoạt, đời sống",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "impression",
+    "kanji": "感想",
+    "hiragana": "かんそう",
+    "en": "impression",
+    "vi": "Cảm tưởng",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "story",
+    "kanji": "話",
+    "hiragana": "はなし",
+    "en": "story",
+    "vi": "Câu chuyện",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "date",
+    "kanji": "日付",
+    "hiragana": "ひづけ",
+    "en": "date",
+    "vi": "Đề ngày tháng",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "thing",
+    "kanji": "こと",
+    "hiragana": "こと",
+    "en": "thing",
+    "vi": "Điều; chuyện",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ",
+        "～の こと Chuyện về ~"
+      ]
+    }
+  },
+  {
+    "id": "pipe",
+    "kanji": "パイプ",
+    "hiragana": "パイプ",
+    "en": "pipe",
+    "vi": "Cái tẩu, ống dẫn ~",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "cover",
+    "kanji": "カバー",
+    "hiragana": "カバー",
+    "en": "cover",
+    "vi": "Vỏ bọc; bao bên ngoài",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "anything",
+    "kanji": "何でも",
+    "hiragana": "なんでも",
+    "en": "anything",
+    "vi": "Cái nào cũng",
+    "type": "adverb",
+    "explanation": {
+      "content": [
+        "Phó từ"
+      ]
+    }
+  },
+  {
+    "id": "quite",
+    "kanji": "かなり",
+    "hiragana": "かなり",
+    "en": "quite",
+    "vi": "Khá",
+    "type": "adverb",
+    "explanation": {
+      "content": [
+        "Phó từ"
+      ]
+    }
+  },
+  {
+    "id": "almost",
+    "kanji": "ほとんど",
+    "hiragana": "ほとんど",
+    "en": "almost",
+    "vi": "Hầu hết",
+    "type": "adverb",
+    "explanation": {
+      "content": [
+        "Phó từ"
+      ]
+    }
+  },
+  {
+    "id": "inDetail",
+    "kanji": "詳しく",
+    "hiragana": "くわしく",
+    "en": "in detail",
+    "vi": "Chi tiết, một cách chi tiết",
+    "type": "adverb",
+    "explanation": {
+      "content": [
+        "Phó từ"
+      ]
+    }
+  },
+  {
+    "id": "simply",
+    "kanji": "簡単に",
+    "hiragana": "かんたんに",
+    "en": "simply",
+    "vi": "Đơn giản",
+    "type": "adverb",
+    "explanation": {
+      "content": [
+        "Phó từ"
+      ]
+    }
+  },
+  {
+    "id": "absolutely",
+    "kanji": "絶対に",
+    "hiragana": "ぜったいに",
+    "en": "absolutely",
+    "vi": "Tuyệt đối",
+    "type": "adverb",
+    "explanation": {
+      "content": [
+        "Phó từ"
+      ]
+    }
+  },
+  {
+    "id": "forExample",
+    "kanji": "例えば",
+    "hiragana": "たとえば",
+    "en": "for example",
+    "vi": "Thí dụ; chẳng hạn",
+    "type": "adverb",
+    "explanation": {
+      "content": [
+        "Phó từ"
+      ]
+    }
+  },
+  {
+    "id": "thanksToYou",
+    "kanji": "おかげさまで",
+    "hiragana": "おかげさまで",
+    "en": "thanks to you",
+    "vi": "Nhờ trời",
+    "type": "other",
+    "explanation": {
+      "content": [
+        "Thành ngữ"
+      ]
+    }
+  },
+  {
+    "id": "ohYes",
+    "kanji": "そうそう",
+    "hiragana": "そうそう",
+    "en": "oh yes",
+    "vi": "À này",
+    "type": "other",
+    "explanation": {
+      "content": [
+        "Thán từ"
+      ]
+    }
+  },
+  {
+    "id": "toArrive",
+    "kanji": "届きます",
+    "hiragana": "とどきます",
+    "en": "to arrive",
+    "vi": "Chuyển tới",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm I",
+        "《届きます、とどく、届いて》",
+        "●「荷物が～」 Hàng hóa được chuyển tới"
+      ]
+    }
+  },
+  {
+    "id": "toParticipate",
+    "kanji": "出ます",
+    "hiragana": "でます",
+    "en": "to participate",
+    "vi": "Tham gia",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm II",
+        "《出ます、出る、出て》",
+        "●「試合に～」 Tham gia trận đấu"
+      ]
+    }
+  },
+  {
+    "id": "toSave",
+    "kanji": "貯金します",
+    "hiragana": "ちょきんします",
+    "en": "to save",
+    "vi": "Tiết kiệm",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm III",
+        "《貯金します、～する、～して》"
+      ]
+    }
+  },
+  {
+    "id": "toGetFat",
+    "kanji": "太ります",
+    "hiragana": "ふとります",
+    "en": "to get fat",
+    "vi": "Béo",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm I",
+        "《太ります、太る、太って》"
+      ]
+    }
+  },
+  {
+    "id": "toGetThin",
+    "kanji": "痩せます",
+    "hiragana": "やせます",
+    "en": "to get thin",
+    "vi": "Gầy",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm II",
+        "《痩せます、痩せる、痩せて》"
+      ]
+    }
+  },
+  {
+    "id": "toPass",
+    "kanji": "過ぎます",
+    "hiragana": "すぎます",
+    "en": "to pass",
+    "vi": "Quá, vượt quá",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm II",
+        "《過ぎます、過ぎる、過ぎて》",
+        "●「７時を～」 Quá 7 giờ"
+      ]
+    }
+  },
+  {
+    "id": "hard",
+    "kanji": "硬い",
+    "hiragana": "かたい",
+    "en": "hard",
+    "vi": "Cứng",
+    "type": "adjective",
+    "explanation": {
+      "content": [
+        "Tính từ",
+        "［い］"
+      ]
+    }
+  },
+  {
+    "id": "soft",
+    "kanji": "軟らかい",
+    "hiragana": "やわらかい",
+    "en": "soft",
+    "vi": "Mềm",
+    "type": "adjective",
+    "explanation": {
+      "content": [
+        "Tính từ",
+        "［い］"
+      ]
+    }
+  },
+  {
+    "id": "electronic",
+    "kanji": "電子",
+    "hiragana": "でんし",
+    "en": "electronic",
+    "vi": "Điện tử",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "portable",
+    "kanji": "携帯～",
+    "hiragana": "けいたい～",
+    "en": "portable",
+    "vi": "Mang theo, xách theo",
+    "type": "other",
+    "explanation": {
+      "content": [
+        "Tiền tố"
+      ]
+    }
+  },
+  {
+    "id": "health",
+    "kanji": "健康",
+    "hiragana": "けんこう",
+    "en": "health",
+    "vi": "Sức khỏe",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "kendo",
+    "kanji": "剣道",
+    "hiragana": "けんどう",
+    "en": "kendo",
+    "vi": "Kiếm đạo",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "asMuchAsPossible",
+    "kanji": "できるだけ",
+    "hiragana": "できるだけ",
+    "en": "as much as possible",
+    "vi": "Cồ gắng hết sức",
+    "type": "adverb",
+    "explanation": {
+      "content": [
+        "Phó từ"
+      ]
+    }
+  },
+  {
+    "id": "recently",
+    "kanji": "このごろ",
+    "hiragana": "このごろ",
+    "en": "recently",
+    "vi": "Thời gian gần đây, dạo này",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "each",
+    "kanji": "～ずつ",
+    "hiragana": "～ずつ",
+    "en": "each",
+    "vi": "Từng",
+    "type": "other",
+    "explanation": {
+      "content": [
+        "Hậu tố"
+      ]
+    }
+  },
+  {
+    "id": "thatWouldBeBetter",
+    "kanji": "そのほうが～",
+    "hiragana": "そのほうが～",
+    "en": "that would be better",
+    "vi": "Việc đó ~ thì hơn",
+    "type": "other",
+    "explanation": {
+      "content": [
+        "Thành ngữ"
+      ]
+    }
+  },
+  {
+    "id": "customer",
+    "kanji": "お客様",
+    "hiragana": "おきゃくさま",
+    "en": "customer",
+    "vi": "Vị khách",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "special",
+    "kanji": "特別",
+    "hiragana": "とくべつ",
+    "en": "special",
+    "vi": "Đặc biệt",
+    "type": "adjective",
+    "explanation": {
+      "content": [
+        "Tính từ",
+        "［な］"
+      ]
+    }
+  },
+  {
+    "id": "toChallenge",
+    "kanji": "チャレンジします",
+    "hiragana": "チャレンジします",
+    "en": "to challenge",
+    "vi": "Rèn luyện, thử thách, thử sức",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm III",
+        "《します、する、して》"
+      ]
+    }
+  },
+  {
+    "id": "feeling",
+    "kanji": "気持ち",
+    "hiragana": "きもち",
+    "en": "feeling",
+    "vi": "Tâm trạng, tình cảm",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "history",
+    "kanji": "歴史",
+    "hiragana": "れきし",
+    "en": "history",
+    "vi": "Lịch sử",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "steamTrain",
+    "kanji": "汽車",
+    "hiragana": "きしゃ",
+    "en": "steam train",
+    "vi": "Tàu hỏa",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "steamship",
+    "kanji": "汽船",
+    "hiragana": "きせん",
+    "en": "steamship",
+    "vi": "Tàu chạy bằng hơi nước",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "toCarry",
+    "kanji": "運びます",
+    "hiragana": "はこびます",
+    "en": "to carry",
+    "vi": "Vận chuyển",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm I",
+        "《運びます、運ぶ、運んで》"
+      ]
+    }
+  },
+  {
+    "id": "toFly",
+    "kanji": "飛びます",
+    "hiragana": "とびます",
+    "en": "to fly",
+    "vi": "Bay",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm I",
+        "《飛びます、飛ぶ、飛んで》"
+      ]
+    }
+  },
+  {
+    "id": "universe",
+    "kanji": "宇宙",
+    "hiragana": "うちゅう",
+    "en": "universe",
+    "vi": "Vũ trụ",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "earth",
+    "kanji": "地球",
+    "hiragana": "ちきゅう",
+    "en": "earth",
+    "vi": "Trái đất",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  }
+]

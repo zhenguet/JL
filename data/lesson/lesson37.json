@@ -1,1 +1,755 @@
-﻿[]
+﻿[
+  {
+    "id": "toPraise",
+    "kanji": "褒めます",
+    "hiragana": "ほめます",
+    "en": "to praise",
+    "vi": "Khen, tuyên dương",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm II",
+        "《褒めます、褒める、褒めて》"
+      ]
+    }
+  },
+  {
+    "id": "toScold",
+    "kanji": "叱ります",
+    "hiragana": "しかります",
+    "en": "to scold",
+    "vi": "Mắng, la mắng",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm I",
+        "《叱ります、叱る、叱って》"
+      ]
+    }
+  },
+  {
+    "id": "toSteal",
+    "kanji": "盗ります",
+    "hiragana": "とります",
+    "en": "to steal",
+    "vi": "Ăn cắp, lấy",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm I",
+        "《盗ります、盗る、盗って》"
+      ]
+    }
+  },
+  {
+    "id": "toBreak",
+    "kanji": "壊します",
+    "hiragana": "こわします",
+    "en": "to break",
+    "vi": "Làm vỡ, làm hỏng",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm I",
+        "《壊します、壊す、壊して》"
+      ]
+    }
+  },
+  {
+    "id": "toDivide",
+    "kanji": "分けます",
+    "hiragana": "わけます",
+    "en": "to divide",
+    "vi": "Chia",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm II",
+        "《分けます、分ける、分けて》"
+      ]
+    }
+  },
+  {
+    "id": "toProduce",
+    "kanji": "生産します",
+    "hiragana": "せいさんします",
+    "en": "to produce",
+    "vi": "Sản xuất",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm III",
+        "《生産します、～する、～して》"
+      ]
+    }
+  },
+  {
+    "id": "toWeld",
+    "kanji": "溶接します",
+    "hiragana": "ようせつします",
+    "en": "to weld",
+    "vi": "Hàn",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm III",
+        "《溶接します、～する、～して》"
+      ]
+    }
+  },
+  {
+    "id": "toInspect",
+    "kanji": "検査します",
+    "hiragana": "けんさします",
+    "en": "to inspect",
+    "vi": "Kiểm tra",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm III",
+        "《検査します、～する、～して》"
+      ]
+    }
+  },
+  {
+    "id": "toComplete",
+    "kanji": "完成します",
+    "hiragana": "かんせいします",
+    "en": "to complete",
+    "vi": "Hoàn thành",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm III",
+        "《完成します、～する、～して》"
+      ]
+    }
+  },
+  {
+    "id": "toExport",
+    "kanji": "輸出します",
+    "hiragana": "ゆしゅつします",
+    "en": "to export",
+    "vi": "Xuất cảng; xuất khẩu",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm III",
+        "《輸出します、～する、～して》"
+      ]
+    }
+  },
+  {
+    "id": "toImport",
+    "kanji": "輸入します",
+    "hiragana": "ゆにゅうします",
+    "en": "to import",
+    "vi": "Nhập cảng; nhập khẩu",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm III",
+        "《輸入します、～する、～して》"
+      ]
+    }
+  },
+  {
+    "id": "thief",
+    "kanji": "泥棒",
+    "hiragana": "どろぼう",
+    "en": "thief",
+    "vi": "Kẻ trộm",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "policeman",
+    "kanji": "警官",
+    "hiragana": "けいかん",
+    "en": "policeman",
+    "vi": "Cảnh sát",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "wheat",
+    "kanji": "麦",
+    "hiragana": "むぎ",
+    "en": "wheat",
+    "vi": "Lúa mì",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "rawMaterial",
+    "kanji": "原料",
+    "hiragana": "げんりょう",
+    "en": "raw material",
+    "vi": "Nguyên liệu",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "material",
+    "kanji": "材料",
+    "hiragana": "ざいりょう",
+    "en": "material",
+    "vi": "Vật liệu",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "petroleum",
+    "kanji": "石油",
+    "hiragana": "せきゆ",
+    "en": "petroleum",
+    "vi": "Dầu hỏa",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "tanker",
+    "kanji": "タンカー",
+    "hiragana": "タンカー",
+    "en": "tanker",
+    "vi": "Tàu chở dầu",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "assembly",
+    "kanji": "組み立て",
+    "hiragana": "くみたて",
+    "en": "assembly",
+    "vi": "Lắp ráp",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "line",
+    "kanji": "ライン",
+    "hiragana": "ライン",
+    "en": "line",
+    "vi": "Dây chuyền sản xuất",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "steelPlate",
+    "kanji": "鋼板",
+    "hiragana": "こうはん",
+    "en": "steel plate",
+    "vi": "Tấm thép",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "body",
+    "kanji": "ボディー",
+    "hiragana": "ボディー",
+    "en": "body",
+    "vi": "Thân xe",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "tire",
+    "kanji": "タイヤ",
+    "hiragana": "タイヤ",
+    "en": "tire",
+    "vi": "Bánh xe",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "southeast",
+    "kanji": "東南",
+    "hiragana": "とうなん",
+    "en": "southeast",
+    "vi": "Đông Nam",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "asia",
+    "kanji": "アジア",
+    "hiragana": "アジア",
+    "en": "asia",
+    "vi": "Á Châu",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "europe",
+    "kanji": "ヨーロッパ",
+    "hiragana": "ヨーロッパ",
+    "en": "europe",
+    "vi": "Âu Châu",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "percent",
+    "kanji": "パーセント",
+    "hiragana": "パーセント",
+    "en": "percent",
+    "vi": "Phần trăm",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "about",
+    "kanji": "約",
+    "hiragana": "やく",
+    "en": "about",
+    "vi": "Khoảng ~",
+    "type": "other",
+    "explanation": {
+      "content": [
+        "Phó từ"
+      ]
+    }
+  },
+  {
+    "id": "andSoOn",
+    "kanji": "～など",
+    "hiragana": "～など",
+    "en": "and so on",
+    "vi": "~ vân vân",
+    "type": "other",
+    "explanation": {
+      "content": [
+        "Hậu tố"
+      ]
+    }
+  },
+  {
+    "id": "toInvite",
+    "kanji": "誘います",
+    "hiragana": "さそいます",
+    "en": "to invite",
+    "vi": "Rủ, mời",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm I",
+        "《誘います、誘う、誘って》"
+      ]
+    }
+  },
+  {
+    "id": "toWakeUp",
+    "kanji": "起こします",
+    "hiragana": "おこします",
+    "en": "to wake up",
+    "vi": "Đánh thức",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm I",
+        "《起こします、起こす、起こして》"
+      ]
+    }
+  },
+  {
+    "id": "toInvite",
+    "kanji": "招待します",
+    "hiragana": "しょうたいします",
+    "en": "to invite",
+    "vi": "Mời",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm III",
+        "《招待します、～する、～して》"
+      ]
+    }
+  },
+  {
+    "id": "toAsk",
+    "kanji": "頼みます",
+    "hiragana": "たのみます",
+    "en": "to ask",
+    "vi": "Nhờ",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm I",
+        "《頼みます、頼む、頼んで》"
+      ]
+    }
+  },
+  {
+    "id": "toStepOn",
+    "kanji": "踏みます",
+    "hiragana": "ふみます",
+    "en": "to step on",
+    "vi": "Đạp lên, giẫm lên",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm I",
+        "《踏みます、踏む、踏んで》"
+      ]
+    }
+  },
+  {
+    "id": "toDirty",
+    "kanji": "汚します",
+    "hiragana": "よごします",
+    "en": "to dirty",
+    "vi": "Làm bẩn",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm I",
+        "《汚します、汚す、汚して》"
+      ]
+    }
+  },
+  {
+    "id": "toCarryOut",
+    "kanji": "行います",
+    "hiragana": "おこないます",
+    "en": "to carry out",
+    "vi": "Tổ chức, tiến hành",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm I",
+        "《行います、行う、行って》"
+      ]
+    }
+  },
+  {
+    "id": "toTranslate",
+    "kanji": "翻訳します",
+    "hiragana": "ほんやくします",
+    "en": "to translate",
+    "vi": "Biên dịch",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm III",
+        "《翻訳します、～する、～して》"
+      ]
+    }
+  },
+  {
+    "id": "toInvent",
+    "kanji": "発明します",
+    "hiragana": "はつめいします",
+    "en": "to invent",
+    "vi": "Phát minh",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm III",
+        "《発明します、～する、～して》"
+      ]
+    }
+  },
+  {
+    "id": "toDiscover",
+    "kanji": "発見します",
+    "hiragana": "はっけんします",
+    "en": "to discover",
+    "vi": "Phát hiện",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm III",
+        "《発見します、～する、～して》"
+      ]
+    }
+  },
+  {
+    "id": "toDesign",
+    "kanji": "設計します",
+    "hiragana": "せっけいします",
+    "en": "to design",
+    "vi": "Thiết kế",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm III",
+        "《設計します、～する、～して》"
+      ]
+    }
+  },
+  {
+    "id": "date",
+    "kanji": "デート",
+    "hiragana": "デート",
+    "en": "date",
+    "vi": "Hẹn hò",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "architect",
+    "kanji": "建築家",
+    "hiragana": "けんちくか",
+    "en": "architect",
+    "vi": "Kiến trúc sư",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "scientist",
+    "kanji": "科学者",
+    "hiragana": "かがくしゃ",
+    "en": "scientist",
+    "vi": "Nhà khoa học",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "comic",
+    "kanji": "漫画",
+    "hiragana": "まんが",
+    "en": "comic",
+    "vi": "Truyện tranh",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "throughout",
+    "kanji": "～じゅう",
+    "hiragana": "～じゅう",
+    "en": "throughout",
+    "vi": "~ khắp cả",
+    "type": "other",
+    "explanation": {
+      "content": [
+        "Hậu tố"
+      ]
+    }
+  },
+  {
+    "id": "by",
+    "kanji": "～によって",
+    "hiragana": "～によって",
+    "en": "by",
+    "vi": "Do, bởi ~",
+    "type": "other",
+    "explanation": {
+      "content": [
+        "Hậu tố"
+      ]
+    }
+  },
+  {
+    "id": "land",
+    "kanji": "土地",
+    "hiragana": "とち",
+    "en": "land",
+    "vi": "Đất đai",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "noise",
+    "kanji": "騒音",
+    "hiragana": "そうおん",
+    "en": "noise",
+    "vi": "Tiếng ồn",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "access",
+    "kanji": "アクセス",
+    "hiragana": "アクセス",
+    "en": "access",
+    "vi": "Đường đi",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "century",
+    "kanji": "世紀",
+    "hiragana": "せいき",
+    "en": "century",
+    "vi": "Thế kỷ",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "luxurious",
+    "kanji": "豪華",
+    "hiragana": "ごうか",
+    "en": "luxurious",
+    "vi": "Tráng lệ",
+    "type": "adjective",
+    "explanation": {
+      "content": [
+        "Tính từ",
+        "［な］"
+      ]
+    }
+  },
+  {
+    "id": "sculpture",
+    "kanji": "彫刻",
+    "hiragana": "ちょうこく",
+    "en": "sculpture",
+    "vi": "Điêu khắc",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "toSleep",
+    "kanji": "眠ります",
+    "hiragana": "ねむります",
+    "en": "to sleep",
+    "vi": "Ngủ",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm I",
+        "《眠ります、眠る、眠って》"
+      ]
+    }
+  },
+  {
+    "id": "toCarve",
+    "kanji": "彫ります",
+    "hiragana": "ほります",
+    "en": "to carve",
+    "vi": "Khắc",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm I",
+        "《彫ります、彫る、彫って》"
+      ]
+    }
+  },
+  {
+    "id": "companion",
+    "kanji": "仲間",
+    "hiragana": "なかま",
+    "en": "companion",
+    "vi": "Bạn bè",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "mouse",
+    "kanji": "ねずみ",
+    "hiragana": "ねずみ",
+    "en": "mouse",
+    "vi": "Con chuột",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  }
+]

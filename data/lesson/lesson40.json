@@ -1,1 +1,856 @@
-﻿[]
+﻿[
+  {
+    "id": "toCount",
+    "kanji": "数えます",
+    "hiragana": "かぞえます",
+    "en": "to count",
+    "vi": "Đếm",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm II",
+        "《数えます、数える、数えて》"
+      ]
+    }
+  },
+  {
+    "id": "toBeEnough",
+    "kanji": "足ります",
+    "hiragana": "たります",
+    "en": "to be enough",
+    "vi": "Đủ",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm II",
+        "《足ります、足りる、足りて》"
+      ]
+    }
+  },
+  {
+    "id": "toRemain",
+    "kanji": "残ります",
+    "hiragana": "のこります",
+    "en": "to remain",
+    "vi": "Còn lại, thừa",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm I",
+        "《残ります、残る、残って》"
+      ]
+    }
+  },
+  {
+    "id": "toFit",
+    "kanji": "合います",
+    "hiragana": "あいます",
+    "en": "to fit",
+    "vi": "Thích hợp",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm I",
+        "《合います、合う、合って》",
+        "●「サイズが～」 Cỡ thích hợp"
+      ]
+    }
+  },
+  {
+    "id": "toSearch",
+    "kanji": "探します",
+    "hiragana": "さがします",
+    "en": "to search",
+    "vi": "Tìm",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm I",
+        "《探します、探す、探して》"
+      ]
+    }
+  },
+  {
+    "id": "toFind",
+    "kanji": "見つけます",
+    "hiragana": "みつけます",
+    "en": "to find",
+    "vi": "Tìm thấy",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm II",
+        "《見つけます、見つける、見つけて》"
+      ]
+    }
+  },
+  {
+    "id": "toCheck",
+    "kanji": "チェックします",
+    "hiragana": "チェックします",
+    "en": "to check",
+    "vi": "Kiểm lại; xét lại",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm III",
+        "《～する、～して》"
+      ]
+    }
+  },
+  {
+    "id": "toBeRelated",
+    "kanji": "関係があります",
+    "hiragana": "かんけいがあります",
+    "en": "to be related",
+    "vi": "Có liên quan",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm III",
+        "《関係がある、～あって》",
+        "●「せんもんと～」 Có liên quan với chuyên môn"
+      ]
+    }
+  },
+  {
+    "id": "true",
+    "kanji": "本当",
+    "hiragana": "ほんとう",
+    "en": "true",
+    "vi": "Thật",
+    "type": "adjective",
+    "explanation": {
+      "content": [
+        "Tính từ",
+        "［な］"
+      ]
+    }
+  },
+  {
+    "id": "wound",
+    "kanji": "傷",
+    "hiragana": "きず",
+    "en": "wound",
+    "vi": "Vết thương",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "contents",
+    "kanji": "中身",
+    "hiragana": "なかみ",
+    "en": "contents",
+    "vi": "Nội dung",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "cause",
+    "kanji": "原因",
+    "hiragana": "げんいん",
+    "en": "cause",
+    "vi": "Nguyên nhân",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "size",
+    "kanji": "大きさ",
+    "hiragana": "おおきさ",
+    "en": "size",
+    "vi": "Độ lớn",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "weight",
+    "kanji": "重さ",
+    "hiragana": "おもさ",
+    "en": "weight",
+    "vi": "Sức nặng",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "length",
+    "kanji": "長さ",
+    "hiragana": "ながさ",
+    "en": "length",
+    "vi": "Chiều dài",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "height",
+    "kanji": "高さ",
+    "hiragana": "たかさ",
+    "en": "height",
+    "vi": "Chiều cao",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "counterForObjects",
+    "kanji": "～個",
+    "hiragana": "～こ",
+    "en": "counter for objects",
+    "vi": "… cái; chiếc",
+    "type": "other",
+    "explanation": {
+      "content": [
+        "Hậu tố đếm"
+      ]
+    }
+  },
+  {
+    "id": "counterForLongObjects",
+    "kanji": "～本",
+    "hiragana": "～ほん（－ぽん、－ぼん）",
+    "en": "counter for long objects",
+    "vi": "… cây, chai, cái (đếm vật có chiều dài)",
+    "type": "other",
+    "explanation": {
+      "content": [
+        "Hậu tố đếm"
+      ]
+    }
+  },
+  {
+    "id": "counterForCups",
+    "kanji": "～杯",
+    "hiragana": "～はい（－ぱい、－ばい）",
+    "en": "counter for cups",
+    "vi": "… cốc, chén, bát (đếm vật chứa chất lỏng)",
+    "type": "other",
+    "explanation": {
+      "content": [
+        "Hậu tố đếm"
+      ]
+    }
+  },
+  {
+    "id": "kilo",
+    "kanji": "キロ",
+    "hiragana": "キロ",
+    "en": "kilo",
+    "vi": "Kg, km",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "gram",
+    "kanji": "グラム",
+    "hiragana": "グラム",
+    "en": "gram",
+    "vi": "Gr",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "centimeter",
+    "kanji": "センチ",
+    "hiragana": "センチ",
+    "en": "centimeter",
+    "vi": "Cm",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "millimeter",
+    "kanji": "ミリ",
+    "hiragana": "ミリ",
+    "en": "millimeter",
+    "vi": "mm",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "hope",
+    "kanji": "希望",
+    "hiragana": "きぼう",
+    "en": "hope",
+    "vi": "Nguyện vọng",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "relation",
+    "kanji": "関係",
+    "hiragana": "かんけい",
+    "en": "relation",
+    "vi": "Quan hệ; liên quan",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "store",
+    "kanji": "販売店",
+    "hiragana": "はんばいてん",
+    "en": "store",
+    "vi": "Tiệm bán hàng",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "needs",
+    "kanji": "ニーズ",
+    "hiragana": "ニーズ",
+    "en": "needs",
+    "vi": "Nhu cầu",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "customer",
+    "kanji": "お客さん",
+    "hiragana": "おきゃくさん",
+    "en": "customer",
+    "vi": "(Quý) khách",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "perfectly",
+    "kanji": "ぴったり",
+    "hiragana": "ぴったり",
+    "en": "perfectly",
+    "vi": "Vừa khít",
+    "type": "adverb",
+    "explanation": {
+      "content": [
+        "Phó từ"
+      ]
+    }
+  },
+  {
+    "id": "well",
+    "kanji": "さあ",
+    "hiragana": "さあ",
+    "en": "well",
+    "vi": "Ừm… (ý nói để xem sao)",
+    "type": "other",
+    "explanation": {
+      "content": [
+        "Thán từ"
+      ]
+    }
+  },
+  {
+    "id": "however",
+    "kanji": "しかし",
+    "hiragana": "しかし",
+    "en": "however",
+    "vi": "Nhưng mà",
+    "type": "other",
+    "explanation": {
+      "content": [
+        "Từ nối"
+      ]
+    }
+  },
+  {
+    "id": "toMeasure",
+    "kanji": "測ります",
+    "hiragana": "はかります",
+    "en": "to measure",
+    "vi": "Cân, đo",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm I",
+        "《測ります、測る、測って》"
+      ]
+    }
+  },
+  {
+    "id": "toConfirm",
+    "kanji": "確かめます",
+    "hiragana": "たしかめます",
+    "en": "to confirm",
+    "vi": "Xác nhận",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm II",
+        "《確かめます、確かめる、確かめて》"
+      ]
+    }
+  },
+  {
+    "id": "toDepart",
+    "kanji": "出発します",
+    "hiragana": "しゅっぱつします",
+    "en": "to depart",
+    "vi": "Xuất phát",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm III",
+        "《出発します、～する、～して》"
+      ]
+    }
+  },
+  {
+    "id": "toArrive",
+    "kanji": "到着します",
+    "hiragana": "とうちゃくします",
+    "en": "to arrive",
+    "vi": "Đến nơi",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm III",
+        "《到着します、～する、～して》"
+      ]
+    }
+  },
+  {
+    "id": "toGetDrunk",
+    "kanji": "酔います",
+    "hiragana": "よいます",
+    "en": "to get drunk",
+    "vi": "Say",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm I",
+        "《酔います、酔う、酔って》"
+      ]
+    }
+  },
+  {
+    "id": "dangerous",
+    "kanji": "危険",
+    "hiragana": "きけん",
+    "en": "dangerous",
+    "vi": "Nguy hiểm",
+    "type": "adjective",
+    "explanation": {
+      "content": [
+        "Tính từ",
+        "［な］"
+      ]
+    }
+  },
+  {
+    "id": "yearEndParty",
+    "kanji": "忘年会",
+    "hiragana": "ぼうねんかい",
+    "en": "year-end party",
+    "vi": "Tiệc cuối năm, ăn tất niên",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "newYearParty",
+    "kanji": "新年会",
+    "hiragana": "しんねんかい",
+    "en": "new year party",
+    "vi": "Tiệc đầu năm mới",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "afterParty",
+    "kanji": "二次会",
+    "hiragana": "にじかい",
+    "en": "after party",
+    "vi": "Tiệc nhỏ tổ chức sau tiệc lớn",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "convention",
+    "kanji": "大会",
+    "hiragana": "たいかい",
+    "en": "convention",
+    "vi": "Đại hội",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "marathon",
+    "kanji": "マラソン",
+    "hiragana": "マラソン",
+    "en": "marathon",
+    "vi": "Ma ra tông",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "contest",
+    "kanji": "コンテスト",
+    "hiragana": "コンテスト",
+    "en": "contest",
+    "vi": "Cuộc thi",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "front",
+    "kanji": "表",
+    "hiragana": "おもて",
+    "en": "front",
+    "vi": "Mặt trước",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "back",
+    "kanji": "裏",
+    "hiragana": "うら",
+    "en": "back",
+    "vi": "Mặt sau",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "application",
+    "kanji": "申し込み",
+    "hiragana": "もうしこみ",
+    "en": "application",
+    "vi": "đơn",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "pants",
+    "kanji": "ズボン",
+    "hiragana": "ズボン",
+    "en": "pants",
+    "vi": "Quần",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "flightNumber",
+    "kanji": "～便",
+    "hiragana": "～びん",
+    "en": "flight number",
+    "vi": "Chuyến bay số ~",
+    "type": "other",
+    "explanation": {
+      "content": [
+        "Hậu tố"
+      ]
+    }
+  },
+  {
+    "id": "number",
+    "kanji": "～号",
+    "hiragana": "～ごう",
+    "en": "number",
+    "vi": "Tàu số ~",
+    "type": "other",
+    "explanation": {
+      "content": [
+        "Hậu tố"
+      ]
+    }
+  },
+  {
+    "id": "howAboutIt",
+    "kanji": "どうでしょうか",
+    "hiragana": "どうでしょうか",
+    "en": "how about it",
+    "vi": "Thế nào ạh?",
+    "type": "other",
+    "explanation": {
+      "content": [
+        "Câu hỏi"
+      ]
+    }
+  },
+  {
+    "id": "grade",
+    "kanji": "成績",
+    "hiragana": "せいせき",
+    "en": "grade",
+    "vi": "Thành tích",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "byTheWay",
+    "kanji": "ところで",
+    "hiragana": "ところで",
+    "en": "by the way",
+    "vi": "Còn chuyện khác nữa",
+    "type": "other",
+    "explanation": {
+      "content": [
+        "Từ nối"
+      ]
+    }
+  },
+  {
+    "id": "situation",
+    "kanji": "様子",
+    "hiragana": "ようす",
+    "en": "situation",
+    "vi": "Tình hình",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "incident",
+    "kanji": "事件",
+    "hiragana": "じけん",
+    "en": "incident",
+    "vi": "Sự kiện",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "motorcycle",
+    "kanji": "オートバイ",
+    "hiragana": "オートバイ",
+    "en": "motorcycle",
+    "vi": "Xe máy",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "bomb",
+    "kanji": "爆弾",
+    "hiragana": "ばくだん",
+    "en": "bomb",
+    "vi": "bom",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "toLoad",
+    "kanji": "積みます",
+    "hiragana": "つみます",
+    "en": "to load",
+    "vi": "Chứa, chất",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm I",
+        "《積みます、積む、積んで》"
+      ]
+    }
+  },
+  {
+    "id": "driver",
+    "kanji": "運転手",
+    "hiragana": "うんてんしゅ",
+    "en": "driver",
+    "vi": "Người lái xe",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "separated",
+    "kanji": "離れた",
+    "hiragana": "はなれた",
+    "en": "separated",
+    "vi": "Cách xa",
+    "type": "adjective",
+    "explanation": {
+      "content": [
+        "Tính từ",
+        "［い］"
+      ]
+    }
+  },
+  {
+    "id": "suddenly",
+    "kanji": "急に",
+    "hiragana": "きゅうに",
+    "en": "suddenly",
+    "vi": "Đột nhiên",
+    "type": "adverb",
+    "explanation": {
+      "content": [
+        "Phó từ"
+      ]
+    }
+  },
+  {
+    "id": "criminal",
+    "kanji": "犯人",
+    "hiragana": "はんにん",
+    "en": "criminal",
+    "vi": "Phạm nhân",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "toMove",
+    "kanji": "動かします",
+    "hiragana": "うごかします",
+    "en": "to move",
+    "vi": "Chuyển động",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm I",
+        "《動かします、動かす、動かして》"
+      ]
+    }
+  },
+  {
+    "id": "toObtain",
+    "kanji": "手に入れます",
+    "hiragana": "てにいれます",
+    "en": "to obtain",
+    "vi": "Có trong tay",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm II",
+        "《手に入れます、入れる、入れて》"
+      ]
+    }
+  },
+  {
+    "id": "toGossip",
+    "kanji": "うわさします",
+    "hiragana": "うわさします",
+    "en": "to gossip",
+    "vi": "Bàn tán, bàn luận",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm I",
+        "《うわかします、うわかす、うわかして》"
+      ]
+    }
+  }
+]

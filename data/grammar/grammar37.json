@@ -1,1 +1,176 @@
-﻿[]
+﻿[
+  {
+    "id": "ukemi-form",
+    "title": "Động từ thể Ukemi（受身）",
+    "description": "Thể bị động (受身) được dùng để diễn đạt hành động bị/được thực hiện. Cách chia khác nhau tùy theo nhóm động từ",
+    "structure": "Nhóm I: [i] → [are] / Nhóm II: thêm られ / Nhóm III: くる → こられる, する → される",
+    "examples": [
+      {
+        "japanese": "ききます → きかれます",
+        "romaji": "kikimasu → kikaremasu",
+        "vietnamese": "nghe → được nghe/bị nghe"
+      },
+      {
+        "japanese": "よみます → よまれます",
+        "romaji": "yomimasu → yomaremasu",
+        "vietnamese": "đọc → được đọc/bị đọc"
+      },
+      {
+        "japanese": "はこびます → はこばれます",
+        "romaji": "hakobimasu → hakobaremasu",
+        "vietnamese": "mang → được mang/bị mang"
+      },
+      {
+        "japanese": "とります → とられます",
+        "romaji": "torimasu → toraremasu",
+        "vietnamese": "lấy → được lấy/bị lấy"
+      },
+      {
+        "japanese": "つかいます → つかわれます",
+        "romaji": "tsukaimasu → tsukawaremasu",
+        "vietnamese": "dùng → được dùng/bị dùng"
+      },
+      {
+        "japanese": "こわします → こわされます",
+        "romaji": "kowashimasu → kowasaremasu",
+        "vietnamese": "làm hỏng → bị làm hỏng"
+      },
+      {
+        "japanese": "たべます → たべられます",
+        "romaji": "tabemasu → taberaremasu",
+        "vietnamese": "ăn → được ăn/bị ăn"
+      },
+      {
+        "japanese": "ほめます → ほめられます",
+        "romaji": "homemasu → homeraremasu",
+        "vietnamese": "khen → được khen"
+      },
+      {
+        "japanese": "みます → みられます",
+        "romaji": "mimasu → miraremasu",
+        "vietnamese": "xem → được xem/bị xem"
+      },
+      {
+        "japanese": "きます → こられます",
+        "romaji": "kimasu → koraremasu",
+        "vietnamese": "đến → được đến/bị đến"
+      },
+      {
+        "japanese": "します → されます",
+        "romaji": "shimasu → saremasu",
+        "vietnamese": "làm → được làm/bị làm"
+      }
+    ],
+    "notes": [
+      "Nhóm I: Chuyển [i] thành [are] (ví dụ: ききます → きかれます)",
+      "Nhóm II: Thêm られ (ví dụ: たべます → たべられます)",
+      "Nhóm III: きます → こられます, します → されます"
+    ]
+  },
+  {
+    "id": "ukemi-pattern1",
+    "title": "N1(người)は N2(người)に + Ukemi - Bị～, được～",
+    "description": "Khi danh từ 2 làm hành động nào đó đối với danh từ 1, danh từ 1 là phía nhận hành động đó. Có thể mang nghĩa tích cực (được) hoặc tiêu cực (bị)",
+    "structure": "N1(người)は N2(người)に + Ukemi",
+    "examples": [
+      {
+        "japanese": "課長は 私を ほめました。",
+        "romaji": "Kachou wa watashi o homemashita.",
+        "vietnamese": "Giám đốc khen tôi."
+      },
+      {
+        "japanese": "私は 課長に ほめられました。",
+        "romaji": "Watashi wa kachou ni homeraremashita.",
+        "vietnamese": "Tôi được giám đốc khen."
+      },
+      {
+        "japanese": "課長は 私を しかりました。",
+        "romaji": "Kachou wa watashi o shikarimashita.",
+        "vietnamese": "Giám đốc mắng tôi."
+      },
+      {
+        "japanese": "私は 課長に しかられました。",
+        "romaji": "Watashi wa kachou ni shikararemashita.",
+        "vietnamese": "Tôi bị giám đốc mắng."
+      }
+    ],
+    "notes": [
+      "Khi danh từ 2 làm hành động nào đó đối với danh từ 1, danh từ 1 là phía nhận hành động đó",
+      "Nghĩa tích cực: Được (ví dụ: được khen)",
+      "Nghĩa tiêu cực: Bị (ví dụ: bị mắng)",
+      "Trong câu chủ động danh từ 1 là người nhận hành động, được biểu thị bằng trợ từ を",
+      "Trong câu bị động trợ từ を thay bằng trợ từ は để biểu thị chủ từ",
+      "Danh từ 2 là người làm hành động biểu thị bằng trợ từ に"
+    ]
+  },
+  {
+    "id": "ukemi-pattern2",
+    "title": "N1(người)は N2(người)に N3(vật)を + Ukemi - Bị～ (làm phiền)",
+    "description": "Khi danh từ 2 làm một hành động nào đó đối với danh từ 3 là vật sở hữu của danh từ 1 và danh từ 1 cảm thấy hành động đó là quấy rầy hay làm phiền mình",
+    "structure": "N1(người)は N2(người)に N3(vật)を + Ukemi",
+    "examples": [
+      {
+        "japanese": "どろぼうは （わたしの） お金を 取りました。",
+        "romaji": "Dorobou wa (watashi no) okane o torimashita.",
+        "vietnamese": "Kẻ trộm lấy tiền của tôi."
+      },
+      {
+        "japanese": "私は どろぼうに お金を 取られました。",
+        "romaji": "Watashi wa dorobou ni okane o toraremashita.",
+        "vietnamese": "Tôi bị kẻ trộm lấy tiền."
+      }
+    ],
+    "notes": [
+      "Khi danh từ 2 làm một hành động nào đó đối với danh từ 3 là vật sở hữu của danh từ 1",
+      "Danh từ 1 cảm thấy hành động đó là quấy rầy hay làm phiền mình",
+      "Người làm hành động biểu thị bằng trợ từ に",
+      "Người nhận sự quấy rầy hay làm phiền bởi hành động đó biểu thị bằng trợ từ は",
+      "Vật nhận hành động biểu thị bằng trợ từ を"
+    ]
+  },
+  {
+    "id": "ukemi-pattern3",
+    "title": "N は / が + Ukemi - Được～ (xây dựng, sản xuất)",
+    "description": "Diễn đạt việc một vật được xây dựng, sản xuất, tạo ra. Khi sự vật không được đặc biệt nhấn mạnh như chủ đề của câu thì は được thay bằng が",
+    "structure": "N は / が + Ukemi",
+    "examples": [
+      {
+        "japanese": "あの ビールは 30年まえに たてられました。",
+        "romaji": "Ano biiru wa sanjuu nen mae ni tateraremashita.",
+        "vietnamese": "Tòa nhà kia được xây dựng 30 năm trước đây."
+      },
+      {
+        "japanese": "ここで ボディーが ようせつされます。",
+        "romaji": "Koko de bodii ga yousetsu saremasu.",
+        "vietnamese": "Thân xe được hàn ở đây."
+      }
+    ],
+    "notes": [
+      "Diễn đạt việc một vật được xây dựng, sản xuất, tạo ra",
+      "Khi sự vật không được đặc biệt nhấn mạnh như chủ đề của câu thì は được thay bằng が",
+      "Thường dùng với các động từ như: たてる (xây dựng), つくる (làm, sản xuất), ようせつする (hàn)"
+    ]
+  },
+  {
+    "id": "ni-ratio",
+    "title": "Trợ từ に biểu hiện tỷ lệ",
+    "description": "Trợ từ に được dùng để biểu hiện tỷ lệ, tần suất",
+    "structure": "Số từ + に + Số từ",
+    "examples": [
+      {
+        "japanese": "一日に 1,500台 自動車が 生産されています。",
+        "romaji": "Ichinichi ni sen gohyaku dai jidousha ga seisan sarete imasu.",
+        "vietnamese": "1500 chiếc xe được sản xuất trong một ngày."
+      },
+      {
+        "japanese": "二人に 一人は 大学へ 行きます。",
+        "romaji": "Futari ni hitori wa daigaku e ikimasu.",
+        "vietnamese": "Cứ hai người thì một người học lên đại học."
+      }
+    ],
+    "notes": [
+      "Trợ từ に được dùng để biểu hiện tỷ lệ, tần suất",
+      "Ví dụ: 一日に (trong một ngày), 二人に一人 (cứ hai người thì một người)"
+    ]
+  }
+]

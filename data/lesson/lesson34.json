@@ -1,1 +1,858 @@
-﻿[]
+﻿[
+  {
+    "id": "toAssemble",
+    "kanji": "組み立てます",
+    "hiragana": "くみたてます",
+    "en": "to assemble",
+    "vi": "Lắp ráp",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm II",
+        "《組み立てます、組み立てる、組み立てて》"
+      ]
+    }
+  },
+  {
+    "id": "toInstall",
+    "kanji": "取り付けます",
+    "hiragana": "とりつけます",
+    "en": "to install",
+    "vi": "Gắn vào",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm II",
+        "《取り付けます、取り付ける、取り付けて》"
+      ]
+    }
+  },
+  {
+    "id": "toFit",
+    "kanji": "はめます",
+    "hiragana": "はめます",
+    "en": "to fit",
+    "vi": "Cài vào",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm II",
+        "《はめます、はめる、はめて》"
+      ]
+    }
+  },
+  {
+    "id": "toTighten",
+    "kanji": "しめます",
+    "hiragana": "しめます",
+    "en": "to tighten",
+    "vi": "Vặn lại, đóng lại",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm II",
+        "《しめます、しめる、しめて》"
+      ]
+    }
+  },
+  {
+    "id": "toLoosen",
+    "kanji": "ゆるめます",
+    "hiragana": "ゆるめます",
+    "en": "to loosen",
+    "vi": "Tháo, nới lỏng ra",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm II",
+        "《ゆるめます、ゆるめる、ゆるめて》"
+      ]
+    }
+  },
+  {
+    "id": "toBeWrong",
+    "kanji": "違います",
+    "hiragana": "ちがいます",
+    "en": "to be wrong",
+    "vi": "Sai lầm, khác biệt",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm I",
+        "《違います、違う、違って》",
+        "●「じゅんじょが～」 Thứ tự sai"
+      ]
+    }
+  },
+  {
+    "id": "toHurry",
+    "kanji": "あわてます",
+    "hiragana": "あわてます",
+    "en": "to hurry",
+    "vi": "Vội vàng",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm II",
+        "《あわてます、あわてる、あわてて》"
+      ]
+    }
+  },
+  {
+    "id": "toDisassemble",
+    "kanji": "分解",
+    "hiragana": "ぶんかい",
+    "en": "to disassemble",
+    "vi": "Tháo rời ra",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm III",
+        "《します、する、して》"
+      ]
+    }
+  },
+  {
+    "id": "order",
+    "kanji": "順序",
+    "hiragana": "じゅんじょ",
+    "en": "order",
+    "vi": "Thứ tự, tuần tự",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "number",
+    "kanji": "番号",
+    "hiragana": "ばんごう",
+    "en": "number",
+    "vi": "Số",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "diagram",
+    "kanji": "図",
+    "hiragana": "ず",
+    "en": "diagram",
+    "vi": "Sơ đồ, đồ thị",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "table",
+    "kanji": "表",
+    "hiragana": "ひょう",
+    "en": "table",
+    "vi": "Biểu đồ",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "line",
+    "kanji": "線",
+    "hiragana": "せん",
+    "en": "line",
+    "vi": "Tuyến, đường dây",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "point",
+    "kanji": "点",
+    "hiragana": "てん",
+    "en": "point",
+    "vi": "Chấm, điểm",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "instructionManual",
+    "kanji": "説明書",
+    "hiragana": "せつめいしょ",
+    "en": "instruction manual",
+    "vi": "Sách giải thích",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "sample",
+    "kanji": "サンプル",
+    "hiragana": "サンプル",
+    "en": "sample",
+    "vi": "Mẫu, kiểu",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "program",
+    "kanji": "プログラム",
+    "hiragana": "プログラム",
+    "en": "program",
+    "vi": "Chương trình",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "meeting",
+    "kanji": "ミーティング",
+    "hiragana": "ミーティング",
+    "en": "meeting",
+    "vi": "Buổi họp",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "problem",
+    "kanji": "問題",
+    "hiragana": "もんだい",
+    "en": "problem",
+    "vi": "Vấn đề, câu hỏi",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "volleyball",
+    "kanji": "バレーボール",
+    "hiragana": "バレーボール",
+    "en": "volleyball",
+    "vi": "Bóng chuyền",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "screw",
+    "kanji": "ねじ",
+    "hiragana": "ねじ",
+    "en": "screw",
+    "vi": "Đinh ốc, vít",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "bolt",
+    "kanji": "ボルト",
+    "hiragana": "ボルト",
+    "en": "bolt",
+    "vi": "Bu long",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "packing",
+    "kanji": "パッキング",
+    "hiragana": "パッキング",
+    "en": "packing",
+    "vi": "Bao bì",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "asMuchAsPossible",
+    "kanji": "できるだけ",
+    "hiragana": "できるだけ",
+    "en": "as much as possible",
+    "vi": "Cố gắng, hết sức mình",
+    "type": "adverb",
+    "explanation": {
+      "content": [
+        "Phó từ"
+      ]
+    }
+  },
+  {
+    "id": "firmly",
+    "kanji": "しっかり",
+    "hiragana": "しっかり",
+    "en": "firmly",
+    "vi": "Vững chắc, kiên cố",
+    "type": "adverb",
+    "explanation": {
+      "content": [
+        "Phó từ"
+      ]
+    }
+  },
+  {
+    "id": "first",
+    "kanji": "まず",
+    "hiragana": "まず",
+    "en": "first",
+    "vi": "Trước hết",
+    "type": "adverb",
+    "explanation": {
+      "content": [
+        "Phó từ"
+      ]
+    }
+  },
+  {
+    "id": "next",
+    "kanji": "次に",
+    "hiragana": "つぎに",
+    "en": "next",
+    "vi": "Tiếp theo",
+    "type": "adverb",
+    "explanation": {
+      "content": [
+        "Phó từ"
+      ]
+    }
+  },
+  {
+    "id": "noGood",
+    "kanji": "いけない",
+    "hiragana": "いけない",
+    "en": "no good",
+    "vi": "Không được rồi",
+    "type": "adjective",
+    "explanation": {
+      "content": [
+        "Tính từ",
+        "［い］"
+      ]
+    }
+  },
+  {
+    "id": "isThisOk",
+    "kanji": "いいですか",
+    "hiragana": "いいですか",
+    "en": "is this ok",
+    "vi": "[như thế này] được không?",
+    "type": "other",
+    "explanation": {
+      "content": [
+        "Câu hỏi",
+        "【これで】いいですか。"
+      ]
+    }
+  },
+  {
+    "id": "wellDone",
+    "kanji": "うまくいきましたね",
+    "hiragana": "うまくいきましたね",
+    "en": "well done",
+    "vi": "Anh làm tốt lắm rồi",
+    "type": "other",
+    "explanation": {
+      "content": [
+        "Câu nói",
+        "(khi thành công)"
+      ]
+    }
+  },
+  {
+    "id": "toPolish",
+    "kanji": "磨きます",
+    "hiragana": "みがきます",
+    "en": "to polish",
+    "vi": "Chải, cọ",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm I",
+        "《磨きます、磨く、磨いて》",
+        "●「はを～」 Đánh răng"
+      ]
+    }
+  },
+  {
+    "id": "toFold",
+    "kanji": "折ります",
+    "hiragana": "おります",
+    "en": "to fold",
+    "vi": "Bẻ, gập, gấp",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm I",
+        "《折ります、折る、折って》"
+      ]
+    }
+  },
+  {
+    "id": "toDip",
+    "kanji": "付けます",
+    "hiragana": "つきます",
+    "en": "to dip",
+    "vi": "Chấm",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm I",
+        "《付けます、付ける、付けて》",
+        "●「しょうゆを～」 Chấm xì dầu"
+      ]
+    }
+  },
+  {
+    "id": "toPlaceOn",
+    "kanji": "載せます",
+    "hiragana": "のせます",
+    "en": "to place on",
+    "vi": "Chất lên, chồng lên, đặt lên",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm II",
+        "《載せます、載せる、載せて》"
+      ]
+    }
+  },
+  {
+    "id": "toBoil",
+    "kanji": "煮ます",
+    "hiragana": "にます",
+    "en": "to boil",
+    "vi": "Nấu",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm II",
+        "《煮ます、煮る、煮て》"
+      ]
+    }
+  },
+  {
+    "id": "toBeBoiled",
+    "kanji": "煮えます",
+    "hiragana": "にえます",
+    "en": "to be boiled",
+    "vi": "Chín",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm II",
+        "《煮えます、煮える、煮えて》"
+      ]
+    }
+  },
+  {
+    "id": "question",
+    "kanji": "質問",
+    "hiragana": "しつもん",
+    "en": "question",
+    "vi": "Hỏi",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm III",
+        "《します、する、して》"
+      ]
+    }
+  },
+  {
+    "id": "thin",
+    "kanji": "細い",
+    "hiragana": "ほそい",
+    "en": "thin",
+    "vi": "Thon dài, gầy, mảnh",
+    "type": "adjective",
+    "explanation": {
+      "content": [
+        "Tính từ",
+        "［い］"
+      ]
+    }
+  },
+  {
+    "id": "thick",
+    "kanji": "太い",
+    "hiragana": "ふとい",
+    "en": "thick",
+    "vi": "To, béo",
+    "type": "adjective",
+    "explanation": {
+      "content": [
+        "Tính từ",
+        "［い］"
+      ]
+    }
+  },
+  {
+    "id": "bonDance",
+    "kanji": "盆踊り",
+    "hiragana": "ぼんおどり",
+    "en": "bon dance",
+    "vi": "Điệu nhảy lễ hội Bon",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "sportsClub",
+    "kanji": "スポーツクラブ",
+    "hiragana": "スポーツクラブ",
+    "en": "sports club",
+    "vi": "Câu lạc bộ thể thao",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "furniture",
+    "kanji": "家具",
+    "hiragana": "かぐ",
+    "en": "furniture",
+    "vi": "Đồ nội thất",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "key",
+    "kanji": "キー",
+    "hiragana": "キー",
+    "en": "key",
+    "vi": "Chìa khóa",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "seatBelt",
+    "kanji": "シートベルト",
+    "hiragana": "シートベルト",
+    "en": "seat belt",
+    "vi": "Dây an toàn",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "arrow",
+    "kanji": "矢印",
+    "hiragana": "やじるし",
+    "en": "arrow",
+    "vi": "Dẫu mũi tên",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "navyBlue",
+    "kanji": "紺",
+    "hiragana": "こん",
+    "en": "navy blue",
+    "vi": "Màu xanh tím than",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "yellow",
+    "kanji": "黄色",
+    "hiragana": "きいろ",
+    "en": "yellow",
+    "vi": "Màu vàng",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "brown",
+    "kanji": "茶色",
+    "hiragana": "ちゃいろ",
+    "en": "brown",
+    "vi": "Màu nâu",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "soySauce",
+    "kanji": "しょうゆ",
+    "hiragana": "しょうゆ",
+    "en": "soy sauce",
+    "vi": "Xì dầu",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "sauce",
+    "kanji": "ソース",
+    "hiragana": "ソース",
+    "en": "sauce",
+    "vi": "Nước sốt",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "or",
+    "kanji": "～か、～",
+    "hiragana": "～か、～",
+    "en": "or",
+    "vi": "~ hoặc~",
+    "type": "other",
+    "explanation": {
+      "content": [
+        "Từ nối"
+      ]
+    }
+  },
+  {
+    "id": "lastNight",
+    "kanji": "ゆうべ",
+    "hiragana": "ゆうべ",
+    "en": "last night",
+    "vi": "Tối qua, đêm qua",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "justNow",
+    "kanji": "さっき",
+    "hiragana": "さっき",
+    "en": "just now",
+    "vi": "Lúc nãy",
+    "type": "adverb",
+    "explanation": {
+      "content": [
+        "Phó từ"
+      ]
+    }
+  },
+  {
+    "id": "teaCeremony",
+    "kanji": "茶道",
+    "hiragana": "さどう",
+    "en": "tea ceremony",
+    "vi": "Trà đạo",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "bitter",
+    "kanji": "苦い",
+    "hiragana": "にがい",
+    "en": "bitter",
+    "vi": "Đắng",
+    "type": "adjective",
+    "explanation": {
+      "content": [
+        "Tính từ",
+        "［い］"
+      ]
+    }
+  },
+  {
+    "id": "oyakodon",
+    "kanji": "親子どんぶり",
+    "hiragana": "おやこどんぶり",
+    "en": "oyakodon",
+    "vi": "Món ăn Oyakodonburi",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "ingredient",
+    "kanji": "材料",
+    "hiragana": "ざいりょう",
+    "en": "ingredient",
+    "vi": "Nguyên liệu",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "portion",
+    "kanji": "～分",
+    "hiragana": "～ぶん",
+    "en": "portion",
+    "vi": "~ phần",
+    "type": "other",
+    "explanation": {
+      "content": [
+        "Hậu tố"
+      ]
+    }
+  },
+  {
+    "id": "gram",
+    "kanji": "～グラム",
+    "hiragana": "～グラム",
+    "en": "gram",
+    "vi": "~ gram",
+    "type": "other",
+    "explanation": {
+      "content": [
+        "Hậu tố"
+      ]
+    }
+  },
+  {
+    "id": "counterForObjects",
+    "kanji": "～個",
+    "hiragana": "～こ",
+    "en": "counter for objects",
+    "vi": "~ quả",
+    "type": "other",
+    "explanation": {
+      "content": [
+        "Hậu tố đếm"
+      ]
+    }
+  },
+  {
+    "id": "onion",
+    "kanji": "たまねぎ",
+    "hiragana": "たまねぎ",
+    "en": "onion",
+    "vi": "Hành tây",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "oneFourth",
+    "kanji": "4分の1",
+    "hiragana": "よんぶんのいち",
+    "en": "one fourth",
+    "vi": "Một phần tư (1/4)",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "seasoning",
+    "kanji": "調味料",
+    "hiragana": "ちょうみりょう",
+    "en": "seasoning",
+    "vi": "Gia vị",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "pot",
+    "kanji": "なべ",
+    "hiragana": "なべ",
+    "en": "pot",
+    "vi": "Nồi",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  }
+]
