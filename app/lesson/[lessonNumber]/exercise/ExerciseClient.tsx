@@ -6,7 +6,7 @@ import { vocabularyData } from '@/data/vocabulary';
 import { getGrammarExercises, getRandomGrammarExercise } from '@/data/grammarExercises';
 import { getMultipleChoiceExercises, getRandomMultipleChoiceExercise } from '@/data/multipleChoiceExercises';
 import { getReadingExercises, getRandomReadingExercise } from '@/data/readingExercises';
-import { Exercise, ExerciseType, isGrammarExercise, isMultipleChoiceExercise, isReadingExercise } from '@/types/exercise';
+import { Exercise, ExerciseType, isGrammarExercise, isMultipleChoiceExercise, isReadingExercise, isFillKanjiHiraganaExercise } from '@/types/exercise';
 import { useEffect, useRef, useState } from 'react';
 import './exercise.css';
 
@@ -104,6 +104,20 @@ export default function ExerciseClient({ lessonNumber }: ExerciseClientProps) {
         answer: randomWord.kanji!,
         hiragana: randomWord.hiragana,
       };
+    } else if (exerciseType === 'fill-kanji-hiragana') {
+      const kanjiWords = vocabulary.filter(w => w.kanji);
+      if (kanjiWords.length === 0) {
+        setIsGenerating(false);
+        return;
+      }
+      const randomWord = kanjiWords[Math.floor(Math.random() * kanjiWords.length)];
+      exercise = {
+        id: `fill-kanji-hiragana-${Date.now()}`,
+        type: 'fill-kanji-hiragana',
+        question: `${randomWord.kanji}　（${randomWord.hiragana}） = ?`,
+        kanji: randomWord.kanji,
+        hiragana: randomWord.hiragana,
+      };
     } else if (exerciseType === 'grammar' || exerciseType === 'multiple-choice' || exerciseType === 'reading') {
       // Try AI generation first
       exercise = await generateWithAI(exerciseType);
@@ -195,51 +209,74 @@ export default function ExerciseClient({ lessonNumber }: ExerciseClientProps) {
       explanation = currentExercise.explanation || '';
       usedMethod = 'local'; // Multiple choice doesn't need AI
     } else {
-      // For text-based answers (fill, translate, kanji), try AI first
-      const aiResult = await checkWithAI(
-        currentExercise.question,
-        'answer' in currentExercise ? currentExercise.answer : '',
-        userAnswer,
-        currentExercise.type
-      );
-
-      if (aiResult && !aiResult.error) {
-        correct = aiResult.isCorrect;
-        explanation = aiResult.explanation;
-        usedMethod = 'ai';
-      } else {
-        // AI failed, fallback to local check
+      // For fill-kanji-hiragana exercises, check both kanji and hiragana
+      if (isFillKanjiHiraganaExercise(currentExercise)) {
         const cleanText = (text: string) => {
           return text
-            .toLowerCase()
-            .replace(/[~～]/g, '') // Remove tildes
-            .replace(/\(.*?\)|（.*?）/g, '') // Remove content in parentheses
-            .replace(/[!.,;?]/g, '') // Remove punctuation
+            .replace(/[~～]/g, '')
+            .replace(/\(.*?\)|（.*?）/g, '')
+            .replace(/[!.,;?]/g, '')
             .trim();
         };
 
         const normalizedUserAnswer = cleanText(userAnswer);
-        const originalAnswer = 'answer' in currentExercise ? currentExercise.answer : '';
+        const normalizedKanji = cleanText(currentExercise.kanji);
+        const normalizedHiragana = cleanText(currentExercise.hiragana);
         
-        // Split by common delimiters
-        const answerParts = originalAnswer.split(/[,、\/;]/).map(cleanText);
-        
-        // Check for exact match with any valid part
-        correct = answerParts.some(part => part === normalizedUserAnswer);
-
-        // Also allow if the user answer is contained in the original answer (for longer sentences)
-        // but only if the user answer is of sufficient length to avoid false positives
-        if (!correct && normalizedUserAnswer.length > 2) {
-           correct = answerParts.some(part => part.includes(normalizedUserAnswer));
-        }
-        
-        if (aiResult?.error) {
-          // Only show error in development, hide in production (expected on GitHub Pages)
-          if (process.env.NODE_ENV === 'development') {
-            explanation = `⚠️ AI lỗi (dùng local check): ${aiResult.error}`;
-          }
-        }
+        correct = normalizedUserAnswer === normalizedKanji || normalizedUserAnswer === normalizedHiragana;
         usedMethod = 'local';
+        if (correct) {
+          explanation = `Chính xác! Bạn có thể điền "${currentExercise.kanji}" (kanji) hoặc "${currentExercise.hiragana}" (hiragana).`;
+        } else {
+          explanation = `Đáp án có thể là "${currentExercise.kanji}" (kanji) hoặc "${currentExercise.hiragana}" (hiragana).`;
+        }
+      } else {
+        // For text-based answers (fill, translate, kanji), try AI first
+        const aiResult = await checkWithAI(
+          currentExercise.question,
+          'answer' in currentExercise ? currentExercise.answer : '',
+          userAnswer,
+          currentExercise.type
+        );
+
+        if (aiResult && !aiResult.error) {
+          correct = aiResult.isCorrect;
+          explanation = aiResult.explanation;
+          usedMethod = 'ai';
+        } else {
+          // AI failed, fallback to local check
+          const cleanText = (text: string) => {
+            return text
+              .toLowerCase()
+              .replace(/[~～]/g, '') // Remove tildes
+              .replace(/\(.*?\)|（.*?）/g, '') // Remove content in parentheses
+              .replace(/[!.,;?]/g, '') // Remove punctuation
+              .trim();
+          };
+
+          const normalizedUserAnswer = cleanText(userAnswer);
+          const originalAnswer = 'answer' in currentExercise ? currentExercise.answer : '';
+          
+          // Split by common delimiters
+          const answerParts = originalAnswer.split(/[,、\/;]/).map(cleanText);
+          
+          // Check for exact match with any valid part
+          correct = answerParts.some(part => part === normalizedUserAnswer);
+
+          // Also allow if the user answer is contained in the original answer (for longer sentences)
+          // but only if the user answer is of sufficient length to avoid false positives
+          if (!correct && normalizedUserAnswer.length > 2) {
+             correct = answerParts.some(part => part.includes(normalizedUserAnswer));
+          }
+          
+          if (aiResult?.error) {
+            // Only show error in development, hide in production (expected on GitHub Pages)
+            if (process.env.NODE_ENV === 'development') {
+              explanation = `⚠️ AI lỗi (dùng local check): ${aiResult.error}`;
+            }
+          }
+          usedMethod = 'local';
+        }
       }
     }
 
@@ -321,7 +358,7 @@ export default function ExerciseClient({ lessonNumber }: ExerciseClientProps) {
       );
     }
 
-    // Text input for fill, translate, kanji
+    // Text input for fill, fill-kanji-hiragana, translate, kanji
     return (
       <div className="exercise-answer">
         <input
@@ -352,6 +389,9 @@ export default function ExerciseClient({ lessonNumber }: ExerciseClientProps) {
     if (isMultipleChoiceExercise(currentExercise) || isGrammarExercise(currentExercise)) {
       return currentExercise.options[currentExercise.correctIndex];
     }
+    if (isFillKanjiHiraganaExercise(currentExercise)) {
+      return `${currentExercise.kanji} hoặc ${currentExercise.hiragana}`;
+    }
     return 'answer' in currentExercise ? currentExercise.answer : '';
   };
 
@@ -365,6 +405,12 @@ export default function ExerciseClient({ lessonNumber }: ExerciseClientProps) {
           onClick={() => setExerciseType('fill')}
         >
           📝 Điền từ
+        </button>
+        <button
+          className={`type-btn ${exerciseType === 'fill-kanji-hiragana' ? 'active' : ''}`}
+          onClick={() => setExerciseType('fill-kanji-hiragana')}
+        >
+          ✏️ Điền Kanji/Hiragana
         </button>
         <button
           className={`type-btn ${exerciseType === 'translate' ? 'active' : ''}`}
@@ -427,7 +473,7 @@ export default function ExerciseClient({ lessonNumber }: ExerciseClientProps) {
       ) : !currentExercise ? (
         <EmptyMessage
           message={
-            vocabulary.length === 0 && ['fill', 'translate', 'kanji'].includes(exerciseType)
+            vocabulary.length === 0 && ['fill', 'fill-kanji-hiragana', 'translate', 'kanji'].includes(exerciseType)
               ? `Chưa có dữ liệu từ vựng cho bài ${lessonNumber}`
               : `Chưa có bài tập ${exerciseType} cho bài ${lessonNumber}`
           }

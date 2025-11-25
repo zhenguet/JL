@@ -2,6 +2,7 @@
 
 export type ExerciseType = 
   | 'fill'           // Điền từ (existing)
+  | 'fill-kanji-hiragana' // Điền từ (chấp nhận cả kanji và hiragana)
   | 'translate'      // Dịch (existing)
   | 'kanji'          // Kanji (existing)
   | 'multiple-choice' // Trắc nghiệm 4 đáp án
@@ -23,6 +24,12 @@ export interface FillExercise extends BaseExercise {
   answer: string;
   hint?: string;
   kanji?: string;
+}
+
+export interface FillKanjiHiraganaExercise extends BaseExercise {
+  type: 'fill-kanji-hiragana';
+  kanji: string;
+  hiragana: string;
 }
 
 export interface TranslateExercise extends BaseExercise {
@@ -88,6 +95,7 @@ export interface VocabularyExercise extends BaseExercise {
 // Union type for all exercises
 export type Exercise = 
   | FillExercise 
+  | FillKanjiHiraganaExercise
   | TranslateExercise
   | KanjiExercise
   | MultipleChoiceExercise 
@@ -99,6 +107,10 @@ export type Exercise =
 // Helper type guards
 export function isFillExercise(exercise: Exercise): exercise is FillExercise {
   return exercise.type === 'fill';
+}
+
+export function isFillKanjiHiraganaExercise(exercise: Exercise): exercise is FillKanjiHiraganaExercise {
+  return exercise.type === 'fill-kanji-hiragana';
 }
 
 export function isMultipleChoiceExercise(exercise: Exercise): exercise is MultipleChoiceExercise {
