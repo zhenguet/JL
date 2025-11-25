@@ -114,7 +114,7 @@ export default function ExerciseClient({ lessonNumber }: ExerciseClientProps) {
       exercise = {
         id: `fill-kanji-hiragana-${Date.now()}`,
         type: 'fill-kanji-hiragana',
-        question: `${randomWord.kanji}　（${randomWord.hiragana}） = ?`,
+        question: `${randomWord.kanji}　（${randomWord.hiragana}） = ? (${randomWord.vi})`,
         kanji: randomWord.kanji,
         hiragana: randomWord.hiragana,
       };
