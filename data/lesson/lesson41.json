@@ -28,7 +28,7 @@
     }
   },
   {
-    "id": "toGive",
+    "id": "toGiveCasual",
     "kanji": "やります",
     "hiragana": "やります",
     "en": "to give",
@@ -124,7 +124,7 @@
     }
   },
   {
-    "id": "son",
+    "id": "sonHonorific",
     "kanji": "息子さん",
     "hiragana": "むすこさん",
     "en": "son",
@@ -137,7 +137,7 @@
     }
   },
   {
-    "id": "daughter",
+    "id": "daughterHonorific",
     "kanji": "娘さん",
     "hiragana": "むすめさん",
     "en": "daughter",
@@ -573,7 +573,7 @@
     }
   },
   {
-    "id": "uncle",
+    "id": "uncleHonorific",
     "kanji": "おじさん",
     "hiragana": "おじさん",
     "en": "uncle",
@@ -599,7 +599,7 @@
     }
   },
   {
-    "id": "aunt",
+    "id": "auntHonorific",
     "kanji": "おばさん",
     "hiragana": "おばさん",
     "en": "aunt",

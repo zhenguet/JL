@@ -2,11 +2,23 @@
 
 import { EmptyMessage, PageTitle } from '@/components';
 import { MultipleChoice, ReadingPassage } from '@/components/exercises';
+import { getRandomGrammarExercise } from '@/data/grammarExercises';
+import { getRandomMultipleChoiceExercise } from '@/data/multipleChoiceExercises';
+import { getRandomReadingExercise } from '@/data/readingExercises';
 import { vocabularyData } from '@/data/vocabulary';
-import { getGrammarExercises, getRandomGrammarExercise } from '@/data/grammarExercises';
-import { getMultipleChoiceExercises, getRandomMultipleChoiceExercise } from '@/data/multipleChoiceExercises';
-import { getReadingExercises, getRandomReadingExercise } from '@/data/readingExercises';
-import { Exercise, ExerciseType, isGrammarExercise, isMultipleChoiceExercise, isReadingExercise, isFillKanjiHiraganaExercise } from '@/types/exercise';
+import { VocabularyWord } from '@/types/vocabulary';
+import {
+  Exercise,
+  ExerciseType,
+  FillExercise,
+  FillKanjiHiraganaExercise,
+  isFillKanjiHiraganaExercise,
+  isGrammarExercise,
+  isMultipleChoiceExercise,
+  isReadingExercise,
+  KanjiExercise,
+  TranslateExercise,
+} from '@/types/exercise';
 import { useEffect, useRef, useState } from 'react';
 import './exercise.css';
 
@@ -14,12 +26,140 @@ interface ExerciseClientProps {
   lessonNumber: number;
 }
 
+const EXERCISE_TYPES: Array<{ type: ExerciseType; label: string; icon: string }> = [
+  { type: 'fill', label: 'Điền từ', icon: '📝' },
+  { type: 'fill-kanji-hiragana', label: 'Điền Kanji/Hiragana', icon: '✏️' },
+  { type: 'translate', label: 'Dịch', icon: '🔄' },
+  { type: 'kanji', label: 'Kanji', icon: '✍️' },
+  { type: 'grammar', label: 'Ngữ pháp', icon: '📚' },
+  { type: 'multiple-choice', label: 'Trắc nghiệm', icon: '✅' },
+  { type: 'reading', label: 'Đọc hiểu', icon: '📖' },
+];
+
+const VOCABULARY_EXERCISE_TYPES: ExerciseType[] = [
+  'fill',
+  'fill-kanji-hiragana',
+  'translate',
+  'kanji',
+];
+
+function getRandomWord(
+  words: VocabularyWord[],
+  usedWordIds: Set<string>
+): { word: VocabularyWord; shouldReset: boolean } {
+  let availableWords = words.filter((w) => !usedWordIds.has(w.id));
+  const shouldReset = availableWords.length === 0;
+  if (shouldReset) {
+    availableWords = words;
+  }
+  const randomWord =
+    availableWords[Math.floor(Math.random() * availableWords.length)];
+  return { word: randomWord, shouldReset };
+}
+
+function createFillExercise(word: VocabularyWord): FillExercise {
+  return {
+    id: `fill-${Date.now()}`,
+    type: 'fill',
+    question: `Điền từ còn thiếu: "${word.vi}" = ?`,
+    answer: word.hiragana,
+    hint: word.kanji,
+    kanji: word.kanji,
+  };
+}
+
+function createTranslateExercise(word: VocabularyWord): TranslateExercise {
+  return {
+    id: `translate-${Date.now()}`,
+    type: 'translate',
+    question: `Dịch sang tiếng Việt: "${word.hiragana}"${
+      word.kanji ? ` (${word.kanji})` : ''
+    }`,
+    answer: word.vi,
+    kanji: word.kanji,
+  };
+}
+
+function createKanjiExercise(word: VocabularyWord): KanjiExercise {
+  return {
+    id: `kanji-${Date.now()}`,
+    type: 'kanji',
+    question: `Kanji của "${word.hiragana}" (${word.vi}) là gì?`,
+    answer: word.kanji!,
+    hiragana: word.hiragana,
+  };
+}
+
+function createFillKanjiHiraganaExercise(
+  word: VocabularyWord
+): FillKanjiHiraganaExercise {
+  return {
+    id: `fill-kanji-hiragana-${Date.now()}`,
+    type: 'fill-kanji-hiragana',
+    question: `${word.kanji}　（${word.hiragana}） = ? (${word.vi})`,
+    kanji: word.kanji,
+    hiragana: word.hiragana,
+  };
+}
+
+function cleanText(text: string, toLowerCase = false): string {
+  let cleaned = text
+    .replace(/[~～]/g, '')
+    .replace(/\(.*?\)|（.*?）/g, '')
+    .replace(/[!.,;?]/g, '')
+    .trim();
+  return toLowerCase ? cleaned.toLowerCase() : cleaned;
+}
+
+function checkFillKanjiHiragana(
+  exercise: FillKanjiHiraganaExercise,
+  userAnswer: string
+): { correct: boolean; explanation: string } {
+  const normalizedUserAnswer = cleanText(userAnswer);
+  const normalizedKanji = cleanText(exercise.kanji);
+  const normalizedHiragana = cleanText(exercise.hiragana);
+
+  const correct =
+    normalizedUserAnswer === normalizedKanji ||
+    normalizedUserAnswer === normalizedHiragana;
+
+  const explanation = correct
+    ? `Chính xác! Bạn có thể điền "${exercise.kanji}" (kanji) hoặc "${exercise.hiragana}" (hiragana).`
+    : `Đáp án có thể là "${exercise.kanji}" (kanji) hoặc "${exercise.hiragana}" (hiragana).`;
+
+  return { correct, explanation };
+}
+
+function checkTextAnswer(
+  userAnswer: string,
+  correctAnswer: string
+): boolean {
+  const normalizedUserAnswer = cleanText(userAnswer, true);
+  const answerParts = correctAnswer.split(/[,、\/;]/).map((part) =>
+    cleanText(part, true)
+  );
+
+  const exactMatch = answerParts.some(
+    (part) => part === normalizedUserAnswer
+  );
+
+  if (exactMatch) return true;
+
+  if (normalizedUserAnswer.length > 2) {
+    return answerParts.some((part) => part.includes(normalizedUserAnswer));
+  }
+
+  return false;
+}
+
 export default function ExerciseClient({ lessonNumber }: ExerciseClientProps) {
   const vocabulary = vocabularyData[lessonNumber] || [];
   const [exerciseType, setExerciseType] = useState<ExerciseType>('fill');
   const [currentExercise, setCurrentExercise] = useState<Exercise | null>(null);
   const [userAnswer, setUserAnswer] = useState('');
-  const [selectedOptionIndex, setSelectedOptionIndex] = useState<number | null>(null);
+  const [selectedOptionIndex, setSelectedOptionIndex] = useState<number | null>(
+    null
+  );
   const [readingAnswers, setReadingAnswers] = useState<number[]>([]);
   const [score, setScore] = useState(0);
   const [total, setTotal] = useState(0);
@@ -31,14 +171,19 @@ export default function ExerciseClient({ lessonNumber }: ExerciseClientProps) {
   const [checkMethod, setCheckMethod] = useState<'ai' | 'local' | null>(null);
   const [isGenerating, setIsGenerating] = useState(false);
   const [usedWordIds, setUsedWordIds] = useState<Set<string>>(new Set());
+  const usedWordIdsRef = useRef<Set<string>>(new Set());
   const inputRef = useRef<HTMLInputElement>(null);
 
   useEffect(() => {
-    setUsedWordIds(new Set());
+    const newSet = new Set<string>();
+    setUsedWordIds(newSet);
+    usedWordIdsRef.current = newSet;
     generateExercise();
   }, [exerciseType, vocabulary]);
 
-  const generateWithAI = async (type: ExerciseType): Promise<Exercise | null> => {
+  const generateWithAI = async (
+    type: ExerciseType
+  ): Promise<Exercise | null> => {
     try {
       const res = await fetch('/JL/api/ai/generate/', {
         method: 'POST',
@@ -59,109 +204,72 @@ export default function ExerciseClient({ lessonNumber }: ExerciseClientProps) {
     }
   };
 
+  const generateVocabularyExercise = (): Exercise | null => {
+    if (vocabulary.length === 0) {
+      setIsGenerating(false);
+      return null;
+    }
+
+    const { word, shouldReset } = getRandomWord(
+      vocabulary,
+      usedWordIdsRef.current
+    );
+
+    if (shouldReset) {
+      usedWordIdsRef.current = new Set();
+    }
+    usedWordIdsRef.current.add(word.id);
+    setUsedWordIds(new Set(usedWordIdsRef.current));
+
+    switch (exerciseType) {
+      case 'fill':
+        return createFillExercise(word);
+      case 'translate':
+        return createTranslateExercise(word);
+      case 'kanji':
+        if (!word.kanji) {
+          return generateVocabularyExercise();
+        }
+        return createKanjiExercise(word);
+      case 'fill-kanji-hiragana':
+        if (!word.kanji) {
+          setIsGenerating(false);
+          return null;
+        }
+        return createFillKanjiHiraganaExercise(word);
+      default:
+        return null;
+    }
+  };
+
   const generateExercise = async () => {
-    console.log('generateExercise called', { exerciseType, vocabLength: vocabulary.length });
     setIsGenerating(true);
     let exercise: Exercise | null = null;
 
-    if (exerciseType === 'fill') {
-      if (vocabulary.length === 0) {
-        console.log('Vocabulary empty, returning');
-        setIsGenerating(false);
-        return;
-      }
-      const availableWords = vocabulary.filter(w => !usedWordIds.has(w.id));
-      const wordsToUse = availableWords.length > 0 ? availableWords : vocabulary;
-      if (availableWords.length === 0) {
-        setUsedWordIds(new Set());
-      }
-      const randomWord = wordsToUse[Math.floor(Math.random() * wordsToUse.length)];
-      setUsedWordIds(prev => new Set(prev).add(randomWord.id));
-      console.log('Selected word:', randomWord);
-      exercise = {
-        id: `fill-${Date.now()}`,
-        type: 'fill',
-        question: `Điền từ còn thiếu: "${randomWord.vi}" = ?`,
-        answer: randomWord.hiragana,
-        hint: randomWord.kanji,
-        kanji: randomWord.kanji,
-      };
-    } else if (exerciseType === 'translate') {
-      if (vocabulary.length === 0) return;
-      const availableWords = vocabulary.filter(w => !usedWordIds.has(w.id));
-      const wordsToUse = availableWords.length > 0 ? availableWords : vocabulary;
-      if (availableWords.length === 0) {
-        setUsedWordIds(new Set());
-      }
-      const randomWord = wordsToUse[Math.floor(Math.random() * wordsToUse.length)];
-      setUsedWordIds(prev => new Set(prev).add(randomWord.id));
-      exercise = {
-        id: `translate-${Date.now()}`,
-        type: 'translate',
-        question: `Dịch sang tiếng Việt: "${randomWord.hiragana}"${
-          randomWord.kanji ? ` (${randomWord.kanji})` : ''
-        }`,
-        answer: randomWord.vi,
-        kanji: randomWord.kanji,
-      };
-    } else if (exerciseType === 'kanji') {
-      const kanjiWords = vocabulary.filter(w => w.kanji);
-      if (kanjiWords.length === 0) {
-        generateExercise();
-        return;
-      }
-      const availableWords = kanjiWords.filter(w => !usedWordIds.has(w.id));
-      const wordsToUse = availableWords.length > 0 ? availableWords : kanjiWords;
-      if (availableWords.length === 0) {
-        setUsedWordIds(new Set());
-      }
-      const randomWord = wordsToUse[Math.floor(Math.random() * wordsToUse.length)];
-      setUsedWordIds(prev => new Set(prev).add(randomWord.id));
-      exercise = {
-        id: `kanji-${Date.now()}`,
-        type: 'kanji',
-        question: `Kanji của "${randomWord.hiragana}" (${randomWord.vi}) là gì?`,
-        answer: randomWord.kanji!,
-        hiragana: randomWord.hiragana,
-      };
-    } else if (exerciseType === 'fill-kanji-hiragana') {
-      const kanjiWords = vocabulary.filter(w => w.kanji);
-      if (kanjiWords.length === 0) {
-        setIsGenerating(false);
-        return;
-      }
-      const availableWords = kanjiWords.filter(w => !usedWordIds.has(w.id));
-      const wordsToUse = availableWords.length > 0 ? availableWords : kanjiWords;
-      if (availableWords.length === 0) {
-        setUsedWordIds(new Set());
-      }
-      const randomWord = wordsToUse[Math.floor(Math.random() * wordsToUse.length)];
-      setUsedWordIds(prev => new Set(prev).add(randomWord.id));
-      exercise = {
-        id: `fill-kanji-hiragana-${Date.now()}`,
-        type: 'fill-kanji-hiragana',
-        question: `${randomWord.kanji}　（${randomWord.hiragana}） = ? (${randomWord.vi})`,
-        kanji: randomWord.kanji,
-        hiragana: randomWord.hiragana,
-      };
-    } else if (exerciseType === 'grammar' || exerciseType === 'multiple-choice' || exerciseType === 'reading') {
-      // Try AI generation first
+    if (VOCABULARY_EXERCISE_TYPES.includes(exerciseType)) {
+      exercise = generateVocabularyExercise();
+    } else if (
+      exerciseType === 'grammar' ||
+      exerciseType === 'multiple-choice' ||
+      exerciseType === 'reading'
+    ) {
       exercise = await generateWithAI(exerciseType);
-      
-      // Fallback to local data if AI fails
       if (!exercise) {
-        if (exerciseType === 'grammar') {
-          exercise = getRandomGrammarExercise(lessonNumber);
-        } else if (exerciseType === 'multiple-choice') {
-          exercise = getRandomMultipleChoiceExercise(lessonNumber);
-        } else if (exerciseType === 'reading') {
-          exercise = getRandomReadingExercise(lessonNumber);
+        switch (exerciseType) {
+          case 'grammar':
+            exercise = getRandomGrammarExercise(lessonNumber);
+            break;
+          case 'multiple-choice':
+            exercise = getRandomMultipleChoiceExercise(lessonNumber);
+            break;
+          case 'reading':
+            exercise = getRandomReadingExercise(lessonNumber);
+            break;
         }
       }
     }
 
     if (!exercise) {
-      // No exercises available for this type
       setCurrentExercise(null);
       setIsGenerating(false);
       return;
@@ -212,11 +320,12 @@ export default function ExerciseClient({ lessonNumber }: ExerciseClientProps) {
   const handleSubmit = async () => {
     if (!currentExercise || isChecking) return;
 
-    // Validate input based on exercise type
-    if (isMultipleChoiceExercise(currentExercise) || isGrammarExercise(currentExercise)) {
+    if (
+      isMultipleChoiceExercise(currentExercise) ||
+      isGrammarExercise(currentExercise)
+    ) {
       if (selectedOptionIndex === null) return;
     } else if (isReadingExercise(currentExercise)) {
-      // Reading exercises are handled differently
       return;
     } else {
       if (!userAnswer.trim()) return;
@@ -229,80 +338,38 @@ export default function ExerciseClient({ lessonNumber }: ExerciseClientProps) {
     let explanation = '';
     let usedMethod: 'ai' | 'local' = 'local';
 
-    // For multiple choice and grammar, check locally first (simple index comparison)
-    if (isMultipleChoiceExercise(currentExercise) || isGrammarExercise(currentExercise)) {
+    if (
+      isMultipleChoiceExercise(currentExercise) ||
+      isGrammarExercise(currentExercise)
+    ) {
       correct = selectedOptionIndex === currentExercise.correctIndex;
       explanation = currentExercise.explanation || '';
-      usedMethod = 'local'; // Multiple choice doesn't need AI
+      usedMethod = 'local';
+    } else if (isFillKanjiHiraganaExercise(currentExercise)) {
+      const result = checkFillKanjiHiragana(currentExercise, userAnswer);
+      correct = result.correct;
+      explanation = result.explanation;
+      usedMethod = 'local';
     } else {
-      // For fill-kanji-hiragana exercises, check both kanji and hiragana
-      if (isFillKanjiHiraganaExercise(currentExercise)) {
-        const cleanText = (text: string) => {
-          return text
-            .replace(/[~～]/g, '')
-            .replace(/\(.*?\)|（.*?）/g, '')
-            .replace(/[!.,;?]/g, '')
-            .trim();
-        };
+      const answer =
+        'answer' in currentExercise ? currentExercise.answer : '';
+      const aiResult = await checkWithAI(
+        currentExercise.question,
+        answer,
+        userAnswer,
+        currentExercise.type
+      );
 
-        const normalizedUserAnswer = cleanText(userAnswer);
-        const normalizedKanji = cleanText(currentExercise.kanji);
-        const normalizedHiragana = cleanText(currentExercise.hiragana);
-        
-        correct = normalizedUserAnswer === normalizedKanji || normalizedUserAnswer === normalizedHiragana;
-        usedMethod = 'local';
-        if (correct) {
-          explanation = `Chính xác! Bạn có thể điền "${currentExercise.kanji}" (kanji) hoặc "${currentExercise.hiragana}" (hiragana).`;
-        } else {
-          explanation = `Đáp án có thể là "${currentExercise.kanji}" (kanji) hoặc "${currentExercise.hiragana}" (hiragana).`;
-        }
+      if (aiResult && !aiResult.error) {
+        correct = aiResult.isCorrect;
+        explanation = aiResult.explanation;
+        usedMethod = 'ai';
       } else {
-        // For text-based answers (fill, translate, kanji), try AI first
-        const aiResult = await checkWithAI(
-          currentExercise.question,
-          'answer' in currentExercise ? currentExercise.answer : '',
-          userAnswer,
-          currentExercise.type
-        );
-
-        if (aiResult && !aiResult.error) {
-          correct = aiResult.isCorrect;
-          explanation = aiResult.explanation;
-          usedMethod = 'ai';
-        } else {
-          // AI failed, fallback to local check
-          const cleanText = (text: string) => {
-            return text
-              .toLowerCase()
-              .replace(/[~～]/g, '') // Remove tildes
-              .replace(/\(.*?\)|（.*?）/g, '') // Remove content in parentheses
-              .replace(/[!.,;?]/g, '') // Remove punctuation
-              .trim();
-          };
-
-          const normalizedUserAnswer = cleanText(userAnswer);
-          const originalAnswer = 'answer' in currentExercise ? currentExercise.answer : '';
-          
-          // Split by common delimiters
-          const answerParts = originalAnswer.split(/[,、\/;]/).map(cleanText);
-          
-          // Check for exact match with any valid part
-          correct = answerParts.some(part => part === normalizedUserAnswer);
-
-          // Also allow if the user answer is contained in the original answer (for longer sentences)
-          // but only if the user answer is of sufficient length to avoid false positives
-          if (!correct && normalizedUserAnswer.length > 2) {
-             correct = answerParts.some(part => part.includes(normalizedUserAnswer));
-          }
-          
-          if (aiResult?.error) {
-            // Only show error in development, hide in production (expected on GitHub Pages)
-            if (process.env.NODE_ENV === 'development') {
-              explanation = `⚠️ AI lỗi (dùng local check): ${aiResult.error}`;
-            }
-          }
-          usedMethod = 'local';
+        correct = checkTextAnswer(userAnswer, answer);
+        if (aiResult?.error && process.env.NODE_ENV === 'development') {
+          explanation = `⚠️ AI lỗi (dùng local check): ${aiResult.error}`;
         }
+        usedMethod = 'local';
       }
     }
 
@@ -331,11 +398,10 @@ export default function ExerciseClient({ lessonNumber }: ExerciseClientProps) {
     setReadingAnswers(answers);
     setIsChecking(true);
 
-    // Check all answers
-    const correctCount = answers.filter((ans, idx) => 
-      ans === currentExercise.questions[idx].correctIndex
+    const correctCount = answers.filter(
+      (ans, idx) => ans === currentExercise.questions[idx].correctIndex
     ).length;
-    
+
     const totalQuestions = currentExercise.questions.length;
     const allCorrect = correctCount === totalQuestions;
 
@@ -357,7 +423,6 @@ export default function ExerciseClient({ lessonNumber }: ExerciseClientProps) {
   const renderExerciseInput = () => {
     if (!currentExercise) return null;
 
-    // Reading exercises use a special component
     if (isReadingExercise(currentExercise)) {
       return (
         <ReadingPassage
@@ -370,10 +435,17 @@ export default function ExerciseClient({ lessonNumber }: ExerciseClientProps) {
       );
     }
 
-    if (isMultipleChoiceExercise(currentExercise) || isGrammarExercise(currentExercise)) {
+    if (
+      isMultipleChoiceExercise(currentExercise) ||
+      isGrammarExercise(currentExercise)
+    ) {
       return (
         <MultipleChoice
-          question={isGrammarExercise(currentExercise) ? currentExercise.sentence : currentExercise.question}
+          question={
+            isGrammarExercise(currentExercise)
+              ? currentExercise.sentence
+              : currentExercise.question
+          }
           options={currentExercise.options}
           selectedIndex={selectedOptionIndex}
           onSelect={setSelectedOptionIndex}
@@ -384,7 +456,6 @@ export default function ExerciseClient({ lessonNumber }: ExerciseClientProps) {
       );
     }
 
-    // Text input for fill, fill-kanji-hiragana, translate, kanji
     return (
       <div className="exercise-answer">
         <input
@@ -412,7 +483,10 @@ export default function ExerciseClient({ lessonNumber }: ExerciseClientProps) {
 
   const getCorrectAnswer = () => {
     if (!currentExercise) return '';
-    if (isMultipleChoiceExercise(currentExercise) || isGrammarExercise(currentExercise)) {
+    if (
+      isMultipleChoiceExercise(currentExercise) ||
+      isGrammarExercise(currentExercise)
+    ) {
       return currentExercise.options[currentExercise.correctIndex];
     }
     if (isFillKanjiHiraganaExercise(currentExercise)) {
@@ -421,53 +495,24 @@ export default function ExerciseClient({ lessonNumber }: ExerciseClientProps) {
     return 'answer' in currentExercise ? currentExercise.answer : '';
   };
 
+  const isEmptyMessage =
+    vocabulary.length === 0 &&
+    VOCABULARY_EXERCISE_TYPES.includes(exerciseType);
+
   return (
     <div className="exercise-container">
       <PageTitle title="Bài tập" lessonNumber={lessonNumber} />
 
       <div className="exercise-type-selector">
-        <button
-          className={`type-btn ${exerciseType === 'fill' ? 'active' : ''}`}
-          onClick={() => setExerciseType('fill')}
-        >
-          📝 Điền từ
-        </button>
-        <button
-          className={`type-btn ${exerciseType === 'fill-kanji-hiragana' ? 'active' : ''}`}
-          onClick={() => setExerciseType('fill-kanji-hiragana')}
-        >
-          ✏️ Điền Kanji/Hiragana
-        </button>
-        <button
-          className={`type-btn ${exerciseType === 'translate' ? 'active' : ''}`}
-          onClick={() => setExerciseType('translate')}
-        >
-          🔄 Dịch
-        </button>
-        <button
-          className={`type-btn ${exerciseType === 'kanji' ? 'active' : ''}`}
-          onClick={() => setExerciseType('kanji')}
-        >
-          ✍️ Kanji
-        </button>
-        <button
-          className={`type-btn ${exerciseType === 'grammar' ? 'active' : ''}`}
-          onClick={() => setExerciseType('grammar')}
-        >
-          📚 Ngữ pháp
-        </button>
-        <button
-          className={`type-btn ${exerciseType === 'multiple-choice' ? 'active' : ''}`}
-          onClick={() => setExerciseType('multiple-choice')}
-        >
-          ✅ Trắc nghiệm
-        </button>
-        <button
-          className={`type-btn ${exerciseType === 'reading' ? 'active' : ''}`}
-          onClick={() => setExerciseType('reading')}
-        >
-          📖 Đọc hiểu
-        </button>
+        {EXERCISE_TYPES.map(({ type, label, icon }) => (
+          <button
+            key={type}
+            className={`type-btn ${exerciseType === type ? 'active' : ''}`}
+            onClick={() => setExerciseType(type)}
+          >
+            {icon} {label}
+          </button>
+        ))}
       </div>
 
       <div className="stats-bar">
@@ -499,7 +544,7 @@ export default function ExerciseClient({ lessonNumber }: ExerciseClientProps) {
       ) : !currentExercise ? (
         <EmptyMessage
           message={
-            vocabulary.length === 0 && ['fill', 'fill-kanji-hiragana', 'translate', 'kanji'].includes(exerciseType)
+            isEmptyMessage
               ? `Chưa có dữ liệu từ vựng cho bài ${lessonNumber}`
               : `Chưa có bài tập ${exerciseType} cho bài ${lessonNumber}`
           }
@@ -514,7 +559,9 @@ export default function ExerciseClient({ lessonNumber }: ExerciseClientProps) {
             <h3>
               {currentExercise.question}
               {currentExercise.id.includes('-ai-') && (
-                <span className="ai-badge" title="Câu hỏi được tạo bởi AI">🤖 AI</span>
+                <span className="ai-badge" title="Câu hỏi được tạo bởi AI">
+                  🤖 AI
+                </span>
               )}
             </h3>
           </div>
