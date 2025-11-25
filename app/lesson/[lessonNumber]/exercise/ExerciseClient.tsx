@@ -30,9 +30,11 @@ export default function ExerciseClient({ lessonNumber }: ExerciseClientProps) {
   const [aiExplanation, setAiExplanation] = useState('');
   const [checkMethod, setCheckMethod] = useState<'ai' | 'local' | null>(null);
   const [isGenerating, setIsGenerating] = useState(false);
+  const [usedWordIds, setUsedWordIds] = useState<Set<string>>(new Set());
   const inputRef = useRef<HTMLInputElement>(null);
 
   useEffect(() => {
+    setUsedWordIds(new Set());
     generateExercise();
   }, [exerciseType, vocabulary]);
 
@@ -68,7 +70,13 @@ export default function ExerciseClient({ lessonNumber }: ExerciseClientProps) {
         setIsGenerating(false);
         return;
       }
-      const randomWord = vocabulary[Math.floor(Math.random() * vocabulary.length)];
+      const availableWords = vocabulary.filter(w => !usedWordIds.has(w.id));
+      const wordsToUse = availableWords.length > 0 ? availableWords : vocabulary;
+      if (availableWords.length === 0) {
+        setUsedWordIds(new Set());
+      }
+      const randomWord = wordsToUse[Math.floor(Math.random() * wordsToUse.length)];
+      setUsedWordIds(prev => new Set(prev).add(randomWord.id));
       console.log('Selected word:', randomWord);
       exercise = {
         id: `fill-${Date.now()}`,
@@ -80,7 +88,13 @@ export default function ExerciseClient({ lessonNumber }: ExerciseClientProps) {
       };
     } else if (exerciseType === 'translate') {
       if (vocabulary.length === 0) return;
-      const randomWord = vocabulary[Math.floor(Math.random() * vocabulary.length)];
+      const availableWords = vocabulary.filter(w => !usedWordIds.has(w.id));
+      const wordsToUse = availableWords.length > 0 ? availableWords : vocabulary;
+      if (availableWords.length === 0) {
+        setUsedWordIds(new Set());
+      }
+      const randomWord = wordsToUse[Math.floor(Math.random() * wordsToUse.length)];
+      setUsedWordIds(prev => new Set(prev).add(randomWord.id));
       exercise = {
         id: `translate-${Date.now()}`,
         type: 'translate',
@@ -96,7 +110,13 @@ export default function ExerciseClient({ lessonNumber }: ExerciseClientProps) {
         generateExercise();
         return;
       }
-      const randomWord = kanjiWords[Math.floor(Math.random() * kanjiWords.length)];
+      const availableWords = kanjiWords.filter(w => !usedWordIds.has(w.id));
+      const wordsToUse = availableWords.length > 0 ? availableWords : kanjiWords;
+      if (availableWords.length === 0) {
+        setUsedWordIds(new Set());
+      }
+      const randomWord = wordsToUse[Math.floor(Math.random() * wordsToUse.length)];
+      setUsedWordIds(prev => new Set(prev).add(randomWord.id));
       exercise = {
         id: `kanji-${Date.now()}`,
         type: 'kanji',
@@ -110,7 +130,13 @@ export default function ExerciseClient({ lessonNumber }: ExerciseClientProps) {
         setIsGenerating(false);
         return;
       }
-      const randomWord = kanjiWords[Math.floor(Math.random() * kanjiWords.length)];
+      const availableWords = kanjiWords.filter(w => !usedWordIds.has(w.id));
+      const wordsToUse = availableWords.length > 0 ? availableWords : kanjiWords;
+      if (availableWords.length === 0) {
+        setUsedWordIds(new Set());
+      }
+      const randomWord = wordsToUse[Math.floor(Math.random() * wordsToUse.length)];
+      setUsedWordIds(prev => new Set(prev).add(randomWord.id));
       exercise = {
         id: `fill-kanji-hiragana-${Date.now()}`,
         type: 'fill-kanji-hiragana',
