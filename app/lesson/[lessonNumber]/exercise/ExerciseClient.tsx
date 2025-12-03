@@ -106,6 +106,7 @@ function cleanText(text: string, toLowerCase = false): string {
   let cleaned = text
     .replace(/[~～]/g, '')
     .replace(/\(.*?\)|（.*?）/g, '')
+    .replace(/[「」『』]/g, '')
     .replace(/[!.,;?]/g, '')
     .trim();
   return toLowerCase ? cleaned.toLowerCase() : cleaned;
