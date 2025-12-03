@@ -107,6 +107,8 @@ function cleanText(text: string, toLowerCase = false): string {
     .replace(/[~～]/g, '')
     .replace(/\(.*?\)|（.*?）/g, '')
     .replace(/[「」『』]/g, '')
+    .replace(/\.{2,}/g, '')
+    .replace(/[．]{2,}/g, '')
     .replace(/[!.,;?]/g, '')
     .trim();
   return toLowerCase ? cleaned.toLowerCase() : cleaned;
