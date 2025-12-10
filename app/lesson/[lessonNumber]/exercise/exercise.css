@@ -57,6 +57,67 @@
   min-width: 100px;
 }
 
+.practiced-words {
+  background: white;
+  border-radius: 12px;
+  padding: 12px 16px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.05);
+  margin: 16px 10px 20px;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+
+.practiced-words-list {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.practiced-word {
+  background: #f8f9ff;
+  border: 1px solid #e0e3ff;
+  border-radius: 8px;
+  padding: 10px 12px;
+  font-size: 0.95rem;
+  color: #333;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 12px;
+}
+
+.history-left {
+  font-weight: 600;
+  color: #222;
+}
+
+.history-answer {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.history-icon {
+  font-weight: 800;
+  font-size: 1rem;
+}
+
+.history-icon.correct {
+  color: #28a745;
+}
+
+.history-icon.incorrect {
+  color: #dc3545;
+}
+
+.history-text {
+  display: inline-flex;
+  gap: 4px;
+  flex-wrap: wrap;
+  color: #333;
+}
+
 .stat-label {
   font-size: 0.9rem;
   color: #888;

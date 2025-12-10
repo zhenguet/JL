@@ -1,15 +1,16 @@
 // Exercise Type Definitions for JLPT-Style System
 
-export type ExerciseType = 
-  | 'fill'           // Điền từ (existing)
-  | 'fill-kanji-hiragana' // Điền từ (chấp nhận cả kanji và hiragana)
-  | 'translate'      // Dịch (existing)
-  | 'kanji'          // Kanji (existing)
-  | 'multiple-choice' // Trắc nghiệm 4 đáp án
-  | 'grammar'        // Ngữ pháp
-  | 'reading'        // Đọc hiểu
-  | 'listening'      // Nghe (placeholder for future)
-  | 'vocabulary';    // Từ vựng nâng cao
+export type ExerciseType =
+  | 'fill'
+  | 'fill-kanji-hiragana'
+  | 'fill-hiragana-from-kanji'
+  | 'translate'
+  | 'kanji'
+  | 'multiple-choice'
+  | 'grammar'
+  | 'reading'
+  | 'listening'
+  | 'vocabulary';
 
 export interface BaseExercise {
   id: string;
@@ -30,6 +31,13 @@ export interface FillKanjiHiraganaExercise extends BaseExercise {
   type: 'fill-kanji-hiragana';
   kanji: string;
   hiragana: string;
+}
+
+export interface FillHiraganaFromKanjiExercise extends BaseExercise {
+  type: 'fill-hiragana-from-kanji';
+  kanji: string;
+  meaningVi: string;
+  answer: string;
 }
 
 export interface TranslateExercise extends BaseExercise {
@@ -96,6 +104,7 @@ export interface VocabularyExercise extends BaseExercise {
 export type Exercise = 
   | FillExercise 
   | FillKanjiHiraganaExercise
+  | FillHiraganaFromKanjiExercise
   | TranslateExercise
   | KanjiExercise
   | MultipleChoiceExercise 
@@ -123,6 +132,12 @@ export function isGrammarExercise(exercise: Exercise): exercise is GrammarExerci
 
 export function isReadingExercise(exercise: Exercise): exercise is ReadingExercise {
   return exercise.type === 'reading';
+}
+
+export function isFillHiraganaFromKanjiExercise(
+  exercise: Exercise
+): exercise is FillHiraganaFromKanjiExercise {
+  return exercise.type === 'fill-hiragana-from-kanji';
 }
 
 export function isVocabularyExercise(exercise: Exercise): exercise is VocabularyExercise {

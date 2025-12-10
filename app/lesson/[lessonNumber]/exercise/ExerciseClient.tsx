@@ -10,9 +10,11 @@ import { VocabularyWord } from '@/types/vocabulary';
 import {
   Exercise,
   ExerciseType,
+  FillHiraganaFromKanjiExercise,
   FillExercise,
   FillKanjiHiraganaExercise,
   isFillKanjiHiraganaExercise,
+  isFillHiraganaFromKanjiExercise,
   isGrammarExercise,
   isMultipleChoiceExercise,
   isReadingExercise,
@@ -29,6 +31,11 @@ interface ExerciseClientProps {
 const EXERCISE_TYPES: Array<{ type: ExerciseType; label: string; icon: string }> = [
   { type: 'fill', label: 'Điền từ', icon: '📝' },
   { type: 'fill-kanji-hiragana', label: 'Điền Kanji/Hiragana', icon: '✏️' },
+  {
+    type: 'fill-hiragana-from-kanji',
+    label: 'Điền chữ mềm (Kanji + nghĩa)',
+    icon: '🖋️',
+  },
   { type: 'translate', label: 'Dịch', icon: '🔄' },
   { type: 'kanji', label: 'Kanji', icon: '✍️' },
   { type: 'grammar', label: 'Ngữ pháp', icon: '📚' },
@@ -39,6 +46,7 @@ const EXERCISE_TYPES: Array<{ type: ExerciseType; label: string; icon: string }>
 const VOCABULARY_EXERCISE_TYPES: ExerciseType[] = [
   'fill',
   'fill-kanji-hiragana',
+  'fill-hiragana-from-kanji',
   'translate',
   'kanji',
 ];
@@ -102,6 +110,19 @@ function createFillKanjiHiraganaExercise(
   };
 }
 
+function createFillHiraganaFromKanjiExercise(
+  word: VocabularyWord
+): FillHiraganaFromKanjiExercise {
+  return {
+    id: `fill-hiragana-from-kanji-${Date.now()}`,
+    type: 'fill-hiragana-from-kanji',
+    question: `${word.kanji} (${word.vi}) đọc là gì?`,
+    kanji: word.kanji,
+    meaningVi: word.vi,
+    answer: word.hiragana,
+  };
+}
+
 function cleanText(text: string, toLowerCase = false): string {
   let cleaned = text
     .replace(/[~～]/g, '')
@@ -129,6 +150,21 @@ function checkFillKanjiHiragana(
   const explanation = correct
     ? `Chính xác! Bạn có thể điền "${exercise.kanji}" (kanji) hoặc "${exercise.hiragana}" (hiragana).`
     : `Đáp án có thể là "${exercise.kanji}" (kanji) hoặc "${exercise.hiragana}" (hiragana).`;
+
+  return { correct, explanation };
+}
+
+function checkFillHiraganaFromKanji(
+  exercise: FillHiraganaFromKanjiExercise,
+  userAnswer: string
+): { correct: boolean; explanation: string } {
+  const normalizedUserAnswer = cleanText(userAnswer);
+  const normalizedAnswer = cleanText(exercise.answer);
+
+  const correct = normalizedUserAnswer === normalizedAnswer;
+  const explanation = correct
+    ? 'Đúng cách đọc hiragana.'
+    : `Cách đọc đúng: ${exercise.answer}`;
 
   return { correct, explanation };
 }
@@ -175,6 +211,15 @@ export default function ExerciseClient({ lessonNumber }: ExerciseClientProps) {
   const [isGenerating, setIsGenerating] = useState(false);
   const [usedWordIds, setUsedWordIds] = useState<Set<string>>(new Set());
   const usedWordIdsRef = useRef<Set<string>>(new Set());
+  const [answerHistory, setAnswerHistory] = useState<
+    Array<{
+      id: string;
+      question: string;
+      correctAnswer: string;
+      userAnswer: string;
+      correct: boolean;
+    }>
+  >([]);
   const inputRef = useRef<HTMLInputElement>(null);
 
   useEffect(() => {
@@ -240,6 +285,11 @@ export default function ExerciseClient({ lessonNumber }: ExerciseClientProps) {
           return null;
         }
         return createFillKanjiHiraganaExercise(word);
+      case 'fill-hiragana-from-kanji':
+        if (!word.kanji) {
+          return generateVocabularyExercise();
+        }
+        return createFillHiraganaFromKanjiExercise(word);
       default:
         return null;
     }
@@ -353,6 +403,11 @@ export default function ExerciseClient({ lessonNumber }: ExerciseClientProps) {
       correct = result.correct;
       explanation = result.explanation;
       usedMethod = 'local';
+    } else if (isFillHiraganaFromKanjiExercise(currentExercise)) {
+      const result = checkFillHiraganaFromKanji(currentExercise, userAnswer);
+      correct = result.correct;
+      explanation = result.explanation;
+      usedMethod = 'local';
     } else {
       const answer =
         'answer' in currentExercise ? currentExercise.answer : '';
@@ -382,6 +437,20 @@ export default function ExerciseClient({ lessonNumber }: ExerciseClientProps) {
     setIsCorrect(correct);
     setAiExplanation(explanation);
     setCheckMethod(usedMethod);
+
+    if (VOCABULARY_EXERCISE_TYPES.includes(currentExercise.type)) {
+      const correctAnswer = getCorrectAnswer();
+      setAnswerHistory((prev) => [
+        ...prev,
+        {
+          id: currentExercise.id,
+          question: currentExercise.question,
+          correctAnswer,
+          userAnswer: userAnswer || '',
+          correct,
+        },
+      ]);
+    }
 
     if (correct) {
       setScore((prev) => prev + 1);
@@ -494,6 +563,9 @@ export default function ExerciseClient({ lessonNumber }: ExerciseClientProps) {
     }
     if (isFillKanjiHiraganaExercise(currentExercise)) {
       return `${currentExercise.kanji} hoặc ${currentExercise.hiragana}`;
+    }
+    if (isFillHiraganaFromKanjiExercise(currentExercise)) {
+      return currentExercise.answer;
     }
     return 'answer' in currentExercise ? currentExercise.answer : '';
   };
@@ -638,6 +710,36 @@ export default function ExerciseClient({ lessonNumber }: ExerciseClientProps) {
                 Tiếp tục ↵
               </button>
             )}
+          </div>
+        </div>
+      )}
+
+      {answerHistory.length > 0 && (
+        <div className="practiced-words">
+          <span className="stat-label">
+            Từ đã làm ({answerHistory.length})
+          </span>
+          <div className="practiced-words-list">
+            {answerHistory.map((item) => (
+              <div key={item.id} className="practiced-word">
+                <span className="history-left">
+                  {item.question}
+                  {item.correctAnswer ? ` — ${item.correctAnswer}` : ''}
+                </span>
+                <span className="history-answer">
+                  <span className="history-text">
+                    {item.userAnswer || '(trống)'}
+                  </span>
+                  <span
+                    className={`history-icon ${
+                      item.correct ? 'correct' : 'incorrect'
+                    }`}
+                  >
+                    {item.correct ? '✓' : '✗'}
+                  </span>
+                </span>
+              </div>
+            ))}
           </div>
         </div>
       )}
