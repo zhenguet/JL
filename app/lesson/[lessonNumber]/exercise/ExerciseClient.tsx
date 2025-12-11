@@ -720,7 +720,7 @@ export default function ExerciseClient({ lessonNumber }: ExerciseClientProps) {
             Từ đã làm ({answerHistory.length})
           </span>
           <div className="practiced-words-list">
-            {answerHistory.map((item) => (
+            {[...answerHistory].reverse().map((item) => (
               <div key={item.id} className="practiced-word">
                 <span className="history-left">
                   {item.question}
