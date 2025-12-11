@@ -28,7 +28,11 @@ interface ExerciseClientProps {
   lessonNumber: number;
 }
 
-const EXERCISE_TYPES: Array<{ type: ExerciseType; label: string; icon: string }> = [
+const EXERCISE_TYPES: Array<{
+  type: ExerciseType;
+  label: string;
+  icon: string;
+}> = [
   { type: 'fill', label: 'Điền từ', icon: '📝' },
   { type: 'fill-kanji-hiragana', label: 'Điền Kanji/Hiragana', icon: '✏️' },
   {
@@ -169,18 +173,13 @@ function checkFillHiraganaFromKanji(
   return { correct, explanation };
 }
 
-function checkTextAnswer(
-  userAnswer: string,
-  correctAnswer: string
-): boolean {
+function checkTextAnswer(userAnswer: string, correctAnswer: string): boolean {
   const normalizedUserAnswer = cleanText(userAnswer, true);
-  const answerParts = correctAnswer.split(/[,、\/;]/).map((part) =>
-    cleanText(part, true)
-  );
+  const answerParts = correctAnswer
+    .split(/[,、\/;]/)
+    .map((part) => cleanText(part, true));
 
-  const exactMatch = answerParts.some(
-    (part) => part === normalizedUserAnswer
-  );
+  const exactMatch = answerParts.some((part) => part === normalizedUserAnswer);
 
   if (exactMatch) return true;
 
@@ -409,8 +408,7 @@ export default function ExerciseClient({ lessonNumber }: ExerciseClientProps) {
       explanation = result.explanation;
       usedMethod = 'local';
     } else {
-      const answer =
-        'answer' in currentExercise ? currentExercise.answer : '';
+      const answer = 'answer' in currentExercise ? currentExercise.answer : '';
       const aiResult = await checkWithAI(
         currentExercise.question,
         answer,
@@ -571,8 +569,7 @@ export default function ExerciseClient({ lessonNumber }: ExerciseClientProps) {
   };
 
   const isEmptyMessage =
-    vocabulary.length === 0 &&
-    VOCABULARY_EXERCISE_TYPES.includes(exerciseType);
+    vocabulary.length === 0 && VOCABULARY_EXERCISE_TYPES.includes(exerciseType);
 
   return (
     <div className="exercise-container">
@@ -716,9 +713,20 @@ export default function ExerciseClient({ lessonNumber }: ExerciseClientProps) {
 
       {answerHistory.length > 0 && (
         <div className="practiced-words">
-          <span className="stat-label">
-            Từ đã làm ({answerHistory.length})
-          </span>
+          <div className="flex items-center justify-between gap-2">
+            <span className="stat-label">
+              Từ đã làm ({answerHistory.length})
+            </span>
+            <div>
+              <span className="correct-count">
+                {answerHistory.filter((item) => item.correct).length}
+              </span>
+              /
+              <span className="incorrect-count">
+                {answerHistory.filter((item) => !item.correct).length}
+              </span>
+            </div>
+          </div>
           <div className="practiced-words-list">
             {[...answerHistory].reverse().map((item) => (
               <div

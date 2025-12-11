@@ -134,6 +134,16 @@
   margin-bottom: 4px;
 }
 
+.correct-count {
+  color: #28a745;
+  font-weight: 700;
+}
+
+.incorrect-count {
+  color: #dc3545;
+  font-weight: 700;
+}
+
 .stat-value {
   font-size: 1.2rem;
   font-weight: 700;
