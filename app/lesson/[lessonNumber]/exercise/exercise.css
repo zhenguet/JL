@@ -87,6 +87,16 @@
   gap: 12px;
 }
 
+.practiced-word.correct {
+  background: #d4edda;
+  border-color: #c3e6cb;
+}
+
+.practiced-word.incorrect {
+  background: #f8d7da;
+  border-color: #f5c6cb;
+}
+
 .history-left {
   font-weight: 600;
   color: #222;

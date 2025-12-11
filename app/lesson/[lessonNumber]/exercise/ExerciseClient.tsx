@@ -721,7 +721,12 @@ export default function ExerciseClient({ lessonNumber }: ExerciseClientProps) {
           </span>
           <div className="practiced-words-list">
             {[...answerHistory].reverse().map((item) => (
-              <div key={item.id} className="practiced-word">
+              <div
+                key={item.id}
+                className={`practiced-word ${
+                  item.correct ? 'correct' : 'incorrect'
+                }`}
+              >
                 <span className="history-left">
                   {item.question}
                   {item.correctAnswer ? ` — ${item.correctAnswer}` : ''}
