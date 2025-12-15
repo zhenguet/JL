@@ -22,6 +22,39 @@ export const readingExercises: Record<number, ReadingExercise[]> = {
           correctIndex: 0
         }
       ]
+    },
+    {
+      id: 'reading-1-2',
+      type: 'reading',
+      difficulty: 'N5',
+      question: 'Đọc đoạn hội thoại và trả lời',
+      passage: `佐藤：おはようございます。
+山田：おはようございます。
+佐藤：山田さん、こちらはマイク・ミラーさんです。
+ミラー：初めまして。マイク・ミラーです。アメリカから来ました。どうぞよろしく。
+佐藤：佐藤けい子です。どうぞよろしく。`,
+      questions: [
+        {
+          question: 'マイク・ミラーさんはどこから来ましたか。',
+          options: ['アメリカ', 'ブラジル', 'タイ', 'ドイツ'],
+          correctIndex: 0
+        },
+        {
+          question: '「こちらはマイク・ミラーさんです」と紹介したのはだれですか。',
+          options: ['佐藤さん', '山田さん', 'サントスさん', 'ワンさん'],
+          correctIndex: 0
+        },
+        {
+          question: 'あいさつとして正しい組み合わせはどれですか。',
+          options: [
+            '初めまして → どうぞよろしく',
+            'おはようございます → こんばんは',
+            'さようなら → 初めまして',
+            'ありがとう → すみません'
+          ],
+          correctIndex: 0
+        }
+      ]
     }
   ],
 

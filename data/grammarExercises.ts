@@ -35,6 +35,39 @@ export const grammarExercises: Record<number, GrammarExercise[]> = {
       correctIndex: 2,
       grammarPoint: 'を particle (object marker)',
       explanation: '"を" đánh dấu tân ngữ trực tiếp. "日本語を勉強する" = học tiếng Nhật'
+    },
+    {
+      id: 'grammar-1-4',
+      type: 'grammar',
+      difficulty: 'N5',
+      question: 'Chọn cách phủ định đúng',
+      sentence: 'サントスさんは学生___。',
+      options: ['じゃありません', 'です', 'でした', 'ではありませんでした'],
+      correctIndex: 0,
+      grammarPoint: 'じゃありません (phủ định hiện tại)',
+      explanation: 'Mẫu phủ định hiện tại trong bài 1: N は N じゃありません。'
+    },
+    {
+      id: 'grammar-1-5',
+      type: 'grammar',
+      difficulty: 'N5',
+      question: 'Chọn trợ từ phù hợp',
+      sentence: 'サントスさん___会社員です。',
+      options: ['も', 'は', 'が', 'で'],
+      correctIndex: 0,
+      grammarPoint: 'も particle (cũng)',
+      explanation: 'Mẫu N1 も N2 です: "サントスさんも会社員です".'
+    },
+    {
+      id: 'grammar-1-6',
+      type: 'grammar',
+      difficulty: 'N5',
+      question: 'Điền trợ từ đúng',
+      sentence: 'あの方___どなたですか。',
+      options: ['は', 'が', 'を', 'に'],
+      correctIndex: 0,
+      grammarPoint: 'は particle (chủ đề)',
+      explanation: 'Hỏi về người: "あの方はどなたですか" dùng は giới thiệu chủ đề.'
     }
   ],
   

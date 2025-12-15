@@ -32,6 +32,36 @@ export const multipleChoiceExercises: Record<number, MultipleChoiceExercise[]> =
       options: ['ほん', 'かばん', 'つくえ', 'いす'],
       correctIndex: 0,
       explanation: '"ほん" (本) nghĩa là sách.'
+    },
+    {
+      id: 'mc-1-4',
+      type: 'multiple-choice',
+      difficulty: 'N5',
+      category: 'general',
+      question: 'タワポンさんはどこの国の人ですか。',
+      options: ['タイ', 'アメリカ', 'ドイツ', 'ブラジル'],
+      correctIndex: 0,
+      explanation: 'Hình ở sách: タワポンさん đến từ Thái.'
+    },
+    {
+      id: 'mc-1-5',
+      type: 'multiple-choice',
+      difficulty: 'N5',
+      category: 'general',
+      question: 'テレサちゃんは何歳ですか。',
+      options: ['9歳', '8歳', '7歳', '10歳'],
+      correctIndex: 0,
+      explanation: 'Luyện mẫu hỏi tuổi trong bài 1.'
+    },
+    {
+      id: 'mc-1-6',
+      type: 'multiple-choice',
+      difficulty: 'N5',
+      category: 'vocabulary',
+      question: 'シュミットさんのしごとはどれですか。',
+      options: ['エンジニア', '先生', '学生', '銀行員'],
+      correctIndex: 0,
+      explanation: 'Theo tranh luyện tập B bài 1, シュミットさん là kỹ sư.'
     }
   ],
 
