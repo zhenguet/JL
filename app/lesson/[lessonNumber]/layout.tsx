@@ -30,6 +30,12 @@ export default function LessonLayout({
   const getPathForLesson = (lessonNum: number) => {
     const pathParts = pathname.split('/')
     const currentSection = pathParts[pathParts.length - 1]
+    const isExerciseRoute = pathParts[pathParts.length - 2] === 'exercise'
+    
+    if (isExerciseRoute) {
+      return `/lesson/${lessonNum}/exercise/${currentSection}`
+    }
+    
     return `/lesson/${lessonNum}/${currentSection}`
   }
 
@@ -68,7 +74,9 @@ export default function LessonLayout({
         <nav className="lesson-nav">
           {menuItems.map((item) => {
             const href = `/lesson/${lessonNumber}/${item.path}`
-            const isActive = pathname === href
+            const isActive = item.path === 'exercise' 
+              ? pathname.startsWith(href)
+              : pathname === href
             return (
               <Link
                 key={item.path}

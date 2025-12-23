@@ -26,6 +26,7 @@ import './exercise.css';
 
 interface ExerciseClientProps {
   lessonNumber: number;
+  exerciseType: ExerciseType;
 }
 
 const EXERCISE_TYPES: Array<{
@@ -190,9 +191,8 @@ function checkTextAnswer(userAnswer: string, correctAnswer: string): boolean {
   return false;
 }
 
-export default function ExerciseClient({ lessonNumber }: ExerciseClientProps) {
+export default function ExerciseClient({ lessonNumber, exerciseType }: ExerciseClientProps) {
   const vocabulary = vocabularyData[lessonNumber] || [];
-  const [exerciseType, setExerciseType] = useState<ExerciseType>('fill');
   const [currentExercise, setCurrentExercise] = useState<Exercise | null>(null);
   const [userAnswer, setUserAnswer] = useState('');
   const [selectedOptionIndex, setSelectedOptionIndex] = useState<number | null>(
@@ -574,18 +574,6 @@ export default function ExerciseClient({ lessonNumber }: ExerciseClientProps) {
   return (
     <div className="exercise-container">
       <PageTitle title="Bài tập" lessonNumber={lessonNumber} />
-
-      <div className="exercise-type-selector">
-        {EXERCISE_TYPES.map(({ type, label, icon }) => (
-          <button
-            key={type}
-            className={`type-btn ${exerciseType === type ? 'active' : ''}`}
-            onClick={() => setExerciseType(type)}
-          >
-            {icon} {label}
-          </button>
-        ))}
-      </div>
 
       <div className="stats-bar">
         <div className="stat-item">
