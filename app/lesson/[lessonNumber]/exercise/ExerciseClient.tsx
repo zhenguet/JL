@@ -22,6 +22,8 @@ import {
   TranslateExercise,
 } from '@/types/exercise';
 import { useEffect, useRef, useState } from 'react';
+import { useRouter } from 'next/navigation';
+import { exerciseTypeToRoute } from '@/utils/exerciseRoute';
 import './exercise.css';
 
 interface ExerciseClientProps {
@@ -192,6 +194,7 @@ function checkTextAnswer(userAnswer: string, correctAnswer: string): boolean {
 }
 
 export default function ExerciseClient({ lessonNumber, exerciseType }: ExerciseClientProps) {
+  const router = useRouter();
   const vocabulary = vocabularyData[lessonNumber] || [];
   const [currentExercise, setCurrentExercise] = useState<Exercise | null>(null);
   const [userAnswer, setUserAnswer] = useState('');
@@ -571,9 +574,26 @@ export default function ExerciseClient({ lessonNumber, exerciseType }: ExerciseC
   const isEmptyMessage =
     vocabulary.length === 0 && VOCABULARY_EXERCISE_TYPES.includes(exerciseType);
 
+  const handleExerciseTypeChange = (type: ExerciseType) => {
+    const route = exerciseTypeToRoute(type);
+    router.push(`/lesson/${lessonNumber}/exercise/${route}`);
+  };
+
   return (
     <div className="exercise-container">
       <PageTitle title="Bài tập" lessonNumber={lessonNumber} />
+
+      <div className="exercise-type-selector">
+        {EXERCISE_TYPES.map(({ type, label, icon }) => (
+          <button
+            key={type}
+            className={`type-btn ${exerciseType === type ? 'active' : ''}`}
+            onClick={() => handleExerciseTypeChange(type)}
+          >
+            {icon} {label}
+          </button>
+        ))}
+      </div>
 
       <div className="stats-bar">
         <div className="stat-item">
