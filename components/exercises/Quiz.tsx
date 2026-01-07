@@ -137,7 +137,9 @@ export default function Quiz({ questions, title, shuffleOptions = true }: QuizPr
 
   return (
     <div className="quiz-container">
-      {title && <h2 className="quiz-title">{title}</h2>}
+      <div className="quiz-header-wrapper">
+        {title && <h2 className="quiz-title">{title}</h2>}
+      </div>
       <form className="quiz-form">
         {shuffledQuestions.map((shuffledQuestion, index) => (
           <div key={shuffledQuestion.id}>
@@ -187,6 +189,16 @@ export default function Quiz({ questions, title, shuffleOptions = true }: QuizPr
           </div>
         ))}
         <hr className="style-one" />
+        {score !== null && (
+          <div className="quiz-score">
+            <h3>Kết quả: {score.toFixed(1)}%</h3>
+            <p>
+              Số câu đúng: {shuffledQuestions.filter(q => selectedAnswers[q.id] === q.shuffledCorrectAnswer).length} / {questions.length}
+            </p>
+          </div>
+        )}
+      </form>
+      <div className="quiz-actions-wrapper">
         <div className="quiz-actions">
           <button
             type="button"
@@ -212,15 +224,7 @@ export default function Quiz({ questions, title, shuffleOptions = true }: QuizPr
             Đáp Án
           </button>
         </div>
-        {score !== null && (
-          <div className="quiz-score">
-            <h3>Kết quả: {score.toFixed(1)}%</h3>
-            <p>
-              Số câu đúng: {shuffledQuestions.filter(q => selectedAnswers[q.id] === q.shuffledCorrectAnswer).length} / {questions.length}
-            </p>
-          </div>
-        )}
-      </form>
+      </div>
     </div>
   );
 }

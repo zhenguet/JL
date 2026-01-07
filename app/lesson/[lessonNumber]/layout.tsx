@@ -43,52 +43,54 @@ export default function LessonLayout({
   return (
     <div className="lesson-page">
       <div className="lesson-container">
-        <div className="lesson-header">
-          <Link href="/" className="back-button">
-            ← Về trang chủ
-          </Link>
-          <h1 className="lesson-title">Bài {lessonNumber}</h1>
-          <div className="lesson-navigation">
-            {prevLesson ? (
-              <Link
-                href={getPathForLesson(prevLesson)}
-                className="nav-lesson-btn prev-lesson"
-              >
-                ← Bài {prevLesson}
-              </Link>
-            ) : (
-              <span className="nav-lesson-btn prev-lesson disabled">← Bài trước</span>
-            )}
-            {nextLesson ? (
-              <Link
-                href={getPathForLesson(nextLesson)}
-                className="nav-lesson-btn next-lesson"
-              >
-                Bài {nextLesson} →
-              </Link>
-            ) : (
-              <span className="nav-lesson-btn next-lesson disabled">Bài sau →</span>
-            )}
+        <div className="lesson-header-wrapper">
+          <div className="lesson-header">
+            <Link href="/" className="back-button">
+              ← Về trang chủ
+            </Link>
+            <h1 className="lesson-title">Bài {lessonNumber}</h1>
+            <div className="lesson-navigation">
+              {prevLesson ? (
+                <Link
+                  href={getPathForLesson(prevLesson)}
+                  className="nav-lesson-btn prev-lesson"
+                >
+                  ← Bài {prevLesson}
+                </Link>
+              ) : (
+                <span className="nav-lesson-btn prev-lesson disabled">← Bài trước</span>
+              )}
+              {nextLesson ? (
+                <Link
+                  href={getPathForLesson(nextLesson)}
+                  className="nav-lesson-btn next-lesson"
+                >
+                  Bài {nextLesson} →
+                </Link>
+              ) : (
+                <span className="nav-lesson-btn next-lesson disabled">Bài sau →</span>
+              )}
+            </div>
           </div>
-        </div>
 
-        <nav className="lesson-nav">
-          {menuItems.map((item) => {
-            const href = `/lesson/${lessonNumber}/${item.path}`
-            const isActive = item.path === 'exercise' 
-              ? pathname.startsWith(href)
-              : pathname === href
-            return (
-              <Link
-                key={item.path}
-                href={href}
-                className={`nav-item ${isActive ? 'active' : ''}`}
-              >
-                {item.label}
-              </Link>
-            )
-          })}
-        </nav>
+          <nav className="lesson-nav">
+            {menuItems.map((item) => {
+              const href = `/lesson/${lessonNumber}/${item.path}`
+              const isActive = item.path === 'exercise' 
+                ? pathname.startsWith(href)
+                : pathname === href
+              return (
+                <Link
+                  key={item.path}
+                  href={href}
+                  className={`nav-item ${isActive ? 'active' : ''}`}
+                >
+                  {item.label}
+                </Link>
+              )
+            })}
+          </nav>
+        </div>
 
         <div className="lesson-content">{children}</div>
       </div>
