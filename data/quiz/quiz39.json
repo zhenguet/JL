@@ -1,0 +1,248 @@
+[
+  {
+    "id": 1,
+    "question": "<b>たおれます</b>",
+    "options": ["Ngã bệnh", "Trượt, té", "Ngã, đổ", "Thi đỗ"],
+    "correctAnswer": 2
+  },
+  {
+    "id": 2,
+    "question": "<b>しにます</b>",
+    "options": ["Du lịch", "Xây nhà", "Tham quan", "Chết"],
+    "correctAnswer": 3
+  },
+  {
+    "id": 3,
+    "question": "<b>あんしん</b>",
+    "options": ["Yên tâm", "Bình tĩnh", "Nông cạn", "Nghèo đói"],
+    "correctAnswer": 0
+  },
+  {
+    "id": 4,
+    "question": "<b>かなしい</b>",
+    "options": ["Tàn nhẫn", "Nhớ nhung", "Đau thương", "Vất vả"],
+    "correctAnswer": 2
+  },
+  {
+    "id": 5,
+    "question": "<b>じゃま</b>",
+    "options": ["Rối ren", "Cản trở", "Lao đao", "Buồn bã"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 6,
+    "question": "<b>Động đất</b>",
+    "options": ["とち", "じしん", "しんかん", "なれ"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 7,
+    "question": "<b>Đi qua, thông qua</b>",
+    "options": ["あるきます", "さんぼします", "とおります", "たおります"],
+    "correctAnswer": 2
+  },
+  {
+    "id": 8,
+    "question": "<b>Thao tác</b>",
+    "options": ["そさ", "そうさ", "そしゃ", "そさう"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 9,
+    "question": "<b>Hội trường</b>",
+    "options": ["かじょう", "かいじょう", "かいじょ", "かじょ"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 10,
+    "question": "<b>Trả lời</b>",
+    "options": ["こたえます", "ききます", "はなします", "たおれます"],
+    "correctAnswer": 0
+  },
+  {
+    "id": 11,
+    "question": "<b>おおぜい</b>",
+    "options": ["太熱", "大熱", "太勢", "大勢"],
+    "correctAnswer": 3
+  },
+  {
+    "id": 12,
+    "question": "<b>とちゅう</b>",
+    "options": ["途中", "中途", "中値", "値中"],
+    "correctAnswer": 0
+  },
+  {
+    "id": 13,
+    "question": "<b>おとな</b>",
+    "options": ["大人", "人大", "太人", "人太"],
+    "correctAnswer": 0
+  },
+  {
+    "id": 14,
+    "question": "<b>じこ</b>",
+    "options": ["故障", "障故", "故事", "事故"],
+    "correctAnswer": 3
+  },
+  {
+    "id": 15,
+    "question": "<b>かじ</b>",
+    "options": ["族火", "火事", "火族", "事火"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 16,
+    "question": "<b>台風</b>",
+    "options": ["たいふ", "たいふう", "だいふう", "だいふ"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 17,
+    "question": "<b>汚い</b>",
+    "options": ["つめたい", "なつかしい", "きたない", "さめねい"],
+    "correctAnswer": 2
+  },
+  {
+    "id": 18,
+    "question": "<b>複雑</b>",
+    "options": ["ふんけい", "ふくざつ", "けいざつ", "ふうざつ"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 19,
+    "question": "<b>離婚</b>",
+    "options": ["りんご", "りんこん", "りこん", "りこう"],
+    "correctAnswer": 2
+  },
+  {
+    "id": 20,
+    "question": "<b>安心</b>",
+    "options": ["あんぜん", "あんしん", "あんき", "そうしん"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 21,
+    "question": "<b><ruby>試験<rp>（</rp><rt>しけん</rt><rp>）</rp></ruby>に<ruby>合格<rp>（</rp><rt>ごうかく</rt><rp>）</rp></ruby>して、（　）です。</b>",
+    "options": ["うれしい", "楽しい"],
+    "correctAnswer": 0
+  },
+  {
+    "id": 22,
+    "question": "<b>お<ruby>金<rp>（</rp><rt>かね</rt><rp>）</rp></ruby>が（　）<ruby>困<rp>（</rp><rt>こま</rt><rp>）</rp></ruby>っています。</b>",
+    "options": ["ないで、", "なくて、"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 23,
+    "question": "<b><ruby>手紙<rp>（</rp><rt>てがみ</rt><rp>）</rp></ruby>が（　）<ruby>寂<rp>（</rp><rt>さび</rt><rp>）</rp></ruby>しいです。</b>",
+    "options": ["来ないで、", "来なくて、"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 24,
+    "question": "<b>きのうはうるさくて、（　）。</b>",
+    "options": ["寝ませんでした", "寝られませんでした"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 25,
+    "question": "<b>この<ruby>荷物<rp>（</rp><rt>にもつ</rt><rp>）</rp></ruby>は（　）ので、<ruby>片付<rp>（</rp><rt>かたづ</rt><rp>）</rp></ruby>けてください。</b>",
+    "options": ["邪魔な", "邪魔だ"],
+    "correctAnswer": 0
+  },
+  {
+    "id": 26,
+    "question": "<b>きのうは（　）ので、<ruby>電車<rp>（</rp><rt>でんしゃ</rt><rp>）</rp></ruby>がすいていました。</b>",
+    "options": ["日曜日だった", "日曜日な"],
+    "correctAnswer": 0
+  },
+  {
+    "id": 27,
+    "question": "<b>この<ruby>皿<rp>（</rp><rt>さら</rt><rp>）</rp></ruby>は（　）ので、<ruby>換<rp>（</rp><rt>か</rt><rp>）</rp></ruby>えていただけませんか。</b>",
+    "options": ["汚い", "汚くて"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 28,
+    "question": "<b>この<ruby>本<rp>（</rp><rt>ほん</rt><rp>）</rp></ruby>は<ruby>漢字<rp>（</rp><rt>かんじ</rt><rp>）</rp></ruby>が（　）<ruby>難<rp>（</rp><rt>むずか</rt><rp>）</rp></ruby>しいので、<ruby>読<rp>（</rp><rt>よ</rt><rp>）</rp></ruby>めません。</b>",
+    "options": ["多いので、", "多くて、"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 29,
+    "question": "<b>（　）で、うちが<ruby>壊<rp>（</rp><rt>こわ</rt><rp>）</rp></ruby>れました。</b>",
+    "options": ["地震", "地震だ"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 30,
+    "question": "<b><ruby>宿題<rp>（</rp><rt>しゅくだい</rt><rp>）</rp></ruby>が（　）あります。</b>",
+    "options": ["おおぜい", "たくさん"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 31,
+    "question": "<b><ruby>胃<rp>（</rp><rt>い</rt><rp>）</rp></ruby>の<ruby>病気<rp>（</rp><rt>びょうき</rt><rp>）</rp></ruby>（１）<ruby>入院<rp>（</rp><rt>にゅういん</rt><rp>）</rp></ruby>するので、<ruby>社員<rp>（</rp><rt>しゃいん</rt><rp>）</rp></ruby><ruby>旅行<rp>（</rp><rt>りょこう</rt><rp>）</rp></ruby>（２）<ruby>参加<rp>（</rp><rt>さんか</rt><rp>）</rp></ruby>できません。</b><br><b>(1)</b>",
+    "options": ["に", "で"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 32,
+    "question": "<b><ruby>胃<rp>（</rp><rt>い</rt><rp>）</rp></ruby>の<ruby>病気<rp>（</rp><rt>びょうき</rt><rp>）</rp></ruby>（１）<ruby>入院<rp>（</rp><rt>にゅういん</rt><rp>）</rp></ruby>するので、<ruby>社員<rp>（</rp><rt>しゃいん</rt><rp>）</rp></ruby><ruby>旅行<rp>（</rp><rt>りょこう</rt><rp>）</rp></ruby>（２）<ruby>参加<rp>（</rp><rt>さんか</rt><rp>）</rp></ruby>できません。</b><br><b>(2)</b>",
+    "options": ["に", "を"],
+    "correctAnswer": 0
+  },
+  {
+    "id": 33,
+    "question": "<b><ruby>授業<rp>（</rp><rt>じゅぎょう</rt><rp>）</rp></ruby>（１）<ruby>遅刻<rp>（</rp><rt>ちこく</rt><rp>）</rp></ruby>して、<ruby>先生<rp>（</rp><rt>せんせい</rt><rp>）</rp></ruby>（２）しかられました。</b><br><b>(1)</b>",
+    "options": ["が", "に"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 34,
+    "question": "<b><ruby>授業<rp>（</rp><rt>じゅぎょう</rt><rp>）</rp></ruby>（１）<ruby>遅刻<rp>（</rp><rt>ちこく</rt><rp>）</rp></ruby>して、<ruby>先生<rp>（</rp><rt>せんせい</rt><rp>）</rp></ruby>（２）しかられました。</b><br><b>(2)</b>",
+    "options": ["に", "が"],
+    "correctAnswer": 0
+  },
+  {
+    "id": 35,
+    "question": "<b><ruby>質問<rp>（</rp><rt>しつもん</rt><rp>）</rp></ruby>（　）<ruby>答<rp>（</rp><rt>こた</rt><rp>）</rp></ruby>えられなくて、<ruby>恥<rp>（</rp><rt>は</rt><rp>）</rp></ruby>ずかしかったです。</b>",
+    "options": ["に", "を"],
+    "correctAnswer": 0
+  },
+  {
+    "id": 36,
+    "question": "<b>バスはこの<ruby>道<rp>（</rp><rt>みち</rt><rp>）</rp></ruby>（　）<ruby>通<rp>（</rp><rt>とお</rt><rp>）</rp></ruby>って、<ruby>駅<rp>（</rp><rt>えき</rt><rp>）</rp></ruby>まで<ruby>行<rp>（</rp><rt>い</rt><rp>）</rp></ruby>きます。</b>",
+    "options": ["に", "を"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 37,
+    "question": "<b><ruby>富士山<rp>（</rp><rt>ふじさん</rt><rp>）</rp></ruby>が<ruby>見<rp>（</rp><rt>み</rt><rp>）</rp></ruby>えて（　）。</b>",
+    "options": ["うれしかったです", "写真を撮りました"],
+    "correctAnswer": 0
+  },
+  {
+    "id": 38,
+    "question": "<b><ruby>日本<rp>（</rp><rt>にほん</rt><rp>）</rp></ruby>は<ruby>物価<rp>（</rp><rt>ぶっか</rt><rp>）</rp></ruby>が<ruby>高<rp>（</rp><rt>たか</rt><rp>）</rp></ruby>くて（　）。</b>",
+    "options": ["困ります", "買い物をしません"],
+    "correctAnswer": 0
+  },
+  {
+    "id": 39,
+    "question": "<b><ruby>私<rp>（</rp><rt>わたし</rt><rp>）</rp></ruby>は<ruby>字<rp>（</rp><rt>じ</rt><rp>）</rp></ruby>が<ruby>下手<rp>（</rp><rt>へた</rt><rp>）</rp></ruby>で（　）。</b>",
+    "options": ["手紙を書きません", "恥ずかしいです"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 40,
+    "question": "<b><ruby>遅<rp>（</rp><rt>おそ</rt><rp>）</rp></ruby>くなって（　）。</b>",
+    "options": ["すみません", "タクシーに乗ろうと思います"],
+    "correctAnswer": 0
+  },
+  {
+    "id": 41,
+    "question": "<b><ruby>台風<rp>（</rp><rt>たいふう</rt><rp>）</rp></ruby>で（　）。</b>",
+    "options": ["寝ませんでした", "寝られませんでした"],
+    "correctAnswer": 1
+  }
+]

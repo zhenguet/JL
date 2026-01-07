@@ -23,6 +23,30 @@ import quiz22 from './quiz/quiz22.json';
 import quiz23 from './quiz/quiz23.json';
 import quiz24 from './quiz/quiz24.json';
 import quiz25 from './quiz/quiz25.json';
+import quiz26 from './quiz/quiz26.json';
+import quiz27 from './quiz/quiz27.json';
+import quiz28 from './quiz/quiz28.json';
+import quiz29 from './quiz/quiz29.json';
+import quiz30 from './quiz/quiz30.json';
+import quiz31 from './quiz/quiz31.json';
+import quiz32 from './quiz/quiz32.json';
+import quiz33 from './quiz/quiz33.json';
+import quiz34 from './quiz/quiz34.json';
+import quiz35 from './quiz/quiz35.json';
+import quiz36 from './quiz/quiz36.json';
+import quiz37 from './quiz/quiz37.json';
+import quiz38 from './quiz/quiz38.json';
+import quiz39 from './quiz/quiz39.json';
+import quiz40 from './quiz/quiz40.json';
+import quiz41 from './quiz/quiz41.json';
+import quiz42 from './quiz/quiz42.json';
+import quiz43 from './quiz/quiz43.json';
+import quiz45 from './quiz/quiz45.json';
+import quiz46 from './quiz/quiz46.json';
+import quiz47 from './quiz/quiz47.json';
+import quiz48 from './quiz/quiz48.json';
+import quiz49 from './quiz/quiz49.json';
+import quiz50 from './quiz/quiz50.json';
 
 const quizDataByLesson: Record<number, QuizQuestion[]> = {
   1: quiz1 as QuizQuestion[],
@@ -49,6 +73,28 @@ const quizDataByLesson: Record<number, QuizQuestion[]> = {
   23: quiz23 as QuizQuestion[],
   24: quiz24 as QuizQuestion[],
   25: quiz25 as QuizQuestion[],
+  26: quiz26 as QuizQuestion[],
+  28: quiz28 as QuizQuestion[],
+  30: quiz30 as QuizQuestion[],
+  31: quiz31 as QuizQuestion[],
+  32: quiz32 as QuizQuestion[],
+  33: quiz33 as QuizQuestion[],
+  34: quiz34 as QuizQuestion[],
+  35: quiz35 as QuizQuestion[],
+  36: quiz36 as QuizQuestion[],
+  37: quiz37 as QuizQuestion[],
+  38: quiz38 as QuizQuestion[],
+  39: quiz39 as QuizQuestion[],
+  40: quiz40 as QuizQuestion[],
+  41: quiz41 as QuizQuestion[],
+  42: quiz42 as QuizQuestion[],
+  43: quiz43 as QuizQuestion[],
+  45: quiz45 as QuizQuestion[],
+  46: quiz46 as QuizQuestion[],
+  47: quiz47 as QuizQuestion[],
+  48: quiz48 as QuizQuestion[],
+  49: quiz49 as QuizQuestion[],
+  50: quiz50 as QuizQuestion[],
 };
 
 export function getQuizData(lessonNumber: number): QuizQuestion[] {

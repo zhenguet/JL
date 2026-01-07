@@ -1,0 +1,344 @@
+[
+  {
+    "id": 1,
+    "question": "<b>ガソリン</b>",
+    "options": ["Dầu", "Trạm", "Xăng", "Bánh xe"],
+    "correctAnswer": 2
+  },
+  {
+    "id": 2,
+    "question": "<b>へん</b>",
+    "options": ["Lạ", "Nhàn", "Dở", "Ngon"],
+    "correctAnswer": 0
+  },
+  {
+    "id": 3,
+    "question": "<b>つまらない</b>",
+    "options": ["Buồn tẻ", "An toàn", "Sinh động", "Đáng kể"],
+    "correctAnswer": 0
+  },
+  {
+    "id": 4,
+    "question": "<b>パンフレット</b>",
+    "options": ["Lửa", "Xăng", "Tờ lịch", "Tờ rơi quảng cáo"],
+    "correctAnswer": 3
+  },
+  {
+    "id": 5,
+    "question": "<b>まずい</b>",
+    "options": ["Dở", "Ngọt", "Chua", "Đắng"],
+    "correctAnswer": 0
+  },
+  {
+    "id": 6,
+    "question": "<b>Ngon</b>",
+    "options": ["じょうぶ", "まずい", "しあわせ", "うまい"],
+    "correctAnswer": 3
+  },
+  {
+    "id": 7,
+    "question": "<b>Lò sưởi</b>",
+    "options": ["れぼう", "だんぼ", "れいぼう", "だんぼう"],
+    "correctAnswer": 3
+  },
+  {
+    "id": 8,
+    "question": "<b>Nhàn nhã</b>",
+    "options": ["しあわせ", "らく", "へん", "うまい"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 9,
+    "question": "<b>Đứt</b>",
+    "options": ["ふえます", "さがります", "きれます", "へります"],
+    "correctAnswer": 2
+  },
+  {
+    "id": 10,
+    "question": "<b>Mất, hết</b>",
+    "options": ["さがります", "とれます", "おちます", "なくなります"],
+    "correctAnswer": 3
+  },
+  {
+    "id": 11,
+    "question": "<b>しあわせ</b>",
+    "options": ["回せ", "増せ", "明せ", "幸せ"],
+    "correctAnswer": 3
+  },
+  {
+    "id": 12,
+    "question": "<b>ねだん</b>",
+    "options": ["値段", "段値", "段階", "階段"],
+    "correctAnswer": 0
+  },
+  {
+    "id": 13,
+    "question": "<b>ゆしゅつ</b>",
+    "options": ["輸送", "送輸", "輸出", "入出"],
+    "correctAnswer": 2
+  },
+  {
+    "id": 14,
+    "question": "<b>へります</b>",
+    "options": ["降ります", "減ります", "振ります", "走ります"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 15,
+    "question": "<b>にもつ</b>",
+    "options": ["何物", "荷物", "荷牛", "何牛"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 16,
+    "question": "<b>優しい</b>",
+    "options": ["くるしい", "たのしい", "やさしい", "うれしい"],
+    "correctAnswer": 2
+  },
+  {
+    "id": 17,
+    "question": "<b>年齢</b>",
+    "options": ["れんれ", "ねんれい", "れいねん", "れねん"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 18,
+    "question": "<b>適当</b>",
+    "options": ["てきとう", "てきと", "てっとう", "てきとお"],
+    "correctAnswer": 0
+  },
+  {
+    "id": 19,
+    "question": "<b>落ちます</b>",
+    "options": ["とちます", "おちます", "まちます", "さちます"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 20,
+    "question": "<b>上がります</b>",
+    "options": ["あがります", "さがります", "まかります", "おります"],
+    "correctAnswer": 0
+  },
+  {
+    "id": 21,
+    "question": "<b>たくさん<ruby>買<rp>（</rp><rt>か</rt><rp>）</rp></ruby>い<ruby>物<rp>（</rp><rt>もの</rt><rp>）</rp></ruby>したので、お<ruby>金<rp>（</rp><rt>かね</rt><rp>）</rp></ruby>が（　）。</b>",
+    "options": ["なくしました", "なくなりました"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 22,
+    "question": "<b>ことしは<ruby>米<rp>（</rp><rt>こめ</rt><rp>）</rp></ruby>の<ruby>値段<rp>（</rp><rt>ねだん</rt><rp>）</rp></ruby>が（　）。</b>",
+    "options": ["増えそうです", "上がりそうです"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 23,
+    "question": "<b>これからこの<ruby>町<rp>（</rp><rt>まち</rt><rp>）</rp></ruby>に<ruby>住<rp>（</rp><rt>す</rt><rp>）</rp></ruby>む<ruby>外国<rp>（</rp><rt>がいこく</rt><rp>）</rp></ruby><ruby>人<rp>（</rp><rt>じん</rt><rp>）</rp></ruby>が（　）。</b>",
+    "options": ["増えそうです", "上がりそうです"],
+    "correctAnswer": 0
+  },
+  {
+    "id": 24,
+    "question": "<b>この<ruby>辞書<rp>（</rp><rt>じしょ</rt><rp>）</rp></ruby>は<ruby>軽<rp>（</rp><rt>かる</rt><rp>）</rp></ruby>くて、（　）。</b>",
+    "options": ["いいそうです", "よさそうです"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 25,
+    "question": "<b><ruby>彼<rp>（</rp><rt>かれ</rt><rp>）</rp></ruby>はユーモアが（　）。</b>",
+    "options": ["なそうです", "なさそうです"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 26,
+    "question": "<b><ruby>佐藤<rp>（</rp><rt>さとう</rt><rp>）</rp></ruby>さんはきょうは<ruby>仕事<rp>（</rp><rt>しごと</rt><rp>）</rp></ruby>がなくて、（　）。</b>",
+    "options": ["暇なそうです", "暇そうです"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 27,
+    "question": "<b>イーさんは（　）。</b>",
+    "options": ["きれいです", "きれいそうです"],
+    "correctAnswer": 0
+  },
+  {
+    "id": 28,
+    "question": "<b>（　）<ruby>雨<rp>（</rp><rt>あめ</rt><rp>）</rp></ruby>がふりそうです。</b>",
+    "options": ["今にも", "今"],
+    "correctAnswer": 0
+  },
+  {
+    "id": 29,
+    "question": "<b>（１）スーパー（２）<ruby>食<rp>（</rp><rt>た</rt><rp>）</rp></ruby>べ<ruby>物<rp>（</rp><rt>もの</rt><rp>）</rp></ruby>を<ruby>買<rp>（</rp><rt>か</rt><rp>）</rp></ruby>って<ruby>来<rp>（</rp><rt>き</rt><rp>）</rp></ruby>ます。</b><br><b>(1)</b>",
+    "options": ["ちょうど", "ちょっと"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 30,
+    "question": "<b>（１）スーパー（２）<ruby>食<rp>（</rp><rt>た</rt><rp>）</rp></ruby>べ<ruby>物<rp>（</rp><rt>もの</rt><rp>）</rp></ruby>を<ruby>買<rp>（</rp><rt>か</rt><rp>）</rp></ruby>って<ruby>来<rp>（</rp><rt>き</rt><rp>）</rp></ruby>ます。</b><br><b>(2)</b>",
+    "options": ["で", "へ"],
+    "correctAnswer": 0
+  },
+  {
+    "id": 31,
+    "question": "<b>あの<ruby>女<rp>（</rp><rt>おんな</rt><rp>）</rp></ruby>の<ruby>子<rp>（</rp><rt>こ</rt><rp>）</rp></ruby>は<ruby>足<rp>（</rp><rt>あし</rt><rp>）</rp></ruby>を<ruby>踏<rp>（</rp><rt>ふ</rt><rp>）</rp></ruby>まれて、＿＿＿そうですね。</b>",
+    "options": ["痛", "ずる"],
+    "correctAnswer": 0
+  },
+  {
+    "id": 32,
+    "question": "<b><ruby>渡辺<rp>（</rp><rt>わたなべ</rt><rp>）</rp></ruby>さんは＿＿＿そうです。コーヒーを<ruby>飲<rp>（</rp><rt>の</rt><rp>）</rp></ruby>みながら<ruby>新聞<rp>（</rp><rt>しんぶん</rt><rp>）</rp></ruby>を<ruby>読<rp>（</rp><rt>よ</rt><rp>）</rp></ruby>んでいます。</b>",
+    "options": ["げんき", "暇"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 33,
+    "question": "<b>この<ruby>人形<rp>（</rp><rt>にんぎょう</rt><rp>）</rp></ruby>はお<ruby>土産<rp>（</rp><rt>みやげ</rt><rp>）</rp></ruby>にちょうど＿＿＿そうです。</b>",
+    "options": ["いい", "よさ"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 34,
+    "question": "<b>あしたの<ruby>試験<rp>（</rp><rt>しけん</rt><rp>）</rp></ruby>は＿＿＿そうですから、<ruby>今晩<rp>（</rp><rt>こんばん</rt><rp>）</rp></ruby><ruby>勉強<rp>（</rp><rt>べんきょう</rt><rp>）</rp></ruby>しなければなりません。</b>",
+    "options": ["難し", "おわり"],
+    "correctAnswer": 0
+  },
+  {
+    "id": 35,
+    "question": "<b><ruby>駅<rp>（</rp><rt>えき</rt><rp>）</rp></ruby>の<ruby>前<rp>（</rp><rt>まえ</rt><rp>）</rp></ruby>にできたスーパーは<ruby>大<rp>（</rp><rt>おお</rt><rp>）</rp></ruby>きくて、<ruby>買<rp>（</rp><rt>か</rt><rp>）</rp></ruby>い<ruby>物<rp>（</rp><rt>もの</rt><rp>）</rp></ruby>に＿＿＿そうですね。</b>",
+    "options": ["便利", "よわ"],
+    "correctAnswer": 0
+  },
+  {
+    "id": 36,
+    "question": "<b>このカレーは＿＿＿そうですが、<ruby>実<rp>（</rp><rt>じつ</rt><rp>）</rp></ruby>はそんなに<ruby>辛<rp>（</rp><rt>から</rt><rp>）</rp></ruby>くないんです。</b>",
+    "options": ["辛", "あう"],
+    "correctAnswer": 0
+  },
+  {
+    "id": 37,
+    "question": "<b>この<ruby>指輪<rp>（</rp><rt>ゆびわ</rt><rp>）</rp></ruby>はとてもきれいですが、＿＿＿そうですね。<p>…<ruby>値段<rp>（</rp><rt>ねだん</rt><rp>）</rp></ruby>を<ruby>聞<rp>（</rp><rt>き</rt><rp>）</rp></ruby>いてみましょうか。</p></b>",
+    "options": ["だま", "高"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 38,
+    "question": "<b>あの<ruby>二人<rp>（</rp><rt>ふたり</rt><rp>）</rp></ruby>は<ruby>先月<rp>（</rp><rt>せんげつ</rt><rp>）</rp></ruby><ruby>結婚<rp>（</rp><rt>けっこん</rt><rp>）</rp></ruby>したんです。とても＿＿＿そうですね。</b>",
+    "options": ["幸", "幸せ"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 39,
+    "question": "<b><ruby>鈴木<rp>（</rp><rt>すずき</rt><rp>）</rp></ruby>さん、<ruby>気分<rp>（</rp><rt>きぶん</rt><rp>）</rp></ruby>が＿＿＿そうですね。<ruby>疲<rp>（</rp><rt>つか</rt><rp>）</rp></ruby>れたんですか。</b>",
+    "options": ["悪", "よさ"],
+    "correctAnswer": 0
+  },
+  {
+    "id": 40,
+    "question": "<b>その<ruby>荷物<rp>（</rp><rt>にもつ</rt><rp>）</rp></ruby>は＿＿＿そうですね。<ruby>手伝<rp>（</rp><rt>てつだ</rt><rp>）</rp></ruby>いましょうか。</b>",
+    "options": ["重", "へき"],
+    "correctAnswer": 0
+  },
+  {
+    "id": 41,
+    "question": "<b><ruby>網棚<rp>（</rp><rt>あみだな</rt><rp>）</rp></ruby>の<ruby>荷物<rp>（</rp><rt>にもつ</rt><rp>）</rp></ruby>が＿＿＿そうですね。<ruby>危<rp>（</rp><rt>あぶ</rt><rp>）</rp></ruby>ないですね。</b>",
+    "options": ["落と", "落ち"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 42,
+    "question": "<b><ruby>約束<rp>（</rp><rt>やくそく</rt><rp>）</rp></ruby>の<ruby>時間<rp>（</rp><rt>じかん</rt><rp>）</rp></ruby>に＿＿＿そうですから、<ruby>少<rp>（</rp><rt>すこ</rt><rp>）</rp></ruby>し<ruby>急<rp>（</rp><rt>いそ</rt><rp>）</rp></ruby>ぎましょう。</b>",
+    "options": ["間に合う", "遅れ"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 43,
+    "question": "<b>ことしは<ruby>海外<rp>（</rp><rt>かいがい</rt><rp>）</rp></ruby><ruby>旅行<rp>（</rp><rt>りょこう</rt><rp>）</rp></ruby>をする<ruby>人<rp>（</rp><rt>ひと</rt><rp>）</rp></ruby>が＿＿＿そうです。</b>",
+    "options": ["増え", "高"],
+    "correctAnswer": 0
+  },
+  {
+    "id": 44,
+    "question": "<b><ruby>靴<rp>（</rp><rt>くつ</rt><rp>）</rp></ruby>のひもが＿＿＿そうですから、<ruby>新<rp>（</rp><rt>あたら</rt><rp>）</rp></ruby>しいのを<ruby>買<rp>（</rp><rt>か</rt><rp>）</rp></ruby>わなければなりません。</b>",
+    "options": ["切れ", "しっくり"],
+    "correctAnswer": 0
+  },
+  {
+    "id": 45,
+    "question": "<b>このいすは＿＿＿そうですから、<ruby>座<rp>（</rp><rt>すわ</rt><rp>）</rp></ruby>らないでください。</b>",
+    "options": ["敗れ", "壊れ"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 46,
+    "question": "<b>この<ruby>仕事<rp>（</rp><rt>しごと</rt><rp>）</rp></ruby>は<ruby>簡単<rp>（</rp><rt>かんたん</rt><rp>）</rp></ruby>ですから、すぐ＿＿＿そうです。</b>",
+    "options": ["最後", "終わり"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 47,
+    "question": "<b><ruby>今<rp>（</rp><rt>いま</rt><rp>）</rp></ruby>にも<ruby>雨<rp>（</rp><rt>あめ</rt><rp>）</rp></ruby>が＿＿＿そうですから、テニスはできませんね。</b>",
+    "options": ["ふり", "やんだ"],
+    "correctAnswer": 0
+  },
+  {
+    "id": 48,
+    "question": "<b>あ、ボタンが＿＿＿そうですよ。</b>",
+    "options": ["とれ", "押し"],
+    "correctAnswer": 0
+  },
+  {
+    "id": 49,
+    "question": "<b>おなかがすいていますから、このお<ruby>弁当<rp>（</rp><rt>べんとう</rt><rp>）</rp></ruby>、<ruby>全部<rp>（</rp><rt>ぜんぶ</rt><rp>）</rp></ruby>＿＿＿そうです。</b>",
+    "options": ["食べられ", "食べてしまった"],
+    "correctAnswer": 0
+  },
+  {
+    "id": 50,
+    "question": "<b>この<ruby>靴下<rp>（</rp><rt>くつした</rt><rp>）</rp></ruby>は<ruby>古<rp>（</rp><rt>ふる</rt><rp>）</rp></ruby>くて、＿＿＿そうです。</b>",
+    "options": ["忘れ", "破れ"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 51,
+    "question": "<b><ruby>新<rp>（</rp><rt>あたら</rt><rp>）</rp></ruby>しい<ruby>製品<rp>（</rp><rt>せいひん</rt><rp>）</rp></ruby>ができましたね。＿＿＿そうですか。</b>",
+    "options": ["売る", "売れ"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 52,
+    "question": "<b>カレンダーに<ruby>約束<rp>（</rp><rt>やくそく</rt><rp>）</rp></ruby>の<ruby>時間<rp>（</rp><rt>じかん</rt><rp>）</rp></ruby>が<ruby>書<rp>（</rp><rt>か</rt><rp>）</rp></ruby>いて＿＿＿。</b>",
+    "options": ["います", "あります"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 53,
+    "question": "<b>ラッシュですから、<ruby>電車<rp>（</rp><rt>でんしゃ</rt><rp>）</rp></ruby>がとても<ruby>込<rp>（</rp><rt>こ</rt><rp>）</rp></ruby>んで＿＿＿。</b>",
+    "options": ["いました", "できました"],
+    "correctAnswer": 0
+  },
+  {
+    "id": 54,
+    "question": "<b><ruby>電車<rp>（</rp><rt>でんしゃ</rt><rp>）</rp></ruby>に<ruby>忘<rp>（</rp><rt>わす</rt><rp>）</rp></ruby>れ<ruby>物<rp>（</rp><rt>もの</rt><rp>）</rp></ruby>をして＿＿＿。</b>",
+    "options": ["しまいました", "ありました"],
+    "correctAnswer": 0
+  },
+  {
+    "id": 55,
+    "question": "<b><ruby>会議<rp>（</rp><rt>かいぎ</rt><rp>）</rp></ruby>の<ruby>前<rp>（</rp><rt>まえ</rt><rp>）</rp></ruby>に、<ruby>資料<rp>（</rp><rt>しりょう</rt><rp>）</rp></ruby>を<ruby>見<rp>（</rp><rt>み</rt><rp>）</rp></ruby>て＿＿＿ください。</b>",
+    "options": ["あって", "おいて"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 56,
+    "question": "<b>すみません。この<ruby>靴<rp>（</rp><rt>くつ</rt><rp>）</rp></ruby>をはいて＿＿＿もいいですか。</b>",
+    "options": ["みて", "確認して"],
+    "correctAnswer": 0
+  },
+  {
+    "id": 57,
+    "question": "<b>いい<ruby>天気<rp>（</rp><rt>てんき</rt><rp>）</rp></ruby>なので、ちょっと<ruby>公園<rp>（</rp><rt>こうえん</rt><rp>）</rp></ruby>を<ruby>散歩<rp>（</rp><rt>さんぽ</rt><rp>）</rp></ruby>して＿＿＿。</b>",
+    "options": ["くます", "来ます"],
+    "correctAnswer": 1
+  }
+]
