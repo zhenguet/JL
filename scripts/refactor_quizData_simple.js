@@ -31,16 +31,24 @@ function generateSimpleQuizDataFile() {
     const varName = file.replace('.json', '');
     
     imports.push(`import ${varName} from './quiz/${varName}.json';`);
-    quizDataByLessonEntries.push(`  ${lessonNum}: ${varName} as QuizQuestion[],`);
+    quizDataByLessonEntries.push(`  ${varName},`);
   });
 
-  const content = `import { QuizQuestion } from '@/components/exercises/Quiz';
+  const content = `import { QuizQuestion } from '@/types/quiz';
 
 ${imports.join('\n')}
 
-const quizDataByLesson: Record<number, QuizQuestion[]> = {
+const quizzes: QuizQuestion[][] = [
 ${quizDataByLessonEntries.join('\n')}
-};
+] as QuizQuestion[][];
+
+const quizDataByLesson: Record<number, QuizQuestion[]> = quizzes.reduce(
+  (acc, quiz, index) => {
+    acc[index + 1] = quiz;
+    return acc;
+  },
+  {} as Record<number, QuizQuestion[]>
+);
 
 function shuffleArray<T>(array: T[]): T[] {
   const shuffled = [...array];

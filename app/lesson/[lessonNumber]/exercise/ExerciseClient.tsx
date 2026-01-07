@@ -44,10 +44,6 @@ const EXERCISE_TYPES: Array<{
     icon: '🖋️',
   },
   { type: 'translate', label: 'Dịch', icon: '🔄' },
-  { type: 'kanji', label: 'Kanji', icon: '✍️' },
-  { type: 'grammar', label: 'Ngữ pháp', icon: '📚' },
-  { type: 'multiple-choice', label: 'Trắc nghiệm', icon: '✅' },
-  { type: 'reading', label: 'Đọc hiểu', icon: '📖' },
 ];
 
 const VOCABULARY_EXERCISE_TYPES: ExerciseType[] = [

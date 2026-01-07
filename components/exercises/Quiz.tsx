@@ -1,28 +1,8 @@
 'use client';
 
-import { useState, useMemo } from 'react';
+import { useMemo, useState } from 'react';
+import { QuizQuestion, ShuffledQuestion } from '@/types/quiz';
 import './quiz.css';
-
-export interface QuizQuestion {
-  id: number;
-  question: string;
-  options: string[];
-  correctAnswer: number;
-  /**
-   * Question difficulty level: 1 (easiest) to 5 (hardest)
-   * - 1: Basic questions, simple vocabulary, no kanji or with furigana
-   * - 2: Medium questions, some kanji with furigana, basic grammar
-   * - 3: Medium-hard questions, kanji present, more complex grammar
-   * - 4: Hard questions, many kanji, advanced grammar, long sentences
-   * - 5: Very hard questions, complex grammar, advanced vocabulary, very long sentences
-   */
-  difficulty?: number;
-}
-
-interface ShuffledQuestion extends QuizQuestion {
-  shuffledOptions: string[];
-  shuffledCorrectAnswer: number;
-}
 
 interface QuizProps {
   questions: QuizQuestion[];
@@ -30,96 +10,105 @@ interface QuizProps {
   shuffleOptions?: boolean;
 }
 
+const optionLabels = ['a', 'b', 'c', 'd'];
+
 function shuffleArray<T>(array: T[]): T[] {
   const shuffled = [...array];
-  for (let i = shuffled.length - 1; i > 0; i--) {
+  for (let i = shuffled.length - 1; i > 0; i -= 1) {
     const j = Math.floor(Math.random() * (i + 1));
     [shuffled[i], shuffled[j]] = [shuffled[j], shuffled[i]];
   }
   return shuffled;
 }
 
+function buildShuffledQuestions(
+  source: QuizQuestion[],
+  shuffleOptions: boolean
+): ShuffledQuestion[] {
+  const baseList = shuffleArray([...source]);
+
+  if (!shuffleOptions) {
+    return baseList.map((question) => ({
+      ...question,
+      shuffledOptions: question.options,
+      shuffledCorrectAnswer: question.correctAnswer,
+    }));
+  }
+
+  return baseList.map((question) => {
+    const shuffledOptions = shuffleArray(question.options);
+    const originalCorrectAnswer = question.options[question.correctAnswer];
+    const shuffledCorrectAnswer = shuffledOptions.findIndex(
+      (opt) => opt === originalCorrectAnswer
+    );
+
+    return {
+      ...question,
+      shuffledOptions,
+      shuffledCorrectAnswer,
+    };
+  });
+}
+
 export default function Quiz({ questions, title, shuffleOptions = true }: QuizProps) {
   const [shuffleKey, setShuffleKey] = useState(0);
-
-  const shuffledQuestions = useMemo(() => {
-    const shuffledQuestionsList = shuffleArray([...questions]);
-
-    if (!shuffleOptions) {
-      return shuffledQuestionsList.map(q => ({
-        ...q,
-        shuffledOptions: q.options,
-        shuffledCorrectAnswer: q.correctAnswer,
-      }));
-    }
-
-    return shuffledQuestionsList.map(question => {
-      const shuffledOptions = shuffleArray(question.options);
-      const originalCorrectAnswer = question.options[question.correctAnswer];
-      const shuffledCorrectAnswer = shuffledOptions.findIndex(
-        opt => opt === originalCorrectAnswer
-      );
-
-      return {
-        ...question,
-        shuffledOptions,
-        shuffledCorrectAnswer,
-      };
-    });
-  }, [questions, shuffleOptions, shuffleKey]);
-
-  const [selectedAnswers, setSelectedAnswers] = useState<{
-    [key: number]: number;
-  }>({});
+  const [selectedAnswers, setSelectedAnswers] = useState<Record<number, number>>({});
   const [showResults, setShowResults] = useState(false);
   const [showAnswerKey, setShowAnswerKey] = useState(false);
   const [score, setScore] = useState<number | null>(null);
   const [showFurigana, setShowFurigana] = useState(false);
 
+  const shuffledQuestions = useMemo(
+    () => buildShuffledQuestions(questions, shuffleOptions),
+    [questions, shuffleOptions, shuffleKey]
+  );
+
+  const questionMap = useMemo(
+    () => new Map(shuffledQuestions.map((q) => [q.id, q])),
+    [shuffledQuestions]
+  );
+
+  const result = useMemo(() => {
+    const correct = shuffledQuestions.reduce((total, question) => {
+      const selected = selectedAnswers[question.id];
+      return total + (selected === question.shuffledCorrectAnswer ? 1 : 0);
+    }, 0);
+
+    const totalQuestions = shuffledQuestions.length;
+    const percentage = totalQuestions > 0 ? (correct / totalQuestions) * 100 : 0;
+
+    return { correct, percentage };
+  }, [selectedAnswers, shuffledQuestions]);
+
   const handleAnswerSelect = (questionId: number, optionIndex: number) => {
     if (showResults) return;
-    setSelectedAnswers(prev => ({
+    setSelectedAnswers((prev) => ({
       ...prev,
       [questionId]: optionIndex,
     }));
   };
 
-  const calculateResult = useMemo(() => {
-    if (!showResults && !showAnswerKey) {
-      return { correct: 0, percentage: 0 };
-    }
-    const correct = shuffledQuestions.filter(
-      q => selectedAnswers[q.id] === q.shuffledCorrectAnswer
-    ).length;
-    const percentage = questions.length > 0 ? (correct / questions.length) * 100 : 0;
-    return { correct, percentage };
-  }, [shuffledQuestions, selectedAnswers, showResults, showAnswerKey, questions.length]);
-
-  const checkResult = () => {
-    const correct = shuffledQuestions.filter(
-      q => selectedAnswers[q.id] === q.shuffledCorrectAnswer
-    ).length;
-    const percentage = questions.length > 0 ? (correct / questions.length) * 100 : 0;
-    setScore(percentage);
+  const handleCheckResult = () => {
+    setScore(result.percentage);
     setShowResults(true);
   };
 
-  const resetResult = () => {
+  const handleReset = () => {
     setSelectedAnswers({});
     setShowResults(false);
     setShowAnswerKey(false);
     setScore(null);
   };
 
-  const shuffleQuiz = () => {
+  const handleShuffle = () => {
     setSelectedAnswers({});
     setShowResults(false);
     setShowAnswerKey(false);
     setScore(null);
-    setShuffleKey(prev => prev + 1);
+    setShuffleKey((prev) => prev + 1);
   };
 
-  const resultCorrect = () => {
+  const handleShowAnswerKey = () => {
     if (score !== null && score >= 60) {
       setShowAnswerKey(true);
     } else {
@@ -129,8 +118,10 @@ export default function Quiz({ questions, title, shuffleOptions = true }: QuizPr
 
   const getOptionClass = (questionId: number, optionIndex: number) => {
     const isSelected = selectedAnswers[questionId] === optionIndex;
-    const shuffledQuestion = shuffledQuestions.find(q => q.id === questionId);
-    const isCorrect = shuffledQuestion ? optionIndex === shuffledQuestion.shuffledCorrectAnswer : false;
+    const shuffledQuestion = questionMap.get(questionId);
+    const isCorrect = shuffledQuestion
+      ? optionIndex === shuffledQuestion.shuffledCorrectAnswer
+      : false;
     const classes = ['quiz-option'];
 
     if (showResults || showAnswerKey) {
@@ -148,7 +139,7 @@ export default function Quiz({ questions, title, shuffleOptions = true }: QuizPr
 
   const getQuestionResult = (questionId: number, optionIndex: number) => {
     if (!showResults && !showAnswerKey) return null;
-    const shuffledQuestion = shuffledQuestions.find(q => q.id === questionId);
+    const shuffledQuestion = questionMap.get(questionId);
     if (!shuffledQuestion) return null;
 
     const isCorrect = optionIndex === shuffledQuestion.shuffledCorrectAnswer;
@@ -163,15 +154,15 @@ export default function Quiz({ questions, title, shuffleOptions = true }: QuizPr
     return null;
   };
 
-  const labels = ['a', 'b', 'c', 'd'];
+  const shouldShowResultHeader = showResults || showAnswerKey;
 
   return (
     <div className={`quiz-container ${showFurigana ? '' : 'hide-furigana'}`}>
       <div className="quiz-header-wrapper">
         {title && <h2 className="quiz-title">{title}</h2>}
-        {showResults && (
+        {shouldShowResultHeader && (
           <div className="quiz-result-header">
-            Kết quả: {calculateResult.correct} / {questions.length} ( {calculateResult.percentage.toFixed(1)}% )
+            Kết quả: {result.correct} / {questions.length} ( {result.percentage.toFixed(1)}% )
           </div>
         )}
         <div className="furigana-toggle">
@@ -217,9 +208,7 @@ export default function Quiz({ questions, title, shuffleOptions = true }: QuizPr
                           htmlFor={`answer_${shuffledQuestion.id}${optionIndex + 1}`}
                           className={getOptionClass(shuffledQuestion.id, optionIndex)}
                         >
-                          <span className="option-label">
-                            {labels[optionIndex]}.
-                          </span>
+                          <span className="option-label">{optionLabels[optionIndex]}.</span>
                           <span className="option-text">{option}</span>
                         </label>
                         <span className="result-indicator">
@@ -239,22 +228,18 @@ export default function Quiz({ questions, title, shuffleOptions = true }: QuizPr
         <div className="quiz-actions">
           <button
             type="button"
-            onClick={checkResult}
+            onClick={handleCheckResult}
             className="btn btn-danger"
             disabled={Object.keys(selectedAnswers).length === 0}
           >
             Kết Quả
           </button>
-          <button
-            type="button"
-            onClick={resetResult}
-            className="btn btn-success"
-          >
+          <button type="button" onClick={handleReset} className="btn btn-success">
             Làm Lại
           </button>
           <button
             type="button"
-            onClick={resultCorrect}
+            onClick={handleShowAnswerKey}
             className="btn btn-primary"
             title="Bạn chỉ xem được đáp án khi làm đúng từ 60% trở lên"
           >
@@ -262,7 +247,7 @@ export default function Quiz({ questions, title, shuffleOptions = true }: QuizPr
           </button>
           <button
             type="button"
-            onClick={shuffleQuiz}
+            onClick={handleShuffle}
             className="btn btn-secondary"
             title="Xáo trộn lại thứ tự câu hỏi và các lựa chọn"
           >

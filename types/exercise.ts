@@ -101,14 +101,14 @@ export interface VocabularyExercise extends BaseExercise {
 }
 
 // Union type for all exercises
-export type Exercise = 
-  | FillExercise 
+export type Exercise =
+  | FillExercise
   | FillKanjiHiraganaExercise
   | FillHiraganaFromKanjiExercise
   | TranslateExercise
   | KanjiExercise
-  | MultipleChoiceExercise 
-  | GrammarExercise 
+  | MultipleChoiceExercise
+  | GrammarExercise
   | ReadingExercise
   | ListeningExercise
   | VocabularyExercise;

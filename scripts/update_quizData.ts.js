@@ -74,7 +74,7 @@ function generateQuizDataFile() {
     /const quizDataByLesson: Record<number, QuizQuestion\[\]> = \{([\s\S]*?)\};/
   );
   
-  let newContent = `import { QuizQuestion } from '@/components/exercises/Quiz';\n`;
+  let newContent = `import { QuizQuestion } from '@/types/quiz';\n`;
   
   // Add all imports
   imports.forEach((imp) => {

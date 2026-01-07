@@ -74,31 +74,31 @@ function determineDifficulty(question) {
   let score = 0;
   
   // Level 1: Basic questions
-  if (kanjiCount === 0 && !hasRuby) score = 0; // Only hiragana/katakana
-  if (!hasComplexGrammar && !hasConversation && kanjiCount === 0) score = 0; // Simple vocabulary
+  if (kanjiCount === 0 && !hasRuby) score = 0;
+  if (!hasComplexGrammar && !hasConversation && kanjiCount === 0) score = 0;
   
   // Level 2: Medium questions
-  if (hasRuby && kanjiCount <= 3 && !hasComplexGrammar) score = 1; // Kanji with furigana, simple grammar
-  if (hasConversation && !hasComplexGrammar && kanjiCount <= 2) score = 1; // Simple conversation
-  if (kanjiCount > 0 && kanjiCount <= 3 && !hasRuby && !hasComplexGrammar) score = 1; // Few kanji, no furigana
+  if (hasRuby && kanjiCount <= 3 && !hasComplexGrammar) score = 1;
+  if (hasConversation && !hasComplexGrammar && kanjiCount <= 2) score = 1;
+  if (kanjiCount > 0 && kanjiCount <= 3 && !hasRuby && !hasComplexGrammar) score = 1;
   
   // Level 3: Medium-hard questions
-  if (hasComplexGrammar && kanjiCount <= 5) score = 2; // Complex grammar, few kanji
-  if (kanjiCount > 3 && kanjiCount <= 7 && hasRuby) score = 2; // More kanji with furigana
-  if (hasConversation && hasComplexGrammar) score = 2; // Conversation with complex grammar
-  if (isLongQuestion && kanjiCount <= 5) score = 2; // Long question, few kanji
+  if (hasComplexGrammar && kanjiCount <= 5) score = 2;
+  if (kanjiCount > 3 && kanjiCount <= 7 && hasRuby) score = 2;
+  if (hasConversation && hasComplexGrammar) score = 2;
+  if (isLongQuestion && kanjiCount <= 5) score = 2;
   
   // Level 4: Hard questions
-  if (kanjiCount > 7 && kanjiCount <= 12) score = 3; // Many kanji
-  if (hasComplexGrammar && kanjiCount > 5) score = 3; // Complex grammar + many kanji
-  if (isLongQuestion && kanjiCount > 5) score = 3; // Long question + many kanji
-  if (hasLongOptions && hasComplexGrammar) score = 3; // Long options + complex grammar
+  if (kanjiCount > 7 && kanjiCount <= 12) score = 3;
+  if (hasComplexGrammar && kanjiCount > 5) score = 3;
+  if (isLongQuestion && kanjiCount > 5) score = 3;
+  if (hasLongOptions && hasComplexGrammar) score = 3;
   
   // Level 5: Very hard questions
-  if (hasVeryComplexGrammar) score = 4; // Very complex grammar
-  if (kanjiCount > 12) score = 4; // Very many kanji
-  if (isVeryLongQuestion && kanjiCount > 7) score = 4; // Very long question + many kanji
-  if (hasVeryLongOptions && hasComplexGrammar && kanjiCount > 5) score = 4; // All difficult factors
+  if (hasVeryComplexGrammar) score = 4;
+  if (kanjiCount > 12) score = 4;
+  if (isVeryLongQuestion && kanjiCount > 7) score = 4;
+  if (hasVeryLongOptions && hasComplexGrammar && kanjiCount > 5) score = 4;
   
   // Convert score to difficulty 1-5
   // score 0 -> difficulty 1
@@ -113,21 +113,24 @@ function determineDifficulty(question) {
 function addDifficultyToQuizFile(filePath) {
   const quizData = loadJson(filePath);
   let updated = false;
-  
+  const difficultyStats = { 1: 0, 2: 0, 3: 0, 4: 0, 5: 0 };
+
   const updatedQuiz = quizData.map((question) => {
     if (!question.difficulty) {
       question.difficulty = determineDifficulty(question);
       updated = true;
     }
+    if (question.difficulty) {
+      difficultyStats[question.difficulty] += 1;
+    }
     return question;
   });
-  
+
   if (updated) {
     saveJson(filePath, updatedQuiz);
-    return true;
   }
-  
-  return false;
+
+  return { updated, difficultyStats };
 }
 
 function main() {
@@ -143,18 +146,16 @@ function main() {
   quizFiles.forEach((file) => {
     const filePath = path.join(QUIZ_DIR, file);
     try {
-      const wasUpdated = addDifficultyToQuizFile(filePath);
+      const { updated: wasUpdated, difficultyStats: fileStats } = addDifficultyToQuizFile(filePath);
       processed++;
       
       if (wasUpdated) {
         updated++;
-        const quizData = loadJson(filePath);
-        quizData.forEach((q) => {
-          if (q.difficulty) {
-            difficultyStats[q.difficulty]++;
-          }
-        });
       }
+      
+      Object.entries(fileStats).forEach(([level, count]) => {
+        difficultyStats[level] += count;
+      });
       
       if (processed % 10 === 0) {
         console.log(`  Processed ${processed} files...`);
@@ -180,4 +181,12 @@ function main() {
   console.log('\n✅ Difficulty assignment completed!');
 }
 
-main();
+if (require.main === module) {
+  main();
+}
+
+module.exports = {
+  determineDifficulty,
+  extractTextFromHtml,
+  addDifficultyToQuizFile,
+};
