@@ -21,6 +21,7 @@ export default function LessonLayout({
     { path: 'grammar', label: 'Ngữ pháp' },
     { path: 'flashcard', label: 'Flashcard' },
     { path: 'exercise', label: 'Bài tập' },
+    { path: 'quiz', label: 'Kiểm tra' },
   ]
 
   const currentLesson = parseInt(lessonNumber, 10)
