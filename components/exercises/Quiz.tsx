@@ -61,6 +61,7 @@ export default function Quiz({ questions, title, shuffleOptions = true }: QuizPr
   const [showResults, setShowResults] = useState(false);
   const [showAnswerKey, setShowAnswerKey] = useState(false);
   const [score, setScore] = useState<number | null>(null);
+  const [showFurigana, setShowFurigana] = useState(false);
 
   const handleAnswerSelect = (questionId: number, optionIndex: number) => {
     if (showResults) return;
@@ -136,9 +137,19 @@ export default function Quiz({ questions, title, shuffleOptions = true }: QuizPr
   const labels = ['a', 'b', 'c', 'd'];
 
   return (
-    <div className="quiz-container">
+    <div className={`quiz-container ${showFurigana ? '' : 'hide-furigana'}`}>
       <div className="quiz-header-wrapper">
         {title && <h2 className="quiz-title">{title}</h2>}
+        <div className="furigana-toggle">
+          <button
+            type="button"
+            onClick={() => setShowFurigana(!showFurigana)}
+            className={`btn-toggle-furigana ${showFurigana ? 'active' : ''}`}
+            title={showFurigana ? 'Ẩn chữ mềm' : 'Hiện chữ mềm'}
+          >
+            {showFurigana ? 'Ẩn chữ mềm' : 'Hiện chữ mềm'}
+          </button>
+        </div>
       </div>
       <form className="quiz-form">
         {shuffledQuestions.map((shuffledQuestion, index) => (
