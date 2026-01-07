@@ -8,7 +8,8 @@
       "そちら",
       "どちら"
     ],
-    "correctAnswer": 1
+    "correctAnswer": 1,
+    "difficulty": 2
   },
   {
     "id": 2,
@@ -17,7 +18,8 @@
       "忘れた",
       "忘れる"
     ],
-    "correctAnswer": 1
+    "correctAnswer": 1,
+    "difficulty": 3
   },
   {
     "id": 3,
@@ -28,7 +30,8 @@
       "ひじょうぐち",
       "ゆうしょう"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 1
   },
   {
     "id": 4,
@@ -39,7 +42,8 @@
       "へんじ",
       "めざましどけい"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 1
   },
   {
     "id": 5,
@@ -50,7 +54,8 @@
       "Vết rạn nứt",
       "Đồng hồ báo thức"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 1
   },
   {
     "id": 6,
@@ -59,7 +64,8 @@
       "まちがえた",
       "まちがった"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 4
   },
   {
     "id": 7,
@@ -70,7 +76,8 @@
       "まちがいでんわ",
       "まよいます"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 1
   },
   {
     "id": 8,
@@ -81,7 +88,8 @@
       "きんじます",
       "しんじます"
     ],
-    "correctAnswer": 3
+    "correctAnswer": 3,
+    "difficulty": 2
   },
   {
     "id": 9,
@@ -90,7 +98,8 @@
       "キャンセルしたい",
       "キャンセルしたくない"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 4
   },
   {
     "id": 10,
@@ -101,7 +110,8 @@
       "ほうほう",
       "れいきゃく"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 1
   },
   {
     "id": 11,
@@ -112,7 +122,8 @@
       "めざましどけい",
       "セット"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 2
   },
   {
     "id": 12,
@@ -121,7 +132,8 @@
       "雨",
       "雨の"
     ],
-    "correctAnswer": 1
+    "correctAnswer": 1,
+    "difficulty": 4
   },
   {
     "id": 13,
@@ -132,7 +144,8 @@
       "そちら",
       "どちら"
     ],
-    "correctAnswer": 2
+    "correctAnswer": 2,
+    "difficulty": 2
   },
   {
     "id": 14,
@@ -143,7 +156,8 @@
       "Vị trí thứ ~",
       "Đồng hồ báo thức"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 1
   },
   {
     "id": 15,
@@ -154,7 +168,8 @@
       "ひび",
       "まちがいでんわ"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 1
   },
   {
     "id": 16,
@@ -165,7 +180,8 @@
       "そこ",
       "どこ"
     ],
-    "correctAnswer": 2
+    "correctAnswer": 2,
+    "difficulty": 2
   },
   {
     "id": 17,
@@ -176,7 +192,8 @@
       "そちら",
       "どちら"
     ],
-    "correctAnswer": 1
+    "correctAnswer": 1,
+    "difficulty": 2
   },
   {
     "id": 18,
@@ -185,7 +202,8 @@
       "やめたい",
       "やめたくない"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 3
   },
   {
     "id": 19,
@@ -196,7 +214,8 @@
       "系員",
       "茉員"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 1
   },
   {
     "id": 20,
@@ -207,7 +226,8 @@
       "まんいち",
       "キャンセルします"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 2
   },
   {
     "id": 21,
@@ -218,7 +238,8 @@
       "そちら",
       "どちら"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 2
   },
   {
     "id": 22,
@@ -229,7 +250,8 @@
       "ひび",
       "ほしょうしょ"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 1
   },
   {
     "id": 23,
@@ -240,7 +262,8 @@
       "Vết rạn nứt",
       "Đoạt giải nhất"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 1
   },
   {
     "id": 24,
@@ -251,7 +274,8 @@
       "Nhiệt độ",
       "Trôi qua (thời gian), đi qua"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 1
   },
   {
     "id": 25,
@@ -260,7 +284,8 @@
       "ので、",
       "のに、"
     ],
-    "correctAnswer": 1
+    "correctAnswer": 1,
+    "difficulty": 2
   },
   {
     "id": 26,
@@ -271,7 +296,8 @@
       "そこ",
       "どこ"
     ],
-    "correctAnswer": 1
+    "correctAnswer": 1,
+    "difficulty": 2
   },
   {
     "id": 27,
@@ -282,7 +308,8 @@
       "そこ",
       "どこ"
     ],
-    "correctAnswer": 2
+    "correctAnswer": 2,
+    "difficulty": 2
   },
   {
     "id": 28,
@@ -293,7 +320,8 @@
       "Màu đỏ",
       "Nhiệt độ"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 1
   },
   {
     "id": 29,
@@ -304,7 +332,8 @@
       "Tỉnh giấc",
       "~ độ"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 1
   },
   {
     "id": 30,
@@ -315,7 +344,8 @@
       "けいさつ",
       "ひじょうぐち"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 1
   },
   {
     "id": 31,
@@ -326,7 +356,8 @@
       "Nỗi khổ tâm, nỗi lo",
       "Đúng như vậy"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 1
   },
   {
     "id": 32,
@@ -337,7 +368,8 @@
       "ほうほう",
       "めざましどけい"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 1
   },
   {
     "id": 33,
@@ -346,7 +378,8 @@
       "ので",
       "のは"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 3
   },
   {
     "id": 34,
@@ -357,7 +390,8 @@
       "Xin lỗi",
       "~tự động"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 1
   },
   {
     "id": 35,
@@ -368,7 +402,8 @@
       "そちら",
       "どちら"
     ],
-    "correctAnswer": 1
+    "correctAnswer": 1,
+    "difficulty": 2
   },
   {
     "id": 36,
@@ -379,7 +414,8 @@
       "Tỉnh giấc",
       "Đoạt giải nhất"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 1
   },
   {
     "id": 37,
@@ -390,7 +426,8 @@
       "Phía bên trong",
       "Vị trí thứ ~"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 1
   },
   {
     "id": 38,
@@ -399,7 +436,8 @@
       "のが",
       "ので"
     ],
-    "correctAnswer": 1
+    "correctAnswer": 1,
+    "difficulty": 4
   },
   {
     "id": 39,
@@ -410,7 +448,8 @@
       "そこ",
       "どこ"
     ],
-    "correctAnswer": 1
+    "correctAnswer": 1,
+    "difficulty": 2
   },
   {
     "id": 40,
@@ -419,7 +458,8 @@
       "キャンセルします",
       "中止です"
     ],
-    "correctAnswer": 1
+    "correctAnswer": 1,
+    "difficulty": 2
   },
   {
     "id": 41,
@@ -430,7 +470,8 @@
       "そちら",
       "どちら"
     ],
-    "correctAnswer": 2
+    "correctAnswer": 2,
+    "difficulty": 2
   },
   {
     "id": 42,
@@ -441,7 +482,8 @@
       "ようい",
       "セット"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 1
   },
   {
     "id": 43,
@@ -452,7 +494,8 @@
       "Trôi qua (thời gian), đi qua",
       "~ độ"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 1
   },
   {
     "id": 44,
@@ -463,7 +506,8 @@
       "Hoãn lại",
       "Màu xanh lá cây"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 1
   },
   {
     "id": 45,
@@ -474,7 +518,8 @@
       "Hoãn lại",
       "Vị trí thứ ~"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 1
   },
   {
     "id": 46,
@@ -485,7 +530,8 @@
       "そこ",
       "どこ"
     ],
-    "correctAnswer": 1
+    "correctAnswer": 1,
+    "difficulty": 2
   },
   {
     "id": 47,
@@ -496,7 +542,8 @@
       "章回",
       "答回"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 1
   },
   {
     "id": 48,
@@ -507,7 +554,8 @@
       "はいります",
       "めざましどけい"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 1
   },
   {
     "id": 49,
@@ -518,7 +566,8 @@
       "そこ",
       "どこ"
     ],
-    "correctAnswer": 2
+    "correctAnswer": 2,
+    "difficulty": 2
   },
   {
     "id": 50,
@@ -529,7 +578,8 @@
       "そちら",
       "どちら"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 2
   },
   {
     "id": 51,
@@ -540,7 +590,8 @@
       "Nỗi khổ tâm, nỗi lo",
       "Trôi qua (thời gian), đi qua"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 1
   },
   {
     "id": 52,
@@ -551,7 +602,8 @@
       "それ",
       "どれ"
     ],
-    "correctAnswer": 1
+    "correctAnswer": 1,
+    "difficulty": 2
   },
   {
     "id": 53,
@@ -562,7 +614,8 @@
       "Đích",
       "Đường chạy"
     ],
-    "correctAnswer": 1
+    "correctAnswer": 1,
+    "difficulty": 1
   },
   {
     "id": 54,
@@ -573,7 +626,8 @@
       "にげます",
       "ゆうしょう"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 2
   },
   {
     "id": 55,
@@ -584,7 +638,8 @@
       "まんいち",
       "セット"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 2
   },
   {
     "id": 56,
@@ -595,7 +650,8 @@
       "勝優",
       "秀優"
     ],
-    "correctAnswer": 1
+    "correctAnswer": 1,
+    "difficulty": 1
   },
   {
     "id": 57,
@@ -606,7 +662,8 @@
       "ゆうしょう",
       "～ど"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 2
   },
   {
     "id": 58,
@@ -617,7 +674,8 @@
       "そこ",
       "どこ"
     ],
-    "correctAnswer": 1
+    "correctAnswer": 1,
+    "difficulty": 2
   },
   {
     "id": 59,
@@ -626,7 +684,8 @@
       "勉強した",
       "勉強しなかった"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 3
   },
   {
     "id": 60,
@@ -635,7 +694,8 @@
       "のに",
       "のを"
     ],
-    "correctAnswer": 1
+    "correctAnswer": 1,
+    "difficulty": 4
   },
   {
     "id": 61,
@@ -646,7 +706,8 @@
       "それ",
       "どれ"
     ],
-    "correctAnswer": 1
+    "correctAnswer": 1,
+    "difficulty": 2
   },
   {
     "id": 62,
@@ -657,7 +718,8 @@
       "Phiền muộn",
       "Vui vẻ"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 1
   },
   {
     "id": 63,
@@ -668,7 +730,8 @@
       "Trôi qua (thời gian), đi qua",
       "Xảy ra"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 1
   },
   {
     "id": 64,
@@ -679,7 +742,8 @@
       "そこ",
       "どこ"
     ],
-    "correctAnswer": 1
+    "correctAnswer": 1,
+    "difficulty": 2
   },
   {
     "id": 65,
@@ -690,7 +754,8 @@
       "Vết rạn nứt",
       "Đúng như vậy"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 1
   },
   {
     "id": 66,
@@ -701,7 +766,8 @@
       "へんじ",
       "コース"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 1
   },
   {
     "id": 67,
@@ -712,7 +778,8 @@
       "はいります",
       "ほうほう"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 2
   },
   {
     "id": 68,
@@ -723,7 +790,8 @@
       "Đoạt giải nhất",
       "Đồng hồ báo thức"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 1
   },
   {
     "id": 69,
@@ -734,7 +802,8 @@
       "Đoạt giải nhất",
       "Đúng như vậy"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 1
   },
   {
     "id": 70,
@@ -745,7 +814,8 @@
       "ほうほう",
       "シリンダー"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 1
   },
   {
     "id": 71,
@@ -756,7 +826,8 @@
       "りょうしゅうしょ",
       "キャンセルします"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 2
   },
   {
     "id": 72,
@@ -767,7 +838,8 @@
       "きいます",
       "まちいます"
     ],
-    "correctAnswer": 2
+    "correctAnswer": 2,
+    "difficulty": 2
   },
   {
     "id": 73,
@@ -778,7 +850,8 @@
       "領収書",
       "領書事"
     ],
-    "correctAnswer": 2
+    "correctAnswer": 2,
+    "difficulty": 1
   },
   {
     "id": 74,
@@ -789,7 +862,8 @@
       "そちら",
       "どちら"
     ],
-    "correctAnswer": 1
+    "correctAnswer": 1,
+    "difficulty": 2
   },
   {
     "id": 75,
@@ -798,7 +872,8 @@
       "のに",
       "のを"
     ],
-    "correctAnswer": 1
+    "correctAnswer": 1,
+    "difficulty": 3
   },
   {
     "id": 76,
@@ -809,7 +884,8 @@
       "Mệt mỏi",
       "Thông báo"
     ],
-    "correctAnswer": 2
+    "correctAnswer": 2,
+    "difficulty": 1
   },
   {
     "id": 77,
@@ -820,7 +896,8 @@
       "そのとおりです",
       "めがさめます"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 2
   },
   {
     "id": 78,
@@ -829,7 +906,8 @@
       "だのに、",
       "なのに、"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 3
   },
   {
     "id": 79,
@@ -840,7 +918,8 @@
       "そちら",
       "どちら"
     ],
-    "correctAnswer": 2
+    "correctAnswer": 2,
+    "difficulty": 2
   },
   {
     "id": 80,
@@ -851,7 +930,8 @@
       "れいきゃく",
       "～ど"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 1
   },
   {
     "id": 81,
@@ -862,7 +942,8 @@
       "そちら",
       "どちら"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 2
   },
   {
     "id": 82,
@@ -873,7 +954,8 @@
       "ちゅうし",
       "めざましどけい"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 1
   },
   {
     "id": 83,
@@ -884,7 +966,8 @@
       "そちら",
       "どちら"
     ],
-    "correctAnswer": 1
+    "correctAnswer": 1,
+    "difficulty": 2
   },
   {
     "id": 84,
@@ -893,7 +976,8 @@
       "払えない",
       "払わない"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 4
   },
   {
     "id": 85,
@@ -904,7 +988,8 @@
       "れいきゃく",
       "～い"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 1
   },
   {
     "id": 86,
@@ -913,7 +998,8 @@
       "が",
       "に"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 2
   },
   {
     "id": 87,
@@ -924,7 +1010,8 @@
       "そちら",
       "どちら"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 2
   },
   {
     "id": 88,
@@ -935,7 +1022,8 @@
       "なやみ",
       "はじまります"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 2
   },
   {
     "id": 89,
@@ -946,7 +1034,8 @@
       "さやみ",
       "なやみ"
     ],
-    "correctAnswer": 1
+    "correctAnswer": 1,
+    "difficulty": 2
   },
   {
     "id": 90,
@@ -957,7 +1046,8 @@
       "まんいち",
       "ゆうしょう"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 1
   },
   {
     "id": 91,
@@ -968,7 +1058,8 @@
       "にげます",
       "ようい"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 1
   },
   {
     "id": 92,
@@ -979,7 +1070,8 @@
       "そこ",
       "どこ"
     ],
-    "correctAnswer": 2
+    "correctAnswer": 2,
+    "difficulty": 2
   },
   {
     "id": 93,
@@ -988,7 +1080,8 @@
       "ので",
       "のに"
     ],
-    "correctAnswer": 1
+    "correctAnswer": 1,
+    "difficulty": 3
   },
   {
     "id": 94,
@@ -997,7 +1090,8 @@
       "３０人以上",
       "３０人以上の"
     ],
-    "correctAnswer": 1
+    "correctAnswer": 1,
+    "difficulty": 4
   },
   {
     "id": 95,
@@ -1006,7 +1100,8 @@
       "ので、",
       "のに、"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 3
   },
   {
     "id": 96,
@@ -1015,7 +1110,8 @@
       "地震",
       "地震の"
     ],
-    "correctAnswer": 1
+    "correctAnswer": 1,
+    "difficulty": 3
   },
   {
     "id": 97,
@@ -1026,7 +1122,8 @@
       "Ngủ",
       "Vết rạn nứt"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 1
   },
   {
     "id": 98,
@@ -1037,7 +1134,8 @@
       "Dạo này",
       "~tự động"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 1
   },
   {
     "id": 99,
@@ -1048,7 +1146,8 @@
       "シリンダー",
       "セット"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 1
   },
   {
     "id": 100,
@@ -1057,7 +1156,8 @@
       "起きた",
       "起きる"
     ],
-    "correctAnswer": 1
+    "correctAnswer": 1,
+    "difficulty": 4
   },
   {
     "id": 101,
@@ -1068,7 +1168,8 @@
       "にげます",
       "キャンセルします"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 1
   },
   {
     "id": 102,
@@ -1079,7 +1180,8 @@
       "Trôi qua (thời gian), đi qua",
       "Xảy ra"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 1
   },
   {
     "id": 103,
@@ -1090,7 +1192,8 @@
       "Làm lạnh",
       "Xin lỗi"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 1
   },
   {
     "id": 104,
@@ -1101,7 +1204,8 @@
       "めがさめます",
       "りょうしゅうしょ"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 1
   },
   {
     "id": 105,
@@ -1112,7 +1216,8 @@
       "Màu đỏ",
       "Đồng hồ báo thức"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 1
   },
   {
     "id": 106,
@@ -1123,7 +1228,8 @@
       "めざましどけい",
       "れいきゃく"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 1
   },
   {
     "id": 107,
@@ -1134,7 +1240,8 @@
       "キャンプ",
       "キャーブ"
     ],
-    "correctAnswer": 2
+    "correctAnswer": 2,
+    "difficulty": 1
   },
   {
     "id": 108,
@@ -1145,7 +1252,8 @@
       "コース",
       "セット"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 1
   },
   {
     "id": 109,
@@ -1156,7 +1264,8 @@
       "Màu đỏ",
       "Ngủ"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 1
   },
   {
     "id": 110,
@@ -1165,7 +1274,8 @@
       "ので",
       "のに"
     ],
-    "correctAnswer": 1
+    "correctAnswer": 1,
+    "difficulty": 3
   },
   {
     "id": 111,
@@ -1176,7 +1286,8 @@
       "ゆうしょう",
       "れいきゃく"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 2
   },
   {
     "id": 112,
@@ -1185,7 +1296,8 @@
       "下がらない",
       "下がる"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 3
   },
   {
     "id": 113,
@@ -1196,7 +1308,8 @@
       "それ",
       "どれ"
     ],
-    "correctAnswer": 1
+    "correctAnswer": 1,
+    "difficulty": 2
   },
   {
     "id": 114,
@@ -1207,7 +1320,8 @@
       "キャンセル",
       "クット"
     ],
-    "correctAnswer": 1
+    "correctAnswer": 1,
+    "difficulty": 1
   },
   {
     "id": 115,
@@ -1218,7 +1332,8 @@
       "Hụt hẫng",
       "Vương vãi"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 1
   },
   {
     "id": 116,
@@ -1229,7 +1344,8 @@
       "みどり",
       "れいきゃく"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 1
   },
   {
     "id": 117,
@@ -1240,7 +1356,8 @@
       "そこ",
       "どこ"
     ],
-    "correctAnswer": 1
+    "correctAnswer": 1,
+    "difficulty": 2
   },
   {
     "id": 118,
@@ -1251,7 +1368,8 @@
       "ネット",
       "メット"
     ],
-    "correctAnswer": 1
+    "correctAnswer": 1,
+    "difficulty": 1
   },
   {
     "id": 119,
@@ -1260,7 +1378,8 @@
       "ので",
       "のに"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 3
   },
   {
     "id": 120,
@@ -1271,7 +1390,8 @@
       "みどり",
       "ようい"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 2
   },
   {
     "id": 121,
@@ -1282,7 +1402,8 @@
       "それ",
       "どれ"
     ],
-    "correctAnswer": 1
+    "correctAnswer": 1,
+    "difficulty": 2
   },
   {
     "id": 122,
@@ -1293,7 +1414,8 @@
       "セット",
       "～ど"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 1
   },
   {
     "id": 123,
@@ -1304,7 +1426,8 @@
       "ねむります",
       "はいります"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 2
   },
   {
     "id": 124,
@@ -1315,7 +1438,8 @@
       "~ độ",
       "Đồng hồ báo thức"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 1
   },
   {
     "id": 125,
@@ -1326,7 +1450,8 @@
       "ほしょうしょ",
       "キャンセルします"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 1
   },
   {
     "id": 126,
@@ -1335,7 +1460,8 @@
       "あげた",
       "あげる"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 4
   },
   {
     "id": 127,
@@ -1346,7 +1472,8 @@
       "ゆうしょう",
       "りょうしゅうしょ"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 1
   },
   {
     "id": 128,
@@ -1357,7 +1484,8 @@
       "なります",
       "めざましどけい"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 1
   },
   {
     "id": 129,
@@ -1368,7 +1496,8 @@
       "へんじ",
       "コース"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 1
   },
   {
     "id": 130,
@@ -1379,7 +1508,8 @@
       "キャンセルします",
       "～ど"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 2
   },
   {
     "id": 131,
@@ -1390,7 +1520,8 @@
       "Ngủ",
       "Vị trí thứ ~"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 1
   },
   {
     "id": 132,
@@ -1401,7 +1532,8 @@
       "Màu đỏ",
       "Đúng như vậy"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 1
   },
   {
     "id": 133,
@@ -1412,7 +1544,8 @@
       "ちゅうし",
       "シリンダー"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 2
   },
   {
     "id": 134,
@@ -1423,7 +1556,8 @@
       "ひじょうぐち",
       "セット"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 1
   },
   {
     "id": 135,
@@ -1434,7 +1568,8 @@
       "Xi lanh",
       "Đồng hồ báo thức"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 1
   },
   {
     "id": 136,
@@ -1445,7 +1580,8 @@
       "Phía bên trong",
       "~ độ"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 1
   },
   {
     "id": 137,
@@ -1456,7 +1592,8 @@
       "Xảy ra",
       "Đồng hồ báo thức"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 1
   },
   {
     "id": 138,
@@ -1467,7 +1604,8 @@
       "ひび",
       "コース"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 2
   },
   {
     "id": 139,
@@ -1478,7 +1616,8 @@
       "Tỉnh giấc",
       "Đoạt giải nhất"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 1
   },
   {
     "id": 140,
@@ -1487,7 +1626,8 @@
       "ので",
       "のに"
     ],
-    "correctAnswer": 1
+    "correctAnswer": 1,
+    "difficulty": 3
   },
   {
     "id": 141,
@@ -1498,7 +1638,8 @@
       "セット",
       "～い"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 2
   },
   {
     "id": 142,
@@ -1509,7 +1650,8 @@
       "りょうしゅうしょ",
       "シリンダー"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 1
   },
   {
     "id": 143,
@@ -1520,7 +1662,8 @@
       "そちら",
       "どちら"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 2
   },
   {
     "id": 144,
@@ -1529,7 +1672,8 @@
       "話した",
       "話す"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 4
   },
   {
     "id": 145,
@@ -1538,7 +1682,8 @@
       "保証書",
       "保険証"
     ],
-    "correctAnswer": 1
+    "correctAnswer": 1,
+    "difficulty": 1
   },
   {
     "id": 146,
@@ -1549,7 +1694,8 @@
       "そこ",
       "どこ"
     ],
-    "correctAnswer": 1
+    "correctAnswer": 1,
+    "difficulty": 2
   },
   {
     "id": 147,
@@ -1560,7 +1706,8 @@
       "Màu đỏ",
       "~ độ"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 1
   },
   {
     "id": 148,
@@ -1571,7 +1718,8 @@
       "ほしょうしょ",
       "めがさめます"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 1
   },
   {
     "id": 149,
@@ -1582,7 +1730,8 @@
       "コース",
       "～ど"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 2
   },
   {
     "id": 150,
@@ -1593,7 +1742,8 @@
       "めざましどけい",
       "シリンダー"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 1
   },
   {
     "id": 151,
@@ -1604,7 +1754,8 @@
       "すぎます",
       "なります"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 1
   },
   {
     "id": 152,
@@ -1613,7 +1764,8 @@
       "贈り物",
       "贈り物の"
     ],
-    "correctAnswer": 1
+    "correctAnswer": 1,
+    "difficulty": 4
   },
   {
     "id": 153,
@@ -1624,7 +1776,8 @@
       "むじに",
       "むりに"
     ],
-    "correctAnswer": 2
+    "correctAnswer": 2,
+    "difficulty": 2
   },
   {
     "id": 154,
@@ -1635,7 +1788,8 @@
       "Phương pháp",
       "Đồng hồ báo thức"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 1
   },
   {
     "id": 155,
@@ -1644,7 +1798,8 @@
       "悪い",
       "悪く"
     ],
-    "correctAnswer": 1
+    "correctAnswer": 1,
+    "difficulty": 4
   },
   {
     "id": 156,
@@ -1655,7 +1810,8 @@
       "そこ",
       "どこ"
     ],
-    "correctAnswer": 2
+    "correctAnswer": 2,
+    "difficulty": 2
   },
   {
     "id": 157,
@@ -1664,7 +1820,8 @@
       "出ない",
       "出る"
     ],
-    "correctAnswer": 1
+    "correctAnswer": 1,
+    "difficulty": 3
   },
   {
     "id": 158,
@@ -1675,7 +1832,8 @@
       "くろ",
       "なんでしょうか"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 1
   },
   {
     "id": 159,
@@ -1686,7 +1844,8 @@
       "まよいます",
       "コース"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 1
   },
   {
     "id": 160,
@@ -1697,7 +1856,8 @@
       "Ngủ",
       "Xảy ra"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 1
   },
   {
     "id": 161,
@@ -1706,7 +1866,8 @@
       "必要な",
       "必要の"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 4
   },
   {
     "id": 162,
@@ -1717,7 +1878,8 @@
       "ようい",
       "キャンセルします"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 1
   },
   {
     "id": 163,
@@ -1728,7 +1890,8 @@
       "じこう",
       "じっこ"
     ],
-    "correctAnswer": 1
+    "correctAnswer": 1,
+    "difficulty": 2
   },
   {
     "id": 164,
@@ -1739,7 +1902,8 @@
       "まちがいでんわ",
       "りょうしゅうしょ"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 1
   },
   {
     "id": 165,
@@ -1750,7 +1914,8 @@
       "おわります",
       "さいごです"
     ],
-    "correctAnswer": 2
+    "correctAnswer": 2,
+    "difficulty": 1
   },
   {
     "id": 166,
@@ -1761,7 +1926,8 @@
       "Hủy",
       "Màu xanh"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 1
   },
   {
     "id": 167,
@@ -1772,7 +1938,8 @@
       "なやみ",
       "セット"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 1
   },
   {
     "id": 168,
@@ -1783,7 +1950,8 @@
       "Nhiệt độ",
       "Xảy ra"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 1
   },
   {
     "id": 169,
@@ -1794,7 +1962,8 @@
       "それ",
       "どれ"
     ],
-    "correctAnswer": 1
+    "correctAnswer": 1,
+    "difficulty": 2
   },
   {
     "id": 170,
@@ -1805,7 +1974,8 @@
       "ほうほう",
       "シリンダー"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 1
   },
   {
     "id": 171,
@@ -1814,7 +1984,8 @@
       "病気な",
       "病気の"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 3
   },
   {
     "id": 172,
@@ -1825,7 +1996,8 @@
       "Ngủ",
       "Nỗi khổ tâm, nỗi lo"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 1
   },
   {
     "id": 173,
@@ -1836,7 +2008,8 @@
       "Trả lời, hồi âm",
       "Vị trí thứ ~"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 1
   },
   {
     "id": 174,
@@ -1845,7 +2018,8 @@
       "中止になった",
       "中止になる"
     ],
-    "correctAnswer": 1
+    "correctAnswer": 1,
+    "difficulty": 4
   },
   {
     "id": 175,
@@ -1856,7 +2030,8 @@
       "そちら",
       "どちら"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 2
   },
   {
     "id": 176,
@@ -1865,7 +2040,8 @@
       "かけた",
       "かけられた"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 3
   },
   {
     "id": 177,
@@ -1874,7 +2050,8 @@
       "ない",
       "なく"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 4
   },
   {
     "id": 178,
@@ -1885,7 +2062,8 @@
       "きいろ",
       "じどう～"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 2
   },
   {
     "id": 179,
@@ -1896,7 +2074,8 @@
       "それ",
       "どれ"
     ],
-    "correctAnswer": 1
+    "correctAnswer": 1,
+    "difficulty": 2
   },
   {
     "id": 180,
@@ -1907,7 +2086,8 @@
       "はじまります",
       "ほうほう"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 2
   },
   {
     "id": 181,
@@ -1918,7 +2098,8 @@
       "途止",
       "途正"
     ],
-    "correctAnswer": 2
+    "correctAnswer": 2,
+    "difficulty": 1
   },
   {
     "id": 182,
@@ -1929,7 +2110,8 @@
       "Vị trí thứ ~",
       "~ độ"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 1
   },
   {
     "id": 183,
@@ -1940,7 +2122,8 @@
       "Nhiệt độ",
       "Trả lời, hồi âm"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 1
   },
   {
     "id": 184,
@@ -1951,7 +2134,8 @@
       "~ độ",
       "~tự động"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 1
   },
   {
     "id": 185,
@@ -1962,7 +2146,8 @@
       "Làm phiền",
       "Xin lỗi"
     ],
-    "correctAnswer": 3
+    "correctAnswer": 3,
+    "difficulty": 1
   },
   {
     "id": 186,
@@ -1973,7 +2158,8 @@
       "それ",
       "どれ"
     ],
-    "correctAnswer": 1
+    "correctAnswer": 1,
+    "difficulty": 2
   },
   {
     "id": 187,
@@ -1984,6 +2170,7 @@
       "レバー",
       "レパー"
     ],
-    "correctAnswer": 1
+    "correctAnswer": 1,
+    "difficulty": 1
   }
 ]

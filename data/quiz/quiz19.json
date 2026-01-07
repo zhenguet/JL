@@ -8,7 +8,8 @@
       "一度",
       "一日"
     ],
-    "correctAnswer": 2
+    "correctAnswer": 2,
+    "difficulty": 1
   },
   {
     "id": 2,
@@ -19,7 +20,8 @@
       "そこ",
       "どこ"
     ],
-    "correctAnswer": 2
+    "correctAnswer": 2,
+    "difficulty": 2
   },
   {
     "id": 3,
@@ -28,7 +30,8 @@
       "見た",
       "読んだ"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 3
   },
   {
     "id": 4,
@@ -38,7 +41,8 @@
       "見て",
       "見る"
     ],
-    "correctAnswer": 1
+    "correctAnswer": 1,
+    "difficulty": 2
   },
   {
     "id": 5,
@@ -49,7 +53,8 @@
       "しかし",
       "パチンコ"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 1
   },
   {
     "id": 6,
@@ -60,7 +65,8 @@
       "そこ",
       "どこ"
     ],
-    "correctAnswer": 1
+    "correctAnswer": 1,
+    "difficulty": 2
   },
   {
     "id": 7,
@@ -71,7 +77,8 @@
       "tình trạng, sức khỏe",
       "việc ăn kiêng"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 1
   },
   {
     "id": 8,
@@ -82,7 +89,8 @@
       "そちら",
       "どちら"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 2
   },
   {
     "id": 9,
@@ -92,7 +100,8 @@
       "習う",
       "習って"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 2
   },
   {
     "id": 10,
@@ -102,7 +111,8 @@
       "もう",
       "もうすぐ"
     ],
-    "correctAnswer": 2
+    "correctAnswer": 2,
+    "difficulty": 2
   },
   {
     "id": 11,
@@ -112,7 +122,8 @@
       "なかなか",
       "もうすぐ"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 3
   },
   {
     "id": 12,
@@ -123,7 +134,8 @@
       "とまります",
       "よびます"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 1
   },
   {
     "id": 13,
@@ -134,7 +146,8 @@
       "ダイエット",
       "パチンコ"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 1
   },
   {
     "id": 14,
@@ -144,7 +157,8 @@
       "季節だ",
       "季節に"
     ],
-    "correctAnswer": 2
+    "correctAnswer": 2,
+    "difficulty": 2
   },
   {
     "id": 15,
@@ -155,7 +169,8 @@
       "のぼります",
       "パチンコ「～をします」"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 1
   },
   {
     "id": 16,
@@ -166,7 +181,8 @@
       "môn võ Sư mô của Nhật",
       "tình trạng, sức khỏe"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 1
   },
   {
     "id": 17,
@@ -177,7 +193,8 @@
       "ngủ trọ, nghỉ [ở khách sạn]",
       "trèo, leo (núi)"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 1
   },
   {
     "id": 18,
@@ -188,7 +205,8 @@
       "ngủ trọ, nghỉ [ở khách sạn]",
       "tuy nhiên, nhưng (đứng đầu câu)"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 1
   },
   {
     "id": 19,
@@ -199,7 +217,8 @@
       "nghỉ ở khách sạn",
       "tuy nhiên, nhưng (đứng đầu câu)"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 1
   },
   {
     "id": 20,
@@ -210,7 +229,8 @@
       "trà, trà đạo",
       "trèo, leo (núi)"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 1
   },
   {
     "id": 21,
@@ -221,7 +241,8 @@
       "trà, trà đạo",
       "tình trạng, sức khỏe"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 1
   },
   {
     "id": 22,
@@ -231,7 +252,8 @@
       "見て",
       "見る"
     ],
-    "correctAnswer": 1
+    "correctAnswer": 1,
+    "difficulty": 2
   },
   {
     "id": 23,
@@ -242,7 +264,8 @@
       "một lần",
       "trà, trà đạo"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 1
   },
   {
     "id": 24,
@@ -251,7 +274,8 @@
       "きれいに",
       "きれく"
     ],
-    "correctAnswer": 1
+    "correctAnswer": 1,
+    "difficulty": 2
   },
   {
     "id": 25,
@@ -260,7 +284,8 @@
       "見た",
       "読んだ"
     ],
-    "correctAnswer": 1
+    "correctAnswer": 1,
+    "difficulty": 3
   },
   {
     "id": 26,
@@ -271,7 +296,8 @@
       "ダイエット",
       "パチンコ「～をします」"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 2
   },
   {
     "id": 27,
@@ -282,7 +308,8 @@
       "そこ",
       "どこ"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 2
   },
   {
     "id": 28,
@@ -293,7 +320,8 @@
       "とまります",
       "のぼります"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 1
   },
   {
     "id": 29,
@@ -304,7 +332,8 @@
       "のぼります",
       "ケーキ"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 1
   },
   {
     "id": 30,
@@ -315,7 +344,8 @@
       "そこ",
       "どこ"
     ],
-    "correctAnswer": 1
+    "correctAnswer": 1,
+    "difficulty": 2
   },
   {
     "id": 31,
@@ -326,7 +356,8 @@
       "そじします",
       "はいけんします"
     ],
-    "correctAnswer": 2
+    "correctAnswer": 2,
+    "difficulty": 2
   },
   {
     "id": 32,
@@ -337,7 +368,8 @@
       "なります",
       "やまにのぼります"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 1
   },
   {
     "id": 33,
@@ -348,7 +380,8 @@
       "のぼります",
       "ケーキ"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 1
   },
   {
     "id": 34,
@@ -359,7 +392,8 @@
       "ダイエット",
       "パチンコ「～をします」"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 1
   },
   {
     "id": 35,
@@ -370,7 +404,8 @@
       "せんたします",
       "たっせんします"
     ],
-    "correctAnswer": 1
+    "correctAnswer": 1,
+    "difficulty": 2
   },
   {
     "id": 36,
@@ -381,7 +416,8 @@
       "ゴルフ",
       "パチンコ"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 2
   },
   {
     "id": 37,
@@ -392,7 +428,8 @@
       "ダイエット",
       "パチンコ"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 1
   },
   {
     "id": 38,
@@ -403,7 +440,8 @@
       "trà, trà đạo",
       "tình trạng, sức khỏe"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 1
   },
   {
     "id": 39,
@@ -414,7 +452,8 @@
       "それ",
       "どれ"
     ],
-    "correctAnswer": 1
+    "correctAnswer": 1,
+    "difficulty": 2
   },
   {
     "id": 40,
@@ -424,7 +463,8 @@
       "一度",
       "初めて"
     ],
-    "correctAnswer": 1
+    "correctAnswer": 1,
+    "difficulty": 2
   },
   {
     "id": 41,
@@ -435,7 +475,8 @@
       "ダイエット",
       "パチンコ"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 1
   },
   {
     "id": 42,
@@ -446,7 +487,8 @@
       "trò chơi bắn đạn pachinko",
       "tuy nhiên, nhưng (đứng đầu câu)"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 1
   },
   {
     "id": 43,
@@ -457,7 +499,8 @@
       "ダイエット",
       "ホテルにとまります"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 1
   },
   {
     "id": 44,
@@ -468,7 +511,8 @@
       "そちら",
       "どちら"
     ],
-    "correctAnswer": 2
+    "correctAnswer": 2,
+    "difficulty": 2
   },
   {
     "id": 45,
@@ -478,7 +522,8 @@
       "食べた",
       "食べる"
     ],
-    "correctAnswer": 1
+    "correctAnswer": 1,
+    "difficulty": 2
   },
   {
     "id": 46,
@@ -487,7 +532,8 @@
       "メーモし",
       "覚えた"
     ],
-    "correctAnswer": 1
+    "correctAnswer": 1,
+    "difficulty": 3
   },
   {
     "id": 47,
@@ -498,7 +544,8 @@
       "ゴルフ",
       "ゴルプ"
     ],
-    "correctAnswer": 2
+    "correctAnswer": 2,
+    "difficulty": 1
   },
   {
     "id": 48,
@@ -509,7 +556,8 @@
       "やまにのぼります",
       "ケーキ"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 1
   },
   {
     "id": 49,
@@ -520,7 +568,8 @@
       "Trở thành, trở nên",
       "Đứng"
     ],
-    "correctAnswer": 2
+    "correctAnswer": 2,
+    "difficulty": 1
   },
   {
     "id": 50,
@@ -531,7 +580,8 @@
       "そこ",
       "どこ"
     ],
-    "correctAnswer": 2
+    "correctAnswer": 2,
+    "difficulty": 2
   },
   {
     "id": 51,
@@ -541,7 +591,8 @@
       "一度でも",
       "一度も"
     ],
-    "correctAnswer": 2
+    "correctAnswer": 2,
+    "difficulty": 2
   },
   {
     "id": 52,
@@ -552,7 +603,8 @@
       "trèo, leo (núi)",
       "tuy nhiên, nhưng (đứng đầu câu)"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 1
   },
   {
     "id": 53,
@@ -563,7 +615,8 @@
       "とまります",
       "やまにのぼります"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 1
   },
   {
     "id": 54,
@@ -574,7 +627,8 @@
       "trà, trà đạo",
       "trở nên, trở thành"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 1
   },
   {
     "id": 55,
@@ -585,7 +639,8 @@
       "ちょうし",
       "ダイエット"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 1
   },
   {
     "id": 56,
@@ -596,7 +651,8 @@
       "ゴルフ「～をします」",
       "ダイエット"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 1
   },
   {
     "id": 57,
@@ -606,7 +662,8 @@
       "涼しく",
       "涼しくて"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 2
   },
   {
     "id": 58,
@@ -617,7 +674,8 @@
       "そちら",
       "どちら"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 2
   },
   {
     "id": 59,
@@ -628,7 +686,8 @@
       "そこ",
       "どこ"
     ],
-    "correctAnswer": 1
+    "correctAnswer": 1,
+    "difficulty": 2
   },
   {
     "id": 60,
@@ -639,7 +698,8 @@
       "nghỉ ở khách sạn",
       "quét, quét dọn, làm vệ sinh"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 1
   },
   {
     "id": 61,
@@ -650,7 +710,8 @@
       "そこ",
       "どこ"
     ],
-    "correctAnswer": 2
+    "correctAnswer": 2,
+    "difficulty": 2
   },
   {
     "id": 62,
@@ -661,7 +722,8 @@
       "パチンコ",
       "ホテルにとまります"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 1
   },
   {
     "id": 63,
@@ -672,7 +734,8 @@
       "trò chơi bắn đạn pachinko",
       "tình trạng, sức khỏe"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 1
   },
   {
     "id": 64,
@@ -683,7 +746,8 @@
       "ちょうし",
       "ホテルにとまります"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 1
   },
   {
     "id": 65,
@@ -692,7 +756,8 @@
       "吸った",
       "食べた"
     ],
-    "correctAnswer": 1
+    "correctAnswer": 1,
+    "difficulty": 2
   },
   {
     "id": 66,
@@ -702,7 +767,8 @@
       "上手な",
       "上手に"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 3
   },
   {
     "id": 67,
@@ -713,7 +779,8 @@
       "おちゃ",
       "おぼん"
     ],
-    "correctAnswer": 3
+    "correctAnswer": 3,
+    "difficulty": 2
   },
   {
     "id": 68,
@@ -724,7 +791,8 @@
       "ぴ",
       "よう"
     ],
-    "correctAnswer": 1
+    "correctAnswer": 1,
+    "difficulty": 1
   },
   {
     "id": 69,
@@ -735,7 +803,8 @@
       "giặt (quần áo)",
       "trèo, leo (núi)"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 1
   },
   {
     "id": 70,
@@ -744,7 +813,8 @@
       "食べた",
       "飲んだ"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 2
   },
   {
     "id": 71,
@@ -755,7 +825,8 @@
       "ゴルフ",
       "ゴルフ「～をします」"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 2
   },
   {
     "id": 72,
@@ -766,7 +837,8 @@
       "ダイエット",
       "ホテルにとまります"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 1
   },
   {
     "id": 73,
@@ -777,7 +849,8 @@
       "やまにのぼります",
       "ゴルフ"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 1
   },
   {
     "id": 74,
@@ -788,7 +861,8 @@
       "のぼります",
       "ケーキ"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 1
   },
   {
     "id": 75,
@@ -799,7 +873,8 @@
       "それ",
       "どれ"
     ],
-    "correctAnswer": 1
+    "correctAnswer": 1,
+    "difficulty": 2
   },
   {
     "id": 76,
@@ -810,7 +885,8 @@
       "やまにのぼります",
       "ホテルにとまります"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 1
   },
   {
     "id": 77,
@@ -819,7 +895,8 @@
       "何回",
       "何回も"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 1
   },
   {
     "id": 78,
@@ -830,7 +907,8 @@
       "tình trạng, sức khỏe",
       "việc ăn kiêng"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 1
   },
   {
     "id": 79,
@@ -841,7 +919,8 @@
       "パチンコ「～をします」",
       "ホテルにとまります"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 1
   },
   {
     "id": 80,
@@ -852,7 +931,8 @@
       "ダイエット",
       "ホテルにとまります"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 1
   },
   {
     "id": 81,
@@ -863,7 +943,8 @@
       "それ",
       "どれ"
     ],
-    "correctAnswer": 1
+    "correctAnswer": 1,
+    "difficulty": 2
   },
   {
     "id": 82,
@@ -874,7 +955,8 @@
       "それ",
       "どれ"
     ],
-    "correctAnswer": 1
+    "correctAnswer": 1,
+    "difficulty": 2
   },
   {
     "id": 83,
@@ -885,7 +967,8 @@
       "そこ",
       "どこ"
     ],
-    "correctAnswer": 2
+    "correctAnswer": 2,
+    "difficulty": 2
   },
   {
     "id": 84,
@@ -895,7 +978,8 @@
       "書いて",
       "書く"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 4
   },
   {
     "id": 85,
@@ -906,7 +990,8 @@
       "ngủ trọ, nghỉ [ở khách sạn]",
       "trèo, leo (núi)"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 1
   },
   {
     "id": 86,
@@ -917,7 +1002,8 @@
       "そちら",
       "どちら"
     ],
-    "correctAnswer": 2
+    "correctAnswer": 2,
+    "difficulty": 2
   },
   {
     "id": 87,
@@ -926,7 +1012,8 @@
       "で",
       "に"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 2
   },
   {
     "id": 88,
@@ -937,7 +1024,8 @@
       "ゴルフ「～をします」",
       "ダイエット"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 1
   },
   {
     "id": 89,
@@ -948,7 +1036,8 @@
       "それ",
       "どれ"
     ],
-    "correctAnswer": 1
+    "correctAnswer": 1,
+    "difficulty": 2
   },
   {
     "id": 90,
@@ -957,7 +1046,8 @@
       "聞いた",
       "見た"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 3
   },
   {
     "id": 91,
@@ -968,7 +1058,8 @@
       "そちら",
       "どちら"
     ],
-    "correctAnswer": 1
+    "correctAnswer": 1,
+    "difficulty": 2
   },
   {
     "id": 92,
@@ -979,7 +1070,8 @@
       "một lần",
       "nghỉ ở khách sạn"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 1
   },
   {
     "id": 93,
@@ -990,7 +1082,8 @@
       "Leo",
       "Trườn"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 1
   },
   {
     "id": 94,
@@ -1001,7 +1094,8 @@
       "ngủ trọ, nghỉ [ở khách sạn]",
       "trò chơi bắn đạn pachinko"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 1
   },
   {
     "id": 95,
@@ -1012,7 +1106,8 @@
       "やまにのぼります",
       "パチンコ"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 1
   },
   {
     "id": 96,
@@ -1023,7 +1118,8 @@
       "trèo, leo (núi)",
       "tình trạng, sức khỏe"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 1
   },
   {
     "id": 97,
@@ -1034,7 +1130,8 @@
       "そちら",
       "どちら"
     ],
-    "correctAnswer": 1
+    "correctAnswer": 1,
+    "difficulty": 2
   },
   {
     "id": 98,
@@ -1044,7 +1141,8 @@
       "登り",
       "登る"
     ],
-    "correctAnswer": 2
+    "correctAnswer": 2,
+    "difficulty": 2
   },
   {
     "id": 99,
@@ -1055,7 +1153,8 @@
       "そちら",
       "どちら"
     ],
-    "correctAnswer": 1
+    "correctAnswer": 1,
+    "difficulty": 2
   },
   {
     "id": 100,
@@ -1066,7 +1165,8 @@
       "quét, quét dọn, làm vệ sinh",
       "tình trạng, sức khỏe"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 1
   },
   {
     "id": 101,
@@ -1077,7 +1177,8 @@
       "môn võ Sư mô của Nhật",
       "ngủ trọ, nghỉ [ở khách sạn]"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 1
   },
   {
     "id": 102,
@@ -1088,7 +1189,8 @@
       "缶杯",
       "缶詰"
     ],
-    "correctAnswer": 1
+    "correctAnswer": 1,
+    "difficulty": 1
   },
   {
     "id": 103,
@@ -1099,7 +1201,8 @@
       "しかし",
       "のぼります"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 2
   },
   {
     "id": 104,
@@ -1109,7 +1212,8 @@
       "ちょうじ",
       "ちょし"
     ],
-    "correctAnswer": 1
+    "correctAnswer": 1,
+    "difficulty": 2
   },
   {
     "id": 105,
@@ -1120,7 +1224,8 @@
       "cạn ly",
       "một lần"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 1
   },
   {
     "id": 106,
@@ -1131,7 +1236,8 @@
       "パチンコ",
       "ホテルにとまります"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 1
   },
   {
     "id": 107,
@@ -1142,7 +1248,8 @@
       "gôn",
       "leo núi"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 1
   },
   {
     "id": 108,
@@ -1153,7 +1260,8 @@
       "そちら",
       "どちら"
     ],
-    "correctAnswer": 2
+    "correctAnswer": 2,
+    "difficulty": 2
   },
   {
     "id": 109,
@@ -1164,7 +1272,8 @@
       "れんしゅうします",
       "れんしゅします"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 2
   },
   {
     "id": 110,
@@ -1175,7 +1284,8 @@
       "無吏",
       "無理"
     ],
-    "correctAnswer": 2
+    "correctAnswer": 2,
+    "difficulty": 1
   },
   {
     "id": 111,
@@ -1185,7 +1295,8 @@
       "相撲",
       "祖業"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 1
   },
   {
     "id": 112,
@@ -1196,7 +1307,8 @@
       "そうじします",
       "とまります"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 1
   },
   {
     "id": 113,
@@ -1207,7 +1319,8 @@
       "trèo, leo (núi)",
       "trở nên, trở thành"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 1
   },
   {
     "id": 114,
@@ -1218,7 +1331,8 @@
       "そこ",
       "どこ"
     ],
-    "correctAnswer": 2
+    "correctAnswer": 2,
+    "difficulty": 2
   },
   {
     "id": 115,
@@ -1227,7 +1341,8 @@
       "泳いだ",
       "浴びた"
     ],
-    "correctAnswer": 1
+    "correctAnswer": 1,
+    "difficulty": 2
   },
   {
     "id": 116,
@@ -1238,7 +1353,8 @@
       "なります",
       "やまにのぼります"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 1
   },
   {
     "id": 117,
@@ -1247,7 +1363,8 @@
       "入った",
       "出た"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 2
   },
   {
     "id": 118,
@@ -1256,7 +1373,8 @@
       "見た",
       "見て"
     ],
-    "correctAnswer": 1
+    "correctAnswer": 1,
+    "difficulty": 2
   },
   {
     "id": 119,
@@ -1267,7 +1385,8 @@
       "tuy nhiên, nhưng (đứng đầu câu)",
       "việc ăn kiêng"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 1
   },
   {
     "id": 120,
@@ -1278,7 +1397,8 @@
       "một lần",
       "quét, quét dọn, làm vệ sinh"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 1
   },
   {
     "id": 121,
@@ -1288,7 +1408,8 @@
       "習おう",
       "習った"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 2
   },
   {
     "id": 122,
@@ -1299,7 +1420,8 @@
       "một lần",
       "tình trạng, sức khỏe"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 1
   },
   {
     "id": 123,
@@ -1308,7 +1430,8 @@
       "洗濯",
       "洗濯したり"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 3
   },
   {
     "id": 124,
@@ -1319,7 +1442,8 @@
       "ゴルフ「～をします」",
       "パチンコ「～をします」"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 1
   },
   {
     "id": 125,
@@ -1330,7 +1454,8 @@
       "gôn",
       "trò chơi bắn đạn pachinko"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 1
   },
   {
     "id": 126,
@@ -1341,7 +1466,8 @@
       "そちら",
       "どちら"
     ],
-    "correctAnswer": 1
+    "correctAnswer": 1,
+    "difficulty": 2
   },
   {
     "id": 127,
@@ -1352,7 +1478,8 @@
       "trở nên, trở thành",
       "tuy nhiên, nhưng (đứng đầu câu)"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 1
   },
   {
     "id": 128,
@@ -1361,7 +1488,8 @@
       "あります",
       "できます"
     ],
-    "correctAnswer": 1
+    "correctAnswer": 1,
+    "difficulty": 2
   },
   {
     "id": 129,
@@ -1372,7 +1500,8 @@
       "しかし",
       "やまにのぼります"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 2
   },
   {
     "id": 130,
@@ -1382,7 +1511,8 @@
       "一度でも",
       "一度も"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 2
   },
   {
     "id": 131,
@@ -1393,7 +1523,8 @@
       "それ",
       "どれ"
     ],
-    "correctAnswer": 1
+    "correctAnswer": 1,
+    "difficulty": 2
   },
   {
     "id": 132,
@@ -1404,7 +1535,8 @@
       "quét, quét dọn, làm vệ sinh",
       "trở nên, trở thành"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 1
   },
   {
     "id": 133,
@@ -1414,7 +1546,8 @@
       "大きいに",
       "大きく"
     ],
-    "correctAnswer": 1
+    "correctAnswer": 1,
+    "difficulty": 3
   },
   {
     "id": 134,
@@ -1425,7 +1558,8 @@
       "ちょうし",
       "とまります"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 1
   },
   {
     "id": 135,
@@ -1436,7 +1570,8 @@
       "tuy nhiên, nhưng (đứng đầu câu)",
       "việc ăn kiêng"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 1
   },
   {
     "id": 136,
@@ -1447,7 +1582,8 @@
       "ゴルフ",
       "パチンコ「～をします」"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 1
   },
   {
     "id": 137,
@@ -1458,7 +1594,8 @@
       "なります",
       "パチンコ「～をします」"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 1
   },
   {
     "id": 138,
@@ -1469,7 +1606,8 @@
       "ゴルフ",
       "ホテルにとまります"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 1
   },
   {
     "id": 139,
@@ -1480,7 +1618,8 @@
       "そこ",
       "どこ"
     ],
-    "correctAnswer": 2
+    "correctAnswer": 2,
+    "difficulty": 2
   },
   {
     "id": 140,
@@ -1491,7 +1630,8 @@
       "nghỉ ở khách sạn",
       "việc ăn kiêng"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 1
   },
   {
     "id": 141,
@@ -1502,7 +1642,8 @@
       "そちら",
       "どちら"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 2
   },
   {
     "id": 142,
@@ -1513,7 +1654,8 @@
       "それ",
       "どれ"
     ],
-    "correctAnswer": 1
+    "correctAnswer": 1,
+    "difficulty": 2
   },
   {
     "id": 143,
@@ -1524,7 +1666,8 @@
       "弱い",
       "強い"
     ],
-    "correctAnswer": 2
+    "correctAnswer": 2,
+    "difficulty": 1
   },
   {
     "id": 144,
@@ -1535,7 +1678,8 @@
       "とまります",
       "パチンコ「～をします」"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 2
   },
   {
     "id": 145,
@@ -1545,7 +1689,8 @@
       "一度も",
       "初めて"
     ],
-    "correctAnswer": 1
+    "correctAnswer": 1,
+    "difficulty": 2
   },
   {
     "id": 146,
@@ -1556,7 +1701,8 @@
       "Thêm nữa",
       "Thỉnh thoảng"
     ],
-    "correctAnswer": 2
+    "correctAnswer": 2,
+    "difficulty": 1
   },
   {
     "id": 147,
@@ -1567,7 +1713,8 @@
       "それ",
       "どれ"
     ],
-    "correctAnswer": 1
+    "correctAnswer": 1,
+    "difficulty": 2
   },
   {
     "id": 148,
@@ -1578,7 +1725,8 @@
       "そちら",
       "どちら"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 2
   },
   {
     "id": 149,
@@ -1589,7 +1737,8 @@
       "tuy nhiên, nhưng (đứng đầu câu)",
       "việc ăn kiêng"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 1
   },
   {
     "id": 150,
@@ -1600,7 +1749,8 @@
       "trà, trà đạo",
       "trèo, leo (núi)"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 1
   },
   {
     "id": 151,
@@ -1611,7 +1761,8 @@
       "Rau củ",
       "Thịt"
     ],
-    "correctAnswer": 1
+    "correctAnswer": 1,
+    "difficulty": 1
   },
   {
     "id": 152,
@@ -1622,7 +1773,8 @@
       "trở nên, trở thành",
       "tuy nhiên, nhưng (đứng đầu câu)"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 1
   },
   {
     "id": 153,
@@ -1633,7 +1785,8 @@
       "nghỉ ở khách sạn",
       "tuy nhiên, nhưng (đứng đầu câu)"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 1
   },
   {
     "id": 154,
@@ -1644,7 +1797,8 @@
       "やまにのぼります",
       "ホテルにとまります"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 1
   },
   {
     "id": 155,
@@ -1655,7 +1809,8 @@
       "ケーキ",
       "ホテルにとまります"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 1
   },
   {
     "id": 156,
@@ -1666,7 +1821,8 @@
       "leo núi",
       "tuy nhiên, nhưng (đứng đầu câu)"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 1
   },
   {
     "id": 157,
@@ -1677,7 +1833,8 @@
       "ゴルフ",
       "パチンコ「～をします」"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 1
   },
   {
     "id": 158,
@@ -1687,7 +1844,8 @@
       "食べて",
       "食べる"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 2
   },
   {
     "id": 159,
@@ -1696,7 +1854,8 @@
       "売った",
       "買った"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 3
   },
   {
     "id": 160,
@@ -1707,7 +1866,8 @@
       "trò chơi bắn đạn pachinko",
       "tuy nhiên, nhưng (đứng đầu câu)"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 1
   },
   {
     "id": 161,
@@ -1718,7 +1878,8 @@
       "そうじします",
       "ホテルにとまります"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 1
   },
   {
     "id": 162,
@@ -1728,7 +1889,8 @@
       "何回も",
       "初めて"
     ],
-    "correctAnswer": 1
+    "correctAnswer": 1,
+    "difficulty": 4
   },
   {
     "id": 163,
@@ -1738,7 +1900,8 @@
       "書き",
       "書く"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 4
   },
   {
     "id": 164,
@@ -1749,7 +1912,8 @@
       "おちゃ",
       "ゴルフ"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 1
   },
   {
     "id": 165,
@@ -1760,7 +1924,8 @@
       "trà, trà đạo",
       "tình trạng, sức khỏe"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 1
   },
   {
     "id": 166,
@@ -1769,7 +1934,8 @@
       "あります",
       "行きました"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 2
   },
   {
     "id": 167,
@@ -1778,7 +1944,8 @@
       "で",
       "に"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 2
   },
   {
     "id": 168,
@@ -1788,7 +1955,8 @@
       "だんだん",
       "もうすぐ"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 3
   },
   {
     "id": 169,
@@ -1799,7 +1967,8 @@
       "そこ",
       "どこ"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 2
   },
   {
     "id": 170,
@@ -1810,7 +1979,8 @@
       "ケーキ",
       "ゴルフ「～をします」"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 1
   },
   {
     "id": 171,
@@ -1821,7 +1991,8 @@
       "そこ",
       "どこ"
     ],
-    "correctAnswer": 1
+    "correctAnswer": 1,
+    "difficulty": 2
   },
   {
     "id": 172,
@@ -1832,7 +2003,8 @@
       "やまにのぼります",
       "ホテルにとまります"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 1
   },
   {
     "id": 173,
@@ -1843,7 +2015,8 @@
       "ねむい",
       "ねむれ"
     ],
-    "correctAnswer": 3
+    "correctAnswer": 3,
+    "difficulty": 1
   },
   {
     "id": 174,
@@ -1854,7 +2027,8 @@
       "ケーキ",
       "ゴルフ"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 2
   },
   {
     "id": 175,
@@ -1865,7 +2039,8 @@
       "trèo, leo (núi)",
       "việc ăn kiêng"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 1
   },
   {
     "id": 176,
@@ -1874,7 +2049,8 @@
       "大きいに",
       "大きく"
     ],
-    "correctAnswer": 1
+    "correctAnswer": 1,
+    "difficulty": 2
   },
   {
     "id": 177,
@@ -1885,7 +2061,8 @@
       "すもう",
       "ケーキ"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 1
   },
   {
     "id": 178,
@@ -1896,7 +2073,8 @@
       "gôn",
       "trò chơi bắn đạn pachinko"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 1
   },
   {
     "id": 179,
@@ -1905,7 +2083,8 @@
       "撮った",
       "見た"
     ],
-    "correctAnswer": 1
+    "correctAnswer": 1,
+    "difficulty": 3
   },
   {
     "id": 180,
@@ -1916,7 +2095,8 @@
       "trèo, leo (núi)",
       "tuy nhiên, nhưng (đứng đầu câu)"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 1
   },
   {
     "id": 181,
@@ -1927,7 +2107,8 @@
       "môn võ Sư mô của Nhật",
       "việc ăn kiêng"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 1
   },
   {
     "id": 182,
@@ -1938,7 +2119,8 @@
       "そちら",
       "どちら"
     ],
-    "correctAnswer": 1
+    "correctAnswer": 1,
+    "difficulty": 2
   },
   {
     "id": 183,
@@ -1949,7 +2131,8 @@
       "ダーイエット",
       "ダーイエト"
     ],
-    "correctAnswer": 2
+    "correctAnswer": 2,
+    "difficulty": 1
   },
   {
     "id": 184,
@@ -1959,7 +2142,8 @@
       "登って",
       "登る"
     ],
-    "correctAnswer": 1
+    "correctAnswer": 1,
+    "difficulty": 2
   },
   {
     "id": 185,
@@ -1970,7 +2154,8 @@
       "しかし",
       "パチンコ"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 1
   },
   {
     "id": 186,
@@ -1981,7 +2166,8 @@
       "しかし",
       "せんたくします"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 1
   },
   {
     "id": 187,
@@ -1990,7 +2176,8 @@
       "一度",
       "一度も"
     ],
-    "correctAnswer": 1
+    "correctAnswer": 1,
+    "difficulty": 2
   },
   {
     "id": 188,
@@ -2001,7 +2188,8 @@
       "Trong tình trạng không tốt",
       "Trong tình trạng tốt"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 1
   },
   {
     "id": 189,
@@ -2012,7 +2200,8 @@
       "môn võ Sư mô của Nhật",
       "việc ăn kiêng"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 1
   },
   {
     "id": 190,
@@ -2022,6 +2211,7 @@
       "９歳に",
       "９歳のに"
     ],
-    "correctAnswer": 1
+    "correctAnswer": 1,
+    "difficulty": 3
   }
 ]

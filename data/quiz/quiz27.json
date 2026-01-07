@@ -8,7 +8,8 @@
       "クリーニング",
       "マンション"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 1
   },
   {
     "id": 2,
@@ -19,7 +20,8 @@
       "クリーニング",
       "パーティールーム"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 2
   },
   {
     "id": 3,
@@ -30,7 +32,8 @@
       "そこ",
       "どこ"
     ],
-    "correctAnswer": 1
+    "correctAnswer": 1,
+    "difficulty": 2
   },
   {
     "id": 4,
@@ -41,7 +44,8 @@
       "皮",
       "鳥"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 1
   },
   {
     "id": 5,
@@ -52,7 +56,8 @@
       "そちら",
       "どちら"
     ],
-    "correctAnswer": 1
+    "correctAnswer": 1,
+    "difficulty": 2
   },
   {
     "id": 6,
@@ -63,7 +68,8 @@
       "じどうはんばいき",
       "つきます"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 2
   },
   {
     "id": 7,
@@ -74,7 +80,8 @@
       "～しか",
       "～め"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 2
   },
   {
     "id": 8,
@@ -85,7 +92,8 @@
       "Tên địa danh",
       "Tương lai"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 1
   },
   {
     "id": 9,
@@ -96,7 +104,8 @@
       "Nhân vật chính",
       "Đánh"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 1
   },
   {
     "id": 10,
@@ -107,7 +116,8 @@
       "つけます",
       "どうぐ"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 1
   },
   {
     "id": 11,
@@ -118,7 +128,8 @@
       "Máy bán hàng tự động",
       "Sân bay Kansai"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 1
   },
   {
     "id": 12,
@@ -129,7 +140,8 @@
       "Ngày xưa, ngày trước",
       "Rèm cửa"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 1
   },
   {
     "id": 13,
@@ -140,7 +152,8 @@
       "Hình dạng",
       "Tới (Nhật)"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 1
   },
   {
     "id": 14,
@@ -151,7 +164,8 @@
       "Nuôi",
       "Tối qua"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 1
   },
   {
     "id": 15,
@@ -162,7 +176,8 @@
       "だいどころ",
       "はしります"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 1
   },
   {
     "id": 16,
@@ -173,7 +188,8 @@
       "そちら",
       "どちら"
     ],
-    "correctAnswer": 2
+    "correctAnswer": 2,
+    "difficulty": 2
   },
   {
     "id": 17,
@@ -184,7 +200,8 @@
       "そこ",
       "どこ"
     ],
-    "correctAnswer": 2
+    "correctAnswer": 2,
+    "difficulty": 3
   },
   {
     "id": 18,
@@ -195,7 +212,8 @@
       "はしります",
       "ゆめ"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 1
   },
   {
     "id": 19,
@@ -206,7 +224,8 @@
       "にちようだいく",
       "ひるま"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 1
   },
   {
     "id": 20,
@@ -217,7 +236,8 @@
       "そちら",
       "どちら"
     ],
-    "correctAnswer": 2
+    "correctAnswer": 2,
+    "difficulty": 2
   },
   {
     "id": 21,
@@ -228,7 +248,8 @@
       "ゆうがた",
       "～がわ"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 1
   },
   {
     "id": 22,
@@ -239,7 +260,8 @@
       "～ご",
       "～め"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 1
   },
   {
     "id": 23,
@@ -250,7 +272,8 @@
       "そちら",
       "どちら"
     ],
-    "correctAnswer": 2
+    "correctAnswer": 2,
+    "difficulty": 2
   },
   {
     "id": 24,
@@ -261,7 +284,8 @@
       "Mua bán qua mạng",
       "Máy bán hàng tự động"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 1
   },
   {
     "id": 25,
@@ -272,7 +296,8 @@
       "Sông",
       "Xây, xây dựng"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 1
   },
   {
     "id": 26,
@@ -283,7 +308,8 @@
       "Bên, phía, hướng",
       "Nuôi"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 1
   },
   {
     "id": 27,
@@ -294,7 +320,8 @@
       "にちようだいく",
       "みえます"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 1
   },
   {
     "id": 28,
@@ -305,7 +332,8 @@
       "じょうらい",
       "じょらい"
     ],
-    "correctAnswer": 2
+    "correctAnswer": 2,
+    "difficulty": 1
   },
   {
     "id": 29,
@@ -316,7 +344,8 @@
       "それ",
       "どれ"
     ],
-    "correctAnswer": 1
+    "correctAnswer": 1,
+    "difficulty": 2
   },
   {
     "id": 30,
@@ -325,7 +354,8 @@
       "が",
       "の"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 3
   },
   {
     "id": 31,
@@ -336,7 +366,8 @@
       "どうぐ",
       "ペット"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 2
   },
   {
     "id": 32,
@@ -347,7 +378,8 @@
       "つきます",
       "みえます"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 1
   },
   {
     "id": 33,
@@ -358,7 +390,8 @@
       "Chữ",
       "Thứ~"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 1
   },
   {
     "id": 34,
@@ -369,7 +402,8 @@
       "それ",
       "どれ"
     ],
-    "correctAnswer": 1
+    "correctAnswer": 1,
+    "difficulty": 2
   },
   {
     "id": 35,
@@ -380,7 +414,8 @@
       "じどうはんばいき",
       "つきます"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 1
   },
   {
     "id": 36,
@@ -391,7 +426,8 @@
       "Nhà bếp",
       "Rèm cửa"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 1
   },
   {
     "id": 37,
@@ -402,7 +438,8 @@
       "ゆうべ",
       "マンション"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 1
   },
   {
     "id": 38,
@@ -413,7 +450,8 @@
       "マンション",
       "～しか"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 1
   },
   {
     "id": 39,
@@ -424,7 +462,8 @@
       "そうばい",
       "そうらい"
     ],
-    "correctAnswer": 3
+    "correctAnswer": 3,
+    "difficulty": 2
   },
   {
     "id": 40,
@@ -435,7 +474,8 @@
       "Nhà bếp",
       "Tên khu phố ở Tokyo"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 1
   },
   {
     "id": 41,
@@ -446,7 +486,8 @@
       "Hoàn thành, làm xong",
       "Mua bán qua mạng"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 1
   },
   {
     "id": 42,
@@ -457,7 +498,8 @@
       "できます",
       "ゆうべ"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 1
   },
   {
     "id": 43,
@@ -468,7 +510,8 @@
       "そちら",
       "どちら"
     ],
-    "correctAnswer": 2
+    "correctAnswer": 2,
+    "difficulty": 2
   },
   {
     "id": 44,
@@ -479,7 +522,8 @@
       "Rèm cửa",
       "Sóng, sóng biển"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 1
   },
   {
     "id": 45,
@@ -490,7 +534,8 @@
       "目宙",
       "自由"
     ],
-    "correctAnswer": 2
+    "correctAnswer": 2,
+    "difficulty": 1
   },
   {
     "id": 46,
@@ -501,7 +546,8 @@
       "カーテン",
       "～ご"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 1
   },
   {
     "id": 47,
@@ -512,7 +558,8 @@
       "Sau~",
       "Thứ~"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 1
   },
   {
     "id": 48,
@@ -523,7 +570,8 @@
       "だいどころ",
       "～がわ"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 1
   },
   {
     "id": 49,
@@ -534,7 +582,8 @@
       "Làm đồ mộc vào ngày chủ nhật",
       "Tên khu phố ở Tokyo"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 1
   },
   {
     "id": 50,
@@ -545,7 +594,8 @@
       "Thao tác, điều khiển",
       "Xây, xây dựng"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 1
   },
   {
     "id": 51,
@@ -556,7 +606,8 @@
       "それ",
       "どれ"
     ],
-    "correctAnswer": 1
+    "correctAnswer": 1,
+    "difficulty": 2
   },
   {
     "id": 52,
@@ -567,7 +618,8 @@
       "つうしんはんばい",
       "ウイスキー"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 1
   },
   {
     "id": 53,
@@ -578,7 +630,8 @@
       "～がわ",
       "～め"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 1
   },
   {
     "id": 54,
@@ -589,7 +642,8 @@
       "Con vật cưng",
       "Phía bên kia"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 1
   },
   {
     "id": 55,
@@ -600,7 +654,8 @@
       "ほんだ",
       "ほんだな"
     ],
-    "correctAnswer": 1
+    "correctAnswer": 1,
+    "difficulty": 2
   },
   {
     "id": 56,
@@ -611,7 +666,8 @@
       "なみ",
       "クリーニング"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 2
   },
   {
     "id": 57,
@@ -622,7 +678,8 @@
       "Sau~",
       "Sóng, sóng biển"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 1
   },
   {
     "id": 58,
@@ -633,7 +690,8 @@
       "Chuyện tranh",
       "Thao tác, điều khiển"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 1
   },
   {
     "id": 59,
@@ -644,7 +702,8 @@
       "そこ",
       "どこ"
     ],
-    "correctAnswer": 2
+    "correctAnswer": 2,
+    "difficulty": 2
   },
   {
     "id": 60,
@@ -655,7 +714,8 @@
       "Sóng, sóng biển",
       "Tới (Nhật)"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 1
   },
   {
     "id": 61,
@@ -666,7 +726,8 @@
       "そこ",
       "どこ"
     ],
-    "correctAnswer": 2
+    "correctAnswer": 2,
+    "difficulty": 2
   },
   {
     "id": 62,
@@ -677,7 +738,8 @@
       "Sóng, sóng biển",
       "Thứ~"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 1
   },
   {
     "id": 63,
@@ -688,7 +750,8 @@
       "Thao tác, điều khiển",
       "Tên khu phố ở Tokyo"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 1
   },
   {
     "id": 64,
@@ -699,7 +762,8 @@
       "とびます",
       "ひらきます"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 1
   },
   {
     "id": 65,
@@ -710,7 +774,8 @@
       "じどうはんばいき",
       "～しか"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 1
   },
   {
     "id": 66,
@@ -721,7 +786,8 @@
       "Leo núi",
       "Tản bộ"
     ],
-    "correctAnswer": 1
+    "correctAnswer": 1,
+    "difficulty": 1
   },
   {
     "id": 67,
@@ -732,7 +798,8 @@
       "ゆうべ",
       "ウイスキー"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 1
   },
   {
     "id": 68,
@@ -743,7 +810,8 @@
       "そこ",
       "どこ"
     ],
-    "correctAnswer": 1
+    "correctAnswer": 1,
+    "difficulty": 3
   },
   {
     "id": 69,
@@ -754,7 +822,8 @@
       "そちら",
       "どちら"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 2
   },
   {
     "id": 70,
@@ -765,7 +834,8 @@
       "それ",
       "どれ"
     ],
-    "correctAnswer": 1
+    "correctAnswer": 1,
+    "difficulty": 2
   },
   {
     "id": 71,
@@ -774,7 +844,8 @@
       "しか",
       "だけ"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 2
   },
   {
     "id": 72,
@@ -785,7 +856,8 @@
       "Mua bán qua mạng",
       "Thao tác, điều khiển"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 1
   },
   {
     "id": 73,
@@ -796,7 +868,8 @@
       "にちようだいく",
       "はしります"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 1
   },
   {
     "id": 74,
@@ -807,7 +880,8 @@
       "カーテン",
       "ペット"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 1
   },
   {
     "id": 75,
@@ -818,7 +892,8 @@
       "そうさ",
       "そば"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 1
   },
   {
     "id": 76,
@@ -829,7 +904,8 @@
       "Tên khu phố ở Tokyo",
       "Xây, xây dựng"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 1
   },
   {
     "id": 77,
@@ -840,7 +916,8 @@
       "Tương lai",
       "Tự mình"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 1
   },
   {
     "id": 78,
@@ -851,7 +928,8 @@
       "できます",
       "とります"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 1
   },
   {
     "id": 79,
@@ -862,7 +940,8 @@
       "Sau~",
       "Tối qua"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 1
   },
   {
     "id": 80,
@@ -873,7 +952,8 @@
       "Tương lai",
       "Tự mình"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 1
   },
   {
     "id": 81,
@@ -884,7 +964,8 @@
       "とびます",
       "みえます"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 1
   },
   {
     "id": 82,
@@ -895,7 +976,8 @@
       "Sóng, sóng biển",
       "Xây, xây dựng"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 1
   },
   {
     "id": 83,
@@ -906,7 +988,8 @@
       "そこ",
       "どこ"
     ],
-    "correctAnswer": 2
+    "correctAnswer": 2,
+    "difficulty": 2
   },
   {
     "id": 84,
@@ -917,7 +1000,8 @@
       "それ",
       "どれ"
     ],
-    "correctAnswer": 1
+    "correctAnswer": 1,
+    "difficulty": 2
   },
   {
     "id": 85,
@@ -928,7 +1012,8 @@
       "～しか",
       "～め"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 1
   },
   {
     "id": 86,
@@ -939,7 +1024,8 @@
       "それ",
       "どれ"
     ],
-    "correctAnswer": 1
+    "correctAnswer": 1,
+    "difficulty": 2
   },
   {
     "id": 87,
@@ -950,7 +1036,8 @@
       "ひらきます",
       "ほんだな"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 2
   },
   {
     "id": 88,
@@ -961,7 +1048,8 @@
       "そちら",
       "どちら"
     ],
-    "correctAnswer": 1
+    "correctAnswer": 1,
+    "difficulty": 2
   },
   {
     "id": 89,
@@ -972,7 +1060,8 @@
       "Gắn, bật…",
       "Thứ~"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 1
   },
   {
     "id": 90,
@@ -983,7 +1072,8 @@
       "それ",
       "どれ"
     ],
-    "correctAnswer": 1
+    "correctAnswer": 1,
+    "difficulty": 2
   },
   {
     "id": 91,
@@ -992,7 +1082,8 @@
       "は",
       "も"
     ],
-    "correctAnswer": 1
+    "correctAnswer": 1,
+    "difficulty": 2
   },
   {
     "id": 92,
@@ -1001,7 +1092,8 @@
       "には",
       "にも"
     ],
-    "correctAnswer": 1
+    "correctAnswer": 1,
+    "difficulty": 3
   },
   {
     "id": 93,
@@ -1012,7 +1104,8 @@
       "そば",
       "むかし"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 2
   },
   {
     "id": 94,
@@ -1023,7 +1116,8 @@
       "Mua bán qua mạng",
       "Rèm cửa"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 1
   },
   {
     "id": 95,
@@ -1034,7 +1128,8 @@
       "そちら",
       "どちら"
     ],
-    "correctAnswer": 2
+    "correctAnswer": 2,
+    "difficulty": 2
   },
   {
     "id": 96,
@@ -1045,7 +1140,8 @@
       "Sau~",
       "Tên địa danh"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 1
   },
   {
     "id": 97,
@@ -1056,7 +1152,8 @@
       "そちら",
       "どちら"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 2
   },
   {
     "id": 98,
@@ -1067,7 +1164,8 @@
       "ゆうがた",
       "ペット"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 1
   },
   {
     "id": 99,
@@ -1078,7 +1176,8 @@
       "Rượu uýt ki",
       "Tự mình"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 1
   },
   {
     "id": 100,
@@ -1089,7 +1188,8 @@
       "Thao tác, điều khiển",
       "Tên địa danh"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 1
   },
   {
     "id": 101,
@@ -1100,7 +1200,8 @@
       "つきます",
       "ひるま"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 1
   },
   {
     "id": 102,
@@ -1111,7 +1212,8 @@
       "Ngày xưa, ngày trước",
       "Tự mình"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 1
   },
   {
     "id": 103,
@@ -1122,7 +1224,8 @@
       "Máy bán hàng tự động",
       "Tối qua"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 1
   },
   {
     "id": 104,
@@ -1133,7 +1236,8 @@
       "だいどころ",
       "クリーニング"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 1
   },
   {
     "id": 105,
@@ -1144,7 +1248,8 @@
       "そこ",
       "どこ"
     ],
-    "correctAnswer": 2
+    "correctAnswer": 2,
+    "difficulty": 2
   },
   {
     "id": 106,
@@ -1155,7 +1260,8 @@
       "みち",
       "むかし"
     ],
-    "correctAnswer": 2
+    "correctAnswer": 2,
+    "difficulty": 2
   },
   {
     "id": 107,
@@ -1165,7 +1271,8 @@
       "ふしき",
       "ふしぎ"
     ],
-    "correctAnswer": 2
+    "correctAnswer": 2,
+    "difficulty": 2
   },
   {
     "id": 108,
@@ -1176,7 +1283,8 @@
       "Lấy",
       "Mở, khai trương"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 1
   },
   {
     "id": 109,
@@ -1187,7 +1295,8 @@
       "そちら",
       "どちら"
     ],
-    "correctAnswer": 1
+    "correctAnswer": 1,
+    "difficulty": 2
   },
   {
     "id": 110,
@@ -1196,7 +1305,8 @@
       "修理しられますか",
       "修理できますか"
     ],
-    "correctAnswer": 1
+    "correctAnswer": 1,
+    "difficulty": 2
   },
   {
     "id": 111,
@@ -1205,7 +1315,8 @@
       "で",
       "に"
     ],
-    "correctAnswer": 1
+    "correctAnswer": 1,
+    "difficulty": 2
   },
   {
     "id": 112,
@@ -1216,7 +1327,8 @@
       "Xây dựng",
       "Đi tắm"
     ],
-    "correctAnswer": 1
+    "correctAnswer": 1,
+    "difficulty": 1
   },
   {
     "id": 113,
@@ -1227,7 +1339,8 @@
       "そこ",
       "どこ"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 2
   },
   {
     "id": 114,
@@ -1238,7 +1351,8 @@
       "そら",
       "ゆめ"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 2
   },
   {
     "id": 115,
@@ -1249,7 +1363,8 @@
       "ウイスキー",
       "～しか"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 1
   },
   {
     "id": 116,
@@ -1260,7 +1375,8 @@
       "Nhìn thấy",
       "Sờ vào"
     ],
-    "correctAnswer": 2
+    "correctAnswer": 2,
+    "difficulty": 1
   },
   {
     "id": 117,
@@ -1271,7 +1387,8 @@
       "花火",
       "花費"
     ],
-    "correctAnswer": 3
+    "correctAnswer": 3,
+    "difficulty": 1
   },
   {
     "id": 118,
@@ -1282,7 +1399,8 @@
       "Nuôi",
       "Tối qua"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 1
   },
   {
     "id": 119,
@@ -1293,7 +1411,8 @@
       "そこ",
       "どこ"
     ],
-    "correctAnswer": 1
+    "correctAnswer": 1,
+    "difficulty": 2
   },
   {
     "id": 120,
@@ -1304,7 +1423,8 @@
       "マンション",
       "～しか"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 1
   },
   {
     "id": 121,
@@ -1315,7 +1435,8 @@
       "Đóng",
       "Đẩy"
     ],
-    "correctAnswer": 3
+    "correctAnswer": 3,
+    "difficulty": 1
   },
   {
     "id": 122,
@@ -1324,7 +1445,8 @@
       "見えます",
       "見られます"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 2
   },
   {
     "id": 123,
@@ -1335,7 +1457,8 @@
       "すばらしい",
       "すらしい"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 1
   },
   {
     "id": 124,
@@ -1346,7 +1469,8 @@
       "にちようだいく",
       "ペット"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 2
   },
   {
     "id": 125,
@@ -1357,7 +1481,8 @@
       "そこ",
       "どこ"
     ],
-    "correctAnswer": 2
+    "correctAnswer": 2,
+    "difficulty": 2
   },
   {
     "id": 126,
@@ -1368,7 +1493,8 @@
       "そこ",
       "どこ"
     ],
-    "correctAnswer": 2
+    "correctAnswer": 2,
+    "difficulty": 2
   },
   {
     "id": 127,
@@ -1379,7 +1505,8 @@
       "みえます",
       "ウイスキー"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 2
   },
   {
     "id": 128,
@@ -1390,7 +1517,8 @@
       "Rượu uýt ki",
       "Sóng, sóng biển"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 1
   },
   {
     "id": 129,
@@ -1399,7 +1527,8 @@
       "いつか",
       "いつでも"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 3
   },
   {
     "id": 130,
@@ -1410,7 +1539,8 @@
       "Giá sách",
       "Rèm cửa"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 1
   },
   {
     "id": 131,
@@ -1421,7 +1551,8 @@
       "できます",
       "ゆめ"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 1
   },
   {
     "id": 132,
@@ -1430,7 +1561,8 @@
       "だいたい",
       "ほとんど"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 3
   },
   {
     "id": 133,
@@ -1441,7 +1573,8 @@
       "つけます",
       "ウイスキー"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 1
   },
   {
     "id": 134,
@@ -1452,7 +1585,8 @@
       "ゆこ",
       "ゆめ"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 1
   },
   {
     "id": 135,
@@ -1463,7 +1597,8 @@
       "みえます",
       "ゆめ"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 1
   },
   {
     "id": 136,
@@ -1474,7 +1609,8 @@
       "にちようだいく",
       "ペット"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 2
   },
   {
     "id": 137,
@@ -1485,7 +1621,8 @@
       "ペット",
       "メートウ"
     ],
-    "correctAnswer": 2
+    "correctAnswer": 2,
+    "difficulty": 1
   },
   {
     "id": 138,
@@ -1496,7 +1633,8 @@
       "そちら",
       "どちら"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 2
   },
   {
     "id": 139,
@@ -1507,7 +1645,8 @@
       "ちから",
       "はたけ"
     ],
-    "correctAnswer": 3
+    "correctAnswer": 3,
+    "difficulty": 1
   },
   {
     "id": 140,
@@ -1518,7 +1657,8 @@
       "それ",
       "どれ"
     ],
-    "correctAnswer": 1
+    "correctAnswer": 1,
+    "difficulty": 2
   },
   {
     "id": 141,
@@ -1529,7 +1669,8 @@
       "Thao tác, điều khiển",
       "Xây, xây dựng"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 1
   },
   {
     "id": 142,
@@ -1540,7 +1681,8 @@
       "Máy bán hàng tự động",
       "Rượu uýt ki"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 1
   },
   {
     "id": 143,
@@ -1551,7 +1693,8 @@
       "そこ",
       "どこ"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 2
   },
   {
     "id": 144,
@@ -1562,7 +1705,8 @@
       "道具",
       "道路"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 1
   },
   {
     "id": 145,
@@ -1573,7 +1717,8 @@
       "そこ",
       "どこ"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 2
   },
   {
     "id": 146,
@@ -1584,7 +1729,8 @@
       "そうさ",
       "マンション"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 1
   },
   {
     "id": 147,
@@ -1595,7 +1741,8 @@
       "そちら",
       "どちら"
     ],
-    "correctAnswer": 2
+    "correctAnswer": 2,
+    "difficulty": 2
   },
   {
     "id": 148,
@@ -1606,7 +1753,8 @@
       "そちら",
       "どちら"
     ],
-    "correctAnswer": 1
+    "correctAnswer": 1,
+    "difficulty": 2
   },
   {
     "id": 149,
@@ -1617,7 +1765,8 @@
       "つうしんはんばい",
       "にちようだいく"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 1
   },
   {
     "id": 150,
@@ -1628,7 +1777,8 @@
       "Nuôi",
       "Rèm cửa"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 1
   },
   {
     "id": 151,
@@ -1639,7 +1789,8 @@
       "まんが",
       "ウイスキー"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 2
   },
   {
     "id": 152,
@@ -1650,7 +1801,8 @@
       "Hình dạng",
       "Nhân vật chính"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 1
   },
   {
     "id": 153,
@@ -1661,7 +1813,8 @@
       "そちら",
       "どちら"
     ],
-    "correctAnswer": 1
+    "correctAnswer": 1,
+    "difficulty": 2
   },
   {
     "id": 154,
@@ -1672,7 +1825,8 @@
       "Hình dạng",
       "Đánh"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 1
   },
   {
     "id": 155,
@@ -1683,7 +1837,8 @@
       "そこ",
       "どこ"
     ],
-    "correctAnswer": 1
+    "correctAnswer": 1,
+    "difficulty": 2
   },
   {
     "id": 156,
@@ -1692,7 +1847,8 @@
       "書けます",
       "書けられます"
     ],
-    "correctAnswer": 1
+    "correctAnswer": 1,
+    "difficulty": 3
   },
   {
     "id": 157,
@@ -1703,7 +1859,8 @@
       "じふん",
       "じぶん"
     ],
-    "correctAnswer": 2
+    "correctAnswer": 2,
+    "difficulty": 2
   },
   {
     "id": 158,
@@ -1714,7 +1871,8 @@
       "そこ",
       "どこ"
     ],
-    "correctAnswer": 2
+    "correctAnswer": 2,
+    "difficulty": 2
   },
   {
     "id": 159,
@@ -1725,7 +1883,8 @@
       "空",
       "蔵"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 1
   },
   {
     "id": 160,
@@ -1736,7 +1895,8 @@
       "つきます",
       "まんが"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 1
   },
   {
     "id": 161,
@@ -1747,7 +1907,8 @@
       "Góc",
       "Thứ~"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 1
   },
   {
     "id": 162,
@@ -1758,7 +1919,8 @@
       "Con rắn",
       "Con rết"
     ],
-    "correctAnswer": 1
+    "correctAnswer": 1,
+    "difficulty": 1
   },
   {
     "id": 163,
@@ -1769,7 +1931,8 @@
       "たてます",
       "～がわ"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 1
   },
   {
     "id": 164,
@@ -1780,7 +1943,8 @@
       "つきます",
       "カーテン"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 1
   },
   {
     "id": 165,
@@ -1791,7 +1955,8 @@
       "Thứ~",
       "Tối qua"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 1
   },
   {
     "id": 166,
@@ -1802,6 +1967,7 @@
       "にちようだいく",
       "まんが"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 1
   }
 ]

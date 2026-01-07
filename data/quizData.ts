@@ -117,14 +117,87 @@ export function getQuizData(lessonNumber: number): QuizQuestion[] {
   return quizDataByLesson[lessonNumber] || quizDataByLesson[1] || [];
 }
 
-export function getRandomQuizData(lessonNumber: number, numQuestions: number = 25): QuizQuestion[] {
+/**
+ * Get random quiz questions with balanced difficulty distribution
+ * 
+ * Default distribution for 25 questions:
+ * - Level 1 (Easiest): 5 questions (20%)
+ * - Level 2 (Easy): 7 questions (28%)
+ * - Level 3 (Medium): 8 questions (32%)
+ * - Level 4 (Hard): 4 questions (16%)
+ * - Level 5 (Very Hard): 1 question (4%)
+ * 
+ * If there are not enough questions for a difficulty level, questions from other levels will be used to ensure the total count
+ */
+export function getRandomQuizData(
+  lessonNumber: number, 
+  numQuestions: number = 25
+): QuizQuestion[] {
   const allQuestions = getQuizData(lessonNumber);
   if (allQuestions.length === 0) {
     return [];
   }
   
-  const shuffled = shuffleArray([...allQuestions]);
-  return shuffled.slice(0, Math.min(numQuestions, shuffled.length));
+  // Classify questions by difficulty level
+  const questionsByDifficulty: Record<number, QuizQuestion[]> = {
+    1: [],
+    2: [],
+    3: [],
+    4: [],
+    5: []
+  };
+  
+  allQuestions.forEach((q) => {
+    const difficulty = q.difficulty || 3; // Default to 3 if not set
+    if (difficulty >= 1 && difficulty <= 5) {
+      questionsByDifficulty[difficulty].push(q);
+    }
+  });
+  
+  // Calculate target count for each difficulty level (ratios as above)
+  const getTargetCount = (total: number, ratio: number) => {
+    return Math.max(1, Math.floor(total * ratio));
+  };
+  
+  const targetCounts = {
+    1: getTargetCount(numQuestions, 0.20), // 20%
+    2: getTargetCount(numQuestions, 0.28), // 28%
+    3: getTargetCount(numQuestions, 0.32), // 32%
+    4: getTargetCount(numQuestions, 0.16), // 16%
+    5: getTargetCount(numQuestions, 0.04)  // 4%
+  };
+  
+  const selectedQuestions: QuizQuestion[] = [];
+  
+  // Select questions from each difficulty level
+  const levels: (1 | 2 | 3 | 4 | 5)[] = [1, 2, 3, 4, 5];
+  levels.forEach((level) => {
+    const available = shuffleArray([...questionsByDifficulty[level]]);
+    const count = Math.min(targetCounts[level], available.length);
+    selectedQuestions.push(...available.slice(0, count));
+  });
+  
+  // If not enough questions, fill from other difficulty levels
+  if (selectedQuestions.length < numQuestions) {
+    const remaining = numQuestions - selectedQuestions.length;
+    const allRemaining: QuizQuestion[] = [];
+    
+    levels.forEach((level) => {
+      const available = shuffleArray([...questionsByDifficulty[level]]);
+      const alreadySelected = selectedQuestions.filter(q => 
+        questionsByDifficulty[level].includes(q)
+      );
+      const remainingFromLevel = available.filter(q => !alreadySelected.includes(q));
+      allRemaining.push(...remainingFromLevel);
+    });
+    
+    const shuffledRemaining = shuffleArray(allRemaining);
+    selectedQuestions.push(...shuffledRemaining.slice(0, remaining));
+  }
+  
+  // Shuffle and limit to target count
+  const finalQuestions = shuffleArray(selectedQuestions);
+  return finalQuestions.slice(0, Math.min(numQuestions, finalQuestions.length));
 }
 
 export const sampleQuizData: QuizQuestion[] = quizDataByLesson[1] || [];

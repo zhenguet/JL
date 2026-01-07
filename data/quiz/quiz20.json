@@ -8,7 +8,8 @@
       "物話",
       "物語"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 1
   },
   {
     "id": 2,
@@ -17,7 +18,8 @@
       "いない",
       "いらない"
     ],
-    "correctAnswer": 1
+    "correctAnswer": 1,
+    "difficulty": 3
   },
   {
     "id": 3,
@@ -28,7 +30,8 @@
       "でんげんします",
       "でんわします"
     ],
-    "correctAnswer": 3
+    "correctAnswer": 3,
+    "difficulty": 2
   },
   {
     "id": 4,
@@ -39,7 +42,8 @@
       "ばしょ",
       "サラリーマン"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 1
   },
   {
     "id": 5,
@@ -50,7 +54,8 @@
       "Từ, tiếng",
       "Văn hoá"
     ],
-    "correctAnswer": 2
+    "correctAnswer": 2,
+    "difficulty": 1
   },
   {
     "id": 6,
@@ -61,7 +66,8 @@
       "nếu bạn thích, nếu được, nếu ổn",
       "đằng nào, phía nào (cách nói tự nhiên, thân mật của \"dochira\")"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 1
   },
   {
     "id": 7,
@@ -72,7 +78,8 @@
       "ぶっか",
       "ぼく"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 1
   },
   {
     "id": 8,
@@ -83,7 +90,8 @@
       "そこ",
       "どこ"
     ],
-    "correctAnswer": 1
+    "correctAnswer": 1,
+    "difficulty": 2
   },
   {
     "id": 9,
@@ -94,7 +102,8 @@
       "ばしょ",
       "ビザ"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 1
   },
   {
     "id": 10,
@@ -105,7 +114,8 @@
       "サラリーマン",
       "～くん"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 1
   },
   {
     "id": 11,
@@ -114,7 +124,8 @@
       "わからない",
       "わからなかった"
     ],
-    "correctAnswer": 1
+    "correctAnswer": 1,
+    "difficulty": 2
   },
   {
     "id": 12,
@@ -125,7 +136,8 @@
       "おわり",
       "はじめ"
     ],
-    "correctAnswer": 2
+    "correctAnswer": 2,
+    "difficulty": 1
   },
   {
     "id": 13,
@@ -136,7 +148,8 @@
       "そこ",
       "どこ"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 2
   },
   {
     "id": 14,
@@ -147,7 +160,8 @@
       "どっち",
       "ビザ"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 1
   },
   {
     "id": 15,
@@ -158,7 +172,8 @@
       "おわり",
       "どうしようかな"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 1
   },
   {
     "id": 16,
@@ -169,7 +184,8 @@
       "どうするの？",
       "はじめ"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 1
   },
   {
     "id": 17,
@@ -180,7 +196,8 @@
       "mình, tớ (từ thay cho \"watashi\", đàn ông tự xưng một cách tự nhiên trong không khí thân mật với nhau)",
       "đầu tiên, lúc đầu"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 1
   },
   {
     "id": 18,
@@ -191,7 +208,8 @@
       "そちら",
       "どちら"
     ],
-    "correctAnswer": 1
+    "correctAnswer": 1,
+    "difficulty": 2
   },
   {
     "id": 19,
@@ -202,7 +220,8 @@
       "どうするの？",
       "ぶっか"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 2
   },
   {
     "id": 20,
@@ -213,7 +232,8 @@
       "ビザ",
       "～けど"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 1
   },
   {
     "id": 21,
@@ -224,7 +244,8 @@
       "kết thúc, cuối",
       "đầu tiên, lúc đầu"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 1
   },
   {
     "id": 22,
@@ -235,7 +256,8 @@
       "それ",
       "どれ"
     ],
-    "correctAnswer": 1
+    "correctAnswer": 1,
+    "difficulty": 2
   },
   {
     "id": 23,
@@ -244,7 +266,8 @@
       "から",
       "けど"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 3
   },
   {
     "id": 24,
@@ -255,7 +278,8 @@
       "どうするの？",
       "サラリーマン"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 1
   },
   {
     "id": 25,
@@ -266,7 +290,8 @@
       "みんな",
       "みんなで"
     ],
-    "correctAnswer": 3
+    "correctAnswer": 3,
+    "difficulty": 1
   },
   {
     "id": 26,
@@ -277,7 +302,8 @@
       "それ",
       "どれ"
     ],
-    "correctAnswer": 1
+    "correctAnswer": 1,
+    "difficulty": 2
   },
   {
     "id": 27,
@@ -286,7 +312,8 @@
       "撮った？",
       "撮る？"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 3
   },
   {
     "id": 28,
@@ -297,7 +324,8 @@
       "そちら",
       "どちら"
     ],
-    "correctAnswer": 1
+    "correctAnswer": 1,
+    "difficulty": 2
   },
   {
     "id": 29,
@@ -308,7 +336,8 @@
       "kimono (trang phục truyền thống của Nhật Bản)",
       "nếu bạn thích, nếu được, nếu ổn"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 1
   },
   {
     "id": 30,
@@ -317,7 +346,8 @@
       "もらう",
       "もらった"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 3
   },
   {
     "id": 31,
@@ -328,7 +358,8 @@
       "こっち",
       "そっち"
     ],
-    "correctAnswer": 1
+    "correctAnswer": 1,
+    "difficulty": 1
   },
   {
     "id": 32,
@@ -337,7 +368,8 @@
       "知らない",
       "知らなかった"
     ],
-    "correctAnswer": 1
+    "correctAnswer": 1,
+    "difficulty": 2
   },
   {
     "id": 33,
@@ -348,7 +380,8 @@
       "そちら",
       "どちら"
     ],
-    "correctAnswer": 1
+    "correctAnswer": 1,
+    "difficulty": 2
   },
   {
     "id": 34,
@@ -359,7 +392,8 @@
       "夛　",
       "妹"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 1
   },
   {
     "id": 35,
@@ -368,7 +402,8 @@
       "欲しい",
       "欲しくない"
     ],
-    "correctAnswer": 1
+    "correctAnswer": 1,
+    "difficulty": 3
   },
   {
     "id": 36,
@@ -379,7 +414,8 @@
       "ぶっか",
       "サラリーマン"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 1
   },
   {
     "id": 37,
@@ -390,7 +426,8 @@
       "それ",
       "どれ"
     ],
-    "correctAnswer": 1
+    "correctAnswer": 1,
+    "difficulty": 3
   },
   {
     "id": 38,
@@ -401,7 +438,8 @@
       "そこ",
       "どこ"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 2
   },
   {
     "id": 39,
@@ -412,7 +450,8 @@
       "ビザ",
       "～けど"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 1
   },
   {
     "id": 40,
@@ -423,7 +462,8 @@
       "どうしようかな",
       "どうするの？"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 1
   },
   {
     "id": 41,
@@ -434,7 +474,8 @@
       "そちら",
       "どちら"
     ],
-    "correctAnswer": 1
+    "correctAnswer": 1,
+    "difficulty": 2
   },
   {
     "id": 42,
@@ -445,7 +486,8 @@
       "どうしようかな",
       "サラリーマン"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 1
   },
   {
     "id": 43,
@@ -456,7 +498,8 @@
       "このあいだ",
       "ぼく"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 1
   },
   {
     "id": 44,
@@ -465,7 +508,8 @@
       "が",
       "を"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 2
   },
   {
     "id": 45,
@@ -476,7 +520,8 @@
       "kimono (trang phục truyền thống của Nhật Bản)",
       "nếu bạn thích, nếu được, nếu ổn"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 1
   },
   {
     "id": 46,
@@ -487,7 +532,8 @@
       "こっち",
       "そっち"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 1
   },
   {
     "id": 47,
@@ -498,7 +544,8 @@
       "しゅりいします",
       "しゅりします"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 2
   },
   {
     "id": 48,
@@ -509,7 +556,8 @@
       "そこ",
       "どこ"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 2
   },
   {
     "id": 49,
@@ -520,7 +568,8 @@
       "tất cả mọi người",
       "đằng đó (cách nói tự nhiên của, thân mật \"sochira\")"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 1
   },
   {
     "id": 50,
@@ -531,7 +580,8 @@
       "そっち",
       "どっち"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 1
   },
   {
     "id": 51,
@@ -542,7 +592,8 @@
       "đằng nào, phía nào (cách nói tự nhiên, thân mật của \"dochira\")",
       "đằng đó (cách nói tự nhiên của, thân mật \"sochira\")"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 1
   },
   {
     "id": 52,
@@ -553,7 +604,8 @@
       "từ, từ ngữ, từ vựng",
       "đằng này (cách nói tự nhiên, thân mật của \"kochira\")"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 1
   },
   {
     "id": 53,
@@ -564,7 +616,8 @@
       "そこ",
       "どこ"
     ],
-    "correctAnswer": 2
+    "correctAnswer": 2,
+    "difficulty": 2
   },
   {
     "id": 54,
@@ -575,7 +628,8 @@
       "đầu tiên, lúc đầu",
       "đằng nào, phía nào (cách nói tự nhiên, thân mật của \"dochira\")"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 1
   },
   {
     "id": 55,
@@ -586,7 +640,8 @@
       "ぼく",
       "まっているよ"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 2
   },
   {
     "id": 56,
@@ -597,7 +652,8 @@
       "はじめ",
       "みんなで"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 1
   },
   {
     "id": 57,
@@ -608,7 +664,8 @@
       "そこ",
       "どこ"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 2
   },
   {
     "id": 58,
@@ -619,7 +676,8 @@
       "それ",
       "どれ"
     ],
-    "correctAnswer": 1
+    "correctAnswer": 1,
+    "difficulty": 2
   },
   {
     "id": 59,
@@ -630,7 +688,8 @@
       "tất cả mọi người",
       "đầu tiên, lúc đầu"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 1
   },
   {
     "id": 60,
@@ -641,7 +700,8 @@
       "đằng kia (cách nói tự nhiên, thân mật của \"achira\")",
       "đằng đó (cách nói tự nhiên của, thân mật \"sochira\")"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 1
   },
   {
     "id": 61,
@@ -652,7 +712,8 @@
       "どっち",
       "ばしょ"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 2
   },
   {
     "id": 62,
@@ -663,7 +724,8 @@
       "kết thúc, cuối",
       "nhưng (dạng thông thường của \"ga\")"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 1
   },
   {
     "id": 63,
@@ -674,7 +736,8 @@
       "みんなで",
       "よかったら"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 1
   },
   {
     "id": 64,
@@ -685,7 +748,8 @@
       "みんなで",
       "ビザ"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 1
   },
   {
     "id": 65,
@@ -696,7 +760,8 @@
       "visa, hộ chiếu",
       "đằng này (cách nói tự nhiên, thân mật của \"kochira\")"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 1
   },
   {
     "id": 66,
@@ -707,7 +772,8 @@
       "みんなで",
       "～くん"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 2
   },
   {
     "id": 67,
@@ -718,7 +784,8 @@
       "それ",
       "どれ"
     ],
-    "correctAnswer": 1
+    "correctAnswer": 1,
+    "difficulty": 3
   },
   {
     "id": 68,
@@ -727,7 +794,8 @@
       "あらない",
       "ない"
     ],
-    "correctAnswer": 1
+    "correctAnswer": 1,
+    "difficulty": 2
   },
   {
     "id": 69,
@@ -738,7 +806,8 @@
       "そちら",
       "どちら"
     ],
-    "correctAnswer": 1
+    "correctAnswer": 1,
+    "difficulty": 2
   },
   {
     "id": 70,
@@ -749,7 +818,8 @@
       "どうするの？",
       "ビザ"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 1
   },
   {
     "id": 71,
@@ -760,7 +830,8 @@
       "Hôm qua",
       "Lúc nãy"
     ],
-    "correctAnswer": 1
+    "correctAnswer": 1,
+    "difficulty": 1
   },
   {
     "id": 72,
@@ -771,7 +842,8 @@
       "そこ",
       "どこ"
     ],
-    "correctAnswer": 1
+    "correctAnswer": 1,
+    "difficulty": 2
   },
   {
     "id": 73,
@@ -782,7 +854,8 @@
       "そこ",
       "どこ"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 2
   },
   {
     "id": 74,
@@ -793,7 +866,8 @@
       "まっているよ",
       "みんなで"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 1
   },
   {
     "id": 75,
@@ -804,7 +878,8 @@
       "chứng minh",
       "hộ chiếu"
     ],
-    "correctAnswer": 1
+    "correctAnswer": 1,
+    "difficulty": 1
   },
   {
     "id": 76,
@@ -813,7 +888,8 @@
       "あった",
       "ある"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 1
   },
   {
     "id": 77,
@@ -824,7 +900,8 @@
       "ビザ",
       "～くん"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 2
   },
   {
     "id": 78,
@@ -835,7 +912,8 @@
       "ぶっか",
       "ぼく"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 1
   },
   {
     "id": 79,
@@ -846,7 +924,8 @@
       "それ",
       "どれ"
     ],
-    "correctAnswer": 1
+    "correctAnswer": 1,
+    "difficulty": 2
   },
   {
     "id": 80,
@@ -857,7 +936,8 @@
       "そこ",
       "どこ"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 2
   },
   {
     "id": 81,
@@ -868,7 +948,8 @@
       "そちら",
       "どちら"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 2
   },
   {
     "id": 82,
@@ -879,7 +960,8 @@
       "まっているよ",
       "～くん"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 1
   },
   {
     "id": 83,
@@ -890,7 +972,8 @@
       "そこ",
       "どこ"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 2
   },
   {
     "id": 84,
@@ -901,7 +984,8 @@
       "Một chút",
       "Nhiều thứ"
     ],
-    "correctAnswer": 3
+    "correctAnswer": 3,
+    "difficulty": 1
   },
   {
     "id": 85,
@@ -912,7 +996,8 @@
       "visa, hộ chiếu",
       "đằng kia (cách nói tự nhiên, thân mật của \"achira\")"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 1
   },
   {
     "id": 86,
@@ -923,7 +1008,8 @@
       "嫡じめ",
       "松め"
     ],
-    "correctAnswer": 2
+    "correctAnswer": 2,
+    "difficulty": 1
   },
   {
     "id": 87,
@@ -934,7 +1020,8 @@
       "đằng nào, phía nào (cách nói tự nhiên, thân mật của \"dochira\")",
       "đằng đó (cách nói tự nhiên của, thân mật \"sochira\")"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 1
   },
   {
     "id": 88,
@@ -945,7 +1032,8 @@
       "ぼく",
       "ビザ"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 2
   },
   {
     "id": 89,
@@ -956,7 +1044,8 @@
       "nếu bạn thích, nếu được, nếu ổn",
       "đằng này (cách nói tự nhiên, thân mật của \"kochira\")"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 1
   },
   {
     "id": 90,
@@ -967,7 +1056,8 @@
       "そちら",
       "どちら"
     ],
-    "correctAnswer": 2
+    "correctAnswer": 2,
+    "difficulty": 2
   },
   {
     "id": 91,
@@ -978,7 +1068,8 @@
       "ぼく",
       "まっているよ"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 1
   },
   {
     "id": 92,
@@ -989,7 +1080,8 @@
       "mình, tớ (từ thay cho \"watashi\", đàn ông tự xưng một cách tự nhiên trong không khí thân mật với nhau)",
       "từ, từ ngữ, từ vựng"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 1
   },
   {
     "id": 93,
@@ -1000,7 +1092,8 @@
       "よかったら",
       "～けど"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 1
   },
   {
     "id": 94,
@@ -1009,7 +1102,8 @@
       "結婚している",
       "結婚する"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 2
   },
   {
     "id": 95,
@@ -1020,7 +1114,8 @@
       "ビザ",
       "～けど"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 1
   },
   {
     "id": 96,
@@ -1031,7 +1126,8 @@
       "ばしょ",
       "ぼく"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 2
   },
   {
     "id": 97,
@@ -1042,7 +1138,8 @@
       "ぼく",
       "みんなで"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 1
   },
   {
     "id": 98,
@@ -1053,7 +1150,8 @@
       "そちら",
       "どちら"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 2
   },
   {
     "id": 99,
@@ -1064,7 +1162,8 @@
       "どっち",
       "～くん"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 1
   },
   {
     "id": 100,
@@ -1073,7 +1172,8 @@
       "行きました",
       "行ったです"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 3
   },
   {
     "id": 101,
@@ -1084,7 +1184,8 @@
       "そこ",
       "どこ"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 2
   },
   {
     "id": 102,
@@ -1093,7 +1194,8 @@
       "会った",
       "会わなかった"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 2
   },
   {
     "id": 103,
@@ -1104,7 +1206,8 @@
       "nhân viên công ty, cán bộ, người làm công ăn lương",
       "nếu bạn thích, nếu được, nếu ổn"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 1
   },
   {
     "id": 104,
@@ -1115,7 +1218,8 @@
       "それ",
       "どれ"
     ],
-    "correctAnswer": 1
+    "correctAnswer": 1,
+    "difficulty": 2
   },
   {
     "id": 105,
@@ -1126,7 +1230,8 @@
       "でんわします",
       "ぶっか"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 2
   },
   {
     "id": 106,
@@ -1135,7 +1240,8 @@
       "要らない？",
       "要る？"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 2
   },
   {
     "id": 107,
@@ -1146,7 +1252,8 @@
       "どっち",
       "～くん"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 2
   },
   {
     "id": 108,
@@ -1157,7 +1264,8 @@
       "そちら",
       "どちら"
     ],
-    "correctAnswer": 2
+    "correctAnswer": 2,
+    "difficulty": 2
   },
   {
     "id": 109,
@@ -1168,7 +1276,8 @@
       "mình sẽ thế nào à?",
       "mình, tớ (từ thay cho \"watashi\", đàn ông tự xưng một cách tự nhiên trong không khí thân mật với nhau)"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 1
   },
   {
     "id": 110,
@@ -1179,7 +1288,8 @@
       "じしょがいります",
       "でんわします"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 1
   },
   {
     "id": 111,
@@ -1188,7 +1298,8 @@
       "知っていない",
       "知らない"
     ],
-    "correctAnswer": 1
+    "correctAnswer": 1,
+    "difficulty": 2
   },
   {
     "id": 112,
@@ -1199,7 +1310,8 @@
       "どうしようかな",
       "ぼく"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 1
   },
   {
     "id": 113,
@@ -1208,7 +1320,8 @@
       "はい、行きます",
       "はい、行きません"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 2
   },
   {
     "id": 114,
@@ -1219,7 +1332,8 @@
       "ぶっか",
       "まっているよ"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 1
   },
   {
     "id": 115,
@@ -1230,7 +1344,8 @@
       "gọi điện thoại",
       "nghiên cứu, kiểm tra, điều tra"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 1
   },
   {
     "id": 116,
@@ -1240,7 +1355,8 @@
       "着物",
       "荷物"
     ],
-    "correctAnswer": 2
+    "correctAnswer": 2,
+    "difficulty": 1
   },
   {
     "id": 117,
@@ -1249,7 +1365,8 @@
       "できない？",
       "できる？"
     ],
-    "correctAnswer": 1
+    "correctAnswer": 1,
+    "difficulty": 1
   },
   {
     "id": 118,
@@ -1258,7 +1375,8 @@
       "いい",
       "よかった"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 2
   },
   {
     "id": 119,
@@ -1269,7 +1387,8 @@
       "mình sẽ thế nào à?",
       "nhân viên công ty, cán bộ, người làm công ăn lương"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 1
   },
   {
     "id": 120,
@@ -1280,7 +1399,8 @@
       "tớ chờ cậu nhé. mình sẽ chờ đấy!",
       "ừ (cách nói tự nhiên, thân mật của \"hai\")"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 1
   },
   {
     "id": 121,
@@ -1291,7 +1411,8 @@
       "mấy hôm gần đây, mấy hôm trước",
       "nghiên cứu, kiểm tra, điều tra"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 1
   },
   {
     "id": 122,
@@ -1302,7 +1423,8 @@
       "なあします",
       "なおします"
     ],
-    "correctAnswer": 2
+    "correctAnswer": 2,
+    "difficulty": 2
   },
   {
     "id": 123,
@@ -1311,7 +1433,8 @@
       "なに",
       "なん"
     ],
-    "correctAnswer": 1
+    "correctAnswer": 1,
+    "difficulty": 1
   },
   {
     "id": 124,
@@ -1322,7 +1445,8 @@
       "ぼく",
       "～くん"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 2
   },
   {
     "id": 125,
@@ -1333,7 +1457,8 @@
       "じしょがいります",
       "みんなで"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 1
   },
   {
     "id": 126,
@@ -1342,7 +1467,8 @@
       "大変なかった？",
       "大変？"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 3
   },
   {
     "id": 127,
@@ -1353,7 +1479,8 @@
       "サラリーマン",
       "～けど"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 1
   },
   {
     "id": 128,
@@ -1364,7 +1491,8 @@
       "そちら",
       "どちら"
     ],
-    "correctAnswer": 2
+    "correctAnswer": 2,
+    "difficulty": 2
   },
   {
     "id": 129,
@@ -1375,7 +1503,8 @@
       "このあいだ",
       "はじめ"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 1
   },
   {
     "id": 130,
@@ -1386,7 +1515,8 @@
       "でんわします",
       "どうするの？"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 1
   },
   {
     "id": 131,
@@ -1397,7 +1527,8 @@
       "từ, từ ngữ, từ vựng",
       "đằng kia (cách nói tự nhiên, thân mật của \"achira\")"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 1
   },
   {
     "id": 132,
@@ -1408,7 +1539,8 @@
       "そこ",
       "どこ"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 2
   },
   {
     "id": 133,
@@ -1419,7 +1551,8 @@
       "よかったら",
       "ビザ"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 1
   },
   {
     "id": 134,
@@ -1430,7 +1563,8 @@
       "しらべます",
       "サラリーマン"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 1
   },
   {
     "id": 135,
@@ -1441,7 +1575,8 @@
       "どっち",
       "ぶっか"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 1
   },
   {
     "id": 136,
@@ -1452,7 +1587,8 @@
       "そちら",
       "どちら"
     ],
-    "correctAnswer": 1
+    "correctAnswer": 1,
+    "difficulty": 2
   },
   {
     "id": 137,
@@ -1463,7 +1599,8 @@
       "kết thúc, cuối",
       "mình sẽ thế nào à?"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 1
   },
   {
     "id": 138,
@@ -1474,7 +1611,8 @@
       "kimono (trang phục truyền thống của Nhật Bản)",
       "nhưng (dạng thông thường của \"ga\")"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 1
   },
   {
     "id": 139,
@@ -1485,7 +1623,8 @@
       "じまべます",
       "じらべます"
     ],
-    "correctAnswer": 1
+    "correctAnswer": 1,
+    "difficulty": 2
   },
   {
     "id": 140,
@@ -1496,7 +1635,8 @@
       "しります",
       "みります"
     ],
-    "correctAnswer": 3
+    "correctAnswer": 3,
+    "difficulty": 2
   },
   {
     "id": 141,
@@ -1507,7 +1647,8 @@
       "よかったら",
       "～けど"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 1
   },
   {
     "id": 142,
@@ -1518,7 +1659,8 @@
       "visa, hộ chiếu",
       "ừ (cách nói tự nhiên, thân mật của \"hai\")"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 1
   },
   {
     "id": 143,
@@ -1529,7 +1671,8 @@
       "không (cách nói tự nhiên, thân mật của \"iie\")",
       "từ, từ ngữ, từ vựng"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 1
   },
   {
     "id": 144,
@@ -1540,7 +1683,8 @@
       "こっち",
       "ぼく"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 1
   },
   {
     "id": 145,
@@ -1549,7 +1693,8 @@
       "はい、あしたです",
       "はい、もうしました"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 2
   },
   {
     "id": 146,
@@ -1560,7 +1705,8 @@
       "こっち",
       "ばしょ"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 1
   },
   {
     "id": 147,
@@ -1571,7 +1717,8 @@
       "そこ",
       "どこ"
     ],
-    "correctAnswer": 2
+    "correctAnswer": 2,
+    "difficulty": 2
   },
   {
     "id": 148,
@@ -1582,7 +1729,8 @@
       "こっち",
       "ぶっか"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 1
   },
   {
     "id": 149,
@@ -1591,7 +1739,8 @@
       "いいえ、好きです",
       "はい、好きです"
     ],
-    "correctAnswer": 1
+    "correctAnswer": 1,
+    "difficulty": 2
   },
   {
     "id": 150,
@@ -1602,7 +1751,8 @@
       "サラリーマン",
       "～くん"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 2
   },
   {
     "id": 151,
@@ -1613,7 +1763,8 @@
       "ばしょ",
       "ビザ"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 1
   },
   {
     "id": 152,
@@ -1624,7 +1775,8 @@
       "はじめ",
       "みんなで"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 1
   },
   {
     "id": 153,
@@ -1635,7 +1787,8 @@
       "よかったら",
       "ビザ"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 1
   },
   {
     "id": 154,
@@ -1646,7 +1799,8 @@
       "そちら",
       "どちら"
     ],
-    "correctAnswer": 2
+    "correctAnswer": 2,
+    "difficulty": 2
   },
   {
     "id": 155,
@@ -1657,7 +1811,8 @@
       "こっち",
       "～けど"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 1
   },
   {
     "id": 156,
@@ -1668,7 +1823,8 @@
       "それ",
       "どれ"
     ],
-    "correctAnswer": 1
+    "correctAnswer": 1,
+    "difficulty": 2
   },
   {
     "id": 157,
@@ -1677,7 +1833,8 @@
       "いいえ、好きです",
       "いいえ、行きませんでした"
     ],
-    "correctAnswer": 1
+    "correctAnswer": 1,
+    "difficulty": 3
   },
   {
     "id": 158,
@@ -1688,7 +1845,8 @@
       "ぼく",
       "よかったら"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 1
   },
   {
     "id": 159,
@@ -1697,7 +1855,8 @@
       "はい、その人です",
       "男の人です"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 3
   },
   {
     "id": 160,
@@ -1708,7 +1867,8 @@
       "どっち",
       "よかったら"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 1
   },
   {
     "id": 161,
@@ -1719,7 +1879,8 @@
       "業",
       "樸"
     ],
-    "correctAnswer": 3
+    "correctAnswer": 3,
+    "difficulty": 1
   },
   {
     "id": 162,
@@ -1730,7 +1891,8 @@
       "どうしようかな",
       "よかったか"
     ],
-    "correctAnswer": 2
+    "correctAnswer": 2,
+    "difficulty": 1
   },
   {
     "id": 163,
@@ -1741,7 +1903,8 @@
       "きみ",
       "～けど"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 1
   },
   {
     "id": 164,
@@ -1752,7 +1915,8 @@
       "そちら",
       "どちら"
     ],
-    "correctAnswer": 1
+    "correctAnswer": 1,
+    "difficulty": 2
   },
   {
     "id": 165,
@@ -1763,7 +1927,8 @@
       "どっち",
       "よかったら"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 1
   },
   {
     "id": 166,
@@ -1774,7 +1939,8 @@
       "Người làm việc cho công ty",
       "Nhân viên ngân hàng"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 1
   },
   {
     "id": 167,
@@ -1785,7 +1951,8 @@
       "ばしょ",
       "よかったら"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 1
   },
   {
     "id": 168,
@@ -1796,7 +1963,8 @@
       "không (cách nói tự nhiên, thân mật của \"iie\")",
       "đằng đó (cách nói tự nhiên của, thân mật \"sochira\")"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 1
   },
   {
     "id": 169,
@@ -1805,7 +1973,8 @@
       "難しいでした",
       "難しかったです"
     ],
-    "correctAnswer": 1
+    "correctAnswer": 1,
+    "difficulty": 3
   },
   {
     "id": 170,
@@ -1816,7 +1985,8 @@
       "でんわします",
       "どうしようかな"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 1
   },
   {
     "id": 171,
@@ -1825,7 +1995,8 @@
       "休みじゃない",
       "休みじゃなかった"
     ],
-    "correctAnswer": 1
+    "correctAnswer": 1,
+    "difficulty": 2
   },
   {
     "id": 172,
@@ -1836,7 +2007,8 @@
       "どうするの？",
       "よかったら"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 1
   },
   {
     "id": 173,
@@ -1847,7 +2019,8 @@
       "ぼく",
       "まっているよ"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 2
   },
   {
     "id": 174,
@@ -1858,7 +2031,8 @@
       "nhưng (dạng thông thường của \"ga\")",
       "đầu tiên, lúc đầu"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 1
   },
   {
     "id": 175,
@@ -1867,7 +2041,8 @@
       "よくない",
       "よくなかった"
     ],
-    "correctAnswer": 1
+    "correctAnswer": 1,
+    "difficulty": 2
   },
   {
     "id": 176,
@@ -1878,7 +2053,8 @@
       "đằng này (cách nói tự nhiên, thân mật của \"kochira\")",
       "ừ (cách nói tự nhiên, thân mật của \"hai\")"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 1
   },
   {
     "id": 177,
@@ -1889,7 +2065,8 @@
       "はじめ",
       "みんなで"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 1
   },
   {
     "id": 178,
@@ -1900,7 +2077,8 @@
       "cần, cần có [từ điển]",
       "giá cả, vật giá"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 1
   },
   {
     "id": 179,
@@ -1909,6 +2087,7 @@
       "持っていかなくてもいい",
       "持って行かなくてはいけない"
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "difficulty": 5
   }
 ]

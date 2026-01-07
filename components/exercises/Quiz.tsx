@@ -8,6 +8,15 @@ export interface QuizQuestion {
   question: string;
   options: string[];
   correctAnswer: number;
+  /**
+   * Question difficulty level: 1 (easiest) to 5 (hardest)
+   * - 1: Basic questions, simple vocabulary, no kanji or with furigana
+   * - 2: Medium questions, some kanji with furigana, basic grammar
+   * - 3: Medium-hard questions, kanji present, more complex grammar
+   * - 4: Hard questions, many kanji, advanced grammar, long sentences
+   * - 5: Very hard questions, complex grammar, advanced vocabulary, very long sentences
+   */
+  difficulty?: number;
 }
 
 interface ShuffledQuestion extends QuizQuestion {
