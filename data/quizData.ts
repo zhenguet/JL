@@ -1,6 +1,24 @@
 import { QuizQuestion } from '@/components/exercises/Quiz';
 import quiz1 from './quiz/quiz1.json';
+import quiz1_set2 from './quiz/quiz1_set2.json';
+import quiz1_set3 from './quiz/quiz1_set3.json';
+import quiz1_set4 from './quiz/quiz1_set4.json';
+import quiz1_set5 from './quiz/quiz1_set5.json';
+import quiz1_set6 from './quiz/quiz1_set6.json';
+import quiz1_set7 from './quiz/quiz1_set7.json';
+import quiz1_set8 from './quiz/quiz1_set8.json';
+import quiz1_set9 from './quiz/quiz1_set9.json';
+import quiz1_set10 from './quiz/quiz1_set10.json';
 import quiz2 from './quiz/quiz2.json';
+import quiz2_set2 from './quiz/quiz2_set2.json';
+import quiz2_set3 from './quiz/quiz2_set3.json';
+import quiz2_set4 from './quiz/quiz2_set4.json';
+import quiz2_set5 from './quiz/quiz2_set5.json';
+import quiz2_set6 from './quiz/quiz2_set6.json';
+import quiz2_set7 from './quiz/quiz2_set7.json';
+import quiz2_set8 from './quiz/quiz2_set8.json';
+import quiz2_set9 from './quiz/quiz2_set9.json';
+import quiz2_set10 from './quiz/quiz2_set10.json';
 import quiz3 from './quiz/quiz3.json';
 import quiz4 from './quiz/quiz4.json';
 import quiz5 from './quiz/quiz5.json';
@@ -103,8 +121,54 @@ const quizDataByLesson: Record<number, QuizQuestion[]> = {
   50: quiz50 as QuizQuestion[],
 };
 
-export function getQuizData(lessonNumber: number): QuizQuestion[] {
+const quizSetsByLesson: Record<number, Record<number, QuizQuestion[]>> = {
+  1: {
+    1: quiz1 as QuizQuestion[],
+    2: quiz1_set2 as QuizQuestion[],
+    3: quiz1_set3 as QuizQuestion[],
+    4: quiz1_set4 as QuizQuestion[],
+    5: quiz1_set5 as QuizQuestion[],
+    6: quiz1_set6 as QuizQuestion[],
+    7: quiz1_set7 as QuizQuestion[],
+    8: quiz1_set8 as QuizQuestion[],
+    9: quiz1_set9 as QuizQuestion[],
+    10: quiz1_set10 as QuizQuestion[],
+  },
+  2: {
+    1: quiz2 as QuizQuestion[],
+    2: quiz2_set2 as QuizQuestion[],
+    3: quiz2_set3 as QuizQuestion[],
+    4: quiz2_set4 as QuizQuestion[],
+    5: quiz2_set5 as QuizQuestion[],
+    6: quiz2_set6 as QuizQuestion[],
+    7: quiz2_set7 as QuizQuestion[],
+    8: quiz2_set8 as QuizQuestion[],
+    9: quiz2_set9 as QuizQuestion[],
+    10: quiz2_set10 as QuizQuestion[],
+  },
+};
+
+export function getQuizData(lessonNumber: number, setNumber?: number): QuizQuestion[] {
+  if (setNumber && quizSetsByLesson[lessonNumber]?.[setNumber]) {
+    return quizSetsByLesson[lessonNumber][setNumber];
+  }
   return quizDataByLesson[lessonNumber] || quizDataByLesson[1] || [];
+}
+
+export function getRandomQuizData(lessonNumber: number): QuizQuestion[] {
+  const availableSets = getAvailableQuizSets(lessonNumber);
+  if (availableSets.length === 0) {
+    return quizDataByLesson[lessonNumber] || quizDataByLesson[1] || [];
+  }
+  const randomSetNumber = availableSets[Math.floor(Math.random() * availableSets.length)];
+  return getQuizData(lessonNumber, randomSetNumber);
+}
+
+export function getAvailableQuizSets(lessonNumber: number): number[] {
+  if (quizSetsByLesson[lessonNumber]) {
+    return Object.keys(quizSetsByLesson[lessonNumber]).map(Number).sort((a, b) => a - b);
+  }
+  return quizDataByLesson[lessonNumber] ? [1] : [];
 }
 
 export const sampleQuizData: QuizQuestion[] = quizDataByLesson[1] || [];

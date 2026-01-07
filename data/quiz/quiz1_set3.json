@@ -1,0 +1,152 @@
+[
+  {
+    "id": 1,
+    "question": "<b>こちら</b>",
+    "options": ["Đây (lịch sự)", "Đó (lịch sự)", "Kia (lịch sự)", "Cái này"],
+    "correctAnswer": 0
+  },
+  {
+    "id": 2,
+    "question": "<b>ともだち</b>",
+    "options": ["Bạn bè", "Giáo viên", "Học sinh", "Đồng nghiệp"],
+    "correctAnswer": 0
+  },
+  {
+    "id": 3,
+    "question": "<b>かいわ</b>",
+    "options": ["Hội thoại", "Học tập", "Làm việc", "Nghỉ ngơi"],
+    "correctAnswer": 0
+  },
+  {
+    "id": 4,
+    "question": "<b>Bạn bè</b>",
+    "options": ["ともだち", "せんせい", "がくせい", "しゃいん"],
+    "correctAnswer": 0
+  },
+  {
+    "id": 5,
+    "question": "<b>Hội thoại</b>",
+    "options": ["かいわ", "かいしゃ", "がっこう", "びょういん"],
+    "correctAnswer": 0
+  },
+  {
+    "id": 6,
+    "question": "<b>ドイツ</b>",
+    "options": ["Đức", "Pháp", "Anh", "Mỹ"],
+    "correctAnswer": 0
+  },
+  {
+    "id": 7,
+    "question": "<b>イギリス</b>",
+    "options": ["Anh", "Mỹ", "Pháp", "Đức"],
+    "correctAnswer": 0
+  },
+  {
+    "id": 8,
+    "question": "<b>フィリピン</b>",
+    "options": ["Philippines", "Indonesia", "Malaysia", "Thái Lan"],
+    "correctAnswer": 0
+  },
+  {
+    "id": 9,
+    "question": "<b>マレーシア</b>",
+    "options": ["Malaysia", "Indonesia", "Philippines", "Singapore"],
+    "correctAnswer": 0
+  },
+  {
+    "id": 10,
+    "question": "<b>インドネシア</b>",
+    "options": ["Indonesia", "Malaysia", "Philippines", "Thái Lan"],
+    "correctAnswer": 0
+  },
+  {
+    "id": 11,
+    "question": "<b>～ちゃん</b>",
+    "options": ["Hậu tố cho bé gái", "Hậu tố cho bé trai", "Hậu tố lịch sự", "Hậu tố chỉ nghề nghiệp"],
+    "correctAnswer": 0
+  },
+  {
+    "id": 12,
+    "question": "<b>～くん</b>",
+    "options": ["Hậu tố cho bé trai", "Hậu tố cho bé gái", "Hậu tố lịch sự", "Hậu tố chỉ nghề nghiệp"],
+    "correctAnswer": 0
+  },
+  {
+    "id": 13,
+    "question": "<b>A：こちらは　リンさんです。リンさんは　がくせいです。<p>B：（　）。</p></b>",
+    "options": ["初めまして", "おなまえは？", "失礼ですが", "どうぞよろしく"],
+    "correctAnswer": 0
+  },
+  {
+    "id": 14,
+    "question": "<b>A：はじめまして。たなかです。<p>B：やまだです。（　）。</p></b>",
+    "options": ["どうぞよろしく", "失礼ですが", "おなまえは？", "こちらは"],
+    "correctAnswer": 0
+  },
+  {
+    "id": 15,
+    "question": "<b>A：失礼ですが、おなまえは？<p>B：（　）。</p></b>",
+    "options": ["たなかです", "たなかさんです", "こちらはたなかです", "たなかさんですか"],
+    "correctAnswer": 0
+  },
+  {
+    "id": 16,
+    "question": "<b>A：どちらから　きましたか。<p>B：（　）から　きました。</p></b>",
+    "options": ["インド", "インドじん", "インドの", "インドさん"],
+    "correctAnswer": 0
+  },
+  {
+    "id": 17,
+    "question": "<b>わたしは　タイ（　）です。</b>",
+    "options": ["から", "じん", "の", "さん"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 18,
+    "question": "<b>やまださんは　にほんじんです。たなかさん（　）にほんじんです。</b>",
+    "options": ["も", "の", "から", "は"],
+    "correctAnswer": 0
+  },
+  {
+    "id": 19,
+    "question": "<b>こちらは　FPT（　）しゃいんです。</b>",
+    "options": ["の", "も", "から", "は"],
+    "correctAnswer": 0
+  },
+  {
+    "id": 20,
+    "question": "<b>A：あの　かたは　どなたですか。<p>B：（　）です。</p></b>",
+    "options": ["さとうさん", "さとう", "さとうじん", "さとうから"],
+    "correctAnswer": 0
+  },
+  {
+    "id": 21,
+    "question": "<b>A：おいくつですか。<p>B：30（　）です。</p></b>",
+    "options": ["さい", "ねん", "がつ", "にち"],
+    "correctAnswer": 0
+  },
+  {
+    "id": 22,
+    "question": "<b>わたしは　せんせいです。あなた（　）せんせいですか。</b>",
+    "options": ["も", "の", "は", "から"],
+    "correctAnswer": 0
+  },
+  {
+    "id": 23,
+    "question": "<b>A：あなたは　がくせいですか。<p>B：いいえ、がくせい（　）ありません。</p></b>",
+    "options": ["じゃ", "も", "の", "から"],
+    "correctAnswer": 0
+  },
+  {
+    "id": 24,
+    "question": "<b>こちらは　わたし（　）せんせいです。</b>",
+    "options": ["の", "も", "は", "から"],
+    "correctAnswer": 0
+  },
+  {
+    "id": 25,
+    "question": "<b>A：たろうちゃんは　なんさいですか。<p>B：5（　）です。</p></b>",
+    "options": ["さい", "ねん", "がつ", "にち"],
+    "correctAnswer": 0
+  }
+]
