@@ -282,13 +282,15 @@
   }
 
   .quiz-header-wrapper {
-    margin: -10px -10px 15px -10px;
+    position: static;
+    margin: 0 0 15px 0;
     padding: 15px;
-    top: 120px;
+    top: auto;
   }
 
   .quiz-actions-wrapper {
-    margin: 15px -10px -10px -10px;
+    position: static;
+    margin: 15px 0 0 0;
     padding: 15px;
   }
 
