@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "question": "<b>～ぐらい</b>",
+    "question": "<b>khoảng ~ (ước tính số lượng hoặc thời gian)</b>",
     "options": [
       "～ぐらい",
       "～だけ",
@@ -176,17 +176,6 @@
   },
   {
     "id": 18,
-    "question": "<b>います</b>",
-    "options": [
-      "có (dùng cho người, động vật, chỉ sự sở hữu)",
-      "9 cái",
-      "khoảng bao lâu, bao nhiêu",
-      "3 cái"
-    ],
-    "correctAnswer": 0
-  },
-  {
-    "id": 19,
     "question": "<b>りんご（　）4つ（　）<ruby>買<rp>（</rp><rt>か</rt><rp>）</rp></ruby>いました。</b>",
     "options": [
       "X、を",
@@ -195,7 +184,7 @@
     "correctAnswer": 0
   },
   {
-    "id": 20,
+    "id": 19,
     "question": "<b>nước ngoài</b>",
     "options": [
       "がいこく",
@@ -206,7 +195,7 @@
     "correctAnswer": 0
   },
   {
-    "id": 21,
+    "id": 20,
     "question": "<b>A：いますは　どこですか。<p>B：（　）です。</p></b>",
     "options": [
       "ここ",
@@ -217,7 +206,7 @@
     "correctAnswer": 0
   },
   {
-    "id": 22,
+    "id": 21,
     "question": "<b><ruby>留学生<rp>（</rp><rt>りゅうがくせい</rt><rp>）</rp></ruby>が（　）います。</b>",
     "options": [
       "２人",
@@ -226,7 +215,7 @@
     "correctAnswer": 0
   },
   {
-    "id": 23,
+    "id": 22,
     "question": "<b>～にん</b>",
     "options": [
       "~ người",
@@ -237,7 +226,7 @@
     "correctAnswer": 0
   },
   {
-    "id": 24,
+    "id": 23,
     "question": "<b>A：ふたりは　どちらですか。<p>B：（　）です。</p></b>",
     "options": [
       "こちら",

@@ -94,17 +94,6 @@
   },
   {
     "id": 10,
-    "question": "<b>biết</b>",
-    "options": [
-      "しります",
-      "たちます",
-      "つかいます",
-      "とこや"
-    ],
-    "correctAnswer": 0
-  },
-  {
-    "id": 11,
     "question": "<b>A：したの「いもうと」は　どこですか。<p>B：（　）です。</p></b>",
     "options": [
       "ここ",
@@ -115,7 +104,7 @@
     "correctAnswer": 1
   },
   {
-    "id": 12,
+    "id": 11,
     "question": "<b>ここでたばこを（　）いけません。</b>",
     "options": [
       "吸っても",
@@ -124,7 +113,7 @@
     "correctAnswer": 1
   },
   {
-    "id": 13,
+    "id": 12,
     "question": "<b>プレイガイド</b>",
     "options": [
       "đại lý bán vé, phòng bán vé",
@@ -135,7 +124,7 @@
     "correctAnswer": 0
   },
   {
-    "id": 14,
+    "id": 13,
     "question": "<b>じこくひょう</b>",
     "options": [
       "thời gian biểu",
@@ -146,7 +135,7 @@
     "correctAnswer": 0
   },
   {
-    "id": 15,
+    "id": 14,
     "question": "<b>こうこう</b>",
     "options": [
       "trường trung học phổ thông",
@@ -157,7 +146,7 @@
     "correctAnswer": 0
   },
   {
-    "id": 16,
+    "id": 15,
     "question": "<b>つくります</b>",
     "options": [
       "làm, chế tạo",
@@ -168,7 +157,7 @@
     "correctAnswer": 0
   },
   {
-    "id": 17,
+    "id": 16,
     "question": "<b>ここに<ruby>荷物<rp>（</rp><rt>にもつ</rt><rp>）</rp></ruby>を（　）ください。</b>",
     "options": [
       "おきて",
@@ -177,7 +166,7 @@
     "correctAnswer": 1
   },
   {
-    "id": 18,
+    "id": 17,
     "question": "<b>とうきょうにすんでいます</b>",
     "options": [
       "sống ở Tokyo",
@@ -188,7 +177,7 @@
     "correctAnswer": 0
   },
   {
-    "id": 19,
+    "id": 18,
     "question": "<b>カリナさんは<ruby>日本<rp>（</rp><rt>にほん</rt><rp>）</rp></ruby>の<ruby>古<rp>（</rp><rt>ふる</rt><rp>）</rp></ruby>い<ruby>美術<rp>（</rp><rt>びじゅつ</rt><rp>）</rp></ruby>を（　）います。</b>",
     "options": [
       "研究して",
@@ -197,7 +186,7 @@
     "correctAnswer": 0
   },
   {
-    "id": 20,
+    "id": 19,
     "question": "<b>テレーザちゃんは<ruby>自転車<rp>（</rp><rt>じてんしゃ</rt><rp>）</rp></ruby>を（　）います。</b>",
     "options": [
       "売んで",
@@ -206,7 +195,7 @@
     "correctAnswer": 1
   },
   {
-    "id": 21,
+    "id": 20,
     "question": "<b>A：これは　なんですか。<p>B：（　）は　はいしゃです。</p></b>",
     "options": [
       "それ",
@@ -217,7 +206,7 @@
     "correctAnswer": 1
   },
   {
-    "id": 22,
+    "id": 21,
     "question": "<b>この<ruby>電話<rp>（</rp><rt>でんわ</rt><rp>）</rp></ruby>を（　）もいいですか。</b>",
     "options": [
       "使って",
@@ -226,7 +215,7 @@
     "correctAnswer": 0
   },
   {
-    "id": 23,
+    "id": 22,
     "question": "<b>おもいだします</b>",
     "options": [
       "nhớ lại",
@@ -237,7 +226,7 @@
     "correctAnswer": 0
   },
   {
-    "id": 24,
+    "id": 23,
     "question": "<b>A：プレイガイドは　どちらですか。<p>B：（　）です。</p></b>",
     "options": [
       "こちら",

@@ -196,17 +196,6 @@
   },
   {
     "id": 20,
-    "question": "<b>A：ことは　どこですか。<p>B：（　）です。</p></b>",
-    "options": [
-      "ここ",
-      "そこ",
-      "あそこ",
-      "どこ"
-    ],
-    "correctAnswer": 2
-  },
-  {
-    "id": 21,
     "question": "<b>Bay</b>",
     "options": [
       "とびます",
@@ -217,7 +206,7 @@
     "correctAnswer": 0
   },
   {
-    "id": 22,
+    "id": 21,
     "question": "<b>慣れます</b>",
     "options": [
       "なれます",
@@ -228,7 +217,7 @@
     "correctAnswer": 0
   },
   {
-    "id": 23,
+    "id": 22,
     "question": "<b><ruby>歯<rp>（</rp><rt>は</rt><rp>）</rp></ruby>が<ruby>悪<rp>（</rp><rt>わる</rt><rp>）</rp></ruby>くなると、<ruby>硬<rp>（</rp><rt>かた</rt><rp>）</rp></ruby>いものが（　）なります。</b>",
     "options": [
       "かめない",
@@ -237,7 +226,7 @@
     "correctAnswer": 1
   },
   {
-    "id": 24,
+    "id": 23,
     "question": "<b>すぎます</b>",
     "options": [
       "Quá, vượt quá",

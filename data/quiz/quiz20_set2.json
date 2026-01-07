@@ -136,17 +136,6 @@
   },
   {
     "id": 14,
-    "question": "<b>A：でんわしますは　どちらですか。<p>B：（　）です。</p></b>",
-    "options": [
-      "こちら",
-      "そちら",
-      "あちら",
-      "どちら"
-    ],
-    "correctAnswer": 0
-  },
-  {
-    "id": 15,
     "question": "<b>A：ビザは　どこですか。<p>B：（　）です。</p></b>",
     "options": [
       "ここ",
@@ -157,7 +146,7 @@
     "correctAnswer": 2
   },
   {
-    "id": 16,
+    "id": 15,
     "question": "<b>ừ (cách nói tự nhiên, thân mật của \"hai\")</b>",
     "options": [
       "うん",
@@ -168,7 +157,7 @@
     "correctAnswer": 0
   },
   {
-    "id": 17,
+    "id": 16,
     "question": "<b>場所</b>",
     "options": [
       "ばしょ",
@@ -179,7 +168,7 @@
     "correctAnswer": 0
   },
   {
-    "id": 18,
+    "id": 17,
     "question": "<b>しらべます</b>",
     "options": [
       "nghiên cứu, kiểm tra, điều tra",
@@ -190,7 +179,7 @@
     "correctAnswer": 0
   },
   {
-    "id": 19,
+    "id": 18,
     "question": "<b>visa, hộ chiếu</b>",
     "options": [
       "ビザ",
@@ -201,18 +190,7 @@
     "correctAnswer": 0
   },
   {
-    "id": 20,
-    "question": "<b>A：ビザは　どこですか。<p>B：（　）です。</p></b>",
-    "options": [
-      "ここ",
-      "そこ",
-      "あそこ",
-      "どこ"
-    ],
-    "correctAnswer": 2
-  },
-  {
-    "id": 21,
+    "id": 19,
     "question": "<b>đằng này (cách nói tự nhiên, thân mật của \"kochira\")</b>",
     "options": [
       "こっち",
@@ -223,7 +201,7 @@
     "correctAnswer": 0
   },
   {
-    "id": 22,
+    "id": 20,
     "question": "<b>この<ruby>人<rp>（</rp><rt>ひと</rt><rp>）</rp></ruby>は<ruby>夏<rp>（</rp><rt>なつ</rt><rp>）</rp></ruby>が<ruby>好<rp>（</rp><rt>す</rt><rp>）</rp></ruby>きですか。…（　）。</b>",
     "options": [
       "いいえ、好きです",
@@ -232,7 +210,7 @@
     "correctAnswer": 1
   },
   {
-    "id": 23,
+    "id": 21,
     "question": "<b>もうホテルの<ruby>予約<rp>（</rp><rt>よやく</rt><rp>）</rp></ruby>をしましたか。…（　）。</b>",
     "options": [
       "はい、もうしました",
@@ -241,7 +219,7 @@
     "correctAnswer": 0
   },
   {
-    "id": 24,
+    "id": 22,
     "question": "<b>ビザが（　）…ううん、<ruby>要<rp>（</rp><rt>い</rt><rp>）</rp></ruby>らない。</b>",
     "options": [
       "要る？",
@@ -250,7 +228,7 @@
     "correctAnswer": 0
   },
   {
-    "id": 25,
+    "id": 23,
     "question": "<b>パスポートを<ruby>持<rp>（</rp><rt>も</rt><rp>）</rp></ruby>って<ruby>行<rp>（</rp><rt>い</rt><rp>）</rp></ruby>かなければならない？<p>…ううん、（　）。</p></b>",
     "options": [
       "持っていかなくてもいい",

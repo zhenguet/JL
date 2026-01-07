@@ -61,7 +61,7 @@
   },
   {
     "id": 7,
-    "question": "<b>もう～ですね</b>",
+    "question": "<b>đã ~ rồi (nhỉ)</b>",
     "options": [
       "もう～ですね",
       "ふじさん",
@@ -156,17 +156,6 @@
   },
   {
     "id": 16,
-    "question": "<b>A：やまは　どこですか。<p>B：（　）です。</p></b>",
-    "options": [
-      "ここ",
-      "そこ",
-      "あそこ",
-      "どこ"
-    ],
-    "correctAnswer": 1
-  },
-  {
-    "id": 17,
     "question": "<b>A：しゅくだいは　どちらですか。<p>B：（　）です。</p></b>",
     "options": [
       "こちら",
@@ -177,7 +166,7 @@
     "correctAnswer": 0
   },
   {
-    "id": 18,
+    "id": 17,
     "question": "<b>そろそろしつれいします</b>",
     "options": [
       "tôi xin phép ra về (vì đã đến giờ nên về)",
@@ -188,7 +177,7 @@
     "correctAnswer": 0
   },
   {
-    "id": 19,
+    "id": 18,
     "question": "<b>きょうとは（　）まちです。</b>",
     "options": [
       "きれいな",
@@ -197,7 +186,7 @@
     "correctAnswer": 0
   },
   {
-    "id": 20,
+    "id": 19,
     "question": "<b>あれは（　）ですか。…<ruby>病院<rp>（</rp><rt>びょういん</rt><rp>）</rp></ruby>です。</b>",
     "options": [
       "何",
@@ -206,7 +195,7 @@
     "correctAnswer": 0
   },
   {
-    "id": 21,
+    "id": 20,
     "question": "<b>やあ</b>",
     "options": [
       "này!, chào! (dùng để chào bạn bè)",
@@ -217,7 +206,7 @@
     "correctAnswer": 0
   },
   {
-    "id": 22,
+    "id": 21,
     "question": "<b>りょう</b>",
     "options": [
       "ký túc xá",
@@ -228,7 +217,7 @@
     "correctAnswer": 0
   },
   {
-    "id": 23,
+    "id": 22,
     "question": "<b>やまださんは　しんせつです。（　）おもしろいです。</b>",
     "options": [
       "そして",
@@ -237,7 +226,7 @@
     "correctAnswer": 0
   },
   {
-    "id": 24,
+    "id": 23,
     "question": "<b>A：これは　なんですか。<p>B：（　）は　いいえ、けっこうですです。</p></b>",
     "options": [
       "それ",

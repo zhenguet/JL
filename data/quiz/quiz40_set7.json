@@ -115,7 +115,7 @@
   },
   {
     "id": 12,
-    "question": "<b>さあ</b>",
+    "question": "<b>Ừm… (ý nói để xem sao)</b>",
     "options": [
       "さあ",
       "しゅっぱつします",
@@ -187,17 +187,6 @@
   },
   {
     "id": 19,
-    "question": "<b>A：オートバイは　どこですか。<p>B：（　）です。</p></b>",
-    "options": [
-      "ここ",
-      "そこ",
-      "あそこ",
-      "どこ"
-    ],
-    "correctAnswer": 1
-  },
-  {
-    "id": 20,
     "question": "<b>A：これは　なんですか。<p>B：（　）は　はかりますです。</p></b>",
     "options": [
       "それ",
@@ -208,7 +197,7 @@
     "correctAnswer": 1
   },
   {
-    "id": 21,
+    "id": 20,
     "question": "<b>ミリ</b>",
     "options": [
       "mm",
@@ -219,7 +208,7 @@
     "correctAnswer": 0
   },
   {
-    "id": 22,
+    "id": 21,
     "question": "<b>どちらが（　）わかりません。</b>",
     "options": [
       "表か、",
@@ -228,7 +217,7 @@
     "correctAnswer": 1
   },
   {
-    "id": 23,
+    "id": 22,
     "question": "<b>～個</b>",
     "options": [
       "～こ",
@@ -239,7 +228,7 @@
     "correctAnswer": 0
   },
   {
-    "id": 24,
+    "id": 23,
     "question": "<b>Nhưng mà</b>",
     "options": [
       "しかし",

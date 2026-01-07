@@ -34,7 +34,7 @@
   },
   {
     "id": 4,
-    "question": "<b>おかげさまで</b>",
+    "question": "<b>cảm ơn. nhờ trời</b>",
     "options": [
       "おかげさまで",
       "ケーキ",
@@ -174,17 +174,6 @@
   },
   {
     "id": 18,
-    "question": "<b>A：ちょうしは　どこですか。<p>B：（　）です。</p></b>",
-    "options": [
-      "ここ",
-      "そこ",
-      "あそこ",
-      "どこ"
-    ],
-    "correctAnswer": 0
-  },
-  {
-    "id": 19,
     "question": "<b>ケーキ</b>",
     "options": [
       "bánh ngọt",
@@ -195,7 +184,7 @@
     "correctAnswer": 0
   },
   {
-    "id": 20,
+    "id": 19,
     "question": "<b>おちゃ「～をならいます」</b>",
     "options": [
       "[học trà đạo]",
@@ -206,7 +195,7 @@
     "correctAnswer": 0
   },
   {
-    "id": 21,
+    "id": 20,
     "question": "<b>A：せんたくしますは　どちらですか。<p>B：（　）です。</p></b>",
     "options": [
       "こちら",
@@ -217,7 +206,7 @@
     "correctAnswer": 1
   },
   {
-    "id": 22,
+    "id": 21,
     "question": "<b>（　）パソコンを<ruby>使<rp>（</rp><rt>つか</rt><rp>）</rp></ruby>ったことがありません。</b>",
     "options": [
       "一度",
@@ -226,7 +215,7 @@
     "correctAnswer": 1
   },
   {
-    "id": 23,
+    "id": 22,
     "question": "<b>trò chơi bắn đạn pachinko</b>",
     "options": [
       "パチンコ",

@@ -116,17 +116,6 @@
   },
   {
     "id": 12,
-    "question": "<b>A：おいわいは　どちらですか。<p>B：（　）です。</p></b>",
-    "options": [
-      "こちら",
-      "そちら",
-      "あちら",
-      "どちら"
-    ],
-    "correctAnswer": 2
-  },
-  {
-    "id": 13,
     "question": "<b>A：これは　なんですか。<p>B：（　）は　さげますです。</p></b>",
     "options": [
       "それ",
@@ -137,7 +126,7 @@
     "correctAnswer": 1
   },
   {
-    "id": 14,
+    "id": 13,
     "question": "<b>注意</b>",
     "options": [
       "ちゅうい",
@@ -148,7 +137,7 @@
     "correctAnswer": 0
   },
   {
-    "id": 15,
+    "id": 14,
     "question": "<b>電報</b>",
     "options": [
       "でんぽう",
@@ -159,7 +148,7 @@
     "correctAnswer": 0
   },
   {
-    "id": 16,
+    "id": 15,
     "question": "<b>警察</b>",
     "options": [
       "けいさつ",
@@ -170,7 +159,7 @@
     "correctAnswer": 0
   },
   {
-    "id": 17,
+    "id": 16,
     "question": "<b><ruby>使用中<rp>（</rp><rt>しようちゅう</rt><rp>）</rp></ruby>は（　）という<ruby>意味<rp>（</rp><rt>いみ</rt><rp>）</rp></ruby>です。</b>",
     "options": [
       "使え",
@@ -179,7 +168,7 @@
     "correctAnswer": 1
   },
   {
-    "id": 18,
+    "id": 17,
     "question": "<b>クレーン</b>",
     "options": [
       "Cầu trục, cần cẩu",
@@ -190,7 +179,7 @@
     "correctAnswer": 0
   },
   {
-    "id": 19,
+    "id": 18,
     "question": "<b><ruby>渡辺<rp>（</rp><rt>わたなべ</rt><rp>）</rp></ruby>さんはまだコピーしているんですか。<p>…（　）と<ruby>言<rp>（</rp><rt>い</rt><rp>）</rp></っていました。</p></b>",
     "options": [
       "もうすぐ終わって",
@@ -199,7 +188,7 @@
     "correctAnswer": 1
   },
   {
-    "id": 20,
+    "id": 19,
     "question": "<b>ミラーさんは<ruby>渡辺<rp>（</rp><rt>わたなべ</rt><rp>）</rp></ruby>さんの<ruby>結婚式<rp>（</rp><rt>けっこんしき</rt><rp>）</rp></ruby>に<ruby>出席<rp>（</rp><rt>しゅっせき</rt><rp>）</rp></ruby>するんですか。<p>…（　）と<ruby>言<rp>（</rp><rt>い</rt><rp>）</rp></っていました。</p></b>",
     "options": [
       "出席できない",
@@ -208,7 +197,7 @@
     "correctAnswer": 0
   },
   {
-    "id": 21,
+    "id": 20,
     "question": "<b>（　）<ruby>時間<rp>（</rp><rt>じかん</rt><rp>）</rp></ruby>がない。<ruby>急<rp>（</rp><rt>いそ</rt><rp>）</rp></ruby>ごう。</b>",
     "options": [
       "もう",
@@ -217,7 +206,7 @@
     "correctAnswer": 0
   },
   {
-    "id": 22,
+    "id": 21,
     "question": "<b>A：～きは　どこですか。<p>B：（　）です。</p></b>",
     "options": [
       "ここ",
@@ -228,7 +217,7 @@
     "correctAnswer": 2
   },
   {
-    "id": 23,
+    "id": 22,
     "question": "<b>席</b>",
     "options": [
       "せき",
@@ -239,7 +228,7 @@
     "correctAnswer": 0
   },
   {
-    "id": 24,
+    "id": 23,
     "question": "<b>せんたくき</b>",
     "options": [
       "Máy giặt",
@@ -250,7 +239,7 @@
     "correctAnswer": 0
   },
   {
-    "id": 25,
+    "id": 24,
     "question": "<b><ruby>車<rp>（</rp><rt>くるま</rt><rp>）</rp></ruby>（　）<ruby>注意<rp>（</rp><rt>ちゅうい</rt><rp>）</rp></ruby>しましょう。</b>",
     "options": [
       "に",

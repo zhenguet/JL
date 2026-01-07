@@ -76,7 +76,7 @@
   },
   {
     "id": 8,
-    "question": "<b>いくら</b>",
+    "question": "<b>bao nhiêu tiền</b>",
     "options": [
       "いくら",
       "～えん",
@@ -211,17 +211,6 @@
   },
   {
     "id": 21,
-    "question": "<b>A：おてあらいは　どこですか。<p>B：（　）です。</p></b>",
-    "options": [
-      "ここ",
-      "そこ",
-      "あそこ",
-      "どこ"
-    ],
-    "correctAnswer": 1
-  },
-  {
-    "id": 22,
     "question": "<b>A：カメラうりばは（　）ですか。<p>B：あちらです。</p></b>",
     "options": [
       "なん",
@@ -230,7 +219,7 @@
     "correctAnswer": 1
   },
   {
-    "id": 23,
+    "id": 22,
     "question": "<b>ちか</b>",
     "options": [
       "tầng hầm",
@@ -241,7 +230,7 @@
     "correctAnswer": 0
   },
   {
-    "id": 24,
+    "id": 23,
     "question": "<b>A：<ruby>会社<rp>（</rp><rt>かいしゃ</rt><rp>）</rp></ruby>は（　）ですか。<p>B：パワー<ruby>電気<rp>（</rp><rt>でんき</rt><rp>）</rp></ruby>です。</p></b>",
     "options": [
       "どちら",
@@ -250,7 +239,7 @@
     "correctAnswer": 0
   },
   {
-    "id": 25,
+    "id": 24,
     "question": "<b>A：おくには　どちらですか。<p>B：（　）です。</p></b>",
     "options": [
       "とうきょう",

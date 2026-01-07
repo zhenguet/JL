@@ -145,17 +145,6 @@
   },
   {
     "id": 15,
-    "question": "<b>A：いいおてんきですねは　どちらですか。<p>B：（　）です。</p></b>",
-    "options": [
-      "こちら",
-      "そちら",
-      "あちら",
-      "どちら"
-    ],
-    "correctAnswer": 1
-  },
-  {
-    "id": 16,
     "question": "<b>シャツが（　）あります。</b>",
     "options": [
       "いちまい",
@@ -164,7 +153,7 @@
     "correctAnswer": 0
   },
   {
-    "id": 17,
+    "id": 16,
     "question": "<b>ở (chỉ sự tồn tại)</b>",
     "options": [
       "います",
@@ -175,7 +164,7 @@
     "correctAnswer": 0
   },
   {
-    "id": 18,
+    "id": 17,
     "question": "<b><ruby>日本<rp>（</rp><rt>にほん</rt><rp>）</rp></ruby>に（　）います。</b>",
     "options": [
       "７か月",
@@ -184,7 +173,7 @@
     "correctAnswer": 0
   },
   {
-    "id": 19,
+    "id": 18,
     "question": "<b>bưu thiếp (thư)</b>",
     "options": [
       "はがき",
@@ -195,7 +184,7 @@
     "correctAnswer": 0
   },
   {
-    "id": 20,
+    "id": 19,
     "question": "<b>A：これは　なんですか。<p>B：（　）は　ひとりです。</p></b>",
     "options": [
       "それ",
@@ -206,7 +195,7 @@
     "correctAnswer": 1
   },
   {
-    "id": 21,
+    "id": 20,
     "question": "<b>1 cái (sử dụng để đếm vật nói chung)</b>",
     "options": [
       "ひとつ",
@@ -217,7 +206,7 @@
     "correctAnswer": 0
   },
   {
-    "id": 22,
+    "id": 21,
     "question": "<b>A：いいおてんきですねは　どこですか。<p>B：（　）です。</p></b>",
     "options": [
       "ここ",
@@ -228,7 +217,7 @@
     "correctAnswer": 1
   },
   {
-    "id": 23,
+    "id": 22,
     "question": "<b><ruby>留学生<rp>（</rp><rt>りゅうがくせい</rt><rp>）</rp></ruby>が（　）います。</b>",
     "options": [
       "２人",
@@ -237,7 +226,7 @@
     "correctAnswer": 0
   },
   {
-    "id": 24,
+    "id": 23,
     "question": "<b>やっつ</b>",
     "options": [
       "8 cái",
@@ -248,7 +237,7 @@
     "correctAnswer": 0
   },
   {
-    "id": 25,
+    "id": 24,
     "question": "<b>thời tiết đẹp nhỉ!</b>",
     "options": [
       "いいおてんきですね",

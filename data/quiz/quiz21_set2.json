@@ -146,7 +146,7 @@
   },
   {
     "id": 15,
-    "question": "<b>～について</b>",
+    "question": "<b>về</b>",
     "options": [
       "～について",
       "しつもん",
@@ -177,17 +177,6 @@
   },
   {
     "id": 18,
-    "question": "<b>A：こうつうは　どちらですか。<p>B：（　）です。</p></b>",
-    "options": [
-      "こちら",
-      "そちら",
-      "あちら",
-      "どちら"
-    ],
-    "correctAnswer": 0
-  },
-  {
-    "id": 19,
     "question": "<b>役に立ちます</b>",
     "options": [
       "やくにたちます",
@@ -198,7 +187,7 @@
     "correctAnswer": 0
   },
   {
-    "id": 20,
+    "id": 19,
     "question": "<b>しつもん</b>",
     "options": [
       "câu hỏi",
@@ -209,7 +198,7 @@
     "correctAnswer": 0
   },
   {
-    "id": 21,
+    "id": 20,
     "question": "<b>A：しゅしょうは　どこですか。<p>B：（　）です。</p></b>",
     "options": [
       "ここ",
@@ -220,7 +209,7 @@
     "correctAnswer": 2
   },
   {
-    "id": 22,
+    "id": 21,
     "question": "<b>ここは（　）がちょっと<ruby>不便<rp>（</rp><rt>ふべん</rt><rp>）</rp></ruby>です。</b>",
     "options": [
       "自動車",
@@ -229,7 +218,7 @@
     "correctAnswer": 1
   },
   {
-    "id": 23,
+    "id": 22,
     "question": "<b><ruby>東京<rp>（</rp><rt>とうきょう</rt><rp>）</rp></ruby>の（　）は　たかいです。</b>",
     "options": [
       "物価",
@@ -238,7 +227,7 @@
     "correctAnswer": 0
   },
   {
-    "id": 24,
+    "id": 23,
     "question": "<b>A：これは　なんですか。<p>B：（　）は　おはなし「～をします」です。</p></b>",
     "options": [
       "それ",

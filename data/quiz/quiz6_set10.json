@@ -74,7 +74,7 @@
   },
   {
     "id": 8,
-    "question": "<b>フィルム</b>",
+    "question": "<b>phim (dùng để chụp ảnh)</b>",
     "options": [
       "フィルム",
       "ひるごはん",
@@ -145,7 +145,7 @@
   },
   {
     "id": 15,
-    "question": "<b>ビール</b>",
+    "question": "<b>bia</b>",
     "options": [
       "ビール",
       "パン",
@@ -233,17 +233,6 @@
       "これ",
       "あれ",
       "どれ"
-    ],
-    "correctAnswer": 1
-  },
-  {
-    "id": 24,
-    "question": "<b>A：ええは　どこですか。<p>B：（　）です。</p></b>",
-    "options": [
-      "ここ",
-      "そこ",
-      "あそこ",
-      "どこ"
     ],
     "correctAnswer": 1
   }

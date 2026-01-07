@@ -64,7 +64,7 @@
   },
   {
     "id": 7,
-    "question": "<b>ゆうべ</b>",
+    "question": "<b>Tối qua, đêm qua</b>",
     "options": [
       "ゆうべ",
       "ざいりょう",
@@ -200,17 +200,6 @@
   },
   {
     "id": 20,
-    "question": "<b>A：スポーツクラブは　どこですか。<p>B：（　）です。</p></b>",
-    "options": [
-      "ここ",
-      "そこ",
-      "あそこ",
-      "どこ"
-    ],
-    "correctAnswer": 1
-  },
-  {
-    "id": 21,
     "question": "<b>せつめいしょ</b>",
     "options": [
       "Sách giải thích",
@@ -221,7 +210,7 @@
     "correctAnswer": 0
   },
   {
-    "id": 22,
+    "id": 21,
     "question": "<b><ruby>最近<rp>（</rp><rt>さいきん</rt><rp>）</rp></ruby>バスやタクシーに（　）、よく<ruby>歩<rp>（</rp><rt>ある</rt><rp>）</rp></ruby>いています。</b>",
     "options": [
       "ないで",
@@ -230,7 +219,7 @@
     "correctAnswer": 1
   },
   {
-    "id": 23,
+    "id": 22,
     "question": "<b>これはちょっと<ruby>塩<rp>（</rp><rt>しお</rt><rp>）</rp></ruby>（　）つけて<ruby>食<rp>（</rp><rt>た</rt><rp>）</rp></ruby>べてください。</b>",
     "options": [
       "が",
@@ -239,7 +228,7 @@
     "correctAnswer": 1
   },
   {
-    "id": 24,
+    "id": 23,
     "question": "<b>Tháo rời ra</b>",
     "options": [
       "ぶんかい",

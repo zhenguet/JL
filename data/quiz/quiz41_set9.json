@@ -94,7 +94,7 @@
   },
   {
     "id": 10,
-    "question": "<b>ハンカチ</b>",
+    "question": "<b>Khăn mùi xoa</b>",
     "options": [
       "ハンカチ",
       "そぼ",
@@ -207,17 +207,6 @@
   },
   {
     "id": 21,
-    "question": "<b>A：しんせつには　どこですか。<p>B：（　）です。</p></b>",
-    "options": [
-      "ここ",
-      "そこ",
-      "あそこ",
-      "どこ"
-    ],
-    "correctAnswer": 1
-  },
-  {
-    "id": 22,
     "question": "<b><ruby>空港<rp>（</rp><rt>くうこう</rt><rp>）</rp></ruby>まで<ruby>部長<rp>（</rp><rt>ぶちょう</rt><rp>）</rp></ruby>が<ruby>迎<rp>（</rp><rt>むか</rt><rp>）</rp></えに<ruby>来<rp>（</rp><rt>き</rt><rp>）</rp></ruby>て（　）。</b>",
     "options": [
       "くださいました",

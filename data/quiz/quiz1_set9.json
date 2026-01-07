@@ -2,151 +2,265 @@
   {
     "id": 1,
     "question": "<b>～さん</b>",
-    "options": ["Hậu tố lịch sự", "Hậu tố cho bé gái", "Hậu tố cho bé trai", "Hậu tố chỉ nghề nghiệp"],
+    "options": [
+      "Hậu tố lịch sự",
+      "Hậu tố cho bé gái",
+      "Hậu tố cho bé trai",
+      "Hậu tố chỉ nghề nghiệp"
+    ],
     "correctAnswer": 0
   },
   {
     "id": 2,
     "question": "<b>～ちゃん</b>",
-    "options": ["Hậu tố cho bé gái", "Hậu tố cho bé trai", "Hậu tố lịch sự", "Hậu tố chỉ nghề nghiệp"],
+    "options": [
+      "Hậu tố cho bé gái",
+      "Hậu tố cho bé trai",
+      "Hậu tố lịch sự",
+      "Hậu tố chỉ nghề nghiệp"
+    ],
     "correctAnswer": 0
   },
   {
     "id": 3,
     "question": "<b>～くん</b>",
-    "options": ["Hậu tố cho bé trai", "Hậu tố cho bé gái", "Hậu tố lịch sự", "Hậu tố chỉ nghề nghiệp"],
+    "options": [
+      "Hậu tố cho bé trai",
+      "Hậu tố cho bé gái",
+      "Hậu tố lịch sự",
+      "Hậu tố chỉ nghề nghiệp"
+    ],
     "correctAnswer": 0
   },
   {
     "id": 4,
     "question": "<b>～じん</b>",
-    "options": ["Người nước...", "Người (lịch sự)", "Người (thông thường)", "Hậu tố lịch sự"],
+    "options": [
+      "Người nước...",
+      "Người (lịch sự)",
+      "Người (thông thường)",
+      "Hậu tố lịch sự"
+    ],
     "correctAnswer": 0
   },
   {
     "id": 5,
     "question": "<b>せんせい</b>",
-    "options": ["Thầy/cô (gọi)", "Thầy/cô (nghề nghiệp)", "Học sinh", "Bác sĩ"],
+    "options": [
+      "Thầy/cô (gọi)",
+      "Thầy/cô (nghề nghiệp)",
+      "Học sinh",
+      "Bác sĩ"
+    ],
     "correctAnswer": 0
   },
   {
     "id": 6,
     "question": "<b>きょうし</b>",
-    "options": ["Giáo viên (nghề nghiệp)", "Giáo viên (gọi)", "Học sinh", "Bác sĩ"],
+    "options": [
+      "Giáo viên (nghề nghiệp)",
+      "Giáo viên (gọi)",
+      "Học sinh",
+      "Bác sĩ"
+    ],
     "correctAnswer": 0
   },
   {
     "id": 7,
     "question": "<b>かいしゃいん</b>",
-    "options": ["Nhân viên công ty (nghề nghiệp)", "Nhân viên công ty cụ thể", "Giáo viên", "Học sinh"],
+    "options": [
+      "Nhân viên công ty (nghề nghiệp)",
+      "Nhân viên công ty cụ thể",
+      "Giáo viên",
+      "Học sinh"
+    ],
     "correctAnswer": 0
   },
   {
     "id": 8,
     "question": "<b>しゃいん</b>",
-    "options": ["Nhân viên công ty cụ thể", "Nhân viên công ty (nghề nghiệp)", "Giáo viên", "Học sinh"],
+    "options": [
+      "Nhân viên công ty cụ thể",
+      "Nhân viên công ty (nghề nghiệp)",
+      "Giáo viên",
+      "Học sinh"
+    ],
     "correctAnswer": 0
   },
   {
     "id": 9,
     "question": "<b>A：こちらは　リンさんです。リンさんは　がくせいです。<p>B：（　）。</p></b>",
-    "options": ["初めまして", "おなまえは？", "失礼ですが", "どうぞよろしく"],
+    "options": [
+      "初めまして",
+      "おなまえは？",
+      "失礼ですが",
+      "どうぞよろしく"
+    ],
     "correctAnswer": 0
   },
   {
     "id": 10,
     "question": "<b>A：はじめまして。たなかです。<p>B：やまだです。（　）。</p></b>",
-    "options": ["どうぞよろしく", "失礼ですが", "おなまえは？", "こちらは"],
+    "options": [
+      "どうぞよろしく",
+      "失礼ですが",
+      "おなまえは？",
+      "こちらは"
+    ],
     "correctAnswer": 0
   },
   {
     "id": 11,
     "question": "<b>A：失礼ですが、おなまえは？<p>B：（　）。</p></b>",
-    "options": ["たなかです", "たなかさんです", "こちらはたなかです", "たなかさんですか"],
+    "options": [
+      "たなかです",
+      "たなかさんです",
+      "こちらはたなかです",
+      "たなかさんですか"
+    ],
     "correctAnswer": 0
   },
   {
     "id": 12,
     "question": "<b>A：どちらから　きましたか。<p>B：（　）から　きました。</p></b>",
-    "options": ["マレーシア", "マレーシアじん", "マレーシアの", "マレーシアさん"],
+    "options": [
+      "マレーシア",
+      "マレーシアじん",
+      "マレーシアの",
+      "マレーシアさん"
+    ],
     "correctAnswer": 0
   },
   {
     "id": 13,
-    "question": "<b>A：どちらから　きましたか。<p>B：（　）から　きました。</p></b>",
-    "options": ["インドネシア", "インドネシアじん", "インドネシアの", "インドネシアさん"],
-    "correctAnswer": 0
+    "question": "<b>わたしは　マレーシア（　）です。</b>",
+    "options": [
+      "から",
+      "じん",
+      "の",
+      "さん"
+    ],
+    "correctAnswer": 1
   },
   {
     "id": 14,
-    "question": "<b>わたしは　マレーシア（　）です。</b>",
-    "options": ["から", "じん", "の", "さん"],
+    "question": "<b>わたしは　インドネシア（　）です。</b>",
+    "options": [
+      "から",
+      "じん",
+      "の",
+      "さん"
+    ],
     "correctAnswer": 1
   },
   {
     "id": 15,
-    "question": "<b>わたしは　インドネシア（　）です。</b>",
-    "options": ["から", "じん", "の", "さん"],
-    "correctAnswer": 1
+    "question": "<b>やまださんは　にほんじんです。たなかさん（　）にほんじんです。</b>",
+    "options": [
+      "も",
+      "の",
+      "から",
+      "は"
+    ],
+    "correctAnswer": 0
   },
   {
     "id": 16,
-    "question": "<b>やまださんは　にほんじんです。たなかさん（　）にほんじんです。</b>",
-    "options": ["も", "の", "から", "は"],
+    "question": "<b>こちらは　FPT（　）しゃいんです。</b>",
+    "options": [
+      "の",
+      "も",
+      "から",
+      "は"
+    ],
     "correctAnswer": 0
   },
   {
     "id": 17,
-    "question": "<b>こちらは　FPT（　）しゃいんです。</b>",
-    "options": ["の", "も", "から", "は"],
+    "question": "<b>A：あの　かたは　どなたですか。<p>B：（　）です。</p></b>",
+    "options": [
+      "さとうさん",
+      "さとう",
+      "さとうじん",
+      "さとうから"
+    ],
     "correctAnswer": 0
   },
   {
     "id": 18,
-    "question": "<b>A：あの　かたは　どなたですか。<p>B：（　）です。</p></b>",
-    "options": ["さとうさん", "さとう", "さとうじん", "さとうから"],
+    "question": "<b>A：おいくつですか。<p>B：26（　）です。</p></b>",
+    "options": [
+      "さい",
+      "ねん",
+      "がつ",
+      "にち"
+    ],
     "correctAnswer": 0
   },
   {
     "id": 19,
-    "question": "<b>A：おいくつですか。<p>B：26（　）です。</p></b>",
-    "options": ["さい", "ねん", "がつ", "にち"],
+    "question": "<b>わたしは　せんせいです。あなた（　）せんせいですか。</b>",
+    "options": [
+      "も",
+      "の",
+      "は",
+      "から"
+    ],
     "correctAnswer": 0
   },
   {
     "id": 20,
-    "question": "<b>わたしは　せんせいです。あなた（　）せんせいですか。</b>",
-    "options": ["も", "の", "は", "から"],
+    "question": "<b>A：あなたは　がくせいですか。<p>B：いいえ、がくせい（　）ありません。</p></b>",
+    "options": [
+      "じゃ",
+      "も",
+      "の",
+      "から"
+    ],
     "correctAnswer": 0
   },
   {
     "id": 21,
-    "question": "<b>A：あなたは　がくせいですか。<p>B：いいえ、がくせい（　）ありません。</p></b>",
-    "options": ["じゃ", "も", "の", "から"],
+    "question": "<b>こちらは　わたし（　）ともだちです。</b>",
+    "options": [
+      "の",
+      "も",
+      "は",
+      "から"
+    ],
     "correctAnswer": 0
   },
   {
     "id": 22,
-    "question": "<b>こちらは　わたし（　）ともだちです。</b>",
-    "options": ["の", "も", "は", "から"],
+    "question": "<b>こちらは　わたし（　）せんせいです。</b>",
+    "options": [
+      "の",
+      "も",
+      "は",
+      "から"
+    ],
     "correctAnswer": 0
   },
   {
     "id": 23,
-    "question": "<b>こちらは　わたし（　）せんせいです。</b>",
-    "options": ["の", "も", "は", "から"],
+    "question": "<b>A：たろうちゃんは　なんさいですか。<p>B：6（　）です。</p></b>",
+    "options": [
+      "さい",
+      "ねん",
+      "がつ",
+      "にち"
+    ],
     "correctAnswer": 0
   },
   {
     "id": 24,
-    "question": "<b>A：たろうちゃんは　なんさいですか。<p>B：6（　）です。</p></b>",
-    "options": ["さい", "ねん", "がつ", "にち"],
-    "correctAnswer": 0
-  },
-  {
-    "id": 25,
     "question": "<b>A：はなちゃんは　なんさいですか。<p>B：4（　）です。</p></b>",
-    "options": ["さい", "ねん", "がつ", "にち"],
+    "options": [
+      "さい",
+      "ねん",
+      "がつ",
+      "にち"
+    ],
     "correctAnswer": 0
   }
 ]
