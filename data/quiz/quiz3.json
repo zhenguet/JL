@@ -1,266 +1,2154 @@
 [
   {
     "id": 1,
-    "question": "<b>イタリア</b>",
-    "options": ["Ý", "Tây Ban Nha", "Pháp", "Hà Lan"],
+    "question": "<b>cầu thang máy</b>",
+    "options": [
+      "かいぎしつ",
+      "ちょっとすみません",
+      "エレベーター",
+      "ワインうりば"
+    ],
     "correctAnswer": 0
   },
   {
     "id": 2,
-    "question": "<b>へや</b>",
-    "options": ["Căn phòng", "Căn hộ", "Nhà bếp", "Phòng tắm"],
-    "correctAnswer": 0
+    "question": "<b>Hành lang, đại sảnh</b>",
+    "options": [
+      "ロビー",
+      "ロピー",
+      "ロービー",
+      "ローピー"
+    ],
+    "correctAnswer": 3
   },
   {
     "id": 3,
-    "question": "<b>ワイン</b>",
-    "options": ["Bia", "Rượu vang", "Bánh ngọt", "Kem"],
-    "correctAnswer": 1
+    "question": "<b>tầng ~</b>",
+    "options": [
+      "そちら",
+      "ちか",
+      "エスカレーター",
+      "～かい"
+    ],
+    "correctAnswer": 0
   },
   {
     "id": 4,
-    "question": "<b>たばこ</b>",
-    "options": ["Chợ", "Từ", "Lá cây", "Thuốc lá"],
+    "question": "<b>食堂</b>",
+    "options": [
+      "しょくど",
+      "しょくどう",
+      "そくど",
+      "そくどう"
+    ],
     "correctAnswer": 3
   },
   {
     "id": 5,
-    "question": "<b>ちか</b>",
-    "options": ["Tầng hầm, dưới mặt đất", "Sảnh", "Tầng trệt", "Hành lang"],
+    "question": "<b>A：それはどこ（１）<ruby>時計<rp>（</rp><rt>とけい</rt><rp>）</rp></ruby>ですか。<p>B：<ruby>日本<rp>（</rp><rt>にほん</rt><rp>）</rp></ruby>（２）です。</p></b><p><b>(2)</b></p>",
+    "options": [
+      "から",
+      "の"
+    ],
     "correctAnswer": 0
   },
   {
     "id": 6,
-    "question": "<b>Cà vạt</b>",
-    "options": ["ネクターイ", "ネクータイ", "ネークタイ", "ネクタイ"],
-    "correctAnswer": 3
+    "question": "<b>～円</b>",
+    "options": [
+      "じゃ",
+      "ちか",
+      "ちょっとすみません",
+      "～えん"
+    ],
+    "correctAnswer": 0
   },
   {
     "id": 7,
-    "question": "<b>Nhà</b>",
-    "options": ["うち", "いち", "うつ", "とつ"],
-    "correctAnswer": 0
+    "question": "<b>A：あちらは　どちらですか。<p>B：（　）です。</p></b>",
+    "options": [
+      "あちら",
+      "こちら",
+      "そちら",
+      "どちら"
+    ],
+    "correctAnswer": 1
   },
   {
     "id": 8,
-    "question": "<b>Thang máy</b>",
-    "options": ["エーレベタ", "エレベーター", "エレベタ", "エレベター"],
-    "correctAnswer": 1
-  },
-  {
-    "id": 9,
-    "question": "<b>Hành lang, đại sảnh</b>",
-    "options": ["ロピー", "ローピー", "ロービー", "ロビー"],
-    "correctAnswer": 3
-  },
-  {
-    "id": 10,
-    "question": "<b>Văn phòng</b>",
-    "options": ["じむしょう", "じむしょ", "じむそ", "じむそう"],
-    "correctAnswer": 1
-  },
-  {
-    "id": 11,
-    "question": "<b>でんわ</b>",
-    "options": ["雪舌", "雪語", "電舌", "電話"],
-    "correctAnswer": 3
-  },
-  {
-    "id": 12,
-    "question": "<b>くつ</b>",
-    "options": ["机", "靴", "穴", "池"],
-    "correctAnswer": 1
-  },
-  {
-    "id": 13,
-    "question": "<b>うりば</b>",
-    "options": ["士リ場", "売り易", "士リ易", "売り場"],
-    "correctAnswer": 3
-  },
-  {
-    "id": 14,
-    "question": "<b>うけつけ</b>",
-    "options": ["受付", "愛け計け", "愛付", "受け計け"],
+    "question": "<b>A：どちらは　どこですか。<p>B：（　）です。</p></b>",
+    "options": [
+      "あそこ",
+      "ここ",
+      "そこ",
+      "どこ"
+    ],
     "correctAnswer": 0
   },
   {
-    "id": 15,
-    "question": "<b>かいぎしつ</b>",
-    "options": ["会議屋", "会義室", "会義屋", "会議室"],
-    "correctAnswer": 3
+    "id": 9,
+    "question": "<b>お国</b>",
+    "options": [
+      "おくに",
+      "そちら",
+      "ひゃく",
+      "ネクタイ"
+    ],
+    "correctAnswer": 0
   },
   {
-    "id": 16,
-    "question": "<b>万</b>",
-    "options": ["ばん", "まん", "ほう", "かた"],
-    "correctAnswer": 1
+    "id": 10,
+    "question": "<b>cà vạt</b>",
+    "options": [
+      "ここ",
+      "じゃ",
+      "そちら",
+      "ネクタイ"
+    ],
+    "correctAnswer": 0
   },
   {
-    "id": 17,
-    "question": "<b>会社</b>",
-    "options": ["かいさ", "しゃかい", "かいしゃ", "かしゃい"],
+    "id": 11,
+    "question": "<b>あちら</b>",
+    "options": [
+      "Chỗ kia (lịch sự)",
+      "Chỗ nào (lịch sự)",
+      "Chỗ này (lịch sự)",
+      "Chỗ đó (lịch sự)"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 12,
+    "question": "<b>chỗ này</b>",
+    "options": [
+      "おくに",
+      "かいだん",
+      "ここ",
+      "へや"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 13,
+    "question": "<b>エレベーター</b>",
+    "options": [
+      "cầu thang máy",
+      "rượu vang",
+      "văn phòng",
+      "vạn, mười nghìn"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 14,
+    "question": "<b>A：しょくどうは　どちらですか。<p>B：（　）です。</p></b>",
+    "options": [
+      "あちら",
+      "こちら",
+      "そちら",
+      "どちら"
+    ],
     "correctAnswer": 2
   },
   {
+    "id": 15,
+    "question": "<b>どちら</b>",
+    "options": [
+      "Cái gì (lịch sự)",
+      "Cái nào (lịch sự)",
+      "Của ai (lịch sự)",
+      "Ở đâu (lịch sự)"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 16,
+    "question": "<b>A：どちらは　どちらですか。<p>B：（　）です。</p></b>",
+    "options": [
+      "あちら",
+      "こちら",
+      "そちら",
+      "どちら"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 17,
+    "question": "<b>にわ</b>",
+    "options": [
+      "Nhà",
+      "Phòng",
+      "Sân",
+      "Vườn"
+    ],
+    "correctAnswer": 0
+  },
+  {
     "id": 18,
-    "question": "<b>国</b>",
-    "options": ["くに", "くび", "ぐに", "こく"],
+    "question": "<b>うち</b>",
+    "options": [
+      "Cửa",
+      "Cửa sổ",
+      "Nhà",
+      "Phòng"
+    ],
     "correctAnswer": 0
   },
   {
     "id": 19,
-    "question": "<b>食堂</b>",
-    "options": ["そくど", "そくどう", "しょくど", "しょくどう"],
-    "correctAnswer": 3
+    "question": "<b>かいだん</b>",
+    "options": [
+      "Cầu thang",
+      "Hành lang",
+      "Thang cuốn",
+      "Thang máy"
+    ],
+    "correctAnswer": 0
   },
   {
     "id": 20,
-    "question": "<b>階段</b>",
-    "options": ["だんがい", "がいだん", "かいだん", "だんかい"],
-    "correctAnswer": 2
+    "question": "<b>うけつけ</b>",
+    "options": [
+      "受け計け",
+      "受付",
+      "愛け計け",
+      "愛付"
+    ],
+    "correctAnswer": 0
   },
   {
     "id": 21,
-    "question": "<b>トイレは（　）です。</b>",
-    "options": ["ここ", "これ"],
+    "question": "<b>どちら</b>",
+    "options": [
+      "chỗ kia",
+      "chỗ kia, đằng kia (cách nói lịch sự của あそこ)",
+      "vậy thì, trong trường hợp đó thì…",
+      "ở đâu (cách nói lịch sự của どこ)"
+    ],
     "correctAnswer": 0
   },
   {
     "id": 22,
-    "question": "<b>A：おくには　どちらですか。<p>B：（　）です。</p></b>",
-    "options": ["とうきょう", "にほん"],
-    "correctAnswer": 1
+    "question": "<b>phòng họp</b>",
+    "options": [
+      "うけつけ",
+      "かいぎしつ",
+      "そちら",
+      "ワイン"
+    ],
+    "correctAnswer": 0
   },
   {
     "id": 23,
-    "question": "<b>A：うちは　どちらですか。<p>B：（　）です。</p></b>",
-    "options": ["とうきょう", "かいしゃ"],
+    "question": "<b>かいしゃ</b>",
+    "options": [
+      "Bệnh viện",
+      "Công ty",
+      "Nhà ga",
+      "Trường học"
+    ],
     "correctAnswer": 0
   },
   {
     "id": 24,
-    "question": "<b>A：これは（１）ネクタイですか。<p>B：（２）ネクタイです。</p></b><p><b>(1)</b></p>",
-    "options": ["どこの", "だれの"],
-    "correctAnswer": 0
+    "question": "<b>階段</b>",
+    "options": [
+      "かいだん",
+      "がいだん",
+      "だんかい",
+      "だんがい"
+    ],
+    "correctAnswer": 2
   },
   {
     "id": 25,
-    "question": "<b>A：これは（１）ネクタイですか。<p>B：（２）ネクタイです。</p></b><p><b>(2)</b></p>",
-    "options": ["タイの", "タイ"],
+    "question": "<b>A：教室は　どこですか。<p>B：（　）です。</p></b>",
+    "options": [
+      "あそこ",
+      "ここ",
+      "そこ",
+      "どこ"
+    ],
     "correctAnswer": 0
   },
   {
     "id": 26,
-    "question": "<b>A：おくには（　）ですか。<p>B：タイです。</p></b>",
-    "options": ["なん", "どちら"],
-    "correctAnswer": 1
+    "question": "<b>せん</b>",
+    "options": [
+      "chỗ này",
+      "nghìn",
+      "tầng ngầm (dưới đất)",
+      "~ yên"
+    ],
+    "correctAnswer": 0
   },
   {
     "id": 27,
-    "question": "<b>A：かいしゃは（　）ですか。<p>B：パワーでんきです。</p></b>",
-    "options": ["なん", "どちら"],
+    "question": "<b>~ yên</b>",
+    "options": [
+      "うち",
+      "にわ",
+      "ひゃく",
+      "～えん"
+    ],
     "correctAnswer": 0
   },
   {
     "id": 28,
-    "question": "<b>A：パワーでんきは（　）かいしゃですか。<p>B：コンピューターの　かいしゃです。</p></b>",
-    "options": ["なんの", "どこの"],
+    "question": "<b>ở đâu (cách nói lịch sự của どこ)</b>",
+    "options": [
+      "あそこ",
+      "くつ",
+      "どちら",
+      "～えん"
+    ],
     "correctAnswer": 0
   },
   {
     "id": 29,
-    "question": "<b>A：カメラうりばは（　）ですか。<p>B：あちらです。</p></b>",
-    "options": ["なん", "どちら"],
-    "correctAnswer": 1
+    "question": "<b>A：かいぎしつは　どこですか。<p>B：（　）です。</p></b>",
+    "options": [
+      "あそこ",
+      "ここ",
+      "そこ",
+      "どこ"
+    ],
+    "correctAnswer": 2
   },
   {
     "id": 30,
-    "question": "<b>A：それはどこ（１）<ruby>時計<rp>（</rp><rt>とけい</rt><rp>）</rp></ruby>ですか。<p>B：<ruby>日本<rp>（</rp><rt>にほん</rt><rp>）</rp></ruby>（２）です。</p></b><p><b>(1)</b></p>",
-    "options": ["の", "から"],
+    "question": "<b>ロビー</b>",
+    "options": [
+      "phòng đợi, tiền sảnh",
+      "sân",
+      "văn phòng",
+      "xin bán cho tôi (cái này)"
+    ],
     "correctAnswer": 0
   },
   {
     "id": 31,
-    "question": "<b>A：それはどこ（１）<ruby>時計<rp>（</rp><rt>とけい</rt><rp>）</rp></ruby>ですか。<p>B：<ruby>日本<rp>（</rp><rt>にほん</rt><rp>）</rp></ruby>（２）です。</p></b><p><b>(2)</b></p>",
-    "options": ["から", "の"],
+    "question": "<b>そちら</b>",
+    "options": [
+      "Chỗ kia (lịch sự)",
+      "Chỗ nào (lịch sự)",
+      "Chỗ này (lịch sự)",
+      "Chỗ đó (lịch sự)"
+    ],
     "correctAnswer": 0
   },
   {
     "id": 32,
-    "question": "<b>A：マリアさん（１）お<ruby>国<rp>（</rp><rt>くに</rt><rp>）</rp></ruby>（２）どちらですか。<p>B：ブラジルです。</p></b><p><b>(1)</b></p>",
-    "options": ["の", "が"],
+    "question": "<b>千</b>",
+    "options": [
+      "うりば",
+      "かいぎしつ",
+      "せん",
+      "まん"
+    ],
     "correctAnswer": 0
   },
   {
     "id": 33,
-    "question": "<b>A：マリアさん（１）お<ruby>国<rp>（</rp><rt>くに</rt><rp>）</rp></ruby>（２）どちらですか。<p>B：ブラジルです。</p></b><p><b>(2)</b></p>",
-    "options": ["は", "の"],
+    "question": "<b>きょうしつ</b>",
+    "options": [
+      "chỗ nào, ở đâu",
+      "cầu thang",
+      "lớp học, phòng học",
+      "tầng ~"
+    ],
     "correctAnswer": 0
   },
   {
     "id": 34,
-    "question": "<b>A：パワー<ruby>電気<rp>（</rp><rt>でんき</rt><rp>）</rp></ruby>（１）<ruby>何<rp>（</rp><rt>なん</rt><rp>）</rp></ruby>（２）<ruby>会社<rp>（</rp><rt>かいしゃ</rt><rp>）</rp></ruby>ですか。<p>B：コンピューター（３）<ruby>会社<rp>（</rp><rt>かいしゃ</rt><rp>）</rp></ruby>です。</p></b><p><b>(1)</b></p>",
-    "options": ["は", "に"],
+    "question": "<b>トイレは（　）です。</b>",
+    "options": [
+      "ここ",
+      "これ"
+    ],
     "correctAnswer": 0
   },
   {
     "id": 35,
-    "question": "<b>A：パワー<ruby>電気<rp>（</rp><rt>でんき</rt><rp>）</rp></ruby>（１）<ruby>何<rp>（</rp><rt>なん</rt><rp>）</rp></ruby>（２）<ruby>会社<rp>（</rp><rt>かいしゃ</rt><rp>）</rp></ruby>ですか。<p>B：コンピューター（３）<ruby>会社<rp>（</rp><rt>かいしゃ</rt><rp>）</rp></ruby>です。</p></b><p><b>(2)</b></p>",
-    "options": ["の", "に"],
+    "question": "<b>bàn tiếp tân, thường trực</b>",
+    "options": [
+      "うけつけ",
+      "ちかいっかい",
+      "ちょっとすみません",
+      "ワイン"
+    ],
     "correctAnswer": 0
   },
   {
     "id": 36,
-    "question": "<b>A：パワー<ruby>電気<rp>（</rp><rt>でんき</rt><rp>）</rp></ruby>（１）<ruby>何<rp>（</rp><rt>なん</rt><rp>）</rp></ruby>（２）<ruby>会社<rp>（</rp><rt>かいしゃ</rt><rp>）</rp></ruby>ですか。<p>B：コンピューター（３）<ruby>会社<rp>（</rp><rt>かいしゃ</rt><rp>）</rp></ruby>です。</p></b><p><b>(3)</b></p>",
-    "options": ["で", "の"],
-    "correctAnswer": 1
+    "question": "<b>cầu thang cuốn</b>",
+    "options": [
+      "あちら",
+      "いくら",
+      "ここ",
+      "エスカレーター"
+    ],
+    "correctAnswer": 0
   },
   {
     "id": 37,
-    "question": "<b>A：すみません。そのワイン（１）<ruby>見<rp>（</rp><rt>み</rt><rp>）</rp></ruby>せてください。<p>B：どうぞ。</p><p>A：どこ（２）ワインですか。</p><p>B：フランスのです。</p><p>A：じゃ、これ（３）ください。</p></b><p><b>(1)</b></p>",
-    "options": ["を", "で"],
+    "question": "<b>こちら</b>",
+    "options": [
+      "chỗ này, đằng này (cách nói lịch sự của ここ)",
+      "cầu thang cuốn",
+      "sân",
+      "~ yên"
+    ],
     "correctAnswer": 0
   },
   {
     "id": 38,
-    "question": "<b>A：すみません。そのワイン（１）<ruby>見<rp>（</rp><rt>み</rt><rp>）</rp></ruby>せてください。<p>B：どうぞ。</p><p>A：どこ（２）ワインですか。</p><p>B：フランスのです。</p><p>A：じゃ、これ（３）ください。</p></b><p><b>(2)</b></p>",
-    "options": ["に", "の"],
-    "correctAnswer": 1
+    "question": "<b>会社</b>",
+    "options": [
+      "かいさ",
+      "かいしゃ",
+      "かしゃい",
+      "しゃかい"
+    ],
+    "correctAnswer": 2
   },
   {
     "id": 39,
-    "question": "<b>A：すみません。そのワイン（１）<ruby>見<rp>（</rp><rt>み</rt><rp>）</rp></ruby>せてください。<p>B：どうぞ。</p><p>A：どこ（２）ワインですか。</p><p>B：フランスのです。</p><p>A：じゃ、これ（３）ください。</p></b><p><b>(3)</b></p>",
-    "options": ["に", "を"],
-    "correctAnswer": 1
-  },
-  {
-    "id": 40,
-    "question": "<b>A：カメラ<ruby>売<rp>（</rp><rt>う</rt><rp>）</rp></ruby>り<ruby>場<rp>（</rp><rt>ば</rt><rp>）</rp></ruby>は（　）ですか。<p>B：３<ruby>階<rp>（</rp><rt>かい</rt><rp>）</rp></ruby>です。</p></b>",
-    "options": ["何階", "どれ"],
+    "question": "<b>ちか</b>",
+    "options": [
+      "bàn tiếp tân, thường trực",
+      "rượu vang",
+      "tầng hầm",
+      "tầng ngầm (dưới đất)"
+    ],
     "correctAnswer": 0
   },
   {
+    "id": 40,
+    "question": "<b>A：ちかいっかいは　どちらですか。<p>B：（　）です。</p></b>",
+    "options": [
+      "あちら",
+      "こちら",
+      "そちら",
+      "どちら"
+    ],
+    "correctAnswer": 1
+  },
+  {
     "id": 41,
-    "question": "<b>A：それは（　）のコーヒーですか。<p>B：ブラジルのコーヒーです。</p></b>",
-    "options": ["どこ", "どれ"],
+    "question": "<b>ネクタイ</b>",
+    "options": [
+      "Cà vạt",
+      "Quần",
+      "Áo khoác",
+      "Áo sơ mi"
+    ],
     "correctAnswer": 0
   },
   {
     "id": 42,
     "question": "<b>A：<ruby>会社<rp>（</rp><rt>かいしゃ</rt><rp>）</rp></ruby>は（　）ですか。<p>B：パワー<ruby>電気<rp>（</rp><rt>でんき</rt><rp>）</rp></ruby>です。</p></b>",
-    "options": ["どちら", "どれ"],
+    "options": [
+      "どちら",
+      "どれ"
+    ],
     "correctAnswer": 0
   },
   {
     "id": 43,
-    "question": "<b>A：MTは（　）の<ruby>会社<rp>（</rp><rt>かいしゃ</rt><rp>）</rp></ruby>ですか。<p>B：たばこの<ruby>会社<rp>（</rp><rt>かいしゃ</rt><rp>）</rp></ruby>です。</p></b>",
-    "options": ["何", "何の"],
-    "correctAnswer": 1
+    "question": "<b>へや</b>",
+    "options": [
+      "Cửa",
+      "Cửa sổ",
+      "Nhà",
+      "Phòng"
+    ],
+    "correctAnswer": 0
   },
   {
     "id": 44,
+    "question": "<b>A：これは　なんですか。<p>B：（　）は　にわです。</p></b>",
+    "options": [
+      "あれ",
+      "これ",
+      "それ",
+      "どれ"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 45,
+    "question": "<b>cho tôi xin lỗi (một chút)</b>",
+    "options": [
+      "じむしょ",
+      "そちら",
+      "ちかいっかい",
+      "ちょっとすみません"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 46,
+    "question": "<b>A：これは（１）ネクタイですか。<p>B：（２）ネクタイです。</p></b><p><b>(2)</b></p>",
+    "options": [
+      "タイ",
+      "タイの"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 47,
+    "question": "<b>Thang máy</b>",
+    "options": [
+      "エレベタ",
+      "エレベター",
+      "エレベーター",
+      "エーレベタ"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 48,
+    "question": "<b>phòng</b>",
+    "options": [
+      "きょうしつ",
+      "ちか",
+      "へや",
+      "～えん"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 49,
+    "question": "<b>そこ</b>",
+    "options": [
+      "Chỗ kia (xa cả hai)",
+      "Chỗ nào",
+      "Chỗ này (gần người nói)",
+      "Chỗ đó (gần người nghe)"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 50,
+    "question": "<b>なんかい</b>",
+    "options": [
+      "Cửa mấy",
+      "Nhà mấy",
+      "Phòng mấy",
+      "Tầng mấy"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 51,
+    "question": "<b>bao nhiêu tiền</b>",
+    "options": [
+      "いくら",
+      "おてあらい",
+      "ワインうりば",
+      "～えん"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 52,
+    "question": "<b>A：これは　なんですか。<p>B：（　）は　どちらです。</p></b>",
+    "options": [
+      "あれ",
+      "これ",
+      "それ",
+      "どれ"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 53,
+    "question": "<b>A：おくには（　）ですか。<p>B：タイです。</p></b>",
+    "options": [
+      "どちら",
+      "なん"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 54,
+    "question": "<b>くつ</b>",
+    "options": [
+      "giầy",
+      "nhà ăn, phòng ăn",
+      "rượu vang",
+      "sân"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 55,
+    "question": "<b>A：それは（　）のコーヒーですか。<p>B：ブラジルのコーヒーです。</p></b>",
+    "options": [
+      "どこ",
+      "どれ"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 56,
+    "question": "<b>会議室</b>",
+    "options": [
+      "かいぎしつ",
+      "せん",
+      "なんかい",
+      "ワインうりば"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 57,
+    "question": "<b>phòng</b>",
+    "options": [
+      "うち",
+      "かいしゃ",
+      "へや",
+      "ネクタイ"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 58,
+    "question": "<b>いくら</b>",
+    "options": [
+      "Bao nhiêu cái",
+      "Bao nhiêu người",
+      "Bao nhiêu tiền",
+      "Bao nhiêu tuổi"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 59,
+    "question": "<b>A：いらっしゃいませは　どちらですか。<p>B：（　）です。</p></b>",
+    "options": [
+      "あちら",
+      "こちら",
+      "そちら",
+      "どちら"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 60,
+    "question": "<b>văn phòng</b>",
+    "options": [
+      "じむしょ",
+      "せん",
+      "なんかい",
+      "ひゃく"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 61,
+    "question": "<b>A：～えんは　どこですか。<p>B：（　）です。</p></b>",
+    "options": [
+      "あそこ",
+      "ここ",
+      "そこ",
+      "どこ"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 62,
+    "question": "<b>A：じむしょは　どちらですか。<p>B：（　）です。</p></b>",
+    "options": [
+      "あちら",
+      "こちら",
+      "そちら",
+      "どちら"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 63,
+    "question": "<b>エレベーター</b>",
+    "options": [
+      "Cầu thang",
+      "Hành lang",
+      "Thang cuốn",
+      "Thang máy"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 64,
+    "question": "<b>rượu vang</b>",
+    "options": [
+      "ワイン",
+      "ワインうりば",
+      "～えん",
+      "～かい"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 65,
+    "question": "<b>A：かいぎしつは　どちらですか。<p>B：（　）です。</p></b>",
+    "options": [
+      "あちら",
+      "こちら",
+      "そちら",
+      "どちら"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 66,
+    "question": "<b>ワインうりば</b>",
+    "options": [
+      "chỗ kia",
+      "chỗ đó, đằng đó (cách nói lịch sự của そこ)",
+      "quầy bán rượu vang",
+      "văn phòng"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 67,
+    "question": "<b>A：パワーでんきは（　）かいしゃですか。<p>B：コンピューターの　かいしゃです。</p></b>",
+    "options": [
+      "どこの",
+      "なんの"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 68,
+    "question": "<b>くつ</b>",
+    "options": [
+      "机",
+      "池",
+      "穴",
+      "靴"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 69,
+    "question": "<b>vậy thì, trong trường hợp đó thì…</b>",
+    "options": [
+      "かいしゃ",
+      "これをください",
+      "じゃ",
+      "ワインうりば"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 70,
+    "question": "<b>あそこ（　）しょくどうです。</b>",
+    "options": [
+      "から",
+      "の",
+      "は",
+      "も"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 71,
+    "question": "<b>かいしゃ</b>",
+    "options": [
+      "chỗ nào, ở đâu",
+      "công ty",
+      "nhà ăn, phòng ăn",
+      "tầng mấy"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 72,
+    "question": "<b>A：へやは　どこですか。<p>B：（　）です。</p></b>",
+    "options": [
+      "あそこ",
+      "ここ",
+      "そこ",
+      "どこ"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 73,
+    "question": "<b>ちかいっかい</b>",
+    "options": [
+      "giầy",
+      "tầng mấy",
+      "tầng ngầm (dưới đất)",
+      "văn phòng"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 74,
+    "question": "<b>nghìn</b>",
+    "options": [
+      "うけつけ",
+      "くつ",
+      "せん",
+      "エレベーター"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 75,
+    "question": "<b>ここ</b>",
+    "options": [
+      "Chỗ kia (xa cả hai)",
+      "Chỗ nào",
+      "Chỗ này (gần người nói)",
+      "Chỗ đó (gần người nghe)"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 76,
+    "question": "<b>会議室</b>",
+    "options": [
+      "かいぎしつ",
+      "じむしょ",
+      "そちら",
+      "エスカレーター"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 77,
+    "question": "<b>bàn tiếp tân, thường trực</b>",
+    "options": [
+      "あちら",
+      "うけつけ",
+      "うち",
+      "なんかい"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 78,
+    "question": "<b>kính mời vào (dùng để chào khách ở các nhà hàng, siêu thị…)</b>",
+    "options": [
+      "いらっしゃいませ",
+      "うち",
+      "ひゃく",
+      "エスカレーター"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 79,
+    "question": "<b>かいぎしつ</b>",
+    "options": [
+      "会義室",
+      "会義屋",
+      "会議室",
+      "会議屋"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "id": 80,
+    "question": "<b>ワイン</b>",
+    "options": [
+      "Bia",
+      "Bánh ngọt",
+      "Kem",
+      "Rượu vang"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 81,
+    "question": "<b>ロビー</b>",
+    "options": [
+      "Nhà ăn",
+      "Phòng họp",
+      "Phòng đợi, tiền sảnh",
+      "Văn phòng"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 82,
+    "question": "<b>A：ネクタイは　どこですか。<p>B：（　）です。</p></b>",
+    "options": [
+      "あそこ",
+      "ここ",
+      "そこ",
+      "どこ"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 83,
+    "question": "<b>A：すみません。そのワイン（１）<ruby>見<rp>（</rp><rt>み</rt><rp>）</rp></ruby>せてください。<p>B：どうぞ。</p><p>A：どこ（２）ワインですか。</p><p>B：フランスのです。</p><p>A：じゃ、これ（３）ください。</p></b><p><b>(2)</b></p>",
+    "options": [
+      "に",
+      "の"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 84,
+    "question": "<b>でんわ</b>",
+    "options": [
+      "雪舌",
+      "雪語",
+      "電舌",
+      "電話"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "id": 85,
+    "question": "<b>いくら</b>",
+    "options": [
+      "bao nhiêu tiền",
+      "phòng đợi, tiền sảnh",
+      "tầng mấy",
+      "vậy thì, trong trường hợp đó thì…"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 86,
+    "question": "<b>ここ（　）きょうしつです。</b>",
+    "options": [
+      "から",
+      "の",
+      "は",
+      "も"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 87,
+    "question": "<b>ここ</b>",
+    "options": [
+      "chỗ kia, đằng kia (cách nói lịch sự của あそこ)",
+      "chỗ này",
+      "tầng ngầm (dưới đất)",
+      "ở đâu (cách nói lịch sự của どこ)"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 88,
+    "question": "<b>ở đâu (cách nói lịch sự của どこ)</b>",
+    "options": [
+      "うりば",
+      "どこ",
+      "どちら",
+      "～えん"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 89,
+    "question": "<b>そちら</b>",
+    "options": [
+      "cho tôi xin lỗi (một chút)",
+      "chỗ đó, đằng đó (cách nói lịch sự của そこ)",
+      "cầu thang",
+      "phòng họp"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 90,
+    "question": "<b>chỗ kia, đằng kia (cách nói lịch sự của あそこ)</b>",
+    "options": [
+      "あちら",
+      "うち",
+      "うりば",
+      "そこ"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 91,
+    "question": "<b>イタリア</b>",
+    "options": [
+      "Hà Lan",
+      "Pháp",
+      "Tây Ban Nha",
+      "Ý"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 92,
+    "question": "<b>A：へやは　どちらですか。<p>B：（　）です。</p></b>",
+    "options": [
+      "あちら",
+      "こちら",
+      "そちら",
+      "どちら"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 93,
+    "question": "<b>～かい</b>",
+    "options": [
+      "Cửa ~",
+      "Nhà ~",
+      "Phòng ~",
+      "Tầng ~"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 94,
+    "question": "<b>A：それはどこ（１）<ruby>時計<rp>（</rp><rt>とけい</rt><rp>）</rp></ruby>ですか。<p>B：<ruby>日本<rp>（</rp><rt>にほん</rt><rp>）</rp></ruby>（２）です。</p></b><p><b>(1)</b></p>",
+    "options": [
+      "から",
+      "の"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 95,
+    "question": "<b>A：パワー<ruby>電気<rp>（</rp><rt>でんき</rt><rp>）</rp></ruby>（１）<ruby>何<rp>（</rp><rt>なん</rt><rp>）</rp></ruby>（２）<ruby>会社<rp>（</rp><rt>かいしゃ</rt><rp>）</rp></ruby>ですか。<p>B：コンピューター（３）<ruby>会社<rp>（</rp><rt>かいしゃ</rt><rp>）</rp></ruby>です。</p></b><p><b>(3)</b></p>",
+    "options": [
+      "で",
+      "の"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 96,
+    "question": "<b>くつ</b>",
+    "options": [
+      "Dép",
+      "Giầy",
+      "Tất",
+      "Ủng"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 97,
+    "question": "<b>A：会議室は　どこですか。<p>B：（　）です。</p></b>",
+    "options": [
+      "あそこ",
+      "ここ",
+      "そこ",
+      "どこ"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 98,
+    "question": "<b>そちら</b>",
+    "options": [
+      "chỗ đó, đằng đó (cách nói lịch sự của そこ)",
+      "công ty",
+      "xin bán cho tôi (cái này)",
+      "ở đâu (cách nói lịch sự của どこ)"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 99,
+    "question": "<b>A：おくには　どちらですか。<p>B：（　）です。</p></b>",
+    "options": [
+      "とうきょう",
+      "にほん"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 100,
+    "question": "<b>じゃ</b>",
+    "options": [
+      "chỗ nào, ở đâu",
+      "nhà",
+      "quầy, chỗ bán hàng (trong cửa hàng bách hóa, siêu thị)",
+      "vậy thì, trong trường hợp đó thì…"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 101,
+    "question": "<b>chỗ kia, đằng kia (cách nói lịch sự của あそこ)</b>",
+    "options": [
+      "あちら",
+      "こちら",
+      "へや",
+      "エスカレーター"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 102,
+    "question": "<b>A：受付は　どちらですか。<p>B：（　）です。</p></b>",
+    "options": [
+      "あちら",
+      "こちら",
+      "そちら",
+      "どちら"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 103,
+    "question": "<b>chỗ đó</b>",
+    "options": [
+      "かいしゃ",
+      "そこ",
+      "ちかいっかい",
+      "ネクタイ"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 104,
+    "question": "<b>A：食堂は　どちらですか。<p>B：（　）です。</p></b>",
+    "options": [
+      "あちら",
+      "こちら",
+      "そちら",
+      "どちら"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 105,
+    "question": "<b>A：これは（１）ネクタイですか。<p>B：（２）ネクタイです。</p></b><p><b>(1)</b></p>",
+    "options": [
+      "だれの",
+      "どこの"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 106,
+    "question": "<b>エスカレーター</b>",
+    "options": [
+      "Cầu thang",
+      "Hành lang",
+      "Thang cuốn",
+      "Thang máy"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 107,
+    "question": "<b>～円</b>",
+    "options": [
+      "おてあらい",
+      "ちか",
+      "～えん",
+      "～かい"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 108,
+    "question": "<b>これをください</b>",
+    "options": [
+      "cầu thang",
+      "lớp học, phòng học",
+      "văn phòng",
+      "xin bán cho tôi (cái này)"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 109,
+    "question": "<b>trăm</b>",
+    "options": [
+      "おてあらい",
+      "そちら",
+      "ひゃく",
+      "エレベーター"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 110,
+    "question": "<b>あそこ</b>",
+    "options": [
+      "Chỗ kia (xa cả hai)",
+      "Chỗ nào",
+      "Chỗ này (gần người nói)",
+      "Chỗ đó (gần người nghe)"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 111,
+    "question": "<b>Nhà</b>",
+    "options": [
+      "いち",
+      "うち",
+      "うつ",
+      "とつ"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 112,
+    "question": "<b>A：食堂は　どこですか。<p>B：（　）です。</p></b>",
+    "options": [
+      "あそこ",
+      "ここ",
+      "そこ",
+      "どこ"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 113,
+    "question": "<b>A：マリアさん（１）お<ruby>国<rp>（</rp><rt>くに</rt><rp>）</rp></ruby>（２）どちらですか。<p>B：ブラジルです。</p></b><p><b>(2)</b></p>",
+    "options": [
+      "の",
+      "は"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 114,
+    "question": "<b>quầy, chỗ bán hàng (trong cửa hàng bách hóa, siêu thị)</b>",
+    "options": [
+      "いらっしゃいませ",
+      "うりば",
+      "おてあらい",
+      "くつ"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 115,
+    "question": "<b>cầu thang cuốn</b>",
+    "options": [
+      "せん",
+      "そちら",
+      "エスカレーター",
+      "～かい"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 116,
+    "question": "<b>cầu thang máy</b>",
+    "options": [
+      "そこ",
+      "まん",
+      "エスカレーター",
+      "エレベーター"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 117,
+    "question": "<b>A：ネクタイは　どちらですか。<p>B：（　）です。</p></b>",
+    "options": [
+      "あちら",
+      "こちら",
+      "そちら",
+      "どちら"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 118,
+    "question": "<b>～えん</b>",
+    "options": [
+      "~ bảng",
+      "~ euro",
+      "~ yên",
+      "~ đô la"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 119,
+    "question": "<b>かいだん</b>",
+    "options": [
+      "chỗ nào, ở đâu",
+      "cầu thang",
+      "tầng mấy",
+      "vậy thì, trong trường hợp đó thì…"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 120,
+    "question": "<b>A：そちらは　どこですか。<p>B：（　）です。</p></b>",
+    "options": [
+      "あそこ",
+      "ここ",
+      "そこ",
+      "どこ"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 121,
+    "question": "<b>あちら</b>",
+    "options": [
+      "chỗ kia, đằng kia (cách nói lịch sự của あそこ)",
+      "công ty",
+      "rượu vang",
+      "trung tâm [tu nghiệp]"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 122,
+    "question": "<b>bàn tiếp tân, thường trực</b>",
+    "options": [
+      "うけつけ",
+      "うち",
+      "ここ",
+      "～えん"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 123,
+    "question": "<b>うけつけ</b>",
+    "options": [
+      "Bàn tiếp tân, thường trực",
+      "Nhà vệ sinh",
+      "Phòng",
+      "Phòng đợi"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 124,
+    "question": "<b>A：おくには　どちらですか。<p>B：（　）です。</p></b>",
+    "options": [
+      "おおさか",
+      "きょうと",
+      "とうきょう",
+      "にほん"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 125,
+    "question": "<b>A：おくには　どこですか。<p>B：（　）です。</p></b>",
+    "options": [
+      "あそこ",
+      "ここ",
+      "そこ",
+      "どこ"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 126,
+    "question": "<b>おてあらい</b>",
+    "options": [
+      "Bàn tiếp tân",
+      "Nhà vệ sinh",
+      "Phòng",
+      "Phòng đợi"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 127,
+    "question": "<b>ワインうりば</b>",
+    "options": [
+      "Quầy bán bia",
+      "Quầy bán nước",
+      "Quầy bán rượu vang",
+      "Quầy bán đồ uống"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 128,
+    "question": "<b>ひゃく</b>",
+    "options": [
+      "cho tôi xin lỗi (một chút)",
+      "cà vạt",
+      "phòng họp",
+      "trăm"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 129,
+    "question": "<b>chỗ này, đằng này (cách nói lịch sự của ここ)</b>",
+    "options": [
+      "いらっしゃいませ",
+      "こちら",
+      "じゃ",
+      "ちか"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 130,
+    "question": "<b>A：受付は　なんかいですか。<p>B：2かいです。</p></b>",
+    "options": [
+      "どこ",
+      "どちら",
+      "なん",
+      "なんかい"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 131,
+    "question": "<b>部屋</b>",
+    "options": [
+      "かいだん",
+      "ここ",
+      "どちら",
+      "へや"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 132,
+    "question": "<b>しょくどう</b>",
+    "options": [
+      "cà vạt",
+      "nhà ăn, phòng ăn",
+      "quầy, chỗ bán hàng (trong cửa hàng bách hóa, siêu thị)",
+      "văn phòng"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 133,
+    "question": "<b>へや</b>",
+    "options": [
+      "Căn hộ",
+      "Căn phòng",
+      "Nhà bếp",
+      "Phòng tắm"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 134,
+    "question": "<b>かいぎしつ</b>",
+    "options": [
+      "Lớp học",
+      "Nhà ăn",
+      "Phòng họp",
+      "Văn phòng"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 135,
+    "question": "<b>A：かいしゃは　どこですか。<p>B：（　）です。</p></b>",
+    "options": [
+      "あそこ",
+      "ここ",
+      "そこ",
+      "どこ"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 136,
+    "question": "<b>A：じむしょは　どこですか。<p>B：（　）です。</p></b>",
+    "options": [
+      "あそこ",
+      "ここ",
+      "そこ",
+      "どこ"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 137,
+    "question": "<b>万</b>",
+    "options": [
+      "かた",
+      "ばん",
+      "ほう",
+      "まん"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 138,
+    "question": "<b>しょくどう</b>",
+    "options": [
+      "Lớp học",
+      "Nhà ăn, phòng ăn",
+      "Phòng họp",
+      "Văn phòng"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 139,
+    "question": "<b>これをください</b>",
+    "options": [
+      "chỗ kia, đằng kia (cách nói lịch sự của あそこ)",
+      "công ty",
+      "nhà",
+      "xin bán cho tôi (cái này)"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 140,
+    "question": "<b>A：おてあらいは　どこですか。<p>B：（　）です。</p></b>",
+    "options": [
+      "あそこ",
+      "ここ",
+      "そこ",
+      "どこ"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 141,
+    "question": "<b>どこ</b>",
+    "options": [
+      "Cái gì",
+      "Cái nào",
+      "Của ai",
+      "Ở đâu"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 142,
+    "question": "<b>cầu thang máy</b>",
+    "options": [
+      "かいぎしつ",
+      "かいしゃ",
+      "じむしょ",
+      "エレベーター"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 143,
+    "question": "<b>ワイン</b>",
+    "options": [
+      "Bia",
+      "Nước",
+      "Rượu",
+      "Rượu vang"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 144,
+    "question": "<b>たばこ</b>",
+    "options": [
+      "Chợ",
+      "Lá cây",
+      "Thuốc lá",
+      "Từ"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "id": 145,
+    "question": "<b>ちか</b>",
+    "options": [
+      "Hành lang",
+      "Sảnh",
+      "Tầng hầm, dưới mặt đất",
+      "Tầng trệt"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 146,
+    "question": "<b>A：これは　なんですか。<p>B：（　）は　センターです。</p></b>",
+    "options": [
+      "あれ",
+      "これ",
+      "それ",
+      "どれ"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 147,
+    "question": "<b>これをください</b>",
+    "options": [
+      "chỗ này, đằng này (cách nói lịch sự của ここ)",
+      "chỗ đó",
+      "nghìn",
+      "xin bán cho tôi (cái này)"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 148,
+    "question": "<b>A：これは　なんですか。<p>B：（　）は　いくらです。</p></b>",
+    "options": [
+      "あれ",
+      "これ",
+      "それ",
+      "どれ"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 149,
+    "question": "<b>こちら</b>",
+    "options": [
+      "Chỗ kia (lịch sự)",
+      "Chỗ nào (lịch sự)",
+      "Chỗ này (lịch sự)",
+      "Chỗ đó (lịch sự)"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 150,
+    "question": "<b>ちかいっかい</b>",
+    "options": [
+      "Tầng 1",
+      "Tầng 2",
+      "Tầng 3",
+      "Tầng ngầm (dưới đất)"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 151,
+    "question": "<b>A：うちは　どちらですか。<p>B：（　）です。</p></b>",
+    "options": [
+      "あちら",
+      "こちら",
+      "そちら",
+      "どちら"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 152,
+    "question": "<b>A：エレベーターは　どこですか。<p>B：（　）です。</p></b>",
+    "options": [
+      "あそこ",
+      "ここ",
+      "そこ",
+      "どこ"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 153,
+    "question": "<b>A：事務所は　どこですか。<p>B：（　）です。</p></b>",
+    "options": [
+      "あそこ",
+      "ここ",
+      "そこ",
+      "どこ"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 154,
+    "question": "<b>ワイン</b>",
+    "options": [
+      "cầu thang máy",
+      "nhà",
+      "quầy, chỗ bán hàng (trong cửa hàng bách hóa, siêu thị)",
+      "rượu vang"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 155,
+    "question": "<b>なんかい</b>",
+    "options": [
+      "cầu thang",
+      "trung tâm [tu nghiệp]",
+      "tầng mấy",
+      "vạn, mười nghìn"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 156,
+    "question": "<b>tầng ngầm (dưới đất)</b>",
+    "options": [
+      "ここ",
+      "ちかいっかい",
+      "ちょっとすみません",
+      "ワイン"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 157,
+    "question": "<b>A：これは　なんですか。<p>B：（　）は　おくにです。</p></b>",
+    "options": [
+      "あれ",
+      "これ",
+      "それ",
+      "どれ"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 158,
+    "question": "<b>A：これは　なんですか。<p>B：（　）は　そちらです。</p></b>",
+    "options": [
+      "あれ",
+      "これ",
+      "それ",
+      "どれ"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 159,
+    "question": "<b>会議室</b>",
+    "options": [
+      "うりば",
+      "かいぎしつ",
+      "かいだん",
+      "へや"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 160,
+    "question": "<b>A：トイレは　どこですか。<p>B：（　）です。</p></b>",
+    "options": [
+      "あそこ",
+      "ここ",
+      "そこ",
+      "どこ"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 161,
+    "question": "<b>A：MTは（　）の<ruby>会社<rp>（</rp><rt>かいしゃ</rt><rp>）</rp></ruby>ですか。<p>B：たばこの<ruby>会社<rp>（</rp><rt>かいしゃ</rt><rp>）</rp></ruby>です。</p></b>",
+    "options": [
+      "何",
+      "何の"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 162,
+    "question": "<b>ちか</b>",
+    "options": [
+      "Tầng 2",
+      "Tầng hầm, dưới mặt đất",
+      "Tầng trên",
+      "Tầng trệt"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 163,
+    "question": "<b>うりば</b>",
+    "options": [
+      "Chợ",
+      "Cửa hàng",
+      "Quầy, chỗ bán hàng",
+      "Siêu thị"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 164,
+    "question": "<b>A：パワー<ruby>電気<rp>（</rp><rt>でんき</rt><rp>）</rp></ruby>（１）<ruby>何<rp>（</rp><rt>なん</rt><rp>）</rp></ruby>（２）<ruby>会社<rp>（</rp><rt>かいしゃ</rt><rp>）</rp></ruby>ですか。<p>B：コンピューター（３）<ruby>会社<rp>（</rp><rt>かいしゃ</rt><rp>）</rp></ruby>です。</p></b><p><b>(1)</b></p>",
+    "options": [
+      "に",
+      "は"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 165,
+    "question": "<b>A：すみません。そのワイン（１）<ruby>見<rp>（</rp><rt>み</rt><rp>）</rp></ruby>せてください。<p>B：どうぞ。</p><p>A：どこ（２）ワインですか。</p><p>B：フランスのです。</p><p>A：じゃ、これ（３）ください。</p></b><p><b>(3)</b></p>",
+    "options": [
+      "に",
+      "を"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 166,
+    "question": "<b>ワインうりば</b>",
+    "options": [
+      "cà vạt",
+      "quầy bán rượu vang",
+      "sân",
+      "tầng mấy"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 167,
+    "question": "<b>くつ</b>",
+    "options": [
+      "cho tôi xin lỗi (một chút)",
+      "giầy",
+      "kính mời vào (dùng để chào khách ở các nhà hàng, siêu thị…)",
+      "tầng ngầm (dưới đất)"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 168,
+    "question": "<b>A：かいしゃは（　）ですか。<p>B：パワーでんきです。</p></b>",
+    "options": [
+      "どちら",
+      "なん"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 169,
+    "question": "<b>A：マリアさん（１）お<ruby>国<rp>（</rp><rt>くに</rt><rp>）</rp></ruby>（２）どちらですか。<p>B：ブラジルです。</p></b><p><b>(1)</b></p>",
+    "options": [
+      "が",
+      "の"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 170,
+    "question": "<b>会社</b>",
+    "options": [
+      "かいしゃ",
+      "これをください",
+      "そこ",
+      "ネクタイ"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 171,
+    "question": "<b>cầu thang máy</b>",
+    "options": [
+      "ここ",
+      "しょくどう",
+      "ひゃく",
+      "エレベーター"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 172,
+    "question": "<b>A：うちは　どちらですか。<p>B：（　）です。</p></b>",
+    "options": [
+      "おおさか",
+      "きょうと",
+      "とうきょう",
+      "にほん"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 173,
+    "question": "<b>なんかい</b>",
+    "options": [
+      "bao nhiêu tiền",
+      "cầu thang máy",
+      "lớp học, phòng học",
+      "tầng mấy"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 174,
+    "question": "<b>～えん</b>",
+    "options": [
+      "nhà ăn, phòng ăn",
+      "tầng mấy",
+      "tầng ~",
+      "~ yên"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 175,
+    "question": "<b>じむしょ</b>",
+    "options": [
+      "Lớp học",
+      "Nhà ăn",
+      "Phòng họp",
+      "Văn phòng"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 176,
+    "question": "<b>おくに</b>",
+    "options": [
+      "Nước (quốc gia)",
+      "Quận",
+      "Thành phố",
+      "Tỉnh"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 177,
+    "question": "<b>うりば</b>",
+    "options": [
+      "chỗ này",
+      "chỗ này, đằng này (cách nói lịch sự của ここ)",
+      "chỗ đó",
+      "quầy, chỗ bán hàng (trong cửa hàng bách hóa, siêu thị)"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 178,
+    "question": "<b>そこ（　）じむしょです。</b>",
+    "options": [
+      "から",
+      "の",
+      "は",
+      "も"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 179,
+    "question": "<b>A：これは　いくらですか。<p>B：1000えんです。</p></b>",
+    "options": [
+      "いくつ",
+      "いくら",
+      "どれ",
+      "なん"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 180,
+    "question": "<b>nước (quốc gia)</b>",
+    "options": [
+      "おくに",
+      "きょうしつ",
+      "ちょっとすみません",
+      "～かい"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 181,
+    "question": "<b>A：パワー<ruby>電気<rp>（</rp><rt>でんき</rt><rp>）</rp></ruby>（１）<ruby>何<rp>（</rp><rt>なん</rt><rp>）</rp></ruby>（２）<ruby>会社<rp>（</rp><rt>かいしゃ</rt><rp>）</rp></ruby>ですか。<p>B：コンピューター（３）<ruby>会社<rp>（</rp><rt>かいしゃ</rt><rp>）</rp></ruby>です。</p></b><p><b>(2)</b></p>",
+    "options": [
+      "に",
+      "の"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 182,
+    "question": "<b>地下</b>",
+    "options": [
+      "あそこ",
+      "これをください",
+      "ちか",
+      "にわ"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 183,
+    "question": "<b>こちら</b>",
+    "options": [
+      "chỗ này, đằng này (cách nói lịch sự của ここ)",
+      "cầu thang cuốn",
+      "tầng hầm",
+      "văn phòng"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 184,
+    "question": "<b>A：うちは　どちらですか。<p>B：（　）です。</p></b>",
+    "options": [
+      "かいしゃ",
+      "とうきょう"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 185,
+    "question": "<b>かいしゃ</b>",
+    "options": [
+      "công ty",
+      "quầy bán rượu vang",
+      "rượu vang",
+      "sân"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 186,
+    "question": "<b>A：受付は　どこですか。<p>B：（　）です。</p></b>",
+    "options": [
+      "あそこ",
+      "ここ",
+      "そこ",
+      "どこ"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 187,
+    "question": "<b>A：すみません。そのワイン（１）<ruby>見<rp>（</rp><rt>み</rt><rp>）</rp></ruby>せてください。<p>B：どうぞ。</p><p>A：どこ（２）ワインですか。</p><p>B：フランスのです。</p><p>A：じゃ、これ（３）ください。</p></b><p><b>(1)</b></p>",
+    "options": [
+      "で",
+      "を"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 188,
+    "question": "<b>きょうしつ</b>",
+    "options": [
+      "chỗ này",
+      "kính mời vào (dùng để chào khách ở các nhà hàng, siêu thị…)",
+      "lớp học, phòng học",
+      "nghìn"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 189,
+    "question": "<b>にわ</b>",
+    "options": [
+      "chỗ kia, đằng kia (cách nói lịch sự của あそこ)",
+      "chỗ này, đằng này (cách nói lịch sự của ここ)",
+      "sân",
+      "tầng ngầm (dưới đất)"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 190,
+    "question": "<b>きょうしつ</b>",
+    "options": [
+      "chỗ này, đằng này (cách nói lịch sự của ここ)",
+      "kính mời vào (dùng để chào khách ở các nhà hàng, siêu thị…)",
+      "lớp học, phòng học",
+      "phòng"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 191,
+    "question": "<b>国</b>",
+    "options": [
+      "くに",
+      "くび",
+      "ぐに",
+      "こく"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 192,
+    "question": "<b>A：どこは　どこですか。<p>B：（　）です。</p></b>",
+    "options": [
+      "あそこ",
+      "ここ",
+      "そこ",
+      "どこ"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 193,
+    "question": "<b>どちら</b>",
+    "options": [
+      "phòng họp",
+      "phòng đợi, tiền sảnh",
+      "quầy bán rượu vang",
+      "ở đâu (cách nói lịch sự của どこ)"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 194,
     "question": "<b>A：その<ruby>時計<rp>（</rp><rt>とけい</rt><rp>）</rp></ruby>は（　）ですか。<p>B：１８，８００<ruby>円<rp>（</rp><rt>えん</rt><rp>）</rp></ruby>です。</p></b>",
-    "options": ["いくら", "いくつ"],
+    "options": [
+      "いくつ",
+      "いくら"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 195,
+    "question": "<b>Cà vạt</b>",
+    "options": [
+      "ネクタイ",
+      "ネクターイ",
+      "ネクータイ",
+      "ネークタイ"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "id": 196,
+    "question": "<b>A：カメラうりばは（　）ですか。<p>B：あちらです。</p></b>",
+    "options": [
+      "どちら",
+      "なん"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 197,
+    "question": "<b>A：カメラ<ruby>売<rp>（</rp><rt>う</rt><rp>）</rp></ruby>り<ruby>場<rp>（</rp><rt>ば</rt><rp>）</rp></ruby>は（　）ですか。<p>B：３<ruby>階<rp>（</rp><rt>かい</rt><rp>）</rp></ruby>です。</p></b>",
+    "options": [
+      "どれ",
+      "何階"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 198,
+    "question": "<b>Văn phòng</b>",
+    "options": [
+      "じむしょ",
+      "じむしょう",
+      "じむそ",
+      "じむそう"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 199,
+    "question": "<b>うりば</b>",
+    "options": [
+      "士リ場",
+      "士リ易",
+      "売り場",
+      "売り易"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "id": 200,
+    "question": "<b>きょうしつ</b>",
+    "options": [
+      "Lớp học, phòng học",
+      "Nhà ăn",
+      "Phòng họp",
+      "Văn phòng"
+    ],
     "correctAnswer": 0
   }
 ]

@@ -1,225 +1,136 @@
 [
   {
     "id": 1,
-    "question": "<b>わたし</b>",
+    "question": "<b>ひと</b>",
     "options": [
-      "Tôi",
-      "Chúng tôi",
-      "Chúng ta",
-      "Bạn"
+      "Giờ",
+      "Ngày",
+      "Người",
+      "Năm"
     ],
     "correctAnswer": 0
   },
   {
     "id": 2,
-    "question": "<b>みなさん</b>",
+    "question": "<b>あの人</b>",
     "options": [
-      "Quý vị/ Các anh chị/ Các ông bà",
-      "Anh",
-      "Các nhân viên",
-      "Ông/ Bà"
+      "あのじん",
+      "あのひと",
+      "あのひとつ",
+      "あのひとり"
     ],
     "correctAnswer": 0
   },
   {
     "id": 3,
-    "question": "<b>せんせい</b>",
+    "question": "<b>A：こちらは　たなかさんです。<p>B：（　）。</p></b>",
     "options": [
-      "Bác sĩ",
-      "Thầy/ Cô",
-      "Công nhân",
-      "Sinh viên"
+      "おなまえは？",
+      "どうぞよろしく",
+      "初めまして",
+      "失礼ですが"
     ],
-    "correctAnswer": 1
+    "correctAnswer": 0
   },
   {
     "id": 4,
-    "question": "<b>がくせい</b>",
+    "question": "<b>社員</b>",
     "options": [
-      "Nghiên cứu sinh",
-      "Nha sĩ",
-      "Học sinh",
-      "Giáo viên"
+      "しゃい",
+      "しゃいん",
+      "しゃいーん",
+      "しゃん"
     ],
-    "correctAnswer": 2
+    "correctAnswer": 0
   },
   {
     "id": 5,
-    "question": "<b>エンジニア</b>",
+    "question": "<b>なんさい</b>",
     "options": [
-      "Giáo viên",
-      "Kỹ sư",
-      "Nhà nghiên cứu",
-      "Ca sĩ"
+      "何劌",
+      "何歳",
+      "何産",
+      "何羲"
     ],
-    "correctAnswer": 1
+    "correctAnswer": 2
   },
   {
     "id": 6,
-    "question": "<b>Bệnh viện</b>",
+    "question": "<b>失礼ですが</b>",
     "options": [
-      "びよいん",
-      "びょいん",
-      "びょういん",
-      "びよういん"
+      "Cảm ơn",
+      "Tạm biệt",
+      "Xin chào",
+      "Xin lỗi"
     ],
-    "correctAnswer": 2
+    "correctAnswer": 0
   },
   {
     "id": 7,
-    "question": "<b>Hàn Quốc</b>",
+    "question": "<b>あの方</b>",
     "options": [
-      "かんごく",
-      "かごく",
-      "かんこく",
-      "かこく"
+      "あのかた",
+      "あのかだ",
+      "あのほう",
+      "あのほうが"
     ],
-    "correctAnswer": 2
+    "correctAnswer": 0
   },
   {
     "id": 8,
-    "question": "<b>Điện thoại</b>",
+    "question": "<b>おいくつ</b>",
     "options": [
-      "てんわ",
-      "でんわ",
-      "でウワ",
-      "デーワ"
+      "Bao nhiêu",
+      "Bao nhiêu tuổi (lịch sự)",
+      "Bao nhiêu tuổi (thông thường)",
+      "Mấy giờ"
     ],
-    "correctAnswer": 1
+    "correctAnswer": 0
   },
   {
     "id": 9,
-    "question": "<b>Ấn Độ</b>",
+    "question": "<b>A：失礼ですが、おなまえは？<p>B：（　）。</p></b>",
     "options": [
-      "エンド",
-      "インド",
-      "インード",
-      "イーンド"
+      "こちらはたなかです",
+      "たなかさんです",
+      "たなかさんですか",
+      "たなかです"
     ],
-    "correctAnswer": 1
+    "correctAnswer": 0
   },
   {
     "id": 10,
-    "question": "<b>Nhân viên công ty</b>",
+    "question": "<b>大学</b>",
     "options": [
-      "しゃうん",
-      "さいん",
-      "かいいん",
-      "しゃいん"
+      "たいがく",
+      "たいがっく",
+      "だいがく",
+      "だいがっく"
     ],
-    "correctAnswer": 3
+    "correctAnswer": 0
   },
   {
     "id": 11,
-    "question": "<b>なんさい</b>",
+    "question": "<b>やまださんは　IMC（　）しゃいんです。</b>",
     "options": [
-      "何産",
-      "何羲",
-      "何歳",
-      "何劌"
+      "の",
+      "も"
     ],
-    "correctAnswer": 2
+    "correctAnswer": 0
   },
   {
     "id": 12,
-    "question": "<b>いしゃ</b>",
+    "question": "<b>A：どちらから　きましたか。<p>B：（　）から　きました。</p></b>",
     "options": [
-      "医者",
-      "医孝",
-      "国者",
-      "国孝"
+      "ちゅうごく",
+      "ちゅうごくさん",
+      "ちゅうごくじん",
+      "ちゅうごくの"
     ],
     "correctAnswer": 0
   },
   {
     "id": 13,
-    "question": "<b>きょうし</b>",
-    "options": [
-      "教室",
-      "教育",
-      "教屋",
-      "教師"
-    ],
-    "correctAnswer": 3
-  },
-  {
-    "id": 14,
-    "question": "<b>かいしゃいん</b>",
-    "options": [
-      "会社員",
-      "会祉員",
-      "会社買",
-      "合祉買"
-    ],
-    "correctAnswer": 0
-  },
-  {
-    "id": 15,
-    "question": "<b>けんきゅうしゃ</b>",
-    "options": [
-      "破究者",
-      "破究考",
-      "研究者"
-    ],
-    "correctAnswer": 2
-  },
-  {
-    "id": 16,
-    "question": "<b>日本</b>",
-    "options": [
-      "にんほん",
-      "にっぼん",
-      "にっほん",
-      "にほん"
-    ],
-    "correctAnswer": 3
-  },
-  {
-    "id": 17,
-    "question": "<b>銀行員</b>",
-    "options": [
-      "ぎんきょいん",
-      "きんきょういん",
-      "きんこいん",
-      "ぎんこういん"
-    ],
-    "correctAnswer": 3
-  },
-  {
-    "id": 18,
-    "question": "<b>あの方</b>",
-    "options": [
-      "あのがた",
-      "あのかた",
-      "あのほ",
-      "あのひょう"
-    ],
-    "correctAnswer": 1
-  },
-  {
-    "id": 19,
-    "question": "<b>歳</b>",
-    "options": [
-      "サー",
-      "ざい",
-      "しゃい",
-      "さい"
-    ],
-    "correctAnswer": 3
-  },
-  {
-    "id": 20,
-    "question": "<b>初めまして</b>",
-    "options": [
-      "はしめまして",
-      "ばしめまして",
-      "ばじめまして",
-      "はじめまして"
-    ],
-    "correctAnswer": 3
-  },
-  {
-    "id": 21,
     "question": "<b>A：あなたは　ミラーさんですか。<p>B：（　）。</p></b>",
     "options": [
       "はい、ミラーさんです",
@@ -228,52 +139,1026 @@
     "correctAnswer": 1
   },
   {
-    "id": 22,
-    "question": "<b>A：やまださんは　ぎんこういんですか。<p>B：（　）。</p></b>",
+    "id": 14,
+    "question": "<b>Người Việt Nam</b>",
     "options": [
-      "はい、ぎんこういんです",
-      "いいえ、ぎんこういんです"
+      "ベトナム",
+      "ベトナムから",
+      "ベトナムじん",
+      "ベトナムの"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 15,
+    "question": "<b>かいわ</b>",
+    "options": [
+      "Học tập",
+      "Hội thoại",
+      "Làm việc",
+      "Nghỉ ngơi"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 16,
+    "question": "<b>Các bạn</b>",
+    "options": [
+      "あなた",
+      "あなたがた",
+      "みなさん",
+      "わたしたち"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 17,
+    "question": "<b>わたしは　せんせいです。あなた（　）せんせいですか。</b>",
+    "options": [
+      "から",
+      "の",
+      "は",
+      "も"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 18,
+    "question": "<b>Trung Quốc</b>",
+    "options": [
+      "ちゅうこく",
+      "ちゅうごうく",
+      "ちゅうごく",
+      "ちゅごく"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 19,
+    "question": "<b>わたしは　ベトナム（　）です。</b>",
+    "options": [
+      "から",
+      "さん",
+      "じん",
+      "の"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 20,
+    "question": "<b>何歳</b>",
+    "options": [
+      "なさ",
+      "なさい",
+      "なんさ",
+      "なんさい"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 21,
+    "question": "<b>A：あの　かたは　どなたですか。<p>B：（　）です。</p></b>",
+    "options": [
+      "やまだ",
+      "やまだから",
+      "やまださん",
+      "やまだじん"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 22,
+    "question": "<b>かいしゃいん</b>",
+    "options": [
+      "Giáo viên",
+      "Học sinh",
+      "Nhân viên công ty (nghề nghiệp)",
+      "Nhân viên công ty cụ thể"
     ],
     "correctAnswer": 0
   },
   {
     "id": 23,
-    "question": "<b>A：ワンさんは　かいしゃいんですか。<p>B：（　）。</p></b>",
+    "question": "<b>イギリス</b>",
     "options": [
-      "いいえ、かいしゃいんです",
-      "いいえ、かいしゃいんじゃ　ありません"
+      "Anh",
+      "Mỹ",
+      "Pháp",
+      "Đức"
     ],
-    "correctAnswer": 1
+    "correctAnswer": 0
   },
   {
     "id": 24,
-    "question": "<b>A：やまださんは　なんさいですか。<p>B：（　）。</p></b>",
+    "question": "<b>方</b>",
     "options": [
-      "はい、35さいです",
-      "35さいです"
+      "かた",
+      "かだ",
+      "がた",
+      "がだ"
     ],
-    "correctAnswer": 1
+    "correctAnswer": 0
   },
   {
     "id": 25,
-    "question": "<b>A：あの　ひとは　だれですか。<p>B：（　）。</p></b>",
+    "question": "<b>こちらは～さんです</b>",
     "options": [
-      "だれですか",
-      "さとうさんです"
+      "Kia là anh/chị...",
+      "Tôi là...",
+      "Đây là anh/chị...",
+      "Đó là anh/chị..."
     ],
-    "correctAnswer": 1
+    "correctAnswer": 0
   },
   {
     "id": 26,
-    "question": "<b>A：たろうちゃんは（　）ですか。<p>B：８さいです。</p></b>",
+    "question": "<b>Người Hàn Quốc</b>",
     "options": [
-      "なんさい",
-      "だれ"
+      "かんこく",
+      "かんこくから",
+      "かんこくじん",
+      "かんこくの"
     ],
     "correctAnswer": 0
   },
   {
     "id": 27,
+    "question": "<b>歳</b>",
+    "options": [
+      "さ",
+      "さい",
+      "ざ",
+      "ざい"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 28,
+    "question": "<b>病院</b>",
+    "options": [
+      "びょいん",
+      "びょういん",
+      "びよいん",
+      "びよういん"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 29,
+    "question": "<b>どうぞよろしくお願いします</b>",
+    "options": [
+      "Cảm ơn",
+      "Từ nay mong anh giúp đỡ",
+      "Xin chào",
+      "Xin lỗi"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 30,
+    "question": "<b>A：おいくつですか。<p>B：25（　）です。</p></b>",
+    "options": [
+      "がつ",
+      "さい",
+      "にち",
+      "ねん"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 31,
+    "question": "<b>しゃいん</b>",
+    "options": [
+      "Giáo viên",
+      "Học sinh",
+      "Nhân viên công ty (nghề nghiệp)",
+      "Nhân viên công ty cụ thể"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 32,
+    "question": "<b>A：たろうちゃんは（　）ですか。<p>B：８さいです。</p></b>",
+    "options": [
+      "だれ",
+      "なんさい"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 33,
+    "question": "<b>A：あなたは　せんせいですか。<p>B：いいえ、せんせい（　）ありません。</p></b>",
+    "options": [
+      "から",
+      "じゃ",
+      "の",
+      "も"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 34,
+    "question": "<b>A：どちらから　きましたか。<p>B：（　）から　きました。</p></b>",
+    "options": [
+      "ベトナム",
+      "ベトナムさん",
+      "ベトナムじん",
+      "ベトナムの"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 35,
+    "question": "<b>こちらは　わたし（　）ともだちです。</b>",
+    "options": [
+      "から",
+      "の",
+      "は",
+      "も"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 36,
+    "question": "<b>しゃいん</b>",
+    "options": [
+      "Giáo viên",
+      "Học sinh",
+      "Nhân viên công ty cụ thể",
+      "Nhân viên công ty nói chung"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 37,
+    "question": "<b>～くん</b>",
+    "options": [
+      "Hậu tố cho bé gái",
+      "Hậu tố cho bé trai",
+      "Hậu tố chỉ nghề nghiệp",
+      "Hậu tố lịch sự"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 38,
+    "question": "<b>A：あなたは　なんさいですか。<p>B：33（　）です。</p></b>",
+    "options": [
+      "がつ",
+      "さい",
+      "にち",
+      "ねん"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 39,
+    "question": "<b>わたしは　インドネシア（　）です。</b>",
+    "options": [
+      "から",
+      "さん",
+      "じん",
+      "の"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 40,
+    "question": "<b>こちらは</b>",
+    "options": [
+      "Cái này là",
+      "Kia là",
+      "Đây là",
+      "Đó là"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 41,
+    "question": "<b>A：おいくつですか。<p>B：32（　）です。</p></b>",
+    "options": [
+      "がつ",
+      "さい",
+      "にち",
+      "ねん"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 42,
+    "question": "<b>きょうし</b>",
+    "options": [
+      "教室",
+      "教屋",
+      "教師",
+      "教育"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "id": 43,
+    "question": "<b>A：おなまえは？<p>B：（　）。</p></b>",
+    "options": [
+      "こちらはたなかです",
+      "たなかさんです",
+      "たなかさんですか",
+      "たなかです"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 44,
+    "question": "<b>わたしは　ちゅうごく（　）です。</b>",
+    "options": [
+      "から",
+      "さん",
+      "じん",
+      "の"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 45,
+    "question": "<b>A：あなたは　だれですか。<p>B：（　）です。</p></b>",
+    "options": [
+      "さとう",
+      "さとうから",
+      "さとうさん",
+      "さとうじん"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 46,
+    "question": "<b>マレーシア</b>",
+    "options": [
+      "Indonesia",
+      "Malaysia",
+      "Philippines",
+      "Singapore"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 47,
+    "question": "<b>A：あの　ひとは　だれですか。<p>B：（　）。</p></b>",
+    "options": [
+      "さとうさんです",
+      "だれですか"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 48,
+    "question": "<b>アメリカじん</b>",
+    "options": [
+      "Người Mỹ",
+      "Người Nhật",
+      "Người Trung",
+      "Người Việt"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 49,
+    "question": "<b>～じん</b>",
+    "options": [
+      "Hậu tố lịch sự",
+      "Người (lịch sự)",
+      "Người (thông thường)",
+      "Người nước..."
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 50,
+    "question": "<b>あなたがた</b>",
+    "options": [
+      "Bạn (số ít)",
+      "Chúng tôi",
+      "Các bạn (số nhiều)",
+      "Tôi"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 51,
+    "question": "<b>日本</b>",
+    "options": [
+      "にっほん",
+      "にっぼん",
+      "にほん",
+      "にんほん"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "id": 52,
+    "question": "<b>A：あなたは　かいしゃいんですか。<p>B：いいえ、かいしゃいん（　）ありません。</p></b>",
+    "options": [
+      "から",
+      "じゃ",
+      "の",
+      "も"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 53,
+    "question": "<b>歳</b>",
+    "options": [
+      "さい",
+      "ざい",
+      "しゃい",
+      "サー"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "id": 54,
+    "question": "<b>A：おいくつですか。<p>B：30（　）です。</p></b>",
+    "options": [
+      "がつ",
+      "さい",
+      "にち",
+      "ねん"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 55,
+    "question": "<b>いいえ</b>",
+    "options": [
+      "Có thể",
+      "Không",
+      "Không biết",
+      "Vâng, dạ"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 56,
+    "question": "<b>A：おいくつですか。<p>B：40（　）です。</p></b>",
+    "options": [
+      "がつ",
+      "さい",
+      "にち",
+      "ねん"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 57,
+    "question": "<b>ベトナム</b>",
+    "options": [
+      "Hàn Quốc",
+      "Thái Lan",
+      "Trung Quốc",
+      "Việt Nam"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 58,
+    "question": "<b>人</b>",
+    "options": [
+      "しと",
+      "しど",
+      "ひと",
+      "ひど"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 59,
+    "question": "<b>A：あなたは　だれですか。<p>B：（　）です。</p></b>",
+    "options": [
+      "たなか",
+      "たなかから",
+      "たなかさん",
+      "たなかじん"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 60,
+    "question": "<b>なんさい</b>",
+    "options": [
+      "Bao nhiêu",
+      "Bao nhiêu tuổi (lịch sự)",
+      "Mấy giờ",
+      "Mấy tuổi (thông thường)"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 61,
+    "question": "<b>わたしたち</b>",
+    "options": [
+      "Bạn",
+      "Chúng tôi",
+      "Họ",
+      "Tôi"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 62,
+    "question": "<b>電気</b>",
+    "options": [
+      "てんき",
+      "てんぎ",
+      "でんき",
+      "でんぎ"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 63,
+    "question": "<b>Người Trung Quốc</b>",
+    "options": [
+      "ちゅうごく",
+      "ちゅうごくから",
+      "ちゅうごくじん",
+      "ちゅうごくの"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 64,
+    "question": "<b>かいしゃいん</b>",
+    "options": [
+      "会社員",
+      "会社買",
+      "会祉員",
+      "合祉買"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 65,
+    "question": "<b>ちゅうごくじん</b>",
+    "options": [
+      "Người Mỹ",
+      "Người Nhật",
+      "Người Trung Quốc",
+      "Người Việt"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 66,
+    "question": "<b>はじめまして</b>",
+    "options": [
+      "Cảm ơn",
+      "Tạm biệt",
+      "Xin chào (hàng ngày)",
+      "Xin chào (lần đầu gặp)"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 67,
+    "question": "<b>研究者</b>",
+    "options": [
+      "けきゅうしゃ",
+      "けきゅしゃ",
+      "けんきゅうしゃ",
+      "けんきゅしゃ"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 68,
+    "question": "<b>Bệnh viện</b>",
+    "options": [
+      "びょいん",
+      "びょういん",
+      "びよいん",
+      "びよういん"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 69,
+    "question": "<b>A：どちらから　きましたか。<p>B：（　）から　きました。</p></b>",
+    "options": [
+      "イギリス",
+      "イギリスさん",
+      "イギリスじん",
+      "イギリスの"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 70,
+    "question": "<b>研修生</b>",
+    "options": [
+      "けしゅうせい",
+      "けしゅせい",
+      "けんしゅうせい",
+      "けんしゅせい"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 71,
+    "question": "<b>フィリピン</b>",
+    "options": [
+      "Indonesia",
+      "Malaysia",
+      "Philippines",
+      "Thái Lan"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 72,
+    "question": "<b>A：おいくつですか。<p>B：28（　）です。</p></b>",
+    "options": [
+      "がつ",
+      "さい",
+      "にち",
+      "ねん"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 73,
+    "question": "<b>Người Nhật</b>",
+    "options": [
+      "にほん",
+      "にほんから",
+      "にほんじん",
+      "にほんの"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 74,
+    "question": "<b>インドネシア</b>",
+    "options": [
+      "Indonesia",
+      "Malaysia",
+      "Philippines",
+      "Thái Lan"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 75,
+    "question": "<b>わたしは　がくせいです。あなた（　）がくせいですか。</b>",
+    "options": [
+      "から",
+      "の",
+      "は",
+      "も"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 76,
+    "question": "<b>A：たろうちゃんは　なんさいですか。<p>B：6（　）です。</p></b>",
+    "options": [
+      "がつ",
+      "さい",
+      "にち",
+      "ねん"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 77,
+    "question": "<b>どなた</b>",
+    "options": [
+      "Ai (lịch sự)",
+      "Ai (thông thường)",
+      "Cái gì",
+      "Ở đâu"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 78,
+    "question": "<b>A：はなちゃんは　なんさいですか。<p>B：4（　）です。</p></b>",
+    "options": [
+      "がつ",
+      "さい",
+      "にち",
+      "ねん"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 79,
+    "question": "<b>A：おいくつですか。<p>B：18（　）です。</p></b>",
+    "options": [
+      "がつ",
+      "さい",
+      "にち",
+      "ねん"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 80,
+    "question": "<b>あのひと</b>",
+    "options": [
+      "Người kia",
+      "Người này",
+      "Người đó",
+      "Người ấy (gần)"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 81,
+    "question": "<b>いしゃ</b>",
+    "options": [
+      "医孝",
+      "医者",
+      "国孝",
+      "国者"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 82,
+    "question": "<b>A：どちらから　きましたか。<p>B：（　）から　きました。</p></b>",
+    "options": [
+      "マレーシア",
+      "マレーシアさん",
+      "マレーシアじん",
+      "マレーシアの"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 83,
+    "question": "<b>会社員</b>",
+    "options": [
+      "かいしゃい",
+      "かいしゃいん",
+      "かいしゃいーん",
+      "かいしゃん"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 84,
+    "question": "<b>がくせい</b>",
+    "options": [
+      "Giáo viên",
+      "Học sinh",
+      "Nghiên cứu sinh",
+      "Nha sĩ"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 85,
+    "question": "<b>わたしは　イギリス（　）です。</b>",
+    "options": [
+      "から",
+      "さん",
+      "じん",
+      "の"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 86,
+    "question": "<b>銀行員</b>",
+    "options": [
+      "きんこいん",
+      "きんこういん",
+      "ぎんこいん",
+      "ぎんこういん"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 87,
+    "question": "<b>けんしゅうせい</b>",
+    "options": [
+      "Học sinh",
+      "Nghiên cứu sinh",
+      "Sinh viên",
+      "Tu nghiệp sinh"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 88,
+    "question": "<b>医者</b>",
+    "options": [
+      "いしゃ",
+      "いしや",
+      "いじゃ",
+      "いじや"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 89,
+    "question": "<b>あの方</b>",
+    "options": [
+      "あのかた",
+      "あのがた",
+      "あのひょう",
+      "あのほ"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 90,
+    "question": "<b>A：あの　かたは　どなたですか。<p>B：（　）です。</p></b>",
+    "options": [
+      "すずき",
+      "すずきから",
+      "すずきさん",
+      "すずきじん"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 91,
+    "question": "<b>A：あなたは　がくせいですか。<p>B：いいえ、がくせい（　）ありません。</p></b>",
+    "options": [
+      "から",
+      "じゃ",
+      "の",
+      "も"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 92,
+    "question": "<b>だいがく</b>",
+    "options": [
+      "Mẫu giáo",
+      "Tiểu học",
+      "Trung học",
+      "Đại học"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 93,
+    "question": "<b>A：はじめまして。やまだです。<p>B：たなかです。（　）。</p></b>",
+    "options": [
+      "おなまえは？",
+      "こちらは",
+      "どうぞよろしく",
+      "失礼ですが"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 94,
+    "question": "<b>Người (lịch sự)</b>",
+    "options": [
+      "かた",
+      "さん",
+      "じん",
+      "ひと"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 95,
+    "question": "<b>でんき</b>",
+    "options": [
+      "Máy tính",
+      "Tivi",
+      "Điện",
+      "Điện thoại"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 96,
+    "question": "<b>A：たろうちゃんは　なんさいですか。<p>B：9（　）です。</p></b>",
+    "options": [
+      "がつ",
+      "さい",
+      "にち",
+      "ねん"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 97,
+    "question": "<b>わたし</b>",
+    "options": [
+      "Bạn",
+      "Chúng ta",
+      "Chúng tôi",
+      "Tôi"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 98,
+    "question": "<b>こちらは　FPT（　）しゃいんです。</b>",
+    "options": [
+      "から",
+      "の",
+      "は",
+      "も"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 99,
+    "question": "<b>先生</b>",
+    "options": [
+      "せいせい",
+      "せせい",
+      "せんせ",
+      "せんせい"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 100,
+    "question": "<b>～さん</b>",
+    "options": [
+      "Hậu tố cho bé gái",
+      "Hậu tố cho bé trai",
+      "Hậu tố chỉ nghề nghiệp",
+      "Hậu tố lịch sự"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 101,
+    "question": "<b>A：こちらは　リンさんです。リンさんは　がくせいです。<p>B：（　）。</p></b>",
+    "options": [
+      "おなまえは？",
+      "どうぞよろしく",
+      "初めまして",
+      "失礼ですが"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 102,
+    "question": "<b>しつれいですが</b>",
+    "options": [
+      "Cảm ơn",
+      "Tạm biệt",
+      "Xin chào",
+      "Xin lỗi (khi bắt đầu hỏi)"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 103,
+    "question": "<b>こちらは　IMC（　）しゃいんです。</b>",
+    "options": [
+      "から",
+      "の",
+      "は",
+      "も"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 104,
+    "question": "<b>だれ</b>",
+    "options": [
+      "Ai (lịch sự)",
+      "Ai (thông thường)",
+      "Cái gì",
+      "Ở đâu"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 105,
+    "question": "<b>ベトナムじん</b>",
+    "options": [
+      "Người Mỹ",
+      "Người Nhật",
+      "Người Trung",
+      "Người Việt Nam"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 106,
+    "question": "<b>専門</b>",
+    "options": [
+      "せも",
+      "せもん",
+      "せんも",
+      "せんもん"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 107,
     "question": "<b>A：あの　かたは（　）ですか。<p>B：ミラーさんです。</p></b>",
     "options": [
       "おいくつ",
@@ -282,16 +1167,51 @@
     "correctAnswer": 1
   },
   {
-    "id": 28,
-    "question": "<b>わたしは（　）から　きました。</b>",
+    "id": 108,
+    "question": "<b>にほんじん</b>",
     "options": [
-      "ブラジル",
-      "ブラジルじん"
+      "Người Mỹ",
+      "Người Nhật",
+      "Người Trung",
+      "Người Việt"
     ],
     "correctAnswer": 0
   },
   {
-    "id": 29,
+    "id": 109,
+    "question": "<b>どうぞよろしく</b>",
+    "options": [
+      "Cảm ơn",
+      "Từ nay mong anh giúp đỡ",
+      "Xin chào",
+      "Xin lỗi"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 110,
+    "question": "<b>A：おいくつですか。<p>B：22（　）です。</p></b>",
+    "options": [
+      "がつ",
+      "さい",
+      "にち",
+      "ねん"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 111,
+    "question": "<b>A：どちらから　きましたか。<p>B：（　）から　きました。</p></b>",
+    "options": [
+      "フィリピン",
+      "フィリピンさん",
+      "フィリピンじん",
+      "フィリピンの"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 112,
     "question": "<b>さとうさんは　にほんじんです。やまださん（　）にほんじんです。</b>",
     "options": [
       "の",
@@ -300,12 +1220,665 @@
     "correctAnswer": 1
   },
   {
-    "id": 30,
-    "question": "<b>やまださんは　IMC（　）しゃいんです。</b>",
+    "id": 113,
+    "question": "<b>学生</b>",
     "options": [
+      "がくせ",
+      "がくせい",
+      "がっせ",
+      "がっせい"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 114,
+    "question": "<b>A：ワンさんは　かいしゃいんですか。<p>B：（　）。</p></b>",
+    "options": [
+      "いいえ、かいしゃいんじゃ　ありません",
+      "いいえ、かいしゃいんです"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 115,
+    "question": "<b>わたしは　タイ（　）です。</b>",
+    "options": [
+      "から",
+      "さん",
+      "じん",
+      "の"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 116,
+    "question": "<b>銀行員</b>",
+    "options": [
+      "きんきょういん",
+      "きんこいん",
+      "ぎんきょいん",
+      "ぎんこういん"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "id": 117,
+    "question": "<b>フランス</b>",
+    "options": [
+      "Anh",
+      "Mỹ",
+      "Pháp",
+      "Đức"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 118,
+    "question": "<b>Thái Lan</b>",
+    "options": [
+      "タイ",
+      "タイランド",
+      "タイランドー",
+      "タイー"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 119,
+    "question": "<b>ブラジル</b>",
+    "options": [
+      "Anh",
+      "Brazil",
+      "Pháp",
+      "Đức"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 120,
+    "question": "<b>けんきゅうしゃ</b>",
+    "options": [
+      "研究者",
+      "破究考",
+      "破究者"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 121,
+    "question": "<b>かた</b>",
+    "options": [
+      "Người (lịch sự)",
+      "Người (thông thường)",
+      "Phương hướng",
+      "Vị trí"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 122,
+    "question": "<b>A：たろうちゃんは　なんさいですか。<p>B：7（　）です。</p></b>",
+    "options": [
+      "がつ",
+      "さい",
+      "にち",
+      "ねん"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 123,
+    "question": "<b>わたしは　ドイツ（　）です。</b>",
+    "options": [
+      "から",
+      "さん",
+      "じん",
+      "の"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 124,
+    "question": "<b>あのかた</b>",
+    "options": [
+      "Vị kia (lịch sự)",
+      "Vị này",
+      "Vị đó",
+      "Vị ấy (gần)"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 125,
+    "question": "<b>A：どちらから　きましたか。<p>B：（　）から　きました。</p></b>",
+    "options": [
+      "インド",
+      "インドさん",
+      "インドじん",
+      "インドの"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 126,
+    "question": "<b>おいくつ</b>",
+    "options": [
+      "Bao nhiêu",
+      "Bao nhiêu tuổi (lịch sự)",
+      "Mấy giờ",
+      "Mấy tuổi (thông thường)"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 127,
+    "question": "<b>Chúng tôi</b>",
+    "options": [
+      "あなた",
+      "あなたがた",
+      "わたし",
+      "わたしたち"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 128,
+    "question": "<b>技術者</b>",
+    "options": [
+      "きじつしゃ",
+      "きじゅつしゃ",
+      "ぎじつしゃ",
+      "ぎじゅつしゃ"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 129,
+    "question": "<b>A：どちらから　きましたか。<p>B：（　）から　きました。</p></b>",
+    "options": [
+      "にほん",
+      "にほんさん",
+      "にほんじん",
+      "にほんの"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 130,
+    "question": "<b>A：あなたは　どちらから　きましたか。<p>B：（　）から　きました。</p></b>",
+    "options": [
+      "にほん",
+      "にほんさん",
+      "にほんじん",
+      "にほんの"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 131,
+    "question": "<b>Nhân viên công ty</b>",
+    "options": [
+      "かいいん",
+      "さいん",
+      "しゃいん",
+      "しゃうん"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "id": 132,
+    "question": "<b>みなさん</b>",
+    "options": [
+      "Bạn",
+      "Chúng tôi",
+      "Mọi người",
+      "Tôi"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 133,
+    "question": "<b>A：やまださんは　ぎんこういんですか。<p>B：（　）。</p></b>",
+    "options": [
+      "いいえ、ぎんこういんです",
+      "はい、ぎんこういんです"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 134,
+    "question": "<b>かんこくじん</b>",
+    "options": [
+      "Người Hàn Quốc",
+      "Người Mỹ",
+      "Người Nhật",
+      "Người Việt"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 135,
+    "question": "<b>こちら</b>",
+    "options": [
+      "Cái này",
+      "Kia (lịch sự)",
+      "Đây (lịch sự)",
+      "Đó (lịch sự)"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 136,
+    "question": "<b>Hội thoại</b>",
+    "options": [
+      "かいしゃ",
+      "かいわ",
+      "がっこう",
+      "びょういん"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 137,
+    "question": "<b>教師</b>",
+    "options": [
+      "きょうし",
+      "きょうじ",
+      "きょし",
+      "きょじ"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 138,
+    "question": "<b>せんせい</b>",
+    "options": [
+      "Bác sĩ",
+      "Công nhân",
+      "Sinh viên",
+      "Thầy/ Cô"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 139,
+    "question": "<b>はい</b>",
+    "options": [
+      "Có thể",
+      "Không",
+      "Không biết",
+      "Vâng, dạ"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 140,
+    "question": "<b>ともだち</b>",
+    "options": [
+      "Bạn bè",
+      "Giáo viên",
+      "Học sinh",
+      "Đồng nghiệp"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 141,
+    "question": "<b>やまださんは　にほんじんです。たなかさん（　）にほんじんです。</b>",
+    "options": [
+      "から",
       "の",
+      "は",
       "も"
     ],
     "correctAnswer": 0
+  },
+  {
+    "id": 142,
+    "question": "<b>わたしは　にほん（　）です。</b>",
+    "options": [
+      "から",
+      "さん",
+      "じん",
+      "の"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 143,
+    "question": "<b>Bạn bè</b>",
+    "options": [
+      "がくせい",
+      "しゃいん",
+      "せんせい",
+      "ともだち"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 144,
+    "question": "<b>わたしは　フィリピン（　）です。</b>",
+    "options": [
+      "から",
+      "さん",
+      "じん",
+      "の"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 145,
+    "question": "<b>初めまして</b>",
+    "options": [
+      "はしめまして",
+      "はじめまして",
+      "ばしめまして",
+      "ばじめまして"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "id": 146,
+    "question": "<b>A：おいくつですか。<p>B：24（　）です。</p></b>",
+    "options": [
+      "がつ",
+      "さい",
+      "にち",
+      "ねん"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 147,
+    "question": "<b>わたしは　マレーシア（　）です。</b>",
+    "options": [
+      "から",
+      "さん",
+      "じん",
+      "の"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 148,
+    "question": "<b>きょうし</b>",
+    "options": [
+      "Bác sĩ",
+      "Giáo viên (gọi)",
+      "Giáo viên (nghề nghiệp)",
+      "Học sinh"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 149,
+    "question": "<b>エンジニア</b>",
+    "options": [
+      "Ca sĩ",
+      "Giáo viên",
+      "Kỹ sư",
+      "Nhà nghiên cứu"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 150,
+    "question": "<b>A：あなたは　なんさいですか。<p>B：20（　）です。</p></b>",
+    "options": [
+      "がつ",
+      "さい",
+      "にち",
+      "ねん"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 151,
+    "question": "<b>私</b>",
+    "options": [
+      "わたし",
+      "わたち",
+      "わだし",
+      "わだち"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 152,
+    "question": "<b>わたしは（　）から　きました。</b>",
+    "options": [
+      "ブラジル",
+      "ブラジルじん"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 153,
+    "question": "<b>A：あなたは　だれですか。<p>B：（　）です。</p></b>",
+    "options": [
+      "すずき",
+      "すずきから",
+      "すずきさん",
+      "すずきじん"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 154,
+    "question": "<b>A：やまださんは　なんさいですか。<p>B：（　）。</p></b>",
+    "options": [
+      "35さいです",
+      "はい、35さいです"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 155,
+    "question": "<b>A：はじめまして。たなかです。<p>B：やまだです。（　）。</p></b>",
+    "options": [
+      "おなまえは？",
+      "こちらは",
+      "どうぞよろしく",
+      "失礼ですが"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 156,
+    "question": "<b>A：あなたは　なんさいですか。<p>B：35（　）です。</p></b>",
+    "options": [
+      "がつ",
+      "さい",
+      "にち",
+      "ねん"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 157,
+    "question": "<b>～ちゃん</b>",
+    "options": [
+      "Hậu tố cho bé gái",
+      "Hậu tố cho bé trai",
+      "Hậu tố chỉ nghề nghiệp",
+      "Hậu tố lịch sự"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 158,
+    "question": "<b>A：はなちゃんは　なんさいですか。<p>B：3（　）です。</p></b>",
+    "options": [
+      "がつ",
+      "さい",
+      "にち",
+      "ねん"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 159,
+    "question": "<b>私たち</b>",
+    "options": [
+      "わたしたち",
+      "わたちたち",
+      "わだしたち",
+      "わだちだち"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 160,
+    "question": "<b>A：はじめまして。やまだです。<p>B：（　）。</p></b>",
+    "options": [
+      "おなまえは？",
+      "こちらは",
+      "どうぞよろしく",
+      "失礼ですが"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 161,
+    "question": "<b>おなまえは？</b>",
+    "options": [
+      "Bạn bao nhiêu tuổi?",
+      "Bạn làm nghề gì?",
+      "Bạn đến từ đâu?",
+      "Tên bạn là gì?"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 162,
+    "question": "<b>A：たろうちゃんは　なんさいですか。<p>B：5（　）です。</p></b>",
+    "options": [
+      "がつ",
+      "さい",
+      "にち",
+      "ねん"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 163,
+    "question": "<b>～から来ました</b>",
+    "options": [
+      "Làm việc tại...",
+      "Sống ở...",
+      "Đi đến...",
+      "Đến từ..."
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 164,
+    "question": "<b>A：あの　かたは　どなたですか。<p>B：（　）です。</p></b>",
+    "options": [
+      "さとう",
+      "さとうから",
+      "さとうさん",
+      "さとうじん"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 165,
+    "question": "<b>Ấn Độ</b>",
+    "options": [
+      "インド",
+      "インード",
+      "イーンド",
+      "エンド"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 166,
+    "question": "<b>こちらは　わたし（　）せんせいです。</b>",
+    "options": [
+      "から",
+      "の",
+      "は",
+      "も"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 167,
+    "question": "<b>みなさん</b>",
+    "options": [
+      "Anh",
+      "Các nhân viên",
+      "Quý vị/ Các anh chị/ Các ông bà",
+      "Ông/ Bà"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 168,
+    "question": "<b>A：おいくつですか。<p>B：26（　）です。</p></b>",
+    "options": [
+      "がつ",
+      "さい",
+      "にち",
+      "ねん"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 169,
+    "question": "<b>ドイツ</b>",
+    "options": [
+      "Anh",
+      "Mỹ",
+      "Pháp",
+      "Đức"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 170,
+    "question": "<b>Hàn Quốc</b>",
+    "options": [
+      "かこく",
+      "かごく",
+      "かんこく",
+      "かんごく"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 171,
+    "question": "<b>せんせい</b>",
+    "options": [
+      "Bác sĩ",
+      "Học sinh",
+      "Thầy/cô (gọi)",
+      "Thầy/cô (nghề nghiệp)"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 172,
+    "question": "<b>どちらから</b>",
+    "options": [
+      "Từ đâu (lịch sự)",
+      "Từ đâu (thông thường)",
+      "Đến đâu",
+      "Ở đâu"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 173,
+    "question": "<b>Điện thoại</b>",
+    "options": [
+      "てんわ",
+      "でんわ",
+      "でウワ",
+      "デーワ"
+    ],
+    "correctAnswer": 1
   }
 ]

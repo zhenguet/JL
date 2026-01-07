@@ -1,71 +1,946 @@
 [
   {
     "id": 1,
-    "question": "<b>ノート</b>",
+    "question": "<b>あれは　たなかさん（　）かばんです。</b>",
     "options": [
-      "Vở",
-      "Báo",
-      "Sách",
-      "Sổ tay"
+      "から",
+      "の",
+      "は",
+      "も"
     ],
     "correctAnswer": 0
   },
   {
     "id": 2,
-    "question": "<b>かばん</b>",
+    "question": "<b>鞄</b>",
     "options": [
-      "Đồng hồ",
-      "Ví da",
-      "Vali",
-      "Cặp sách"
+      "かっばん",
+      "かば",
+      "かばん",
+      "かばんん"
     ],
-    "correctAnswer": 3
+    "correctAnswer": 0
   },
   {
     "id": 3,
-    "question": "<b>かぎ</b>",
+    "question": "<b>A：どの　ペンが　あなたのですか。<p>B：（　）ペンです。</p></b>",
     "options": [
-      "Cây dù",
-      "Chìa khoá",
-      "Ổ khoá",
-      "Cửa"
+      "その",
+      "それ",
+      "どの",
+      "どれ"
     ],
-    "correctAnswer": 1
+    "correctAnswer": 0
   },
   {
     "id": 4,
-    "question": "<b>カメラ</b>",
+    "question": "<b>A：これは　なんですか。<p>B：（　）です。</p></b>",
     "options": [
-      "Máy in",
-      "Máy ảnh",
-      "Máy đánh chữ"
+      "はい、ほんです",
+      "ほん"
     ],
-    "correctAnswer": 1
+    "correctAnswer": 0
   },
   {
     "id": 5,
-    "question": "<b>てちょう</b>",
+    "question": "<b>A：あれは　なんですか。<p>B：（　）は　かばんです。</p></b>",
     "options": [
-      "Vở",
-      "Bảng kế hoạch",
-      "Sổ tay",
-      "Nhật ký"
+      "あれ",
+      "これ",
+      "それ",
+      "どれ"
     ],
     "correctAnswer": 2
   },
   {
     "id": 6,
-    "question": "<b>Máy vi tính</b>",
+    "question": "<b>A：あれは（　）かばんですか。<p>B：たなかさんのです。</p></b>",
     "options": [
-      "コンビューター",
-      "コンビュータ",
-      "コンピューター",
-      "コンピュータ"
+      "だれの",
+      "なんの"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 7,
+    "question": "<b>あの</b>",
+    "options": [
+      "Cái kia (đứng trước danh từ, xa cả hai)",
+      "Cái nào (đứng trước danh từ)",
+      "Cái này (đứng trước danh từ, gần người nói)",
+      "Cái đó (đứng trước danh từ, gần người nghe)"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 8,
+    "question": "<b>A：これは　ほんですか、ざっしですか。<p>B：（　）。</p></b>",
+    "options": [
+      "ざっしです",
+      "はい、ざっしです"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 9,
+    "question": "<b>A：どの　かばんが　あなたのですか。<p>B：（　）かばんです。</p></b>",
+    "options": [
+      "あの",
+      "あれ",
+      "どの",
+      "どれ"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 10,
+    "question": "<b>あの　かばんは　たなかさん（　）です。</b>",
+    "options": [
+      "から",
+      "の",
+      "は",
+      "も"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 11,
+    "question": "<b>A：それは　だれの　カメラですか。<p>B：（　）です。</p></b>",
+    "options": [
+      "わたし",
+      "わたしの"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 12,
+    "question": "<b>カメラ</b>",
+    "options": [
+      "Máy in",
+      "Máy đánh chữ",
+      "Máy ảnh"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 13,
+    "question": "<b>あれ</b>",
+    "options": [
+      "Cái kia",
+      "Cái nào",
+      "Cái này",
+      "Cái đó"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 14,
+    "question": "<b>かばん</b>",
+    "options": [
+      "Cặp sách",
+      "Túi xách",
+      "Vali",
+      "Ví"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 15,
+    "question": "<b>めいし</b>",
+    "options": [
+      "低刺",
+      "名代",
+      "名刺",
+      "命刺"
     ],
     "correctAnswer": 2
   },
   {
-    "id": 7,
+    "id": 16,
+    "question": "<b>鉛筆</b>",
+    "options": [
+      "えいびつ",
+      "えいぴつ",
+      "えんびつ",
+      "えんぴつ"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 17,
+    "question": "<b>Vở</b>",
+    "options": [
+      "じしょ",
+      "てちょう",
+      "ほん",
+      "ノート"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 18,
+    "question": "<b>手帳</b>",
+    "options": [
+      "てちょ",
+      "てちょう",
+      "てちょうう",
+      "てっちょう"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 19,
+    "question": "<b>じしょ</b>",
+    "options": [
+      "Báo",
+      "Sách",
+      "Từ điển",
+      "Vở"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 20,
+    "question": "<b>てちょう</b>",
+    "options": [
+      "Bảng kế hoạch",
+      "Nhật ký",
+      "Sổ tay",
+      "Vở"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 21,
+    "question": "<b>だれの</b>",
+    "options": [
+      "Cái gì",
+      "Cái nào",
+      "Của ai",
+      "Ở đâu"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 22,
+    "question": "<b>とけい</b>",
+    "options": [
+      "Máy tính",
+      "Tivi",
+      "Điện thoại",
+      "Đồng hồ"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 23,
+    "question": "<b>新聞</b>",
+    "options": [
+      "しんふん",
+      "しんぶん",
+      "しんぷん",
+      "じんぶん"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 24,
+    "question": "<b>あの</b>",
+    "options": [
+      "Cái kia (đứng trước danh từ)",
+      "Cái nào (đứng trước danh từ)",
+      "Cái này (đứng trước danh từ)",
+      "Cái đó (đứng trước danh từ)"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 25,
+    "question": "<b>その</b>",
+    "options": [
+      "Cái kia (đứng trước danh từ)",
+      "Cái nào (đứng trước danh từ)",
+      "Cái này (đứng trước danh từ)",
+      "Cái đó (đứng trước danh từ)"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 26,
+    "question": "<b>かぎ</b>",
+    "options": [
+      "Chìa khoá",
+      "Cây dù",
+      "Cửa",
+      "Ổ khoá"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 27,
+    "question": "<b>どれ</b>",
+    "options": [
+      "Cái gì",
+      "Cái nào (trong số nhiều)",
+      "Của ai",
+      "Ở đâu"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 28,
+    "question": "<b>A：それは　なんですか。<p>B：（　）は　えんぴつです。</p></b>",
+    "options": [
+      "あれ",
+      "これ",
+      "それ",
+      "どれ"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 29,
+    "question": "<b>Socola</b>",
+    "options": [
+      "チョコレト",
+      "チョコレート",
+      "テレビ",
+      "ラジオ"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 30,
+    "question": "<b>これは　わたし（　）ノートです。</b>",
+    "options": [
+      "から",
+      "の",
+      "は",
+      "も"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 31,
+    "question": "<b>この　ノートは　わたし（　）です。</b>",
+    "options": [
+      "から",
+      "の",
+      "は",
+      "も"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 32,
+    "question": "<b>その　ペンは　やまださん（　）です。</b>",
+    "options": [
+      "から",
+      "の",
+      "は",
+      "も"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 33,
+    "question": "<b>A：それは　なんですか。<p>B：（　）は　かぎです。</p></b>",
+    "options": [
+      "あれ",
+      "これ",
+      "それ",
+      "どれ"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 34,
+    "question": "<b>この</b>",
+    "options": [
+      "Cái kia (đứng trước danh từ)",
+      "Cái nào (đứng trước danh từ)",
+      "Cái này (đứng trước danh từ)",
+      "Cái đó (đứng trước danh từ)"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 35,
+    "question": "<b>これ</b>",
+    "options": [
+      "Cái kia (xa cả hai)",
+      "Cái nào",
+      "Cái này (gần người nói)",
+      "Cái đó (gần người nghe)"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 36,
+    "question": "<b>それ</b>",
+    "options": [
+      "Cái kia",
+      "Cái nào",
+      "Cái này",
+      "Cái đó"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 37,
+    "question": "<b>本</b>",
+    "options": [
+      "からだ",
+      "はん",
+      "ばん",
+      "ほん"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 38,
+    "question": "<b>本</b>",
+    "options": [
+      "ほ",
+      "ほん",
+      "ほんん",
+      "ほーん"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 39,
+    "question": "<b>Máy ảnh</b>",
+    "options": [
+      "かばん",
+      "とけい",
+      "カメラ",
+      "ペン"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 40,
+    "question": "<b>カメラ</b>",
+    "options": [
+      "Máy in",
+      "Máy quay",
+      "Máy tính",
+      "Máy ảnh"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 41,
+    "question": "<b>A：あなたの　ほんは　どれですか。<p>B：（　）です。</p></b>",
+    "options": [
+      "この",
+      "これ",
+      "どの",
+      "どれ"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 42,
+    "question": "<b>A：これは　なんですか。<p>B：（　）は　ほんです。</p></b>",
+    "options": [
+      "あれ",
+      "これ",
+      "それ",
+      "どれ"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 43,
+    "question": "<b>A：あなたの　かばんは　どれですか。<p>B：（　）です。</p></b>",
+    "options": [
+      "あの",
+      "あれ",
+      "どの",
+      "どれ"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 44,
+    "question": "<b>その</b>",
+    "options": [
+      "Cái kia (đứng trước danh từ, xa cả hai)",
+      "Cái nào (đứng trước danh từ)",
+      "Cái này (đứng trước danh từ, gần người nói)",
+      "Cái đó (đứng trước danh từ, gần người nghe)"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 45,
+    "question": "<b>カセットテープ</b>",
+    "options": [
+      "Băng cassette",
+      "Băng dính",
+      "Băng video",
+      "Đĩa CD"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 46,
+    "question": "<b>ほん</b>",
+    "options": [
+      "Bút",
+      "Cặp",
+      "Sách",
+      "Vở"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 47,
+    "question": "<b>この　ほんは　わたし（　）です。</b>",
+    "options": [
+      "から",
+      "の",
+      "は",
+      "も"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 48,
+    "question": "<b>A：あれは　なんですか。<p>B：（　）は　えんぴつです。</p></b>",
+    "options": [
+      "あれ",
+      "これ",
+      "それ",
+      "どれ"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 49,
+    "question": "<b>それ</b>",
+    "options": [
+      "Cái kia (xa cả hai)",
+      "Cái nào",
+      "Cái này (gần người nói)",
+      "Cái đó (gần người nghe)"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 50,
+    "question": "<b>A：どの　とけいが　あなたのですか。<p>B：（　）とけいです。</p></b>",
+    "options": [
+      "この",
+      "これ",
+      "どの",
+      "どれ"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 51,
+    "question": "<b>なんの</b>",
+    "options": [
+      "Cái gì",
+      "Cái nào",
+      "Của ai",
+      "Của cái gì"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 52,
+    "question": "<b>辞書</b>",
+    "options": [
+      "かしょ",
+      "かしょう",
+      "じしょ",
+      "じしょう"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "id": 53,
+    "question": "<b>その</b>",
+    "options": [
+      "Cái này (đứng một mình)",
+      "Cái này (đứng trước danh từ)",
+      "Cái đó (đứng một mình)",
+      "Cái đó (đứng trước danh từ)"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 54,
+    "question": "<b>（　）かさは　わたしのです。</b>",
+    "options": [
+      "この",
+      "これ"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 55,
+    "question": "<b>Sách</b>",
+    "options": [
+      "じしょ",
+      "てちょう",
+      "ほん",
+      "ノート"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 56,
+    "question": "<b>ボールペン</b>",
+    "options": [
+      "Bút bi",
+      "Bút chì",
+      "Bút chì kim",
+      "Bút máy"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 57,
+    "question": "<b>Bút chì</b>",
+    "options": [
+      "えんぴつ",
+      "かぎ",
+      "とけい",
+      "ペン"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 58,
+    "question": "<b>シャープペンシル</b>",
+    "options": [
+      "Bút bi",
+      "Bút chì",
+      "Bút chì kim",
+      "Bút máy"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 59,
+    "question": "<b>とけい</b>",
+    "options": [
+      "当計",
+      "時価",
+      "時折",
+      "時計"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 60,
+    "question": "<b>A：これは　なんですか。<p>B：（　）。</p></b>",
+    "options": [
+      "はい、ほんです",
+      "ほんです"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 61,
+    "question": "<b>あれは　たなかさん（　）カメラです。</b>",
+    "options": [
+      "から",
+      "の",
+      "は",
+      "も"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 62,
+    "question": "<b>そう</b>",
+    "options": [
+      "Có thể",
+      "Không biết",
+      "Không phải",
+      "Đúng vậy"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 63,
+    "question": "<b>A：あなたの　ペンは　どれですか。<p>B：（　）です。</p></b>",
+    "options": [
+      "その",
+      "それ",
+      "どの",
+      "どれ"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 64,
+    "question": "<b>テープ</b>",
+    "options": [
+      "Băng cassette",
+      "Băng dính",
+      "Băng ghi âm",
+      "Băng video"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 65,
+    "question": "<b>カメラ</b>",
+    "options": [
+      "Máy in",
+      "Máy tính",
+      "Máy ảnh",
+      "Điện thoại"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 66,
+    "question": "<b>Cặp sách</b>",
+    "options": [
+      "かばん",
+      "じしょ",
+      "とけい",
+      "ノート"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 67,
+    "question": "<b>A：あなたの　とけいは　どれですか。<p>B：（　）です。</p></b>",
+    "options": [
+      "この",
+      "これ",
+      "どの",
+      "どれ"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 68,
+    "question": "<b>A：かりなさんは　がくせいですか。<p>B：はい、（　）です。</p></b>",
+    "options": [
+      "そう",
+      "カリナさん"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 69,
+    "question": "<b>Sổ tay</b>",
+    "options": [
+      "じしょ",
+      "てちょう",
+      "ほん",
+      "ノート"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 70,
+    "question": "<b>どの</b>",
+    "options": [
+      "Cái gì",
+      "Cái nào (đứng một mình)",
+      "Cái nào (đứng trước danh từ)",
+      "Của ai"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 71,
+    "question": "<b>A：やまださんは　がくせいですか。<p>B：はい、（　）です。</p></b>",
+    "options": [
+      "そう",
+      "やまださん"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 72,
+    "question": "<b>A：これは　なんですか。<p>B：（　）は　とけいです。</p></b>",
+    "options": [
+      "あれ",
+      "これ",
+      "それ",
+      "どれ"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 73,
+    "question": "<b>鍵</b>",
+    "options": [
+      "か",
+      "かぎ",
+      "かぎい",
+      "かっぎ"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 74,
+    "question": "<b>それ</b>",
+    "options": [
+      "Cái này (đứng một mình)",
+      "Cái này (đứng trước danh từ)",
+      "Cái đó (đứng một mình)",
+      "Cái đó (đứng trước danh từ)"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 75,
+    "question": "<b>これは　わたし（　）ほんです。</b>",
+    "options": [
+      "から",
+      "の",
+      "は",
+      "も"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 76,
+    "question": "<b>この</b>",
+    "options": [
+      "Cái kia (đứng trước danh từ, xa cả hai)",
+      "Cái nào (đứng trước danh từ)",
+      "Cái này (đứng trước danh từ, gần người nói)",
+      "Cái đó (đứng trước danh từ, gần người nghe)"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 77,
+    "question": "<b>A：これは　なんですか。<p>B：（　）は　てちょうです。</p></b>",
+    "options": [
+      "あれ",
+      "これ",
+      "それ",
+      "どれ"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 78,
+    "question": "<b>ラジオ</b>",
+    "options": [
+      "Máy tính",
+      "Radio",
+      "Tivi",
+      "Điện thoại"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 79,
+    "question": "<b>Máy vi tính</b>",
+    "options": [
+      "コンビュータ",
+      "コンビューター",
+      "コンピュータ",
+      "コンピューター"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 80,
+    "question": "<b>Đồng hồ</b>",
+    "options": [
+      "かばん",
+      "じしょ",
+      "とけい",
+      "ノート"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 81,
+    "question": "<b>A：どの　カメラが　あなたのですか。<p>B：（　）カメラです。</p></b>",
+    "options": [
+      "あの",
+      "あれ",
+      "どの",
+      "どれ"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 82,
+    "question": "<b>A：どの　かぎが　あなたのですか。<p>B：（　）かぎです。</p></b>",
+    "options": [
+      "その",
+      "それ",
+      "どの",
+      "どれ"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 83,
+    "question": "<b>A：これは　なんですか。<p>B：（　）は　ノートです。</p></b>",
+    "options": [
+      "あれ",
+      "これ",
+      "それ",
+      "どれ"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 84,
+    "question": "<b>えんぴつ</b>",
+    "options": [
+      "Bút",
+      "Bút chì",
+      "Bút màu",
+      "Bút mực"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 85,
+    "question": "<b>Chìa khóa</b>",
+    "options": [
+      "かぎ",
+      "かばん",
+      "とけい",
+      "ペン"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 86,
+    "question": "<b>Bút</b>",
+    "options": [
+      "えんぴつ",
+      "かぎ",
+      "とけい",
+      "ペン"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 87,
+    "question": "<b>ノート</b>",
+    "options": [
+      "Bút",
+      "Cặp",
+      "Sách",
+      "Vở"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 88,
     "question": "<b>Bút chì kim, bút chì bấm</b>",
     "options": [
       "シャーブペンシル",
@@ -76,158 +951,18 @@
     "correctAnswer": 1
   },
   {
-    "id": 8,
-    "question": "<b>Socola</b>",
+    "id": 89,
+    "question": "<b>これ</b>",
     "options": [
-      "チョコレト",
-      "チョコレート",
-      "ラジオ",
-      "テレビ"
-    ],
-    "correctAnswer": 1
-  },
-  {
-    "id": 9,
-    "question": "<b>Tivi</b>",
-    "options": [
-      "デレビ",
-      "デレピ",
-      "テレピ",
-      "テレビ"
-    ],
-    "correctAnswer": 3
-  },
-  {
-    "id": 10,
-    "question": "<b>Cà phê</b>",
-    "options": [
-      "コーヒー",
-      "コヒ",
-      "コーヒ",
-      "コヒー"
+      "Cái này (đứng một mình)",
+      "Cái này (đứng trước danh từ)",
+      "Cái đó (đứng một mình)",
+      "Cái đó (đứng trước danh từ)"
     ],
     "correctAnswer": 0
   },
   {
-    "id": 11,
-    "question": "<b>ざっし</b>",
-    "options": [
-      "報識",
-      "報誌",
-      "雑識",
-      "雑誌"
-    ],
-    "correctAnswer": 3
-  },
-  {
-    "id": 12,
-    "question": "<b>めいし</b>",
-    "options": [
-      "名代",
-      "命刺",
-      "名刺",
-      "低刺"
-    ],
-    "correctAnswer": 2
-  },
-  {
-    "id": 13,
-    "question": "<b>とけい</b>",
-    "options": [
-      "時計",
-      "当計",
-      "時価",
-      "時折"
-    ],
-    "correctAnswer": 0
-  },
-  {
-    "id": 14,
-    "question": "<b>かさ</b>",
-    "options": [
-      "禽",
-      "拿",
-      "傘"
-    ],
-    "correctAnswer": 2
-  },
-  {
-    "id": 15,
-    "question": "<b>じどうしゃ</b>",
-    "options": [
-      "白働車",
-      "自働車",
-      "白動車",
-      "自動車"
-    ],
-    "correctAnswer": 3
-  },
-  {
-    "id": 16,
-    "question": "<b>新聞</b>",
-    "options": [
-      "じんぶん",
-      "しんぶん",
-      "しんふん",
-      "しんぷん"
-    ],
-    "correctAnswer": 1
-  },
-  {
-    "id": 17,
-    "question": "<b>辞書</b>",
-    "options": [
-      "かしょう",
-      "じしょう",
-      "かしょ",
-      "じしょ"
-    ],
-    "correctAnswer": 3
-  },
-  {
-    "id": 18,
-    "question": "<b>時計</b>",
-    "options": [
-      "どけい",
-      "とけい",
-      "どうけい",
-      "とうけい"
-    ],
-    "correctAnswer": 1
-  },
-  {
-    "id": 19,
-    "question": "<b>本</b>",
-    "options": [
-      "ほん",
-      "はん",
-      "からだ",
-      "ばん"
-    ],
-    "correctAnswer": 0
-  },
-  {
-    "id": 20,
-    "question": "<b>鉛筆</b>",
-    "options": [
-      "えんびつ",
-      "えいびつ",
-      "えんぴつ",
-      "えいぴつ"
-    ],
-    "correctAnswer": 2
-  },
-  {
-    "id": 21,
-    "question": "<b>A：これは　なんですか。<p>B：（　）。</p></b>",
-    "options": [
-      "ほんです",
-      "はい、ほんです"
-    ],
-    "correctAnswer": 0
-  },
-  {
-    "id": 22,
+    "id": 90,
     "question": "<b>A：これは　ほんですか。<p>B：（　）。</p></b>",
     "options": [
       "いいえ、ほんじゃ　ありません",
@@ -236,7 +971,18 @@
     "correctAnswer": 0
   },
   {
-    "id": 23,
+    "id": 91,
+    "question": "<b>鉛筆</b>",
+    "options": [
+      "えんぴ",
+      "えんぴっつ",
+      "えんぴつ",
+      "えんぴつつ"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 92,
     "question": "<b>A：それは　なんの　ざっしですか。<p>B：（　）ざっしです。</p></b>",
     "options": [
       "じどうしゃの",
@@ -245,52 +991,154 @@
     "correctAnswer": 0
   },
   {
-    "id": 24,
-    "question": "<b>A：これは　ほんですか、ざっしですか。<p>B：（　）。</p></b>",
+    "id": 93,
+    "question": "<b>A：あれは（　）ですか。<p>B：てちょうです。</p></b>",
     "options": [
-      "はい、ざっしです",
-      "ざっしです"
+      "だれ",
+      "なん"
     ],
-    "correctAnswer": 1
+    "correctAnswer": 0
   },
   {
-    "id": 25,
-    "question": "<b>A：それは　だれの　カメラですか。<p>B：（　）です。</p></b>",
+    "id": 94,
+    "question": "<b>あの</b>",
+    "options": [
+      "Cái kia (đứng một mình)",
+      "Cái kia (đứng trước danh từ)",
+      "Cái này (đứng trước danh từ)",
+      "Cái đó (đứng một mình)"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 95,
+    "question": "<b>その　かぎは　やまださん（　）です。</b>",
+    "options": [
+      "から",
+      "の",
+      "は",
+      "も"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 96,
+    "question": "<b>A：それは　だれの　かばんですか。<p>B：（　）です。</p></b>",
     "options": [
       "わたし",
       "わたしの"
     ],
-    "correctAnswer": 1
+    "correctAnswer": 0
   },
   {
-    "id": 26,
-    "question": "<b>A：あれは（　）ですか。<p>B：てちょうです。</p></b>",
+    "id": 97,
+    "question": "<b>A：それは　なんですか。<p>B：（　）は　ペンです。</p></b>",
     "options": [
-      "なん",
-      "だれ"
+      "あれ",
+      "これ",
+      "それ",
+      "どれ"
     ],
     "correctAnswer": 0
   },
   {
-    "id": 27,
-    "question": "<b>A：あれは（　）かばんですか。<p>B：たなかさんのです。</p></b>",
+    "id": 98,
+    "question": "<b>かさ</b>",
     "options": [
-      "だれの",
-      "なんの"
+      "傘",
+      "拿",
+      "禽"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 99,
+    "question": "<b>それは　やまださん（　）ペンです。</b>",
+    "options": [
+      "から",
+      "の",
+      "は",
+      "も"
     ],
     "correctAnswer": 0
   },
   {
-    "id": 28,
-    "question": "<b>A：かりなさんは　がくせいですか。<p>B：はい、（　）です。</p></b>",
+    "id": 100,
+    "question": "<b>ノート</b>",
     "options": [
-      "そう",
-      "カリナさん"
+      "Báo",
+      "Sách",
+      "Sổ tay",
+      "Vở"
     ],
     "correctAnswer": 0
   },
   {
-    "id": 29,
+    "id": 101,
+    "question": "<b>かばん</b>",
+    "options": [
+      "Cặp sách",
+      "Vali",
+      "Ví da",
+      "Đồng hồ"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "id": 102,
+    "question": "<b>じどうしゃ</b>",
+    "options": [
+      "白働車",
+      "白動車",
+      "自働車",
+      "自動車"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "id": 103,
+    "question": "<b>A：それは　なんですか。<p>B：（　）は　じしょです。</p></b>",
+    "options": [
+      "あれ",
+      "これ",
+      "それ",
+      "どれ"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 104,
+    "question": "<b>A：あなたの　ノートは　どれですか。<p>B：（　）です。</p></b>",
+    "options": [
+      "この",
+      "これ",
+      "どの",
+      "どれ"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 105,
+    "question": "<b>A：これは　なんの　ざっしですか。<p>B：（　）ざっしです。</p></b>",
+    "options": [
+      "じどうしゃの",
+      "わたしの"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 106,
+    "question": "<b>A：あなたの　カメラは　どれですか。<p>B：（　）です。</p></b>",
+    "options": [
+      "あの",
+      "あれ",
+      "どの",
+      "どれ"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 107,
     "question": "<b>（　）は　わたしのです。</b>",
     "options": [
       "あの",
@@ -299,11 +1147,253 @@
     "correctAnswer": 1
   },
   {
-    "id": 30,
-    "question": "<b>（　）かさは　わたしのです。</b>",
+    "id": 108,
+    "question": "<b>なん</b>",
+    "options": [
+      "Cái gì",
+      "Cái nào",
+      "Của ai",
+      "Ở đâu"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 109,
+    "question": "<b>かぎ</b>",
+    "options": [
+      "Chìa khóa",
+      "Cửa",
+      "Két sắt",
+      "Ổ khóa"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 110,
+    "question": "<b>なんですか</b>",
+    "options": [
+      "Là cái gì?",
+      "Là cái nào?",
+      "Là của ai?",
+      "Ở đâu?"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 111,
+    "question": "<b>A：どの　ほんが　あなたのですか。<p>B：（　）ほんです。</p></b>",
     "options": [
       "この",
-      "これ"
+      "これ",
+      "どの",
+      "どれ"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 112,
+    "question": "<b>ペン</b>",
+    "options": [
+      "Bút",
+      "Bút chì",
+      "Bút màu",
+      "Bút mực"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 113,
+    "question": "<b>A：あれは　なんですか。<p>B：（　）は　カメラです。</p></b>",
+    "options": [
+      "あれ",
+      "これ",
+      "それ",
+      "どれ"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 114,
+    "question": "<b>A：それは　ほんですか。<p>B：いいえ、（　）。</p></b>",
+    "options": [
+      "ほんじゃ　ありません",
+      "ほんです"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 115,
+    "question": "<b>A：あなたの　かぎは　どれですか。<p>B：（　）です。</p></b>",
+    "options": [
+      "その",
+      "それ",
+      "どの",
+      "どれ"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 116,
+    "question": "<b>あれ</b>",
+    "options": [
+      "Cái kia (xa cả hai)",
+      "Cái nào",
+      "Cái này (gần người nói)",
+      "Cái đó (gần người nghe)"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 117,
+    "question": "<b>A：どの　ノートが　あなたのですか。<p>B：（　）ノートです。</p></b>",
+    "options": [
+      "この",
+      "これ",
+      "どの",
+      "どれ"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 118,
+    "question": "<b>Tivi</b>",
+    "options": [
+      "テレビ",
+      "テレピ",
+      "デレビ",
+      "デレピ"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "id": 119,
+    "question": "<b>ざっし</b>",
+    "options": [
+      "報誌",
+      "報識",
+      "雑誌",
+      "雑識"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "id": 120,
+    "question": "<b>あれ</b>",
+    "options": [
+      "Cái kia (đứng một mình)",
+      "Cái kia (đứng trước danh từ)",
+      "Cái này (đứng một mình)",
+      "Cái đó (đứng một mình)"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 121,
+    "question": "<b>時計</b>",
+    "options": [
+      "とけ",
+      "とけい",
+      "とけいい",
+      "とっけい"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 122,
+    "question": "<b>テープレコーダー</b>",
+    "options": [
+      "Máy ghi âm",
+      "Máy in",
+      "Máy tính",
+      "Máy ảnh"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 123,
+    "question": "<b>時計</b>",
+    "options": [
+      "とうけい",
+      "とけい",
+      "どうけい",
+      "どけい"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 124,
+    "question": "<b>あの　カメラは　たなかさん（　）です。</b>",
+    "options": [
+      "から",
+      "の",
+      "は",
+      "も"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 125,
+    "question": "<b>Cà phê</b>",
+    "options": [
+      "コヒ",
+      "コヒー",
+      "コーヒ",
+      "コーヒー"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 126,
+    "question": "<b>それは　やまださん（　）かぎです。</b>",
+    "options": [
+      "から",
+      "の",
+      "は",
+      "も"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 127,
+    "question": "<b>これ</b>",
+    "options": [
+      "Cái kia",
+      "Cái nào",
+      "Cái này",
+      "Cái đó"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 128,
+    "question": "<b>辞書</b>",
+    "options": [
+      "じし",
+      "じしょ",
+      "じしょお",
+      "じっしょ"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 129,
+    "question": "<b>Từ điển</b>",
+    "options": [
+      "じしょ",
+      "てちょう",
+      "ほん",
+      "ノート"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 130,
+    "question": "<b>この</b>",
+    "options": [
+      "Cái này (đứng một mình)",
+      "Cái này (đứng trước danh từ)",
+      "Cái đó (đứng một mình)",
+      "Cái đó (đứng trước danh từ)"
     ],
     "correctAnswer": 0
   }
