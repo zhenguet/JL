@@ -1,0 +1,266 @@
+[
+  {
+    "id": 1,
+    "question": "<b>イタリア</b>",
+    "options": ["Ý", "Tây Ban Nha", "Pháp", "Hà Lan"],
+    "correctAnswer": 0
+  },
+  {
+    "id": 2,
+    "question": "<b>へや</b>",
+    "options": ["Căn phòng", "Căn hộ", "Nhà bếp", "Phòng tắm"],
+    "correctAnswer": 0
+  },
+  {
+    "id": 3,
+    "question": "<b>ワイン</b>",
+    "options": ["Bia", "Rượu vang", "Bánh ngọt", "Kem"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 4,
+    "question": "<b>たばこ</b>",
+    "options": ["Chợ", "Từ", "Lá cây", "Thuốc lá"],
+    "correctAnswer": 3
+  },
+  {
+    "id": 5,
+    "question": "<b>ちか</b>",
+    "options": ["Tầng hầm, dưới mặt đất", "Sảnh", "Tầng trệt", "Hành lang"],
+    "correctAnswer": 0
+  },
+  {
+    "id": 6,
+    "question": "<b>Cà vạt</b>",
+    "options": ["ネクターイ", "ネクータイ", "ネークタイ", "ネクタイ"],
+    "correctAnswer": 3
+  },
+  {
+    "id": 7,
+    "question": "<b>Nhà</b>",
+    "options": ["うち", "いち", "うつ", "とつ"],
+    "correctAnswer": 0
+  },
+  {
+    "id": 8,
+    "question": "<b>Thang máy</b>",
+    "options": ["エーレベタ", "エレベーター", "エレベタ", "エレベター"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 9,
+    "question": "<b>Hành lang, đại sảnh</b>",
+    "options": ["ロピー", "ローピー", "ロービー", "ロビー"],
+    "correctAnswer": 3
+  },
+  {
+    "id": 10,
+    "question": "<b>Văn phòng</b>",
+    "options": ["じむしょう", "じむしょ", "じむそ", "じむそう"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 11,
+    "question": "<b>でんわ</b>",
+    "options": ["雪舌", "雪語", "電舌", "電話"],
+    "correctAnswer": 3
+  },
+  {
+    "id": 12,
+    "question": "<b>くつ</b>",
+    "options": ["机", "靴", "穴", "池"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 13,
+    "question": "<b>うりば</b>",
+    "options": ["士リ場", "売り易", "士リ易", "売り場"],
+    "correctAnswer": 3
+  },
+  {
+    "id": 14,
+    "question": "<b>うけつけ</b>",
+    "options": ["受付", "愛け計け", "愛付", "受け計け"],
+    "correctAnswer": 0
+  },
+  {
+    "id": 15,
+    "question": "<b>かいぎしつ</b>",
+    "options": ["会議屋", "会義室", "会義屋", "会議室"],
+    "correctAnswer": 3
+  },
+  {
+    "id": 16,
+    "question": "<b>万</b>",
+    "options": ["ばん", "まん", "ほう", "かた"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 17,
+    "question": "<b>会社</b>",
+    "options": ["かいさ", "しゃかい", "かいしゃ", "かしゃい"],
+    "correctAnswer": 2
+  },
+  {
+    "id": 18,
+    "question": "<b>国</b>",
+    "options": ["くに", "くび", "ぐに", "こく"],
+    "correctAnswer": 0
+  },
+  {
+    "id": 19,
+    "question": "<b>食堂</b>",
+    "options": ["そくど", "そくどう", "しょくど", "しょくどう"],
+    "correctAnswer": 3
+  },
+  {
+    "id": 20,
+    "question": "<b>階段</b>",
+    "options": ["だんがい", "がいだん", "かいだん", "だんかい"],
+    "correctAnswer": 2
+  },
+  {
+    "id": 21,
+    "question": "<b>トイレは（　）です。</b>",
+    "options": ["ここ", "これ"],
+    "correctAnswer": 0
+  },
+  {
+    "id": 22,
+    "question": "<b>A：おくには　どちらですか。<p>B：（　）です。</p></b>",
+    "options": ["とうきょう", "にほん"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 23,
+    "question": "<b>A：うちは　どちらですか。<p>B：（　）です。</p></b>",
+    "options": ["とうきょう", "かいしゃ"],
+    "correctAnswer": 0
+  },
+  {
+    "id": 24,
+    "question": "<b>A：これは（１）ネクタイですか。<p>B：（２）ネクタイです。</p></b><p><b>(1)</b></p>",
+    "options": ["どこの", "だれの"],
+    "correctAnswer": 0
+  },
+  {
+    "id": 25,
+    "question": "<b>A：これは（１）ネクタイですか。<p>B：（２）ネクタイです。</p></b><p><b>(2)</b></p>",
+    "options": ["タイの", "タイ"],
+    "correctAnswer": 0
+  },
+  {
+    "id": 26,
+    "question": "<b>A：おくには（　）ですか。<p>B：タイです。</p></b>",
+    "options": ["なん", "どちら"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 27,
+    "question": "<b>A：かいしゃは（　）ですか。<p>B：パワーでんきです。</p></b>",
+    "options": ["なん", "どちら"],
+    "correctAnswer": 0
+  },
+  {
+    "id": 28,
+    "question": "<b>A：パワーでんきは（　）かいしゃですか。<p>B：コンピューターの　かいしゃです。</p></b>",
+    "options": ["なんの", "どこの"],
+    "correctAnswer": 0
+  },
+  {
+    "id": 29,
+    "question": "<b>A：カメラうりばは（　）ですか。<p>B：あちらです。</p></b>",
+    "options": ["なん", "どちら"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 30,
+    "question": "<b>A：それはどこ（１）<ruby>時計<rp>（</rp><rt>とけい</rt><rp>）</rp></ruby>ですか。<p>B：<ruby>日本<rp>（</rp><rt>にほん</rt><rp>）</rp></ruby>（２）です。</p></b><p><b>(1)</b></p>",
+    "options": ["の", "から"],
+    "correctAnswer": 0
+  },
+  {
+    "id": 31,
+    "question": "<b>A：それはどこ（１）<ruby>時計<rp>（</rp><rt>とけい</rt><rp>）</rp></ruby>ですか。<p>B：<ruby>日本<rp>（</rp><rt>にほん</rt><rp>）</rp></ruby>（２）です。</p></b><p><b>(2)</b></p>",
+    "options": ["から", "の"],
+    "correctAnswer": 0
+  },
+  {
+    "id": 32,
+    "question": "<b>A：マリアさん（１）お<ruby>国<rp>（</rp><rt>くに</rt><rp>）</rp></ruby>（２）どちらですか。<p>B：ブラジルです。</p></b><p><b>(1)</b></p>",
+    "options": ["の", "が"],
+    "correctAnswer": 0
+  },
+  {
+    "id": 33,
+    "question": "<b>A：マリアさん（１）お<ruby>国<rp>（</rp><rt>くに</rt><rp>）</rp></ruby>（２）どちらですか。<p>B：ブラジルです。</p></b><p><b>(2)</b></p>",
+    "options": ["は", "の"],
+    "correctAnswer": 0
+  },
+  {
+    "id": 34,
+    "question": "<b>A：パワー<ruby>電気<rp>（</rp><rt>でんき</rt><rp>）</rp></ruby>（１）<ruby>何<rp>（</rp><rt>なん</rt><rp>）</rp></ruby>（２）<ruby>会社<rp>（</rp><rt>かいしゃ</rt><rp>）</rp></ruby>ですか。<p>B：コンピューター（３）<ruby>会社<rp>（</rp><rt>かいしゃ</rt><rp>）</rp></ruby>です。</p></b><p><b>(1)</b></p>",
+    "options": ["は", "に"],
+    "correctAnswer": 0
+  },
+  {
+    "id": 35,
+    "question": "<b>A：パワー<ruby>電気<rp>（</rp><rt>でんき</rt><rp>）</rp></ruby>（１）<ruby>何<rp>（</rp><rt>なん</rt><rp>）</rp></ruby>（２）<ruby>会社<rp>（</rp><rt>かいしゃ</rt><rp>）</rp></ruby>ですか。<p>B：コンピューター（３）<ruby>会社<rp>（</rp><rt>かいしゃ</rt><rp>）</rp></ruby>です。</p></b><p><b>(2)</b></p>",
+    "options": ["の", "に"],
+    "correctAnswer": 0
+  },
+  {
+    "id": 36,
+    "question": "<b>A：パワー<ruby>電気<rp>（</rp><rt>でんき</rt><rp>）</rp></ruby>（１）<ruby>何<rp>（</rp><rt>なん</rt><rp>）</rp></ruby>（２）<ruby>会社<rp>（</rp><rt>かいしゃ</rt><rp>）</rp></ruby>ですか。<p>B：コンピューター（３）<ruby>会社<rp>（</rp><rt>かいしゃ</rt><rp>）</rp></ruby>です。</p></b><p><b>(3)</b></p>",
+    "options": ["で", "の"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 37,
+    "question": "<b>A：すみません。そのワイン（１）<ruby>見<rp>（</rp><rt>み</rt><rp>）</rp></ruby>せてください。<p>B：どうぞ。</p><p>A：どこ（２）ワインですか。</p><p>B：フランスのです。</p><p>A：じゃ、これ（３）ください。</p></b><p><b>(1)</b></p>",
+    "options": ["を", "で"],
+    "correctAnswer": 0
+  },
+  {
+    "id": 38,
+    "question": "<b>A：すみません。そのワイン（１）<ruby>見<rp>（</rp><rt>み</rt><rp>）</rp></ruby>せてください。<p>B：どうぞ。</p><p>A：どこ（２）ワインですか。</p><p>B：フランスのです。</p><p>A：じゃ、これ（３）ください。</p></b><p><b>(2)</b></p>",
+    "options": ["に", "の"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 39,
+    "question": "<b>A：すみません。そのワイン（１）<ruby>見<rp>（</rp><rt>み</rt><rp>）</rp></ruby>せてください。<p>B：どうぞ。</p><p>A：どこ（２）ワインですか。</p><p>B：フランスのです。</p><p>A：じゃ、これ（３）ください。</p></b><p><b>(3)</b></p>",
+    "options": ["に", "を"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 40,
+    "question": "<b>A：カメラ<ruby>売<rp>（</rp><rt>う</rt><rp>）</rp></ruby>り<ruby>場<rp>（</rp><rt>ば</rt><rp>）</rp></ruby>は（　）ですか。<p>B：３<ruby>階<rp>（</rp><rt>かい</rt><rp>）</rp></ruby>です。</p></b>",
+    "options": ["何階", "どれ"],
+    "correctAnswer": 0
+  },
+  {
+    "id": 41,
+    "question": "<b>A：それは（　）のコーヒーですか。<p>B：ブラジルのコーヒーです。</p></b>",
+    "options": ["どこ", "どれ"],
+    "correctAnswer": 0
+  },
+  {
+    "id": 42,
+    "question": "<b>A：<ruby>会社<rp>（</rp><rt>かいしゃ</rt><rp>）</rp></ruby>は（　）ですか。<p>B：パワー<ruby>電気<rp>（</rp><rt>でんき</rt><rp>）</rp></ruby>です。</p></b>",
+    "options": ["どちら", "どれ"],
+    "correctAnswer": 0
+  },
+  {
+    "id": 43,
+    "question": "<b>A：MTは（　）の<ruby>会社<rp>（</rp><rt>かいしゃ</rt><rp>）</rp></ruby>ですか。<p>B：たばこの<ruby>会社<rp>（</rp><rt>かいしゃ</rt><rp>）</rp></ruby>です。</p></b>",
+    "options": ["何", "何の"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 44,
+    "question": "<b>A：その<ruby>時計<rp>（</rp><rt>とけい</rt><rp>）</rp></ruby>は（　）ですか。<p>B：１８，８００<ruby>円<rp>（</rp><rt>えん</rt><rp>）</rp></ruby>です。</p></b>",
+    "options": ["いくら", "いくつ"],
+    "correctAnswer": 0
+  }
+]

@@ -1,0 +1,182 @@
+[
+  {
+    "id": 1,
+    "question": "<b>ノート</b>",
+    "options": ["Vở", "Báo", "Sách", "Sổ tay"],
+    "correctAnswer": 0
+  },
+  {
+    "id": 2,
+    "question": "<b>かばん</b>",
+    "options": ["Đồng hồ", "Ví da", "Vali", "Cặp sách"],
+    "correctAnswer": 3
+  },
+  {
+    "id": 3,
+    "question": "<b>かぎ</b>",
+    "options": ["Cây dù", "Chìa khoá", "Ổ khoá", "Cửa"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 4,
+    "question": "<b>カメラ</b>",
+    "options": ["Máy in", "Máy ảnh", "Máy in", "Máy đánh chữ"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 5,
+    "question": "<b>てちょう</b>",
+    "options": ["Vở", "Bảng kế hoạch", "Sổ tay", "Nhật ký"],
+    "correctAnswer": 2
+  },
+  {
+    "id": 6,
+    "question": "<b>Máy vi tính</b>",
+    "options": ["コンビューター", "コンビュータ", "コンピューター", "コンピュータ"],
+    "correctAnswer": 2
+  },
+  {
+    "id": 7,
+    "question": "<b>Bút chì kim, bút chì bấm</b>",
+    "options": ["シャーブペンシル", "シャープペンシル", "ボールペン", "ポールペン"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 8,
+    "question": "<b>Socola</b>",
+    "options": ["チョコレト", "チョコレート", "ラジオ", "テレビ"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 9,
+    "question": "<b>Tivi</b>",
+    "options": ["デレビ", "デレピ", "テレピ", "テレビ"],
+    "correctAnswer": 3
+  },
+  {
+    "id": 10,
+    "question": "<b>Cà phê</b>",
+    "options": ["コーヒー", "コヒ", "コーヒ", "コヒー"],
+    "correctAnswer": 0
+  },
+  {
+    "id": 11,
+    "question": "<b>ざっし</b>",
+    "options": ["報識", "報誌", "雑識", "雑誌"],
+    "correctAnswer": 3
+  },
+  {
+    "id": 12,
+    "question": "<b>めいし</b>",
+    "options": ["名代", "命刺", "名刺", "低刺"],
+    "correctAnswer": 2
+  },
+  {
+    "id": 13,
+    "question": "<b>とけい</b>",
+    "options": ["時計", "当計", "時価", "時折"],
+    "correctAnswer": 0
+  },
+  {
+    "id": 14,
+    "question": "<b>かさ</b>",
+    "options": ["禽", "拿", "傘", "拿"],
+    "correctAnswer": 2
+  },
+  {
+    "id": 15,
+    "question": "<b>じどうしゃ</b>",
+    "options": ["白働車", "自働車", "白動車", "自動車"],
+    "correctAnswer": 3
+  },
+  {
+    "id": 16,
+    "question": "<b>新聞</b>",
+    "options": ["じんぶん", "しんぶん", "しんふん", "しんぷん"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 17,
+    "question": "<b>辞書</b>",
+    "options": ["かしょう", "じしょう", "かしょ", "じしょ"],
+    "correctAnswer": 3
+  },
+  {
+    "id": 18,
+    "question": "<b>時計</b>",
+    "options": ["どけい", "とけい", "どうけい", "とうけい"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 19,
+    "question": "<b>本</b>",
+    "options": ["ほん", "はん", "からだ", "ばん"],
+    "correctAnswer": 0
+  },
+  {
+    "id": 20,
+    "question": "<b>鉛筆</b>",
+    "options": ["えんびつ", "えいびつ", "えんぴつ", "えいぴつ"],
+    "correctAnswer": 2
+  },
+  {
+    "id": 21,
+    "question": "<b>A：これは　なんですか。<p>B：（　）。</p></b>",
+    "options": ["ほんです", "はい、ほんです"],
+    "correctAnswer": 0
+  },
+  {
+    "id": 22,
+    "question": "<b>A：これは　ほんですか。<p>B：（　）。</p></b>",
+    "options": ["いいえ、ほんじゃ　ありません", "ほんじゃ　ありません"],
+    "correctAnswer": 0
+  },
+  {
+    "id": 23,
+    "question": "<b>A：それは　なんの　ざっしですか。<p>B：（　）ざっしです。</p></b>",
+    "options": ["じどうしゃの", "わたしの"],
+    "correctAnswer": 0
+  },
+  {
+    "id": 24,
+    "question": "<b>A：これは　ほんですか、ざっしですか。<p>B：（　）。</p></b>",
+    "options": ["はい、ざっしです", "ざっしです"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 25,
+    "question": "<b>A：それは　だれの　カメラですか。<p>B：（　）です。</p></b>",
+    "options": ["わたし", "わたしの"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 26,
+    "question": "<b>A：あれは（　）ですか。<p>B：てちょうです。</p></b>",
+    "options": ["なん", "だれ"],
+    "correctAnswer": 0
+  },
+  {
+    "id": 27,
+    "question": "<b>A：あれは（　）かばんですか。<p>B：たなかさんのです。</p></b>",
+    "options": ["だれの", "なんの"],
+    "correctAnswer": 0
+  },
+  {
+    "id": 28,
+    "question": "<b>A：かりなさんは　がくせいですか。<p>B：はい、（　）です。</p></b>",
+    "options": ["そう", "カリナさん"],
+    "correctAnswer": 0
+  },
+  {
+    "id": 29,
+    "question": "<b>（　）は　わたしのです。</b>",
+    "options": ["あの", "あれ"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 30,
+    "question": "<b>（　）かさは　わたしのです。</b>",
+    "options": ["この", "これ"],
+    "correctAnswer": 0
+  }
+]

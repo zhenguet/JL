@@ -1,0 +1,301 @@
+[
+  {
+    "id": 1,
+    "question": "<b>べんきょうします</b>",
+    "options": ["Học", "Hát", "Chơi", "Ăn"],
+    "correctAnswer": 0
+  },
+  {
+    "id": 2,
+    "question": "<b>なんぷん</b>",
+    "options": ["Mấy giây", "Mấy giờ", "Mấy phút", "Mấy ngày"],
+    "correctAnswer": 2
+  },
+  {
+    "id": 3,
+    "question": "<b>ごご</b>",
+    "options": [
+      "Chiều, sau 5 giờ",
+      "Sáng, sau 6 giờ",
+      "Chiều, sau 12 giờ trưa",
+      "Sáng, sau o giờ"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 4,
+    "question": "<b>おきます</b>",
+    "options": ["Đi công tác", "Làm thêm", "Tăng ca", "Dậy, thức dậy"],
+    "correctAnswer": 3
+  },
+  {
+    "id": 5,
+    "question": "<b>はたらきます</b>",
+    "options": ["Nhận", "Uống", "Đánh máy", "Làm việc"],
+    "correctAnswer": 3
+  },
+  {
+    "id": 6,
+    "question": "<b>Hôm qua</b>",
+    "options": ["きょう", "きょ", "きのう", "きの"],
+    "correctAnswer": 2
+  },
+  {
+    "id": 7,
+    "question": "<b>Thứ hai</b>",
+    "options": ["げつよび", "げつよぴ", "けつようぴ", "げつようび"],
+    "correctAnswer": 3
+  },
+  {
+    "id": 8,
+    "question": "<b>Bắc Kinh</b>",
+    "options": ["ペーキン", "ペキン", "ペキーン", "ペーキーン"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 9,
+    "question": "<b>Sáng nay</b>",
+    "options": ["けさ", "げさ", "けしゃ", "げしゃ"],
+    "correctAnswer": 0
+  },
+  {
+    "id": 10,
+    "question": "<b>Hàng ngày, mỗi ngày</b>",
+    "options": ["まいひ", "まいいち", "まにち", "まいにち"],
+    "correctAnswer": 3
+  },
+  {
+    "id": 11,
+    "question": "<b>びじゅつかん</b>",
+    "options": ["美衛館", "美衛管", "美術館", "美術管"],
+    "correctAnswer": 2
+  },
+  {
+    "id": 12,
+    "question": "<b>なんじ</b>",
+    "options": ["荷寺", "荷時", "何寺", "何時"],
+    "correctAnswer": 3
+  },
+  {
+    "id": 13,
+    "question": "<b>ゆうびんきょく</b>",
+    "options": ["乗便局", "郵便局", "郵更局", "乗更局"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 14,
+    "question": "<b>ひる</b>",
+    "options": ["昼", "担", "眉", "罝"],
+    "correctAnswer": 0
+  },
+  {
+    "id": 15,
+    "question": "<b>どようび</b>",
+    "options": ["吐曜日", "汢曜日", "士曜日", "土曜日"],
+    "correctAnswer": 3
+  },
+  {
+    "id": 16,
+    "question": "<b>朝</b>",
+    "options": ["あしゃ", "あさ", "かしゃ", "あさあ"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 17,
+    "question": "<b>銀行</b>",
+    "options": ["ぎんきょう", "ぎんきょ", "ぎんこう", "ぎんこ"],
+    "correctAnswer": 2
+  },
+  {
+    "id": 18,
+    "question": "<b>休みます</b>",
+    "options": ["やすみます", "やみます", "だいみます", "すみます"],
+    "correctAnswer": 0
+  },
+  {
+    "id": 19,
+    "question": "<b>土曜日</b>",
+    "options": ["どようぴ", "どうようぴ", "どようび", "どうようび"],
+    "correctAnswer": 2
+  },
+  {
+    "id": 20,
+    "question": "<b>図書館</b>",
+    "options": ["としょうかん", "とうしょうかん", "としょかん", "とうしょかん"],
+    "correctAnswer": 2
+  },
+  {
+    "id": 21,
+    "question": "<b>A：いま　なんじですか。<p>B：（　）です。</p></b>",
+    "options": ["４じに", "４じ"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 22,
+    "question": "<b>A：あしたは　なんようびですか。<p>B：（　）です。</p></b>",
+    "options": ["もくようび", "なんようび"],
+    "correctAnswer": 0
+  },
+  {
+    "id": 23,
+    "question": "<b>A：でんわばんごうは（　）ですか。<p>B：341の　2531です。</p></b>",
+    "options": ["なん", "なんばん"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 24,
+    "question": "<b>A：けさ　なんじに　おきましたか。<p>B：７じに（　）。</p></b>",
+    "options": ["おきました", "おくます"],
+    "correctAnswer": 0
+  },
+  {
+    "id": 25,
+    "question": "<b>A：こんばん　べんきょうしますか。<p>B：はい、（　）。</p></b>",
+    "options": ["べんきょうします", "べんきょうしました"],
+    "correctAnswer": 0
+  },
+  {
+    "id": 26,
+    "question": "<b>A：きのう　はたらきましたか。<p>B：いいえ、（　）。</p></b>",
+    "options": ["はたらきません", "はたらきませんでした"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 27,
+    "question": "<b>A：ぎんこうは　なんじからですか。<p>B：９じから（　）。</p></b>",
+    "options": ["はたらきます", "です"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 28,
+    "question": "<b>デパートは　１０じ（　）です。</b>",
+    "options": ["から", "に"],
+    "correctAnswer": 0
+  },
+  {
+    "id": 29,
+    "question": "<b>ひるやすみは　１じ（　）おわります。</b>",
+    "options": ["まで", "に"],
+    "correctAnswer": 0
+  },
+  {
+    "id": 30,
+    "question": "<b>A：やすみは　なんようびですか。<p>B：どようび（　）にちようびです。</p></b>",
+    "options": ["と", "も"],
+    "correctAnswer": 0
+  },
+  {
+    "id": 31,
+    "question": "<b><ruby>美術館<rp>（</rp><rt>びじゅつかん</rt><rp>）</rp></ruby>（１）<ruby>休<rp>（</rp><rt>やす</rt><rp>）</rp></ruby>みは<ruby>月曜日<rp>（</rp><rt>げつようび</rt><rp>）</rp></ruby>（２）<ruby>木曜日<rp>（</rp><rt>もくようび</rt><rp>）</rp></ruby>です。</b><br/><b>(1)</b>",
+    "options": ["の", "と"],
+    "correctAnswer": 0
+  },
+  {
+    "id": 32,
+    "question": "<b><ruby>美術館<rp>（</rp><rt>びじゅつかん</rt><rp>）</rp></ruby>（１）<ruby>休<rp>（</rp><rt>やす</rt><rp>）</rp></ruby>みは<ruby>月曜日<rp>（</rp><rt>げつようび</rt><rp>）</rp></ruby>（２）<ruby>木曜日<rp>（</rp><rt>もくようび</rt><rp>）</rp></ruby>です。</b><br/><b>(2)</b>",
+    "options": ["は", "と"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 33,
+    "question": "<b><ruby>銀行<rp>（</rp><rt>ぎんこう</rt><rp>）</rp></ruby>は３<ruby>時<rp>（</rp><rt>じ</rt><rp>）</rp></ruby>（　）<ruby>終<rp>（</rp><rt>お</rt><rp>）</rp></ruby>わります。</b>",
+    "options": ["に", "×"],
+    "correctAnswer": 0
+  },
+  {
+    "id": 34,
+    "question": "<b>わたし（　）<ruby>会社<rp>（</rp><rt>かいしゃ</rt><rp>）</rp></ruby>は９<ruby>時<rp>（</rp><rt>じ</rt><rp>）</rp></ruby>（　）５<ruby>時<rp>（</rp><rt>じ</rt><rp>）</rp></ruby>（　）です。</b><br/><b>(1)</b>",
+    "options": ["の", "から"],
+    "correctAnswer": 0
+  },
+  {
+    "id": 35,
+    "question": "<b>わたし（　）<ruby>会社<rp>（</rp><rt>かいしゃ</rt><rp>）</rp></ruby>は９<ruby>時<rp>（</rp><rt>じ</rt><rp>）</rp></ruby>（　）５<ruby>時<rp>（</rp><rt>じ</rt><rp>）</rp></ruby>（　）です。</b><br/><b>(2)</b>",
+    "options": ["から", "に"],
+    "correctAnswer": 0
+  },
+  {
+    "id": 36,
+    "question": "<b>わたし（　）<ruby>会社<rp>（</rp><rt>かいしゃ</rt><rp>）</rp></ruby>は９<ruby>時<rp>（</rp><rt>じ</rt><rp>）</rp></ruby>（　）５<ruby>時<rp>（</rp><rt>じ</rt><rp>）</rp></ruby>（　）です。</b><br/><b>(3)</b>",
+    "options": ["まで", "に"],
+    "correctAnswer": 0
+  },
+  {
+    "id": 37,
+    "question": "<b>あさって（　）<ruby>日曜日<rp>（</rp><rt>にちようび</rt><rp>）</rp></ruby>です。</b>",
+    "options": ["は", "が"],
+    "correctAnswer": 0
+  },
+  {
+    "id": 38,
+    "question": "<b>この<ruby>図書館<rp>（</rp><rt>としょかん</rt><rp>）</rp></ruby>は<ruby>土曜日<rp>（</rp><rt>どようび</rt><rp>）</rp></ruby>（　）<ruby>午後<rp>（</rp><rt>ごご</rt><rp>）</rp></ruby><ruby>休<rp>（</rp><rt>やす</rt><rp>）</rp></ruby>みです。</b>",
+    "options": ["の", "×"],
+    "correctAnswer": 0
+  },
+  {
+    "id": 39,
+    "question": "<b>ニューヨーク（１）<ruby>今<rp>（</rp><rt>いま</rt><rp>）</rp></ruby><ruby>午前<rp>（</rp><rt>ごぜん</rt><rp>）</rp></ruby>４<ruby>時<rp>（</rp><rt>じ</rt><rp>）</rp></ruby>（２）です。</b><br/><b>(1)</b>",
+    "options": ["に", "は"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 40,
+    "question": "<b>ニューヨーク（１）<ruby>今<rp>（</rp><rt>いま</rt><rp>）</rp></ruby><ruby>午前<rp>（</rp><rt>ごぜん</rt><rp>）</rp></ruby>４<ruby>時<rp>（</rp><rt>じ</rt><rp>）</rp></ruby>（２）です。</b><br/><b>(2)</b>",
+    "options": ["×", "の"],
+    "correctAnswer": 0
+  },
+  {
+    "id": 41,
+    "question": "<b><ruby>昨日<rp>（</rp><rt>きのう</rt><rp>）</rp></ruby>の<ruby>晩<rp>（</rp><rt>ばん</rt><rp>）</rp></ruby>８<ruby>時<rp>（</rp><rt>じ</rt><rp>）</rp></ruby>（１）１０<ruby>時<rp>（</rp><rt>じ</rt><rp>）</rp></ruby>（２）<ruby>勉強<rp>（</rp><rt>べんきょう</rt><rp>）</rp></ruby>しました。</b><br/><b>(1)</b>",
+    "options": ["から", "に"],
+    "correctAnswer": 0
+  },
+  {
+    "id": 42,
+    "question": "<b><ruby>昨日<rp>（</rp><rt>きのう</rt><rp>）</rp></ruby>の<ruby>晩<rp>（</rp><rt>ばん</rt><rp>）</rp></ruby>８<ruby>時<rp>（</rp><rt>じ</rt><rp>）</rp></ruby>（１）１０<ruby>時<rp>（</rp><rt>じ</rt><rp>）</rp></ruby>（２）<ruby>勉強<rp>（</rp><rt>べんきょう</rt><rp>）</rp></ruby>しました。</b><br/><b>(2)</b>",
+    "options": ["に", "まで"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 43,
+    "question": "<b><ruby>毎晩<rp>（</rp><rt>まいばん</rt><rp>）</rp></ruby>（１）１１<ruby>時半<rp>（</rp><rt>じはん</rt><rp>）</rp></ruby>（２）<ruby>寝<rp>（</rp><rt>ね</rt><rp>）</rp></ruby>ます。</b><br/><b>(1)</b>",
+    "options": ["×", "に"],
+    "correctAnswer": 0
+  },
+  {
+    "id": 44,
+    "question": "<b><ruby>毎晩<rp>（</rp><rt>まいばん</rt><rp>）</rp></ruby>（１）１１<ruby>時半<rp>（</rp><rt>じはん</rt><rp>）</rp></ruby>（２）<ruby>寝<rp>（</rp><rt>ね</rt><rp>）</rp></ruby>ます。</b><br/><b>(2)</b>",
+    "options": ["×", "に"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 45,
+    "question": "<b>A：<ruby>大阪<rp>（</rp><rt>おおさか</rt><rp>）</rp></ruby>デパートの<ruby>休<rp>（</rp><rt>やす</rt><rp>）</rp></ruby>みは（　）ですか。<p>B：<ruby>木曜日<rp>（</rp><rt>もくようび</rt><rp>）</rp></ruby>です。</p></b>",
+    "options": ["何曜日", "何日"],
+    "correctAnswer": 0
+  },
+  {
+    "id": 46,
+    "question": "<b>A：<ruby>桜<rp>（</rp><rt>さくら</rt><rp>）</rp></ruby><ruby>大学<rp>（</rp><rt>だいがく</rt><rp>）</rp></ruby>の<ruby>電話<rp>（</rp><rt>でんわ</rt><rp>）</rp></ruby><ruby>番号<rp>（</rp><rt>ばんごう</rt><rp>）</rp></ruby>は（　）ですか。<p>B：８７２の６８１３です。</p></b>",
+    "options": ["何数", "何番"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 47,
+    "question": "<b>A：みどり<ruby>図書館<rp>（</rp><rt>としょかん</rt><rp>）</rp></ruby>は（　）までですか。<p>B：６<ruby>時<rp>（</rp><rt>じ</rt><rp>）</rp></ruby>までです。</p></b>",
+    "options": ["何時", "何番"],
+    "correctAnswer": 0
+  },
+  {
+    "id": 48,
+    "question": "<b>A：<ruby>会社<rp>（</rp><rt>かいしゃ</rt><rp>）</rp></ruby>は（　）から（　）までですか。<p>B：<ruby>月曜日<rp>（</rp><rt>げつようび</rt><rp>）</rp></ruby>から<ruby>金曜日<rp>（</rp><rt>きんようび</rt><rp>）</rp></ruby>までです。</p></b>",
+    "options": ["何曜日", "何日"],
+    "correctAnswer": 0
+  },
+  {
+    "id": 49,
+    "question": "<b>A：けさ（　）に<ruby>起<rp>（</rp><rt>お</rt><rp>）</rp></ruby>きましたか。<p>B：６<ruby>時半<rp>（</rp><rt>じはん</rt><rp>）</rp></ruby>に<ruby>起<rp>（</rp><rt>お</rt><rp>）</rp></ruby>きました。</p></b>",
+    "options": ["何時", "何で"],
+    "correctAnswer": 0
+  }
+]

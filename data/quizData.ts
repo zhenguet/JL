@@ -1,204 +1,54 @@
 import { QuizQuestion } from '@/components/exercises/Quiz';
+import quiz1 from './quiz/quiz1.json';
+import quiz2 from './quiz/quiz2.json';
+import quiz3 from './quiz/quiz3.json';
+import quiz4 from './quiz/quiz4.json';
+import quiz5 from './quiz/quiz5.json';
+import quiz6 from './quiz/quiz6.json';
+import quiz7 from './quiz/quiz7.json';
+import quiz8 from './quiz/quiz8.json';
+import quiz9 from './quiz/quiz9.json';
+import quiz10 from './quiz/quiz10.json';
+import quiz11 from './quiz/quiz11.json';
+import quiz12 from './quiz/quiz12.json';
+import quiz13 from './quiz/quiz13.json';
+import quiz14 from './quiz/quiz14.json';
+import quiz16 from './quiz/quiz16.json';
+import quiz19 from './quiz/quiz19.json';
+import quiz17 from './quiz/quiz17.json';
+import quiz18 from './quiz/quiz18.json';
+import quiz20 from './quiz/quiz20.json';
+import quiz21 from './quiz/quiz21.json';
+import quiz22 from './quiz/quiz22.json';
+import quiz23 from './quiz/quiz23.json';
+import quiz24 from './quiz/quiz24.json';
+import quiz25 from './quiz/quiz25.json';
 
 const quizDataByLesson: Record<number, QuizQuestion[]> = {
-  1: [
-  {
-    id: 1,
-    question: '<b>わたし</b>',
-    options: ['Tôi', 'Chúng tôi', 'Chúng ta', 'Bạn'],
-    correctAnswer: 0,
-  },
-  {
-    id: 2,
-    question: '<b>みなさん</b>',
-    options: [
-      'Quý vị/ Các anh chị/ Các ông bà',
-      'Anh',
-      'Các nhân viên',
-      'Ông/ Bà',
-    ],
-    correctAnswer: 0,
-  },
-  {
-    id: 3,
-    question: '<b>せんせい</b>',
-    options: ['Bác sĩ', 'Thầy/ Cô', 'Công nhân', 'Sinh viên'],
-    correctAnswer: 1,
-  },
-  {
-    id: 4,
-    question: '<b>がくせい</b>',
-    options: ['Nghiên cứu sinh', 'Nha sĩ', 'Học sinh', 'Giáo viên'],
-    correctAnswer: 2,
-  },
-  {
-    id: 5,
-    question: '<b>エンジニア</b>',
-    options: ['Giáo viên', 'Kỹ sư', 'Nhà nghiên cứu', 'Ca sĩ'],
-    correctAnswer: 1,
-  },
-  {
-    id: 6,
-    question: '<b>Bệnh viện</b>',
-    options: ['びよいん', 'びょいん', 'びょういん', 'びよういん'],
-    correctAnswer: 2,
-  },
-  {
-    id: 7,
-    question: '<b>Hàn Quốc</b>',
-    options: ['かんごく', 'かごく', 'かんこく', 'かこく'],
-    correctAnswer: 2,
-  },
-  {
-    id: 8,
-    question: '<b>Điện thoại</b>',
-    options: ['てんわ', 'でんわ', 'でウワ', 'デーワ'],
-    correctAnswer: 1,
-  },
-  {
-    id: 9,
-    question: '<b>Ấn Độ</b>',
-    options: ['エンド', 'インド', 'インード', 'イーンド'],
-    correctAnswer: 1,
-  },
-  {
-    id: 10,
-    question: '<b>Nhân viên công ty</b>',
-    options: ['しゃうん', 'さいん', 'かいいん', 'しゃいん'],
-    correctAnswer: 3,
-  },
-  {
-    id: 11,
-    question: '<b>なんさい</b>',
-    options: ['何産', '何羲', '何歳', '何劌'],
-    correctAnswer: 2,
-  },
-  {
-    id: 12,
-    question: '<b>いしゃ</b>',
-    options: ['医者', '医孝', '国者', '国孝'],
-    correctAnswer: 0,
-  },
-  {
-    id: 13,
-    question: '<b>きょうし</b>',
-    options: ['教室', '教育', '教屋', '教師'],
-    correctAnswer: 3,
-  },
-  {
-    id: 14,
-    question: '<b>かいしゃいん</b>',
-    options: ['会社員', '会祉員', '会社買', '合祉買'],
-    correctAnswer: 0,
-  },
-  {
-    id: 15,
-    question: '<b>けんきゅうしゃ</b>',
-    options: ['破究者', '破究考', '研究者', '破究考'],
-    correctAnswer: 2,
-  },
-  {
-    id: 16,
-    question: '<b>日本</b>',
-    options: ['にんほん', 'にっぼん', 'にっほん', 'にほん'],
-    correctAnswer: 3,
-  },
-  {
-    id: 17,
-    question: '<b>銀行員</b>',
-    options: ['ぎんきょいん', 'きんきょういん', 'きんこいん', 'ぎんこういん'],
-    correctAnswer: 3,
-  },
-  {
-    id: 18,
-    question: '<b>あの方</b>',
-    options: ['あのがた', 'あのかた', 'あのほ', 'あのひょう'],
-    correctAnswer: 1,
-  },
-  {
-    id: 19,
-    question: '<b>歳</b>',
-    options: ['サー', 'ざい', 'しゃい', 'さい'],
-    correctAnswer: 3,
-  },
-  {
-    id: 20,
-    question: '<b>初めまして</b>',
-    options: ['はしめまして', 'ばしめまして', 'ばじめまして', 'はじめまして'],
-    correctAnswer: 3,
-  },
-  {
-    id: 21,
-    question:
-      '<b>A：あなたは　ミラーさんですか。<p>B：（　）。</p></b>',
-    options: ['はい、ミラーさんです', 'はい、ミラーです'],
-    correctAnswer: 1,
-  },
-  {
-    id: 22,
-    question:
-      '<b>A：やまださんは　ぎんこういんですか。<p>B：（　）。</p></b>',
-    options: ['はい、ぎんこういんです', 'いいえ、ぎんこういんです'],
-    correctAnswer: 0,
-  },
-  {
-    id: 23,
-    question:
-      '<b>A：ワンさんは　かいしゃいんですか。<p>B：（　）。</p></b>',
-    options: [
-      'いいえ、かいしゃいんです',
-      'いいえ、かいしゃいんじゃ　ありません',
-    ],
-    correctAnswer: 1,
-  },
-  {
-    id: 24,
-    question:
-      '<b>A：やまださんは　なんさいですか。<p>B：（　）。</p></b>',
-    options: ['はい、35さいです', '35さいです'],
-    correctAnswer: 1,
-  },
-  {
-    id: 25,
-    question:
-      '<b>A：あの　ひとは　だれですか。<p>B：（　）。</p></b>',
-    options: ['だれですか', 'さとうさんです'],
-    correctAnswer: 1,
-  },
-  {
-    id: 26,
-    question:
-      '<b>A：たろうちゃんは（　）ですか。<p>B：８さいです。</p></b>',
-    options: ['なんさい', 'だれ'],
-    correctAnswer: 0,
-  },
-  {
-    id: 27,
-    question:
-      '<b>A：あの　かたは（　）ですか。<p>B：ミラーさんです。</p></b>',
-    options: ['おいくつ', 'どなた'],
-    correctAnswer: 1,
-  },
-  {
-    id: 28,
-    question: '<b>わたしは（　）から　きました。</b>',
-    options: ['ブラジル', 'ブラジルじん'],
-    correctAnswer: 0,
-  },
-  {
-    id: 29,
-    question:
-      '<b>さとうさんは　にほんじんです。やまださん（　）にほんじんです。</b>',
-    options: ['の', 'も'],
-    correctAnswer: 1,
-  },
-  {
-    id: 30,
-    question: '<b>やまださんは　IMC（　）しゃいんです。</b>',
-    options: ['の', 'も'],
-    correctAnswer: 0,
-  },
-  ],
+  1: quiz1 as QuizQuestion[],
+  2: quiz2 as QuizQuestion[],
+  3: quiz3 as QuizQuestion[],
+  4: quiz4 as QuizQuestion[],
+  5: quiz5 as QuizQuestion[],
+  6: quiz6 as QuizQuestion[],
+  7: quiz7 as QuizQuestion[],
+  8: quiz8 as QuizQuestion[],
+  9: quiz9 as QuizQuestion[],
+  10: quiz10 as QuizQuestion[],
+  11: quiz11 as QuizQuestion[],
+  12: quiz12 as QuizQuestion[],
+  13: quiz13 as QuizQuestion[],
+  14: quiz14 as QuizQuestion[],
+  16: quiz16 as QuizQuestion[],
+  17: quiz17 as QuizQuestion[],
+  18: quiz18 as QuizQuestion[],
+  19: quiz19 as QuizQuestion[],
+  20: quiz20 as QuizQuestion[],
+  21: quiz21 as QuizQuestion[],
+  22: quiz22 as QuizQuestion[],
+  23: quiz23 as QuizQuestion[],
+  24: quiz24 as QuizQuestion[],
+  25: quiz25 as QuizQuestion[],
 };
 
 export function getQuizData(lessonNumber: number): QuizQuestion[] {
