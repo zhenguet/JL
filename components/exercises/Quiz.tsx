@@ -71,14 +71,22 @@ export default function Quiz({ questions, title, shuffleOptions = true }: QuizPr
     }));
   };
 
+  const calculateResult = useMemo(() => {
+    if (!showResults && !showAnswerKey) {
+      return { correct: 0, percentage: 0 };
+    }
+    const correct = shuffledQuestions.filter(
+      q => selectedAnswers[q.id] === q.shuffledCorrectAnswer
+    ).length;
+    const percentage = questions.length > 0 ? (correct / questions.length) * 100 : 0;
+    return { correct, percentage };
+  }, [shuffledQuestions, selectedAnswers, showResults, showAnswerKey, questions.length]);
+
   const checkResult = () => {
-    let correctCount = 0;
-    shuffledQuestions.forEach(shuffledQuestion => {
-      if (selectedAnswers[shuffledQuestion.id] === shuffledQuestion.shuffledCorrectAnswer) {
-        correctCount++;
-      }
-    });
-    const percentage = (correctCount / questions.length) * 100;
+    const correct = shuffledQuestions.filter(
+      q => selectedAnswers[q.id] === q.shuffledCorrectAnswer
+    ).length;
+    const percentage = questions.length > 0 ? (correct / questions.length) * 100 : 0;
     setScore(percentage);
     setShowResults(true);
   };
@@ -140,6 +148,11 @@ export default function Quiz({ questions, title, shuffleOptions = true }: QuizPr
     <div className={`quiz-container ${showFurigana ? '' : 'hide-furigana'}`}>
       <div className="quiz-header-wrapper">
         {title && <h2 className="quiz-title">{title}</h2>}
+        {showResults && (
+          <div className="quiz-result-header">
+            Kết quả: {calculateResult.correct} / {questions.length} ( {calculateResult.percentage.toFixed(1)}% )
+          </div>
+        )}
         <div className="furigana-toggle">
           <button
             type="button"
@@ -200,14 +213,6 @@ export default function Quiz({ questions, title, shuffleOptions = true }: QuizPr
           </div>
         ))}
         <hr className="style-one" />
-        {score !== null && (
-          <div className="quiz-score">
-            <h3>Kết quả: {score.toFixed(1)}%</h3>
-            <p>
-              Số câu đúng: {shuffledQuestions.filter(q => selectedAnswers[q.id] === q.shuffledCorrectAnswer).length} / {questions.length}
-            </p>
-          </div>
-        )}
       </form>
       <div className="quiz-actions-wrapper">
         <div className="quiz-actions">
