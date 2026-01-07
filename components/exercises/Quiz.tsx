@@ -31,16 +31,20 @@ function shuffleArray<T>(array: T[]): T[] {
 }
 
 export default function Quiz({ questions, title, shuffleOptions = true }: QuizProps) {
+  const [shuffleKey, setShuffleKey] = useState(0);
+
   const shuffledQuestions = useMemo(() => {
+    const shuffledQuestionsList = shuffleArray([...questions]);
+
     if (!shuffleOptions) {
-      return questions.map(q => ({
+      return shuffledQuestionsList.map(q => ({
         ...q,
         shuffledOptions: q.options,
         shuffledCorrectAnswer: q.correctAnswer,
       }));
     }
 
-    return questions.map(question => {
+    return shuffledQuestionsList.map(question => {
       const shuffledOptions = shuffleArray(question.options);
       const originalCorrectAnswer = question.options[question.correctAnswer];
       const shuffledCorrectAnswer = shuffledOptions.findIndex(
@@ -53,7 +57,7 @@ export default function Quiz({ questions, title, shuffleOptions = true }: QuizPr
         shuffledCorrectAnswer,
       };
     });
-  }, [questions, shuffleOptions]);
+  }, [questions, shuffleOptions, shuffleKey]);
 
   const [selectedAnswers, setSelectedAnswers] = useState<{
     [key: number]: number;
@@ -96,6 +100,14 @@ export default function Quiz({ questions, title, shuffleOptions = true }: QuizPr
     setShowResults(false);
     setShowAnswerKey(false);
     setScore(null);
+  };
+
+  const shuffleQuiz = () => {
+    setSelectedAnswers({});
+    setShowResults(false);
+    setShowAnswerKey(false);
+    setScore(null);
+    setShuffleKey(prev => prev + 1);
   };
 
   const resultCorrect = () => {
@@ -238,6 +250,14 @@ export default function Quiz({ questions, title, shuffleOptions = true }: QuizPr
             title="Bạn chỉ xem được đáp án khi làm đúng từ 60% trở lên"
           >
             Đáp Án
+          </button>
+          <button
+            type="button"
+            onClick={shuffleQuiz}
+            className="btn btn-secondary"
+            title="Xáo trộn lại thứ tự câu hỏi và các lựa chọn"
+          >
+            Xáo Trộn
           </button>
         </div>
       </div>
