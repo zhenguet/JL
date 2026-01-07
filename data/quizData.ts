@@ -13,10 +13,11 @@ import quiz11 from './quiz/quiz11.json';
 import quiz12 from './quiz/quiz12.json';
 import quiz13 from './quiz/quiz13.json';
 import quiz14 from './quiz/quiz14.json';
+import quiz15 from './quiz/quiz15.json';
 import quiz16 from './quiz/quiz16.json';
-import quiz19 from './quiz/quiz19.json';
 import quiz17 from './quiz/quiz17.json';
 import quiz18 from './quiz/quiz18.json';
+import quiz19 from './quiz/quiz19.json';
 import quiz20 from './quiz/quiz20.json';
 import quiz21 from './quiz/quiz21.json';
 import quiz22 from './quiz/quiz22.json';
@@ -41,6 +42,7 @@ import quiz40 from './quiz/quiz40.json';
 import quiz41 from './quiz/quiz41.json';
 import quiz42 from './quiz/quiz42.json';
 import quiz43 from './quiz/quiz43.json';
+import quiz44 from './quiz/quiz44.json';
 import quiz45 from './quiz/quiz45.json';
 import quiz46 from './quiz/quiz46.json';
 import quiz47 from './quiz/quiz47.json';
@@ -63,6 +65,7 @@ const quizDataByLesson: Record<number, QuizQuestion[]> = {
   12: quiz12 as QuizQuestion[],
   13: quiz13 as QuizQuestion[],
   14: quiz14 as QuizQuestion[],
+  15: quiz15 as QuizQuestion[],
   16: quiz16 as QuizQuestion[],
   17: quiz17 as QuizQuestion[],
   18: quiz18 as QuizQuestion[],
@@ -74,7 +77,9 @@ const quizDataByLesson: Record<number, QuizQuestion[]> = {
   24: quiz24 as QuizQuestion[],
   25: quiz25 as QuizQuestion[],
   26: quiz26 as QuizQuestion[],
+  27: quiz27 as QuizQuestion[],
   28: quiz28 as QuizQuestion[],
+  29: quiz29 as QuizQuestion[],
   30: quiz30 as QuizQuestion[],
   31: quiz31 as QuizQuestion[],
   32: quiz32 as QuizQuestion[],
@@ -89,6 +94,7 @@ const quizDataByLesson: Record<number, QuizQuestion[]> = {
   41: quiz41 as QuizQuestion[],
   42: quiz42 as QuizQuestion[],
   43: quiz43 as QuizQuestion[],
+  44: quiz44 as QuizQuestion[],
   45: quiz45 as QuizQuestion[],
   46: quiz46 as QuizQuestion[],
   47: quiz47 as QuizQuestion[],
