@@ -1,0 +1,251 @@
+[
+  {
+    "id": 1,
+    "question": "<b>Đinh ốc, vít</b>",
+    "options": [
+      "ねじ",
+      "ず",
+      "なべ",
+      "おります"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 2,
+    "question": "<b>A：パッキングは　どちらですか。<p>B：（　）です。</p></b>",
+    "options": [
+      "こちら",
+      "そちら",
+      "あちら",
+      "どちら"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 3,
+    "question": "<b>みがきます</b>",
+    "options": [
+      "Chải, cọ",
+      "~ hoặc~",
+      "~ quả",
+      "Nước sốt"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 4,
+    "question": "<b>A：これは　なんですか。<p>B：（　）は　ミーティングです。</p></b>",
+    "options": [
+      "それ",
+      "これ",
+      "あれ",
+      "どれ"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 5,
+    "question": "<b>A：ゆるめますは　どちらですか。<p>B：（　）です。</p></b>",
+    "options": [
+      "こちら",
+      "そちら",
+      "あちら",
+      "どちら"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 6,
+    "question": "<b>この<ruby>手紙<rp>（</rp><rt>てがみ</rt><rp>）</rp></ruby>は90<ruby>円<rp>（</rp><rt>えん</rt><rp>）</rp></ruby>の<ruby>切手<rp>（</rp><rt>きって</rt><rp>）</rp></ruby>を（　）<ruby>出<rp>（</rp><rt>だ</rt><rp>）</rp></ruby>してください。</b>",
+    "options": [
+      "買って",
+      "はって"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 7,
+    "question": "<b>Biểu đồ</b>",
+    "options": [
+      "ひょう",
+      "てん",
+      "ミーティング",
+      "うまくいきましたね"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 8,
+    "question": "<b>A：ゆるめますは　どこですか。<p>B：（　）です。</p></b>",
+    "options": [
+      "ここ",
+      "そこ",
+      "あそこ",
+      "どこ"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 9,
+    "question": "<b>（　）あとで、<ruby>先生<rp>（</rp><rt>せんせい</rt><rp>）</rp></ruby>に<ruby>質問<rp>（</rp><rt>しつもん</rt><rp>）</rp></ruby>しました。</b>",
+    "options": [
+      "講義の",
+      "講義だ"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 10,
+    "question": "<b>～グラム</b>",
+    "options": [
+      "～グラム",
+      "きいろ",
+      "こん",
+      "プログラム"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 11,
+    "question": "<b>さどう</b>",
+    "options": [
+      "Trà đạo",
+      "Điệu nhảy lễ hội Bon",
+      "Dẫu mũi tên",
+      "Sách giải thích"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 12,
+    "question": "<b>～こ</b>",
+    "options": [
+      "~ quả",
+      "Món ăn Oyakodonburi",
+      "Màu xanh tím than",
+      "Anh làm tốt lắm rồi"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 13,
+    "question": "<b>キー</b>",
+    "options": [
+      "Chìa khóa",
+      "Chấm",
+      "Bẻ, gập, gấp",
+      "Sơ đồ, đồ thị"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 14,
+    "question": "<b>これはちょっと<ruby>塩<rp>（</rp><rt>しお</rt><rp>）</rp></ruby>（　）つけて<ruby>食<rp>（</rp><rt>た</rt><rp>）</rp></ruby>べてください。</b>",
+    "options": [
+      "が",
+      "を"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 15,
+    "question": "<b><ruby>旅行<rp>（</rp><rt>りょこう</rt><rp>）</rp></ruby>はホテルを（　）<ruby>行<rp>（</rp><rt>い</rt><rp>）</rp></ruby>きましたか。<p>…いいえ、<ruby>予約<rp>（</rp><rt>よやく</rt><rp>）</rp></ruby>しないでいきましたが、すぐ<ruby>泊<rp>（</rp><rt>と</rt><rp>）</rp></ruby>まれました。</p></b>",
+    "options": [
+      "予約して",
+      "予約に"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 16,
+    "question": "<b>A：やじるしは　どこですか。<p>B：（　）です。</p></b>",
+    "options": [
+      "ここ",
+      "そこ",
+      "あそこ",
+      "どこ"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 17,
+    "question": "<b>ケーキは<ruby>箱<rp>（</rp><rt>はこ</rt><rp>）</rp></ruby>に（　）<ruby>持<rp>（</rp><rt>も</rt><rp>）</rp></ruby>って<ruby>行<rp>（</rp><rt>い</rt><rp>）</rp></ruby>きます。</b>",
+    "options": [
+      "入れて",
+      "あって"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 18,
+    "question": "<b>レポートには<ruby>名前<rp>（</rp><rt>なまえ</rt><rp>）</rp></ruby>を（　）<ruby>出<rp>（</rp><rt>だ</rt><rp>）</rp></ruby>してください。</b>",
+    "options": [
+      "書いて",
+      "覚えて"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 19,
+    "question": "<b>はめます</b>",
+    "options": [
+      "Cài vào",
+      "Chương trình",
+      "Bẻ, gập, gấp",
+      "Tối qua, đêm qua"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 20,
+    "question": "<b>ちがいます</b>",
+    "options": [
+      "Sai lầm, khác biệt",
+      "Chất lên, chồng lên, đặt lên",
+      "Màu nâu",
+      "Xì dầu"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 21,
+    "question": "<b>Màu xanh tím than</b>",
+    "options": [
+      "こん",
+      "みがきます",
+      "スポーツクラブ",
+      "てん"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 22,
+    "question": "<b><ruby>電話<rp>（</rp><rt>でんわ</rt><rp>）</rp></ruby>を（　）<ruby>車<rp>（</rp><rt>くるま</rt><rp>）</rp></ruby>を<ruby>運転<rp>（</rp><rt>うんてん</rt><rp>）</rp></ruby>しないでください。</b>",
+    "options": [
+      "かけながら",
+      "かけて",
+      "かけたら"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 23,
+    "question": "<b>~ phần</b>",
+    "options": [
+      "～ぶん",
+      "ぶんかい",
+      "もんだい",
+      "ソース"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 24,
+    "question": "<b>きのうはうちへ（　）、<ruby>友達<rp>（</rp><rt>ともだち</rt><rp>）</rp></ruby>のうちに<ruby>泊<rp>（</rp><rt>と</rt><rp>）</rp></ruby>まりました。</b>",
+    "options": [
+      "行かないで",
+      "帰らないで"
+    ],
+    "correctAnswer": 1
+  }
+]

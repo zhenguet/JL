@@ -1,0 +1,250 @@
+[
+  {
+    "id": 1,
+    "question": "<b>書類</b>",
+    "options": [
+      "しょるい",
+      "おぼえていません",
+      "ひも",
+      "ふくろ"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 2,
+    "question": "<b>じしん</b>",
+    "options": [
+      "Động đất",
+      "Túi (Áo, quần)",
+      "Chuyến tàu vừa rồi",
+      "Cốc, cái cốc"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 3,
+    "question": "<b>こわれます</b>",
+    "options": [
+      "Hỏng, bị hỏng, hỏng hóc",
+      "Toa xe thứ…",
+      "Đứt",
+      "Ví"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 4,
+    "question": "<b>わたしのかばんは<ruby>外側<rp>（</rp><rt>そとがわ</rt><rp>）</rp></ruby>（　）<ruby>大<rp>（</rp><rt>おお</rt><rp>）</rp></ruby>きいポケットがついています。</b>",
+    "options": [
+      "に",
+      "で"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 5,
+    "question": "<b><ruby>電気<rp>（</rp><rt>でんき</rt><rp>）</rp></ruby>が（　）。</b>",
+    "options": [
+      "消します",
+      "消えます"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 6,
+    "question": "<b>（　）<ruby>電話<rp>（</rp><rt>でんわ</rt><rp>）</rp></ruby>はありませんか。</b>",
+    "options": [
+      "どこかに",
+      "どこかで"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 7,
+    "question": "<b>この<ruby>部屋<rp>（</rp><rt>へや</rt><rp>）</rp></ruby>はかぎが（　）から、<ruby>入<rp>（</rp><rt>い</rt><rp>）</rp></ruby>れません。</b>",
+    "options": [
+      "掛かっています",
+      "掛かりました"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 8,
+    "question": "<b>（　）<ruby>財布<rp>（</rp><rt>さいふ</rt><rp>）</rp></ruby>をなくしてしまいました。</b>",
+    "options": [
+      "どこかに",
+      "どこかで"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 9,
+    "question": "<b>Kính</b>",
+    "options": [
+      "ガラス",
+      "はり",
+      "ちゃわん",
+      "ひも"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 10,
+    "question": "<b>A：てちょうは　どちらですか。<p>B：（　）です。</p></b>",
+    "options": [
+      "こちら",
+      "そちら",
+      "あちら",
+      "どちら"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 11,
+    "question": "<b>ドアが（　）。</b>",
+    "options": [
+      "開きます",
+      "開けます"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 12,
+    "question": "<b>A：よごれますは　どこですか。<p>B：（　）です。</p></b>",
+    "options": [
+      "ここ",
+      "そこ",
+      "あそこ",
+      "どこ"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 13,
+    "question": "<b>A：ガラスは　どこですか。<p>B：（　）です。</p></b>",
+    "options": [
+      "ここ",
+      "そこ",
+      "あそこ",
+      "どこ"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 14,
+    "question": "<b>A：さらは　どちらですか。<p>B：（　）です。</p></b>",
+    "options": [
+      "こちら",
+      "そちら",
+      "あちら",
+      "どちら"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 15,
+    "question": "<b>やぶれます</b>",
+    "options": [
+      "Rách, bị rách",
+      "Vắng, vắng vẻ",
+      "Quần, quần dài",
+      "Cái kim"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 16,
+    "question": "<b><ruby>電車<rp>（</rp><rt>でんしゃ</rt><rp>）</rp></ruby>（　）かばんを<ruby>忘<rp>（</rp><rt>わす</rt><rp>）</rp></れてしまいました。</b>",
+    "options": [
+      "に",
+      "で"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 17,
+    "question": "<b>よごれます</b>",
+    "options": [
+      "Bẩn, bị bẩn",
+      "Tôi không nhớ",
+      "Găng tay",
+      "Cỡ như thế này"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 18,
+    "question": "<b>Không sao đâu</b>",
+    "options": [
+      "かまいません",
+      "すきます",
+      "はり",
+      "ポケット"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 19,
+    "question": "<b>Chỉ, chỉ định</b>",
+    "options": [
+      "さします",
+      "かかります",
+      "つきます",
+      "こわれます"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 20,
+    "question": "<b>コップが（　）います。</b>",
+    "options": [
+      "割れて",
+      "破れて"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 21,
+    "question": "<b>皿</b>",
+    "options": [
+      "さら",
+      "ていき",
+      "ガラス",
+      "かまいません"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 22,
+    "question": "<b>ちゃわん</b>",
+    "options": [
+      "Bát, cái bát",
+      "Toa xe thứ…",
+      "Gãy, bị gãy",
+      "Cỡ như thế này"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 23,
+    "question": "<b>A：これは　なんですか。<p>B：（　）は　おとしますです。</p></b>",
+    "options": [
+      "それ",
+      "これ",
+      "あれ",
+      "どれ"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 24,
+    "question": "<b>倒れます</b>",
+    "options": [
+      "たおれます",
+      "すきます",
+      "おとします",
+      "かべ"
+    ],
+    "correctAnswer": 0
+  }
+]

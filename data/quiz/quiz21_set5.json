@@ -1,0 +1,250 @@
+[
+  {
+    "id": 1,
+    "question": "<b>A：しつもんは　どちらですか。<p>B：（　）です。</p></b>",
+    "options": [
+      "こちら",
+      "そちら",
+      "あちら",
+      "どちら"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 2,
+    "question": "<b><ruby>佐藤<rp>（</rp><rt>さとう</rt><rp>）</rp></ruby>さんは<ruby>独身<rp>（</rp><rt>どくしん</rt><rp>）</rp></ruby>ですか。…ええ、（　）と<ruby>思<rp>（</rp><rt>おも</rt><rp>）</rp></ruby>います。</b>",
+    "options": [
+      "独身",
+      "独身だ"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 3,
+    "question": "<b><ruby>毎朝<rp>（</rp><rt>まいあさ</rt><rp>）</rp></ruby>ラジオで<ruby>英語<rp>（</rp><rt>えいご</rt><rp>）</rp></ruby>の（　）を<ruby>聞<rp>（</rp><rt>き</rt><rp>）</rp></ruby>きます。</b>",
+    "options": [
+      "ニュース",
+      "マンガ"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 4,
+    "question": "<b>A：アルバイト「～をします」は　どこですか。<p>B：（　）です。</p></b>",
+    "options": [
+      "ここ",
+      "そこ",
+      "あそこ",
+      "どこ"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 5,
+    "question": "<b>このカレーは<ruby>辛<rp>（</rp><rt>つら</rt><rp>）</rp></ruby>いでしょう？…いいえ、そんなに（　）。</b>",
+    "options": [
+      "辛くないです",
+      "辛くなかったです"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 6,
+    "question": "<b>~ khác</b>",
+    "options": [
+      "ほかの～",
+      "たります",
+      "カンガルー",
+      "アルバイト「～をします」"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 7,
+    "question": "<b>おはなし</b>",
+    "options": [
+      "câu chuyện",
+      "kỹ thuật",
+      "mẫu thiết kế",
+      "tổng thống"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 8,
+    "question": "<b>không còn cách nào khác</b>",
+    "options": [
+      "しかたがありません",
+      "せいじ",
+      "こうつう",
+      "ユーモア"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 9,
+    "question": "<b>この<ruby>靴<rp>（</rp><rt>くつ</rt><rp>）</rp></ruby>は（　）があまりよくないです。</b>",
+    "options": [
+      "物価",
+      "デザイン"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 10,
+    "question": "<b><ruby>松本<rp>（</rp><rt>まつもと</rt><rp>）</rp></ruby>さんは<ruby>何時<rp>（</rp><rt>なんじ</rt><rp>）</rp></ruby>ごろ<ruby>来<rp>（</rp><rt>き</rt><rp>）</rp></ruby>ますか。…１０<ruby>時<rp>（</rp><rt>じ</rt><rp>）</rp></ruby>ごろ（　）と<ruby>思<rp>（</rp><rt>おも</rt><rp>）</rp></ruby>います。</b>",
+    "options": [
+      "来る",
+      "来ない"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 11,
+    "question": "<b>thắng, chiến thắng</b>",
+    "options": [
+      "かちます",
+      "せいじ",
+      "デザイン",
+      "だいとうりょう"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 12,
+    "question": "<b>A：ニュースは　どちらですか。<p>B：（　）です。</p></b>",
+    "options": [
+      "こちら",
+      "そちら",
+      "あちら",
+      "どちら"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 13,
+    "question": "<b>nghĩ, nghĩ rằng, cho rằng</b>",
+    "options": [
+      "おもいます",
+      "～でものみませんか",
+      "ニュース",
+      "ユーモア"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 14,
+    "question": "<b>A：まけますは　どこですか。<p>B：（　）です。</p></b>",
+    "options": [
+      "ここ",
+      "そこ",
+      "あそこ",
+      "どこ"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 15,
+    "question": "<b>けれども</b>",
+    "options": [
+      "けれども",
+      "しつもん（します、する、して）",
+      "おもいます",
+      "ぎじゅつ"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 16,
+    "question": "<b>この<ruby>資料<rp>（</rp><rt>しりょう</rt><rp>）</rp></ruby>は<ruby>役<rp>（</rp><rt>やく</rt><rp>）</rp></ruby>に<ruby>立<rp>（</rp><rt>た</rt><rp>）</rp></ruby>ちますか。…ええ、とても（　）と<ruby>思<rp>（</rp><rt>おも</rt><rp>）</rp></ruby>います。</b>",
+    "options": [
+      "役に立たない",
+      "役に立つ"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 17,
+    "question": "<b>ユーモア</b>",
+    "options": [
+      "sự hài hước, hóm hỉnh",
+      "kỹ thuật",
+      "ý kiến",
+      "mẫu thiết kế"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 18,
+    "question": "<b>A：これは　なんですか。<p>B：（　）は　せいじです。</p></b>",
+    "options": [
+      "それ",
+      "これ",
+      "あれ",
+      "どれ"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 19,
+    "question": "<b>về</b>",
+    "options": [
+      "～について",
+      "いいます",
+      "だいとうりょう",
+      "かいぎ"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 20,
+    "question": "<b>あしたもこのパソコンを（　）でしょう？…ええ、<ruby>使<rp>（</rp><rt>つか</rt><rp>）</rp></ruby>います。</b>",
+    "options": [
+      "使う",
+      "使わない"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 21,
+    "question": "<b>bài phát biểu, bài nói chuyện</b>",
+    "options": [
+      "スピーチ",
+      "しつもん（します、する、して）",
+      "かいぎ",
+      "おもいます"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 22,
+    "question": "<b>たります</b>",
+    "options": [
+      "đủ, đầy đủ",
+      "giờ cao điểm",
+      "giao thông",
+      "bạn có uống… không?"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 23,
+    "question": "<b>（　）<ruby>物価<rp>（</rp><rt>ぶっか</rt><rp>）</rp></ruby>が<ruby>高<rp>（</rp><rt>たか</rt><rp>）</rp></ruby>くなりました。</b>",
+    "options": [
+      "最近",
+      "きっと"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 24,
+    "question": "<b>～でものみませんか</b>",
+    "options": [
+      "bạn có uống… không?",
+      "thắng, chiến thắng",
+      "làm thêm, làm partime",
+      "~ khác"
+    ],
+    "correctAnswer": 0
+  }
+]

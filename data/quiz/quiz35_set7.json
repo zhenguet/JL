@@ -1,0 +1,228 @@
+[
+  {
+    "id": 1,
+    "question": "<b>つきます</b>",
+    "options": [
+      "Kèm theo",
+      "Lá cây",
+      "Dấu tròn",
+      "Niềm hân hoan, vui sướng"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 2,
+    "question": "<b>かわります</b>",
+    "options": [
+      "Thay đổi",
+      "Pin",
+      "Có thể [giao hàng tận nhà] được không?",
+      "Cảng"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 3,
+    "question": "<b>A：つきますは　どちらですか。<p>B：（　）です。</p></b>",
+    "options": [
+      "こちら",
+      "そちら",
+      "あちら",
+      "どちら"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 4,
+    "question": "<b><ruby>操作<rp>（</rp><rt>そうさ</rt><rp>）</rp></ruby>が（　）、<ruby>長<rp>（</rp><rt>なが</rt><rp>）</rp></ruby>い<ruby>時間<rp>（</rp><rt>じかん</rt><rp>）</rp></ruby><ruby>車<rp>（</rp><rt>くるま</rt><rp>）</rp></ruby>を<ruby>運転<rp>（</rp><rt>うんてん</rt><rp>）</rp></ruby>しても、<ruby>疲<rp>（</rp><rt>つか</rt><rp>）</rp></ruby>れないでしょう。</b>",
+    "options": [
+      "楽な",
+      "楽なら"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 5,
+    "question": "<b>機会</b>",
+    "options": [
+      "きかい",
+      "ほうほう",
+      "おくじょう",
+      "～いじょう"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 6,
+    "question": "<b>Kiểu mẫu</b>",
+    "options": [
+      "タイプ",
+      "なりませんか",
+      "ございます",
+      "やこうバス"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 7,
+    "question": "<b>いろいろな<ruby>外国語<rp>（</rp><rt>がいこくご</rt><rp>）</rp></ruby>が（　）、<ruby>海外<rp>（</rp><rt>かいがい</rt><rp>）</rp></ruby><ruby>旅行<rp>（</rp><rt>りょこう</rt><rp>）</rp></ruby>は<ruby>楽<rp>（</rp><rt>たの</rt><rp>）</rp></ruby>しいでしょう。</b>",
+    "options": [
+      "話せれば",
+      "話すと"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 8,
+    "question": "<b>ひろいます</b>",
+    "options": [
+      "Nhặt",
+      "Đảo",
+      "Phía bên kia",
+      "Chủng loại"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 9,
+    "question": "<b>A：きかいは　どちらですか。<p>B：（　）です。</p></b>",
+    "options": [
+      "こちら",
+      "そちら",
+      "あちら",
+      "どちら"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 10,
+    "question": "<b><ruby>来週<rp>（</rp><rt>らいしゅう</rt><rp>）</rp></ruby><ruby>広島<rp>（</rp><rt>ひろしま</rt><rp>）</rp></ruby>へ<ruby>出張<rp>（</rp><rt>しゅっちょう</rt><rp>）</rp></ruby>しますから、<ruby>広島<rp>（</rp><rt>ひろしま</rt><rp>）</rp></ruby>へ（　）<ruby>友達<rp>（</rp><rt>ともだち</rt><rp>）</rp></ruby>に<ruby>会<rp>（</rp><rt>あ</rt><rp>）</rp></ruby>いたいです。</b>",
+    "options": [
+      "行けば",
+      "行ったら"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 11,
+    "question": "<b>A：<ruby>春<rp>（</rp><rt>はる</rt><rp>）</rp></ruby>になれば、この<ruby>辺<rp>（</rp><rt>へん</rt><rp>）</rp></ruby>で<ruby>花見<rp>（</rp><rt>はなみ</rt><rp>）</rp></ruby>ができますよ。<p>B：そうですか。それは（　）です。</p></b>",
+    "options": [
+      "楽しい",
+      "楽しみ"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 12,
+    "question": "<b>A：しゅるいは　どこですか。<p>B：（　）です。</p></b>",
+    "options": [
+      "ここ",
+      "そこ",
+      "あそこ",
+      "どこ"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 13,
+    "question": "<b>A：ひろいますは　どこですか。<p>B：（　）です。</p></b>",
+    "options": [
+      "ここ",
+      "そこ",
+      "あそこ",
+      "どこ"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 14,
+    "question": "<b>ハイキング</b>",
+    "options": [
+      "Đi dã ngoại",
+      "Vùng lân cận",
+      "Hải ngoại",
+      "Thay đổi"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 15,
+    "question": "<b>Thành ngữ</b>",
+    "options": [
+      "ことわざ",
+      "つまみ",
+      "カタログ",
+      "やこうバス"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 16,
+    "question": "<b>もう<ruby>一度<rp>（</rp><rt>いちど</rt><rp>）</rp></ruby>ほかの<ruby>方法<rp>（</rp><rt>ほうほう</rt><rp>）</rp></ruby>（　）やりましょう。</b>",
+    "options": [
+      "で",
+      "を"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 17,
+    "question": "<b><ruby>許可<rp>（</rp><rt>きょか</rt><rp>）</rp></ruby>を（　）、ここには<ruby>入<rp>（</rp><rt>はい</rt><rp>）</rp></ruby>れません。</b>",
+    "options": [
+      "もらわなけば",
+      "もらわなければ"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 18,
+    "question": "<b>A：これは　なんですか。<p>B：（　）は　いやです。</p></b>",
+    "options": [
+      "それ",
+      "これ",
+      "あれ",
+      "どれ"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 19,
+    "question": "<b><ruby>天気<rp>（</rp><rt>てんき</rt><rp>）</rp></ruby>がよければ、<ruby>向<rp>（</rp><rt>む</rt><rp>）</rp></ruby>こう（　）<ruby>島<rp>（</rp><rt>しま</rt><rp>）</rp></ruby>が<ruby>見<rp>（</rp><rt>み</rt><rp>）</rp></ruby>えます。</b>",
+    "options": [
+      "で",
+      "に"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 20,
+    "question": "<b>パソコン</b>",
+    "options": [
+      "Máy tính cá nhân",
+      "Leo núi",
+      "Thay đổi",
+      "Chủng loại"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 21,
+    "question": "<b><ruby>左<rp>（</rp><rt>ひだり</rt><rp>）</rp></ruby>のつまみくを（　）お<ruby>湯<rp>（</rp><rt>ゆ</rt><rp>）</rp></ruby>が<ruby>出<rp>（</rp><rt>で</rt><rp>）</rp></ruby>ません。</b>",
+    "options": [
+      "回さなければ",
+      "回せば"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 22,
+    "question": "<b>しゅ</b>",
+    "options": [
+      "Màu son",
+      "Thay đổi",
+      "Bộ điều khiển từ xa",
+      "Nếu vậy thì"
+    ],
+    "correctAnswer": 0
+  }
+]

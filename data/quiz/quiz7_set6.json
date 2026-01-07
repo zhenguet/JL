@@ -1,0 +1,239 @@
+[
+  {
+    "id": 1,
+    "question": "<b>おとうと</b>",
+    "options": [
+      "em trai (của mình)",
+      "mẹ (của mình)",
+      "em trai (của người khác)",
+      "em gái (của mình)"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 2,
+    "question": "<b>A：おくりますは　どこですか。<p>B：（　）です。</p></b>",
+    "options": [
+      "ここ",
+      "そこ",
+      "あそこ",
+      "どこ"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 3,
+    "question": "<b>にもつ</b>",
+    "options": [
+      "hành lý, đồ đạc",
+      "nhận, nhận được",
+      "fax",
+      "từ nay trở đi, từ giờ trở đi"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 4,
+    "question": "<b>ごめんください</b>",
+    "options": [
+      "xin lỗi, cho hỏi có ai ở nhà không",
+      "vé, tấm vé",
+      "chúc mừng",
+      "cái kéo"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 5,
+    "question": "<b>いかがですか</b>",
+    "options": [
+      "bạn có dùng ~ không",
+      "học",
+      "nhận, nhận được",
+      "bố (của mình)"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 6,
+    "question": "<b>おしえます</b>",
+    "options": [
+      "dạy, giảng dạy",
+      "báo cáo, bản báo cáo",
+      "Châu Âu",
+      "em trai (của người khác)"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 7,
+    "question": "<b>A：セロテープは　どちらですか。<p>B：（　）です。</p></b>",
+    "options": [
+      "こちら",
+      "そちら",
+      "あちら",
+      "どちら"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 8,
+    "question": "<b>わたしは　ともだちに　CDを（　）。<p>いっしょに　この　CDを　ききましょう。</p></b>",
+    "options": [
+      "かしました",
+      "かりました"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 9,
+    "question": "<b>học</b>",
+    "options": [
+      "ならいます",
+      "おくります",
+      "きっぷ",
+      "はさみ"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 10,
+    "question": "<b>イーさんはせんせい（　）<ruby>手紙<rp>（</rp><rt>てがみ</rt><rp>）</rp></ruby>（　）かきました。</b>",
+    "options": [
+      "に、を",
+      "を、に"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 11,
+    "question": "<b>bố (của mình)</b>",
+    "options": [
+      "ちち",
+      "おにいさん",
+      "ごしゅじん",
+      "ならいます"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 12,
+    "question": "<b>A：これは　なんですか。<p>B：（　）は　おかあさんです。</p></b>",
+    "options": [
+      "それ",
+      "これ",
+      "あれ",
+      "どれ"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 13,
+    "question": "<b>お子さん</b>",
+    "options": [
+      "おこさん",
+      "ごしゅじん",
+      "スペイン",
+      "クリスマス"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 14,
+    "question": "<b>ミラーさんは  （　） にお<ruby>金<rp>（</rp><rt>かね</rt><rp>）</rp></ruby>を<ruby>借<rp>（</rp><rt>か</rt><rp>）</rp></ruby>りましたか。…<ruby>松本<rp>（</rp><rt>まつもと</rt><rp>）</rp></ruby>さんに<ruby>借<rp>（</rp><rt>か</rt><rp>）</rp></ruby>りました。</b>",
+    "options": [
+      "何",
+      "だれ"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 15,
+    "question": "<b>わたしは<ruby>田中<rp>（</rp><rt>たなか</rt><rp>）</rp></ruby><ruby>先生<rp>（</rp><rt>せんせい</rt><rp>）</rp></ruby>（　）<ruby>日本語<rp>（</rp><rt>にほんご</rt><rp>）</rp></ruby>（　）<ruby>習<rp>（</rp><rt>なら</rt><rp>）</rp></ruby>いました。</b>",
+    "options": [
+      "に、を",
+      "で、を"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 16,
+    "question": "<b>これは<ruby>日本語<rp>（</rp><rt>にほんご</rt><rp>）</rp></ruby>で（　）ですか。…「ホッチキス」です。</b>",
+    "options": [
+      "何",
+      "どれ"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 17,
+    "question": "<b>メールで（　）。</b>",
+    "options": [
+      "レポートを送ります",
+      "ご飯を食べます"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 18,
+    "question": "<b>cái dập ghim</b>",
+    "options": [
+      "ホッチキス",
+      "これから",
+      "スペイン",
+      "ワープロ"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 19,
+    "question": "<b>妹</b>",
+    "options": [
+      "いもうと",
+      "あね",
+      "かぞく",
+      "おこさん"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 20,
+    "question": "<b><ruby>何<rp>（</rp><rt>なん</rt><rp>）</rp></ruby>（　）この<ruby>魚<rp>（</rp><rt>さかな</rt><rp>）</rp></ruby>（　）<ruby>切<rp>（</rp><rt>き</rt><rp>）</rp></ruby>りますか。</b>",
+    "options": [
+      "で、を",
+      "を、に"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 21,
+    "question": "<b>A：かぞくは　どちらですか。<p>B：（　）です。</p></b>",
+    "options": [
+      "こちら",
+      "そちら",
+      "あちら",
+      "どちら"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 22,
+    "question": "<b>A：おみやげは　どこですか。<p>B：（　）です。</p></b>",
+    "options": [
+      "ここ",
+      "そこ",
+      "あそこ",
+      "どこ"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 23,
+    "question": "<b>（　）レポートを<ruby>送<rp>（</rp><rt>おく</rt><rp>）</rp></ruby>りましたか。…きのうの<ruby>夜<rp>（</rp><rt>よる</rt><rp>）</rp></ruby><ruby>送<rp>（</rp><rt>おく</rt><rp>）</rp></ruby>りました。</b>",
+    "options": [
+      "だれ",
+      "いつ"
+    ],
+    "correctAnswer": 1
+  }
+]

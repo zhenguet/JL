@@ -1,0 +1,261 @@
+[
+  {
+    "id": 1,
+    "question": "<b>A：これは　なんですか。<p>B：（　）は　かんじです。</p></b>",
+    "options": [
+      "それ",
+      "これ",
+      "あれ",
+      "どれ"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 2,
+    "question": "<b>A：カラオケは　どこですか。<p>B：（　）です。</p></b>",
+    "options": [
+      "ここ",
+      "そこ",
+      "あそこ",
+      "どこ"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 3,
+    "question": "<b>やさいが　きらいです（　）たべません。</b>",
+    "options": [
+      "が、",
+      "から、"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 4,
+    "question": "<b>きのうの<ruby>晩<rp>（</rp><rt>ばん</rt><rp>）</rp></ruby>は（　）<ruby>寝<rp>（</rp><rt>ね</rt><rp>）</rp></ruby>ました。</b>",
+    "options": [
+      "ぜんぜん",
+      "よく"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 5,
+    "question": "<b>A：あたまは　どちらですか。<p>B：（　）です。</p></b>",
+    "options": [
+      "こちら",
+      "そちら",
+      "あちら",
+      "どちら"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 6,
+    "question": "<b>chơi ghita (động từ)</b>",
+    "options": [
+      "ギターをひきます",
+      "ねつがあります",
+      "すみませんが",
+      "みかん"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 7,
+    "question": "<b>テレビが<ruby>好<rp>（</rp><rt>す</rt><rp>）</rp></ruby>きじゃありませんから、（　）。</b>",
+    "options": [
+      "漢字が分かりません",
+      "あまり見ません"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 8,
+    "question": "<b>A：スポーツは　どちらですか。<p>B：（　）です。</p></b>",
+    "options": [
+      "こちら",
+      "そちら",
+      "あちら",
+      "どちら"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 9,
+    "question": "<b>おなか</b>",
+    "options": [
+      "bụng",
+      "đàn ghita",
+      "tiếc nhỉ!, tiếc quá nhỉ!",
+      "nhạc cổ điển"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 10,
+    "question": "<b>きのうのばん（　）<ruby>勉強<rp>（</rp><rt>べんきょう</rt><rp>）</rp></ruby>しませんでした。</b>",
+    "options": [
+      "よく",
+      "ぜんぜん"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 11,
+    "question": "<b>りょうり</b>",
+    "options": [
+      "món ăn",
+      "vì ~, bởi ~",
+      "chữ cái",
+      "nhạc Jazz"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 12,
+    "question": "<b>（　）<ruby>魚<rp>（</rp><rt>さかな</rt><rp>）</rp></ruby>を<ruby>食<rp>（</rp><rt>た</rt><rp>）</rp></ruby>べませんか。…<ruby>嫌<rp>（</rp><rt>きら</rt><rp>）</rp></ruby>いですから。</b>",
+    "options": [
+      "どうして",
+      "何"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 13,
+    "question": "<b><ruby>松本<rp>（</rp><rt>まつもと</rt><rp>）</rp></ruby>さんの<ruby>奥<rp>（</rp><rt>おく</rt><rp>）</rp></ruby>さん（　）<ruby>料理<rp>（</rp><rt>りょうり</rt><rp>）</rp></ruby>（　）<ruby>上手<rp>（</rp><rt>じょうず</rt><rp>）</rp></ruby>です。</b>",
+    "options": [
+      "は、が",
+      "は、に"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 14,
+    "question": "<b>おかね（　）ありません。</b>",
+    "options": [
+      "が",
+      "を"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 15,
+    "question": "<b>bị cảm</b>",
+    "options": [
+      "かぜをひきます",
+      "じ",
+      "ざんねんですね",
+      "あります"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 16,
+    "question": "<b>bạn tham gia cùng không?</b>",
+    "options": [
+      "いっしょにいかがですか",
+      "またこんどおねがいします",
+      "やすみます",
+      "～から"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 17,
+    "question": "<b>karaoke</b>",
+    "options": [
+      "カラオケ",
+      "ひらがな",
+      "ざんねんですね",
+      "かぜをひきます"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 18,
+    "question": "<b>chữ Katakana</b>",
+    "options": [
+      "カタカナ",
+      "やきゅう",
+      "がっこうをやすみます",
+      "～から"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 19,
+    "question": "<b>がっこうをやすみます</b>",
+    "options": [
+      "nghỉ học",
+      "bị sốt",
+      "đau đầu, nhức đầu",
+      "oh!"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 20,
+    "question": "<b>thuốc</b>",
+    "options": [
+      "くすり",
+      "わかります",
+      "なんですか",
+      "ギターをひきます"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 21,
+    "question": "<b>鶏肉</b>",
+    "options": [
+      "とりにく",
+      "チケット",
+      "やきゅう",
+      "え"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 22,
+    "question": "<b>A：うたは　どこですか。<p>B：（　）です。</p></b>",
+    "options": [
+      "ここ",
+      "そこ",
+      "あそこ",
+      "どこ"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 23,
+    "question": "<b>không được sao?</b>",
+    "options": [
+      "だめですか",
+      "バナナ",
+      "ギターをひきます",
+      "カタカナ"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 24,
+    "question": "<b><ruby>大<rp>（</rp><rt>おお</rt><rp>）</rp></ruby>きい<ruby>荷物<rp>（</rp><rt>にもつ</rt><rp>）</rp></ruby>がありますから、（　）。</b>",
+    "options": [
+      "スポーツが嫌いです",
+      "タクシーで行きます"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 25,
+    "question": "<b>～から</b>",
+    "options": [
+      "vì ~, bởi ~",
+      "thuốc",
+      "đầu",
+      "tiền lẻ"
+    ],
+    "correctAnswer": 0
+  }
+]

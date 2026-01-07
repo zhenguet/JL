@@ -1,0 +1,261 @@
+[
+  {
+    "id": 1,
+    "question": "<b>ひらがな（　）わかりますか。<p>                …はい、だいたい（　）わかります。</p></b>",
+    "options": [
+      "X,が",
+      "が、X"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 2,
+    "question": "<b>A：これは　なんですか。<p>B：（　）は　ダンスをしますです。</p></b>",
+    "options": [
+      "それ",
+      "これ",
+      "あれ",
+      "どれ"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 3,
+    "question": "<b>わたしは<ruby>音楽<rp>（</rp><rt>おんがく</rt><rp>）</rp></ruby>が<ruby>好<rp>（</rp><rt>す</rt><rp>）</rp></ruby>きですから、（　）。</b>",
+    "options": [
+      "冷たい飲み物を飲みます",
+      "CDがたくさんあります"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 4,
+    "question": "<b>やすみます</b>",
+    "options": [
+      "nghỉ (không đến)",
+      "chữ Hiragana",
+      "nhạc Jazz",
+      "tiền lẻ"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 5,
+    "question": "<b>A：どうして　テニスをしませんか。<p>B：（　）。</p></b>",
+    "options": [
+      "じかんが　ありませんですから",
+      "じかんが　ありませんから"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 6,
+    "question": "<b>かたかなが（　）わかります。</b>",
+    "options": [
+      "はやく",
+      "だいたい"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 7,
+    "question": "<b>A：うたは　どちらですか。<p>B：（　）です。</p></b>",
+    "options": [
+      "こちら",
+      "そちら",
+      "あちら",
+      "どちら"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 8,
+    "question": "<b>đau đầu, nhức đầu</b>",
+    "options": [
+      "あたまがいたいです",
+      "ざんねんですね",
+      "またこんどおねがいします",
+      "くすり"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 9,
+    "question": "<b><ruby>大<rp>（</rp><rt>おお</rt><rp>）</rp></ruby>きい<ruby>荷物<rp>（</rp><rt>にもつ</rt><rp>）</rp></ruby>がありますから、（　）。</b>",
+    "options": [
+      "スポーツが嫌いです",
+      "タクシーで行きます"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 10,
+    "question": "<b>A：ダンスをしますは　どこですか。<p>B：（　）です。</p></b>",
+    "options": [
+      "ここ",
+      "そこ",
+      "あそこ",
+      "どこ"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 11,
+    "question": "<b>có việc gì đấy?</b>",
+    "options": [
+      "なんですか",
+      "かいしゃをやすみます",
+      "あたまがいたいです",
+      "みかん"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 12,
+    "question": "<b>A：ギターをひきますは　どこですか。<p>B：（　）です。</p></b>",
+    "options": [
+      "ここ",
+      "そこ",
+      "あそこ",
+      "どこ"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 13,
+    "question": "<b>A：うたは　どちらですか。<p>B：（　）です。</p></b>",
+    "options": [
+      "こちら",
+      "そちら",
+      "あちら",
+      "どちら"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 14,
+    "question": "<b>nghỉ học</b>",
+    "options": [
+      "がっこうをやすみます",
+      "ぶたにく",
+      "カラオケ",
+      "ジャズ"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 15,
+    "question": "<b>どんな（　）スポーツ（　）<ruby>好<rp>（</rp><rt>す</rt><rp>）</rp></ruby>きですか。<p>                …<ruby>野球<rp>（</rp><rt>やきゅう</rt><rp>）</rp></ruby>（　）<ruby>好<rp>（</rp><rt>す</rt><rp>）</rp></ruby>きです。</p></b>",
+    "options": [
+      "X,が、が",
+      "が、X,　が"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 16,
+    "question": "<b>ぶたにく</b>",
+    "options": [
+      "thịt lợn",
+      "tiền lẻ",
+      "thuốc",
+      "chơi ghita (động từ)"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 17,
+    "question": "<b>đồ uống</b>",
+    "options": [
+      "のみもの",
+      "みかん",
+      "おんがく",
+      "スポーツ"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 18,
+    "question": "<b>ひらがなが（　）わかります。</b>",
+    "options": [
+      "よく",
+      "ぜんぜん"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 19,
+    "question": "<b>スポーツ</b>",
+    "options": [
+      "スポーツ",
+      "ぶたにく",
+      "わかります",
+      "かんじ"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 20,
+    "question": "<b>hòa nhạc</b>",
+    "options": [
+      "コンサート",
+      "あります",
+      "やすみます",
+      "とりにく"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 21,
+    "question": "<b>A：（　）にくを　たべませんか。<p>B：にくが　すきじゃ　ありませんから。</p></b>",
+    "options": [
+      "どうして",
+      "どんな"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 22,
+    "question": "<b>vì ~, bởi ~</b>",
+    "options": [
+      "～から",
+      "どうして",
+      "ジャズ",
+      "こまかいおかね"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 23,
+    "question": "<b>ローマじ</b>",
+    "options": [
+      "chữ La tinh",
+      "chữ Kanji",
+      "đồ uống",
+      "vì sao, tại sao (từ để hỏi)"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 24,
+    "question": "<b>nhạc Jazz</b>",
+    "options": [
+      "ジャズ",
+      "あたま",
+      "ぶたにく",
+      "どうして"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 25,
+    "question": "<b>じ</b>",
+    "options": [
+      "chữ cái",
+      "bài hát",
+      "tranh, bức tranh",
+      "nghỉ (không đến)"
+    ],
+    "correctAnswer": 0
+  }
+]

@@ -1,0 +1,250 @@
+[
+  {
+    "id": 1,
+    "question": "<b>A：なんじは　どちらですか。<p>B：（　）です。</p></b>",
+    "options": [
+      "こちら",
+      "そちら",
+      "あちら",
+      "どちら"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 2,
+    "question": "<b>sáng</b>",
+    "options": [
+      "あさ",
+      "～ぶん（～ふん）",
+      "まいにち",
+      "いま"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 3,
+    "question": "<b>もくようび</b>",
+    "options": [
+      "ngày thứ năm",
+      "hàng tối",
+      "ngủ",
+      "nửa, rưỡi"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 4,
+    "question": "<b>ngày thứ ba</b>",
+    "options": [
+      "かようび",
+      "おわります",
+      "まいあさ",
+      "まいばん"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 5,
+    "question": "<b>A：たいへんですねは　どこですか。<p>B：（　）です。</p></b>",
+    "options": [
+      "ここ",
+      "そこ",
+      "あそこ",
+      "どこ"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 6,
+    "question": "<b>A：<ruby>大阪<rp>（</rp><rt>おおさか</rt><rp>）</rp></ruby>デパートの<ruby>休<rp>（</rp><rt>やす</rt><rp>）</rp></ruby>みは（　）ですか。<p>B：<ruby>木曜日<rp>（</rp><rt>もくようび</rt><rp>）</rp></ruby>です。</p></b>",
+    "options": [
+      "何曜日",
+      "何日"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 7,
+    "question": "<b>A：<ruby>会社<rp>（</rp><rt>かいしゃ</rt><rp>）</rp></ruby>は（　）から（　）までですか。<p>B：<ruby>月曜日<rp>（</rp><rt>げつようび</rt><rp>）</rp></ruby>から<ruby>金曜日<rp>（</rp><rt>きんようび</rt><rp>）</rp></ruby>までです。</p></b>",
+    "options": [
+      "何曜日",
+      "何日"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 8,
+    "question": "<b>A：けさ（　）に<ruby>起<rp>（</rp><rt>お</rt><rp>）</rp></ruby>きましたか。<p>B：６<ruby>時半<rp>（</rp><rt>じはん</rt><rp>）</rp></ruby>に<ruby>起<rp>（</rp><rt>お</rt><rp>）</rp></ruby>きました。</p></b>",
+    "options": [
+      "何時",
+      "何で"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 9,
+    "question": "<b>A：これは　なんですか。<p>B：（　）は　きのうです。</p></b>",
+    "options": [
+      "それ",
+      "これ",
+      "あれ",
+      "どれ"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 10,
+    "question": "<b>hôm kia</b>",
+    "options": [
+      "おととい",
+      "きょう",
+      "ゆうびんきょく",
+      "ひるやすみ"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 11,
+    "question": "<b>べんきょう</b>",
+    "options": [
+      "việc học tập",
+      "học",
+      "sáng",
+      "từ ~"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 12,
+    "question": "<b>にちようび</b>",
+    "options": [
+      "ngày chủ nhật",
+      "cửa hàng bách hóa",
+      "mấy phút, bao nhiêu phút",
+      "buổi sáng"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 13,
+    "question": "<b>Bách hóa Osaka (tên tưởng tượng, không có thực)</b>",
+    "options": [
+      "おおさかデパート",
+      "なんぷん",
+      "ごぜん",
+      "けさ"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 14,
+    "question": "<b>A：ぎんこうは　なんじからですか。<p>B：９じから（　）。</p></b>",
+    "options": [
+      "はたらきます",
+      "です"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 15,
+    "question": "<b>あさって（　）<ruby>日曜日<rp>（</rp><rt>にちようび</rt><rp>）</rp></ruby>です。</b>",
+    "options": [
+      "は",
+      "が"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 16,
+    "question": "<b>わたし（　）<ruby>会社<rp>（</rp><rt>かいしゃ</rt><rp>）</rp></ruby>は９<ruby>時<rp>（</rp><rt>じ</rt><rp>）</rp></ruby>（　）５<ruby>時<rp>（</rp><rt>じ</rt><rp>）</rp></ruby>（　）です。</b><br/><b>(2)</b>",
+    "options": [
+      "から",
+      "に"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 17,
+    "question": "<b>おきます</b>",
+    "options": [
+      "thức dậy",
+      "thế à? (tỏ ý mình đang nghe)",
+      "xong, kết thúc",
+      "tối nay"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 18,
+    "question": "<b>～phút</b>",
+    "options": [
+      "～ぶん（～ふん）",
+      "ひるやすみ",
+      "ばん（よる）",
+      "～まで"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 19,
+    "question": "<b>デパートは　１０じ（　）です。</b>",
+    "options": [
+      "から",
+      "に"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 20,
+    "question": "<b>なんばん</b>",
+    "options": [
+      "số mấy",
+      "～giờ",
+      "New York",
+      "buổi sáng"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 21,
+    "question": "<b>A：どようびは　どこですか。<p>B：（　）です。</p></b>",
+    "options": [
+      "ここ",
+      "そこ",
+      "あそこ",
+      "どこ"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 22,
+    "question": "<b>A：あさっては　どちらですか。<p>B：（　）です。</p></b>",
+    "options": [
+      "こちら",
+      "そちら",
+      "あちら",
+      "どちら"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 23,
+    "question": "<b>わたし（　）<ruby>会社<rp>（</rp><rt>かいしゃ</rt><rp>）</rp></ruby>は９<ruby>時<rp>（</rp><rt>じ</rt><rp>）</rp></ruby>（　）５<ruby>時<rp>（</rp><rt>じ</rt><rp>）</rp></ruby>（　）です。</b><br/><b>(3)</b>",
+    "options": [
+      "まで",
+      "に"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 24,
+    "question": "<b>こんばん</b>",
+    "options": [
+      "tối nay",
+      "Thư viện Midori (tên tưởng tượng, không có thực)",
+      "Bắc Kinh",
+      "Los Angeles"
+    ],
+    "correctAnswer": 0
+  }
+]

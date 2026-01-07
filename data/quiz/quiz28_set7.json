@@ -1,0 +1,261 @@
+[
+  {
+    "id": 1,
+    "question": "<b>マニュアル</b>",
+    "options": [
+      "Sách chỉ dẫn",
+      "Lực, sức mạnh",
+      "Cắn, nhai",
+      "Con gái (của mình)"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 2,
+    "question": "<b>Khác, không đúng</b>",
+    "options": [
+      "ちがいます",
+      "かたち",
+      "ひにち",
+      "ばんぐみ"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 3,
+    "question": "<b><ruby>毎朝<rp>（</rp><rt>まいあさ</rt><rp>）</rp></ruby>8<ruby>時<rp>（</rp><rt>じ</rt><rp>）</rp></ruby>15<ruby>分<rp>（</rp><rt>ふん</rt><rp>）</rp></ruby>の<ruby>電車<rp>（</rp><rt>でんしゃ</rt><rp>）</rp></ruby>に（　）が、けさは8<ruby>時<rp>（</rp><rt>じ</rt><rp>）</rp></ruby>の<ruby>電車<rp>（</rp><rt>でんしゃ</rt><rp>）</rp></ruby>に<ruby>乗<rp>（</rp><rt>の</rt><rp>）</rp></ruby>りました。</b>",
+    "options": [
+      "乗っています",
+      "中止しています"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 4,
+    "question": "<b>この<ruby>車<rp>（</rp><rt>くるま</rt><rp>）</rp></ruby>は<ruby>形<rp>（</rp><rt>けい</rt><rp>）</rp></ruby>（　）いいですが、<ruby>色<rp>（</rp><rt>いろ</rt><rp>）</rp></ruby>はあまりすきじゃありません。</b>",
+    "options": [
+      "も",
+      "は"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 5,
+    "question": "<b>A：うれますは　どちらですか。<p>B：（　）です。</p></b>",
+    "options": [
+      "こちら",
+      "そちら",
+      "あちら",
+      "どちら"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 6,
+    "question": "<b>パンはいつも<ruby>駅<rp>（</rp><rt>えき</rt><rp>）</rp></ruby>の<ruby>前<rp>（</rp><rt>まえ</rt><rp>）</rp></ruby>のパン<ruby>屋<rp>（</rp><rt>や</rt><rp>）</rp></ruby>で（　）が、きのうはスーパーで<ruby>買<rp>（</rp><rt>か</rt><rp>）</rp></ruby>いました。</b>",
+    "options": [
+      "きっています",
+      "買っています"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 7,
+    "question": "<b>A：えらびますは　どこですか。<p>B：（　）です。</p></b>",
+    "options": [
+      "ここ",
+      "そこ",
+      "あそこ",
+      "どこ"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 8,
+    "question": "<b>A：おしゃべりは　どこですか。<p>B：（　）です。</p></b>",
+    "options": [
+      "ここ",
+      "そこ",
+      "あそこ",
+      "どこ"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 9,
+    "question": "<b>給料</b>",
+    "options": [
+      "きゅうりょう",
+      "ちがいます",
+      "かみます",
+      "におい"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 10,
+    "question": "<b>Ngày tháng</b>",
+    "options": [
+      "ひにち",
+      "あじ",
+      "しょうせつか",
+      "それで"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 11,
+    "question": "<b>さきます</b>",
+    "options": [
+      "Nở",
+      "Sách chỉ dẫn",
+      "Quán cà phê",
+      "Con gái (của mình)"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 12,
+    "question": "<b>ホームステイ</b>",
+    "options": [
+      "ホームステイ",
+      "おしらせ",
+      "それで",
+      "うれます"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 13,
+    "question": "<b>コーヒーを（　）ながら、テレビを<ruby>見<rp>（</rp><rt>み</rt><rp>）</rp></ruby>ます。</b>",
+    "options": [
+      "飲み",
+      "飲む"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 14,
+    "question": "<b>メニュー</b>",
+    "options": [
+      "Thực đơn",
+      "Phòng tập thể dục",
+      "Đi lại, đi (đi học, đi làm)",
+      "Ghi"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 15,
+    "question": "<b>Màu sắc</b>",
+    "options": [
+      "いろ",
+      "たいいくかん",
+      "おべんとう",
+      "それで"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 16,
+    "question": "<b>このカメラは<ruby>小<rp>（</rp><rt>ちい</rt><rp>）</rp></ruby>さいし、<ruby>軽<rp>（</rp><rt>かる</rt><rp>）</rp></ruby>いし、（　）<ruby>使<rp>（</rp><rt>つか</rt><rp>）</rp></ruby>い<ruby>方<rp>（</rp><rt>かた</rt><rp>）</rp></ruby>も<ruby>簡単<rp>（</rp><rt>かんたん</rt><rp>）</rp></ruby>です。</b>",
+    "options": [
+      "それで",
+      "それに"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 17,
+    "question": "<b>A：これは　なんですか。<p>B：（　）は　ボーナスです。</p></b>",
+    "options": [
+      "それ",
+      "これ",
+      "あれ",
+      "どれ"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 18,
+    "question": "<b>かよいます</b>",
+    "options": [
+      "Đi lại, đi (đi học, đi làm)",
+      "Con trai (người khác)",
+      "Thông báo",
+      "Hình thức"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 19,
+    "question": "<b>たのみます</b>",
+    "options": [
+      "Nhờ vả",
+      "Kinh nghiệm",
+      "Bán chạy, bán tốt",
+      "Tôi có việc muốn nhờ anh một chút"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 20,
+    "question": "<b>噛みます</b>",
+    "options": [
+      "かみます",
+      "けいけん",
+      "しなもの",
+      "ちがいます"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 21,
+    "question": "<b>Miễn phí</b>",
+    "options": [
+      "むりょう",
+      "おどります",
+      "たいいくかん",
+      "しょうせつ"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 22,
+    "question": "<b><ruby>休<rp>（</rp><rt>やす</rt><rp>）</rp></ruby>みの<ruby>日<rp>（</rp><rt>ひ</rt><rp>）</rp></ruby>は（　）<ruby>寝<rp>（</rp><rt>ね</rt><rp>）</rp></ruby>ています。</b>",
+    "options": [
+      "たいてい",
+      "ずいぶん"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 23,
+    "question": "<b>A：おどりますは　どちらですか。<p>B：（　）です。</p></b>",
+    "options": [
+      "こちら",
+      "そちら",
+      "あちら",
+      "どちら"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 24,
+    "question": "<b>ワット<ruby>先生<rp>（</rp><rt>せんせい</rt><rp>）</rp></ruby>は、（　）<ruby>熱心<rp>（</rp><rt>ねっしん</rt><rp>）</rp></ruby>な<ruby>先生<rp>（</rp><rt>せんせい</rt><rp>）</rp></ruby>です。</b>",
+    "options": [
+      "まじめし、",
+      "まじめだし、"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 25,
+    "question": "<b><ruby>国<rp>（</rp><rt>くに</rt><rp>）</rp></ruby>ではよくドラマを（　）が、<ruby>日本<rp>（</rp><rt>にほん</rt><rp>）</rp></ruby>へ<ruby>来<rp>（</rp><rt>き</rt><rp>）</rp></ruby>てから、ニュースしか<ruby>見<rp>（</rp><rt>み</rt><rp>）</rp></ruby>ません。</b>",
+    "options": [
+      "します",
+      "見ていました"
+    ],
+    "correctAnswer": 1
+  }
+]

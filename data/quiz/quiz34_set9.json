@@ -1,0 +1,262 @@
+[
+  {
+    "id": 1,
+    "question": "<b>A：しょうゆは　どこですか。<p>B：（　）です。</p></b>",
+    "options": [
+      "ここ",
+      "そこ",
+      "あそこ",
+      "どこ"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 2,
+    "question": "<b>おります</b>",
+    "options": [
+      "Bẻ, gập, gấp",
+      "Đồ nội thất",
+      "Nguyên liệu",
+      "Chất lên, chồng lên, đặt lên"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 3,
+    "question": "<b><ruby>日曜日<rp>（</rp><rt>にちようび</rt><rp>）</rp></ruby>も（　）、<ruby>働<rp>（</rp><rt>はたら</rt><rp>）</rp></ruby>くんですか。</b>",
+    "options": [
+      "休まないで",
+      "働かないで"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 4,
+    "question": "<b>プログラム</b>",
+    "options": [
+      "Chương trình",
+      "~ phần",
+      "Nồi",
+      "Sách giải thích"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 5,
+    "question": "<b>きょうはネクタイを（　）<ruby>出<rp>（</rp><rt>で</rt><rp>）</rp></ruby>かけます。</b>",
+    "options": [
+      "して",
+      "着て"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 6,
+    "question": "<b>Chấm</b>",
+    "options": [
+      "つきます",
+      "にえます",
+      "ざいりょう",
+      "もんだい"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 7,
+    "question": "<b>（　）あとで、<ruby>葉<rp>（</rp><rt>は</rt><rp>）</rp></ruby>を<ruby>磨<rp>（</rp><rt>みが</rt><rp>）</rp></ruby>いてください。</b>",
+    "options": [
+      "食事",
+      "食事の"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 8,
+    "question": "<b>もし、わたしが<ruby>遅<rp>（</rp><rt>おく</rt><rp>）</rp></ruby>れたら、（　）<ruby>先<rp>（</rp><rt>さき</rt><rp>）</rp></ruby>に<ruby>行<rp>（</rp><rt>い</rt><rp>）</rp></ruby>ってください。</b>",
+    "options": [
+      "待たないで",
+      "待って",
+      "待つと"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 9,
+    "question": "<b>Vội vàng</b>",
+    "options": [
+      "あわてます",
+      "シートベルト",
+      "スポーツクラブ",
+      "にえます"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 10,
+    "question": "<b>取り付けます</b>",
+    "options": [
+      "とりつけます",
+      "てん",
+      "うまくいきましたね",
+      "のせます"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 11,
+    "question": "<b>Anh làm tốt lắm rồi</b>",
+    "options": [
+      "うまくいきましたね",
+      "～か、～",
+      "おやこどんぶり",
+      "さどう"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 12,
+    "question": "<b>（　）とおりに<ruby>切<rp>（</rp><rt>き</rt><rp>）</rp></ruby>ってください。</b>",
+    "options": [
+      "線の",
+      "線"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 13,
+    "question": "<b>A：しょうゆは　どこですか。<p>B：（　）です。</p></b>",
+    "options": [
+      "ここ",
+      "そこ",
+      "あそこ",
+      "どこ"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 14,
+    "question": "<b>おやこどんぶり</b>",
+    "options": [
+      "Món ăn Oyakodonburi",
+      "Chấm, điểm",
+      "Xì dầu",
+      "Vặn lại, đóng lại"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 15,
+    "question": "<b>この<ruby>棚<rp>（</rp><rt>たな</rt><rp>）</rp></ruby>（　）<ruby>重<rp>（</rp><rt>おも</rt><rp>）</rp></ruby>い<ruby>物<rp>（</rp><rt>もの</rt><rp>）</rp></ruby>を<ruby>載<rp>（</rp><rt>の</rt><rp>）</rp></ruby>せないでください。</b>",
+    "options": [
+      "で",
+      "に"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 16,
+    "question": "<b>A：ずは　どちらですか。<p>B：（　）です。</p></b>",
+    "options": [
+      "こちら",
+      "そちら",
+      "あちら",
+      "どちら"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 17,
+    "question": "<b>A：これは　なんですか。<p>B：（　）は　ねじです。</p></b>",
+    "options": [
+      "それ",
+      "これ",
+      "あれ",
+      "どれ"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 18,
+    "question": "<b>Bao bì</b>",
+    "options": [
+      "パッキング",
+      "ミーティング",
+      "バレーボール",
+      "スポーツクラブ"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 19,
+    "question": "<b>てん</b>",
+    "options": [
+      "Chấm, điểm",
+      "~ hoặc~",
+      "Dẫu mũi tên",
+      "Sai lầm, khác biệt"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 20,
+    "question": "<b><ruby>東京<rp>（</rp><rt>とうきょう</rt><rp>）</rp></ruby>から<ruby>大阪<rp>（</rp><rt>おおさか</rt><rp>）</rp></ruby>へは<ruby>新幹線<rp>（</rp><rt>しんかんせん</rt><rp>）</rp></ruby>（　）<ruby>飛行機<rp>（</rp><rt>ひこうき</rt><rp>）</rp></ruby>で<ruby>行<rp>（</rp><rt>い</rt><rp>）</rp></ruby>けます。</b>",
+    "options": [
+      "か",
+      "も"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 21,
+    "question": "<b>違います</b>",
+    "options": [
+      "ちがいます",
+      "せん",
+      "ざいりょう",
+      "パッキング"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 22,
+    "question": "<b>煮ます</b>",
+    "options": [
+      "にます",
+      "ソース",
+      "シートベルト",
+      "しょうゆ"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 23,
+    "question": "<b>A：ソースは　どちらですか。<p>B：（　）です。</p></b>",
+    "options": [
+      "こちら",
+      "そちら",
+      "あちら",
+      "どちら"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 24,
+    "question": "<b>Biểu đồ</b>",
+    "options": [
+      "ひょう",
+      "きいろ",
+      "ず",
+      "おやこどんぶり"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 25,
+    "question": "<b>エアコンを<ruby>消<rp>（</rp><rt>け</rt><rp>）</rp></ruby>して<ruby>寝<rp>（</rp><rt>ね</rt><rp>）</rp></ruby>ましたか。<p>…いいえ、（　）<ruby>寝<rp>（</rp><rt>ね</rt><rp>）</rp></ruby>てしまいました。</p></b>",
+    "options": [
+      "消して",
+      "消さないで"
+    ],
+    "correctAnswer": 1
+  }
+]

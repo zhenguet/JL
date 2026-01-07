@@ -1,0 +1,261 @@
+[
+  {
+    "id": 1,
+    "question": "<b>さかなや</b>",
+    "options": [
+      "cửa hàng cá",
+      "taxi",
+      "năm sau, năm tới",
+      "hiệu sách"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 2,
+    "question": "<b>tháng này</b>",
+    "options": [
+      "こんげつ",
+      "おおさかじょう",
+      "いきます",
+      "たんじょうび"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 3,
+    "question": "<b>A：おおさかじょうは　どちらですか。<p>B：（　）です。</p></b>",
+    "options": [
+      "こちら",
+      "そちら",
+      "あちら",
+      "どちら"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 4,
+    "question": "<b>ふつう</b>",
+    "options": [
+      "thông thường, tàu thường",
+      "năm nay",
+      "nhà máy",
+      "ngày bao nhiêu? (bao nhiêu ngày?)"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 5,
+    "question": "<b>A：（　）くにへ　かえりますか。<p>B：らいげつ　かえります。</p></b>",
+    "options": [
+      "いつ",
+      "だれと"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 6,
+    "question": "<b>A：<ruby>神戸<rp>（</rp><rt>こうべ</rt><rp>）</rp></ruby>まで（　）ですか。<p>B：５７０<ruby>円<rp>（</rp><rt>えん</rt><rp>）</rp></ruby>です。</p></b>",
+    "options": [
+      "いくつ",
+      "いくら"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 7,
+    "question": "<b>A：これは　なんですか。<p>B：（　）は　～がつです。</p></b>",
+    "options": [
+      "それ",
+      "これ",
+      "あれ",
+      "どれ"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 8,
+    "question": "<b>にちようび　デパートへ（　）。</b>",
+    "options": [
+      "いきます",
+      "きます"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 9,
+    "question": "<b>A：たんじょうびは　どこですか。<p>B：（　）です。</p></b>",
+    "options": [
+      "ここ",
+      "そこ",
+      "あそこ",
+      "どこ"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 10,
+    "question": "<b>Thị trấn Fushimi ở Kyoto</b>",
+    "options": [
+      "ふしみ",
+      "ともだち",
+      "ほんや",
+      "かれ"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 11,
+    "question": "<b>A：（　）アメリカへ<ruby>行<rp>（</rp><rt>い</rt><rp>）</rp></ruby>きますか。<p>B：<ruby>来月<rp>（</rp><rt>らいげつ</rt><rp>）</rp></ruby><ruby>行<rp>（</rp><rt>い</rt><rp>）</rp></ruby>きます。</p></b>",
+    "options": [
+      "いくつ",
+      "いつ"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 12,
+    "question": "<b>A：（　）で<ruby>行<rp>（</rp><rt>い</rt><rp>）</rp></ruby>きますか。<p>B：<ruby>電車<rp>（</rp><rt>でんしゃ</rt><rp>）</rp></ruby>で<ruby>行<rp>（</rp><rt>い</rt><rp>）</rp></ruby>きます。</p></b>",
+    "options": [
+      "何",
+      "どこ"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 13,
+    "question": "<b>来月</b>",
+    "options": [
+      "らいげつ",
+      "ひと",
+      "こいびと",
+      "こうしえん"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 14,
+    "question": "<b>～屋</b>",
+    "options": [
+      "～や",
+      "～ねん",
+      "なんがつ",
+      "ともだち"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 15,
+    "question": "<b>博多</b>",
+    "options": [
+      "はかた",
+      "かぞく",
+      "たんじょうび",
+      "ともだち"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 16,
+    "question": "<b>行きます</b>",
+    "options": [
+      "いきます",
+      "ふね",
+      "なんがつ",
+      "ほんや"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 17,
+    "question": "<b>A：（　）と<ruby>行<rp>（</rp><rt>い</rt><rp>）</rp></ruby>きますか。<p>B：<ruby>友達<rp>（</rp><rt>ともだち</rt><rp>）</rp></ruby>と<ruby>行<rp>（</rp><rt>い</rt><rp>）</rp></ruby>きます。</p></b>",
+    "options": [
+      "だれ",
+      "どこ"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 18,
+    "question": "<b>A：（　）にほんへ　きましたか。<p>B：ひこうきで　きました。</p></b>",
+    "options": [
+      "なんで",
+      "だれと"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 19,
+    "question": "<b>A：～にちは　どこですか。<p>B：（　）です。</p></b>",
+    "options": [
+      "ここ",
+      "そこ",
+      "あそこ",
+      "どこ"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 20,
+    "question": "<b>A：こいびとは　どちらですか。<p>B：（　）です。</p></b>",
+    "options": [
+      "こちら",
+      "そちら",
+      "あちら",
+      "どちら"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 21,
+    "question": "<b>～ばんせん</b>",
+    "options": [
+      "bến tàu số ～, đường tàu số ～",
+      "tàu điện",
+      "Thị trấn Fushimi ở Kyoto",
+      "tuần trước"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 22,
+    "question": "<b>A：きょうは（　）ですか。<p>B：<ruby>火曜日<rp>（</rp><rt>かようび</rt><rp>）</rp></ruby>です。</p></b>",
+    "options": [
+      "何曜日",
+      "何日"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 23,
+    "question": "<b>がっこう</b>",
+    "options": [
+      "trường học (nói chung)",
+      "khi nào, lúc nào",
+      "tháng mấy",
+      "Thành cổ Osaka, thành cổ nổi tiếng ở Osaka"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 24,
+    "question": "<b>大阪城</b>",
+    "options": [
+      "おおさかじょう",
+      "きゅうこう",
+      "～にち",
+      "つぎのえき"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 25,
+    "question": "<b>電車</b>",
+    "options": [
+      "でんしゃ",
+      "こうじょう",
+      "なんがつ",
+      "ふしみ"
+    ],
+    "correctAnswer": 0
+  }
+]

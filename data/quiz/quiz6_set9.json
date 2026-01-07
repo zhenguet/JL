@@ -1,0 +1,250 @@
+[
+  {
+    "id": 1,
+    "question": "<b>A：なにをよみますか。　<p>B：なにも（　）。</p></b>",
+    "options": [
+      "よみません",
+      "よみます"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 2,
+    "question": "<b>ビデオ</b>",
+    "options": [
+      "ビデオ",
+      "あさごはん",
+      "ともだちにあいます",
+      "こうちゃ"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 3,
+    "question": "<b>フィルム</b>",
+    "options": [
+      "phim (dùng để chụp ảnh)",
+      "phim, bộ phim",
+      "chụp",
+      "nước, nước lã"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 4,
+    "question": "<b>A：これは　なんですか。<p>B：（　）は　かきますです。</p></b>",
+    "options": [
+      "それ",
+      "これ",
+      "あれ",
+      "どれ"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 5,
+    "question": "<b>メキシコ</b>",
+    "options": [
+      "Mexico",
+      "(ngày mai) bạn có rảnh không?",
+      "rượu",
+      "bữa ăn chiều"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 6,
+    "question": "<b>A：なにを　たべますか。<p>B：パンと（　）を　たべます。</p></b>",
+    "options": [
+      "コーヒー",
+      "くだもの"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 7,
+    "question": "<b>ともだち（　）ごはんを　たべました。</b>",
+    "options": [
+      "に",
+      "と"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 8,
+    "question": "<b>A：レストランは　どちらですか。<p>B：（　）です。</p></b>",
+    "options": [
+      "こちら",
+      "そちら",
+      "あちら",
+      "どちら"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 9,
+    "question": "<b>A：きのう　なにを　しましたか。　<p>B：えいがを（　）。</p></b>",
+    "options": [
+      "しました",
+      "みました"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 10,
+    "question": "<b>A：とりますは　どこですか。<p>B：（　）です。</p></b>",
+    "options": [
+      "ここ",
+      "そこ",
+      "あそこ",
+      "どこ"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 11,
+    "question": "<b>A：サッカーは　どこですか。<p>B：（　）です。</p></b>",
+    "options": [
+      "ここ",
+      "そこ",
+      "あそこ",
+      "どこ"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 12,
+    "question": "<b>chơi bóng đá</b>",
+    "options": [
+      "サッカーをします",
+      "テニスをします",
+      "みせ",
+      "ごはん"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 13,
+    "question": "<b>rượu</b>",
+    "options": [
+      "おさけ",
+      "もしもし",
+      "くだもの",
+      "ええ"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 14,
+    "question": "<b>けさ<ruby>何<rp>（</rp><rt>なん</rt><rp>）</rp></ruby>（　）<ruby>食<rp>（</rp><rt>た</rt><rp>）</rp></ruby>べませんでした。</b>",
+    "options": [
+      "も",
+      "を"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 15,
+    "question": "<b>A：（　）で<ruby>新聞<rp>（</rp><rt>しんぶん</rt><rp>）</rp></ruby>を<ruby>読<rp>（</rp><rt>よ</rt><rp>）</rp></ruby>みますか。<p>B：<ruby>会社<rp>（</rp><rt>かいしゃ</rt><rp>）</rp></ruby>で<ruby>読<rp>（</rp><rt>よ</rt><rp>）</rp></ruby>みます。</p></b>",
+    "options": [
+      "どこ",
+      "どれ"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 16,
+    "question": "<b>映画</b>",
+    "options": [
+      "えいが",
+      "こうちゃ",
+      "テープ",
+      "やさい"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 17,
+    "question": "<b>とります</b>",
+    "options": [
+      "chụp",
+      "có. ừ. đúng. vâng",
+      "phim, bộ phim",
+      "thực tập"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 18,
+    "question": "<b>A：あした（　）を　しますか。　<p>B：よこはまへ　いきます。</p></b>",
+    "options": [
+      "なに",
+      "なん"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 19,
+    "question": "<b>thực tập</b>",
+    "options": [
+      "じっしゅう",
+      "ビール",
+      "ネクタイ",
+      "ピンポン"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 20,
+    "question": "<b>đọc</b>",
+    "options": [
+      "よみます",
+      "もしもし",
+      "あさごはん",
+      "わかりました"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 21,
+    "question": "<b>ともだち（　）あいました。</b>",
+    "options": [
+      "に",
+      "を"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 22,
+    "question": "<b>パン</b>",
+    "options": [
+      "bánh mì",
+      "bữa ăn chiều",
+      "bữa ăn trưa",
+      "hay nhỉ! được đấy nhỉ!"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 23,
+    "question": "<b>A：しゃしんをとりますは　どちらですか。<p>B：（　）です。</p></b>",
+    "options": [
+      "こちら",
+      "そちら",
+      "あちら",
+      "どちら"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 24,
+    "question": "<b>吸います</b>",
+    "options": [
+      "すいます",
+      "あさごはん",
+      "ぎゅうにゅう／ミルク",
+      "ええ"
+    ],
+    "correctAnswer": 0
+  }
+]

@@ -1,0 +1,250 @@
+[
+  {
+    "id": 1,
+    "question": "<b>めざましどけい</b>",
+    "options": [
+      "Đồng hồ báo thức",
+      "Màu đen",
+      "Vết rạn nứt",
+      "Trả lời, hồi âm"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 2,
+    "question": "<b>あやまります</b>",
+    "options": [
+      "Xin lỗi",
+      "Bắt đầu",
+      "Làm lạnh",
+      "Hủy"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 3,
+    "question": "<b>これはコンピューターの（　）です。なくさないでください。</b>",
+    "options": [
+      "保険証",
+      "保証書"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 4,
+    "question": "<b>A：よういは　どこですか。<p>B：（　）です。</p></b>",
+    "options": [
+      "ここ",
+      "そこ",
+      "あそこ",
+      "どこ"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 5,
+    "question": "<b>なやみ</b>",
+    "options": [
+      "Nỗi khổ tâm, nỗi lo",
+      "Hủy",
+      "Cửa thoát hiểm",
+      "Ngủ"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 6,
+    "question": "<b>A：おきますは　どちらですか。<p>B：（　）です。</p></b>",
+    "options": [
+      "こちら",
+      "そちら",
+      "あちら",
+      "どちら"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 7,
+    "question": "<b>りょうしゅうしょ</b>",
+    "options": [
+      "Hóa đơn",
+      "~ độ",
+      "Lạc (đường)",
+      "Màu đỏ"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 8,
+    "question": "<b>～い</b>",
+    "options": [
+      "Vị trí thứ ~",
+      "Hoãn lại",
+      "Chạy trốn",
+      "Cửa thoát hiểm"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 9,
+    "question": "<b>A：これは　なんですか。<p>B：（　）は　おんどです。</p></b>",
+    "options": [
+      "それ",
+      "これ",
+      "あれ",
+      "どれ"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 10,
+    "question": "<b>Lạc (đường)</b>",
+    "options": [
+      "まよいます",
+      "まちがいでんわ",
+      "はじまります",
+      "そのとおりです"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 11,
+    "question": "<b>A：なりますは　どちらですか。<p>B：（　）です。</p></b>",
+    "options": [
+      "こちら",
+      "そちら",
+      "あちら",
+      "どちら"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 12,
+    "question": "<b>Có việc gì thế?</b>",
+    "options": [
+      "なんでしょうか",
+      "めざましどけい",
+      "～ど",
+      "れいきゃく"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 13,
+    "question": "<b>～度</b>",
+    "options": [
+      "～ど",
+      "キャンセルします",
+      "あやまります",
+      "めざましどけい"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 14,
+    "question": "<b>シリンダー</b>",
+    "options": [
+      "シリンダー",
+      "うちがわ",
+      "まんいち",
+      "めざましどけい"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 15,
+    "question": "<b>（　）<ruby>場合<rp>（</rp><rt>ばあい</rt><rp>）</rp></ruby>は、すぐ<ruby>火<rp>（</rp><rt>ひ</rt><rp>）</rp></を<ruby>消<rp>（</rp><rt>け</rt><rp>）</rp></してください。</b>",
+    "options": [
+      "地震",
+      "地震の"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 16,
+    "question": "<b>ようい</b>",
+    "options": [
+      "Chuẩn bị",
+      "Trôi qua (thời gian), đi qua",
+      "Nhiệt độ",
+      "Hủy"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 17,
+    "question": "<b>（　）<ruby>場合<rp>（</rp><rt>ばあい</rt><rp>）</rp></ruby>は、<ruby>休<rp>（</rp><rt>やす</rt><rp>）</rp></ruby>んでもいいです。</b>",
+    "options": [
+      "病気の",
+      "病気な"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 18,
+    "question": "<b>（　）<ruby>場合<rp>（</rp><rt>ばあい</rt><rp>）</rp></ruby>は、<ruby>野球<rp>（</rp><rt>やきゅう</rt><rp>）</rp></ruby>の<ruby>練習<rp>（</rp><rt>れんしゅう</rt><rp>）</rp></ruby>はありません。</b>",
+    "options": [
+      "雨",
+      "雨の"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 19,
+    "question": "<b><ruby>事故<rp>（</rp><rt>じこ</rt><rp>）</rp></ruby>が（　）<ruby>場合<rp>（</rp><rt>ばあい</rt><rp>）</rp></ruby>は、１１０<ruby>番<rp>（</rp><rt>ばん</rt><rp>）</rp></ruby>にすぐ<ruby>連絡<rp>（</rp><rt>れんらく</rt><rp>）</rp></ruby>します。</b>",
+    "options": [
+      "起きる",
+      "起きた"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 20,
+    "question": "<b>優勝</b>",
+    "options": [
+      "ゆうしょう",
+      "れいきゃく",
+      "みどり",
+      "ひじょうぐち"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 21,
+    "question": "<b><ruby>体<rp>（</rp><rt>からだ</rt><rp>）</rp></ruby>の<ruby>調子<rp>（</rp><rt>ちょうし</rt><rp>）</rp></ruby>が（　）<ruby>場合<rp>（</rp><rt>ばあい</rt><rp>）</rp></ruby>は、キャンプに<ruby>参加<rp>（</rp><rt>さんか</rt><rp>）</rp></ruby>しないでください。</b>",
+    "options": [
+      "悪く",
+      "悪い"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 22,
+    "question": "<b>レストランの<ruby>予約<rp>（</rp><rt>よやく</rt><rp>）</rp></ruby>を（　）。</b>",
+    "options": [
+      "中止です",
+      "キャンセルします"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 23,
+    "question": "<b>お<ruby>釣<rp>（</rp><rt>つ</rt><rp>）</rp></りが（　）<ruby>場合<rp>（</rp><rt>ばあい</rt><rp>）</rp></ruby>は、このレバーを<ruby>回<rp>（</rp><rt>まわ</rt><rp>）</rp></してください。</b>",
+    "options": [
+      "出る",
+      "出ない"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 24,
+    "question": "<b>A：～いは　どこですか。<p>B：（　）です。</p></b>",
+    "options": [
+      "ここ",
+      "そこ",
+      "あそこ",
+      "どこ"
+    ],
+    "correctAnswer": 2
+  }
+]

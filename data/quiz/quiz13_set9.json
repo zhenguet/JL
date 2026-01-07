@@ -1,0 +1,250 @@
+[
+  {
+    "id": 1,
+    "question": "<b>かいものします</b>",
+    "options": [
+      "mua hàng, sắm đồ",
+      "gửi thư",
+      "bơi lội",
+      "việc trượt tuyết (danh từ)"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 2,
+    "question": "<b>A: リンさんは<ruby>結婚<rp>（</rp><rt>けっこん</rt><rp>）</rp></ruby>していますか。<p>B: はい、<ruby>先月<rp>（</rp><rt>せんげつ</rt><rp>）</rp></ruby>（　）。</p></b>",
+    "options": [
+      "結婚しています",
+      "結婚しました"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 3,
+    "question": "<b>A：これは　なんですか。<p>B：（　）は　しやくしょです。</p></b>",
+    "options": [
+      "それ",
+      "これ",
+      "あれ",
+      "どれ"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 4,
+    "question": "<b>A：てがみをだしますは　どちらですか。<p>B：（　）です。</p></b>",
+    "options": [
+      "こちら",
+      "そちら",
+      "あちら",
+      "どちら"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 5,
+    "question": "<b>けっこんします</b>",
+    "options": [
+      "lấy vợ, lấy chồng, cưới, lập gia đình",
+      "xin chờ một chút ạ",
+      "món gyudon (món cơm trên là thịt bò nấu kèm với mấy lát gừng)",
+      "khát nước"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 6,
+    "question": "<b>へやにはいります</b>",
+    "options": [
+      "vào phòng",
+      "buổi họp, hội nghị",
+      "khát nước",
+      "kiến tập ở nhà máy"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 7,
+    "question": "<b>この<ruby>電話<rp>（</rp><rt>でんわ</rt><rp>）</rp></ruby>を（　）もいいですか。</b>",
+    "options": [
+      "使って",
+      "使いて"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 8,
+    "question": "<b>会議</b>",
+    "options": [
+      "かいぎ",
+      "ぎゅうどん",
+      "つかれます",
+      "しゅうまつ"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 9,
+    "question": "<b>gửi [hàng, bưu kiện]</b>",
+    "options": [
+      "おくります",
+      "むかえます",
+      "おみやげ",
+      "ぎゅうどん"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 10,
+    "question": "<b><ruby>静<rp>（</rp><rt>しず</rt><rp>）</rp></ruby>かな<ruby>所<rp>（</rp><rt>しょ</rt><rp>）</rp></ruby>（　）<ruby>住<rp>（</rp><rt>す</rt><rp>）</rp></ruby>みたいです。</b>",
+    "options": [
+      "に",
+      "を"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 11,
+    "question": "<b><ruby>窓<rp>（</rp><rt>まど</rt><rp>）</rp></ruby>を（　）もいいですか。</b>",
+    "options": [
+      "開けて",
+      "開けで"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 12,
+    "question": "<b>美術</b>",
+    "options": [
+      "びじゅつ",
+      "けんぶつします",
+      "けっこんします",
+      "ラジカセ"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 13,
+    "question": "<b>món gyudon (món cơm trên là thịt bò nấu kèm với mấy lát gừng)</b>",
+    "options": [
+      "ぎゅうどん",
+      "しょくじします",
+      "つりをします",
+      "しゅうまつ"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 14,
+    "question": "<b><ruby>子供<rp>（</rp><rt>こども</rt><rp>）</rp></ruby>はたばこを（　）はいけません。</b>",
+    "options": [
+      "吸んで",
+      "吸って"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 15,
+    "question": "<b>ごちゅうもんは</b>",
+    "options": [
+      "quý khách gọi món gì ạ?",
+      "no bụng",
+      "gửi [thư], nộp [báo cáo, bài tập…]",
+      "món gyudon (món cơm trên là thịt bò nấu kèm với mấy lát gừng)"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 16,
+    "question": "<b>ロシア</b>",
+    "options": [
+      "nước Nga",
+      "mệt mỏi",
+      "trời đẹp quá nhỉ",
+      "bơi lội"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 17,
+    "question": "<b>ステレオ</b>",
+    "options": [
+      "giàn máy nghe nhạc",
+      "ừ nhỉ (cách trả lời đồng ý đối với ý kiến của người ta)",
+      "đăng ký",
+      "trời đẹp quá nhỉ"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 18,
+    "question": "<b>cái gì đó</b>",
+    "options": [
+      "なにか",
+      "～ごろ",
+      "のどがかわきます",
+      "おみやげ"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 19,
+    "question": "<b>A：そうしましょうは　どちらですか。<p>B：（　）です。</p></b>",
+    "options": [
+      "こちら",
+      "そちら",
+      "あちら",
+      "どちら"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 20,
+    "question": "<b>ここに<ruby>荷物<rp>（</rp><rt>にもつ</rt><rp>）</rp></ruby>を（　）ください。</b>",
+    "options": [
+      "おきて",
+      "おいて"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 21,
+    "question": "<b><ruby>木村<rp>（</rp><rt>きむら</rt><rp>）</rp></ruby>さんはコンピューターを（　）います。</b>",
+    "options": [
+      "つくって",
+      "つかって"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 22,
+    "question": "<b>エアコンを（　）もいいですか。</b>",
+    "options": [
+      "つけて",
+      "つけんで"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 23,
+    "question": "<b>A：かいものしますは　どこですか。<p>B：（　）です。</p></b>",
+    "options": [
+      "ここ",
+      "そこ",
+      "あそこ",
+      "どこ"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 24,
+    "question": "<b>A：おなかがいっぱいですは　どこですか。<p>B：（　）です。</p></b>",
+    "options": [
+      "ここ",
+      "そこ",
+      "あそこ",
+      "どこ"
+    ],
+    "correctAnswer": 1
+  }
+]

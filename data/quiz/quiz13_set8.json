@@ -1,0 +1,250 @@
+[
+  {
+    "id": 1,
+    "question": "<b>đổi, thay</b>",
+    "options": [
+      "かえます",
+      "おなかがいっぱいです",
+      "はいります",
+      "だします"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 2,
+    "question": "<b>quà lưu niệm</b>",
+    "options": [
+      "おみやげ",
+      "ラジカセ",
+      "かいものします",
+      "さんぽします"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 3,
+    "question": "<b>đói bụng</b>",
+    "options": [
+      "おなかがすきます",
+      "いいてんきですね",
+      "しゅうまつ",
+      "はいります"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 4,
+    "question": "<b>しょうしょうおまちください</b>",
+    "options": [
+      "xin chờ một chút ạ",
+      "trượt tuyết",
+      "suất ăn cố định",
+      "gửi [hàng, bưu kiện]"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 5,
+    "question": "<b>見学します</b>",
+    "options": [
+      "けんがくします",
+      "てがみをだします",
+      "しやくしょ",
+      "おなかがいっぱいです"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 6,
+    "question": "<b><ruby>木村<rp>（</rp><rt>きむら</rt><rp>）</rp></ruby>さんはコンピューターを（　）います。</b>",
+    "options": [
+      "つくって",
+      "つかって"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 7,
+    "question": "<b>テレーザちゃんは<ruby>自転車<rp>（</rp><rt>じてんしゃ</rt><rp>）</rp></ruby>を（　）います。</b>",
+    "options": [
+      "売んで",
+      "売って"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 8,
+    "question": "<b>しゅくだいをだします</b>",
+    "options": [
+      "nộp bài tập về nhà",
+      "câu cá",
+      "cuối tuần",
+      "đi bộ trong công viên"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 9,
+    "question": "<b>mỹ thuật</b>",
+    "options": [
+      "びじゅつ",
+      "にもつをおくります",
+      "しゅうまつ",
+      "しょくじします"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 10,
+    "question": "<b>いいてんきですね</b>",
+    "options": [
+      "trời đẹp quá nhỉ",
+      "~ khoảng chừng (về thời gian)",
+      "mỹ thuật",
+      "vào [phòng]"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 11,
+    "question": "<b>A：かいぎは　どちらですか。<p>B：（　）です。</p></b>",
+    "options": [
+      "こちら",
+      "そちら",
+      "あちら",
+      "どちら"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 12,
+    "question": "<b>A：のどがかわきますは　どちらですか。<p>B：（　）です。</p></b>",
+    "options": [
+      "こちら",
+      "そちら",
+      "あちら",
+      "どちら"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 13,
+    "question": "<b>見物します</b>",
+    "options": [
+      "けんぶつします",
+      "スキー",
+      "しやくしょ",
+      "およぎます"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 14,
+    "question": "<b>A：これは　なんですか。<p>B：（　）は　おくりますです。</p></b>",
+    "options": [
+      "それ",
+      "これ",
+      "あれ",
+      "どれ"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 15,
+    "question": "<b>A：かいものしますは　どこですか。<p>B：（　）です。</p></b>",
+    "options": [
+      "ここ",
+      "そこ",
+      "あそこ",
+      "どこ"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 16,
+    "question": "<b>そうですね</b>",
+    "options": [
+      "そうですね",
+      "ラジカセ",
+      "つりをします",
+      "けんがくします"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 17,
+    "question": "<b>この<ruby>辞書<rp>（</rp><rt>じしょ</rt><rp>）</rp></ruby>を（　）いいですか。</b>",
+    "options": [
+      "借りても",
+      "借りては"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 18,
+    "question": "<b><ruby>窓<rp>（</rp><rt>まど</rt><rp>）</rp></ruby>を（　）もいいですか。</b>",
+    "options": [
+      "開けて",
+      "開けで"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 19,
+    "question": "<b>わたしは<ruby>自動車<rp>（</rp><rt>じどうしゃ</rt><rp>）</rp></ruby>を（　）。</b>",
+    "options": [
+      "持っています",
+      "あります"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 20,
+    "question": "<b>タワポンさんは（　）いません。<ruby>学生<rp>（</rp><rt>がくせい</rt><rp>）</rp></ruby>です。</b>",
+    "options": [
+      "働いて",
+      "働きて"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 21,
+    "question": "<b>A：けっこんしますは　どこですか。<p>B：（　）です。</p></b>",
+    "options": [
+      "ここ",
+      "そこ",
+      "あそこ",
+      "どこ"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 22,
+    "question": "<b>公園を散歩します</b>",
+    "options": [
+      "こうえんをさんぽします",
+      "むかえます",
+      "およぎます",
+      "ロシア"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 23,
+    "question": "<b><ruby>子供<rp>（</rp><rt>こども</rt><rp>）</rp></ruby>はたばこを（　）はいけません。</b>",
+    "options": [
+      "吸んで",
+      "吸って"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 24,
+    "question": "<b>ここに<ruby>荷物<rp>（</rp><rt>にもつ</rt><rp>）</rp></ruby>を（　）ください。</b>",
+    "options": [
+      "おきて",
+      "おいて"
+    ],
+    "correctAnswer": 1
+  }
+]

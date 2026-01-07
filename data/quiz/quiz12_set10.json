@@ -1,0 +1,239 @@
+[
+  {
+    "id": 1,
+    "question": "<b>món nhúng</b>",
+    "options": [
+      "すきやき",
+      "いけばな",
+      "みせ",
+      "なつ"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 2,
+    "question": "<b>cây lá đỏ</b>",
+    "options": [
+      "もみじ",
+      "りょこう",
+      "てんき",
+      "おすし"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 3,
+    "question": "<b>A：せかいは　どちらですか。<p>B：（　）です。</p></b>",
+    "options": [
+      "こちら",
+      "そちら",
+      "あちら",
+      "どちら"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 4,
+    "question": "<b><ruby>京都<rp>（</rp><rt>きょうと</rt><rp>）</rp></ruby><ruby>旅行<rp>（</rp><rt>りょこう</rt><rp>）</rp></ruby>は（　）でしたか。</b>",
+    "options": [
+      "どこ",
+      "どう"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 5,
+    "question": "<b>A：これは　なんですか。<p>B：（　）は　さしみです。</p></b>",
+    "options": [
+      "それ",
+      "これ",
+      "あれ",
+      "どれ"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 6,
+    "question": "<b>nghệ thuật cắm hoa</b>",
+    "options": [
+      "いけばな",
+      "どちら",
+      "はる",
+      "てんぷら"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 7,
+    "question": "<b><ruby>夏<rp>（</rp><rt>なつ</rt><rp>）</rp></ruby>と<ruby>冬<rp>（</rp><rt>ふゆ</rt><rp>）</rp></ruby>と（　）が<ruby>好<rp>（</rp><rt>す</rt><rp>）</rp></ruby>きですか。</b>",
+    "options": [
+      "いつ",
+      "どちら"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 8,
+    "question": "<b>スポーツで（　）がいちばんおもしろいですか。</b>",
+    "options": [
+      "どう",
+      "なに"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 9,
+    "question": "<b>きのうのパーティーは（　）です。</b>",
+    "options": [
+      "おもしろいかった",
+      "おもしろかった"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 10,
+    "question": "<b><ruby>桜<rp>（</rp><rt>さくら</rt><rp>）</rp></ruby>（　）<ruby>日本<rp>（</rp><rt>にほん</rt><rp>）</rp></ruby>の<ruby>花<rp>（</rp><rt>はな</rt><rp>）</rp></ruby>（　）いちばん<ruby>有名<rp>（</rp><rt>ゆうめい</rt><rp>）</rp></ruby>です。</b>",
+    "options": [
+      "は、で",
+      "に、で"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 11,
+    "question": "<b>mùa hè</b>",
+    "options": [
+      "なつ",
+      "あめ",
+      "はる",
+      "あき"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 12,
+    "question": "<b>A：ゆきは　どこですか。<p>B：（　）です。</p></b>",
+    "options": [
+      "ここ",
+      "そこ",
+      "あそこ",
+      "どこ"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 13,
+    "question": "<b><ruby>飛行機<rp>（</rp><rt>ひこうき</rt><rp>）</rp></ruby>と<ruby>新幹線<rp>（</rp><rt>しんかんせん</rt><rp>）</rp></ruby>と（　）が<ruby>早<rp>（</rp><rt>はや</rt><rp>）</rp></ruby>いですか。</b>",
+    "options": [
+      "どちら",
+      "どこ"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 14,
+    "question": "<b><ruby>地下鉄<rp>（</rp><rt>ちかてつ</rt><rp>）</rp></ruby>（　）タクシー（　）<ruby>安<rp>（</rp><rt>やす</rt><rp>）</rp></ruby>いです。</b>",
+    "options": [
+      "は、より",
+      "ほうが、が"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 15,
+    "question": "<b>ホンコンとシンガポールと（　）が<ruby>暖<rp>（</rp><rt>あたた</rt><rp>）</rp></ruby>かいですか。</b>",
+    "options": [
+      "どちら",
+      "なに"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 16,
+    "question": "<b>旅行</b>",
+    "options": [
+      "りょこう",
+      "すきやき",
+      "どちら",
+      "きせつ"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 17,
+    "question": "<b>A：なつは　どこですか。<p>B：（　）です。</p></b>",
+    "options": [
+      "ここ",
+      "そこ",
+      "あそこ",
+      "どこ"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 18,
+    "question": "<b>tiệm, cửa hàng</b>",
+    "options": [
+      "みせ",
+      "てんぷら",
+      "ふゆ",
+      "すきやき"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 19,
+    "question": "<b>bữa tiệc, buổi liên hoan</b>",
+    "options": [
+      "パーティー",
+      "ゆき",
+      "てんき",
+      "さしみ"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 20,
+    "question": "<b>tuyết</b>",
+    "options": [
+      "ゆき",
+      "てんき",
+      "あめ",
+      "もみじ"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 21,
+    "question": "<b>mùa</b>",
+    "options": [
+      "きせつ",
+      "クラス",
+      "ふゆ",
+      "すきやき"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 22,
+    "question": "<b>A：さしみは　どちらですか。<p>B：（　）です。</p></b>",
+    "options": [
+      "こちら",
+      "そちら",
+      "あちら",
+      "どちら"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 23,
+    "question": "<b>おまつり</b>",
+    "options": [
+      "lễ hội",
+      "thế giới",
+      "gỏi",
+      "tiệm, cửa hàng"
+    ],
+    "correctAnswer": 0
+  }
+]

@@ -1,0 +1,152 @@
+[
+  {
+    "id": 1,
+    "question": "<b>ここ</b>",
+    "options": ["Chỗ này (gần người nói)", "Chỗ đó (gần người nghe)", "Chỗ kia (xa cả hai)", "Chỗ nào"],
+    "correctAnswer": 0
+  },
+  {
+    "id": 2,
+    "question": "<b>そこ</b>",
+    "options": ["Chỗ đó (gần người nghe)", "Chỗ này (gần người nói)", "Chỗ kia (xa cả hai)", "Chỗ nào"],
+    "correctAnswer": 0
+  },
+  {
+    "id": 3,
+    "question": "<b>あそこ</b>",
+    "options": ["Chỗ kia (xa cả hai)", "Chỗ này (gần người nói)", "Chỗ đó (gần người nghe)", "Chỗ nào"],
+    "correctAnswer": 0
+  },
+  {
+    "id": 4,
+    "question": "<b>どこ</b>",
+    "options": ["Ở đâu", "Cái gì", "Cái nào", "Của ai"],
+    "correctAnswer": 0
+  },
+  {
+    "id": 5,
+    "question": "<b>こちら</b>",
+    "options": ["Chỗ này (lịch sự)", "Chỗ đó (lịch sự)", "Chỗ kia (lịch sự)", "Chỗ nào (lịch sự)"],
+    "correctAnswer": 0
+  },
+  {
+    "id": 6,
+    "question": "<b>そちら</b>",
+    "options": ["Chỗ đó (lịch sự)", "Chỗ này (lịch sự)", "Chỗ kia (lịch sự)", "Chỗ nào (lịch sự)"],
+    "correctAnswer": 0
+  },
+  {
+    "id": 7,
+    "question": "<b>あちら</b>",
+    "options": ["Chỗ kia (lịch sự)", "Chỗ này (lịch sự)", "Chỗ đó (lịch sự)", "Chỗ nào (lịch sự)"],
+    "correctAnswer": 0
+  },
+  {
+    "id": 8,
+    "question": "<b>どちら</b>",
+    "options": ["Ở đâu (lịch sự)", "Cái gì (lịch sự)", "Cái nào (lịch sự)", "Của ai (lịch sự)"],
+    "correctAnswer": 0
+  },
+  {
+    "id": 9,
+    "question": "<b>きょうしつ</b>",
+    "options": ["Lớp học, phòng học", "Nhà ăn", "Văn phòng", "Phòng họp"],
+    "correctAnswer": 0
+  },
+  {
+    "id": 10,
+    "question": "<b>しょくどう</b>",
+    "options": ["Nhà ăn, phòng ăn", "Lớp học", "Văn phòng", "Phòng họp"],
+    "correctAnswer": 0
+  },
+  {
+    "id": 11,
+    "question": "<b>じむしょ</b>",
+    "options": ["Văn phòng", "Lớp học", "Nhà ăn", "Phòng họp"],
+    "correctAnswer": 0
+  },
+  {
+    "id": 12,
+    "question": "<b>かいぎしつ</b>",
+    "options": ["Phòng họp", "Lớp học", "Nhà ăn", "Văn phòng"],
+    "correctAnswer": 0
+  },
+  {
+    "id": 13,
+    "question": "<b>おてあらい</b>",
+    "options": ["Nhà vệ sinh", "Phòng đợi", "Bàn tiếp tân", "Phòng"],
+    "correctAnswer": 0
+  },
+  {
+    "id": 14,
+    "question": "<b>うけつけ</b>",
+    "options": ["Bàn tiếp tân, thường trực", "Nhà vệ sinh", "Phòng đợi", "Phòng"],
+    "correctAnswer": 0
+  },
+  {
+    "id": 15,
+    "question": "<b>A：トイレは　どこですか。<p>B：（　）です。</p></b>",
+    "options": ["ここ", "そこ", "あそこ", "どこ"],
+    "correctAnswer": 0
+  },
+  {
+    "id": 16,
+    "question": "<b>A：受付は　どこですか。<p>B：（　）です。</p></b>",
+    "options": ["ここ", "そこ", "あそこ", "どこ"],
+    "correctAnswer": 0
+  },
+  {
+    "id": 17,
+    "question": "<b>A：食堂は　どこですか。<p>B：（　）です。</p></b>",
+    "options": ["ここ", "そこ", "あそこ", "どこ"],
+    "correctAnswer": 2
+  },
+  {
+    "id": 18,
+    "question": "<b>A：教室は　どこですか。<p>B：（　）です。</p></b>",
+    "options": ["ここ", "そこ", "あそこ", "どこ"],
+    "correctAnswer": 0
+  },
+  {
+    "id": 19,
+    "question": "<b>A：事務所は　どこですか。<p>B：（　）です。</p></b>",
+    "options": ["ここ", "そこ", "あそこ", "どこ"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 20,
+    "question": "<b>A：会議室は　どこですか。<p>B：（　）です。</p></b>",
+    "options": ["ここ", "そこ", "あそこ", "どこ"],
+    "correctAnswer": 0
+  },
+  {
+    "id": 21,
+    "question": "<b>A：受付は　どちらですか。<p>B：（　）です。</p></b>",
+    "options": ["こちら", "そちら", "あちら", "どちら"],
+    "correctAnswer": 0
+  },
+  {
+    "id": 22,
+    "question": "<b>A：食堂は　どちらですか。<p>B：（　）です。</p></b>",
+    "options": ["こちら", "そちら", "あちら", "どちら"],
+    "correctAnswer": 2
+  },
+  {
+    "id": 23,
+    "question": "<b>ここ（　）きょうしつです。</b>",
+    "options": ["は", "の", "も", "から"],
+    "correctAnswer": 0
+  },
+  {
+    "id": 24,
+    "question": "<b>そこ（　）じむしょです。</b>",
+    "options": ["は", "の", "も", "から"],
+    "correctAnswer": 0
+  },
+  {
+    "id": 25,
+    "question": "<b>あそこ（　）しょくどうです。</b>",
+    "options": ["は", "の", "も", "から"],
+    "correctAnswer": 0
+  }
+]

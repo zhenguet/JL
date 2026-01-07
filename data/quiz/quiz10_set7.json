@@ -1,0 +1,228 @@
+[
+  {
+    "id": 1,
+    "question": "<b><ruby>紅茶<rp>（</rp><rt>こうちゃ</rt><rp>）</rp></ruby><ruby>売<rp>（</rp><rt>う</rt><rp>）</rp></ruby>り<ruby>場<rp>（</rp><rt>ば</rt><rp>）</rp></ruby>は<ruby>地下<rp>（</rp><rt>ちか</rt><rp>）</rp></ruby>に（　）。</b>",
+    "options": [
+      "います",
+      "あります"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 2,
+    "question": "<b>A：ベッドは　どちらですか。<p>B：（　）です。</p></b>",
+    "options": [
+      "こちら",
+      "そちら",
+      "あちら",
+      "どちら"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 3,
+    "question": "<b>A：おんなのひとは　どこですか。<p>B：（　）です。</p></b>",
+    "options": [
+      "ここ",
+      "そこ",
+      "あそこ",
+      "どこ"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 4,
+    "question": "<b>A：バスのりばは　どこですか。<p>B：（　）です。</p></b>",
+    "options": [
+      "ここ",
+      "そこ",
+      "あそこ",
+      "どこ"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 5,
+    "question": "<b>バス<ruby>乗<rp>（</rp><rt>の</rt><rp>）</rp></ruby>り<ruby>場<rp>（</rp><rt>ば</rt><rp>）</rp></ruby>はどこに（　）か。</b>",
+    "options": [
+      "あります",
+      "います"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 6,
+    "question": "<b>A：これは　なんですか。<p>B：（　）は　あいだです。</p></b>",
+    "options": [
+      "それ",
+      "これ",
+      "あれ",
+      "どれ"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 7,
+    "question": "<b>おんなのひと</b>",
+    "options": [
+      "người phụ nữ, người con gái",
+      "gần (ở vị trí gần)",
+      "công viên",
+      "sau, phía sau, đằng sau"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 8,
+    "question": "<b>bản đồ</b>",
+    "options": [
+      "ちず",
+      "そと",
+      "おとこのひと",
+      "おく"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 9,
+    "question": "<b>A：テープは　どこですか。<p>B：した（　）２だんめです。</p></b>",
+    "options": [
+      "から",
+      "の"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 10,
+    "question": "<b><ruby>今<rp>（</rp><rt>いま</rt><rp>）</rp></ruby>、<ruby>公園<rp>（</rp><rt>こうえん</rt><rp>）</rp></ruby>に<ruby>誰<rp>（</rp><rt>だれ</rt><rp>）</rp></ruby>も（　）。</b>",
+    "options": [
+      "いません",
+      "ありません"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 11,
+    "question": "<b>ポスト</b>",
+    "options": [
+      "hòm thư, hộp thư",
+      "bên cạnh (cạnh sát)",
+      "tỉnh Kanagawa",
+      "ngoài, bên ngoài"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 12,
+    "question": "<b>A：テーブルは　どちらですか。<p>B：（　）です。</p></b>",
+    "options": [
+      "こちら",
+      "そちら",
+      "あちら",
+      "どちら"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 13,
+    "question": "<b>セロテープ</b>",
+    "options": [
+      "băng dính",
+      "trước, phía trước",
+      "bé trai, con trai (dùng cho trẻ con)",
+      "bên trái"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 14,
+    "question": "<b>ビル</b>",
+    "options": [
+      "tòa nhà cao tầng",
+      "gần (ở vị trí gần)",
+      "dưới, bên dưới",
+      "bé trai, con trai (dùng cho trẻ con)"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 15,
+    "question": "<b>あそこ（　）<ruby>高<rp>（</rp><rt>たか</rt><rp>）</rp></ruby>いビル（　）ありますね。あれ（　）<ruby>何<rp>（</rp><rt>なん</rt><rp>）</rp></ruby>ですか。</b>",
+    "options": [
+      "に、で、は",
+      "に、が、は"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 16,
+    "question": "<b>神奈川県</b>",
+    "options": [
+      "かながわけん",
+      "おとこのひと",
+      "みぎ",
+      "でんち"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 17,
+    "question": "<b>gần (ở vị trí gần)</b>",
+    "options": [
+      "ちかく",
+      "れいぞうこ",
+      "います",
+      "テーブル"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 18,
+    "question": "<b>おんなのこ</b>",
+    "options": [
+      "bé gái, con gái (dùng cho trẻ con)",
+      "tủ lạnh",
+      "có (biểu thị sự tồn tại của người)",
+      "có (biểu thị sự tồn tại của vật)"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 19,
+    "question": "<b>なか</b>",
+    "options": [
+      "trong, bên trong",
+      "nơi lên xe (các phương tiện công cộng)",
+      "phía sâu bên trong",
+      "người đàn ông, người con trai"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 20,
+    "question": "<b><ruby>駅<rp>（</rp><rt>えき</rt><rp>）</rp></ruby>のまえ（　）イーさん（　）<ruby>会<rp>（</rp><rt>あ</rt><rp>）</rp></ruby>いました。</b>",
+    "options": [
+      "で、に",
+      "に、に"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 21,
+    "question": "<b>ノートは　かばん（　）なかに　あります。</b>",
+    "options": [
+      "の",
+      "と"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 22,
+    "question": "<b>いぬが（　）。</b>",
+    "options": [
+      "あります",
+      "います"
+    ],
+    "correctAnswer": 1
+  }
+]

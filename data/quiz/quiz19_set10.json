@@ -1,0 +1,239 @@
+[
+  {
+    "id": 1,
+    "question": "<b>A：ホテルにとまりますは　どちらですか。<p>B：（　）です。</p></b>",
+    "options": [
+      "こちら",
+      "そちら",
+      "あちら",
+      "どちら"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 2,
+    "question": "<b>調子</b>",
+    "options": [
+      "ちょうし",
+      "ゴルフ",
+      "ケーキ",
+      "なります"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 3,
+    "question": "<b><ruby>山田<rp>（</rp><rt>やまだ</rt><rp>）</rp></ruby>さんは（　）なりました。</b>",
+    "options": [
+      "きれく",
+      "きれいに"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 4,
+    "question": "<b>trà, trà đạo</b>",
+    "options": [
+      "おちゃ",
+      "ちょうし",
+      "とまります",
+      "せんたくします"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 5,
+    "question": "<b>A：パチンコ「～をします」は　どこですか。<p>B：（　）です。</p></b>",
+    "options": [
+      "ここ",
+      "そこ",
+      "あそこ",
+      "どこ"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 6,
+    "question": "<b>ホテル（　）<ruby>泊<rp>（</rp><rt>と</rt><rp>）</rp></ruby>まります。</b>",
+    "options": [
+      "に",
+      "で"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 7,
+    "question": "<b><ruby>休<rp>（</rp><rt>やす</rt><rp>）</rp></ruby>みの<ruby>日<rp>（</rp><rt>ひ</rt><rp>）</rp></ruby>は<ruby>掃除<rp>（</rp><rt>そうじ</rt><rp>）</rp></ruby>したり、（　）します。</b>",
+    "options": [
+      "洗濯したり",
+      "洗濯"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 8,
+    "question": "<b><ruby>桜<rp>（</rp><rt>さくら</rt><rp>）</rp></ruby>を（　）ことがあります。</b>",
+    "options": [
+      "見て",
+      "見た"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 9,
+    "question": "<b>A：これは　なんですか。<p>B：（　）は　そうじしますです。</p></b>",
+    "options": [
+      "それ",
+      "これ",
+      "あれ",
+      "どれ"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 10,
+    "question": "<b>ホテルにとまります</b>",
+    "options": [
+      "nghỉ ở khách sạn",
+      "[học trà đạo]",
+      "tuy nhiên, nhưng (đứng đầu câu)",
+      "ngủ trọ, nghỉ [ở khách sạn]"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 11,
+    "question": "<b>A：すもうは　どちらですか。<p>B：（　）です。</p></b>",
+    "options": [
+      "こちら",
+      "そちら",
+      "あちら",
+      "どちら"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 12,
+    "question": "<b>おかげさまで</b>",
+    "options": [
+      "cảm ơn. nhờ trời",
+      "trèo, leo (núi)",
+      "việc ăn kiêng",
+      "bánh ngọt"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 13,
+    "question": "<b>（　）ダイエットをしたことがあります。</b>",
+    "options": [
+      "何回も",
+      "何回"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 14,
+    "question": "<b>（　）パソコンを<ruby>使<rp>（</rp><rt>つか</rt><rp>）</rp></ruby>ったことがありません。</b>",
+    "options": [
+      "一度",
+      "一度も"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 15,
+    "question": "<b>そうじします</b>",
+    "options": [
+      "quét, quét dọn, làm vệ sinh",
+      "giặt (quần áo)",
+      "tình trạng, sức khỏe",
+      "[học trà đạo]"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 16,
+    "question": "<b>việc ăn kiêng</b>",
+    "options": [
+      "ダイエット",
+      "のぼります",
+      "パチンコ",
+      "やまにのぼります"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 17,
+    "question": "<b>tuy nhiên, nhưng (đứng đầu câu)</b>",
+    "options": [
+      "しかし",
+      "すもう",
+      "ケーキ",
+      "おちゃ"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 18,
+    "question": "<b>パチンコ「～をします」</b>",
+    "options": [
+      "[chơi pachinko]",
+      "một lần",
+      "bánh ngọt",
+      "cạn ly"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 19,
+    "question": "<b><ruby>子<rp>（</rp><rt>こ</rt><rp>）</rp></ruby>どもはだんだん（　）なりました。</b>",
+    "options": [
+      "大きいに",
+      "大きく"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 20,
+    "question": "<b>なります</b>",
+    "options": [
+      "なります",
+      "ゴルフ",
+      "とまります",
+      "パチンコ「～をします」"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 21,
+    "question": "<b>A :　<ruby>広島<rp>（</rp><rt>ひろしま</rt><rp>）</rp></ruby>へ<ruby>行<rp>（</rp><rt>い</rt><rp>）</rp></ruby>ったことがありますか。<p>B :　はい、（　）。</p></b>",
+    "options": [
+      "あります",
+      "行きました"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 22,
+    "question": "<b>cạn ly</b>",
+    "options": [
+      "かんぱい",
+      "ちょうし",
+      "おかげさまで",
+      "ダイエット"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 23,
+    "question": "<b>A：パチンコ「～をします」は　どこですか。<p>B：（　）です。</p></b>",
+    "options": [
+      "ここ",
+      "そこ",
+      "あそこ",
+      "どこ"
+    ],
+    "correctAnswer": 0
+  }
+]

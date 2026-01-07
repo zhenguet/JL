@@ -1,0 +1,241 @@
+[
+  {
+    "id": 1,
+    "question": "<b>A：これは　なんですか。<p>B：（　）は　キャプテン・クックです。</p></b>",
+    "options": [
+      "それ",
+      "これ",
+      "あれ",
+      "どれ"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 2,
+    "question": "<b>アルバイト「～をします」</b>",
+    "options": [
+      "アルバイト「～をします」",
+      "ぜひみないと……",
+      "しあい",
+      "おはなし"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 3,
+    "question": "<b>質問（します、する、して）</b>",
+    "options": [
+      "しつもん（します、する、して）",
+      "いいます",
+      "しつもん",
+      "おもいます"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 4,
+    "question": "<b>~ khác</b>",
+    "options": [
+      "ほかの～",
+      "おはなし「～をします」",
+      "たります",
+      "ユーモア"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 5,
+    "question": "<b><ruby>出張<rp>（</rp><rt>しゅっちょう</rt><rp>）</rp></ruby>は（　）でしょう？…ええ、ちょっと<ruby>大変<rp>（</rp><rt>たいへん</rt><rp>）</rp></ruby>でした。</b>",
+    "options": [
+      "大変",
+      "大変だった"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 6,
+    "question": "<b>thắng, chiến thắng</b>",
+    "options": [
+      "かちます",
+      "ラッシュ（アワー）",
+      "こうつう",
+      "アルバイト"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 7,
+    "question": "<b>A：しかたがありませんは　どちらですか。<p>B：（　）です。</p></b>",
+    "options": [
+      "こちら",
+      "そちら",
+      "あちら",
+      "どちら"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 8,
+    "question": "<b>A：こうつうは　どちらですか。<p>B：（　）です。</p></b>",
+    "options": [
+      "こちら",
+      "そちら",
+      "あちら",
+      "どちら"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 9,
+    "question": "<b>giờ cao điểm</b>",
+    "options": [
+      "ラッシュ（アワー）",
+      "～でものみませんか",
+      "ぎじゅつ",
+      "スピーチ「～をします」"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 10,
+    "question": "<b>タワポンさんは（　）<ruby>大学<rp>（</rp><rt>だいがく</rt><rp>）</rp></ruby>に<ruby>入<rp>（</rp><rt>はい</rt><rp>）</rp></ることができると<ruby>思<rp>（</rp><rt>おも</rt><rp>）</rp></ruby>います。</b>",
+    "options": [
+      "ぜひ",
+      "きっと",
+      "ずっと"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 11,
+    "question": "<b><ruby>東京<rp>（</rp><rt>とうきょう</rt><rp>）</rp></ruby>の（　）は　たかいです。</b>",
+    "options": [
+      "物価",
+      "天才"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 12,
+    "question": "<b><ruby>夏休<rp>（</rp><rt>なつやす</rt><rp>）</rp></ruby>みに（　）をしたいです。</b>",
+    "options": [
+      "メートル",
+      "アルバイト"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 13,
+    "question": "<b>カンガルー</b>",
+    "options": [
+      "カンガルー",
+      "スピーチ「～をします」",
+      "おはなし「～をします」",
+      "こうつう"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 14,
+    "question": "<b>bản tin, tin tức</b>",
+    "options": [
+      "ニュース",
+      "けれども",
+      "おはなし",
+      "ぜひみないと……"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 15,
+    "question": "<b>この<ruby>靴<rp>（</rp><rt>くつ</rt><rp>）</rp></ruby>は（　）があまりよくないです。</b>",
+    "options": [
+      "物価",
+      "デザイン"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 16,
+    "question": "<b>（　）<ruby>体<rp>（</rp><rt>からだ</rt><rp>）</rp></ruby>の<ruby>調子<rp>（</rp><rt>ちょうし</rt><rp>）</rp></ruby>はどうですか。</b>",
+    "options": [
+      "この間",
+      "もちろん",
+      "最近"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 17,
+    "question": "<b>kỹ thuật</b>",
+    "options": [
+      "ぎじゅつ",
+      "ニュース",
+      "いけん",
+      "まけます"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 18,
+    "question": "<b>スピーチ「～をします」</b>",
+    "options": [
+      "[bài phát biểu, bài nói chuyện]",
+      "tổng thống",
+      "con kangaroo",
+      "[Nhật Bản] tiên tiến về kỹ thuật. [Ở Nhật Bản] kỹ thuật phát triển (cao)"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 19,
+    "question": "<b><ruby>部長<rp>（</rp><rt>ぶちょう</rt><rp>）</rp></ruby>はもうこれを<ruby>読<rp>（</rp><rt>よ</rt><rp>）</rp></ruby>みましたか。…ええ、もう（　）と<ruby>思<rp>（</rp><rt>おも</rt><rp>）</rp></ruby>います。</b>",
+    "options": [
+      "読んだ",
+      "読まない"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 20,
+    "question": "<b>A：～でものみませんかは　どこですか。<p>B：（　）です。</p></b>",
+    "options": [
+      "ここ",
+      "そこ",
+      "あそこ",
+      "どこ"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 21,
+    "question": "<b><ruby>佐藤<rp>（</rp><rt>さとう</rt><rp>）</rp></ruby>さんは<ruby>独身<rp>（</rp><rt>どくしん</rt><rp>）</rp></ruby>ですか。…ええ、（　）と<ruby>思<rp>（</rp><rt>おも</rt><rp>）</rp></ruby>います。</b>",
+    "options": [
+      "独身",
+      "独身だ"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 22,
+    "question": "<b>thủ tướng</b>",
+    "options": [
+      "しゅしょう",
+      "スピーチ",
+      "アルバイト「～をします」",
+      "かちます"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 23,
+    "question": "<b>A：けんしゅうりょこうは　どこですか。<p>B：（　）です。</p></b>",
+    "options": [
+      "ここ",
+      "そこ",
+      "あそこ",
+      "どこ"
+    ],
+    "correctAnswer": 2
+  }
+]

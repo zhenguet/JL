@@ -1,0 +1,250 @@
+[
+  {
+    "id": 1,
+    "question": "<b>カーテン</b>",
+    "options": [
+      "カーテン",
+      "～いじょう",
+      "やまのぼり",
+      "タイプ"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 2,
+    "question": "<b><ruby>左<rp>（</rp><rt>ひだり</rt><rp>）</rp></ruby>のつまみくを（　）お<ruby>湯<rp>（</rp><rt>ゆ</rt><rp>）</rp></ruby>が<ruby>出<rp>（</rp><rt>で</rt><rp>）</rp></ruby>ません。</b>",
+    "options": [
+      "回さなければ",
+      "回せば"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 3,
+    "question": "<b>A：いやは　どこですか。<p>B：（　）です。</p></b>",
+    "options": [
+      "ここ",
+      "そこ",
+      "あそこ",
+      "どこ"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 4,
+    "question": "<b>変わります</b>",
+    "options": [
+      "かわります",
+      "でんち",
+      "～いか",
+      "リモコン"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 5,
+    "question": "<b>拾います</b>",
+    "options": [
+      "ひろいます",
+      "ハイキング",
+      "しゅるい",
+      "むこう"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 6,
+    "question": "<b>おくじょう</b>",
+    "options": [
+      "Sân thượng",
+      "Đi dã ngoại",
+      "Xe buýt đêm",
+      "Cảng"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 7,
+    "question": "<b>いろいろな<ruby>外国語<rp>（</rp><rt>がいこくご</rt><rp>）</rp></ruby>が（　）、<ruby>海外<rp>（</rp><rt>かいがい</rt><rp>）</rp></ruby><ruby>旅行<rp>（</rp><rt>りょこう</rt><rp>）</rp></ruby>は<ruby>楽<rp>（</rp><rt>たの</rt><rp>）</rp></ruby>しいでしょう。</b>",
+    "options": [
+      "話せれば",
+      "話すと"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 8,
+    "question": "<b>A：よやくは　どこですか。<p>B：（　）です。</p></b>",
+    "options": [
+      "ここ",
+      "そこ",
+      "あそこ",
+      "どこ"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 9,
+    "question": "<b><ruby>許可<rp>（</rp><rt>きょか</rt><rp>）</rp></ruby>を（　）、ここには<ruby>入<rp>（</rp><rt>はい</rt><rp>）</rp></ruby>れません。</b>",
+    "options": [
+      "もらわなけば",
+      "もらわなければ"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 10,
+    "question": "<b><ruby>給料<rp>（</rp><rt>きゅうりょう</rt><rp>）</rp></ruby>やボーナスは（　）ほどいいです。</b>",
+    "options": [
+      "多かった",
+      "多ければ多い"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 11,
+    "question": "<b>A：これは　なんですか。<p>B：（　）は　やまのぼりです。</p></b>",
+    "options": [
+      "それ",
+      "これ",
+      "あれ",
+      "どれ"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 12,
+    "question": "<b>さきます</b>",
+    "options": [
+      "Nở",
+      "Cái nắp",
+      "Ca khúc",
+      "Nếu vậy thì"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 13,
+    "question": "<b>このカーテンはどうやって<ruby>閉<rp>（</rp><rt>し</rt><rp>）</rp></ruby>めるんですか。<p>…そのひもを（　）、<ruby>閉<rp>（</rp><rt>し</rt><rp>）</rp></ruby>まりますよ。</p></b>",
+    "options": [
+      "引けば",
+      "引いても"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 14,
+    "question": "<b>ハイキング</b>",
+    "options": [
+      "ハイキング",
+      "リモコン",
+      "かしこまりました",
+      "ことわざ"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 15,
+    "question": "<b>A：そうさは　どちらですか。<p>B：（　）です。</p></b>",
+    "options": [
+      "こちら",
+      "そちら",
+      "あちら",
+      "どちら"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 16,
+    "question": "<b><ruby>電池<rp>（</rp><rt>でんち</rt><rp>）</rp></ruby>を（　）<ruby>使<rp>（</rp><rt>つか</rt><rp>）</rp></ruby>えます。</b>",
+    "options": [
+      "換えれば",
+      "換えなければ"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 17,
+    "question": "<b>Pin</b>",
+    "options": [
+      "でんち",
+      "さきます",
+      "むこう",
+      "しま"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 18,
+    "question": "<b>A：やまのぼりは　どちらですか。<p>B：（　）です。</p></b>",
+    "options": [
+      "こちら",
+      "そちら",
+      "あちら",
+      "どちら"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 19,
+    "question": "<b><ruby>日本<rp>（</rp><rt>にほん</rt><rp>）</rp></ruby>は<ruby>便利<rp>（</rp><rt>べんり</rt><rp>）</rp></ruby>ですが、<ruby>物価<rp>（</rp><rt>ぶっか</rt><rp>）</rp></ruby>が<ruby>安<rp>（</rp><rt>やす</rt><rp>）</rp></ruby>ければ（　）いいと<ruby>思<rp>（</rp><rt>おも</rt><rp>）</rp></ruby>います。</b>",
+    "options": [
+      "もう",
+      "もっと"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 20,
+    "question": "<b>リモコン</b>",
+    "options": [
+      "Bộ điều khiển từ xa",
+      "Cơ hội",
+      "Kèm theo",
+      "~ trở lên, hơn~"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 21,
+    "question": "<b>は</b>",
+    "options": [
+      "Lá cây",
+      "Phương pháp",
+      "Dấu tròn",
+      "Không phải"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 22,
+    "question": "<b>かしこまりました</b>",
+    "options": [
+      "Vâng được ạ / Tôi hiểu rồi ạ.",
+      "Niềm hân hoan, vui sướng",
+      "Màu son",
+      "Xe buýt đêm"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 23,
+    "question": "<b>ここを（　）、ふたが<ruby>開<rp>（</rp><rt>ひら</rt><rp>）</rp></ruby>きます。</b>",
+    "options": [
+      "押せば",
+      "押す"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 24,
+    "question": "<b>それなら</b>",
+    "options": [
+      "Nếu vậy thì",
+      "Thành ngữ",
+      "Vâng được ạ / Tôi hiểu rồi ạ.",
+      "Máy tính cá nhân"
+    ],
+    "correctAnswer": 0
+  }
+]

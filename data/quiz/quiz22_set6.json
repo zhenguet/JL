@@ -1,0 +1,239 @@
+[
+  {
+    "id": 1,
+    "question": "<b>đeo [kính]</b>",
+    "options": [
+      "かけます",
+      "ぼうし",
+      "シャツ／コートをきます",
+      "アパート"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 2,
+    "question": "<b>メーカー</b>",
+    "options": [
+      "nhà sản xuất",
+      "mũ bảo hiểm, mũ an toàn",
+      "kính",
+      "bộ com lê"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 3,
+    "question": "<b><ruby>旅行<rp>（</rp><rt>りょこう</rt><rp>）</rp></ruby>に（　）<ruby>人<rp>（</rp><rt>ひと</rt><rp>）</rp></ruby>にお<ruby>土産<rp>（</rp><rt>みやげ</rt><rp>）</rp></ruby>をあげました。</b>",
+    "options": [
+      "行かなかった",
+      "行かない"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 4,
+    "question": "<b>やちん</b>",
+    "options": [
+      "tiền thuê nhà",
+      "Paris",
+      "sách trắng giải trí",
+      "để tôi xem đã"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 5,
+    "question": "<b><ruby>青<rp>（</rp><rt>あお</rt><rp>）</rp></ruby>いコートを（　）<ruby>人<rp>（</rp><rt>ひと</rt><rp>）</rp></ruby>はだれですか。</b>",
+    "options": [
+      "着る",
+      "着ている"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 6,
+    "question": "<b>A：かけますは　どこですか。<p>B：（　）です。</p></b>",
+    "options": [
+      "ここ",
+      "そこ",
+      "あそこ",
+      "どこ"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 7,
+    "question": "<b>mũ</b>",
+    "options": [
+      "ぼうし",
+      "おさきにしつれいします",
+      "おつかれさまでした",
+      "またこんどおねがいします"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 8,
+    "question": "<b>A：ばんりのちょうじょうは　どちらですか。<p>B：（　）です。</p></b>",
+    "options": [
+      "こちら",
+      "そちら",
+      "あちら",
+      "どちら"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 9,
+    "question": "<b>きます</b>",
+    "options": [
+      "mặc [áo sơ mi…]",
+      "đi [giày], mặc [quần]",
+      "áo choàng ngoài, áo măng tô",
+      "cảm ơn nhé. anh về nhé. (dùng khi người khác làm việc cho mình xong. hoặc khi người cùng làm trong cơ quan về sớm hơn mình thì nói câu này để chào.)"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 10,
+    "question": "<b>パリ</b>",
+    "options": [
+      "Paris",
+      "sách trắng giải trí",
+      "xin phép tôi về trước (dùng khi về sớm hơn người khác)",
+      "để tôi xem đã"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 11,
+    "question": "<b>イーさんが（　）コートはすてきですね。</b>",
+    "options": [
+      "着ていた",
+      "着ている"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 12,
+    "question": "<b>うーん</b>",
+    "options": [
+      "để tôi xem đã",
+      "phụ tùng, linh kiện",
+      "bộ com lê",
+      "chung cư"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 13,
+    "question": "<b>あれはミラーさん（　）<ruby>作<rp>（</rp><rt>つく</rt><rp>）</rp></ruby>ったいすです。</b>",
+    "options": [
+      "が",
+      "は"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 14,
+    "question": "<b>（　）<ruby>資料<rp>（</rp><rt>しりょう</rt><rp>）</rp></ruby>をコピーしてください。</b>",
+    "options": [
+      "足りない",
+      "足らない"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 15,
+    "question": "<b>A：これは　なんですか。<p>B：（　）は　アパートです。</p></b>",
+    "options": [
+      "それ",
+      "これ",
+      "あれ",
+      "どれ"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 16,
+    "question": "<b><ruby>車<rp>（</rp><rt>くるま</rt><rp>）</rp></ruby>を（　）<ruby>所<rp>（</rp><rt>しょ</rt><rp>）</rp></ruby>がありませんから、<ruby>電車<rp>（</rp><rt>でんしゃ</rt><rp>）</rp></ruby>で<ruby>行<rp>（</rp><rt>い</rt><rp>）</rp></ruby>きましょう。</b>",
+    "options": [
+      "止める",
+      "止めて"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 17,
+    "question": "<b>持って来ます</b>",
+    "options": [
+      "もってきます",
+      "かけます",
+      "うーん",
+      "かぶります"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 18,
+    "question": "<b>đội [mũ]</b>",
+    "options": [
+      "かぶります",
+      "ヘルメット",
+      "ぶひん",
+      "パリ"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 19,
+    "question": "<b>bộ com lê</b>",
+    "options": [
+      "スーツ",
+      "ふとん",
+      "もってきます",
+      "おしいれ"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 20,
+    "question": "<b>A：メーカーは　どこですか。<p>B：（　）です。</p></b>",
+    "options": [
+      "ここ",
+      "そこ",
+      "あそこ",
+      "どこ"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 21,
+    "question": "<b>カリナさんが（　）<ruby>絵<rp>（</rp><rt>え</rt><rp>）</rp></ruby>を<ruby>見<rp>（</rp><rt>み</rt><rp>）</rp></ruby>たことがありますか。</b>",
+    "options": [
+      "かいた",
+      "かく"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 22,
+    "question": "<b>A：もっていきますは　どちらですか。<p>B：（　）です。</p></b>",
+    "options": [
+      "こちら",
+      "そちら",
+      "あちら",
+      "どちら"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 23,
+    "question": "<b><ruby>子<rp>（</rp><rt>こ</rt><rp>）</rp></ruby>どもと<ruby>遊<rp>（</rp><rt>あそ</rt><rp>）</rp></ruby>ぶ（　）があります。</b>",
+    "options": [
+      "用事",
+      "約束"
+    ],
+    "correctAnswer": 0
+  }
+]

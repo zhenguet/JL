@@ -1,0 +1,250 @@
+[
+  {
+    "id": 1,
+    "question": "<b>きもち</b>",
+    "options": [
+      "Tâm trạng, tình cảm",
+      "Vận chuyển",
+      "À này",
+      "Tàu chạy bằng hơi nước"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 2,
+    "question": "<b>いつかわたしたちは<ruby>月<rp>（</rp><rt>つき</rt><rp>）</rp></ruby>に（　）なるかもしれません。</b>",
+    "options": [
+      "住めるように",
+      "住めなく"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 3,
+    "question": "<b>A：ひづけは　どちらですか。<p>B：（　）です。</p></b>",
+    "options": [
+      "こちら",
+      "そちら",
+      "あちら",
+      "どちら"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 4,
+    "question": "<b>カバー</b>",
+    "options": [
+      "Vỏ bọc; bao bên ngoài",
+      "Bay",
+      "Trái đất",
+      "Gầy"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 5,
+    "question": "<b>Béo</b>",
+    "options": [
+      "ふとります",
+      "でます",
+      "はなし",
+      "かけます"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 6,
+    "question": "<b>出ます</b>",
+    "options": [
+      "でます",
+      "チャレンジします",
+      "このごろ",
+      "うちゅう"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 7,
+    "question": "<b><ruby>狭<rp>（</rp><rt>せま</rt><rp>）</rp></ruby>い<ruby>部屋<rp>（</rp><rt>へや</rt><rp>）</rp></ruby>に<ruby>引越<rp>（</rp><rt>ひっこ</rt><rp>）</rp></ruby>ししましたから、<ruby>大<rp>（</rp><rt>おお</rt><rp>）</rp></ruby>きい<ruby>家具<rp>（</rp><rt>かぐ</rt><rp>）</rp></ruby>が（　）なりました。</b>",
+    "options": [
+      "置けなく",
+      "置かない"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 8,
+    "question": "<b><ruby>大切<rp>（</rp><rt>たいせつ</rt><rp>）</rp></ruby>な<ruby>約束<rp>（</rp><rt>やくそく</rt><rp>）</rp></ruby>を（　）ように、メモしておきます。</b>",
+    "options": [
+      "忘れない",
+      "忘れられない"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 9,
+    "question": "<b>Mang theo, xách theo</b>",
+    "options": [
+      "けいたい～",
+      "けんどう",
+      "はこびます",
+      "パイプ"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 10,
+    "question": "<b>そのほうが～</b>",
+    "options": [
+      "Việc đó ~ thì hơn",
+      "Sinh hoạt, đời sống",
+      "Câu chuyện",
+      "Tàu chạy bằng hơi nước"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 11,
+    "question": "<b>A：チャレンジしますは　どちらですか。<p>B：（　）です。</p></b>",
+    "options": [
+      "こちら",
+      "そちら",
+      "あちら",
+      "どちら"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 12,
+    "question": "<b>落ちます</b>",
+    "options": [
+      "おちます",
+      "はこびます",
+      "パイプ",
+      "ちょきんします"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 13,
+    "question": "<b>A：ことは　どこですか。<p>B：（　）です。</p></b>",
+    "options": [
+      "ここ",
+      "そこ",
+      "あそこ",
+      "どこ"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 14,
+    "question": "<b><ruby>新聞<rp>（</rp><rt>しんぶん</rt><rp>）</rp></ruby>が（　）ように、<ruby>漢字<rp>（</rp><rt>かんじ</rt><rp>）</rp></ruby>を<ruby>勉強<rp>（</rp><rt>べんきょう</rt><rp>）</rp></ruby>しています。</b>",
+    "options": [
+      "読める",
+      "読む"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 15,
+    "question": "<b><ruby>早<rp>（</rp><rt>はや</rt><rp>）</rp></ruby>く<ruby>友達<rp>（</rp><rt>ともだち</rt><rp>）</rp></ruby>と<ruby>日本語<rp>（</rp><rt>にほんご</rt><rp>）</rp></ruby>で（　）なりたいです。</b>",
+    "options": [
+      "おしゃべりできるように",
+      "おしゃべるできるように"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 16,
+    "question": "<b><ruby>漢字<rp>（</rp><rt>かんじ</rt><rp>）</rp></ruby>を<ruby>勉強<rp>（</rp><rt>べんきょう</rt><rp>）</rp></ruby>しましたから、<ruby>新聞<rp>（</rp><rt>しんぶん</rt><rp>）</rp></ruby>が（　）ようになりました。</b>",
+    "options": [
+      "読める",
+      "読む"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 17,
+    "question": "<b><ruby>手紙<rp>（</rp><rt>てがみ</rt><rp>）</rp></ruby>が<ruby>早<rp>（</rp><rt>はや</rt><rp>）</rp></ruby>く（　）ように、<ruby>速達<rp>（</rp><rt>そくたつ</rt><rp>）</rp></ruby>で<ruby>出<rp>（</rp><rt>だ</rt><rp>）</rp></ruby>しました。</b>",
+    "options": [
+      "届ける",
+      "届く"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 18,
+    "question": "<b>かけます</b>",
+    "options": [
+      "Bao phủ, che kín lại",
+      "Trái đất",
+      "Tàu chạy bằng hơi nước",
+      "Tâm trạng, tình cảm"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 19,
+    "question": "<b>A：これは　なんですか。<p>B：（　）は　ちきゅうです。</p></b>",
+    "options": [
+      "それ",
+      "これ",
+      "あれ",
+      "どれ"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 20,
+    "question": "<b>A：ことは　どこですか。<p>B：（　）です。</p></b>",
+    "options": [
+      "ここ",
+      "そこ",
+      "あそこ",
+      "どこ"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 21,
+    "question": "<b>Bay</b>",
+    "options": [
+      "とびます",
+      "カバー",
+      "きせん",
+      "かけます"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 22,
+    "question": "<b>慣れます</b>",
+    "options": [
+      "なれます",
+      "そのほうが～",
+      "おきゃくさま",
+      "～ずつ"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 23,
+    "question": "<b><ruby>歯<rp>（</rp><rt>は</rt><rp>）</rp></ruby>が<ruby>悪<rp>（</rp><rt>わる</rt><rp>）</rp></ruby>くなると、<ruby>硬<rp>（</rp><rt>かた</rt><rp>）</rp></ruby>いものが（　）なります。</b>",
+    "options": [
+      "かめない",
+      "かめなく"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 24,
+    "question": "<b>すぎます</b>",
+    "options": [
+      "Quá, vượt quá",
+      "Cái tẩu, ống dẫn ~",
+      "Vũ trụ",
+      "Từng"
+    ],
+    "correctAnswer": 0
+  }
+]

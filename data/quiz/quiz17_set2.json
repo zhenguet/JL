@@ -1,0 +1,261 @@
+[
+  {
+    "id": 1,
+    "question": "<b>～までに</b>",
+    "options": [
+      "đến khi ~, đến ~ (chỉ thời hạn)",
+      "có chuyện gì vậy? sao vậy?",
+      "không được",
+      "giấy bảo hiểm [sức khỏe]"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 2,
+    "question": "<b>A：もっていきますは　どこですか。<p>B：（　）です。</p></b>",
+    "options": [
+      "ここ",
+      "そこ",
+      "あそこ",
+      "どこ"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 3,
+    "question": "<b>chú ý, cẩn thận, cảnh giác [với xe ô tô]</b>",
+    "options": [
+      "きをつけます",
+      "どうしましたか",
+      "ですから",
+      "もっていきます"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 4,
+    "question": "<b>払います</b>",
+    "options": [
+      "はらいます",
+      "どうしましたか",
+      "とめます",
+      "しゅっちょうします"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 5,
+    "question": "<b>したぎ</b>",
+    "options": [
+      "đồ lót",
+      "đánh mất",
+      "máy điều hòa, máy lạnh",
+      "câu trả lời"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 6,
+    "question": "<b>ざんぎょうします</b>",
+    "options": [
+      "làm thêm",
+      "câu hỏi, vấn đề",
+      "cởi (quần áo, giầy…)",
+      "chú ý, cẩn thận, cảnh giác [với xe ô tô]"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 7,
+    "question": "<b>だめです</b>",
+    "options": [
+      "だめです",
+      "おと",
+      "さわります",
+      "はらいます"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 8,
+    "question": "<b>この<ruby>本<rp>（</rp><rt>ほん</rt><rp>）</rp></ruby>、<ruby>来週<rp>（</rp><rt>らいしゅう</rt><rp>）</rp></ruby>の<ruby>火曜日<rp>（</rp><rt>かようび</rt><rp>）</rp></ruby>（　）<ruby>借<rp>（</rp><rt>か</rt><rp>）</rp></ruby>りてもいいですか。</b>",
+    "options": [
+      "まで",
+      "までに"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 9,
+    "question": "<b>sốt</b>",
+    "options": [
+      "ねつ",
+      "スイッチ",
+      "きかいにさわります",
+      "ですから"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 10,
+    "question": "<b><ruby>試験<rp>（</rp><rt>しけん</rt><rp>）</rp></ruby>は<ruby>簡単<rp>（</rp><rt>かんたん</rt><rp>）</rp></ruby>ですから、（　）。</b>",
+    "options": [
+      "心配しなくてもいいです",
+      "心配します"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 11,
+    "question": "<b>A：おふろは　どちらですか。<p>B：（　）です。</p></b>",
+    "options": [
+      "こちら",
+      "そちら",
+      "あちら",
+      "どちら"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 12,
+    "question": "<b>A：だめですは　どこですか。<p>B：（　）です。</p></b>",
+    "options": [
+      "ここ",
+      "そこ",
+      "あそこ",
+      "どこ"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 13,
+    "question": "<b>きんえん</b>",
+    "options": [
+      "cấm hút thuốc lá",
+      "đem (cái gì) đi",
+      "nhanh chóng bình phục nhé! (dùng để chúc người ốm chóng khỏi)",
+      "chạm vào máy"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 14,
+    "question": "<b>なくします</b>",
+    "options": [
+      "đánh mất",
+      "vì vậy, cho nên (đứng đầu câu)",
+      "câu trả lời",
+      "đem (cái gì) đi"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 15,
+    "question": "<b>もっていきます</b>",
+    "options": [
+      "đem (cái gì) đi",
+      "trả lại",
+      "đồ lót",
+      "máy điều hòa, máy lạnh"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 16,
+    "question": "<b>あした、<ruby>学校<rp>（</rp><rt>がっこう</rt><rp>）</rp></ruby>へ（　）なくてもいいです。</b>",
+    "options": [
+      "き",
+      "こ"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 17,
+    "question": "<b>A  :（　）<p>B  :  <ruby>熱<rp>（</rp><rt>ねつ</rt><rp>）</rp></ruby>があります。</p></b>",
+    "options": [
+      "どうしましたか",
+      "どうでしたか"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 18,
+    "question": "<b>A：これは　なんですか。<p>B：（　）は　なくしますです。</p></b>",
+    "options": [
+      "それ",
+      "これ",
+      "あれ",
+      "どれ"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 19,
+    "question": "<b><ruby>傘<rp>（</rp><rt>かさ</rt><rp>）</rp></ruby>を（　）ください。</b>",
+    "options": [
+      "忘れて",
+      "忘れないで"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 20,
+    "question": "<b><ruby>横浜<rp>（</rp><rt>よこはま</rt><rp>）</rp></ruby>で<ruby>電車<rp>（</rp><rt>でんしゃ</rt><rp>）</rp></ruby>を（　）なければなりません。</b>",
+    "options": [
+      "おり",
+      "おら"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 21,
+    "question": "<b>có chuyện gì vậy? sao vậy?</b>",
+    "options": [
+      "どうしましたか",
+      "おふろにはいる",
+      "かぜ",
+      "しんぱいします"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 22,
+    "question": "<b>A：きかいにさわりますは　どちらですか。<p>B：（　）です。</p></b>",
+    "options": [
+      "こちら",
+      "そちら",
+      "あちら",
+      "どちら"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 23,
+    "question": "<b>quên</b>",
+    "options": [
+      "わすれます",
+      "はらいます",
+      "おだいじに",
+      "とめます"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 24,
+    "question": "<b><ruby>今晩<rp>（</rp><rt>こんばん</rt><rp>）</rp></ruby>はレストランで<ruby>食<rp>（</rp><rt>た</rt><rp>）</rp></ruby>べますから、<ruby>晩<rp>（</rp><rt>ばん</rt><rp>）</rp></ruby>ごはんを（　）。</b>",
+    "options": [
+      "作ってもいいです",
+      "作らなくてもいいです"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 25,
+    "question": "<b><ruby>子<rp>（</rp><rt>こ</rt><rp>）</rp></ruby>どもが<ruby>病気<rp>（</rp><rt>びょうき</rt><rp>）</rp></ruby>ですから、<ruby>早<rp>（</rp><rt>はや</rt><rp>）</rp></ruby>く（　）。</b>",
+    "options": [
+      "帰らなければなりません",
+      "帰らなくてもいいです"
+    ],
+    "correctAnswer": 0
+  }
+]

@@ -1,0 +1,250 @@
+[
+  {
+    "id": 1,
+    "question": "<b>わかれます</b>",
+    "options": [
+      "Chia tay",
+      "Làm thế nào?",
+      "Điều gở, điều kiêng kỵ",
+      "Cám ơn"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 2,
+    "question": "<b>どういうふうになさいますか</b>",
+    "options": [
+      "どういうふうになさいますか",
+      "いやがります",
+      "たんす",
+      "ひょうげん"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 3,
+    "question": "<b>ひらがなは<ruby>覚<rp>（</rp><rt>おぼ</rt><rp>）</rp></ruby>え（　）です。</b>",
+    "options": [
+      "やすい",
+      "やさしい"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 4,
+    "question": "<b>A：これは　なんですか。<p>B：（　）は　たんすです。</p></b>",
+    "options": [
+      "それ",
+      "これ",
+      "あれ",
+      "どれ"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 5,
+    "question": "<b>A：ぬれますは　どこですか。<p>B：（　）です。</p></b>",
+    "options": [
+      "ここ",
+      "そこ",
+      "あそこ",
+      "どこ"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 6,
+    "question": "<b>おつかれさまでした</b>",
+    "options": [
+      "おつかれさまでした",
+      "いやがります",
+      "どういうふうになさいますか",
+      "たんす"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 7,
+    "question": "<b>それはいけませんね</b>",
+    "options": [
+      "Thế thì không được rồi.",
+      "Áo khoác",
+      "Thay đổi",
+      "Ướt"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 8,
+    "question": "<b>したぎ</b>",
+    "options": [
+      "Quần áo lót",
+      "Thế thì không được rồi.",
+      "Trượt",
+      "Thế này được chưa?"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 9,
+    "question": "<b>量</b>",
+    "options": [
+      "りょう",
+      "なきます",
+      "はんぶん",
+      "つきます"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 10,
+    "question": "<b>Làm giống như là ~</b>",
+    "options": [
+      "～みたいにしてください",
+      "うわぎ",
+      "つきます",
+      "はんぶん"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 11,
+    "question": "<b>この<ruby>道<rp>（</rp><rt>みち</rt><rp>）</rp></ruby>は<ruby>事故<rp>（</rp><rt>じこ</rt><rp>）</rp></ruby>が（　）やすいです。</b>",
+    "options": [
+      "あり",
+      "起き"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 12,
+    "question": "<b>ゆうべ（　）すぎました。</b>",
+    "options": [
+      "飲み",
+      "飲んで"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 13,
+    "question": "<b>A：～ばいは　どこですか。<p>B：（　）です。</p></b>",
+    "options": [
+      "ここ",
+      "そこ",
+      "あそこ",
+      "どこ"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 14,
+    "question": "<b>この<ruby>問題<rp>（</rp><rt>もんだい</rt><rp>）</rp></ruby>は（　）。</b>",
+    "options": [
+      "簡単なすぎです",
+      "簡単すぎます"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 15,
+    "question": "<b><ruby>食<rp>（</rp><rt>た</rt><rp>）</rp></ruby>べ（　）しまいました。</b>",
+    "options": [
+      "すぎて",
+      "すいで"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 16,
+    "question": "<b>Dầu gội</b>",
+    "options": [
+      "シャンプー",
+      "おつかれさまでした",
+      "せんたくもの",
+      "ぬれます"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 17,
+    "question": "<b>A：かわきますは　どちらですか。<p>B：（　）です。</p></b>",
+    "options": [
+      "こちら",
+      "そちら",
+      "あちら",
+      "どちら"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 18,
+    "question": "<b>きのう<ruby>休<rp>（</rp><rt>やす</rt><rp>）</rp></ruby>んだ（　）を<ruby>言<rp>（</rp><rt>い</rt><rp>）</rp></ruby>ってください。</b>",
+    "options": [
+      "理由",
+      "目的"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 19,
+    "question": "<b>これら</b>",
+    "options": [
+      "Những cái này",
+      "Nút khởi động",
+      "Dầu gội",
+      "Áo khoác"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 20,
+    "question": "<b><ruby>晩<rp>（</rp><rt>ばん</rt><rp>）</rp></ruby>ごはんはてんぷら（　）しましょう。</b>",
+    "options": [
+      "に",
+      "を"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 21,
+    "question": "<b>A：ひょうげんは　どちらですか。<p>B：（　）です。</p></b>",
+    "options": [
+      "こちら",
+      "そちら",
+      "あちら",
+      "どちら"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 22,
+    "question": "<b>このコピーは<ruby>薄<rp>（</rp><rt>うす</rt><rp>）</rp></ruby>すぎますから、<ruby>濃<rp>（</rp><rt>こ</rt><rp>）</rp></ruby>く（　）ください。</b>",
+    "options": [
+      "して",
+      "なって"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 23,
+    "question": "<b>わらいます</b>",
+    "options": [
+      "Cười",
+      "Ngắn",
+      "Điều gở, điều kiêng kỵ",
+      "Khóc"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 24,
+    "question": "<b>シングル</b>",
+    "options": [
+      "Phòng đơn",
+      "Xảy ra",
+      "Những cái này",
+      "Làm lại từ đầu"
+    ],
+    "correctAnswer": 0
+  }
+]

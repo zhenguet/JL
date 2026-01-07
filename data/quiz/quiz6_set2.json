@@ -1,0 +1,261 @@
+[
+  {
+    "id": 1,
+    "question": "<b>おおさかじょうこうえん</b>",
+    "options": [
+      "Công viên ở Osaka",
+      "áo sơ mi",
+      "rau, rau sống",
+      "đĩa CD"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 2,
+    "question": "<b>quả táo, táo tây</b>",
+    "options": [
+      "りんご",
+      "ひるごはん",
+      "テニス",
+      "のみます"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 3,
+    "question": "<b>A：あした（　）を　しますか。　<p>B：よこはまへ　いきます。</p></b>",
+    "options": [
+      "なに",
+      "なん"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 4,
+    "question": "<b>メキシコ</b>",
+    "options": [
+      "メキシコ",
+      "なに",
+      "ジュース",
+      "しゃしん"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 5,
+    "question": "<b>おはなみをします</b>",
+    "options": [
+      "ngắm hoa Anh Đào (động từ)",
+      "bánh mì",
+      "sữa",
+      "nước hoa quả, nước ngọt"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 6,
+    "question": "<b>A：<ruby>昼休<rp>（</rp><rt>ひるやす</rt><rp>）</rp></ruby>みに（　）をしますか。<p>B：テニスをします。</p></b>",
+    "options": [
+      "なんに",
+      "なに"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 7,
+    "question": "<b>A：きのう（　）<ruby>時<rp>（</rp><rt>じ</rt><rp>）</rp></ruby>にうちへ<ruby>帰<rp>（</rp><rt>かえ</rt><rp>）</rp></ruby>りましたか。<p>B：８<ruby>時<rp>（</rp><rt>じ</rt><rp>）</rp></ruby>に<ruby>帰<rp>（</rp><rt>かえ</rt><rp>）</rp></ruby>りました。</p></b>",
+    "options": [
+      "なん",
+      "なんで"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 8,
+    "question": "<b>A：これは　なんですか。<p>B：（　）は　もしもしです。</p></b>",
+    "options": [
+      "それ",
+      "これ",
+      "あれ",
+      "どれ"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 9,
+    "question": "<b>たまご</b>",
+    "options": [
+      "trứng, quả trứng",
+      "ngắm hoa Anh Đào (động từ)",
+      "nước trà",
+      "nước hoa quả, nước ngọt"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 10,
+    "question": "<b>A：カセットテープは　どちらですか。<p>B：（　）です。</p></b>",
+    "options": [
+      "こちら",
+      "そちら",
+      "あちら",
+      "どちら"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 11,
+    "question": "<b>A：なにをよみますか。　<p>B：なにも（　）。</p></b>",
+    "options": [
+      "よみません",
+      "よみます"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 12,
+    "question": "<b>A：もしもしは　どちらですか。<p>B：（　）です。</p></b>",
+    "options": [
+      "こちら",
+      "そちら",
+      "あちら",
+      "どちら"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 13,
+    "question": "<b>ひるごはん</b>",
+    "options": [
+      "bữa ăn trưa",
+      "băng cát xét",
+      "bánh mì",
+      "giầy, đôi giầy"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 14,
+    "question": "<b>ああ</b>",
+    "options": [
+      "à!",
+      "gặp gỡ bạn",
+      "bóng bàn",
+      "cà vạt"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 15,
+    "question": "<b>A：きのう　なにを　しましたか。　<p>B：えいがを（　）。</p></b>",
+    "options": [
+      "しました",
+      "みました"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 16,
+    "question": "<b>nước trà</b>",
+    "options": [
+      "おちゃ",
+      "ひるごはん",
+      "みせ",
+      "しゃしんをとります"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 17,
+    "question": "<b>ええ</b>",
+    "options": [
+      "có. ừ. đúng. vâng",
+      "ngắm hoa Anh Đào (danh từ)",
+      "phim (dùng để chụp ảnh)",
+      "gặp gỡ bạn"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 18,
+    "question": "<b>A：どこで　コーヒーを　のみますか。　<p>B：しょくどう（　）のみます。</p></b>",
+    "options": [
+      "へ",
+      "で"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 19,
+    "question": "<b>A：（　）で<ruby>京都<rp>（</rp><rt>きょうと</rt><rp>）</rp></ruby>へ<ruby>行<rp>（</rp><rt>い</rt><rp>）</rp></ruby>きましたか。<p>B：タクシーで<ruby>行<rp>（</rp><rt>い</rt><rp>）</rp></ruby>きました。</p></b>",
+    "options": [
+      "なん",
+      "どこ"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 20,
+    "question": "<b>じゃ、またあした</b>",
+    "options": [
+      "hẹn gặp lại (ngày mai)",
+      "báo cáo, bản báo cáo",
+      "đĩa CD",
+      "uống"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 21,
+    "question": "<b>やさい</b>",
+    "options": [
+      "rau, rau sống",
+      "bóng bàn",
+      "cái gì",
+      "bữa ăn sáng"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 22,
+    "question": "<b>ともだち（　）ごはんを　たべました。</b>",
+    "options": [
+      "に",
+      "と"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 23,
+    "question": "<b>A：じゃ、またあしたは　どこですか。<p>B：（　）です。</p></b>",
+    "options": [
+      "ここ",
+      "そこ",
+      "あそこ",
+      "どこ"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 24,
+    "question": "<b>gặp gỡ bạn</b>",
+    "options": [
+      "ともだちにあいます",
+      "なに",
+      "こうちゃ",
+      "みます"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 25,
+    "question": "<b>A：しゅくだいは　どこですか。<p>B：（　）です。</p></b>",
+    "options": [
+      "ここ",
+      "そこ",
+      "あそこ",
+      "どこ"
+    ],
+    "correctAnswer": 2
+  }
+]

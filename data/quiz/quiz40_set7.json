@@ -1,0 +1,252 @@
+[
+  {
+    "id": 1,
+    "question": "<b>出発します</b>",
+    "options": [
+      "しゅっぱつします",
+      "オートバイ",
+      "あいます",
+      "どうでしょうか"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 2,
+    "question": "<b>Nội dung</b>",
+    "options": [
+      "なかみ",
+      "ながさ",
+      "～はい（－ぱい、－ばい）",
+      "マラソン"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 3,
+    "question": "<b>はんばいてん</b>",
+    "options": [
+      "Tiệm bán hàng",
+      "Còn chuyện khác nữa",
+      "Kg, km",
+      "Tình hình"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 4,
+    "question": "<b><ruby>宇宙<rp>（</rp><rt>うちゅう</rt><rp>）</rp></ruby>の（　）はどのくらいか、わかりますか。</b>",
+    "options": [
+      "大きさ",
+      "重さ",
+      "速さ"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 5,
+    "question": "<b><ruby>週末<rp>（</rp><rt>しゅうまつ</rt><rp>）</rp></ruby>、（　）どうか、わかりません。</b>",
+    "options": [
+      "暇か",
+      "暇だか"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 6,
+    "question": "<b>A：～はい（－ぱい、－ばい）は　どちらですか。<p>B：（　）です。</p></b>",
+    "options": [
+      "こちら",
+      "そちら",
+      "あちら",
+      "どちら"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 7,
+    "question": "<b>～ほん（－ぽん、－ぼん）</b>",
+    "options": [
+      "… cây, chai, cái (đếm vật có chiều dài)",
+      "Nguyên nhân",
+      "Quan hệ; liên quan",
+      "Tìm"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 8,
+    "question": "<b>Chiều dài</b>",
+    "options": [
+      "ながさ",
+      "おもて",
+      "かんけいがあります",
+      "なかみ"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 9,
+    "question": "<b>A：オートバイは　どこですか。<p>B：（　）です。</p></b>",
+    "options": [
+      "ここ",
+      "そこ",
+      "あそこ",
+      "どこ"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 10,
+    "question": "<b>マラソン<ruby>大会<rp>（</rp><rt>たいかい</rt><rp>）</rp></ruby>に<ruby>出<rp>（</rp><rt>で</rt><rp>）</rp></ruby>ますか。<p>…（　）、まだ<ruby>決<rp>（</rp><rt>き</rt><rp>）</rp></ruby>めていません。</p></b>",
+    "options": [
+      "出るかどうか",
+      "出るか"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 11,
+    "question": "<b><ruby>荷物<rp>（</rp><rt>にもつ</rt><rp>）</rp></ruby>の<ruby>重<rp>（</rp><rt>おも</rt><rp>）</rp></ruby>さを（　）。</b>",
+    "options": [
+      "量ります",
+      "数えます"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 12,
+    "question": "<b>さあ</b>",
+    "options": [
+      "さあ",
+      "しゅっぱつします",
+      "なかみ",
+      "もうしこみ"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 13,
+    "question": "<b><ruby>台風<rp>（</rp><rt>たいふう</rt><rp>）</rp></ruby>６（　）はたぶん<ruby>日本<rp>（</rp><rt>にほん</rt><rp>）</rp></ruby>へ<ruby>来<rp>（</rp><rt>こ</rt><rp>）</rp></ruby>ないと<ruby>思<rp>（</rp><rt>おも</rt><rp>）</rp></ruby>います。</b>",
+    "options": [
+      "号",
+      "便",
+      "番"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 14,
+    "question": "<b>Đếm</b>",
+    "options": [
+      "かぞえます",
+      "オートバイ",
+      "しかし",
+      "ニーズ"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 15,
+    "question": "<b><ruby>初<rp>（</rp><rt>はじ</rt><rp>）</rp></ruby>めて<ruby>日本<rp>（</rp><rt>にほん</rt><rp>）</rp></ruby>のお<ruby>酒<rp>（</rp><rt>さけ</rt><rp>）</rp></ruby>を（　）ました。</b>",
+    "options": [
+      "飲んでみ",
+      "飲んでおき"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 16,
+    "question": "<b>うら</b>",
+    "options": [
+      "Mặt sau",
+      "Mặt trước",
+      "Tàu số ~",
+      "Xe máy"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 17,
+    "question": "<b>A：かんけいがありますは　どちらですか。<p>B：（　）です。</p></b>",
+    "options": [
+      "こちら",
+      "そちら",
+      "あちら",
+      "どちら"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 18,
+    "question": "<b>ビールを（　）<ruby>買<rp>（</rp><rt>か</rt><rp>）</rp></ruby>いました。</b>",
+    "options": [
+      "３枚",
+      "３本"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 19,
+    "question": "<b>A：オートバイは　どこですか。<p>B：（　）です。</p></b>",
+    "options": [
+      "ここ",
+      "そこ",
+      "あそこ",
+      "どこ"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 20,
+    "question": "<b>A：これは　なんですか。<p>B：（　）は　はかりますです。</p></b>",
+    "options": [
+      "それ",
+      "これ",
+      "あれ",
+      "どれ"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 21,
+    "question": "<b>ミリ</b>",
+    "options": [
+      "mm",
+      "Nhu cầu",
+      "Xuất phát",
+      "Nhưng mà"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 22,
+    "question": "<b>どちらが（　）わかりません。</b>",
+    "options": [
+      "表か、",
+      "表かどうか、"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 23,
+    "question": "<b>～個</b>",
+    "options": [
+      "～こ",
+      "おもさ",
+      "～はい（－ぱい、－ばい）",
+      "たしかめます"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 24,
+    "question": "<b>Nhưng mà</b>",
+    "options": [
+      "しかし",
+      "つみます",
+      "ようす",
+      "うわさします"
+    ],
+    "correctAnswer": 0
+  }
+]

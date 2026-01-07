@@ -1,0 +1,261 @@
+[
+  {
+    "id": 1,
+    "question": "<b>これこらも<ruby>今<rp>（</rp><rt>いま</rt><rp>）</rp></ruby>の<ruby>研究<rp>（</rp><rt>けんきゅう</rt><rp>）</rp></ruby>を<ruby>続<rp>（</rp><rt>つづ</rt><rp>）</rp></ruby>けますか。<p>…ええ、<ruby>将来<rp>（</rp><rt>しょうらい</rt><rp>）</rp></ruby>もずっと（　）つもりです。</p></b>",
+    "options": [
+      "続ける",
+      "続けよう"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 2,
+    "question": "<b>A：これは　なんですか。<p>B：（　）は　あねです。</p></b>",
+    "options": [
+      "それ",
+      "これ",
+      "あれ",
+      "どれ"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 3,
+    "question": "<b>閉じます</b>",
+    "options": [
+      "とじます",
+      "ふゆ",
+      "はる",
+      "なつ"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 4,
+    "question": "<b>～の方</b>",
+    "options": [
+      "～のほう",
+      "してん",
+      "はじまります",
+      "でます"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 5,
+    "question": "<b>A：しゅっせきは　どちらですか。<p>B：（　）です。</p></b>",
+    "options": [
+      "こちら",
+      "そちら",
+      "あちら",
+      "どちら"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 6,
+    "question": "<b><ruby>国<rp>（</rp><rt>くに</rt><rp>）</rp></ruby>へ<ruby>帰<rp>（</rp><rt>かえ</rt><rp>）</rp></ruby>っても、<ruby>柔道<rp>（</rp><rt>じゅうどう</rt><rp>）</rp></ruby>を（　）つもりです。</b>",
+    "options": [
+      "続けよう",
+      "続ける"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 7,
+    "question": "<b><ruby>課長<rp>（</rp><rt>かちょう</rt><rp>）</rp></ruby>の<ruby>午後<rp>（</rp><rt>ごご</rt><rp>）</rp></ruby>の<ruby>予定<rp>（</rp><rt>よてい</rt><rp>）</rp></ruby>がわかりますか。<p>…<ruby>支店<rp>（</rp><rt>してん</rt><rp>）</rp></ruby>へ（　）<ruby>予定<rp>（</rp><rt>よてい</rt><rp>）</rp></ruby>です。</p></b>",
+    "options": [
+      "行って",
+      "行く"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 8,
+    "question": "<b>え</b>",
+    "options": [
+      "Ủa!",
+      "Nhập học",
+      "Sự tuyệt vời",
+      "Lễ"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 9,
+    "question": "<b>世界中</b>",
+    "options": [
+      "せかいじゅう",
+      "しゃちょう",
+      "くうこう",
+      "はは"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 10,
+    "question": "<b>きょうは<ruby>朝<rp>（</rp><rt>あさ</rt><rp>）</rp></ruby>から（　）<ruby>本<rp>（</rp><rt>ほん</rt><rp>）</rp></ruby>を<ruby>読<rp>（</rp><rt>よ</rt><rp>）</rp></ruby>んでいました。</b>",
+    "options": [
+      "いつも",
+      "ずっと"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 11,
+    "question": "<b>Bố mình</b>",
+    "options": [
+      "ちち",
+      "つづけます",
+      "え",
+      "おわり"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 12,
+    "question": "<b>いいなあ</b>",
+    "options": [
+      "Hay quá nhỉ",
+      "Bầu trời",
+      "Lúc đầu, thời gian đầu",
+      "Tham dự, có mặt"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 13,
+    "question": "<b><ruby>庭<rp>（</rp><rt>にわ</rt><rp>）</rp></ruby>があるうちに<ruby>引<rp>（</rp><rt>ひ</rt><rp>）</rp></ruby>っ<ruby>越<rp>（</rp><rt>こ</rt><rp>）</rp></ruby>ししましたから、<ruby>犬<rp>（</rp><rt>いぬ</rt><rp>）</rp></ruby>を（　）と<ruby>思<rp>（</rp><rt>おも</rt><rp>）</rp></ruby>っています。</b>",
+    "options": [
+      "あろう",
+      "飼おう"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 14,
+    "question": "<b>自然</b>",
+    "options": [
+      "しぜん",
+      "かちょう",
+      "のこります",
+      "あね"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 15,
+    "question": "<b>A：よていは　どこですか。<p>B：（　）です。</p></b>",
+    "options": [
+      "ここ",
+      "そこ",
+      "あそこ",
+      "どこ"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 16,
+    "question": "<b>A：くうこうは　どちらですか。<p>B：（　）です。</p></b>",
+    "options": [
+      "こちら",
+      "そちら",
+      "あちら",
+      "どちら"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 17,
+    "question": "<b>いいんですか</b>",
+    "options": [
+      "いいんですか",
+      "だれか",
+      "なつ",
+      "とかい"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 18,
+    "question": "<b>すばらしさ</b>",
+    "options": [
+      "すばらしさ",
+      "そつぎょう",
+      "さくぶん",
+      "いなか"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 19,
+    "question": "<b>A：インターネットは　どこですか。<p>B：（　）です。</p></b>",
+    "options": [
+      "ここ",
+      "そこ",
+      "あそこ",
+      "どこ"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 20,
+    "question": "<b><ruby>今晩<rp>（</rp><rt>こんばん</rt><rp>）</rp></ruby><ruby>花火<rp>（</rp><rt>はなび</rt><rp>）</rp></ruby>は<ruby>何時<rp>（</rp><rt>なんじ</rt><rp>）</rp></ruby>に<ruby>始<rp>（</rp><rt>はじ</rt><rp>）</rp></ruby>まりますか。<p>…7<ruby>時<rp>（</rp><rt>じ</rt><rp>）</rp></ruby>に（　）<ruby>予定<rp>（</rp><rt>よてい</rt><rp>）</rp></ruby>です。</p></b>",
+    "options": [
+      "始まる",
+      "始まって"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 21,
+    "question": "<b>Nếu được thì ～</b>",
+    "options": [
+      "よかったら、～",
+      "はは",
+      "インターネット",
+      "あね"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 22,
+    "question": "<b>この<ruby>週末<rp>（</rp><rt>しゅうまつ</rt><rp>）</rp></ruby>は<ruby>子<rp>（</rp><rt>こ</rt><rp>）</rp></ruby>どもを<ruby>動物園<rp>（</rp><rt>どうぶつえん</rt><rp>）</rp></ruby>へ（　）と<ruby>思<rp>（</rp><rt>おも</rt><rp>）</rp></ruby>っています。</b>",
+    "options": [
+      "連れて行こう",
+      "帰ろう"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 23,
+    "question": "<b>Cao học</b>",
+    "options": [
+      "だいがくいん",
+      "いいなあ",
+      "きめます",
+      "ふゆ"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 24,
+    "question": "<b>Bầu trời</b>",
+    "options": [
+      "そら",
+      "そうだん",
+      "あに",
+      "おんせん"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 25,
+    "question": "<b><ruby>日本<rp>（</rp><rt>にほん</rt><rp>）</rp></ruby>の<ruby>大学<rp>（</rp><rt>だいがく</rt><rp>）</rp></ruby>（　）<ruby>入学<rp>（</rp><rt>にゅうがく</rt><rp>）</rp></ruby>します。</b>",
+    "options": [
+      "に",
+      "を"
+    ],
+    "correctAnswer": 0
+  }
+]

@@ -1,0 +1,261 @@
+[
+  {
+    "id": 1,
+    "question": "<b>（　）<ruby>靴<rp>（</rp><rt>くつ</rt><rp>）</rp></ruby>を<ruby>買<rp>（</rp><rt>か</rt><rp>）</rp></ruby>いましたか。…<ruby>黒<rp>（</rp><rt>くろ</rt><rp>）</rp></ruby>い<ruby>靴<rp>（</rp><rt>くつ</rt><rp>）</rp></ruby>を<ruby>買<rp>（</rp><rt>か</rt><rp>）</rp></ruby>いました。</b>",
+    "options": [
+      "なに",
+      "どんな"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 2,
+    "question": "<b>ごちそうさまでした</b>",
+    "options": [
+      "xin cảm ơn (vì bữa ăn ngon) (nói khi ăn, uống xong)",
+      "nơi, chỗ",
+      "à, cái đó thì… (nói khi tạm ngừng và suy nghĩ) vâng, vâng đúng rồi (nói khi đồng ý với ý kiến khác)",
+      "xin mời đi lối này"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 3,
+    "question": "<b>～が、</b>",
+    "options": [
+      "～が、",
+      "そうですね",
+      "どんな～",
+      "いいえ、けっこうです"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 4,
+    "question": "<b>コーヒーをもう一杯いかがですか</b>",
+    "options": [
+      "コーヒーをもういっぱいいかがですか",
+      "やま",
+      "どんな～",
+      "もう～ですね"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 5,
+    "question": "<b>そうですね</b>",
+    "options": [
+      "à, cái đó thì… (nói khi tạm ngừng và suy nghĩ) vâng, vâng đúng rồi (nói khi đồng ý với ý kiến khác)",
+      "thi, kiểm tra",
+      "như thế nào, ra sao",
+      "ký túc xá"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 6,
+    "question": "<b>きょうとは（　）まちです。</b>",
+    "options": [
+      "きれいな",
+      "きれい"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 7,
+    "question": "<b>xin mời đi lối này</b>",
+    "options": [
+      "どうぞこちらへ",
+      "ふじさん",
+      "しけん",
+      "おげんきですか"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 8,
+    "question": "<b>A：もうじゅうにじですねは　どちらですか。<p>B：（　）です。</p></b>",
+    "options": [
+      "こちら",
+      "そちら",
+      "あちら",
+      "どちら"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 9,
+    "question": "<b>どれ</b>",
+    "options": [
+      "どれ",
+      "おしごと",
+      "はな",
+      "さくら"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 10,
+    "question": "<b>どんな～</b>",
+    "options": [
+      "~ như thế nào? (+danh từ)",
+      "và rồi",
+      "đã 12 giờ rồi nhỉ",
+      "xin mời đi lối này"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 11,
+    "question": "<b>宿題</b>",
+    "options": [
+      "しゅくだい",
+      "どれ",
+      "コーヒーはいかがですか",
+      "ごちそうさまでした"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 12,
+    "question": "<b>A：まちは　どこですか。<p>B：（　）です。</p></b>",
+    "options": [
+      "ここ",
+      "そこ",
+      "あそこ",
+      "どこ"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 13,
+    "question": "<b>しごとは（　）ですか。　B：いそがしいです。</b>",
+    "options": [
+      "どんな",
+      "どう"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 14,
+    "question": "<b>A：どうぞこちらへは　どちらですか。<p>B：（　）です。</p></b>",
+    "options": [
+      "こちら",
+      "そちら",
+      "あちら",
+      "どちら"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 15,
+    "question": "<b>おしごと</b>",
+    "options": [
+      "công việc",
+      "ký túc xá",
+      "như thế nào, ra sao",
+      "núi, ngọn núi"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 16,
+    "question": "<b>いただきます</b>",
+    "options": [
+      "xin mời (nói khi bắt đầu ăn, uống gì đó)",
+      "à, cái đó thì… (nói khi tạm ngừng và suy nghĩ) vâng, vâng đúng rồi (nói khi đồng ý với ý kiến khác)",
+      "lần sau lại đến nhé",
+      "hoa Anh Đào"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 17,
+    "question": "<b>ここは　あまり（　）。</b>",
+    "options": [
+      "べんりじゃ　ありません",
+      "べんりです"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 18,
+    "question": "<b>A：これは　なんですか。<p>B：（　）は　どれです。</p></b>",
+    "options": [
+      "それ",
+      "これ",
+      "あれ",
+      "どれ"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 19,
+    "question": "<b>này!, chào! (dùng để chào bạn bè)</b>",
+    "options": [
+      "やあ",
+      "ところ",
+      "しけん",
+      "そうですね"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 20,
+    "question": "<b>にほんの　たべものは（　）おいしいです。</b>",
+    "options": [
+      "たかいです。そして",
+      "たかいですが、"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 21,
+    "question": "<b>シュミットさんは（　）<ruby>人<rp>（</rp><rt>ひと</rt><rp>）</rp></ruby>ですか。…すてきな<ruby>人<rp>（</rp><rt>ひと</rt><rp>）</rp></ruby>です。</b>",
+    "options": [
+      "どんな",
+      "どう"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 22,
+    "question": "<b>A：あなたの　へやは　きれいですか。<p>B：いいえ、（　）。</p></b>",
+    "options": [
+      "きれくないです",
+      "きれいじゃ　ありません"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 23,
+    "question": "<b>やまださんは　しんせつです。（　）おもしろいです。</b>",
+    "options": [
+      "そして",
+      "と"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 24,
+    "question": "<b>uống/dùng (cà phê) nhé/không?</b>",
+    "options": [
+      "コーヒーはいかがですか",
+      "いいえ、けっこうです",
+      "おしごと",
+      "やま"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 25,
+    "question": "<b>A：どうぞこちらへは　どこですか。<p>B：（　）です。</p></b>",
+    "options": [
+      "ここ",
+      "そこ",
+      "あそこ",
+      "どこ"
+    ],
+    "correctAnswer": 1
+  }
+]

@@ -1,0 +1,250 @@
+[
+  {
+    "id": 1,
+    "question": "<b>コピーします</b>",
+    "options": [
+      "コピーします",
+      "おつり",
+      "じゅうしょ",
+      "とめます"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 2,
+    "question": "<b>パスポートをもう<ruby>一度<rp>（</rp><rt>いちど</rt><rp>）</rp></ruby>（　）。</b>",
+    "options": [
+      "買ってください",
+      "見せてください"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 3,
+    "question": "<b>エアコンをつけましたから、<ruby>窓<rp>（</rp><rt>まど</rt><rp>）</rp></ruby>を（　）。</b>",
+    "options": [
+      "開けてください",
+      "閉めてください"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 4,
+    "question": "<b>A：これでおねがいしますは　どこですか。<p>B：（　）です。</p></b>",
+    "options": [
+      "ここ",
+      "そこ",
+      "あそこ",
+      "どこ"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 5,
+    "question": "<b>A：とりますは　どちらですか。<p>B：（　）です。</p></b>",
+    "options": [
+      "こちら",
+      "そちら",
+      "あちら",
+      "どちら"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 6,
+    "question": "<b><ruby>雨<rp>（</rp><rt>あめ</rt><rp>）</rp></ruby>（　）<ruby>降<rp>（</rp><rt>ふ</rt><rp>）</rp></ruby>っています。</b>",
+    "options": [
+      "が",
+      "を"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 7,
+    "question": "<b>A：かきかたは　どこですか。<p>B：（　）です。</p></b>",
+    "options": [
+      "ここ",
+      "そこ",
+      "あそこ",
+      "どこ"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 8,
+    "question": "<b>なまえ</b>",
+    "options": [
+      "tên",
+      "cách nói",
+      "bản đồ",
+      "muối"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 9,
+    "question": "<b>ここに<ruby>住所<rp>（</rp><rt>じゅうしょ</rt><rp>）</rp></ruby>と<ruby>名前<rp>（</rp><rt>なまえ</rt><rp>）</rp></ruby>を（　）。</b>",
+    "options": [
+      "書いてください",
+      "読いでください"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 10,
+    "question": "<b>cầm, nắm, mang</b>",
+    "options": [
+      "もちます",
+      "うめだ",
+      "あれ？",
+      "あめがふります"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 11,
+    "question": "<b>エアコンを（　）ください。</b>",
+    "options": [
+      "つけて",
+      "あけて"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 12,
+    "question": "<b>A：これは　なんですか。<p>B：（　）は　ちずです。</p></b>",
+    "options": [
+      "それ",
+      "これ",
+      "あれ",
+      "どれ"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 13,
+    "question": "<b>đóng (cửa)</b>",
+    "options": [
+      "しめます",
+      "かきかた",
+      "まがります",
+      "はじめます"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 14,
+    "question": "<b>ngừng, dừng lại, đỗ (xe)</b>",
+    "options": [
+      "とめます",
+      "おぼえます",
+      "しお",
+      "またきます"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 15,
+    "question": "<b>tôi sẽ lại đến</b>",
+    "options": [
+      "またきます",
+      "とめます",
+      "はなしかた",
+      "かきかた"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 16,
+    "question": "<b>cách viết</b>",
+    "options": [
+      "かきかた",
+      "よびます",
+      "いいます",
+      "あれ？"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 17,
+    "question": "<b>mong anh giúp cho như thế nhé</b>",
+    "options": [
+      "これでおねがいします",
+      "「どうも」すみません",
+      "またきます",
+      "つけます"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 18,
+    "question": "<b><ruby>事務<rp>（</rp><rt>じむ</rt><rp>）</rp></ruby><ruby>所<rp>（</rp><rt>しょ</rt><rp>）</rp></ruby>へ（　）ください。</b>",
+    "options": [
+      "きて",
+      "きいて"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 19,
+    "question": "<b>すみませんが、パソコンの<ruby>使<rp>（</rp><rt>つか</rt><rp>）</rp></ruby>い<ruby>方<rp>（</rp><rt>かた</rt><rp>）</rp></ruby>を（　）。</b>",
+    "options": [
+      "習ってください",
+      "教えてください"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 20,
+    "question": "<b>kể, bảo, nói chuyện</b>",
+    "options": [
+      "はなします",
+      "ちず",
+      "つけます",
+      "けします"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 21,
+    "question": "<b>右へ曲がります</b>",
+    "options": [
+      "みぎへまがります",
+      "ことば",
+      "うめだ",
+      "まがります"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 22,
+    "question": "<b>A：もちますは　どちらですか。<p>B：（　）です。</p></b>",
+    "options": [
+      "こちら",
+      "そちら",
+      "あちら",
+      "どちら"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 23,
+    "question": "<b><ruby>窓<rp>（</rp><rt>まど</rt><rp>）</rp></ruby>を（　）ください。</b>",
+    "options": [
+      "けして",
+      "しめて"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 24,
+    "question": "<b>「どうも」すみません</b>",
+    "options": [
+      "[rất] xin lỗi",
+      "máy chữ",
+      "vội vàng, nhanh",
+      "được đấy. tất nhiên rồi (sử dụng khi cổ vũ, khích lệ một hành động nào đó)"
+    ],
+    "correctAnswer": 0
+  }
+]

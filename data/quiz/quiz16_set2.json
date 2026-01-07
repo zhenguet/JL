@@ -1,0 +1,250 @@
+[
+  {
+    "id": 1,
+    "question": "<b>かお</b>",
+    "options": [
+      "mặt",
+      "tóc",
+      "tai",
+      "vào đại học"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 2,
+    "question": "<b><ruby>山田<rp>（</rp><rt>やまだ</rt><rp>）</rp></ruby>さんは（　）<ruby>親切<rp>（</rp><rt>しんせつ</rt><rp>）</rp></ruby>です。</b>",
+    "options": [
+      "きれいで",
+      "きれくて"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 3,
+    "question": "<b>A：ては　どちらですか。<p>B：（　）です。</p></b>",
+    "options": [
+      "こちら",
+      "そちら",
+      "あちら",
+      "どちら"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 4,
+    "question": "<b>シャワーを（　）います。</b>",
+    "options": [
+      "浴んで",
+      "浴びて"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 5,
+    "question": "<b>かみ</b>",
+    "options": [
+      "tóc",
+      "màu xanh lá cây",
+      "Franken (Đức)",
+      "Bandung (Indonesia)"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 6,
+    "question": "<b>わたしは<ruby>大学<rp>（</rp><rt>だいがく</rt><rp>）</rp></ruby>を（　）、すぐ<ruby>日本<rp>（</rp><rt>にほん</rt><rp>）</rp></ruby>へ<ruby>来<rp>（</rp><rt>き</rt><rp>）</rp></ruby>ます。</b>",
+    "options": [
+      "出して",
+      "出て"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 7,
+    "question": "<b><ruby>会社<rp>（</rp><rt>かいしゃ</rt><rp>）</rp></ruby>（　）やめます。</b>",
+    "options": [
+      "から",
+      "を"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 8,
+    "question": "<b>じんじゃ</b>",
+    "options": [
+      "đền",
+      "dịch vụ",
+      "bụng",
+      "miệng"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 9,
+    "question": "<b>A：あらいますは　どこですか。<p>B：（　）です。</p></b>",
+    "options": [
+      "ここ",
+      "そこ",
+      "あそこ",
+      "どこ"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 10,
+    "question": "<b>このパソコンは（　）<ruby>便利<rp>（</rp><rt>べんり</rt><rp>）</rp></ruby>です。</b>",
+    "options": [
+      "軽いで",
+      "軽くて"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 11,
+    "question": "<b>くち</b>",
+    "options": [
+      "miệng",
+      "ấn, đẩy",
+      "Asia/Châu Á",
+      "Huế"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 12,
+    "question": "<b><ruby>電車<rp>（</rp><rt>でんしゃ</rt><rp>）</rp></ruby>を（　）ください。</b>",
+    "options": [
+      "降りて",
+      "降って"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 13,
+    "question": "<b>~ nào</b>",
+    "options": [
+      "どの",
+      "あらいます",
+      "おります",
+      "のりかえます"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 14,
+    "question": "<b>確認「～します」</b>",
+    "options": [
+      "かくにん「～します」",
+      "て",
+      "おります",
+      "みどり"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 15,
+    "question": "<b>A：これは　なんですか。<p>B：（　）は　のりますです。</p></b>",
+    "options": [
+      "それ",
+      "これ",
+      "あれ",
+      "どれ"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 16,
+    "question": "<b>A :　<ruby>山田<rp>（</rp><rt>やまだ</rt><rp>）</rp></ruby>さんは（　）<ruby>人<rp>（</rp><rt>ひと</rt><rp>）</rp></ruby>ですか。<p>B :　あの<ruby>髪<rp>（</rp><rt>かみ</rt><rp>）</rp></ruby>が<ruby>長<rp>（</rp><rt>なが</rt><rp>）</rp></ruby>い<ruby>人<rp>（</rp><rt>ひと</rt><rp>）</rp></ruby>です。</p></b>",
+    "options": [
+      "どの",
+      "どれ"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 17,
+    "question": "<b>lên, đi [tàu điện]</b>",
+    "options": [
+      "のります",
+      "フエ",
+      "ハンバーグ",
+      "～ばん"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 18,
+    "question": "<b>A　:　<ruby>東京駅<rp>（</rp><rt>とうきょうえき</rt><rp>）</rp></ruby>まで（　）<ruby>行<rp>（</rp><rt>い</rt><rp>）</rp></ruby>きますか。<p>B　:　JRに<ruby>乗<rp>（</rp><rt>の</rt><rp>）</rp></ruby>ってください。</p></b>",
+    "options": [
+      "どうやって",
+      "どうして"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 19,
+    "question": "<b>A：シャワーは　どちらですか。<p>B：（　）です。</p></b>",
+    "options": [
+      "こちら",
+      "そちら",
+      "あちら",
+      "どちら"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 20,
+    "question": "<b>大学を出ます</b>",
+    "options": [
+      "だいがくをでます",
+      "おります",
+      "フエ",
+      "はいります"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 21,
+    "question": "<b>A：おなかは　どこですか。<p>B：（　）です。</p></b>",
+    "options": [
+      "ここ",
+      "そこ",
+      "あそこ",
+      "どこ"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 22,
+    "question": "<b>なんにしますか</b>",
+    "options": [
+      "bạn muốn (ăn, uống) gì?",
+      "du học sinh",
+      "bụng",
+      "làm thế nào"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 23,
+    "question": "<b>あし</b>",
+    "options": [
+      "chân",
+      "chùa",
+      "Franken (Đức)",
+      "thôi việc"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 24,
+    "question": "<b>金額</b>",
+    "options": [
+      "きんがく",
+      "はな",
+      "め",
+      "あるきます"
+    ],
+    "correctAnswer": 0
+  }
+]

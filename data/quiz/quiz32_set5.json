@@ -1,0 +1,250 @@
+[
+  {
+    "id": 1,
+    "question": "<b>アレルギー</b>",
+    "options": [
+      "Dị ứng",
+      "Tiếp tục",
+      "Ra",
+      "Họng"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 2,
+    "question": "<b><ruby>毎日<rp>（</rp><rt>まいにち</rt><rp>）</rp></ruby>（　）ほうがいいです。</b>",
+    "options": [
+      "運動した",
+      "運動の"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 3,
+    "question": "<b><ruby>今週<rp>（</rp><rt>こんしゅう</rt><rp>）</rp></ruby>の<ruby>土曜日<rp>（</rp><rt>どようび</rt><rp>）</rp></ruby>は<ruby>休<rp>（</rp><rt>やす</rt><rp>）</rp></ruby>めますか。<p>…<ruby>忙<rp>（</rp><rt>いそが</rt><rp>）</rp></ruby>しいですから、たぶん（　）でしょう。</p></b>",
+    "options": [
+      "休めない",
+      "休め"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 4,
+    "question": "<b><ruby>山田<rp>（</rp><rt>やまだ</rt><rp>）</rp></ruby>さんはまだ<ruby>来<rp>（</rp><rt>き</rt><rp>）</rp></ruby>ていないんですか。<p>…もう9<ruby>時<rp>（</rp><rt>じ</rt><rp>）</rp></ruby>ですから、もうすぐ（　）でしょう。</p></b>",
+    "options": [
+      "来て",
+      "来る"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 5,
+    "question": "<b>インフルエンザ</b>",
+    "options": [
+      "インフルエンザ",
+      "はれます",
+      "けが",
+      "おだいじに"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 6,
+    "question": "<b>ストレス</b>",
+    "options": [
+      "Stress",
+      "Làm",
+      "Trúng",
+      "Sao"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 7,
+    "question": "<b>Dừng, nghỉ</b>",
+    "options": [
+      "やみます",
+      "むりをします",
+      "はかります",
+      "い"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 8,
+    "question": "<b>けが</b>",
+    "options": [
+      "Vết thương",
+      "Ra",
+      "Mặt trời",
+      "Thế thì không ổn rồi"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 9,
+    "question": "<b>たいよう</b>",
+    "options": [
+      "Mặt trời",
+      "Dừng, nghỉ",
+      "Vào",
+      "Đội"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 10,
+    "question": "<b>ずっと<ruby>暑<rp>（</rp><rt>あつ</rt><rp>）</rp></ruby>い<ruby>日<rp>（</rp><rt>ひ</rt><rp>）</rp></ruby>が<ruby>続<rp>（</rp><rt>つづ</rt><rp>）</rp></ruby>いていますね。<p>…そうですね。しばらく<ruby>暑<rp>（</rp><rt>あつ</rt><rp>）</rp></ruby>い<ruby>日<rp>（</rp><rt>ひ</rt><rp>）</rp></ruby>が（　）かもしれませんよ。</p></b>",
+    "options": [
+      "続く",
+      "続かない"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 11,
+    "question": "<b>A：これは　なんですか。<p>B：（　）は　ごうかくです。</p></b>",
+    "options": [
+      "それ",
+      "これ",
+      "あれ",
+      "どれ"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 12,
+    "question": "<b>わたしはあしたも<ruby>学校<rp>（</rp><rt>がっこう</rt><rp>）</rp></ruby>に（　）。</b>",
+    "options": [
+      "来ます",
+      "来るでしょう"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 13,
+    "question": "<b>Làm quá sức</b>",
+    "options": [
+      "むりをします",
+      "オリンピック",
+      "もどります",
+      "たいよう"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 14,
+    "question": "<b>今夜</b>",
+    "options": [
+      "こんや",
+      "ねつ",
+      "ゆっくりします",
+      "ストレス"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 15,
+    "question": "<b>その<ruby>牛乳<rp>（</rp><rt>ぎゅうにゅう</rt><rp>）</rp></ruby>はちょっと<ruby>古<rp>（</rp><rt>ふる</rt><rp>）</rp></ruby>いですから、（　）ほうがいいですよ。</b>",
+    "options": [
+      "飲んだ",
+      "飲まない"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 16,
+    "question": "<b>ゆっくりします</b>",
+    "options": [
+      "ゆっくりします",
+      "さがります",
+      "つけます",
+      "すいどう"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 17,
+    "question": "<b><ruby>熱<rp>（</rp><rt>ねつ</rt><rp>）</rp></ruby>があるときは、<ruby>運動<rp>（</rp><rt>うんどう</rt><rp>）</rp></ruby>は（　）ほうがいいですよ。</b>",
+    "options": [
+      "した",
+      "しない"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 18,
+    "question": "<b>A：やみますは　どちらですか。<p>B：（　）です。</p></b>",
+    "options": [
+      "こちら",
+      "そちら",
+      "あちら",
+      "どちら"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 19,
+    "question": "<b>Thành công</b>",
+    "options": [
+      "せいこう",
+      "かぜ",
+      "ふきます",
+      "つづきます"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 20,
+    "question": "<b>A：あたりますは　どこですか。<p>B：（　）です。</p></b>",
+    "options": [
+      "ここ",
+      "そこ",
+      "あそこ",
+      "どこ"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 21,
+    "question": "<b>A：はれますは　どこですか。<p>B：（　）です。</p></b>",
+    "options": [
+      "ここ",
+      "そこ",
+      "あそこ",
+      "どこ"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 22,
+    "question": "<b>A：よこになってくださいは　どちらですか。<p>B：（　）です。</p></b>",
+    "options": [
+      "こちら",
+      "そちら",
+      "あちら",
+      "どちら"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 23,
+    "question": "<b>もしかしたら、<ruby>会社<rp>（</rp><rt>かいしゃ</rt><rp>）</rp></ruby>を（　）かもしれません。<p>…やめて、<ruby>何<rp>（</rp><rt>なに</rt><rp>）</rp></ruby>をするんですか。</p></b>",
+    "options": [
+      "やめて",
+      "やめる"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 24,
+    "question": "<b>Tiếp tục</b>",
+    "options": [
+      "つづきます",
+      "つけます",
+      "オリンピック",
+      "うんどう"
+    ],
+    "correctAnswer": 0
+  }
+]

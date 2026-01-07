@@ -1,0 +1,239 @@
+[
+  {
+    "id": 1,
+    "question": "<b>ここを（　）、ふたが<ruby>開<rp>（</rp><rt>ひら</rt><rp>）</rp></ruby>きます。</b>",
+    "options": [
+      "押せば",
+      "押す"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 2,
+    "question": "<b><ruby>許可<rp>（</rp><rt>きょか</rt><rp>）</rp></ruby>を（　）、ここには<ruby>入<rp>（</rp><rt>はい</rt><rp>）</rp></ruby>れません。</b>",
+    "options": [
+      "もらわなけば",
+      "もらわなければ"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 3,
+    "question": "<b>せつび</b>",
+    "options": [
+      "Thiết bị",
+      "Sân thượng",
+      "Nhặt",
+      "Dấu tròn"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 4,
+    "question": "<b>Đèn flash, đèn nháy</b>",
+    "options": [
+      "フラッシュ",
+      "おねがいできませんか",
+      "いや",
+      "ひろいます"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 5,
+    "question": "<b>でんち</b>",
+    "options": [
+      "Pin",
+      "Không phải",
+      "Phương pháp",
+      "Kèm theo"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 6,
+    "question": "<b><ruby>電池<rp>（</rp><rt>でんち</rt><rp>）</rp></ruby>を（　）<ruby>使<rp>（</rp><rt>つか</rt><rp>）</rp></ruby>えます。</b>",
+    "options": [
+      "換えれば",
+      "換えなければ"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 7,
+    "question": "<b>A：これは　なんですか。<p>B：（　）は　よやくです。</p></b>",
+    "options": [
+      "それ",
+      "これ",
+      "あれ",
+      "どれ"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 8,
+    "question": "<b>（　）、<ruby>相談<rp>（</rp><rt>そうだん</rt><rp>）</rp></ruby>に<ruby>来<rp>（</rp><rt>き</rt><rp>）</rp></ruby>てください。</b>",
+    "options": [
+      "困ったら",
+      "困ると"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 9,
+    "question": "<b>パソコン</b>",
+    "options": [
+      "Máy tính cá nhân",
+      "Kết thúc ở đây",
+      "Lá cây",
+      "Quả nắm"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 10,
+    "question": "<b><ruby>来週<rp>（</rp><rt>らいしゅう</rt><rp>）</rp></ruby><ruby>広島<rp>（</rp><rt>ひろしま</rt><rp>）</rp></ruby>へ<ruby>出張<rp>（</rp><rt>しゅっちょう</rt><rp>）</rp></ruby>しますから、<ruby>広島<rp>（</rp><rt>ひろしま</rt><rp>）</rp></ruby>へ（　）<ruby>友達<rp>（</rp><rt>ともだち</rt><rp>）</rp></ruby>に<ruby>会<rp>（</rp><rt>あ</rt><rp>）</rp></ruby>いたいです。</b>",
+    "options": [
+      "行けば",
+      "行ったら"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 11,
+    "question": "<b>Kết thúc ở đây</b>",
+    "options": [
+      "おわります",
+      "たのしみ",
+      "きかい",
+      "カーテン"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 12,
+    "question": "<b>Sân thượng</b>",
+    "options": [
+      "おくじょう",
+      "つけます",
+      "きかい",
+      "やこうバス"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 13,
+    "question": "<b>A：せつびは　どこですか。<p>B：（　）です。</p></b>",
+    "options": [
+      "ここ",
+      "そこ",
+      "あそこ",
+      "どこ"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 14,
+    "question": "<b>A：つきますは　どちらですか。<p>B：（　）です。</p></b>",
+    "options": [
+      "こちら",
+      "そちら",
+      "あちら",
+      "どちら"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 15,
+    "question": "<b><ruby>時間<rp>（</rp><rt>じかん</rt><rp>）</rp></ruby>が（　）、タクシーで<ruby>行<rp>（</rp><rt>い</rt><rp>）</rp></ruby>きます。</b>",
+    "options": [
+      "なると",
+      "なかったら"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 16,
+    "question": "<b>リモコン</b>",
+    "options": [
+      "Bộ điều khiển từ xa",
+      "Đảo",
+      "Có thể [giao hàng tận nhà] được không?",
+      "Phía bên kia"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 17,
+    "question": "<b>どこで<ruby>写真<rp>（</rp><rt>しゃしん</rt><rp>）</rp></ruby>を（　）いいですか。</b>",
+    "options": [
+      "撮れば",
+      "撮れれば"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 18,
+    "question": "<b>A：でんちは　どちらですか。<p>B：（　）です。</p></b>",
+    "options": [
+      "こちら",
+      "そちら",
+      "あちら",
+      "どちら"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 19,
+    "question": "<b>みなと</b>",
+    "options": [
+      "Cảng",
+      "Máy tính cá nhân",
+      "Khó khăn",
+      "~ trở lên, hơn~"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 20,
+    "question": "<b>A：そうさは　どこですか。<p>B：（　）です。</p></b>",
+    "options": [
+      "ここ",
+      "そこ",
+      "あそこ",
+      "どこ"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 21,
+    "question": "<b>Kiểu mẫu</b>",
+    "options": [
+      "タイプ",
+      "きょか",
+      "よやく",
+      "きかい"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 22,
+    "question": "<b>は</b>",
+    "options": [
+      "Lá cây",
+      "Sân thượng",
+      "Nở",
+      "Có thể [giao hàng tận nhà] được không?"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 23,
+    "question": "<b>（　）、デパートはそんなに<ruby>込<rp>（</rp><rt>こ</rt><rp>）</rp></ruby>んでいないと<ruby>思<rp>（</rp><rt>おも</rt><rp>）</rp></ruby>いますよ。</b>",
+    "options": [
+      "普通の日なら",
+      "普通の日なければ"
+    ],
+    "correctAnswer": 0
+  }
+]

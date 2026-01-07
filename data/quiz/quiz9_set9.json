@@ -1,0 +1,250 @@
+[
+  {
+    "id": 1,
+    "question": "<b>あります</b>",
+    "options": [
+      "có (nói về sự sở hữu)",
+      "vì ~, bởi ~",
+      "chữ cái",
+      "đàn ghita"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 2,
+    "question": "<b>おなか</b>",
+    "options": [
+      "bụng",
+      "nghỉ làm (không đến công ty làm việc)",
+      "chữ Katakana",
+      "chơi ghita (động từ)"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 3,
+    "question": "<b>thuốc</b>",
+    "options": [
+      "くすり",
+      "かんじ",
+      "ぎゅうにく",
+      "もしもし"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 4,
+    "question": "<b>あしたいっしょに<ruby>花見<rp>（</rp><rt>はなみ</rt><rp>）</rp></ruby>（　）しませんか。<p>…すみません。あした<ruby>友達<rp>（</rp><rt>ともだち</rt><rp>）</rp></ruby>（　）<ruby>約束<rp>（</rp><rt>やくそく</rt><rp>）</rp></ruby>（　）ありますから。</p></b>",
+    "options": [
+      "が、を、と",
+      "を、と、が"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 5,
+    "question": "<b>分かります</b>",
+    "options": [
+      "わかります",
+      "こまかいおかね",
+      "かぜをひきます",
+      "ねつがあります"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 6,
+    "question": "<b>A：やすみますは　どちらですか。<p>B：（　）です。</p></b>",
+    "options": [
+      "こちら",
+      "そちら",
+      "あちら",
+      "どちら"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 7,
+    "question": "<b>きょうは　しゅくだいが（　）あります。</b>",
+    "options": [
+      "だいたい",
+      "たくさん"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 8,
+    "question": "<b>かぜをひきます</b>",
+    "options": [
+      "bị cảm",
+      "bụng",
+      "oh!",
+      "nghỉ làm (không đến công ty làm việc)"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 9,
+    "question": "<b>ひらがなが（　）わかります。</b>",
+    "options": [
+      "よく",
+      "ぜんぜん"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 10,
+    "question": "<b>おざわせいじ</b>",
+    "options": [
+      "Nhạc sĩ, chỉ huy dàn nhạc giao hưởng nổi tiếng người Nhật - Ozawa Seiji (1935 - )",
+      "chuối",
+      "chữ cái",
+      "vì sao, tại sao (từ để hỏi)"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 11,
+    "question": "<b>xin lỗi, cho tôi hỏi (dùng khi bắt đầu câu chuyện)</b>",
+    "options": [
+      "すみませんが",
+      "あります",
+      "おなか",
+      "あたまがいたいです"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 12,
+    "question": "<b>ひらがな（　）わかりますか。<p>                …はい、だいたい（　）わかります。</p></b>",
+    "options": [
+      "X,が",
+      "が、X"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 13,
+    "question": "<b>～から</b>",
+    "options": [
+      "vì ~, bởi ~",
+      "chữ Katakana",
+      "đàn ghita",
+      "bị sốt"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 14,
+    "question": "<b>あの<ruby>図書館<rp>（</rp><rt>としょかん</rt><rp>）</rp></ruby>に<ruby>英語<rp>（</rp><rt>えいご</rt><rp>）</rp></ruby>の<ruby>本<rp>（</rp><rt>ほん</rt><rp>）</rp></ruby>が（　）あります。</b>",
+    "options": [
+      "たくさん",
+      "ぜんぜん"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 15,
+    "question": "<b>こまかいおかね</b>",
+    "options": [
+      "tiền lẻ",
+      "chuối",
+      "bụng",
+      "chữ Katakana"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 16,
+    "question": "<b>A：チケットは　どこですか。<p>B：（　）です。</p></b>",
+    "options": [
+      "ここ",
+      "そこ",
+      "あそこ",
+      "どこ"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 17,
+    "question": "<b>A：またこんどおねがいしますは　どちらですか。<p>B：（　）です。</p></b>",
+    "options": [
+      "こちら",
+      "そちら",
+      "あちら",
+      "どちら"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 18,
+    "question": "<b>A：すみませんがは　どこですか。<p>B：（　）です。</p></b>",
+    "options": [
+      "ここ",
+      "そこ",
+      "あそこ",
+      "どこ"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 19,
+    "question": "<b>やさいが　きらいです（　）たべません。</b>",
+    "options": [
+      "が、",
+      "から、"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 20,
+    "question": "<b>バナナ</b>",
+    "options": [
+      "chuối",
+      "chữ La tinh",
+      "đàn ghita",
+      "hòa nhạc"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 21,
+    "question": "<b><ruby>松本<rp>（</rp><rt>まつもと</rt><rp>）</rp></ruby>さんの<ruby>奥<rp>（</rp><rt>おく</rt><rp>）</rp></ruby>さん（　）<ruby>料理<rp>（</rp><rt>りょうり</rt><rp>）</rp></ruby>（　）<ruby>上手<rp>（</rp><rt>じょうず</rt><rp>）</rp></ruby>です。</b>",
+    "options": [
+      "は、が",
+      "は、に"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 22,
+    "question": "<b><ruby>日本語<rp>（</rp><rt>にほんご</rt><rp>）</rp></ruby>の<ruby>勉強<rp>（</rp><rt>べんきょう</rt><rp>）</rp></ruby>は（　）ですか。…<ruby>難<rp>（</rp><rt>むずか</rt><rp>）</rp></ruby>しいですが、おもしろいです。</b>",
+    "options": [
+      "どんな",
+      "どう"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 23,
+    "question": "<b>時間</b>",
+    "options": [
+      "じかん",
+      "え",
+      "みかん",
+      "あたまがいたいです"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 24,
+    "question": "<b>A：これは　なんですか。<p>B：（　）は　かいしゃをやすみますです。</p></b>",
+    "options": [
+      "それ",
+      "これ",
+      "あれ",
+      "どれ"
+    ],
+    "correctAnswer": 1
+  }
+]

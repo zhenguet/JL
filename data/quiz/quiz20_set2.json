@@ -1,0 +1,261 @@
+[
+  {
+    "id": 1,
+    "question": "<b>この<ruby>人<rp>（</rp><rt>ひと</rt><rp>）</rp></ruby>は<ruby>去年<rp>（</rp><rt>きょねん</rt><rp>）</rp></ruby>の<ruby>夏<rp>（</rp><rt>なつ</rt><rp>）</rp></ruby>、<ruby>山<rp>（</rp><rt>やま</rt><rp>）</rp></ruby>や<ruby>海<rp>（</rp><rt>うみ</rt><rp>）</rp></ruby>へ<ruby>行<rp>（</rp><rt>い</rt><rp>）</rp></ruby>きましたか。…（　）。</b>",
+    "options": [
+      "いいえ、好きです",
+      "いいえ、行きませんでした"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 2,
+    "question": "<b>A：これは　なんですか。<p>B：（　）は　いりますです。</p></b>",
+    "options": [
+      "それ",
+      "これ",
+      "あれ",
+      "どれ"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 3,
+    "question": "<b>gọi điện thoại</b>",
+    "options": [
+      "でんわします",
+      "ことば",
+      "こっち",
+      "どうするの？"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 4,
+    "question": "<b>～けど</b>",
+    "options": [
+      "nhưng (dạng thông thường của \"ga\")",
+      "kimono (trang phục truyền thống của Nhật Bản)",
+      "chỗ, địa điểm",
+      "không (cách nói tự nhiên, thân mật của \"iie\")"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 5,
+    "question": "<b>辞書が要ります</b>",
+    "options": [
+      "じしょがいります",
+      "ことば",
+      "サラリーマン",
+      "～くん"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 6,
+    "question": "<b>きみ</b>",
+    "options": [
+      "cậu (thay cho \"anata\", đàn ông gọi bạn một cách tự nhiên và thân mật)",
+      "mình, tớ (từ thay cho \"watashi\", đàn ông tự xưng một cách tự nhiên trong không khí thân mật với nhau)",
+      "cần, cần có [từ điển]",
+      "đầu tiên, lúc đầu"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 7,
+    "question": "<b>ううん</b>",
+    "options": [
+      "không (cách nói tự nhiên, thân mật của \"iie\")",
+      "cậu (thay cho \"anata\", đàn ông gọi bạn một cách tự nhiên và thân mật)",
+      "nhân viên công ty, cán bộ, người làm công ăn lương",
+      "mình sẽ thế nào à?"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 8,
+    "question": "<b><ruby>山田<rp>（</rp><rt>やまだ</rt><rp>）</rp></ruby>さんに<ruby>会<rp>（</rp><rt>あ</rt><rp>）</rp></ruby>った？…ううん、（　）。</b>",
+    "options": [
+      "会わなかった",
+      "会った"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 9,
+    "question": "<b>よかったら</b>",
+    "options": [
+      "nếu bạn thích, nếu được, nếu ổn",
+      "nhân viên công ty, cán bộ, người làm công ăn lương",
+      "đằng này (cách nói tự nhiên, thân mật của \"kochira\")",
+      "mình, tớ (từ thay cho \"watashi\", đàn ông tự xưng một cách tự nhiên trong không khí thân mật với nhau)"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 10,
+    "question": "<b>この<ruby>人<rp>（</rp><rt>ひと</rt><rp>）</rp></ruby>は<ruby>男<rp>（</rp><rt>おとこ</rt><rp>）</rp></ruby>の<ruby>人<rp>（</rp><rt>ひと</rt><rp>）</rp></ruby>ですか、<ruby>女<rp>（</rp><rt>おんな</rt><rp>）</rp></ruby>の<ruby>人<rp>（</rp><rt>ひと</rt><rp>）</rp></ruby>ですか。…（　）。</b>",
+    "options": [
+      "男の人です",
+      "はい、その人です"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 11,
+    "question": "<b><ruby>今<rp>（</rp><rt>いま</rt><rp>）</rp></ruby><ruby>何<rp>（</rp><rt>なに</rt><rp>）</rp></ruby>が<ruby>欲<rp>（</rp><rt>ほ</rt><rp>）</rp></ruby>しい？…<ruby>何<rp>（</rp><rt>なに</rt><rp>）</rp></ruby>も（　）。</b>",
+    "options": [
+      "欲しい",
+      "欲しくない"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 12,
+    "question": "<b>A：でんわしますは　どちらですか。<p>B：（　）です。</p></b>",
+    "options": [
+      "こちら",
+      "そちら",
+      "あちら",
+      "どちら"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 13,
+    "question": "<b>くにへかえるの？</b>",
+    "options": [
+      "bạn về nước à?",
+      "chỗ, địa điểm",
+      "giá cả, vật giá",
+      "cần, cần có [từ điển]"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 14,
+    "question": "<b>A：でんわしますは　どちらですか。<p>B：（　）です。</p></b>",
+    "options": [
+      "こちら",
+      "そちら",
+      "あちら",
+      "どちら"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 15,
+    "question": "<b>A：ビザは　どこですか。<p>B：（　）です。</p></b>",
+    "options": [
+      "ここ",
+      "そこ",
+      "あそこ",
+      "どこ"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 16,
+    "question": "<b>ừ (cách nói tự nhiên, thân mật của \"hai\")</b>",
+    "options": [
+      "うん",
+      "まっているよ",
+      "～くん",
+      "どうしようかな"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 17,
+    "question": "<b>場所</b>",
+    "options": [
+      "ばしょ",
+      "どっち",
+      "ううん",
+      "こっち"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 18,
+    "question": "<b>しらべます</b>",
+    "options": [
+      "nghiên cứu, kiểm tra, điều tra",
+      "bạn về nước à?",
+      "em~, cậu ~ (từ thay cho \"san\", dùng chỉ với đàn ông trong không khí tự nhiên thân mật)",
+      "gọi điện thoại"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 19,
+    "question": "<b>visa, hộ chiếu</b>",
+    "options": [
+      "ビザ",
+      "しらべます",
+      "ばしょ",
+      "どうしようかな"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 20,
+    "question": "<b>A：ビザは　どこですか。<p>B：（　）です。</p></b>",
+    "options": [
+      "ここ",
+      "そこ",
+      "あそこ",
+      "どこ"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 21,
+    "question": "<b>đằng này (cách nói tự nhiên, thân mật của \"kochira\")</b>",
+    "options": [
+      "こっち",
+      "おわり",
+      "あっち",
+      "ばしょ"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 22,
+    "question": "<b>この<ruby>人<rp>（</rp><rt>ひと</rt><rp>）</rp></ruby>は<ruby>夏<rp>（</rp><rt>なつ</rt><rp>）</rp></ruby>が<ruby>好<rp>（</rp><rt>す</rt><rp>）</rp></ruby>きですか。…（　）。</b>",
+    "options": [
+      "いいえ、好きです",
+      "はい、好きです"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 23,
+    "question": "<b>もうホテルの<ruby>予約<rp>（</rp><rt>よやく</rt><rp>）</rp></ruby>をしましたか。…（　）。</b>",
+    "options": [
+      "はい、もうしました",
+      "はい、あしたです"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 24,
+    "question": "<b>ビザが（　）…ううん、<ruby>要<rp>（</rp><rt>い</rt><rp>）</rp></ruby>らない。</b>",
+    "options": [
+      "要る？",
+      "要らない？"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 25,
+    "question": "<b>パスポートを<ruby>持<rp>（</rp><rt>も</rt><rp>）</rp></ruby>って<ruby>行<rp>（</rp><rt>い</rt><rp>）</rp></ruby>かなければならない？<p>…ううん、（　）。</p></b>",
+    "options": [
+      "持っていかなくてもいい",
+      "持って行かなくてはいけない"
+    ],
+    "correctAnswer": 0
+  }
+]
