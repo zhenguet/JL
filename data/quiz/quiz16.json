@@ -111,7 +111,7 @@
     "id": 10,
     "question": "<b>ハンバーグ</b>",
     "options": [
-      "hamburger (thịt bò băm viên)",
+      "bít tết Hamburg / thịt bò băm viên (hamburg steak)",
       "lên, đi [tàu điện]",
       "màu xanh lá cây",
       "vào (trường)"
@@ -188,7 +188,7 @@
       "thân thể",
       "ấn, đẩy"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "difficulty": 1
   },
   {
@@ -248,7 +248,7 @@
       "chùa",
       "thôi việc"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "difficulty": 1
   },
   {
@@ -380,7 +380,7 @@
       "rửa, tắm rửa, giặt",
       "vào đại học"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "difficulty": 1
   },
   {
@@ -440,7 +440,7 @@
       "rửa, tắm rửa, giặt",
       "vào đại học"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "difficulty": 1
   },
   {
@@ -560,7 +560,7 @@
       "rửa, tắm rửa, giặt",
       "số tiền"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "difficulty": 1
   },
   {
