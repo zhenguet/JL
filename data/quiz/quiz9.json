@@ -1,22 +1,12 @@
 [
   {
-    "id": 1,
-    "question": "<b>テレビが<ruby>好<rp>（</rp><rt>す</rt><rp>）</rp></ruby>きじゃありませんから、（　）。</b>",
-    "options": [
-      "あまり見ません",
-      "漢字が分かりません"
-    ],
-    "correctAnswer": 1,
-    "difficulty": 2
-  },
-  {
     "id": 2,
     "question": "<b>A：どうして　テニスをしませんか。<p>B：（　）。</p></b>",
     "options": [
       "じかんが　ありませんから",
-      "じかんが　ありませんですから"
+      "テニスが　きらいですから"
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 0,
     "difficulty": 2
   },
   {
@@ -28,7 +18,7 @@
       "tiền lẻ",
       "xin lỗi, cho tôi hỏi (dùng khi bắt đầu câu chuyện)"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "difficulty": 1
   },
   {
@@ -52,7 +42,7 @@
       "クラシック",
       "スポーツをします"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "difficulty": 1
   },
   {
@@ -64,7 +54,7 @@
       "のみもの",
       "チケット"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "difficulty": 2
   },
   {
@@ -76,7 +66,7 @@
       "ひらがな",
       "カラオケ"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "difficulty": 1
   },
   {
@@ -88,7 +78,7 @@
       "くすり",
       "もしもし"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "difficulty": 1
   },
   {
@@ -100,7 +90,7 @@
       "みかん",
       "スポーツ"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "difficulty": 1
   },
   {
@@ -112,7 +102,7 @@
       "わかります",
       "スポーツ"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "difficulty": 1
   },
   {
@@ -158,7 +148,7 @@
       "vì ~, bởi ~",
       "đầu"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "difficulty": 1
   },
   {
@@ -170,7 +160,7 @@
       "じかん",
       "みかん"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "difficulty": 2
   },
   {
@@ -182,7 +172,7 @@
       "ねつがあります",
       "わかります"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "difficulty": 2
   },
   {
@@ -206,7 +196,7 @@
       "もしもし",
       "りょうり"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "difficulty": 1
   },
   {
@@ -219,16 +209,6 @@
       "どちら"
     ],
     "correctAnswer": 1,
-    "difficulty": 2
-  },
-  {
-    "id": 20,
-    "question": "<b>（　）から、ひらがなで<ruby>書<rp>（</rp><rt>か</rt><rp>）</rp></ruby>きます。</b>",
-    "options": [
-      "あまり食べません",
-      "漢字が分かりません"
-    ],
-    "correctAnswer": 0,
     "difficulty": 2
   },
   {
@@ -306,18 +286,8 @@
       "nhảy, khiêu vũ (động từ)",
       "thể thao"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "difficulty": 1
-  },
-  {
-    "id": 28,
-    "question": "<b><ruby>毎晩<rp>（</rp><rt>まいばん</rt><rp>）</rp></ruby>ワインを（　）<ruby>飲<rp>（</rp><rt>の</rt><rp>）</rp></ruby>みます。</b>",
-    "options": [
-      "すこし",
-      "だいたい"
-    ],
-    "correctAnswer": 0,
-    "difficulty": 3
   },
   {
     "id": 29,
@@ -364,7 +334,7 @@
       "みかん",
       "ローマじ"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "difficulty": 1
   },
   {
@@ -388,18 +358,8 @@
       "tiền lẻ",
       "đồ uống"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "difficulty": 1
-  },
-  {
-    "id": 35,
-    "question": "<b>（　）から、わたしは<ruby>今<rp>（</rp><rt>いま</rt><rp>）</rp></ruby>お<ruby>金<rp>（</rp><rt>かね</rt><rp>）</rp></ruby>がありません。</b>",
-    "options": [
-      "とても好きです",
-      "友達にお金を貸しました"
-    ],
-    "correctAnswer": 1,
-    "difficulty": 2
   },
   {
     "id": 36,
@@ -410,7 +370,7 @@
       "やきゅう",
       "チケット"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "difficulty": 2
   },
   {
@@ -422,7 +382,7 @@
       "みかん",
       "スポーツ"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "difficulty": 1
   },
   {
@@ -458,7 +418,7 @@
       "だめですか",
       "もしもし"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "difficulty": 1
   },
   {
@@ -470,7 +430,7 @@
       "thuốc",
       "thể thao"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "difficulty": 1
   },
   {
@@ -506,7 +466,7 @@
       "ざんねんですね",
       "じ"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "difficulty": 1
   },
   {
@@ -542,7 +502,7 @@
       "tiền lẻ",
       "xin lỗi, cho tôi hỏi (dùng khi bắt đầu câu chuyện)"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "difficulty": 1
   },
   {
@@ -590,7 +550,7 @@
       "nghỉ (không đến)",
       "âm nhạc"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "difficulty": 1
   },
   {
@@ -602,7 +562,7 @@
       "thuốc",
       "đồ uống"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "difficulty": 1
   },
   {
@@ -618,18 +578,6 @@
     "difficulty": 1
   },
   {
-    "id": 54,
-    "question": "<b>Việc bận, công chuyện</b>",
-    "options": [
-      "用事",
-      "用効",
-      "用社",
-      "社用"
-    ],
-    "correctAnswer": 1,
-    "difficulty": 1
-  },
-  {
     "id": 55,
     "question": "<b>A：これは　なんですか。<p>B：（　）は　ぎゅうにくです。</p></b>",
     "options": [
@@ -642,16 +590,6 @@
     "difficulty": 2
   },
   {
-    "id": 56,
-    "question": "<b>きのうのばん（　）<ruby>勉強<rp>（</rp><rt>べんきょう</rt><rp>）</rp></ruby>しませんでした。</b>",
-    "options": [
-      "ぜんぜん",
-      "よく"
-    ],
-    "correctAnswer": 1,
-    "difficulty": 3
-  },
-  {
     "id": 57,
     "question": "<b>vì ~, bởi ~</b>",
     "options": [
@@ -660,7 +598,7 @@
       "スポーツをします",
       "～から"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "difficulty": 1
   },
   {
@@ -672,7 +610,7 @@
       "カタカナ",
       "～から"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "difficulty": 1
   },
   {
@@ -708,7 +646,7 @@
       "おんがく",
       "ギター"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "difficulty": 1
   },
   {
@@ -720,7 +658,7 @@
       "ギターをひきます",
       "スポーツをします"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "difficulty": 1
   },
   {
@@ -732,7 +670,7 @@
       "ギターをひきます",
       "スポーツをします"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "difficulty": 2
   },
   {
@@ -756,7 +694,7 @@
       "thịt bò",
       "vì sao, tại sao (từ để hỏi)"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "difficulty": 1
   },
   {
@@ -768,7 +706,7 @@
       "thịt lợn",
       "tiếc nhỉ!, tiếc quá nhỉ!"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "difficulty": 1
   },
   {
@@ -782,18 +720,6 @@
     ],
     "correctAnswer": 0,
     "difficulty": 2
-  },
-  {
-    "id": 68,
-    "question": "<b>Hiểu</b>",
-    "options": [
-      "かえります",
-      "そだんします",
-      "のみます",
-      "わかります"
-    ],
-    "correctAnswer": 3,
-    "difficulty": 1
   },
   {
     "id": 69,
@@ -816,7 +742,7 @@
       "thấp",
       "ít"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "difficulty": 1
   },
   {
@@ -852,7 +778,7 @@
       "じょうず",
       "じょず"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "difficulty": 2
   },
   {
@@ -876,7 +802,7 @@
       "Phim ảnh",
       "Tranh, hội họa"
     ],
-    "correctAnswer": 2,
+    "correctAnswer": 3,
     "difficulty": 1
   },
   {
@@ -912,7 +838,7 @@
       "りょうり",
       "りょり"
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 2,
     "difficulty": 2
   },
   {
@@ -924,7 +850,7 @@
       "ダンスをします",
       "～から"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "difficulty": 1
   },
   {
@@ -936,7 +862,7 @@
       "nghỉ học",
       "quýt"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "difficulty": 1
   },
   {
@@ -948,7 +874,7 @@
       "みかん",
       "ギター"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "difficulty": 1
   },
   {
@@ -972,7 +898,7 @@
       "ひらがな",
       "スポーツ"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "difficulty": 2
   },
   {
@@ -996,7 +922,7 @@
       "りょうり",
       "ダンスをします"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "difficulty": 1
   },
   {
@@ -1007,18 +933,6 @@
       "thuốc",
       "thịt lợn",
       "tiền lẻ"
-    ],
-    "correctAnswer": 0,
-    "difficulty": 1
-  },
-  {
-    "id": 87,
-    "question": "<b>こども</b>",
-    "options": [
-      "Anh em",
-      "Chị em",
-      "Con cái",
-      "Vợ chồng"
     ],
     "correctAnswer": 2,
     "difficulty": 1
@@ -1044,18 +958,8 @@
       "nghỉ làm (không đến công ty làm việc)",
       "nhạc Jazz"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "difficulty": 1
-  },
-  {
-    "id": 90,
-    "question": "<b>（　）<ruby>映画<rp>（</rp><rt>えいが</rt><rp>）</rp></ruby>が<ruby>好<rp>（</rp><rt>す</rt><rp>）</rp></ruby>きですか。…<ruby>楽<rp>（</rp><rt>たの</rt><rp>）</rp></ruby>しい<ruby>映画<rp>（</rp><rt>えいが</rt><rp>）</rp></ruby>が<ruby>好<rp>（</rp><rt>す</rt><rp>）</rp></ruby>きです。</b>",
-    "options": [
-      "どこ",
-      "どんな"
-    ],
-    "correctAnswer": 0,
-    "difficulty": 3
   },
   {
     "id": 91,
@@ -1066,7 +970,7 @@
       "どうして",
       "のみもの"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "difficulty": 1
   },
   {
@@ -1078,7 +982,7 @@
       "やすみます",
       "コンサート"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "difficulty": 1
   },
   {
@@ -1102,7 +1006,7 @@
       "nhạc Jazz",
       "vì ~, bởi ~"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "difficulty": 1
   },
   {
@@ -1116,16 +1020,6 @@
     ],
     "correctAnswer": 0,
     "difficulty": 1
-  },
-  {
-    "id": 96,
-    "question": "<b><ruby>大<rp>（</rp><rt>おお</rt><rp>）</rp></ruby>きい<ruby>荷物<rp>（</rp><rt>にもつ</rt><rp>）</rp></ruby>がありますから、（　）。</b>",
-    "options": [
-      "スポーツが嫌いです",
-      "タクシーで行きます"
-    ],
-    "correctAnswer": 1,
-    "difficulty": 2
   },
   {
     "id": 97,
@@ -1170,7 +1064,7 @@
       "から、",
       "が、"
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 0,
     "difficulty": 1
   },
   {
@@ -1186,16 +1080,6 @@
     "difficulty": 2
   },
   {
-    "id": 102,
-    "question": "<b>ミラーさんはパソコン（　）ありません（　）、いつも（　）<ruby>佐藤<rp>（</rp><rt>さとう</rt><rp>）</rp></ruby>さん（　）<ruby>借<rp>（</rp><rt>か</rt><rp>）</rp></ruby>ります。</b>",
-    "options": [
-      "が、から、X,に／から",
-      "が、で、X、に／で"
-    ],
-    "correctAnswer": 1,
-    "difficulty": 2
-  },
-  {
     "id": 103,
     "question": "<b>bóng chày</b>",
     "options": [
@@ -1204,7 +1088,7 @@
       "ギター",
       "ダンス"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "difficulty": 1
   },
   {
@@ -1216,7 +1100,7 @@
       "ギター",
       "～はちょっと"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "difficulty": 1
   },
   {
@@ -1228,18 +1112,8 @@
       "てんき",
       "でんき"
     ],
-    "correctAnswer": 2,
+    "correctAnswer": 0,
     "difficulty": 2
-  },
-  {
-    "id": 106,
-    "question": "<b>きのうの<ruby>晩<rp>（</rp><rt>ばん</rt><rp>）</rp></ruby>は（　）<ruby>寝<rp>（</rp><rt>ね</rt><rp>）</rp></ruby>ました。</b>",
-    "options": [
-      "ぜんぜん",
-      "よく"
-    ],
-    "correctAnswer": 1,
-    "difficulty": 3
   },
   {
     "id": 107,
@@ -1250,7 +1124,7 @@
       "がっこうをやすみます",
       "またこんどおねがいします"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "difficulty": 2
   },
   {
@@ -1262,7 +1136,7 @@
       "Nhạc jazz",
       "Nhạc pop"
     ],
-    "correctAnswer": 2,
+    "correctAnswer": 1,
     "difficulty": 1
   },
   {
@@ -1298,7 +1172,7 @@
       "スポーツ",
       "ローマじ"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "difficulty": 2
   },
   {
@@ -1310,7 +1184,7 @@
       "nghỉ học",
       "nghỉ làm (không đến công ty làm việc)"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "difficulty": 1
   },
   {
@@ -1322,7 +1196,7 @@
       "nghỉ làm (không đến công ty làm việc)",
       "xin lỗi, cho tôi hỏi (dùng khi bắt đầu câu chuyện)"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "difficulty": 1
   },
   {
@@ -1358,7 +1232,7 @@
       "もしもし",
       "～から"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "difficulty": 2
   },
   {
@@ -1382,7 +1256,7 @@
       "ジャズ",
       "～はちょっと"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "difficulty": 2
   },
   {
@@ -1406,18 +1280,8 @@
       "なんですか",
       "みかん"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "difficulty": 1
-  },
-  {
-    "id": 121,
-    "question": "<b>サントスさんはきのう（　）<ruby>帰<rp>（</rp><rt>かえ</rt><rp>）</rp></ruby>りました。</b>",
-    "options": [
-      "よく",
-      "早く"
-    ],
-    "correctAnswer": 1,
-    "difficulty": 2
   },
   {
     "id": 122,
@@ -1428,7 +1292,7 @@
       "ぶたにく",
       "ローマじ"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "difficulty": 2
   },
   {
@@ -1456,16 +1320,6 @@
     "difficulty": 2
   },
   {
-    "id": 125,
-    "question": "<b><ruby>暑<rp>（</rp><rt>あつ</rt><rp>）</rp></ruby>いですから、（　）。</b>",
-    "options": [
-      "あまりよみません",
-      "冷たい飲み物を飲みます"
-    ],
-    "correctAnswer": 0,
-    "difficulty": 2
-  },
-  {
     "id": 126,
     "question": "<b>A：かいしゃをやすみますは　どちらですか。<p>B：（　）です。</p></b>",
     "options": [
@@ -1486,18 +1340,8 @@
       "vì ~, bởi ~",
       "đàn ghita"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "difficulty": 1
-  },
-  {
-    "id": 128,
-    "question": "<b>（　）<ruby>魚<rp>（</rp><rt>さかな</rt><rp>）</rp></ruby>を<ruby>食<rp>（</rp><rt>た</rt><rp>）</rp></ruby>べませんか。…<ruby>嫌<rp>（</rp><rt>きら</rt><rp>）</rp></ruby>いですから。</b>",
-    "options": [
-      "どうして",
-      "何"
-    ],
-    "correctAnswer": 0,
-    "difficulty": 2
   },
   {
     "id": 129,
@@ -1520,17 +1364,7 @@
       "thịt gà",
       "để lần khác nhé"
     ],
-    "correctAnswer": 0,
-    "difficulty": 1
-  },
-  {
-    "id": 131,
-    "question": "<b>わたしは　ビールが（　）。</b>",
-    "options": [
-      "すきくないです",
-      "すきじゃ　ありません"
-    ],
-    "correctAnswer": 1,
+    "correctAnswer": 2,
     "difficulty": 1
   },
   {
@@ -1554,17 +1388,7 @@
       "vì ~, bởi ~",
       "để lần khác nhé"
     ],
-    "correctAnswer": 0,
-    "difficulty": 1
-  },
-  {
-    "id": 134,
-    "question": "<b>にほんごが（　）じょうずじゃ　ありません。</b>",
-    "options": [
-      "あまり",
-      "すこし"
-    ],
-    "correctAnswer": 1,
+    "correctAnswer": 2,
     "difficulty": 1
   },
   {
@@ -1576,7 +1400,7 @@
       "ジャズ",
       "～から"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "difficulty": 1
   },
   {
@@ -1588,7 +1412,7 @@
       "ギター",
       "～から"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "difficulty": 1
   },
   {
@@ -1600,7 +1424,7 @@
       "みにくい",
       "みにぐい"
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 0,
     "difficulty": 2
   },
   {
@@ -1612,7 +1436,7 @@
       "vì ~, bởi ~",
       "đàn ghita"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "difficulty": 1
   },
   {
@@ -1622,17 +1446,17 @@
       "だいたい",
       "はやく"
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 0,
     "difficulty": 1
   },
   {
     "id": 140,
     "question": "<b>少し</b>",
     "options": [
-      "おおい",
-      "すこし",
       "たくさん",
-      "とおい"
+      "すこし",
+      "よく",
+      "だいたい"
     ],
     "correctAnswer": 1,
     "difficulty": 2
@@ -1650,16 +1474,6 @@
     "difficulty": 2
   },
   {
-    "id": 142,
-    "question": "<b><ruby>松本<rp>（</rp><rt>まつもと</rt><rp>）</rp></ruby>さんの<ruby>奥<rp>（</rp><rt>おく</rt><rp>）</rp></ruby>さん（　）<ruby>料理<rp>（</rp><rt>りょうり</rt><rp>）</rp></ruby>（　）<ruby>上手<rp>（</rp><rt>じょうず</rt><rp>）</rp></ruby>です。</b>",
-    "options": [
-      "は、が",
-      "は、に"
-    ],
-    "correctAnswer": 0,
-    "difficulty": 3
-  },
-  {
     "id": 143,
     "question": "<b>漢字</b>",
     "options": [
@@ -1668,7 +1482,7 @@
       "ロマーじ",
       "ローマじ"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "difficulty": 2
   },
   {
@@ -1680,18 +1494,8 @@
       "oh!",
       "đau đầu, nhức đầu"
     ],
-    "correctAnswer": 0,
-    "difficulty": 1
-  },
-  {
-    "id": 145,
-    "question": "<b>わたしは<ruby>音楽<rp>（</rp><rt>おんがく</rt><rp>）</rp></ruby>が<ruby>好<rp>（</rp><rt>す</rt><rp>）</rp></ruby>きですから、（　）。</b>",
-    "options": [
-      "CDがたくさんあります",
-      "冷たい飲み物を飲みます"
-    ],
     "correctAnswer": 1,
-    "difficulty": 2
+    "difficulty": 1
   },
   {
     "id": 146,
@@ -1702,7 +1506,7 @@
       "chữ Katakana",
       "tiền lẻ"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "difficulty": 1
   },
   {
@@ -1738,7 +1542,7 @@
       "クラシック",
       "ジャズ"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "difficulty": 1
   },
   {
@@ -1762,16 +1566,6 @@
       "nhạc Jazz",
       "tiền lẻ"
     ],
-    "correctAnswer": 0,
-    "difficulty": 1
-  },
-  {
-    "id": 152,
-    "question": "<b>きょうは　しゅくだいが（　）あります。</b>",
-    "options": [
-      "たくさん",
-      "だいたい"
-    ],
     "correctAnswer": 1,
     "difficulty": 1
   },
@@ -1788,16 +1582,6 @@
     "difficulty": 1
   },
   {
-    "id": 154,
-    "question": "<b>あしたいっしょに<ruby>花見<rp>（</rp><rt>はなみ</rt><rp>）</rp></ruby>（　）しませんか。<p>…すみません。あした<ruby>友達<rp>（</rp><rt>ともだち</rt><rp>）</rp></ruby>（　）<ruby>約束<rp>（</rp><rt>やくそく</rt><rp>）</rp></ruby>（　）ありますから。</p></b>",
-    "options": [
-      "が、を、と",
-      "を、と、が"
-    ],
-    "correctAnswer": 1,
-    "difficulty": 3
-  },
-  {
     "id": 155,
     "question": "<b>ローマじ</b>",
     "options": [
@@ -1806,7 +1590,7 @@
       "vì sao, tại sao (từ để hỏi)",
       "đồ uống"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "difficulty": 1
   },
   {
@@ -1830,7 +1614,7 @@
       "すみませんが",
       "やすみます"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "difficulty": 2
   },
   {
@@ -1861,12 +1645,12 @@
     "id": 160,
     "question": "<b>野球</b>",
     "options": [
-      "やいさい",
       "やきゅ",
       "やきゅう",
-      "やさい"
+      "やさい",
+      "やいさい"
     ],
-    "correctAnswer": 2,
+    "correctAnswer": 1,
     "difficulty": 2
   },
   {
@@ -1890,7 +1674,7 @@
       "やすみます",
       "ギターをひきます"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "difficulty": 1
   },
   {
@@ -1902,7 +1686,7 @@
       "もしもし",
       "バナナ"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "difficulty": 1
   },
   {
@@ -1914,7 +1698,7 @@
       "みかん",
       "ギターをひきます"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "difficulty": 1
   },
   {
@@ -1926,7 +1710,7 @@
       "びょうき",
       "コンサート"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "difficulty": 1
   },
   {
@@ -1942,40 +1726,6 @@
     "difficulty": 2
   },
   {
-    "id": 167,
-    "question": "<b>約束</b>",
-    "options": [
-      "やくせく",
-      "やくそ",
-      "やくそく",
-      "やっきょく"
-    ],
-    "correctAnswer": 2,
-    "difficulty": 2
-  },
-  {
-    "id": 168,
-    "question": "<b>奥さん</b>",
-    "options": [
-      "おくうさん",
-      "おくさん",
-      "おとうとさん",
-      "おとさん"
-    ],
-    "correctAnswer": 0,
-    "difficulty": 2
-  },
-  {
-    "id": 169,
-    "question": "<b>あの<ruby>図書館<rp>（</rp><rt>としょかん</rt><rp>）</rp></ruby>に<ruby>英語<rp>（</rp><rt>えいご</rt><rp>）</rp></ruby>の<ruby>本<rp>（</rp><rt>ほん</rt><rp>）</rp></ruby>が（　）あります。</b>",
-    "options": [
-      "ぜんぜん",
-      "たくさん"
-    ],
-    "correctAnswer": 0,
-    "difficulty": 3
-  },
-  {
     "id": 170,
     "question": "<b>時間</b>",
     "options": [
@@ -1984,7 +1734,7 @@
       "じどう",
       "じゆう"
     ],
-    "correctAnswer": 3,
+    "correctAnswer": 1,
     "difficulty": 2
   },
   {
@@ -2006,7 +1756,7 @@
       "nghỉ (không đến)",
       "tranh, bức tranh"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "difficulty": 1
   },
   {
@@ -2018,7 +1768,7 @@
       "コンセント",
       "コーサント"
     ],
-    "correctAnswer": 2,
+    "correctAnswer": 1,
     "difficulty": 1
   },
   {
@@ -2042,7 +1792,7 @@
       "nhảy, khiêu vũ (động từ)",
       "âm nhạc"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "difficulty": 1
   },
   {
@@ -2056,16 +1806,6 @@
     ],
     "correctAnswer": 1,
     "difficulty": 2
-  },
-  {
-    "id": 177,
-    "question": "<b><ruby>日本語<rp>（</rp><rt>にほんご</rt><rp>）</rp></ruby>の<ruby>勉強<rp>（</rp><rt>べんきょう</rt><rp>）</rp></ruby>は（　）ですか。…<ruby>難<rp>（</rp><rt>むずか</rt><rp>）</rp></ruby>しいですが、おもしろいです。</b>",
-    "options": [
-      "どう",
-      "どんな"
-    ],
-    "correctAnswer": 1,
-    "difficulty": 3
   },
   {
     "id": 178,
@@ -2100,7 +1840,7 @@
       "Tiền gửi ngân hàng",
       "Tiền lẻ"
     ],
-    "correctAnswer": 2,
+    "correctAnswer": 3,
     "difficulty": 2
   },
   {
@@ -2124,7 +1864,7 @@
       "やすく",
       "やはく"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "difficulty": 1
   },
   {
@@ -2146,17 +1886,7 @@
       "ぶたにく",
       "ジャズ"
     ],
-    "correctAnswer": 0,
-    "difficulty": 1
-  },
-  {
-    "id": 185,
-    "question": "<b>A：（　）はやく　うちへ　かえりましょう。</b>",
-    "options": [
-      "１０じですから、",
-      "１０じまで"
-    ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "difficulty": 1
   },
   {
@@ -2180,7 +1910,7 @@
       "nghỉ học",
       "thịt lợn"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "difficulty": 1
   }
 ]

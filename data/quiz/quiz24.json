@@ -49,19 +49,19 @@
   },
   {
     "id": 5,
-    "question": "<b>意味</b>",
+    "question": "<b><ruby>意味<rp>（</rp><rt>いみ</rt><rp>）</rp></ruby></b>",
     "options": [
       "いび",
       "いまつ",
       "いみ",
       "けみ"
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 2,
     "difficulty": 2
   },
   {
     "id": 6,
-    "question": "<b>お弁当</b>",
+    "question": "<b>お<ruby>弁当<rp>（</rp><rt>べんとう</rt><rp>）</rp></ruby></b>",
     "options": [
       "おくります",
       "おべんとう",
@@ -143,7 +143,7 @@
   },
   {
     "id": 13,
-    "question": "<b>送ります</b>",
+    "question": "<b><ruby>送<rp>（</rp><rt>おく</rt><rp>）</rp></ruby>ります</b>",
     "options": [
       "おくります",
       "このあいだ",
@@ -198,19 +198,19 @@
       "にんぎょう",
       "ははのひ"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "difficulty": 1
   },
   {
     "id": 18,
-    "question": "<b>人形</b>",
+    "question": "<b><ruby>人形<rp>（</rp><rt>にんぎょう</rt><rp>）</rp></ruby></b>",
     "options": [
       "おおさかじょう",
       "しょうかい（します、する、して）",
       "せつめい（します、する、して）",
       "にんぎょう"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "difficulty": 2
   },
   {
@@ -306,7 +306,7 @@
       "つれていきます",
       "ははのひ"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "difficulty": 1
   },
   {
@@ -318,7 +318,7 @@
       "せつめい（します、する、して）",
       "ははのひ"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "difficulty": 1
   },
   {
@@ -366,12 +366,12 @@
       "つれていきます",
       "ひとをおくります"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "difficulty": 1
   },
   {
     "id": 32,
-    "question": "<b>東京タワー</b>",
+    "question": "<b><ruby>東京<rp>（</rp><rt>とうきょう</rt><rp>）</rp></ruby>タワー</b>",
     "options": [
       "あんない（します、する、して）",
       "とうきょうタワー",
@@ -402,7 +402,7 @@
       "しょうかい（します、する、して）",
       "ははのひ"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "difficulty": 1
   },
   {
@@ -414,7 +414,7 @@
       "つれていきます",
       "コーヒー／おちゃをいれます"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "difficulty": 1
   },
   {
@@ -462,7 +462,7 @@
       "せつめい（します、する、して）",
       "ひとをおくります"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "difficulty": 1
   },
   {
@@ -474,7 +474,7 @@
       "ほかに",
       "みんなに"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "difficulty": 1
   },
   {
@@ -503,7 +503,7 @@
   },
   {
     "id": 43,
-    "question": "<b>送ります</b>",
+    "question": "<b><ruby>送<rp>（</rp><rt>おく</rt><rp>）</rp></ruby>ります</b>",
     "options": [
       "おくります",
       "おべんとう",
@@ -534,7 +534,7 @@
       "つれていきます",
       "とうきょうタワー"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "difficulty": 1
   },
   {
@@ -570,7 +570,7 @@
       "つれてきます",
       "にんぎょう"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "difficulty": 1
   },
   {
@@ -592,12 +592,12 @@
       "しらべます",
       "ははのひ"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "difficulty": 1
   },
   {
     "id": 51,
-    "question": "<b>わたしは<ruby>誕生日<rp>（</rp><rt>たんじょうび</rt><rp>）</rp></ruby>に<ruby>父<rp>（</rp><rt>ちち</rt><rp>）</rp></ruby>にネクタイを（　）。</b>",
+    "question": "<b>わたしは<ruby>誕<ruby>生<rp>（</rp><rt>う</rt><rp>）</rp></ruby><ruby>日<rp>（</rp><rt>ひ</rt><rp>）</rp></ruby><rp>（</rp><rt>たんじょうび</rt><rp>）</rp></ruby>に<ruby>父<rp>（</rp><rt>ちち</rt><rp>）</rp></ruby>にネクタイを（　）。</b>",
     "options": [
       "くれました",
       "もらいました"
@@ -655,7 +655,7 @@
   },
   {
     "id": 56,
-    "question": "<b>頑張ってください</b>",
+    "question": "<b><ruby>頑張<rp>（</rp><rt>がんば</rt><rp>）</rp></ruby>ってください</b>",
     "options": [
       "がんばってください",
       "せつめい（します、する、して）",
@@ -679,7 +679,7 @@
   },
   {
     "id": 58,
-    "question": "<b>連れる</b>",
+    "question": "<b><ruby>連<rp>（</rp><rt>つ</rt><rp>）</rp></ruby>れる</b>",
     "options": [
       "かれる",
       "たれる",
@@ -779,7 +779,7 @@
       "とうきょうタワー",
       "ははのひ"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "difficulty": 1
   },
   {
@@ -825,19 +825,19 @@
       "とうきょうタワー",
       "ひとをおくります"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "difficulty": 1
   },
   {
     "id": 71,
-    "question": "<b>準備</b>",
+    "question": "<b><ruby>準備<rp>（</rp><rt>じゅんび</rt><rp>）</rp></ruby></b>",
     "options": [
       "いれます",
       "くれます",
       "じゅんび",
       "つれてきます"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "difficulty": 2
   },
   {
@@ -849,7 +849,7 @@
       "つれてきます",
       "ははのひ"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "difficulty": 1
   },
   {
@@ -888,7 +888,7 @@
   },
   {
     "id": 76,
-    "question": "<b>わたし：お<ruby>茶<rp>（</rp><rt>ちゃ</rt><rp>）</rp></ruby>を<ruby>習<rp>（</rp><rt>なら</rt><rp>）</rp></ruby>いたいです。いい<ruby>先生<rp>（</rp><rt>せんせい</rt><rp>）</rp></ruby>を<ruby>知<rp>（</rp><rt>し</rt><rp>）</rp></ruby>っていますか。<p><ruby>松本<rp>（</rp><rt>まつもと</rt><rp>）</rp></ruby>：ええ。<ruby>紹介<rp>（</rp><rt>しょうかい</rt><rp>）</rp></ruby>しますよ。</p></b><p><b>→<ruby>松本<rp>（</rp><rt>まつもと</rt><rp>）</rp></ruby>さんはわたしにお<ruby>茶<rp>（</rp><rt>ちゃ</rt><rp>）</rp></ruby>の<ruby>先生<rp>（</rp><rt>せんせい</rt><rp>）</rp></ruby>を<ruby>紹介<rp>（</rp><rt>しょうかい</rt><rp>）</rp></ruby>して（　）。</b></p>",
+    "question": "<b>わたし：お<ruby>茶<rp>（</rp><rt>ちゃ</rt><rp>）</rp></ruby>を<ruby>習<rp>（</rp><rt>なら</rt><rp>）</rp></ruby>いたいです。いい<ruby>先<ruby>生<rp>（</rp><rt>う</rt><rp>）</rp></ruby><rp>（</rp><rt>せんせい</rt><rp>）</rp></ruby>を<ruby>知<rp>（</rp><rt>し</rt><rp>）</rp></ruby>っていますか。<p><ruby>松<ruby>本<rp>（</rp><rt>ほん</rt><rp>）</rp></ruby><rp>（</rp><rt>まつもと</rt><rp>）</rp></ruby>：ええ。<ruby>紹介<rp>（</rp><rt>しょうかい</rt><rp>）</rp></ruby>しますよ。</p></b><p><b>→<ruby>松<ruby>本<rp>（</rp><rt>ほん</rt><rp>）</rp></ruby><rp>（</rp><rt>まつもと</rt><rp>）</rp></ruby>さんはわたしにお<ruby>茶<rp>（</rp><rt>ちゃ</rt><rp>）</rp></ruby>の<ruby>先<ruby>生<rp>（</rp><rt>う</rt><rp>）</rp></ruby><rp>（</rp><rt>せんせい</rt><rp>）</rp></ruby>を<ruby>紹介<rp>（</rp><rt>しょうかい</rt><rp>）</rp></ruby>して（　）。</b></p>",
     "options": [
       "あげました",
       "くれました",
@@ -966,7 +966,7 @@
       "つれてきます",
       "コーヒー／おちゃをいれます"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "difficulty": 1
   },
   {
@@ -1048,12 +1048,12 @@
       "ぜんぶ",
       "ほんとうですか"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "difficulty": 1
   },
   {
     "id": 90,
-    "question": "<b><ruby>喫茶店<rp>（</rp><rt>きっさてん</rt><rp>）</rp></ruby>で（１）コーヒーを<ruby>飲<rp>（</rp><rt>の</rt><rp>）</rp></ruby>んで、（２）お<ruby>金<rp>（</rp><rt>かね</rt><rp>）</rp></ruby>を<ruby>払<rp>（</rp><rt>はら</rt><rp>）</rp></ruby>いました。<p>(2)</p></b>",
+    "question": "<b><ruby>喫<ruby>茶<rp>（</rp><rt>ちゃ</rt><rp>）</rp></ruby>店<rp>（</rp><rt>きっさてん</rt><rp>）</rp></ruby>で（１）コーヒーを<ruby>飲<rp>（</rp><rt>の</rt><rp>）</rp></ruby>んで、（２）お<ruby>金<rp>（</rp><rt>かね</rt><rp>）</rp></ruby>を<ruby>払<rp>（</rp><rt>はら</rt><rp>）</rp></ruby>いました。<p>(2)</p></b>",
     "options": [
       "ほかに",
       "別々に",
@@ -1071,12 +1071,12 @@
       "ははのひ",
       "コピー（します、する、して）"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "difficulty": 1
   },
   {
     "id": 92,
-    "question": "<b>お弁当</b>",
+    "question": "<b>お<ruby>弁当<rp>（</rp><rt>べんとう</rt><rp>）</rp></ruby></b>",
     "options": [
       "おべんとう",
       "がんばってください",
@@ -1107,12 +1107,12 @@
       "とうきょうタワー",
       "めいし"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "difficulty": 1
   },
   {
     "id": 95,
-    "question": "<b><ruby>喫茶店<rp>（</rp><rt>きっさてん</rt><rp>）</rp></ruby>で（１）コーヒーを<ruby>飲<rp>（</rp><rt>の</rt><rp>）</rp></ruby>んで、（２）お<ruby>金<rp>（</rp><rt>かね</rt><rp>）</rp></ruby>を<ruby>払<rp>（</rp><rt>はら</rt><rp>）</rp></ruby>いました。<p>(1)</p></b>",
+    "question": "<b><ruby>喫<ruby>茶<rp>（</rp><rt>ちゃ</rt><rp>）</rp></ruby>店<rp>（</rp><rt>きっさてん</rt><rp>）</rp></ruby>で（１）コーヒーを<ruby>飲<rp>（</rp><rt>の</rt><rp>）</rp></ruby>んで、（２）お<ruby>金<rp>（</rp><rt>かね</rt><rp>）</rp></ruby>を<ruby>払<rp>（</rp><rt>はら</rt><rp>）</rp></ruby>いました。<p>(1)</p></b>",
     "options": [
       "みんなで",
       "全部",
@@ -1130,7 +1130,7 @@
       "ひとをおくります",
       "コーヒー／おちゃをいれます"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "difficulty": 1
   },
   {
@@ -1142,7 +1142,7 @@
       "ほんとうですか",
       "コピー（します、する、して）"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "difficulty": 1
   },
   {
@@ -1159,26 +1159,26 @@
   },
   {
     "id": 99,
-    "question": "<b>説明</b>",
+    "question": "<b><ruby>説明<rp>（</rp><rt>せつめい</rt><rp>）</rp></ruby></b>",
     "options": [
       "せっめ",
       "せっめい",
       "せつめ",
       "せつめい"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "difficulty": 2
   },
   {
     "id": 100,
-    "question": "<b>人形</b>",
+    "question": "<b><ruby>人形<rp>（</rp><rt>にんぎょう</rt><rp>）</rp></ruby></b>",
     "options": [
       "くれます",
       "しょうかい（します、する、して）",
       "にんぎょう",
       "ひとをおくります"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "difficulty": 2
   },
   {
@@ -1195,14 +1195,14 @@
   },
   {
     "id": 102,
-    "question": "<b>人形</b>",
+    "question": "<b><ruby>人形<rp>（</rp><rt>にんぎょう</rt><rp>）</rp></ruby></b>",
     "options": [
       "ぜんぶ",
       "つれていきます",
       "にんぎょう",
       "ほんとうですか"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "difficulty": 2
   },
   {
@@ -1218,7 +1218,7 @@
   },
   {
     "id": 104,
-    "question": "<b>案内（します、する、して）</b>",
+    "question": "<b><ruby>案内<rp>（</rp><rt>あんない</rt><rp>）</rp></ruby>（します、する、して）</b>",
     "options": [
       "あんない（します、する、して）",
       "いれます",
@@ -1278,7 +1278,7 @@
   },
   {
     "id": 109,
-    "question": "<b>説明（します、する、して）</b>",
+    "question": "<b><ruby>説明<rp>（</rp><rt>せつめい</rt><rp>）</rp></ruby>（します、する、して）</b>",
     "options": [
       "おべんとう",
       "くれます",
@@ -1309,7 +1309,7 @@
       "にんぎょう",
       "コピー（します、する、して）"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "difficulty": 1
   },
   {
@@ -1321,12 +1321,12 @@
       "にんぎょう",
       "コピー（します、する、して）"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "difficulty": 1
   },
   {
     "id": 113,
-    "question": "<b>人を送ります</b>",
+    "question": "<b><ruby>人<rp>（</rp><rt>ひと</rt><rp>）</rp></ruby>を<ruby>送<rp>（</rp><rt>おく</rt><rp>）</rp></ruby>ります</b>",
     "options": [
       "おべんとう",
       "しらべます",
@@ -1338,7 +1338,7 @@
   },
   {
     "id": 114,
-    "question": "<b>頑張ってください</b>",
+    "question": "<b><ruby>頑張<rp>（</rp><rt>がんば</rt><rp>）</rp></ruby>ってください</b>",
     "options": [
       "あんない（します、する、して）",
       "おおさかじょう",
@@ -1350,14 +1350,14 @@
   },
   {
     "id": 115,
-    "question": "<b>準備</b>",
+    "question": "<b><ruby>準備<rp>（</rp><rt>じゅんび</rt><rp>）</rp></ruby></b>",
     "options": [
       "じゅんび",
       "じゅんぴ",
       "じんびい",
       "じんぴ"
     ],
-    "correctAnswer": 2,
+    "correctAnswer": 0,
     "difficulty": 2
   },
   {
@@ -1369,12 +1369,12 @@
       "つれていきます",
       "ひとをおくります"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "difficulty": 1
   },
   {
     "id": 117,
-    "question": "<b>本当ですか</b>",
+    "question": "<b><ruby>本当<rp>（</rp><rt>ほんとう</rt><rp>）</rp></ruby>ですか</b>",
     "options": [
       "おべんとう",
       "しょうかい（します、する、して）",
@@ -1393,7 +1393,7 @@
       "つれていきます",
       "コーヒー／おちゃをいれます"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "difficulty": 1
   },
   {
@@ -1417,7 +1417,7 @@
       "ほんとうですか",
       "コピー（します、する、して）"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "difficulty": 1
   },
   {
@@ -1458,7 +1458,7 @@
   },
   {
     "id": 124,
-    "question": "<b>大阪城</b>",
+    "question": "<b><ruby>大阪城<rp>（</rp><rt>おおさかじょう</rt><rp>）</rp></ruby></b>",
     "options": [
       "おおさかじょう",
       "ぜんぶ",
@@ -1513,12 +1513,12 @@
       "つれていきます",
       "ほんとうですか"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "difficulty": 1
   },
   {
     "id": 129,
-    "question": "<b>ちちはわたしの<ruby>誕生日<rp>（</rp><rt>たんじょうび</rt><rp>）</rp></ruby>にネクタイを（　）。</b>",
+    "question": "<b>ちちはわたしの<ruby>誕<ruby>生<rp>（</rp><rt>う</rt><rp>）</rp></ruby><ruby>日<rp>（</rp><rt>ひ</rt><rp>）</rp></ruby><rp>（</rp><rt>たんじょうび</rt><rp>）</rp></ruby>にネクタイを（　）。</b>",
     "options": [
       "あげました",
       "くれました"
@@ -1571,7 +1571,7 @@
       "しょうかい（します、する、して）",
       "コピー（します、する、して）"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "difficulty": 1
   },
   {
@@ -1583,7 +1583,7 @@
       "ぜんぶ",
       "ひとをおくります"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "difficulty": 1
   },
   {
@@ -1595,12 +1595,12 @@
       "とうきょうタワー",
       "ほんとうですか"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "difficulty": 1
   },
   {
     "id": 136,
-    "question": "<b>この間</b>",
+    "question": "<b>この<ruby>間<rp>（</rp><rt>あいだ</rt><rp>）</rp></ruby></b>",
     "options": [
       "おくります",
       "このあいだ",
@@ -1642,7 +1642,7 @@
       "せつめい（します、する、して）",
       "コピー（します、する、して）"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "difficulty": 1
   },
   {
@@ -1669,14 +1669,14 @@
   },
   {
     "id": 142,
-    "question": "<b>弁当</b>",
+    "question": "<b><ruby>弁当<rp>（</rp><rt>べんとう</rt><rp>）</rp></ruby></b>",
     "options": [
       "へんとう",
       "べんと",
       "べんとう",
       "ぺんと"
     ],
-    "correctAnswer": 3,
+    "correctAnswer": 2,
     "difficulty": 2
   },
   {
@@ -1712,12 +1712,12 @@
       "つれてきます",
       "コーヒー／おちゃをいれます"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "difficulty": 1
   },
   {
     "id": 146,
-    "question": "<b>コーヒー／お茶を入れます</b>",
+    "question": "<b>コーヒー／お<ruby>茶<rp>（</rp><rt>ちゃ</rt><rp>）</rp></ruby>を<ruby>入<rp>（</rp><rt>はい</rt><rp>）</rp></ruby>れます</b>",
     "options": [
       "がんばってください",
       "くれます",
@@ -1764,14 +1764,14 @@
   },
   {
     "id": 150,
-    "question": "<b>名詞</b>",
+    "question": "<b><ruby>名詞<rp>（</rp><rt>めいし</rt><rp>）</rp></ruby></b>",
     "options": [
       "おくります",
       "くれます",
       "しょうかい（します、する、して）",
       "めいし"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "difficulty": 2
   },
   {
@@ -1914,7 +1914,7 @@
       "ははのひ",
       "ほんとうですか"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "difficulty": 1
   },
   {
@@ -1938,7 +1938,7 @@
       "しらべます",
       "ひとをおくります"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "difficulty": 1
   },
   {
@@ -2054,7 +2054,7 @@
       "ぜんぶ",
       "ぜんぷ"
     ],
-    "correctAnswer": 3,
+    "correctAnswer": 2,
     "difficulty": 1
   }
 ]

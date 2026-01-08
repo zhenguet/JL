@@ -12,10 +12,19 @@ interface QuizProps {
 
 const optionLabels = ['a', 'b', 'c', 'd'];
 
-function shuffleArray<T>(array: T[]): T[] {
+function seededRandom(seed: number): () => number {
+  let value = seed;
+  return () => {
+    value = (value * 9301 + 49297) % 233280;
+    return value / 233280;
+  };
+}
+
+function shuffleArray<T>(array: T[], seed: number = 0): T[] {
   const shuffled = [...array];
+  const random = seededRandom(seed);
   for (let i = shuffled.length - 1; i > 0; i -= 1) {
-    const j = Math.floor(Math.random() * (i + 1));
+    const j = Math.floor(random() * (i + 1));
     [shuffled[i], shuffled[j]] = [shuffled[j], shuffled[i]];
   }
   return shuffled;
@@ -23,9 +32,10 @@ function shuffleArray<T>(array: T[]): T[] {
 
 function buildShuffledQuestions(
   source: QuizQuestion[],
-  shuffleOptions: boolean
+  shuffleOptions: boolean,
+  shuffleKey: number = 0
 ): ShuffledQuestion[] {
-  const baseList = shuffleArray([...source]);
+  const baseList = shuffleArray([...source], shuffleKey);
 
   if (!shuffleOptions) {
     return baseList.map((question) => ({
@@ -35,17 +45,39 @@ function buildShuffledQuestions(
     }));
   }
 
-  return baseList.map((question) => {
-    const shuffledOptions = shuffleArray(question.options);
-    const originalCorrectAnswer = question.options[question.correctAnswer];
-    const shuffledCorrectAnswer = shuffledOptions.findIndex(
-      (opt) => opt === originalCorrectAnswer
+  return baseList.map((question, questionIndex) => {
+    const originalOptions = [...question.options];
+    const originalCorrectIndex = question.correctAnswer;
+    const originalCorrectValue = originalOptions[originalCorrectIndex];
+
+    const indices = originalOptions.map((_, index) => index);
+    const questionSeed = shuffleKey * 1000 + question.id + questionIndex;
+    const shuffledIndices = shuffleArray(indices, questionSeed);
+    const shuffledOptions = shuffledIndices.map((idx) => originalOptions[idx]);
+
+    const shuffledCorrectAnswer = shuffledIndices.findIndex(
+      (idx) => idx === originalCorrectIndex
     );
+
+    if (shuffledCorrectAnswer === -1) {
+      console.warn('WARNING: shuffledCorrectAnswer is -1, using fallback');
+      const fallbackIndex = shuffledOptions.findIndex(
+        (opt) => opt.trim() === originalCorrectValue.trim()
+      );
+      if (fallbackIndex !== -1) {
+        return {
+          ...question,
+          shuffledOptions,
+          shuffledCorrectAnswer: fallbackIndex,
+        };
+      }
+      console.error('ERROR: Fallback also failed!');
+    }
 
     return {
       ...question,
       shuffledOptions,
-      shuffledCorrectAnswer,
+      shuffledCorrectAnswer: shuffledCorrectAnswer >= 0 ? shuffledCorrectAnswer : 0,
     };
   });
 }
@@ -58,10 +90,14 @@ export default function Quiz({ questions, title, shuffleOptions = true }: QuizPr
   const [score, setScore] = useState<number | null>(null);
   const [showFurigana, setShowFurigana] = useState(false);
 
-  const shuffledQuestions = useMemo(
-    () => buildShuffledQuestions(questions, shuffleOptions),
-    [questions, shuffleOptions, shuffleKey]
+  const originalQuestionsMap = useMemo(
+    () => new Map(questions.map((q) => [q.id, q])),
+    [questions]
   );
+
+  const shuffledQuestions = useMemo(() => {
+    return buildShuffledQuestions(questions, shuffleOptions, shuffleKey);
+  }, [questions, shuffleOptions, shuffleKey]);
 
   const questionMap = useMemo(
     () => new Map(shuffledQuestions.map((q) => [q.id, q])),
@@ -210,31 +246,31 @@ export default function Quiz({ questions, title, shuffleOptions = true }: QuizPr
                   <table className="table_tracnghiem">
                     <tbody>
                       {shuffledQuestion.shuffledOptions.map((option, optionIndex) => (
-                        <tr
-                          key={optionIndex}
-                          className={`tr${shuffledQuestion.id * 10 + optionIndex + 1}`}
-                        >
-                          <td className="item1">
-                            <input
-                              id={`answer_${shuffledQuestion.id}${optionIndex + 1}`}
-                              type="radio"
-                              name={`answer[${shuffledQuestion.id}]`}
-                              checked={selectedAnswers[shuffledQuestion.id] === optionIndex}
-                              onChange={() => handleAnswerSelect(shuffledQuestion.id, optionIndex)}
-                              disabled={showResults || showAnswerKey}
-                            />
-                            <label
-                              htmlFor={`answer_${shuffledQuestion.id}${optionIndex + 1}`}
-                              className={getOptionClass(shuffledQuestion.id, optionIndex)}
-                            >
-                              <span className="option-label">{optionLabels[optionIndex]}.</span>
-                              <span className="option-text">{option}</span>
-                            </label>
-                            <span className="result-indicator">
-                              {getQuestionResult(shuffledQuestion.id, optionIndex)}
-                            </span>
-                          </td>
-                        </tr>
+                          <tr
+                            key={optionIndex}
+                            className={`tr${shuffledQuestion.id * 10 + optionIndex + 1}`}
+                          >
+                            <td className="item1">
+                              <input
+                                id={`answer_${shuffledQuestion.id}${optionIndex + 1}`}
+                                type="radio"
+                                name={`answer[${shuffledQuestion.id}]`}
+                                checked={selectedAnswers[shuffledQuestion.id] === optionIndex}
+                                onChange={() => handleAnswerSelect(shuffledQuestion.id, optionIndex)}
+                                disabled={showResults || showAnswerKey}
+                              />
+                              <label
+                                htmlFor={`answer_${shuffledQuestion.id}${optionIndex + 1}`}
+                                className={getOptionClass(shuffledQuestion.id, optionIndex)}
+                              >
+                                <span className="option-label">{optionLabels[optionIndex]}.</span>
+                                <span className="option-text">{option}</span>
+                              </label>
+                              <span className="result-indicator">
+                                {getQuestionResult(shuffledQuestion.id, optionIndex)}
+                              </span>
+                            </td>
+                          </tr>
                       ))}
                     </tbody>
                   </table>

@@ -8,12 +8,12 @@
       "クリーニング",
       "マンション"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "difficulty": 1
   },
   {
     "id": 2,
-    "question": "<b>川</b>",
+    "question": "<b><ruby>川<rp>（</rp><rt>かわ</rt><rp>）</rp></ruby></b>",
     "options": [
       "かわ",
       "だいどころ",
@@ -61,7 +61,7 @@
   },
   {
     "id": 6,
-    "question": "<b>着きます</b>",
+    "question": "<b><ruby>着<rp>（</rp><rt>き</rt><rp>）</rp></ruby>きます</b>",
     "options": [
       "きこえます",
       "じ",
@@ -73,7 +73,7 @@
   },
   {
     "id": 7,
-    "question": "<b>昼間</b>",
+    "question": "<b><ruby>昼<ruby>間<rp>（</rp><rt>あいだ</rt><rp>）</rp></ruby><rp>（</rp><rt>ひるま</rt><rp>）</rp></ruby></b>",
     "options": [
       "じ",
       "ひるま",
@@ -104,7 +104,7 @@
       "Nhân vật chính",
       "Đánh"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "difficulty": 1
   },
   {
@@ -116,7 +116,7 @@
       "つけます",
       "どうぐ"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "difficulty": 1
   },
   {
@@ -176,7 +176,7 @@
       "だいどころ",
       "はしります"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "difficulty": 1
   },
   {
@@ -212,7 +212,7 @@
       "はしります",
       "ゆめ"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "difficulty": 1
   },
   {
@@ -224,7 +224,7 @@
       "にちようだいく",
       "ひるま"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "difficulty": 1
   },
   {
@@ -260,7 +260,7 @@
       "～ご",
       "～め"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "difficulty": 1
   },
   {
@@ -313,14 +313,14 @@
   },
   {
     "id": 27,
-    "question": "<b>日曜大工</b>",
+    "question": "<b><ruby>日曜大工<rp>（</rp><rt>にちようだいく</rt><rp>）</rp></ruby></b>",
     "options": [
       "じぶん",
       "そら",
       "にちようだいく",
       "みえます"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "difficulty": 1
   },
   {
@@ -332,7 +332,7 @@
       "じょうらい",
       "じょらい"
     ],
-    "correctAnswer": 2,
+    "correctAnswer": 0,
     "difficulty": 1
   },
   {
@@ -349,7 +349,7 @@
   },
   {
     "id": 30,
-    "question": "<b>わたしは<ruby>日本語<rp>（</rp><rt>にほんご</rt><rp>）</rp></ruby>（　）<ruby>話<rp>（</rp><rt>はな</rt><rp>）</rp></ruby>せます。</b>",
+    "question": "<b>わたしは<ruby>日<ruby>本<rp>（</rp><rt>ほん</rt><rp>）</rp></ruby>語<rp>（</rp><rt>にほんご</rt><rp>）</rp></ruby>（　）<ruby>話<rp>（</rp><rt>はな</rt><rp>）</rp></ruby>せます。</b>",
     "options": [
       "が",
       "の"
@@ -359,7 +359,7 @@
   },
   {
     "id": 31,
-    "question": "<b>聞こえます</b>",
+    "question": "<b><ruby>聞<rp>（</rp><rt>きこ</rt><rp>）</rp></ruby>こえます</b>",
     "options": [
       "きこえます",
       "つうしんはんばい",
@@ -378,7 +378,7 @@
       "つきます",
       "みえます"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "difficulty": 1
   },
   {
@@ -414,7 +414,7 @@
       "じどうはんばいき",
       "つきます"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "difficulty": 1
   },
   {
@@ -450,12 +450,12 @@
       "マンション",
       "～しか"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "difficulty": 1
   },
   {
     "id": 39,
-    "question": "<b>将来</b>",
+    "question": "<b><ruby>将<ruby>来<rp>（</rp><rt>き</rt><rp>）</rp></ruby><rp>（</rp><rt>しょうらい</rt><rp>）</rp></ruby></b>",
     "options": [
       "しょうばい",
       "しょうらい",
@@ -498,7 +498,7 @@
       "できます",
       "ゆうべ"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "difficulty": 1
   },
   {
@@ -546,7 +546,7 @@
       "カーテン",
       "～ご"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "difficulty": 1
   },
   {
@@ -570,7 +570,7 @@
       "だいどころ",
       "～がわ"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "difficulty": 1
   },
   {
@@ -618,7 +618,7 @@
       "つうしんはんばい",
       "ウイスキー"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "difficulty": 1
   },
   {
@@ -630,7 +630,7 @@
       "～がわ",
       "～め"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "difficulty": 1
   },
   {
@@ -647,26 +647,26 @@
   },
   {
     "id": 55,
-    "question": "<b>本棚</b>",
+    "question": "<b><ruby>本棚<rp>（</rp><rt>ほんだな</rt><rp>）</rp></ruby></b>",
     "options": [
       "ほだな",
       "ほんたな",
       "ほんだ",
       "ほんだな"
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 3,
     "difficulty": 2
   },
   {
     "id": 56,
-    "question": "<b>波</b>",
+    "question": "<b><ruby>波<rp>（</rp><rt>なみ</rt><rp>）</rp></ruby></b>",
     "options": [
       "うちます",
       "どうぐ",
       "なみ",
       "クリーニング"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "difficulty": 2
   },
   {
@@ -762,12 +762,12 @@
       "とびます",
       "ひらきます"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "difficulty": 1
   },
   {
     "id": 65,
-    "question": "<b>自動販売機</b>",
+    "question": "<b><ruby>自<ruby>動<rp>（</rp><rt>うご</rt><rp>）</rp></ruby>販<ruby>売<rp>（</rp><rt>う</rt><rp>）</rp></ruby>機<rp>（</rp><rt>じどうはんばいき</rt><rp>）</rp></ruby></b>",
     "options": [
       "きこえます",
       "こえ",
@@ -798,7 +798,7 @@
       "ゆうべ",
       "ウイスキー"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "difficulty": 1
   },
   {
@@ -868,7 +868,7 @@
       "にちようだいく",
       "はしります"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "difficulty": 1
   },
   {
@@ -880,7 +880,7 @@
       "カーテン",
       "ペット"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "difficulty": 1
   },
   {
@@ -892,7 +892,7 @@
       "そうさ",
       "そば"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "difficulty": 1
   },
   {
@@ -964,7 +964,7 @@
       "とびます",
       "みえます"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "difficulty": 1
   },
   {
@@ -1012,7 +1012,7 @@
       "～しか",
       "～め"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "difficulty": 1
   },
   {
@@ -1029,7 +1029,7 @@
   },
   {
     "id": 87,
-    "question": "<b>付けます</b>",
+    "question": "<b><ruby>付<rp>（</rp><rt>つ</rt><rp>）</rp></ruby>けます</b>",
     "options": [
       "かんさいくうこう",
       "つけます",
@@ -1097,7 +1097,7 @@
   },
   {
     "id": 93,
-    "question": "<b>景色</b>",
+    "question": "<b><ruby>景色<rp>（</rp><rt>けしき</rt><rp>）</rp></ruby></b>",
     "options": [
       "けしき",
       "しゅじんこう",
@@ -1164,7 +1164,7 @@
       "ゆうがた",
       "ペット"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "difficulty": 1
   },
   {
@@ -1236,7 +1236,7 @@
       "だいどころ",
       "クリーニング"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "difficulty": 1
   },
   {
@@ -1253,19 +1253,19 @@
   },
   {
     "id": 106,
-    "question": "<b>昔</b>",
+    "question": "<b><ruby>昔<rp>（</rp><rt>むかし</rt><rp>）</rp></ruby></b>",
     "options": [
       "いなか",
       "おしり",
       "みち",
       "むかし"
     ],
-    "correctAnswer": 2,
+    "correctAnswer": 3,
     "difficulty": 2
   },
   {
     "id": 107,
-    "question": "<b>不思議</b>",
+    "question": "<b><ruby>不<ruby>思<rp>（</rp><rt>おも</rt><rp>）</rp></ruby>議<rp>（</rp><rt>ふしぎ</rt><rp>）</rp></ruby></b>",
     "options": [
       "かしぎ",
       "ふしき",
@@ -1344,14 +1344,14 @@
   },
   {
     "id": 114,
-    "question": "<b>夢</b>",
+    "question": "<b><ruby>夢<rp>（</rp><rt>ゆめ</rt><rp>）</rp></ruby></b>",
     "options": [
       "あきはばら",
       "こえ",
       "そら",
       "ゆめ"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "difficulty": 2
   },
   {
@@ -1363,7 +1363,7 @@
       "ウイスキー",
       "～しか"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "difficulty": 1
   },
   {
@@ -1440,7 +1440,7 @@
   },
   {
     "id": 122,
-    "question": "<b>A: あ、<ruby>富士山<rp>（</rp><rt>ふじさん</rt><rp>）</rp></ruby>が（　）。<p>B: きれいですね。</p></b>",
+    "question": "<b>A: あ、<ruby>富士<ruby>山<rp>（</rp><rt>やま</rt><rp>）</rp></ruby><rp>（</rp><rt>ふじさん</rt><rp>）</rp></ruby>が（　）。<p>B: きれいですね。</p></b>",
     "options": [
       "見えます",
       "見られます"
@@ -1457,12 +1457,12 @@
       "すばらしい",
       "すらしい"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "difficulty": 1
   },
   {
     "id": 124,
-    "question": "<b>聞こえます</b>",
+    "question": "<b><ruby>聞<rp>（</rp><rt>きこ</rt><rp>）</rp></ruby>こえます</b>",
     "options": [
       "かんさいくうこう",
       "きこえます",
@@ -1498,7 +1498,7 @@
   },
   {
     "id": 127,
-    "question": "<b>見えます</b>",
+    "question": "<b><ruby>見<rp>（</rp><rt>み</rt><rp>）</rp></ruby>えます</b>",
     "options": [
       "うちます",
       "うみ",
@@ -1551,7 +1551,7 @@
       "できます",
       "ゆめ"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "difficulty": 1
   },
   {
@@ -1573,7 +1573,7 @@
       "つけます",
       "ウイスキー"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "difficulty": 1
   },
   {
@@ -1585,7 +1585,7 @@
       "ゆこ",
       "ゆめ"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "difficulty": 1
   },
   {
@@ -1597,19 +1597,19 @@
       "みえます",
       "ゆめ"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "difficulty": 1
   },
   {
     "id": 136,
-    "question": "<b>海</b>",
+    "question": "<b><ruby>海<rp>（</rp><rt>うみ</rt><rp>）</rp></ruby></b>",
     "options": [
       "いず",
       "うみ",
       "にちようだいく",
       "ペット"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "difficulty": 2
   },
   {
@@ -1782,14 +1782,14 @@
   },
   {
     "id": 151,
-    "question": "<b>空</b>",
+    "question": "<b><ruby>空<rp>（</rp><rt>そら</rt><rp>）</rp></ruby></b>",
     "options": [
       "かたち",
       "そら",
       "まんが",
       "ウイスキー"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "difficulty": 2
   },
   {
@@ -1842,7 +1842,7 @@
   },
   {
     "id": 156,
-    "question": "<b><ruby>日本語<rp>（</rp><rt>にほんご</rt><rp>）</rp></ruby>で<ruby>手紙<rp>（</rp><rt>てがみ</rt><rp>）</rp></ruby>が（　）。</b>",
+    "question": "<b><ruby>日<ruby>本<rp>（</rp><rt>ほん</rt><rp>）</rp></ruby>語<rp>（</rp><rt>にほんご</rt><rp>）</rp></ruby>で<ruby>手紙<rp>（</rp><rt>てがみ</rt><rp>）</rp></ruby>が（　）。</b>",
     "options": [
       "書けます",
       "書けられます"
@@ -1852,14 +1852,14 @@
   },
   {
     "id": 157,
-    "question": "<b>自分</b>",
+    "question": "<b><ruby>自分<rp>（</rp><rt>じぶん</rt><rp>）</rp></ruby></b>",
     "options": [
       "しゆう",
       "じどう",
       "じふん",
       "じぶん"
     ],
-    "correctAnswer": 2,
+    "correctAnswer": 3,
     "difficulty": 2
   },
   {
@@ -1895,7 +1895,7 @@
       "つきます",
       "まんが"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "difficulty": 1
   },
   {
@@ -1924,7 +1924,7 @@
   },
   {
     "id": 163,
-    "question": "<b>関西空港</b>",
+    "question": "<b><ruby>関西<ruby>空港<rp>（</rp><rt>くうこう</rt><rp>）</rp></ruby><rp>（</rp><rt>かんさいくうこう</rt><rp>）</rp></ruby></b>",
     "options": [
       "いず",
       "かんさいくうこう",
@@ -1943,7 +1943,7 @@
       "つきます",
       "カーテン"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "difficulty": 1
   },
   {
@@ -1960,14 +1960,14 @@
   },
   {
     "id": 166,
-    "question": "<b>日曜大工</b>",
+    "question": "<b><ruby>日曜大工<rp>（</rp><rt>にちようだいく</rt><rp>）</rp></ruby></b>",
     "options": [
       "あきはばら",
       "つけます",
       "にちようだいく",
       "まんが"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "difficulty": 1
   }
 ]

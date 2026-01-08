@@ -73,7 +73,7 @@
   },
   {
     "id": 7,
-    "question": "<b>付きます</b>",
+    "question": "<b><ruby>付<rp>（</rp><rt>つ</rt><rp>）</rp></ruby>きます</b>",
     "options": [
       "すきます",
       "ちゃわん",
@@ -104,7 +104,7 @@
       "すきます",
       "～りょうめ"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "difficulty": 1
   },
   {
@@ -131,7 +131,7 @@
   },
   {
     "id": 12,
-    "question": "<b>今の電車</b>",
+    "question": "<b>今の<ruby>電車<rp>（</rp><rt>でんしゃ</rt><rp>）</rp></ruby></b>",
     "options": [
       "いまのでんしゃ",
       "てぶくろ",
@@ -172,7 +172,7 @@
       "ポケット",
       "～りょうめ"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "difficulty": 1
   },
   {
@@ -242,7 +242,7 @@
       "ひも",
       "ほんとうだ"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "difficulty": 1
   },
   {
@@ -266,7 +266,7 @@
       "ふくろ",
       "ズボン"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "difficulty": 1
   },
   {
@@ -336,12 +336,12 @@
       "はずれます",
       "やぶれます"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "difficulty": 1
   },
   {
     "id": 30,
-    "question": "<b>（　）<ruby>電話<rp>（</rp><rt>でんわ</rt><rp>）</rp></ruby>はありませんか。</b>",
+    "question": "<b>（　）<ruby>電<ruby>話<rp>（</rp><rt>はなし</rt><rp>）</rp></ruby><rp>（</rp><rt>でんわ</rt><rp>）</rp></ruby>はありませんか。</b>",
     "options": [
       "どこかで",
       "どこかに"
@@ -380,7 +380,7 @@
       "よこれます",
       "よごれます"
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 3,
     "difficulty": 1
   },
   {
@@ -440,7 +440,7 @@
       "よごれます",
       "～りょうめ"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "difficulty": 1
   },
   {
@@ -512,7 +512,7 @@
       "ちゃわん",
       "ていき"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "difficulty": 1
   },
   {
@@ -602,7 +602,7 @@
       "ガラス",
       "コップ"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "difficulty": 1
   },
   {
@@ -662,7 +662,7 @@
       "ほんとうだ",
       "コップ"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "difficulty": 1
   },
   {
@@ -698,7 +698,7 @@
       "よごれます",
       "ズボン"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "difficulty": 1
   },
   {
@@ -725,7 +725,7 @@
   },
   {
     "id": 63,
-    "question": "<b>忘れ物</b>",
+    "question": "<b><ruby>忘<rp>（</rp><rt>わす</rt><rp>）</rp></ruby>れ<ruby>物<rp>（</rp><rt>もの</rt><rp>）</rp></ruby></b>",
     "options": [
       "たおれぶつ",
       "たおれもの",
@@ -804,7 +804,7 @@
       "ふくろ",
       "ほんとうだ"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "difficulty": 1
   },
   {
@@ -816,7 +816,7 @@
       "やかれます",
       "やぶれます"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "difficulty": 1
   },
   {
@@ -852,7 +852,7 @@
       "さします",
       "つきます"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "difficulty": 1
   },
   {
@@ -876,7 +876,7 @@
       "ふくろ",
       "～りょうめ"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "difficulty": 1
   },
   {
@@ -939,7 +939,7 @@
   },
   {
     "id": 81,
-    "question": "<b>外れます</b>",
+    "question": "<b><ruby>外<rp>（</rp><rt>そと</rt><rp>）</rp></ruby>れます</b>",
     "options": [
       "おさきにどうぞ",
       "こみます",
@@ -980,7 +980,7 @@
       "はり",
       "よごれます"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "difficulty": 1
   },
   {
@@ -992,7 +992,7 @@
       "ほんとうだ",
       "コップ"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "difficulty": 1
   },
   {
@@ -1180,7 +1180,7 @@
       "てちょう",
       "よごれます"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "difficulty": 1
   },
   {
@@ -1300,7 +1300,7 @@
       "ふくろ",
       "～りょうめ"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "difficulty": 1
   },
   {
@@ -1360,7 +1360,7 @@
       "ひも",
       "ガラス"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "difficulty": 1
   },
   {
@@ -1372,7 +1372,7 @@
       "てぶくろ",
       "ひも"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "difficulty": 1
   },
   {
@@ -1570,7 +1570,7 @@
       "ズボン",
       "～りょうめ"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "difficulty": 1
   },
   {
@@ -1606,7 +1606,7 @@
       "よかった",
       "ポケット"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "difficulty": 1
   },
   {
@@ -1768,7 +1768,7 @@
       "まちがえます",
       "よごれます"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "difficulty": 1
   },
   {
@@ -1850,7 +1850,7 @@
       "さら",
       "～りょうめ"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "difficulty": 1
   },
   {
@@ -1887,7 +1887,7 @@
   },
   {
     "id": 162,
-    "question": "<b>間違えます</b>",
+    "question": "<b><ruby>間違<rp>（</rp><rt>まちが</rt><rp>）</rp></ruby>えます</b>",
     "options": [
       "いまのでんしゃ",
       "つきます",
@@ -1906,7 +1906,7 @@
       "かかります",
       "はり"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "difficulty": 1
   },
   {
@@ -1964,7 +1964,7 @@
       "とまります",
       "まちがえます"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "difficulty": 1
   },
   {
@@ -2046,7 +2046,7 @@
       "さら",
       "はり"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "difficulty": 1
   },
   {

@@ -90,7 +90,7 @@
       "かわります",
       "せんたくもの"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "difficulty": 1
   },
   {
@@ -148,7 +148,7 @@
       "どういうふうになさいますか",
       "ひょうげん"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "difficulty": 1
   },
   {
@@ -218,7 +218,7 @@
       "なみだ",
       "ショート"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "difficulty": 1
   },
   {
@@ -230,7 +230,7 @@
       "ひょうげん",
       "ほら"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "difficulty": 1
   },
   {
@@ -370,7 +370,7 @@
       "シャンプー",
       "～みたいにしてください"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "difficulty": 1
   },
   {
@@ -382,7 +382,7 @@
       "それはいけませんね",
       "なきます"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "difficulty": 1
   },
   {
@@ -418,7 +418,7 @@
       "ショート",
       "スタートボタン"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "difficulty": 1
   },
   {
@@ -466,7 +466,7 @@
       "ほら",
       "～ばい"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "difficulty": 1
   },
   {
@@ -478,7 +478,7 @@
       "ぬれます",
       "はんぶん"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "difficulty": 1
   },
   {
@@ -560,7 +560,7 @@
       "どうなさいますか",
       "ショート"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "difficulty": 1
   },
   {
@@ -572,7 +572,7 @@
       "やりなおします",
       "りょう"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "difficulty": 1
   },
   {
@@ -632,7 +632,7 @@
       "たんす",
       "ほら"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "difficulty": 1
   },
   {
@@ -668,7 +668,7 @@
       "はなれます",
       "わかれます"
     ],
-    "correctAnswer": 2,
+    "correctAnswer": 3,
     "difficulty": 1
   },
   {
@@ -750,7 +750,7 @@
       "なみだ",
       "スタートボタン"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "difficulty": 1
   },
   {
@@ -856,7 +856,7 @@
       "たんす",
       "どういうふうになさいますか"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "difficulty": 1
   },
   {
@@ -945,7 +945,7 @@
   },
   {
     "id": 81,
-    "question": "<b>タワポンさんは<ruby>日本語<rp>（</rp><rt>にほんご</rt><rp>）</rp></ruby>を＿＿＿<ruby>話<rp>（</rp><rt>はな</rt><rp>）</rp></ruby>します。</b>",
+    "question": "<b>タワポンさんは<ruby>日<ruby>本<rp>（</rp><rt>ほん</rt><rp>）</rp></ruby>語<rp>（</rp><rt>にほんご</rt><rp>）</rp></ruby>を＿＿＿<ruby>話<rp>（</rp><rt>はな</rt><rp>）</rp></ruby>します。</b>",
     "options": [
       "できるに",
       "上手に"
@@ -1067,7 +1067,7 @@
   },
   {
     "id": 92,
-    "question": "<b>下着</b>",
+    "question": "<b><ruby>下<ruby>着<rp>（</rp><rt>き</rt><rp>）</rp></ruby><rp>（</rp><rt>したぎ</rt><rp>）</rp></ruby></b>",
     "options": [
       "かわきます",
       "したぎ",
@@ -1091,7 +1091,7 @@
   },
   {
     "id": 94,
-    "question": "<b><ruby>鈴木<rp>（</rp><rt>すずき</rt><rp>）</rp></ruby>さんは＿＿＿<ruby>勉強<rp>（</rp><rt>べんきょう</rt><rp>）</rp></ruby>したので、<ruby>大学<rp>（</rp><rt>だいがく</rt><rp>）</rp></ruby>に<ruby>合格<rp>（</rp><rt>ごうかく</rt><rp>）</rp></ruby>しました。</b>",
+    "question": "<b><ruby>鈴<ruby>木<rp>（</rp><rt>き</rt><rp>）</rp></ruby><rp>（</rp><rt>すずき</rt><rp>）</rp></ruby>さんは＿＿＿<ruby>勉強<rp>（</rp><rt>べんきょう</rt><rp>）</rp></ruby>したので、<ruby>大学<rp>（</rp><rt>だいがく</rt><rp>）</rp></ruby>に<ruby>合格<rp>（</rp><rt>ごうかく</rt><rp>）</rp></ruby>しました。</b>",
     "options": [
       "ちゃんとに",
       "まじめに"
@@ -1125,7 +1125,7 @@
   },
   {
     "id": 97,
-    "question": "<b>付きます</b>",
+    "question": "<b><ruby>付<rp>（</rp><rt>つ</rt><rp>）</rp></ruby>きます</b>",
     "options": [
       "すべります",
       "つきます",
@@ -1144,7 +1144,7 @@
       "これら",
       "わらいます"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "difficulty": 1
   },
   {
@@ -1156,7 +1156,7 @@
       "ショート",
       "～みたいにしてください"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "difficulty": 1
   },
   {
@@ -1216,7 +1216,7 @@
       "わらいます",
       "スタートボタン"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "difficulty": 1
   },
   {
@@ -1252,7 +1252,7 @@
       "ぬれます",
       "わかれます"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "difficulty": 1
   },
   {
@@ -1276,7 +1276,7 @@
       "ぬれます",
       "わかれます"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "difficulty": 1
   },
   {
@@ -1288,7 +1288,7 @@
       "はんぶん",
       "～みたいにしてください"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "difficulty": 1
   },
   {
@@ -1312,7 +1312,7 @@
       "やりなおします",
       "りょう"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "difficulty": 1
   },
   {
@@ -1360,7 +1360,7 @@
       "ぬれます",
       "ひょうげん"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "difficulty": 1
   },
   {
@@ -1405,7 +1405,7 @@
       "ぬれます",
       "シャンプー"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "difficulty": 1
   },
   {
@@ -1465,7 +1465,7 @@
       "どういうふうになさいますか",
       "シングル"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "difficulty": 1
   },
   {
@@ -1477,7 +1477,7 @@
       "それはいけませんね",
       "りょう"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "difficulty": 1
   },
   {
@@ -1525,7 +1525,7 @@
       "シングル",
       "～ばい"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "difficulty": 1
   },
   {
@@ -1537,7 +1537,7 @@
       "どういうふうになさいますか",
       "ひょうげん"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "difficulty": 1
   },
   {
@@ -1595,7 +1595,7 @@
       "はんぶん",
       "ほら"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "difficulty": 1
   },
   {
@@ -1607,7 +1607,7 @@
       "なきます",
       "ぬれます"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "difficulty": 1
   },
   {
@@ -1643,7 +1643,7 @@
       "ひょうげん",
       "わかれます"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "difficulty": 1
   },
   {
@@ -1677,7 +1677,7 @@
       "ひょうげん",
       "ほら"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "difficulty": 1
   },
   {
@@ -1701,7 +1701,7 @@
       "シャンプー",
       "スタートボタン"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "difficulty": 1
   },
   {
@@ -1761,7 +1761,7 @@
       "やりなおします",
       "わかれます"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "difficulty": 1
   },
   {
@@ -1824,7 +1824,7 @@
   },
   {
     "id": 156,
-    "question": "<b><ruby>転勤<rp>（</rp><rt>てんきん</rt><rp>）</rp></ruby>のことを<ruby>部長<rp>（</rp><rt>ぶちょう</rt><rp>）</rp></ruby>に＿＿＿<ruby>聞<rp>（</rp><rt>き</rt><rp>）</rp></ruby>きました。</b>",
+    "question": "<b><ruby>転勤<rp>（</rp><rt>てんきん</rt><rp>）</rp></ruby>のことを<ruby>部<ruby>長<rp>（</rp><rt>なが</rt><rp>）</rp></ruby><rp>（</rp><rt>ぶちょう</rt><rp>）</rp></ruby>に＿＿＿<ruby>聞<rp>（</rp><rt>き</rt><rp>）</rp></ruby>きました。</b>",
     "options": [
       "ぜんぜん",
       "詳しく"
@@ -1853,7 +1853,7 @@
       "やりなおします",
       "りょう"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "difficulty": 1
   },
   {
@@ -1925,7 +1925,7 @@
       "なきます",
       "なみだ"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "difficulty": 1
   },
   {
@@ -1976,7 +1976,7 @@
   },
   {
     "id": 169,
-    "question": "<b>細かい</b>",
+    "question": "<b><ruby>細<rp>（</rp><rt>ほそ</rt><rp>）</rp></ruby>かい</b>",
     "options": [
       "こまかい",
       "せいかい",
@@ -1995,7 +1995,7 @@
       "ようしょく",
       "わしょく"
     ],
-    "correctAnswer": 3,
+    "correctAnswer": 0,
     "difficulty": 1
   },
   {

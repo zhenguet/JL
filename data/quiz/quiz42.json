@@ -8,12 +8,12 @@
       "まぜます",
       "データ"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "difficulty": 1
   },
   {
     "id": 2,
-    "question": "<b>調査</b>",
+    "question": "<b><ruby>調<rp>（</rp><rt>しら</rt><rp>）</rp></ruby>査</b>",
     "options": [
       "いた",
       "ちょうさ",
@@ -32,7 +32,7 @@
       "しゃか",
       "しゃかい"
     ],
-    "correctAnswer": 2,
+    "correctAnswer": 3,
     "difficulty": 1
   },
   {
@@ -61,7 +61,7 @@
   },
   {
     "id": 6,
-    "question": "<b><ruby>日本語<rp>（</rp><rt>にほんご</rt><rp>）</rp></ruby>は<ruby>仕事<rp>（</rp><rt>しごと</rt><rp>）</rp></ruby>に（　）と<ruby>思<rp>（</rp><rt>おも</rt><rp>）</rp></ruby>います。</b>",
+    "question": "<b><ruby>日<ruby>本<rp>（</rp><rt>ほん</rt><rp>）</rp></ruby>語<rp>（</rp><rt>にほんご</rt><rp>）</rp></ruby>は<ruby>仕事<rp>（</rp><rt>しごと</rt><rp>）</rp></ruby>に（　）と<ruby>思<rp>（</rp><rt>おも</rt><rp>）</rp></ruby>います。</b>",
     "options": [
       "便利だ",
       "役に立つ"
@@ -83,7 +83,7 @@
   },
   {
     "id": 8,
-    "question": "<b>この<ruby>辺<rp>（</rp><rt>へん</rt><rp>）</rp></ruby>は<ruby>散歩<rp>（</rp><rt>さんぽ</rt><rp>）</rp></ruby>（　）いいです。</b>",
+    "question": "<b>この<ruby>辺<rp>（</rp><rt>へん</rt><rp>）</rp></ruby>は<ruby>散<ruby>歩<rp>（</rp><rt>ある</rt><rp>）</rp></ruby><rp>（</rp><rt>さんぽ</rt><rp>）</rp></ruby>（　）いいです。</b>",
     "options": [
       "に",
       "のに"
@@ -136,7 +136,7 @@
       "ふろしき",
       "もうしこみます"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "difficulty": 1
   },
   {
@@ -276,7 +276,7 @@
       "せんぬき",
       "どんぶり"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "difficulty": 1
   },
   {
@@ -305,7 +305,7 @@
   },
   {
     "id": 27,
-    "question": "<b>缶詰</b>",
+    "question": "<b><ruby>缶<rp>（</rp><rt>かん</rt><rp>）</rp></ruby>詰</b>",
     "options": [
       "かんづめ",
       "なべ",
@@ -442,7 +442,7 @@
       "みずうみ",
       "ろんぶん"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "difficulty": 1
   },
   {
@@ -478,7 +478,7 @@
       "なべ",
       "ふろしき"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "difficulty": 1
   },
   {
@@ -490,7 +490,7 @@
       "みずうみ",
       "れきし"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "difficulty": 1
   },
   {
@@ -526,7 +526,7 @@
       "せんそう",
       "ポーランド"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "difficulty": 1
   },
   {
@@ -555,7 +555,7 @@
   },
   {
     "id": 48,
-    "question": "<b><ruby>日本<rp>（</rp><rt>にほん</rt><rp>）</rp></ruby>（　）アジア（　）<ruby>関係<rp>（</rp><rt>かんけい</rt><rp>）</rp></ruby>を<ruby>知<rp>（</rp><rt>し</rt><rp>）</rp></ruby>るために、<ruby>資料<rp>（</rp><rt>しりょう</rt><rp>）</rp></ruby>（　）<ruby>集<rp>（</rp><rt>あつ</rt><rp>）</rp></ruby>めています。</b>",
+    "question": "<b><ruby>日<ruby>本<rp>（</rp><rt>ほん</rt><rp>）</rp></ruby><rp>（</rp><rt>にほん</rt><rp>）</rp></ruby>（　）アジア（　）<ruby>関係<rp>（</rp><rt>かんけい</rt><rp>）</rp></ruby>を<ruby>知<rp>（</rp><rt>し</rt><rp>）</rp></ruby>るために、<ruby>資料<rp>（</rp><rt>しりょう</rt><rp>）</rp></ruby>（　）<ruby>集<rp>（</rp><rt>あつ</rt><rp>）</rp></ruby>めています。</b>",
     "options": [
       "で、に、を",
       "と、の、を"
@@ -596,7 +596,7 @@
       "アルバイト",
       "セット"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "difficulty": 1
   },
   {
@@ -649,7 +649,7 @@
   },
   {
     "id": 56,
-    "question": "<b>A：（　）<ruby>日本語<rp>（</rp><rt>にほんご</rt><rp>）</rp></ruby>を<ruby>勉強<rp>（</rp><rt>べんきょう</rt><rp>）</rp></ruby>しているんですか。<p>B：<ruby>日本<rp>（</rp><rt>にほん</rt><rp>）</rp></ruby>の<ruby>文化<rp>（</rp><rt>ぶんか</rt><rp>）</rp></ruby>を<ruby>研究<rp>（</rp><rt>けんきゅう</rt><rp>）</rp></ruby>するために<ruby>勉強<rp>（</rp><rt>べんきょう</rt><rp>）</rp></ruby>しているんです。</p></b>",
+    "question": "<b>A：（　）<ruby>日<ruby>本<rp>（</rp><rt>ほん</rt><rp>）</rp></ruby>語<rp>（</rp><rt>にほんご</rt><rp>）</rp></ruby>を<ruby>勉強<rp>（</rp><rt>べんきょう</rt><rp>）</rp></ruby>しているんですか。<p>B：<ruby>日<ruby>本<rp>（</rp><rt>ほん</rt><rp>）</rp></ruby><rp>（</rp><rt>にほん</rt><rp>）</rp></ruby>の<ruby>文化<rp>（</rp><rt>ぶんか</rt><rp>）</rp></ruby>を<ruby>研究<rp>（</rp><rt>けんきゅう</rt><rp>）</rp></ruby>するために<ruby>勉強<rp>（</rp><rt>べんきょう</rt><rp>）</rp></ruby>しているんです。</p></b>",
     "options": [
       "なぜ",
       "何に"
@@ -774,7 +774,7 @@
       "セット",
       "ファイル"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "difficulty": 1
   },
   {
@@ -962,7 +962,7 @@
       "ほうりつ",
       "ベートーベン"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "difficulty": 1
   },
   {
@@ -974,7 +974,7 @@
       "おんがくか",
       "ざいりょう"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "difficulty": 1
   },
   {
@@ -1070,7 +1070,7 @@
       "ろんぶん",
       "ミキサー"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "difficulty": 1
   },
   {
@@ -1157,7 +1157,7 @@
   },
   {
     "id": 99,
-    "question": "<b>目的</b>",
+    "question": "<b><ruby>目<rp>（</rp><rt>め</rt><rp>）</rp></ruby>的</b>",
     "options": [
       "めってき",
       "もかてき",
@@ -1200,7 +1200,7 @@
       "ベートーベン",
       "ミキサー"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "difficulty": 1
   },
   {
@@ -1320,7 +1320,7 @@
       "そろばん",
       "ふろしき"
     ],
-    "correctAnswer": 3,
+    "correctAnswer": 2,
     "difficulty": 1
   },
   {
@@ -1361,7 +1361,7 @@
   },
   {
     "id": 116,
-    "question": "<b>マラソン<ruby>大会<rp>（</rp><rt>たいかい</rt><rp>）</rp></ruby>に<ruby>出<rp>（</rp><rt>で</rt><rp>）</rp></ruby>る（　）、<ruby>毎日<rp>（</rp><rt>まいにち</rt><rp>）</rp></ruby><ruby>練習<rp>（</rp><rt>れんしゅう</rt><rp>）</rp></ruby>しています。</b>",
+    "question": "<b>マラソン<ruby>大<ruby>会<rp>（</rp><rt>あ</rt><rp>）</rp></ruby><rp>（</rp><rt>たいかい</rt><rp>）</rp></ruby>に<ruby>出<rp>（</rp><rt>で</rt><rp>）</rp></ruby>る（　）、<ruby>毎<ruby>日<rp>（</rp><rt>ひ</rt><rp>）</rp></ruby><rp>（</rp><rt>まいにち</rt><rp>）</rp></ruby><ruby>練習<rp>（</rp><rt>れんしゅう</rt><rp>）</rp></ruby>しています。</b>",
     "options": [
       "ために",
       "ように"
@@ -1616,7 +1616,7 @@
       "ぶんか",
       "ほうりつ"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "difficulty": 1
   },
   {
@@ -1684,7 +1684,7 @@
       "れきし",
       "ミキサー"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "difficulty": 1
   },
   {
@@ -1744,7 +1744,7 @@
       "はずします",
       "ファイル"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "difficulty": 1
   },
   {
@@ -1841,7 +1841,7 @@
   },
   {
     "id": 157,
-    "question": "<b><ruby>約束<rp>（</rp><rt>やくそく</rt><rp>）</rp></ruby>の<ruby>時間<rp>（</rp><rt>じかん</rt><rp>）</rp></ruby>に<ruby>遅<rp>（</rp><rt>おく</rt><rp>）</rp></ruby>れない（　）、<ruby>急<rp>（</rp><rt>いそ</rt><rp>）</rp></ruby>いで<ruby>行<rp>（</rp><rt>い</rt><rp>）</rp></ruby>きました。</b>",
+    "question": "<b><ruby>約束<rp>（</rp><rt>やくそく</rt><rp>）</rp></ruby>の<ruby>時<ruby>間<rp>（</rp><rt>あいだ</rt><rp>）</rp></ruby><rp>（</rp><rt>じかん</rt><rp>）</rp></ruby>に<ruby>遅<rp>（</rp><rt>おく</rt><rp>）</rp></ruby>れない（　）、<ruby>急<rp>（</rp><rt>いそ</rt><rp>）</rp></ruby>いで<ruby>行<rp>（</rp><rt>い</rt><rp>）</rp></ruby>きました。</b>",
     "options": [
       "ために",
       "ように"
@@ -1858,7 +1858,7 @@
       "もくてき",
       "カップラーメン"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "difficulty": 1
   },
   {
@@ -1870,7 +1870,7 @@
       "いた",
       "しゅうかん"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "difficulty": 1
   },
   {
@@ -1882,12 +1882,12 @@
       "まぜます",
       "～のかわりに"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "difficulty": 1
   },
   {
     "id": 161,
-    "question": "<b>A：うちから会社まで車でどのぐらいかかりますか。<p> B：道が込んでいなくても、1時間半（　）かかります。</p><p>A：1時間半（　）かかるんですか。大変ですね。</p></b>",
+    "question": "<b>A：うちから<ruby>会社<rp>（</rp><rt>かいしゃ</rt><rp>）</rp></ruby>まで車でどのぐらいかかりますか。<p> B：<ruby>道<rp>（</rp><rt>みち</rt><rp>）</rp></ruby>が込んでいなくても、1時<ruby>間<rp>（</rp><rt>あいだ</rt><rp>）</rp></ruby>半（　）かかります。</p><p>A：1時<ruby>間<rp>（</rp><rt>あいだ</rt><rp>）</rp></ruby>半（　）かかるんですか。大変ですね。</p></b>",
     "options": [
       "は、も",
       "も、は"
@@ -1904,7 +1904,7 @@
       "けんこう",
       "もくてき"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "difficulty": 1
   },
   {
@@ -1938,7 +1938,7 @@
       "アルバイト",
       "～のかわりに"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "difficulty": 1
   },
   {
@@ -2056,7 +2056,7 @@
       "ふろしき",
       "インスタントラーメン"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "difficulty": 1
   },
   {

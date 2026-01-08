@@ -20,7 +20,7 @@
       "ぼくじょう",
       "もっと「れんしゅうし」ないと…"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "difficulty": 1
   },
   {
@@ -49,7 +49,7 @@
   },
   {
     "id": 5,
-    "question": "<b>換えます</b>",
+    "question": "<b><ruby>換<rp>（</rp><rt>か</rt><rp>）</rp></ruby>えます</b>",
     "options": [
       "おいのり「～をします」",
       "かえます",
@@ -80,12 +80,12 @@
       "なおします",
       "メートル"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "difficulty": 1
   },
   {
     "id": 8,
-    "question": "<b>社長</b>",
+    "question": "<b><ruby>社<ruby>長<rp>（</rp><rt>なが</rt><rp>）</rp></ruby><rp>（</rp><rt>しゃちょう</rt><rp>）</rp></ruby></b>",
     "options": [
       "おいのり「～をします」",
       "およぎます",
@@ -104,12 +104,12 @@
       "ひきます",
       "まだまだだめです"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "difficulty": 1
   },
   {
     "id": 10,
-    "question": "<b>大丈夫です</b>",
+    "question": "<b><ruby>大丈夫<rp>（</rp><rt>だいじょうぶ</rt><rp>）</rp></ruby>です</b>",
     "options": [
       "こくさい",
       "しゃちょう",
@@ -128,7 +128,7 @@
       "かちょう",
       "だいじょうぶです"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "difficulty": 1
   },
   {
@@ -200,12 +200,12 @@
       "はじめます",
       "ぼくじょう"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "difficulty": 1
   },
   {
     "id": 18,
-    "question": "<b>馬</b>",
+    "question": "<b><ruby>馬<rp>（</rp><rt>うま</rt><rp>）</rp></ruby></b>",
     "options": [
       "うま",
       "くま",
@@ -258,7 +258,7 @@
       "ほんとうですか",
       "ピアノをひきます"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "difficulty": 1
   },
   {
@@ -287,7 +287,7 @@
   },
   {
     "id": 25,
-    "question": "<b>課長</b>",
+    "question": "<b><ruby>課<ruby>長<rp>（</rp><rt>なが</rt><rp>）</rp></ruby><rp>（</rp><rt>かちょう</rt><rp>）</rp></ruby></b>",
     "options": [
       "およぎます",
       "かちょう",
@@ -342,7 +342,7 @@
       "だいじょうぶです",
       "よやくします"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "difficulty": 1
   },
   {
@@ -386,7 +386,7 @@
       "しゃちょう",
       "ビートルズ"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "difficulty": 1
   },
   {
@@ -420,7 +420,7 @@
       "それはおもしろいね",
       "ビートルズ"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "difficulty": 1
   },
   {
@@ -437,7 +437,7 @@
   },
   {
     "id": 38,
-    "question": "<b>このとしょかんのほんは２<ruby>週間<rp>（</rp><rt>しゅうかん</rt><rp>）</rp></ruby>（１）<ruby>借<rp>（</rp><rt>か</rt><rp>）</rp></ruby>りること（２）できます。</b><p><b>(2)</b></p>",
+    "question": "<b>このとしょかんのほんは２<ruby>週<ruby>間<rp>（</rp><rt>あいだ</rt><rp>）</rp></ruby><rp>（</rp><rt>しゅうかん</rt><rp>）</rp></ruby>（１）<ruby>借<rp>（</rp><rt>か</rt><rp>）</rp></ruby>りること（２）できます。</b><p><b>(2)</b></p>",
     "options": [
       "が",
       "に"
@@ -471,7 +471,7 @@
   },
   {
     "id": 41,
-    "question": "<b>このとしょかんのほんは２<ruby>週間<rp>（</rp><rt>しゅうかん</rt><rp>）</rp></ruby>（１）<ruby>借<rp>（</rp><rt>か</rt><rp>）</rp></ruby>りること（２）できます。</b><p><b>(1)</b></p>",
+    "question": "<b>このとしょかんのほんは２<ruby>週<ruby>間<rp>（</rp><rt>あいだ</rt><rp>）</rp></ruby><rp>（</rp><rt>しゅうかん</rt><rp>）</rp></ruby>（１）<ruby>借<rp>（</rp><rt>か</rt><rp>）</rp></ruby>りること（２）できます。</b><p><b>(1)</b></p>",
     "options": [
       "に",
       "Ｘ"
@@ -561,7 +561,7 @@
   },
   {
     "id": 49,
-    "question": "<b><ruby>春<rp>（</rp><rt>はる</rt><rp>）</rp></ruby>はこの<ruby>公園<rp>（</rp><rt>こうえん</rt><rp>）</rp></ruby>（１）お<ruby>花見<rp>（</rp><rt>はなみ</rt><rp>）</rp></ruby>（２）できます。</b><p><b>(1)</b></p>",
+    "question": "<b><ruby>春<rp>（</rp><rt>はる</rt><rp>）</rp></ruby>はこの<ruby>公園<rp>（</rp><rt>こうえん</rt><rp>）</rp></ruby>（１）お<ruby>花<ruby>見<rp>（</rp><rt>み</rt><rp>）</rp></ruby><rp>（</rp><rt>はなみ</rt><rp>）</rp></ruby>（２）できます。</b><p><b>(1)</b></p>",
     "options": [
       "で",
       "に"
@@ -641,7 +641,7 @@
   },
   {
     "id": 56,
-    "question": "<b>泳ぎます</b>",
+    "question": "<b><ruby>泳<rp>（</rp><rt>およ</rt><rp>）</rp></ruby>ぎます</b>",
     "options": [
       "およぎます",
       "かえます",
@@ -788,7 +788,7 @@
       "ぶちょう",
       "スキー"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "difficulty": 1
   },
   {
@@ -815,7 +815,7 @@
   },
   {
     "id": 71,
-    "question": "<b>もっと「練習し」ないと…</b>",
+    "question": "<b>もっと「<ruby>練習<rp>（</rp><rt>れんしゅう</rt><rp>）</rp></ruby>し」ないと…</b>",
     "options": [
       "うたいます",
       "げんきん",
@@ -911,7 +911,7 @@
   },
   {
     "id": 79,
-    "question": "<b>部長</b>",
+    "question": "<b><ruby>部<ruby>長<rp>（</rp><rt>なが</rt><rp>）</rp></ruby><rp>（</rp><rt>ぶちょう</rt><rp>）</rp></ruby></b>",
     "options": [
       "おいのり「～をします」",
       "こしょう",
@@ -954,7 +954,7 @@
       "ほんとうですか",
       "もっと「れんしゅうし」ないと…"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "difficulty": 1
   },
   {
@@ -971,7 +971,7 @@
   },
   {
     "id": 84,
-    "question": "<b>牧場</b>",
+    "question": "<b><ruby>牧<ruby>場<rp>（</rp><rt>ば</rt><rp>）</rp></ruby><rp>（</rp><rt>ぼくじょう</rt><rp>）</rp></ruby></b>",
     "options": [
       "しゃちょう",
       "それはおもしろいね",
@@ -990,7 +990,7 @@
       "ふります",
       "わらいます"
     ],
-    "correctAnswer": 2,
+    "correctAnswer": 0,
     "difficulty": 1
   },
   {
@@ -1002,7 +1002,7 @@
       "げんきん",
       "はじめます"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "difficulty": 1
   },
   {
@@ -1026,7 +1026,7 @@
       "まだまだだめです",
       "メートル"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "difficulty": 1
   },
   {
@@ -1050,7 +1050,7 @@
       "げんきん",
       "それはおもしろいね"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "difficulty": 1
   },
   {
@@ -1185,7 +1185,7 @@
   },
   {
     "id": 102,
-    "question": "<b>牧場</b>",
+    "question": "<b><ruby>牧<ruby>場<rp>（</rp><rt>ば</rt><rp>）</rp></ruby><rp>（</rp><rt>ぼくじょう</rt><rp>）</rp></ruby></b>",
     "options": [
       "ほうじょ",
       "ほくじょ",
@@ -1216,7 +1216,7 @@
       "はじめます",
       "ビートルズ"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "difficulty": 1
   },
   {
@@ -1240,7 +1240,7 @@
       "それはおもしろいね",
       "ひきます"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "difficulty": 1
   },
   {
@@ -1252,7 +1252,7 @@
       "ひきます",
       "へえ"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "difficulty": 1
   },
   {
@@ -1264,12 +1264,12 @@
       "はじめます",
       "ぼくじょう"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "difficulty": 1
   },
   {
     "id": 109,
-    "question": "<b>日記</b>",
+    "question": "<b><ruby>日記<rp>（</rp><rt>にっき</rt><rp>）</rp></ruby></b>",
     "options": [
       "せいき",
       "せっき",
@@ -1327,14 +1327,14 @@
   },
   {
     "id": 114,
-    "question": "<b>国際</b>",
+    "question": "<b><ruby>国際<rp>（</rp><rt>こくさい</rt><rp>）</rp></ruby></b>",
     "options": [
       "こうくさい",
       "こうさい",
       "こくさい",
       "こっさい"
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 2,
     "difficulty": 2
   },
   {
@@ -1346,12 +1346,12 @@
       "へえ",
       "れんしゅうします"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "difficulty": 1
   },
   {
     "id": 116,
-    "question": "<b><ruby>日本語<rp>（</rp><rt>にほんご</rt><rp>）</rp></ruby>を（　）ことができますよ。</b>",
+    "question": "<b><ruby>日<ruby>本<rp>（</rp><rt>ほん</rt><rp>）</rp></ruby>語<rp>（</rp><rt>にほんご</rt><rp>）</rp></ruby>を（　）ことができますよ。</b>",
     "options": [
       "話す",
       "話する"
@@ -1414,7 +1414,7 @@
       "ビートルズ",
       "メートル"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "difficulty": 1
   },
   {
@@ -1467,7 +1467,7 @@
   },
   {
     "id": 126,
-    "question": "<b>（　）まえに、<ruby>日本<rp>（</rp><rt>にほん</rt><rp>）</rp></ruby>へ<ruby>来<rp>（</rp><rt>き</rt><rp>）</rp></ruby>ました。</b>",
+    "question": "<b>（　）まえに、<ruby>日<ruby>本<rp>（</rp><rt>ほん</rt><rp>）</rp></ruby><rp>（</rp><rt>にほん</rt><rp>）</rp></ruby>へ<ruby>来<rp>（</rp><rt>き</rt><rp>）</rp></ruby>ました。</b>",
     "options": [
       "２か月",
       "２か月の"
@@ -1484,12 +1484,12 @@
       "もっと「れんしゅうし」ないと…",
       "ピアノをひきます"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "difficulty": 1
   },
   {
     "id": 128,
-    "question": "<b><ruby>春<rp>（</rp><rt>はる</rt><rp>）</rp></ruby>はこの<ruby>公園<rp>（</rp><rt>こうえん</rt><rp>）</rp></ruby>（１）お<ruby>花見<rp>（</rp><rt>はなみ</rt><rp>）</rp></ruby>（２）できます。</b><p><b>(2)</b></p>",
+    "question": "<b><ruby>春<rp>（</rp><rt>はる</rt><rp>）</rp></ruby>はこの<ruby>公園<rp>（</rp><rt>こうえん</rt><rp>）</rp></ruby>（１）お<ruby>花<ruby>見<rp>（</rp><rt>み</rt><rp>）</rp></ruby><rp>（</rp><rt>はなみ</rt><rp>）</rp></ruby>（２）できます。</b><p><b>(2)</b></p>",
     "options": [
       "が",
       "に"
@@ -1518,12 +1518,12 @@
       "ほんとうですか",
       "ビートルズ"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "difficulty": 1
   },
   {
     "id": 131,
-    "question": "<b>故障</b>",
+    "question": "<b><ruby>故障<rp>（</rp><rt>こしょう</rt><rp>）</rp></ruby></b>",
     "options": [
       "こしょう",
       "できます",
@@ -1552,7 +1552,7 @@
       "ビートルズ",
       "メートル"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "difficulty": 1
   },
   {
@@ -1564,7 +1564,7 @@
       "だいじょうぶです",
       "よやくします"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "difficulty": 1
   },
   {
@@ -1629,7 +1629,7 @@
   },
   {
     "id": 140,
-    "question": "<b><ruby>現金<rp>（</rp><rt>げんきん</rt><rp>）</rp></ruby>（　）<ruby>払<rp>（</rp><rt>はら</rt><rp>）</rp></ruby>ってください。</b>",
+    "question": "<b><ruby>現<ruby>金<rp>（</rp><rt>きん</rt><rp>）</rp></ruby><rp>（</rp><rt>げんきん</rt><rp>）</rp></ruby>（　）<ruby>払<rp>（</rp><rt>はら</rt><rp>）</rp></ruby>ってください。</b>",
     "options": [
       "で",
       "に"
@@ -1672,7 +1672,7 @@
   },
   {
     "id": 144,
-    "question": "<b>練習します</b>",
+    "question": "<b><ruby>練習<rp>（</rp><rt>れんしゅう</rt><rp>）</rp></ruby>します</b>",
     "options": [
       "およぎます",
       "こくさい",
@@ -1776,14 +1776,14 @@
   },
   {
     "id": 153,
-    "question": "<b>趣味</b>",
+    "question": "<b><ruby>趣味<rp>（</rp><rt>しゅみ</rt><rp>）</rp></ruby></b>",
     "options": [
       "かえます",
       "しゅみ",
       "ぶちょう",
       "ビートルズ"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "difficulty": 2
   },
   {
@@ -1831,7 +1831,7 @@
       "だいじょうぶです",
       "メートル"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "difficulty": 1
   },
   {
@@ -1867,7 +1867,7 @@
       "こくさい",
       "よやくします"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "difficulty": 1
   },
   {
@@ -1891,12 +1891,12 @@
       "なおします",
       "まだまだだめです"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "difficulty": 1
   },
   {
     "id": 163,
-    "question": "<b>換えます</b>",
+    "question": "<b><ruby>換<rp>（</rp><rt>か</rt><rp>）</rp></ruby>えます</b>",
     "options": [
       "かえます",
       "こくさい",
@@ -1939,7 +1939,7 @@
       "にっき",
       "ぼくじょう"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "difficulty": 1
   },
   {
@@ -2059,7 +2059,7 @@
       "ビートルズ",
       "ピアノをひきます"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "difficulty": 1
   },
   {
@@ -2083,7 +2083,7 @@
       "ぶちょう",
       "ぷちょう"
     ],
-    "correctAnswer": 3,
+    "correctAnswer": 1,
     "difficulty": 1
   },
   {
@@ -2095,7 +2095,7 @@
       "かちょう",
       "ぶちょう"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "difficulty": 1
   },
   {
@@ -2119,7 +2119,7 @@
       "だいじょうぶです",
       "スキー"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "difficulty": 1
   },
   {

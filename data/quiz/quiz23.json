@@ -8,7 +8,7 @@
       "つまみ",
       "なににつかいますか"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "difficulty": 1
   },
   {
@@ -61,7 +61,7 @@
   },
   {
     "id": 6,
-    "question": "<b><ruby>体<rp>（</rp><rt>からだ</rt><rp>）</rp></ruby>の<ruby>調子<rp>（</rp><rt>ちょうし</rt><rp>）</rp></ruby>が（　）とき、<ruby>野菜<rp>（</rp><rt>やさい</rt><rp>）</rp></ruby>ジュースを<ruby>飲<rp>（</rp><rt>の</rt><rp>）</rp></ruby>みます。</b>",
+    "question": "<b><ruby>体<rp>（</rp><rt>からだ</rt><rp>）</rp></ruby>の<ruby>調<ruby>子<rp>（</rp><rt>こ</rt><rp>）</rp></ruby><rp>（</rp><rt>ちょうし</rt><rp>）</rp></ruby>が（　）とき、<ruby>野菜<rp>（</rp><rt>やさい</rt><rp>）</rp></ruby>ジュースを<ruby>飲<rp>（</rp><rt>の</rt><rp>）</rp></ruby>みます。</b>",
     "options": [
       "悪い",
       "悪いの"
@@ -90,12 +90,12 @@
       "でます",
       "みちをわたります"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "difficulty": 1
   },
   {
     "id": 9,
-    "question": "<b>角</b>",
+    "question": "<b><ruby>角<rp>（</rp><rt>かど</rt><rp>）</rp></ruby></b>",
     "options": [
       "かど",
       "がんばります",
@@ -126,7 +126,7 @@
       "みぎへまがります",
       "サイズ"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "difficulty": 1
   },
   {
@@ -138,7 +138,7 @@
       "こまります",
       "はし"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "difficulty": 1
   },
   {
@@ -161,7 +161,7 @@
       "ひきます",
       "ボタン"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "difficulty": 1
   },
   {
@@ -209,7 +209,7 @@
       "こうさてん",
       "こまかいおかね"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "difficulty": 1
   },
   {
@@ -226,7 +226,7 @@
   },
   {
     "id": 20,
-    "question": "<b>引きます</b>",
+    "question": "<b><ruby>引<rp>（</rp><rt>ひ</rt><rp>）</rp></ruby>きます</b>",
     "options": [
       "こまります",
       "ひきます",
@@ -274,7 +274,7 @@
   },
   {
     "id": 24,
-    "question": "<b>（　）とき、<ruby>散歩<rp>（</rp><rt>さんぽ</rt><rp>）</rp></ruby>します。</b>",
+    "question": "<b>（　）とき、<ruby>散<ruby>歩<rp>（</rp><rt>ある</rt><rp>）</rp></ruby><rp>（</rp><rt>さんぽ</rt><rp>）</rp></ruby>します。</b>",
     "options": [
       "暇だ",
       "暇な"
@@ -291,7 +291,7 @@
       "せんせいにききます",
       "まがります"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "difficulty": 1
   },
   {
@@ -375,7 +375,7 @@
       "なににつかいますか",
       "みち"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "difficulty": 1
   },
   {
@@ -399,7 +399,7 @@
       "たてもの",
       "はし"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "difficulty": 1
   },
   {
@@ -503,7 +503,7 @@
       "つまみ",
       "みぎへまがります"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "difficulty": 1
   },
   {
@@ -658,7 +658,7 @@
   },
   {
     "id": 57,
-    "question": "<b>曲がります</b>",
+    "question": "<b><ruby>曲<rp>（</rp><rt>まが</rt><rp>）</rp></ruby>がります</b>",
     "options": [
       "きっぷがでます",
       "こうさてん",
@@ -670,7 +670,7 @@
   },
   {
     "id": 58,
-    "question": "<b>機械が動きます</b>",
+    "question": "<b><ruby>機械<rp>（</rp><rt>きかい</rt><rp>）</rp></ruby>が<ruby>動<rp>（</rp><rt>うご</rt><rp>）</rp></ruby>きます</b>",
     "options": [
       "きかいがうごきます",
       "こうさてん",
@@ -706,7 +706,7 @@
   },
   {
     "id": 61,
-    "question": "<b><ruby>電話<rp>（</rp><rt>でんわ</rt><rp>）</rp></ruby><ruby>番号<rp>（</rp><rt>ばんごう</rt><rp>）</rp></ruby>が（　）とき、１０４に<ruby>電話<rp>（</rp><rt>でんわ</rt><rp>）</rp></ruby>して<ruby>聞<rp>（</rp><rt>き</rt><rp>）</rp></ruby>きます。</b>",
+    "question": "<b><ruby>電<ruby>話<rp>（</rp><rt>はなし</rt><rp>）</rp></ruby><rp>（</rp><rt>でんわ</rt><rp>）</rp></ruby><ruby>番号<rp>（</rp><rt>ばんごう</rt><rp>）</rp></ruby>が（　）とき、１０４に<ruby>電<ruby>話<rp>（</rp><rt>はなし</rt><rp>）</rp></ruby><rp>（</rp><rt>でんわ</rt><rp>）</rp></ruby>して<ruby>聞<rp>（</rp><rt>き</rt><rp>）</rp></ruby>きます。</b>",
     "options": [
       "わからない",
       "わからなく"
@@ -750,7 +750,7 @@
   },
   {
     "id": 65,
-    "question": "<b>聞きます</b>",
+    "question": "<b><ruby>聞<rp>（</rp><rt>きこ</rt><rp>）</rp></ruby>きます</b>",
     "options": [
       "かど",
       "ききます",
@@ -785,7 +785,7 @@
   },
   {
     "id": 68,
-    "question": "<b>道を渡ります</b>",
+    "question": "<b><ruby>道<rp>（</rp><rt>みち</rt><rp>）</rp></ruby>を<ruby>渡<rp>（</rp><rt>わた</rt><rp>）</rp></ruby>ります</b>",
     "options": [
       "かど",
       "でます",
@@ -821,7 +821,7 @@
   },
   {
     "id": 71,
-    "question": "<b>聞きます</b>",
+    "question": "<b><ruby>聞<rp>（</rp><rt>きこ</rt><rp>）</rp></ruby>きます</b>",
     "options": [
       "ききます",
       "ちょうせつ（します、する、して）",
@@ -840,7 +840,7 @@
       "しんごう",
       "みちをわたります"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "difficulty": 1
   },
   {
@@ -920,7 +920,7 @@
       "ひきます",
       "ひっこし（します、する、して）"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "difficulty": 1
   },
   {
@@ -961,14 +961,14 @@
   },
   {
     "id": 83,
-    "question": "<b>時計</b>",
+    "question": "<b><ruby>時計<rp>（</rp><rt>とけい</rt><rp>）</rp></ruby></b>",
     "options": [
       "とうけ",
       "とうけい",
       "とけ",
       "とけい"
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 3,
     "difficulty": 2
   },
   {
@@ -980,7 +980,7 @@
       "ひっこし（します、する、して）",
       "まわします"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "difficulty": 1
   },
   {
@@ -1004,7 +1004,7 @@
       "ひっこし（します、する、して）",
       "ボタン"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "difficulty": 1
   },
   {
@@ -1028,7 +1028,7 @@
       "つまみ",
       "みち"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "difficulty": 1
   },
   {
@@ -1087,7 +1087,7 @@
       "なににつかいますか",
       "まがります"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "difficulty": 1
   },
   {
@@ -1115,7 +1115,7 @@
   },
   {
     "id": 96,
-    "question": "<b>駐車場</b>",
+    "question": "<b><ruby>駐車<ruby>場<rp>（</rp><rt>ば</rt><rp>）</rp></ruby><rp>（</rp><rt>ちゅうしゃじょう</rt><rp>）</rp></ruby></b>",
     "options": [
       "「せんえん」さつ",
       "おつり",
@@ -1221,7 +1221,7 @@
   },
   {
     "id": 105,
-    "question": "<b>機械が動きます</b>",
+    "question": "<b><ruby>機械<rp>（</rp><rt>きかい</rt><rp>）</rp></ruby>が<ruby>動<rp>（</rp><rt>うご</rt><rp>）</rp></ruby>きます</b>",
     "options": [
       "かど",
       "がいこくじんとうろくしょう",
@@ -1257,14 +1257,14 @@
   },
   {
     "id": 108,
-    "question": "<b>交差点</b>",
+    "question": "<b><ruby>交差点<rp>（</rp><rt>こうさてん</rt><rp>）</rp></ruby></b>",
     "options": [
       "うごきます",
       "がんばります",
       "こうさてん",
       "ボタン"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "difficulty": 2
   },
   {
@@ -1336,7 +1336,7 @@
   },
   {
     "id": 115,
-    "question": "<b>回します</b>",
+    "question": "<b><ruby>回<rp>（</rp><rt>まわ</rt><rp>）</rp></ruby>します</b>",
     "options": [
       "こわします",
       "ならします",
@@ -1427,7 +1427,7 @@
   },
   {
     "id": 123,
-    "question": "<b>～目</b>",
+    "question": "<b>～<ruby>目<rp>（</rp><rt>め</rt><rp>）</rp></ruby></b>",
     "options": [
       "がんばります",
       "こまったな",
@@ -1439,7 +1439,7 @@
   },
   {
     "id": 124,
-    "question": "<b>建物</b>",
+    "question": "<b><ruby>建<ruby>物<rp>（</rp><rt>もの</rt><rp>）</rp></ruby><rp>（</rp><rt>たてもの</rt><rp>）</rp></ruby></b>",
     "options": [
       "けんぶつ",
       "けんべつ",
@@ -1468,7 +1468,7 @@
       "すみ",
       "やど"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "difficulty": 1
   },
   {
@@ -1485,7 +1485,7 @@
   },
   {
     "id": 128,
-    "question": "<b>駐車場</b>",
+    "question": "<b><ruby>駐車<ruby>場<rp>（</rp><rt>ば</rt><rp>）</rp></ruby><rp>（</rp><rt>ちゅうしゃじょう</rt><rp>）</rp></ruby></b>",
     "options": [
       "いみ",
       "おします",
@@ -1567,7 +1567,7 @@
   },
   {
     "id": 135,
-    "question": "<b>細かいお金</b>",
+    "question": "<b><ruby>細<rp>（</rp><rt>ほそ</rt><rp>）</rp></ruby>かいお<ruby>金<rp>（</rp><rt>きん</rt><rp>）</rp></ruby></b>",
     "options": [
       "きかいがうごきます",
       "ききます",
@@ -1598,12 +1598,12 @@
       "こまります",
       "とまります"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "difficulty": 1
   },
   {
     "id": 138,
-    "question": "<b>止まります</b>",
+    "question": "<b><ruby>止<rp>（</rp><rt>と</rt><rp>）</rp></ruby>まります</b>",
     "options": [
       "こうさてん",
       "こしょう（します、する、して）",
@@ -1622,12 +1622,12 @@
       "ちょうせつ（します、する、して）",
       "なににつかいますか"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "difficulty": 1
   },
   {
     "id": 140,
-    "question": "<b>頑張ります</b>",
+    "question": "<b><ruby>頑張<rp>（</rp><rt>がんば</rt><rp>）</rp></ruby>ります</b>",
     "options": [
       "いみ",
       "がんばります",
@@ -1639,7 +1639,7 @@
   },
   {
     "id": 141,
-    "question": "<b>けさここへ（　）とき、<ruby>駅<rp>（</rp><rt>えき</rt><rp>）</rp></ruby>で<ruby>新聞<rp>（</rp><rt>しんぶん</rt><rp>）</rp></ruby>を<ruby>買<rp>（</rp><rt>か</rt><rp>）</rp></ruby>いました。</b>",
+    "question": "<b>けさここへ（　）とき、<ruby>駅<rp>（</rp><rt>えき</rt><rp>）</rp></ruby>で<ruby>新<ruby>聞<rp>（</rp><rt>きこ</rt><rp>）</rp></ruby><rp>（</rp><rt>しんぶん</rt><rp>）</rp></ruby>を<ruby>買<rp>（</rp><rt>か</rt><rp>）</rp></ruby>いました。</b>",
     "options": [
       "来た",
       "来る"
@@ -1680,7 +1680,7 @@
       "ひっこし（します、する、して）",
       "わたります"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "difficulty": 1
   },
   {
@@ -1738,12 +1738,12 @@
       "ひっこし（します、する、して）",
       "みち"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "difficulty": 1
   },
   {
     "id": 150,
-    "question": "<b>止まります</b>",
+    "question": "<b><ruby>止<rp>（</rp><rt>と</rt><rp>）</rp></ruby>まります</b>",
     "options": [
       "きかいがうごきます",
       "こまかいおかね",
@@ -1887,14 +1887,14 @@
   },
   {
     "id": 162,
-    "question": "<b>信号</b>",
+    "question": "<b><ruby>信号<rp>（</rp><rt>しんごう</rt><rp>）</rp></ruby></b>",
     "options": [
       "がんばります",
       "しんごう",
       "なににつかいますか",
       "わたります"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "difficulty": 2
   },
   {
@@ -1911,7 +1911,7 @@
   },
   {
     "id": 164,
-    "question": "<b>意味</b>",
+    "question": "<b><ruby>意味<rp>（</rp><rt>いみ</rt><rp>）</rp></ruby></b>",
     "options": [
       "いみ",
       "きっぷがでます",
@@ -1969,14 +1969,14 @@
   },
   {
     "id": 169,
-    "question": "<b>機械</b>",
+    "question": "<b><ruby>機械<rp>（</rp><rt>きかい</rt><rp>）</rp></ruby></b>",
     "options": [
       "かいき",
       "きいか",
       "きいかい",
       "きかい"
     ],
-    "correctAnswer": 2,
+    "correctAnswer": 3,
     "difficulty": 2
   },
   {
@@ -2000,7 +2000,7 @@
       "まがります",
       "みちをわたります"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "difficulty": 1
   },
   {
@@ -2024,12 +2024,12 @@
       "しんごう",
       "～め"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "difficulty": 1
   },
   {
     "id": 174,
-    "question": "<b>調節（します、する、して）</b>",
+    "question": "<b><ruby>調節<rp>（</rp><rt>ちょうせつ</rt><rp>）</rp></ruby>（します、する、して）</b>",
     "options": [
       "こうさてん",
       "ちょうせつ（します、する、して）",
@@ -2085,14 +2085,14 @@
   },
   {
     "id": 179,
-    "question": "<b>道</b>",
+    "question": "<b><ruby>道<rp>（</rp><rt>みち</rt><rp>）</rp></ruby></b>",
     "options": [
       "どろう",
       "はち",
       "まち",
       "みち"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "difficulty": 2
   },
   {
@@ -2104,7 +2104,7 @@
       "こしょう（します、する、して）",
       "まわします"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "difficulty": 1
   },
   {

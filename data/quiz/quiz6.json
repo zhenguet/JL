@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "question": "<b>きょう３<ruby>時<rp>（</rp><rt>じ</rt><rp>）</rp></ruby>（１）<ruby>教室<rp>（</rp><rt>きょうしつ</rt><rp>）</rp></ruby>（２）<ruby>日本語<rp>（</rp><rt>にほんご</rt><rp>）</rp></ruby>（３）<ruby>先生<rp>（</rp><rt>せんせい</rt><rp>）</rp></ruby>に<ruby>会<rp>（</rp><rt>あ</rt><rp>）</rp></ruby>います。</b><br/><b>(3)</b>",
+    "question": "<b>きょう３<ruby>時<rp>（</rp><rt>じ</rt><rp>）</rp></ruby>（１）<ruby>教室<rp>（</rp><rt>きょうしつ</rt><rp>）</rp></ruby>（２）<ruby>日<ruby>本<rp>（</rp><rt>ほん</rt><rp>）</rp></ruby>語<rp>（</rp><rt>にほんご</rt><rp>）</rp></ruby>（３）<ruby>先<ruby>生<rp>（</rp><rt>う</rt><rp>）</rp></ruby><rp>（</rp><rt>せんせい</rt><rp>）</rp></ruby>に<ruby>会<rp>（</rp><rt>あ</rt><rp>）</rp></ruby>います。</b><br/><b>(3)</b>",
     "options": [
       "が",
       "の"
@@ -35,12 +35,12 @@
   },
   {
     "id": 4,
-    "question": "<b>A：<ruby>昼休<rp>（</rp><rt>ひるやす</rt><rp>）</rp></ruby>みに（　）をしますか。<p>B：テニスをします。</p></b>",
+    "question": "<b>A：<ruby>昼<ruby>休<rp>（</rp><rt>やす</rt><rp>）</rp></ruby><rp>（</rp><rt>ひるやす</rt><rp>）</rp></ruby>みに（　）をしますか。<p>B：テニスをします。</p></b>",
     "options": [
       "なに",
       "なんに"
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 0,
     "difficulty": 2
   },
   {
@@ -52,7 +52,7 @@
       "viết, vẽ",
       "đĩa CD"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "difficulty": 1
   },
   {
@@ -64,7 +64,7 @@
       "trà đen",
       "ảnh, bức ảnh"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "difficulty": 1
   },
   {
@@ -100,7 +100,7 @@
       "làm",
       "xem, nhìn"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "difficulty": 1
   },
   {
@@ -136,7 +136,7 @@
       "ぎゅうにゅう／ミルク",
       "すいます"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "difficulty": 2
   },
   {
@@ -148,7 +148,7 @@
       "giầy, đôi giầy",
       "ăn"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "difficulty": 1
   },
   {
@@ -160,7 +160,7 @@
       "コーヒー",
       "テニスをします"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "difficulty": 1
   },
   {
@@ -172,7 +172,7 @@
       "ジュース",
       "テープ"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "difficulty": 1
   },
   {
@@ -184,7 +184,7 @@
       "ピンポン",
       "メキシコ"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "difficulty": 1
   },
   {
@@ -220,7 +220,7 @@
       "phim (dùng để chụp ảnh)",
       "sau đó"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "difficulty": 1
   },
   {
@@ -232,7 +232,7 @@
       "しゅくだい",
       "やさい"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "difficulty": 2
   },
   {
@@ -256,7 +256,7 @@
       "宿題",
       "食題"
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 2,
     "difficulty": 1
   },
   {
@@ -268,7 +268,7 @@
       "Nước hoa quả",
       "Trà"
     ],
-    "correctAnswer": 2,
+    "correctAnswer": 3,
     "difficulty": 1
   },
   {
@@ -280,19 +280,19 @@
       "カセットテープ",
       "ビール"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "difficulty": 1
   },
   {
     "id": 25,
-    "question": "<b>花見</b>",
+    "question": "<b>花<ruby>見<rp>（</rp><rt>み</rt><rp>）</rp></ruby></b>",
     "options": [
       "かけん",
       "かげん",
       "はなび",
       "はなみ"
     ],
-    "correctAnswer": 2,
+    "correctAnswer": 3,
     "difficulty": 2
   },
   {
@@ -316,7 +316,7 @@
       "しゅくだい",
       "たべます"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "difficulty": 1
   },
   {
@@ -340,7 +340,7 @@
       "trứng, quả trứng",
       "à!"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "difficulty": 1
   },
   {
@@ -364,7 +364,7 @@
       "もしもし",
       "レポート"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "difficulty": 1
   },
   {
@@ -376,7 +376,7 @@
       "よみます",
       "わかりました"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "difficulty": 1
   },
   {
@@ -388,7 +388,7 @@
       "とぎどぎ",
       "めった"
     ],
-    "correctAnswer": 3,
+    "correctAnswer": 1,
     "difficulty": 1
   },
   {
@@ -412,7 +412,7 @@
       "氷",
       "火"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "difficulty": 1
   },
   {
@@ -436,12 +436,12 @@
       "thực tập",
       "uống"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "difficulty": 1
   },
   {
     "id": 38,
-    "question": "<b>A：どこ（１）お<ruby>花見<rp>（</rp><rt>はなみ</rt><rp>）</rp></ruby>（２）しますか。<p>B：<ruby>大学<rp>（</rp><rt>だいがく</rt><rp>）</rp></ruby>（３）<ruby>庭<rp>（</rp><rt>にわ</rt><rp>）</rp></ruby>です。</p></b><br/><b>(3)</b>",
+    "question": "<b>A：どこ（１）お<ruby>花<ruby>見<rp>（</rp><rt>み</rt><rp>）</rp></ruby><rp>（</rp><rt>はなみ</rt><rp>）</rp></ruby>（２）しますか。<p>B：<ruby>大学<rp>（</rp><rt>だいがく</rt><rp>）</rp></ruby>（３）<ruby>庭<rp>（</rp><rt>にわ</rt><rp>）</rp></ruby>です。</p></b><br/><b>(3)</b>",
     "options": [
       "に",
       "の"
@@ -478,12 +478,12 @@
       "と",
       "に"
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 0,
     "difficulty": 1
   },
   {
     "id": 42,
-    "question": "<b>A：どこ（１）お<ruby>花見<rp>（</rp><rt>はなみ</rt><rp>）</rp></ruby>（２）しますか。<p>B：<ruby>大学<rp>（</rp><rt>だいがく</rt><rp>）</rp></ruby>（３）<ruby>庭<rp>（</rp><rt>にわ</rt><rp>）</rp></ruby>です。</p></b><br/><b>(2)</b>",
+    "question": "<b>A：どこ（１）お<ruby>花<ruby>見<rp>（</rp><rt>み</rt><rp>）</rp></ruby><rp>（</rp><rt>はなみ</rt><rp>）</rp></ruby>（２）しますか。<p>B：<ruby>大学<rp>（</rp><rt>だいがく</rt><rp>）</rp></ruby>（３）<ruby>庭<rp>（</rp><rt>にわ</rt><rp>）</rp></ruby>です。</p></b><br/><b>(2)</b>",
     "options": [
       "が",
       "を"
@@ -500,7 +500,7 @@
       "bữa ăn trưa",
       "giầy, đôi giầy"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "difficulty": 1
   },
   {
@@ -524,7 +524,7 @@
       "à!",
       "ăn"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "difficulty": 1
   },
   {
@@ -536,7 +536,7 @@
       "くだもの",
       "もしもし"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "difficulty": 1
   },
   {
@@ -582,7 +582,7 @@
       "サッカーをします",
       "テニスをします"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "difficulty": 1
   },
   {
@@ -626,7 +626,7 @@
       "のみます",
       "ビール"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "difficulty": 1
   },
   {
@@ -641,7 +641,7 @@
   },
   {
     "id": 56,
-    "question": "<b>きょう３<ruby>時<rp>（</rp><rt>じ</rt><rp>）</rp></ruby>（１）<ruby>教室<rp>（</rp><rt>きょうしつ</rt><rp>）</rp></ruby>（２）<ruby>日本語<rp>（</rp><rt>にほんご</rt><rp>）</rp></ruby>（３）<ruby>先生<rp>（</rp><rt>せんせい</rt><rp>）</rp></ruby>に<ruby>会<rp>（</rp><rt>あ</rt><rp>）</rp></ruby>います。</b><br/><b>(2)</b>",
+    "question": "<b>きょう３<ruby>時<rp>（</rp><rt>じ</rt><rp>）</rp></ruby>（１）<ruby>教室<rp>（</rp><rt>きょうしつ</rt><rp>）</rp></ruby>（２）<ruby>日<ruby>本<rp>（</rp><rt>ほん</rt><rp>）</rp></ruby>語<rp>（</rp><rt>にほんご</rt><rp>）</rp></ruby>（３）<ruby>先<ruby>生<rp>（</rp><rt>う</rt><rp>）</rp></ruby><rp>（</rp><rt>せんせい</rt><rp>）</rp></ruby>に<ruby>会<rp>（</rp><rt>あ</rt><rp>）</rp></ruby>います。</b><br/><b>(2)</b>",
     "options": [
       "で",
       "に"
@@ -685,14 +685,14 @@
   },
   {
     "id": 60,
-    "question": "<b>何</b>",
+    "question": "<b><ruby>何<rp>（</rp><rt>なに</rt><rp>）</rp></ruby></b>",
     "options": [
       "あしたひまですか",
       "ぎゅうにゅう／ミルク",
       "します",
       "なに"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "difficulty": 2
   },
   {
@@ -724,7 +724,7 @@
       "みず",
       "ネクタイ"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "difficulty": 1
   },
   {
@@ -756,7 +756,7 @@
       "で",
       "へ"
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 0,
     "difficulty": 2
   },
   {
@@ -780,7 +780,7 @@
       "xem, nhìn",
       "ảnh, bức ảnh"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "difficulty": 1
   },
   {
@@ -821,7 +821,7 @@
   },
   {
     "id": 72,
-    "question": "<b>きのう<ruby>自転車<rp>（</rp><rt>じてんしゃ</rt><rp>）</rp></ruby>（１）スーパー（２）<ruby>行<rp>（</rp><rt>い</rt><rp>）</rp></ruby>きました。スーパー（３）<ruby>牛乳<rp>（</rp><rt>ぎゅうにゅう</rt><rp>）</rp></ruby>（４）<ruby>果物<rp>（</rp><rt>くだもの</rt><rp>）</rp></ruby>（５）<ruby>買<rp>（</rp><rt>か</rt><rp>）</rp></ruby>いました。</b><br/><b>(1)</b>",
+    "question": "<b>きのう<ruby>自転車<rp>（</rp><rt>じてんしゃ</rt><rp>）</rp></ruby>（１）スーパー（２）<ruby>行<rp>（</rp><rt>い</rt><rp>）</rp></ruby>きました。スーパー（３）<ruby>牛乳<rp>（</rp><rt>ぎゅうにゅう</rt><rp>）</rp></ruby>（４）<ruby>果<ruby>物<rp>（</rp><rt>もの</rt><rp>）</rp></ruby><rp>（</rp><rt>くだもの</rt><rp>）</rp></ruby>（５）<ruby>買<rp>（</rp><rt>か</rt><rp>）</rp></ruby>いました。</b><br/><b>(1)</b>",
     "options": [
       "で",
       "に"
@@ -831,7 +831,7 @@
   },
   {
     "id": 73,
-    "question": "<b>きのう<ruby>自転車<rp>（</rp><rt>じてんしゃ</rt><rp>）</rp></ruby>（１）スーパー（２）<ruby>行<rp>（</rp><rt>い</rt><rp>）</rp></ruby>きました。スーパー（３）<ruby>牛乳<rp>（</rp><rt>ぎゅうにゅう</rt><rp>）</rp></ruby>（４）<ruby>果物<rp>（</rp><rt>くだもの</rt><rp>）</rp></ruby>（５）<ruby>買<rp>（</rp><rt>か</rt><rp>）</rp></ruby>いました。</b><br/><b>(4)</b>",
+    "question": "<b>きのう<ruby>自転車<rp>（</rp><rt>じてんしゃ</rt><rp>）</rp></ruby>（１）スーパー（２）<ruby>行<rp>（</rp><rt>い</rt><rp>）</rp></ruby>きました。スーパー（３）<ruby>牛乳<rp>（</rp><rt>ぎゅうにゅう</rt><rp>）</rp></ruby>（４）<ruby>果<ruby>物<rp>（</rp><rt>もの</rt><rp>）</rp></ruby><rp>（</rp><rt>くだもの</rt><rp>）</rp></ruby>（５）<ruby>買<rp>（</rp><rt>か</rt><rp>）</rp></ruby>いました。</b><br/><b>(4)</b>",
     "options": [
       "×",
       "と"
@@ -860,7 +860,7 @@
       "テニスをします",
       "メキシコ"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "difficulty": 1
   },
   {
@@ -889,7 +889,7 @@
   },
   {
     "id": 78,
-    "question": "<b>A：どこ（１）お<ruby>花見<rp>（</rp><rt>はなみ</rt><rp>）</rp></ruby>（２）しますか。<p>B：<ruby>大学<rp>（</rp><rt>だいがく</rt><rp>）</rp></ruby>（３）<ruby>庭<rp>（</rp><rt>にわ</rt><rp>）</rp></ruby>です。</p></b><br/><b>(1)</b>",
+    "question": "<b>A：どこ（１）お<ruby>花<ruby>見<rp>（</rp><rt>み</rt><rp>）</rp></ruby><rp>（</rp><rt>はなみ</rt><rp>）</rp></ruby>（２）しますか。<p>B：<ruby>大学<rp>（</rp><rt>だいがく</rt><rp>）</rp></ruby>（３）<ruby>庭<rp>（</rp><rt>にわ</rt><rp>）</rp></ruby>です。</p></b><br/><b>(1)</b>",
     "options": [
       "で",
       "に"
@@ -906,7 +906,7 @@
       "みず",
       "コーヒー"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "difficulty": 2
   },
   {
@@ -928,7 +928,7 @@
       "画映",
       "衛画"
     ],
-    "correctAnswer": 2,
+    "correctAnswer": 0,
     "difficulty": 1
   },
   {
@@ -940,7 +940,7 @@
       "phim (dùng để chụp ảnh)",
       "uống"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "difficulty": 1
   },
   {
@@ -952,7 +952,7 @@
       "ビール",
       "レストラン"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "difficulty": 1
   },
   {
@@ -964,7 +964,7 @@
       "りんご",
       "テニス"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "difficulty": 1
   },
   {
@@ -1005,7 +1005,7 @@
   },
   {
     "id": 88,
-    "question": "<b>きのう<ruby>自転車<rp>（</rp><rt>じてんしゃ</rt><rp>）</rp></ruby>（１）スーパー（２）<ruby>行<rp>（</rp><rt>い</rt><rp>）</rp></ruby>きました。スーパー（３）<ruby>牛乳<rp>（</rp><rt>ぎゅうにゅう</rt><rp>）</rp></ruby>（４）<ruby>果物<rp>（</rp><rt>くだもの</rt><rp>）</rp></ruby>（５）<ruby>買<rp>（</rp><rt>か</rt><rp>）</rp></ruby>いました。</b><br/><b>(2)</b>",
+    "question": "<b>きのう<ruby>自転車<rp>（</rp><rt>じてんしゃ</rt><rp>）</rp></ruby>（１）スーパー（２）<ruby>行<rp>（</rp><rt>い</rt><rp>）</rp></ruby>きました。スーパー（３）<ruby>牛乳<rp>（</rp><rt>ぎゅうにゅう</rt><rp>）</rp></ruby>（４）<ruby>果<ruby>物<rp>（</rp><rt>もの</rt><rp>）</rp></ruby><rp>（</rp><rt>くだもの</rt><rp>）</rp></ruby>（５）<ruby>買<rp>（</rp><rt>か</rt><rp>）</rp></ruby>いました。</b><br/><b>(2)</b>",
     "options": [
       "へ",
       "も"
@@ -1022,7 +1022,7 @@
       "ピル",
       "ピール"
     ],
-    "correctAnswer": 3,
+    "correctAnswer": 1,
     "difficulty": 1
   },
   {
@@ -1046,7 +1046,7 @@
       "手神",
       "手紙"
     ],
-    "correctAnswer": 2,
+    "correctAnswer": 3,
     "difficulty": 1
   },
   {
@@ -1058,7 +1058,7 @@
       "シーディー",
       "フィルム"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "difficulty": 1
   },
   {
@@ -1092,7 +1092,7 @@
       "ジュース",
       "メキシコ"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "difficulty": 1
   },
   {
@@ -1152,7 +1152,7 @@
       "gặp gỡ bạn",
       "à!"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "difficulty": 1
   },
   {
@@ -1181,7 +1181,7 @@
   },
   {
     "id": 103,
-    "question": "<b>きのう<ruby>自転車<rp>（</rp><rt>じてんしゃ</rt><rp>）</rp></ruby>（１）スーパー（２）<ruby>行<rp>（</rp><rt>い</rt><rp>）</rp></ruby>きました。スーパー（３）<ruby>牛乳<rp>（</rp><rt>ぎゅうにゅう</rt><rp>）</rp></ruby>（４）<ruby>果物<rp>（</rp><rt>くだもの</rt><rp>）</rp></ruby>（５）<ruby>買<rp>（</rp><rt>か</rt><rp>）</rp></ruby>いました。</b><br/><b>(5)</b>",
+    "question": "<b>きのう<ruby>自転車<rp>（</rp><rt>じてんしゃ</rt><rp>）</rp></ruby>（１）スーパー（２）<ruby>行<rp>（</rp><rt>い</rt><rp>）</rp></ruby>きました。スーパー（３）<ruby>牛乳<rp>（</rp><rt>ぎゅうにゅう</rt><rp>）</rp></ruby>（４）<ruby>果<ruby>物<rp>（</rp><rt>もの</rt><rp>）</rp></ruby><rp>（</rp><rt>くだもの</rt><rp>）</rp></ruby>（５）<ruby>買<rp>（</rp><rt>か</rt><rp>）</rp></ruby>いました。</b><br/><b>(5)</b>",
     "options": [
       "が",
       "を"
@@ -1198,7 +1198,7 @@
       "フィルム",
       "レポート"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "difficulty": 1
   },
   {
@@ -1215,7 +1215,7 @@
   },
   {
     "id": 106,
-    "question": "<b>A：（　）で<ruby>新聞<rp>（</rp><rt>しんぶん</rt><rp>）</rp></ruby>を<ruby>読<rp>（</rp><rt>よ</rt><rp>）</rp></ruby>みますか。<p>B：<ruby>会社<rp>（</rp><rt>かいしゃ</rt><rp>）</rp></ruby>で<ruby>読<rp>（</rp><rt>よ</rt><rp>）</rp></ruby>みます。</p></b>",
+    "question": "<b>A：（　）で<ruby>新<ruby>聞<rp>（</rp><rt>きこ</rt><rp>）</rp></ruby><rp>（</rp><rt>しんぶん</rt><rp>）</rp></ruby>を<ruby>読<rp>（</rp><rt>よ</rt><rp>）</rp></ruby>みますか。<p>B：<ruby>会社<rp>（</rp><rt>かいしゃ</rt><rp>）</rp></ruby>で<ruby>読<rp>（</rp><rt>よ</rt><rp>）</rp></ruby>みます。</p></b>",
     "options": [
       "どこ",
       "どれ"
@@ -1232,7 +1232,7 @@
       "フィルム",
       "メキシコ"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "difficulty": 1
   },
   {
@@ -1268,7 +1268,7 @@
       "ăn",
       "đĩa CD"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "difficulty": 1
   },
   {
@@ -1280,7 +1280,7 @@
       "サッカーをします",
       "シーディー"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "difficulty": 1
   },
   {
@@ -1328,7 +1328,7 @@
       "phim, bộ phim",
       "rượu"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "difficulty": 1
   },
   {
@@ -1352,7 +1352,7 @@
       "phim, bộ phim",
       "đọc"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "difficulty": 1
   },
   {
@@ -1376,7 +1376,7 @@
       "おおさかじょうこうえん",
       "サッカー"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "difficulty": 1
   },
   {
@@ -1388,7 +1388,7 @@
       "Nhà ăn",
       "Văn phòng"
     ],
-    "correctAnswer": 3,
+    "correctAnswer": 1,
     "difficulty": 1
   },
   {
@@ -1417,7 +1417,7 @@
   },
   {
     "id": 123,
-    "question": "<b>きょう３<ruby>時<rp>（</rp><rt>じ</rt><rp>）</rp></ruby>（１）<ruby>教室<rp>（</rp><rt>きょうしつ</rt><rp>）</rp></ruby>（２）<ruby>日本語<rp>（</rp><rt>にほんご</rt><rp>）</rp></ruby>（３）<ruby>先生<rp>（</rp><rt>せんせい</rt><rp>）</rp></ruby>に<ruby>会<rp>（</rp><rt>あ</rt><rp>）</rp></ruby>います。</b><br/><b>(1)</b>",
+    "question": "<b>きょう３<ruby>時<rp>（</rp><rt>じ</rt><rp>）</rp></ruby>（１）<ruby>教室<rp>（</rp><rt>きょうしつ</rt><rp>）</rp></ruby>（２）<ruby>日<ruby>本<rp>（</rp><rt>ほん</rt><rp>）</rp></ruby>語<rp>（</rp><rt>にほんご</rt><rp>）</rp></ruby>（３）<ruby>先<ruby>生<rp>（</rp><rt>う</rt><rp>）</rp></ruby><rp>（</rp><rt>せんせい</rt><rp>）</rp></ruby>に<ruby>会<rp>（</rp><rt>あ</rt><rp>）</rp></ruby>います。</b><br/><b>(1)</b>",
     "options": [
       "と",
       "に"
@@ -1434,7 +1434,7 @@
       "サッカーをします",
       "テニスをします"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "difficulty": 2
   },
   {
@@ -1444,7 +1444,7 @@
       "くだもの",
       "コーヒー"
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 0,
     "difficulty": 2
   },
   {
@@ -1468,7 +1468,7 @@
       "ăn",
       "ảnh, bức ảnh"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "difficulty": 1
   },
   {
@@ -1480,18 +1480,8 @@
       "テニス",
       "パン"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "difficulty": 1
-  },
-  {
-    "id": 129,
-    "question": "<b>A：（　）で<ruby>京都<rp>（</rp><rt>きょうと</rt><rp>）</rp></ruby>へ<ruby>行<rp>（</rp><rt>い</rt><rp>）</rp></ruby>きましたか。<p>B：タクシーで<ruby>行<rp>（</rp><rt>い</rt><rp>）</rp></ruby>きました。</p></b>",
-    "options": [
-      "どこ",
-      "なん"
-    ],
-    "correctAnswer": 0,
-    "difficulty": 3
   },
   {
     "id": 130,
@@ -1514,7 +1504,7 @@
       "sữa",
       "xem, nhìn"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "difficulty": 1
   },
   {
@@ -1526,7 +1516,7 @@
       "Bóng rổ",
       "Bóng đá"
     ],
-    "correctAnswer": 2,
+    "correctAnswer": 3,
     "difficulty": 1
   },
   {
@@ -1538,7 +1528,7 @@
       "テニス",
       "ネクタイ"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "difficulty": 1
   },
   {
@@ -1550,7 +1540,7 @@
       "phim (dùng để chụp ảnh)",
       "phim, bộ phim"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "difficulty": 1
   },
   {
@@ -1586,7 +1576,7 @@
       "わかりました",
       "テニスをします"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "difficulty": 1
   },
   {
@@ -1620,7 +1610,7 @@
       "いきましたか",
       "いきませんか"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "difficulty": 2
   },
   {
@@ -1632,7 +1622,7 @@
       "phim (dùng để chụp ảnh)",
       "à!"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "difficulty": 1
   },
   {
@@ -1666,7 +1656,7 @@
       "やさい",
       "サッカー"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "difficulty": 1
   },
   {
@@ -1678,7 +1668,7 @@
       "メキシコ",
       "レポート"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "difficulty": 1
   },
   {
@@ -1690,7 +1680,7 @@
       "làm",
       "phim, bộ phim"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "difficulty": 1
   },
   {
@@ -1702,7 +1692,7 @@
       "trà đen",
       "trứng, quả trứng"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "difficulty": 1
   },
   {
@@ -1726,7 +1716,7 @@
       "cái gì",
       "rau, rau sống"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "difficulty": 1
   },
   {
@@ -1750,7 +1740,7 @@
       "bữa ăn chiều",
       "rượu"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "difficulty": 1
   },
   {
@@ -1762,12 +1752,12 @@
       "お酉",
       "お酒"
     ],
-    "correctAnswer": 2,
+    "correctAnswer": 3,
     "difficulty": 1
   },
   {
     "id": 153,
-    "question": "<b>きのう<ruby>自転車<rp>（</rp><rt>じてんしゃ</rt><rp>）</rp></ruby>（１）スーパー（２）<ruby>行<rp>（</rp><rt>い</rt><rp>）</rp></ruby>きました。スーパー（３）<ruby>牛乳<rp>（</rp><rt>ぎゅうにゅう</rt><rp>）</rp></ruby>（４）<ruby>果物<rp>（</rp><rt>くだもの</rt><rp>）</rp></ruby>（５）<ruby>買<rp>（</rp><rt>か</rt><rp>）</rp></ruby>いました。</b><br/><b>(3)</b>",
+    "question": "<b>きのう<ruby>自転車<rp>（</rp><rt>じてんしゃ</rt><rp>）</rp></ruby>（１）スーパー（２）<ruby>行<rp>（</rp><rt>い</rt><rp>）</rp></ruby>きました。スーパー（３）<ruby>牛乳<rp>（</rp><rt>ぎゅうにゅう</rt><rp>）</rp></ruby>（４）<ruby>果<ruby>物<rp>（</rp><rt>もの</rt><rp>）</rp></ruby><rp>（</rp><rt>くだもの</rt><rp>）</rp></ruby>（５）<ruby>買<rp>（</rp><rt>か</rt><rp>）</rp></ruby>いました。</b><br/><b>(3)</b>",
     "options": [
       "で",
       "に"
@@ -1808,7 +1798,7 @@
       "なに",
       "みます"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "difficulty": 1
   },
   {
@@ -1868,7 +1858,7 @@
       "nước trà",
       "trứng, quả trứng"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "difficulty": 1
   },
   {
@@ -1882,16 +1872,6 @@
     ],
     "correctAnswer": 0,
     "difficulty": 1
-  },
-  {
-    "id": 163,
-    "question": "<b>A：あした（　）を　しますか。　<p>B：よこはまへ　いきます。</p></b>",
-    "options": [
-      "なに",
-      "なん"
-    ],
-    "correctAnswer": 0,
-    "difficulty": 2
   },
   {
     "id": 164,
@@ -1948,7 +1928,7 @@
       "sữa",
       "đọc"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "difficulty": 1
   },
   {
@@ -2030,7 +2010,7 @@
       "みます",
       "りんご"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "difficulty": 1
   },
   {
@@ -2042,7 +2022,7 @@
       "真与",
       "真写"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "difficulty": 1
   },
   {
@@ -2066,7 +2046,7 @@
       "いっしょうに",
       "いっしょに"
     ],
-    "correctAnswer": 2,
+    "correctAnswer": 3,
     "difficulty": 1
   },
   {
@@ -2078,7 +2058,7 @@
       "やさい",
       "やさいもの"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "difficulty": 1
   },
   {
@@ -2090,7 +2070,7 @@
       "レポトー",
       "レポート"
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 3,
     "difficulty": 1
   },
   {
@@ -2126,7 +2106,7 @@
       "uống",
       "đĩa CD"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "difficulty": 1
   },
   {
@@ -2198,7 +2178,7 @@
       "ngắm hoa Anh Đào (động từ)",
       "trứng, quả trứng"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "difficulty": 1
   }
 ]

@@ -204,7 +204,7 @@
       "せいようかします",
       "～だい"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "difficulty": 1
   },
   {
@@ -216,7 +216,7 @@
       "こうじちゅう",
       "りこんします"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "difficulty": 1
   },
   {
@@ -250,7 +250,7 @@
       "ちこくします",
       "とおります"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "difficulty": 1
   },
   {
@@ -274,7 +274,7 @@
       "ようじ",
       "～ごうしつ"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "difficulty": 1
   },
   {
@@ -370,7 +370,7 @@
       "たいふう",
       "やけます"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "difficulty": 1
   },
   {
@@ -433,7 +433,7 @@
   },
   {
     "id": 38,
-    "question": "<b><ruby>胃<rp>（</rp><rt>い</rt><rp>）</rp></ruby>の<ruby>病気<rp>（</rp><rt>びょうき</rt><rp>）</rp></ruby>（１）<ruby>入院<rp>（</rp><rt>にゅういん</rt><rp>）</rp></ruby>するので、<ruby>社員<rp>（</rp><rt>しゃいん</rt><rp>）</rp></ruby><ruby>旅行<rp>（</rp><rt>りょこう</rt><rp>）</rp></ruby>（２）<ruby>参加<rp>（</rp><rt>さんか</rt><rp>）</rp></ruby>できません。</b><br><b>(2)</b>",
+    "question": "<b><ruby>胃<rp>（</rp><rt>い</rt><rp>）</rp></ruby>の<ruby>病気<rp>（</rp><rt>びょうき</rt><rp>）</rp></ruby>（１）<ruby>入院<rp>（</rp><rt>にゅういん</rt><rp>）</rp></ruby>するので、<ruby>社員<rp>（</rp><rt>しゃいん</rt><rp>）</rp></ruby><ruby>旅<ruby>行<rp>（</rp><rt>い</rt><rp>）</rp></ruby><rp>（</rp><rt>りょこう</rt><rp>）</rp></ruby>（２）<ruby>参加<rp>（</rp><rt>さんか</rt><rp>）</rp></ruby>できません。</b><br><b>(2)</b>",
     "options": [
       "に",
       "を"
@@ -510,7 +510,7 @@
       "こうじちゅう",
       "ようふく"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "difficulty": 1
   },
   {
@@ -534,7 +534,7 @@
       "びっくりします",
       "りこんします"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "difficulty": 1
   },
   {
@@ -594,7 +594,7 @@
       "フロント",
       "～だい"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "difficulty": 1
   },
   {
@@ -659,7 +659,7 @@
   },
   {
     "id": 57,
-    "question": "<b><ruby>胃<rp>（</rp><rt>い</rt><rp>）</rp></ruby>の<ruby>病気<rp>（</rp><rt>びょうき</rt><rp>）</rp></ruby>（１）<ruby>入院<rp>（</rp><rt>にゅういん</rt><rp>）</rp></ruby>するので、<ruby>社員<rp>（</rp><rt>しゃいん</rt><rp>）</rp></ruby><ruby>旅行<rp>（</rp><rt>りょこう</rt><rp>）</rp></ruby>（２）<ruby>参加<rp>（</rp><rt>さんか</rt><rp>）</rp></ruby>できません。</b><br><b>(1)</b>",
+    "question": "<b><ruby>胃<rp>（</rp><rt>い</rt><rp>）</rp></ruby>の<ruby>病気<rp>（</rp><rt>びょうき</rt><rp>）</rp></ruby>（１）<ruby>入院<rp>（</rp><rt>にゅういん</rt><rp>）</rp></ruby>するので、<ruby>社員<rp>（</rp><rt>しゃいん</rt><rp>）</rp></ruby><ruby>旅<ruby>行<rp>（</rp><rt>い</rt><rp>）</rp></ruby><rp>（</rp><rt>りょこう</rt><rp>）</rp></ruby>（２）<ruby>参加<rp>（</rp><rt>さんか</rt><rp>）</rp></ruby>できません。</b><br><b>(1)</b>",
     "options": [
       "で",
       "に"
@@ -700,7 +700,7 @@
       "こうじ",
       "わらいます"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "difficulty": 1
   },
   {
@@ -847,7 +847,7 @@
   },
   {
     "id": 73,
-    "question": "<b><ruby>授業<rp>（</rp><rt>じゅぎょう</rt><rp>）</rp></ruby>（１）<ruby>遅刻<rp>（</rp><rt>ちこく</rt><rp>）</rp></ruby>して、<ruby>先生<rp>（</rp><rt>せんせい</rt><rp>）</rp></ruby>（２）しかられました。</b><br><b>(2)</b>",
+    "question": "<b><ruby>授業<rp>（</rp><rt>じゅぎょう</rt><rp>）</rp></ruby>（１）<ruby>遅刻<rp>（</rp><rt>ちこく</rt><rp>）</rp></ruby>して、<ruby>先<ruby>生<rp>（</rp><rt>う</rt><rp>）</rp></ruby><rp>（</rp><rt>せんせい</rt><rp>）</rp></ruby>（２）しかられました。</b><br><b>(2)</b>",
     "options": [
       "が",
       "に"
@@ -888,7 +888,7 @@
       "ようふく",
       "トラック"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "difficulty": 1
   },
   {
@@ -905,7 +905,7 @@
   },
   {
     "id": 78,
-    "question": "<b><ruby>日本<rp>（</rp><rt>にほん</rt><rp>）</rp></ruby>は<ruby>物価<rp>（</rp><rt>ぶっか</rt><rp>）</rp></ruby>が<ruby>高<rp>（</rp><rt>たか</rt><rp>）</rp></ruby>くて（　）。</b>",
+    "question": "<b><ruby>日<ruby>本<rp>（</rp><rt>ほん</rt><rp>）</rp></ruby><rp>（</rp><rt>にほん</rt><rp>）</rp></ruby>は<ruby>物価<rp>（</rp><rt>ぶっか</rt><rp>）</rp></ruby>が<ruby>高<rp>（</rp><rt>たか</rt><rp>）</rp></ruby>くて（　）。</b>",
     "options": [
       "困ります",
       "買い物をしません"
@@ -939,7 +939,7 @@
   },
   {
     "id": 81,
-    "question": "<b><ruby>富士山<rp>（</rp><rt>ふじさん</rt><rp>）</rp></ruby>が<ruby>見<rp>（</rp><rt>み</rt><rp>）</rp></ruby>えて（　）。</b>",
+    "question": "<b><ruby>富士<ruby>山<rp>（</rp><rt>やま</rt><rp>）</rp></ruby><rp>（</rp><rt>ふじさん</rt><rp>）</rp></ruby>が<ruby>見<rp>（</rp><rt>み</rt><rp>）</rp></ruby>えて（　）。</b>",
     "options": [
       "うれしかったです",
       "写真を撮りました"
@@ -1100,12 +1100,12 @@
       "びっくりします",
       "～ごうしつ"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "difficulty": 1
   },
   {
     "id": 95,
-    "question": "<b><ruby>授業<rp>（</rp><rt>じゅぎょう</rt><rp>）</rp></ruby>（１）<ruby>遅刻<rp>（</rp><rt>ちこく</rt><rp>）</rp></ruby>して、<ruby>先生<rp>（</rp><rt>せんせい</rt><rp>）</rp></ruby>（２）しかられました。</b><br><b>(1)</b>",
+    "question": "<b><ruby>授業<rp>（</rp><rt>じゅぎょう</rt><rp>）</rp></ruby>（１）<ruby>遅刻<rp>（</rp><rt>ちこく</rt><rp>）</rp></ruby>して、<ruby>先<ruby>生<rp>（</rp><rt>う</rt><rp>）</rp></ruby><rp>（</rp><rt>せんせい</rt><rp>）</rp></ruby>（２）しかられました。</b><br><b>(1)</b>",
     "options": [
       "が",
       "に"
@@ -1226,7 +1226,7 @@
       "やけます",
       "ようじ"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "difficulty": 1
   },
   {
@@ -1262,7 +1262,7 @@
       "ぶつかります",
       "～だい"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "difficulty": 1
   },
   {
@@ -1303,7 +1303,7 @@
   },
   {
     "id": 112,
-    "question": "<b>この<ruby>荷物<rp>（</rp><rt>にもつ</rt><rp>）</rp></ruby>は（　）ので、<ruby>片付<rp>（</rp><rt>かたづ</rt><rp>）</rp></ruby>けてください。</b>",
+    "question": "<b>この<ruby>荷<ruby>物<rp>（</rp><rt>もの</rt><rp>）</rp></ruby><rp>（</rp><rt>にもつ</rt><rp>）</rp></ruby>は（　）ので、<ruby>片<ruby>付<rp>（</rp><rt>つ</rt><rp>）</rp></ruby><rp>（</rp><rt>かたづ</rt><rp>）</rp></ruby>けてください。</b>",
     "options": [
       "邪魔だ",
       "邪魔な"
@@ -1344,7 +1344,7 @@
       "ちょっとおねがいがあるんです",
       "やけます"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "difficulty": 1
   },
   {
@@ -1416,7 +1416,7 @@
       "せいようかします",
       "わらいます"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "difficulty": 1
   },
   {
@@ -1428,7 +1428,7 @@
       "せいようかします",
       "ようふく"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "difficulty": 1
   },
   {
@@ -1452,7 +1452,7 @@
       "せいじんしき",
       "やけます"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "difficulty": 1
   },
   {
@@ -1597,7 +1597,7 @@
   },
   {
     "id": 137,
-    "question": "<b>洋服</b>",
+    "question": "<b>洋<ruby>服<rp>（</rp><rt>ふく</rt><rp>）</rp></ruby></b>",
     "options": [
       "たおれます",
       "びっくりします",
@@ -1698,7 +1698,7 @@
       "ようじ",
       "わらいます"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "difficulty": 1
   },
   {
@@ -1710,7 +1710,7 @@
       "がっかりします",
       "せいようかします"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "difficulty": 1
   },
   {
@@ -1758,7 +1758,7 @@
       "おおぜい",
       "ようふく"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "difficulty": 1
   },
   {
@@ -1782,7 +1782,7 @@
       "びっくりします",
       "トラック"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "difficulty": 1
   },
   {
@@ -1806,7 +1806,7 @@
       "せいじんしき",
       "フロント"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "difficulty": 1
   },
   {
@@ -1830,7 +1830,7 @@
       "そうたいします",
       "～ごうしつ"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "difficulty": 1
   },
   {
@@ -1994,7 +1994,7 @@
       "おもいだします",
       "それじゃ"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "difficulty": 1
   },
   {
@@ -2006,7 +2006,7 @@
       "せいじんしき",
       "～ごうしつ"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "difficulty": 1
   },
   {

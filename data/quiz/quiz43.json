@@ -8,12 +8,12 @@
       "ふえます",
       "ガソリン"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "difficulty": 1
   },
   {
     "id": 2,
-    "question": "<b>年齢</b>",
+    "question": "<b><ruby>年<rp>（</rp><rt>とし</rt><rp>）</rp></ruby>齢</b>",
     "options": [
       "ねんれい",
       "れいねん",
@@ -32,7 +32,7 @@
       "ドライブ",
       "～のほう"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "difficulty": 1
   },
   {
@@ -78,7 +78,7 @@
       "をバックにして",
       "コインロッカー"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "difficulty": 1
   },
   {
@@ -90,7 +90,7 @@
       "センス",
       "～のほう"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "difficulty": 1
   },
   {
@@ -107,7 +107,7 @@
   },
   {
     "id": 10,
-    "question": "<b>あの<ruby>二人<rp>（</rp><rt>ふたり</rt><rp>）</rp></ruby>は<ruby>先月<rp>（</rp><rt>せんげつ</rt><rp>）</rp></ruby><ruby>結婚<rp>（</rp><rt>けっこん</rt><rp>）</rp></ruby>したんです。とても＿＿＿そうですね。</b>",
+    "question": "<b>あの<ruby>二<ruby>人<rp>（</rp><rt>ひと</rt><rp>）</rp></ruby><rp>（</rp><rt>ふたり</rt><rp>）</rp></ruby>は<ruby>先<ruby>月<rp>（</rp><rt>つき</rt><rp>）</rp></ruby><rp>（</rp><rt>せんげつ</rt><rp>）</rp></ruby><ruby>結婚<rp>（</rp><rt>けっこん</rt><rp>）</rp></ruby>したんです。とても＿＿＿そうですね。</b>",
     "options": [
       "幸",
       "幸せ"
@@ -124,7 +124,7 @@
       "ドライブ",
       "ボート"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "difficulty": 1
   },
   {
@@ -153,7 +153,7 @@
   },
   {
     "id": 14,
-    "question": "<b>思い出</b>",
+    "question": "<b><ruby>思<rp>（</rp><rt>おも</rt><rp>）</rp></ruby>い<ruby>出<rp>（</rp><rt>だ</rt><rp>）</rp></ruby></b>",
     "options": [
       "いいおもいでになります",
       "おもいで",
@@ -165,7 +165,7 @@
   },
   {
     "id": 15,
-    "question": "<b>その<ruby>荷物<rp>（</rp><rt>にもつ</rt><rp>）</rp></ruby>は＿＿＿そうですね。<ruby>手伝<rp>（</rp><rt>てつだ</rt><rp>）</rp></ruby>いましょうか。</b>",
+    "question": "<b>その<ruby>荷<ruby>物<rp>（</rp><rt>もの</rt><rp>）</rp></ruby><rp>（</rp><rt>にもつ</rt><rp>）</rp></ruby>は＿＿＿そうですね。<ruby>手伝<rp>（</rp><rt>てつだ</rt><rp>）</rp></ruby>いましょうか。</b>",
     "options": [
       "へき",
       "重"
@@ -252,7 +252,7 @@
       "きてよかったです",
       "ふえます"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "difficulty": 1
   },
   {
@@ -325,7 +325,7 @@
   },
   {
     "id": 29,
-    "question": "<b><ruby>渡辺<rp>（</rp><rt>わたなべ</rt><rp>）</rp></ruby>さんは＿＿＿そうです。コーヒーを<ruby>飲<rp>（</rp><rt>の</rt><rp>）</rp></ruby>みながら<ruby>新聞<rp>（</rp><rt>しんぶん</rt><rp>）</rp></ruby>を<ruby>読<rp>（</rp><rt>よ</rt><rp>）</rp></ruby>んでいます。</b>",
+    "question": "<b><ruby>渡辺<rp>（</rp><rt>わたなべ</rt><rp>）</rp></ruby>さんは＿＿＿そうです。コーヒーを<ruby>飲<rp>（</rp><rt>の</rt><rp>）</rp></ruby>みながら<ruby>新<ruby>聞<rp>（</rp><rt>きこ</rt><rp>）</rp></ruby><rp>（</rp><rt>しんぶん</rt><rp>）</rp></ruby>を<ruby>読<rp>（</rp><rt>よ</rt><rp>）</rp></ruby>んでいます。</b>",
     "options": [
       "げんき",
       "暇"
@@ -335,7 +335,7 @@
   },
   {
     "id": 30,
-    "question": "<b>カレンダーに<ruby>約束<rp>（</rp><rt>やくそく</rt><rp>）</rp></ruby>の<ruby>時間<rp>（</rp><rt>じかん</rt><rp>）</rp></ruby>が<ruby>書<rp>（</rp><rt>か</rt><rp>）</rp></ruby>いて＿＿＿。</b>",
+    "question": "<b>カレンダーに<ruby>約束<rp>（</rp><rt>やくそく</rt><rp>）</rp></ruby>の<ruby>時<ruby>間<rp>（</rp><rt>あいだ</rt><rp>）</rp></ruby><rp>（</rp><rt>じかん</rt><rp>）</rp></ruby>が<ruby>書<rp>（</rp><rt>か</rt><rp>）</rp></ruby>いて＿＿＿。</b>",
     "options": [
       "あります",
       "います"
@@ -357,7 +357,7 @@
   },
   {
     "id": 32,
-    "question": "<b>年齢</b>",
+    "question": "<b><ruby>年<rp>（</rp><rt>とし</rt><rp>）</rp></ruby>齢</b>",
     "options": [
       "しゅうにゅう",
       "ねんれい",
@@ -376,7 +376,7 @@
       "へります",
       "をバックにして"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "difficulty": 1
   },
   {
@@ -388,7 +388,7 @@
       "ひ",
       "ドライブ"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "difficulty": 1
   },
   {
@@ -403,7 +403,7 @@
   },
   {
     "id": 36,
-    "question": "<b>上がります</b>",
+    "question": "<b><ruby>上<rp>（</rp><rt>うえ</rt><rp>）</rp></ruby>がります</b>",
     "options": [
       "あがります",
       "おります",
@@ -422,7 +422,7 @@
       "ばら",
       "をバックにして"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "difficulty": 1
   },
   {
@@ -492,7 +492,7 @@
       "わあ",
       "～のほう"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "difficulty": 1
   },
   {
@@ -531,7 +531,7 @@
   },
   {
     "id": 47,
-    "question": "<b>収入</b>",
+    "question": "<b>収<ruby>入<rp>（</rp><rt>はい</rt><rp>）</rp></ruby></b>",
     "options": [
       "あがります",
       "いいおもいでになります",
@@ -543,7 +543,7 @@
   },
   {
     "id": 48,
-    "question": "<b>いい<ruby>天気<rp>（</rp><rt>てんき</rt><rp>）</rp></ruby>なので、ちょっと<ruby>公園<rp>（</rp><rt>こうえん</rt><rp>）</rp></ruby>を<ruby>散歩<rp>（</rp><rt>さんぽ</rt><rp>）</rp></ruby>して＿＿＿。</b>",
+    "question": "<b>いい<ruby>天気<rp>（</rp><rt>てんき</rt><rp>）</rp></ruby>なので、ちょっと<ruby>公園<rp>（</rp><rt>こうえん</rt><rp>）</rp></ruby>を<ruby>散<ruby>歩<rp>（</rp><rt>ある</rt><rp>）</rp></ruby><rp>（</rp><rt>さんぽ</rt><rp>）</rp></ruby>して＿＿＿。</b>",
     "options": [
       "くます",
       "来ます"
@@ -560,7 +560,7 @@
       "ねんれい",
       "むかえます"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "difficulty": 1
   },
   {
@@ -582,7 +582,7 @@
       "をバックにして",
       "センス"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "difficulty": 1
   },
   {
@@ -652,7 +652,7 @@
       "ばら",
       "ボート"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "difficulty": 1
   },
   {
@@ -712,7 +712,7 @@
       "むかえます",
       "コインロッカー"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "difficulty": 1
   },
   {
@@ -855,7 +855,7 @@
   },
   {
     "id": 75,
-    "question": "<b>ことしは<ruby>海外<rp>（</rp><rt>かいがい</rt><rp>）</rp></ruby><ruby>旅行<rp>（</rp><rt>りょこう</rt><rp>）</rp></ruby>をする<ruby>人<rp>（</rp><rt>ひと</rt><rp>）</rp></ruby>が＿＿＿そうです。</b>",
+    "question": "<b>ことしは<ruby>海<ruby>外<rp>（</rp><rt>そと</rt><rp>）</rp></ruby><rp>（</rp><rt>かいがい</rt><rp>）</rp></ruby><ruby>旅<ruby>行<rp>（</rp><rt>い</rt><rp>）</rp></ruby><rp>（</rp><rt>りょこう</rt><rp>）</rp></ruby>をする<ruby>人<rp>（</rp><rt>ひと</rt><rp>）</rp></ruby>が＿＿＿そうです。</b>",
     "options": [
       "増え",
       "高"
@@ -1012,7 +1012,7 @@
       "わあ",
       "センス"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "difficulty": 1
   },
   {
@@ -1024,7 +1024,7 @@
       "ひ",
       "へります"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "difficulty": 1
   },
   {
@@ -1036,7 +1036,7 @@
       "れいぼう",
       "わあ"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "difficulty": 1
   },
   {
@@ -1072,12 +1072,12 @@
       "ドライブ",
       "～のほう"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "difficulty": 1
   },
   {
     "id": 94,
-    "question": "<b><ruby>鈴木<rp>（</rp><rt>すずき</rt><rp>）</rp></ruby>さん、<ruby>気分<rp>（</rp><rt>きぶん</rt><rp>）</rp></ruby>が＿＿＿そうですね。<ruby>疲<rp>（</rp><rt>つか</rt><rp>）</rp></ruby>れたんですか。</b>",
+    "question": "<b><ruby>鈴<ruby>木<rp>（</rp><rt>き</rt><rp>）</rp></ruby><rp>（</rp><rt>すずき</rt><rp>）</rp></ruby>さん、<ruby>気分<rp>（</rp><rt>きぶん</rt><rp>）</rp></ruby>が＿＿＿そうですね。<ruby>疲<rp>（</rp><rt>つか</rt><rp>）</rp></ruby>れたんですか。</b>",
     "options": [
       "よさ",
       "悪"
@@ -1173,7 +1173,7 @@
   },
   {
     "id": 103,
-    "question": "<b>いい思い出になります</b>",
+    "question": "<b>いい<ruby>思<rp>（</rp><rt>おも</rt><rp>）</rp></ruby>い<ruby>出<rp>（</rp><rt>だ</rt><rp>）</rp></ruby>になります</b>",
     "options": [
       "あがります",
       "いいおもいでになります",
@@ -1356,7 +1356,7 @@
       "コインロッカー",
       "ドライブ"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "difficulty": 1
   },
   {
@@ -1368,7 +1368,7 @@
       "むかえます",
       "ドライブ"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "difficulty": 1
   },
   {
@@ -1402,7 +1402,7 @@
       "コインロッカー",
       "～のほう"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "difficulty": 1
   },
   {
@@ -1534,7 +1534,7 @@
       "をバックにして",
       "～のほう"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "difficulty": 1
   },
   {
@@ -1611,7 +1611,7 @@
   },
   {
     "id": 140,
-    "question": "<b>いい思い出になります</b>",
+    "question": "<b>いい<ruby>思<rp>（</rp><rt>おも</rt><rp>）</rp></ruby>い<ruby>出<rp>（</rp><rt>だ</rt><rp>）</rp></ruby>になります</b>",
     "options": [
       "いいおもいでになります",
       "なくなります",
@@ -1700,7 +1700,7 @@
       "をバックにして",
       "～のほう"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "difficulty": 1
   },
   {
@@ -1729,7 +1729,7 @@
   },
   {
     "id": 150,
-    "question": "<b><ruby>網棚<rp>（</rp><rt>あみだな</rt><rp>）</rp></ruby>の<ruby>荷物<rp>（</rp><rt>にもつ</rt><rp>）</rp></ruby>が＿＿＿そうですね。<ruby>危<rp>（</rp><rt>あぶ</rt><rp>）</rp></ruby>ないですね。</b>",
+    "question": "<b><ruby>網棚<rp>（</rp><rt>あみだな</rt><rp>）</rp></ruby>の<ruby>荷<ruby>物<rp>（</rp><rt>もの</rt><rp>）</rp></ruby><rp>（</rp><rt>にもつ</rt><rp>）</rp></ruby>が＿＿＿そうですね。<ruby>危<rp>（</rp><rt>あぶ</rt><rp>）</rp></ruby>ないですね。</b>",
     "options": [
       "落ち",
       "落と"
@@ -1746,7 +1746,7 @@
       "コインロッカー",
       "～のほう"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "difficulty": 1
   },
   {
@@ -1797,7 +1797,7 @@
   },
   {
     "id": 156,
-    "question": "<b>年齢</b>",
+    "question": "<b><ruby>年<rp>（</rp><rt>とし</rt><rp>）</rp></ruby>齢</b>",
     "options": [
       "だんボール",
       "ねんれい",
@@ -1828,7 +1828,7 @@
       "へります",
       "ガソリン"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "difficulty": 1
   },
   {
@@ -1874,7 +1874,7 @@
       "コインロッカー",
       "センス"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "difficulty": 1
   },
   {
@@ -1886,7 +1886,7 @@
       "をバックにして",
       "ドライブ"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "difficulty": 1
   },
   {
@@ -2028,7 +2028,7 @@
       "ばら",
       "ひ"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "difficulty": 1
   },
   {
@@ -2040,7 +2040,7 @@
       "れいぼう",
       "～のほう"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "difficulty": 1
   },
   {
@@ -2115,7 +2115,7 @@
   },
   {
     "id": 183,
-    "question": "<b><ruby>約束<rp>（</rp><rt>やくそく</rt><rp>）</rp></ruby>の<ruby>時間<rp>（</rp><rt>じかん</rt><rp>）</rp></ruby>に＿＿＿そうですから、<ruby>少<rp>（</rp><rt>すこ</rt><rp>）</rp></ruby>し<ruby>急<rp>（</rp><rt>いそ</rt><rp>）</rp></ruby>ぎましょう。</b>",
+    "question": "<b><ruby>約束<rp>（</rp><rt>やくそく</rt><rp>）</rp></ruby>の<ruby>時<ruby>間<rp>（</rp><rt>あいだ</rt><rp>）</rp></ruby><rp>（</rp><rt>じかん</rt><rp>）</rp></ruby>に＿＿＿そうですから、<ruby>少<rp>（</rp><rt>すこ</rt><rp>）</rp></ruby>し<ruby>急<rp>（</rp><rt>いそ</rt><rp>）</rp></ruby>ぎましょう。</b>",
     "options": [
       "遅れ",
       "間に合う"

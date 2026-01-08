@@ -30,7 +30,7 @@
       "そうだん",
       "そら"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "difficulty": 1
   },
   {
@@ -54,7 +54,7 @@
       "ちち",
       "つづけます"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "difficulty": 1
   },
   {
@@ -66,7 +66,7 @@
       "そら",
       "だいがくいん"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "difficulty": 1
   },
   {
@@ -78,7 +78,7 @@
       "そつぎょう",
       "たてます"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "difficulty": 1
   },
   {
@@ -119,7 +119,7 @@
   },
   {
     "id": 11,
-    "question": "<b>この<ruby>週末<rp>（</rp><rt>しゅうまつ</rt><rp>）</rp></ruby>は<ruby>子<rp>（</rp><rt>こ</rt><rp>）</rp></ruby>どもを<ruby>動物園<rp>（</rp><rt>どうぶつえん</rt><rp>）</rp></ruby>へ（　）と<ruby>思<rp>（</rp><rt>おも</rt><rp>）</rp></ruby>っています。</b>",
+    "question": "<b>この<ruby>週末<rp>（</rp><rt>しゅうまつ</rt><rp>）</rp></ruby>は<ruby>子<rp>（</rp><rt>こ</rt><rp>）</rp></ruby>どもを<ruby>動<ruby>物<rp>（</rp><rt>もの</rt><rp>）</rp></ruby>園<rp>（</rp><rt>どうぶつえん</rt><rp>）</rp></ruby>へ（　）と<ruby>思<rp>（</rp><rt>おも</rt><rp>）</rp></ruby>っています。</b>",
     "options": [
       "帰ろう",
       "連れて行こう"
@@ -136,7 +136,7 @@
       "どうぶつえん",
       "～のほう"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "difficulty": 1
   },
   {
@@ -153,7 +153,7 @@
   },
   {
     "id": 14,
-    "question": "<b><ruby>来年<rp>（</rp><rt>らいねん</rt><rp>）</rp></ruby><ruby>家族<rp>（</rp><rt>かぞく</rt><rp>）</rp></ruby>を<ruby>日本<rp>（</rp><rt>にほん</rt><rp>）</rp></ruby>に（　）と<ruby>思<rp>（</rp><rt>おも</rt><rp>）</rp></ruby>っています・</b>",
+    "question": "<b><ruby>来<ruby>年<rp>（</rp><rt>とし</rt><rp>）</rp></ruby><rp>（</rp><rt>らいねん</rt><rp>）</rp></ruby><ruby>家族<rp>（</rp><rt>かぞく</rt><rp>）</rp></ruby>を<ruby>日<ruby>本<rp>（</rp><rt>ほん</rt><rp>）</rp></ruby><rp>（</rp><rt>にほん</rt><rp>）</rp></ruby>に（　）と<ruby>思<rp>（</rp><rt>おも</rt><rp>）</rp></ruby>っています・</b>",
     "options": [
       "連れてきよう",
       "連れてこよう。"
@@ -175,7 +175,7 @@
   },
   {
     "id": 16,
-    "question": "<b>社長</b>",
+    "question": "<b><ruby>社<ruby>長<rp>（</rp><rt>なが</rt><rp>）</rp></ruby><rp>（</rp><rt>しゃちょう</rt><rp>）</rp></ruby></b>",
     "options": [
       "いいんですか",
       "うけます",
@@ -199,7 +199,7 @@
   },
   {
     "id": 18,
-    "question": "<b>スキー<ruby>旅行<rp>（</rp><rt>りょこう</rt><rp>）</rp></ruby>に<ruby>参加<rp>（</rp><rt>さんか</rt><rp>）</rp></ruby>する<ruby>人<rp>（</rp><rt>ひと</rt><rp>）</rp></ruby>は<ruby>何人<rp>（</rp><rt>なんにん</rt><rp>）</rp></ruby>ぐらいですか。<p>…50<ruby>人<rp>（</rp><rt>にん</rt><rp>）</rp></ruby>（　）<ruby>予定<rp>（</rp><rt>よてい</rt><rp>）</rp></ruby>です。</p></b>",
+    "question": "<b>スキー<ruby>旅<ruby>行<rp>（</rp><rt>い</rt><rp>）</rp></ruby><rp>（</rp><rt>りょこう</rt><rp>）</rp></ruby>に<ruby>参加<rp>（</rp><rt>さんか</rt><rp>）</rp></ruby>する<ruby>人<rp>（</rp><rt>ひと</rt><rp>）</rp></ruby>は<ruby>何人<rp>（</rp><rt>なんにん</rt><rp>）</rp></ruby>ぐらいですか。<p>…50<ruby>人<rp>（</rp><rt>にん</rt><rp>）</rp></ruby>（　）<ruby>予定<rp>（</rp><rt>よてい</rt><rp>）</rp></ruby>です。</p></b>",
     "options": [
       "ぐらいに",
       "ぐらいの"
@@ -233,7 +233,7 @@
   },
   {
     "id": 21,
-    "question": "<b>A : お<ruby>正月<rp>（</rp><rt>しょうがつ</rt><rp>）</rp></ruby>は<ruby>何<rp>（</rp><rt>なに</rt><rp>）</rp></ruby>をしますか。<p>B : <ruby>家族<rp>（</rp><rt>かぞく</rt><rp>）</rp></ruby>と<ruby>温泉<rp>（</rp><rt>おんせん</rt><rp>）</rp></ruby>に（　）と<ruby>思<rp>（</rp><rt>おも</rt><rp>）</rp></ruby>っています。</p></b>",
+    "question": "<b>A : お<ruby>正<ruby>月<rp>（</rp><rt>つき</rt><rp>）</rp></ruby><rp>（</rp><rt>しょうがつ</rt><rp>）</rp></ruby>は<ruby>何<rp>（</rp><rt>なに</rt><rp>）</rp></ruby>をしますか。<p>B : <ruby>家族<rp>（</rp><rt>かぞく</rt><rp>）</rp></ruby>と<ruby>温泉<rp>（</rp><rt>おんせん</rt><rp>）</rp></ruby>に（　）と<ruby>思<rp>（</rp><rt>おも</rt><rp>）</rp></ruby>っています。</p></b>",
     "options": [
       "行く",
       "行こう"
@@ -250,7 +250,7 @@
       "つづけます",
       "にゅうがく"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "difficulty": 1
   },
   {
@@ -277,7 +277,7 @@
   },
   {
     "id": 25,
-    "question": "<b>出発</b>",
+    "question": "<b><ruby>出<rp>（</rp><rt>だ</rt><rp>）</rp></ruby>発</b>",
     "options": [
       "きゅうけい",
       "しゅっぱつ",
@@ -356,7 +356,7 @@
       "おわり",
       "ぶちょう"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "difficulty": 1
   },
   {
@@ -452,7 +452,7 @@
       "くうこう",
       "だれか"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "difficulty": 1
   },
   {
@@ -488,7 +488,7 @@
       "おそうしき",
       "ぶちょう"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "difficulty": 1
   },
   {
@@ -512,7 +512,7 @@
       "とじます",
       "～のほう"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "difficulty": 1
   },
   {
@@ -524,7 +524,7 @@
       "はじめ",
       "れんきゅう"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "difficulty": 1
   },
   {
@@ -536,7 +536,7 @@
       "さくぶん",
       "たのしみにしています"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "difficulty": 1
   },
   {
@@ -548,7 +548,7 @@
       "しゃちょう",
       "まとめます"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "difficulty": 1
   },
   {
@@ -575,7 +575,7 @@
   },
   {
     "id": 50,
-    "question": "<b>都会</b>",
+    "question": "<b>都<ruby>会<rp>（</rp><rt>あ</rt><rp>）</rp></ruby></b>",
     "options": [
       "いなか",
       "しゃちょう",
@@ -717,7 +717,7 @@
   },
   {
     "id": 62,
-    "question": "<b>大学院</b>",
+    "question": "<b><ruby>大学<rp>（</rp><rt>だいがく</rt><rp>）</rp></ruby>院</b>",
     "options": [
       "いいなあ",
       "してん",
@@ -729,7 +729,7 @@
   },
   {
     "id": 63,
-    "question": "<b>動物園</b>",
+    "question": "<b><ruby>動<rp>（</rp><rt>うご</rt><rp>）</rp></ruby><ruby>物<rp>（</rp><rt>もの</rt><rp>）</rp></ruby>園</b>",
     "options": [
       "とうぶつえん",
       "どうふつえん",
@@ -753,7 +753,7 @@
   },
   {
     "id": 65,
-    "question": "<b><ruby>国<rp>（</rp><rt>くに</rt><rp>）</rp></ruby>へ<ruby>帰<rp>（</rp><rt>かえ</rt><rp>）</rp></ruby>っても、<ruby>柔道<rp>（</rp><rt>じゅうどう</rt><rp>）</rp></ruby>を（　）つもりです。</b>",
+    "question": "<b><ruby>国<rp>（</rp><rt>くに</rt><rp>）</rp></ruby>へ<ruby>帰<rp>（</rp><rt>かえ</rt><rp>）</rp></ruby>っても、<ruby>柔<ruby>道<rp>（</rp><rt>みち</rt><rp>）</rp></ruby><rp>（</rp><rt>じゅうどう</rt><rp>）</rp></ruby>を（　）つもりです。</b>",
     "options": [
       "続けよう",
       "続ける"
@@ -785,7 +785,7 @@
   },
   {
     "id": 68,
-    "question": "<b>大学院</b>",
+    "question": "<b><ruby>大学<rp>（</rp><rt>だいがく</rt><rp>）</rp></ruby>院</b>",
     "options": [
       "たいがくいん",
       "だいかくいん",
@@ -819,7 +819,7 @@
   },
   {
     "id": 71,
-    "question": "<b><ruby>夏休<rp>（</rp><rt>なつやす</rt><rp>）</rp></ruby>みにアルバイトをしますか。<p>…いいえ、アルバイトは（　）つもりです。<ruby>試験<rp>（</rp><rt>しけん</rt><rp>）</rp></ruby><ruby>勉強<rp>（</rp><rt>べんきょう</rt><rp>）</rp></ruby>をしなければならないんです。</p></b>",
+    "question": "<b><ruby>夏<ruby>休<rp>（</rp><rt>やす</rt><rp>）</rp></ruby><rp>（</rp><rt>なつやす</rt><rp>）</rp></ruby>みにアルバイトをしますか。<p>…いいえ、アルバイトは（　）つもりです。<ruby>試験<rp>（</rp><rt>しけん</rt><rp>）</rp></ruby><ruby>勉強<rp>（</rp><rt>べんきょう</rt><rp>）</rp></ruby>をしなければならないんです。</p></b>",
     "options": [
       "しない",
       "する"
@@ -829,7 +829,7 @@
   },
   {
     "id": 72,
-    "question": "<b><ruby>来年<rp>（</rp><rt>らいねん</rt><rp>）</rp></ruby>の３<ruby>月<rp>（</rp><rt>がつ</rt><rp>）</rp></ruby>に<ruby>大学<rp>（</rp><rt>だいがく</rt><rp>）</rp></ruby>（　）<ruby>卒業<rp>（</rp><rt>そつぎょう</rt><rp>）</rp></ruby>する<ruby>予定<rp>（</rp><rt>よてい</rt><rp>）</rp></ruby>です。</b>",
+    "question": "<b><ruby>来<ruby>年<rp>（</rp><rt>とし</rt><rp>）</rp></ruby><rp>（</rp><rt>らいねん</rt><rp>）</rp></ruby>の３<ruby>月<rp>（</rp><rt>がつ</rt><rp>）</rp></ruby>に<ruby>大学<rp>（</rp><rt>だいがく</rt><rp>）</rp></ruby>（　）<ruby>卒業<rp>（</rp><rt>そつぎょう</rt><rp>）</rp></ruby>する<ruby>予定<rp>（</rp><rt>よてい</rt><rp>）</rp></ruby>です。</b>",
     "options": [
       "に",
       "を"
@@ -943,7 +943,7 @@
   },
   {
     "id": 82,
-    "question": "<b>～の方</b>",
+    "question": "<b>～の<ruby>方<rp>（</rp><rt>かた</rt><rp>）</rp></ruby></b>",
     "options": [
       "こんどの～",
       "せかいじゅう",
@@ -979,7 +979,7 @@
   },
   {
     "id": 85,
-    "question": "<b>展覧会</b>",
+    "question": "<b>展覧<ruby>会<rp>（</rp><rt>あ</rt><rp>）</rp></ruby></b>",
     "options": [
       "せいかいちゅ",
       "せかいしゅう",
@@ -1003,7 +1003,7 @@
   },
   {
     "id": 87,
-    "question": "<b><ruby>日本<rp>（</rp><rt>にほん</rt><rp>）</rp></ruby>の<ruby>大学<rp>（</rp><rt>だいがく</rt><rp>）</rp></ruby>（　）<ruby>入学<rp>（</rp><rt>にゅうがく</rt><rp>）</rp></ruby>します。</b>",
+    "question": "<b><ruby>日<ruby>本<rp>（</rp><rt>ほん</rt><rp>）</rp></ruby><rp>（</rp><rt>にほん</rt><rp>）</rp></ruby>の<ruby>大学<rp>（</rp><rt>だいがく</rt><rp>）</rp></ruby>（　）<ruby>入学<rp>（</rp><rt>にゅうがく</rt><rp>）</rp></ruby>します。</b>",
     "options": [
       "に",
       "を"
@@ -1032,7 +1032,7 @@
       "にゅうがく",
       "まとめます"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "difficulty": 1
   },
   {
@@ -1049,7 +1049,7 @@
   },
   {
     "id": 91,
-    "question": "<b>休憩</b>",
+    "question": "<b><ruby>休<rp>（</rp><rt>やす</rt><rp>）</rp></ruby>憩</b>",
     "options": [
       "きゅうけい",
       "けっこんしき",
@@ -1061,7 +1061,7 @@
   },
   {
     "id": 92,
-    "question": "<b>世界中</b>",
+    "question": "<b><ruby>世界<rp>（</rp><rt>せかい</rt><rp>）</rp></ruby>中</b>",
     "options": [
       "くうこう",
       "しゃちょう",
@@ -1109,7 +1109,7 @@
   },
   {
     "id": 96,
-    "question": "<b>出張</b>",
+    "question": "<b><ruby>出<rp>（</rp><rt>だ</rt><rp>）</rp></ruby>張</b>",
     "options": [
       "きがつきます",
       "きょうかい",
@@ -1152,7 +1152,7 @@
       "ぶちょう",
       "まとめます"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "difficulty": 1
   },
   {
@@ -1164,7 +1164,7 @@
       "だいがくいん",
       "みつけます"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "difficulty": 1
   },
   {
@@ -1204,7 +1204,7 @@
   },
   {
     "id": 104,
-    "question": "<b>都会</b>",
+    "question": "<b>都<ruby>会<rp>（</rp><rt>あ</rt><rp>）</rp></ruby></b>",
     "options": [
       "こんどの～",
       "しき",
@@ -1276,7 +1276,7 @@
   },
   {
     "id": 110,
-    "question": "<b>閉じます</b>",
+    "question": "<b><ruby>閉<rp>（</rp><rt>し</rt><rp>）</rp></ruby>じます</b>",
     "options": [
       "とじます",
       "なつ",
@@ -1362,7 +1362,7 @@
       "してい",
       "してん"
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 2,
     "difficulty": 1
   },
   {
@@ -1374,7 +1374,7 @@
       "そら",
       "ふゆ"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "difficulty": 1
   },
   {
@@ -1437,7 +1437,7 @@
   },
   {
     "id": 124,
-    "question": "<b>これこらも<ruby>今<rp>（</rp><rt>いま</rt><rp>）</rp></ruby>の<ruby>研究<rp>（</rp><rt>けんきゅう</rt><rp>）</rp></ruby>を<ruby>続<rp>（</rp><rt>つづ</rt><rp>）</rp></ruby>けますか。<p>…ええ、<ruby>将来<rp>（</rp><rt>しょうらい</rt><rp>）</rp></ruby>もずっと（　）つもりです。</p></b>",
+    "question": "<b>これこらも<ruby>今<rp>（</rp><rt>いま</rt><rp>）</rp></ruby>の<ruby>研究<rp>（</rp><rt>けんきゅう</rt><rp>）</rp></ruby>を<ruby>続<rp>（</rp><rt>つづ</rt><rp>）</rp></ruby>けますか。<p>…ええ、<ruby>将<ruby>来<rp>（</rp><rt>き</rt><rp>）</rp></ruby><rp>（</rp><rt>しょうらい</rt><rp>）</rp></ruby>もずっと（　）つもりです。</p></b>",
     "options": [
       "続けよう",
       "続ける"
@@ -1454,7 +1454,7 @@
       "しぜん",
       "はじめ"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "difficulty": 1
   },
   {
@@ -1622,12 +1622,12 @@
       "まとめます",
       "みつけます"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "difficulty": 1
   },
   {
     "id": 140,
-    "question": "<b><ruby>本社<rp>（</rp><rt>ほんしゃ</rt><rp>）</rp></ruby>の<ruby>会議<rp>（</rp><rt>かいぎ</rt><rp>）</rp></ruby>にはだれが<ruby>出席<rp>（</rp><rt>しゅっせき</rt><rp>）</rp></ruby>しますか。<p>…<ruby>部長<rp>（</rp><rt>ぶちょう</rt><rp>）</rp></ruby>が（　）<ruby>予定<rp>（</rp><rt>よてい</rt><rp>）</rp></ruby>です。</p></b>",
+    "question": "<b><ruby>本社<rp>（</rp><rt>ほんしゃ</rt><rp>）</rp></ruby>の<ruby>会議<rp>（</rp><rt>かいぎ</rt><rp>）</rp></ruby>にはだれが<ruby>出席<rp>（</rp><rt>しゅっせき</rt><rp>）</rp></ruby>しますか。<p>…<ruby>部<ruby>長<rp>（</rp><rt>なが</rt><rp>）</rp></ruby><rp>（</rp><rt>ぶちょう</rt><rp>）</rp></ruby>が（　）<ruby>予定<rp>（</rp><rt>よてい</rt><rp>）</rp></ruby>です。</p></b>",
     "options": [
       "出席し",
       "出席する"
@@ -1644,12 +1644,12 @@
       "ちち",
       "まとめます"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "difficulty": 1
   },
   {
     "id": 142,
-    "question": "<b>出ます</b>",
+    "question": "<b><ruby>出<rp>（</rp><rt>だ</rt><rp>）</rp></ruby>ます</b>",
     "options": [
       "あに",
       "しぜん",
@@ -1668,7 +1668,7 @@
       "でます",
       "なつ"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "difficulty": 1
   },
   {
@@ -1685,7 +1685,7 @@
   },
   {
     "id": 145,
-    "question": "<b>～の方</b>",
+    "question": "<b>～の<ruby>方<rp>（</rp><rt>かた</rt><rp>）</rp></ruby></b>",
     "options": [
       "してん",
       "でます",
@@ -1728,7 +1728,7 @@
       "しき",
       "すばらしさ"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "difficulty": 1
   },
   {
@@ -1762,7 +1762,7 @@
       "けっこんしき",
       "せかいじゅう"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "difficulty": 1
   },
   {
@@ -1774,7 +1774,7 @@
       "すばらしさ",
       "たのしみにしています"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "difficulty": 1
   },
   {
@@ -1786,7 +1786,7 @@
       "さくぷん",
       "さっぷん"
     ],
-    "correctAnswer": 2,
+    "correctAnswer": 1,
     "difficulty": 1
   },
   {
@@ -1810,7 +1810,7 @@
       "よかったら、～",
       "インターネット"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "difficulty": 1
   },
   {
@@ -1899,7 +1899,7 @@
   },
   {
     "id": 163,
-    "question": "<b>社長</b>",
+    "question": "<b><ruby>社<ruby>長<rp>（</rp><rt>なが</rt><rp>）</rp></ruby><rp>（</rp><rt>しゃちょう</rt><rp>）</rp></ruby></b>",
     "options": [
       "きがつきます",
       "しゃちょう",
@@ -1928,7 +1928,7 @@
       "すばらしさ",
       "そつぎょう"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "difficulty": 1
   },
   {
@@ -1988,12 +1988,12 @@
       "だいがくいん",
       "ふゆ"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "difficulty": 1
   },
   {
     "id": 171,
-    "question": "<b>終わり</b>",
+    "question": "<b><ruby>終<rp>（</rp><rt>おわ</rt><rp>）</rp></ruby>わり</b>",
     "options": [
       "おわり",
       "きがつきます",
@@ -2046,7 +2046,7 @@
       "つづけます",
       "よてい"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "difficulty": 1
   },
   {
@@ -2058,7 +2058,7 @@
       "ちち",
       "はる"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "difficulty": 1
   },
   {
@@ -2094,12 +2094,12 @@
       "でます",
       "ほんしゃ"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "difficulty": 1
   },
   {
     "id": 180,
-    "question": "<b>終わり</b>",
+    "question": "<b><ruby>終<rp>（</rp><rt>おわ</rt><rp>）</rp></ruby>わり</b>",
     "options": [
       "おわり",
       "きゅうけい",
@@ -2111,7 +2111,7 @@
   },
   {
     "id": 181,
-    "question": "<b><ruby>課長<rp>（</rp><rt>かちょう</rt><rp>）</rp></ruby>の<ruby>午後<rp>（</rp><rt>ごご</rt><rp>）</rp></ruby>の<ruby>予定<rp>（</rp><rt>よてい</rt><rp>）</rp></ruby>がわかりますか。<p>…<ruby>支店<rp>（</rp><rt>してん</rt><rp>）</rp></ruby>へ（　）<ruby>予定<rp>（</rp><rt>よてい</rt><rp>）</rp></ruby>です。</p></b>",
+    "question": "<b><ruby>課<ruby>長<rp>（</rp><rt>なが</rt><rp>）</rp></ruby><rp>（</rp><rt>かちょう</rt><rp>）</rp></ruby>の<ruby>午後<rp>（</rp><rt>ごご</rt><rp>）</rp></ruby>の<ruby>予定<rp>（</rp><rt>よてい</rt><rp>）</rp></ruby>がわかりますか。<p>…<ruby>支店<rp>（</rp><rt>してん</rt><rp>）</rp></ruby>へ（　）<ruby>予定<rp>（</rp><rt>よてい</rt><rp>）</rp></ruby>です。</p></b>",
     "options": [
       "行く",
       "行って"
@@ -2121,7 +2121,7 @@
   },
   {
     "id": 182,
-    "question": "<b>出席</b>",
+    "question": "<b><ruby>出<rp>（</rp><rt>だ</rt><rp>）</rp></ruby>席</b>",
     "options": [
       "しゅっせき",
       "はは",
@@ -2133,14 +2133,14 @@
   },
   {
     "id": 183,
-    "question": "<b>空</b>",
+    "question": "<b><ruby>空<rp>（</rp><rt>そら</rt><rp>）</rp></ruby></b>",
     "options": [
       "しゃちょう",
       "そら",
       "たのしみにしています",
       "のこります"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "difficulty": 2
   },
   {
@@ -2152,7 +2152,7 @@
       "しゃちょう",
       "よてい"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "difficulty": 1
   },
   {
@@ -2191,7 +2191,7 @@
   },
   {
     "id": 188,
-    "question": "<b><ruby>来年<rp>（</rp><rt>らいねん</rt><rp>）</rp></ruby><ruby>大学院<rp>（</rp><rt>だいがくいん</rt><rp>）</rp></ruby>の<ruby>試験<rp>（</rp><rt>しけん</rt><rp>）</rp></ruby>を<ruby>受<rp>（</rp><rt>う</rt><rp>）</rp></ruby>けますか。<p>…いいえ、（　）つもりです。</p></b>",
+    "question": "<b><ruby>来<ruby>年<rp>（</rp><rt>とし</rt><rp>）</rp></ruby><rp>（</rp><rt>らいねん</rt><rp>）</rp></ruby><ruby>大学院<rp>（</rp><rt>だいがくいん</rt><rp>）</rp></ruby>の<ruby>試験<rp>（</rp><rt>しけん</rt><rp>）</rp></ruby>を<ruby>受<rp>（</rp><rt>う</rt><rp>）</rp></ruby>けますか。<p>…いいえ、（　）つもりです。</p></b>",
     "options": [
       "受けない",
       "受ける"
@@ -2232,7 +2232,7 @@
       "ほんしゃ",
       "～のほう"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "difficulty": 1
   }
 ]

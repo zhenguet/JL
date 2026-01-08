@@ -61,7 +61,7 @@
   },
   {
     "id": 6,
-    "question": "<b>グプタさんに<ruby>聞<rp>（</rp><rt>き</rt><rp>）</rp></ruby>いたんですが、クララさんは<ruby>来月<rp>（</rp><rt>らいげつ</rt><rp>）</rp></ruby><ruby>国<rp>（</rp><rt>こく</rt><rp>）</rp></ruby>へ（　）。</b>",
+    "question": "<b>グプタさんに<ruby>聞<rp>（</rp><rt>き</rt><rp>）</rp></ruby>いたんですが、クララさんは<ruby>来<ruby>月<rp>（</rp><rt>つき</rt><rp>）</rp></ruby><rp>（</rp><rt>らいげつ</rt><rp>）</rp></ruby><ruby>国<rp>（</rp><rt>こく</rt><rp>）</rp></ruby>へ（　）。</b>",
     "options": [
       "帰ったようです",
       "帰るそうです"
@@ -83,7 +83,7 @@
   },
   {
     "id": 8,
-    "question": "<b>今度</b>",
+    "question": "<b><ruby>今度<rp>（</rp><rt>こんど</rt><rp>）</rp></ruby></b>",
     "options": [
       "こんど",
       "こんやくします",
@@ -114,7 +114,7 @@
       "グアム",
       "パトカー"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "difficulty": 1
   },
   {
@@ -138,7 +138,7 @@
       "にゅういん",
       "バリとう"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "difficulty": 1
   },
   {
@@ -184,7 +184,7 @@
       "バリとう",
       "～によると"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "difficulty": 1
   },
   {
@@ -225,7 +225,7 @@
   },
   {
     "id": 20,
-    "question": "<b><ruby>新聞<rp>（</rp><rt>しんぶん</rt><rp>）</rp></ruby>によると、<ruby>世界<rp>（</rp><rt>せかい</rt><rp>）</rp></ruby>の<ruby>人口<rp>（</rp><rt>じんこう</rt><rp>）</rp></ruby>は６０<ruby>億人<rp>（</rp><rt>おくにん</rt><rp>）</rp></ruby>（　）。</b>",
+    "question": "<b><ruby>新<ruby>聞<rp>（</rp><rt>きこ</rt><rp>）</rp></ruby><rp>（</rp><rt>しんぶん</rt><rp>）</rp></ruby>によると、<ruby>世界<rp>（</rp><rt>せかい</rt><rp>）</rp></ruby>の<ruby>人<ruby>口<rp>（</rp><rt>くち</rt><rp>）</rp></ruby><rp>（</rp><rt>じんこう</rt><rp>）</rp></ruby>は６０<ruby>億人<rp>（</rp><rt>おくにん</rt><rp>）</rp></ruby>（　）。</b>",
     "options": [
       "以上だそうです",
       "以上のようです"
@@ -242,7 +242,7 @@
       "はんとし",
       "ふきます"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "difficulty": 1
   },
   {
@@ -348,7 +348,7 @@
       "ぶんがく",
       "ノックします"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "difficulty": 1
   },
   {
@@ -372,7 +372,7 @@
       "しらべ",
       "バリとう"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "difficulty": 1
   },
   {
@@ -432,7 +432,7 @@
       "じんこう",
       "ぶんがく"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "difficulty": 1
   },
   {
@@ -456,7 +456,7 @@
       "だんせい",
       "ホルモン"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "difficulty": 1
   },
   {
@@ -562,7 +562,7 @@
       "はんたい",
       "わかれます"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "difficulty": 1
   },
   {
@@ -579,7 +579,7 @@
   },
   {
     "id": 50,
-    "question": "<b>高速道路</b>",
+    "question": "<b>高速<ruby>道<rp>（</rp><rt>みち</rt><rp>）</rp></ruby>路</b>",
     "options": [
       "こうそくどうろ",
       "だんせい",
@@ -622,7 +622,7 @@
       "じんこう",
       "イラン"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "difficulty": 1
   },
   {
@@ -659,7 +659,7 @@
   },
   {
     "id": 57,
-    "question": "<b>調べ</b>",
+    "question": "<b><ruby>調<rp>（</rp><rt>しら</rt><rp>）</rp></ruby>べ</b>",
     "options": [
       "くらべます",
       "しらべ",
@@ -671,7 +671,7 @@
   },
   {
     "id": 58,
-    "question": "<b>長生きします</b>",
+    "question": "<b><ruby>長<rp>（</rp><rt>なが</rt><rp>）</rp></ruby><ruby>生<rp>（</rp><rt>う</rt><rp>）</rp></ruby>きします</b>",
     "options": [
       "けしょうひん",
       "こんど",
@@ -750,7 +750,7 @@
       "もえます",
       "わかれます"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "difficulty": 1
   },
   {
@@ -762,7 +762,7 @@
       "ひどい",
       "ベット"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "difficulty": 1
   },
   {
@@ -796,12 +796,12 @@
       "のう",
       "カリフォルニア"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "difficulty": 1
   },
   {
     "id": 69,
-    "question": "<b><ruby>鈴木<rp>（</rp><rt>すずき</rt><rp>）</rp></ruby>さんは<ruby>大阪<rp>（</rp><rt>おおさか</rt><rp>）</rp></ruby>（　）<ruby>転勤<rp>（</rp><rt>てんきん</rt><rp>）</rp></ruby>するそうです。</b>",
+    "question": "<b><ruby>鈴<ruby>木<rp>（</rp><rt>き</rt><rp>）</rp></ruby><rp>（</rp><rt>すずき</rt><rp>）</rp></ruby>さんは<ruby>大阪<rp>（</rp><rt>おおさか</rt><rp>）</rp></ruby>（　）<ruby>転勤<rp>（</rp><rt>てんきん</rt><rp>）</rp></ruby>するそうです。</b>",
     "options": [
       "で",
       "に"
@@ -811,7 +811,7 @@
   },
   {
     "id": 70,
-    "question": "<b>知り合います</b>",
+    "question": "<b><ruby>知<rp>（</rp><rt>し</rt><rp>）</rp></ruby>り合います</b>",
     "options": [
       "くらべます",
       "しりあいます",
@@ -830,12 +830,12 @@
       "じっけん",
       "イラン"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "difficulty": 1
   },
   {
     "id": 72,
-    "question": "<b>半年</b>",
+    "question": "<b>半<ruby>年<rp>（</rp><rt>とし</rt><rp>）</rp></ruby></b>",
     "options": [
       "くらべます",
       "さします",
@@ -871,7 +871,7 @@
   },
   {
     "id": 75,
-    "question": "<b>恋人</b>",
+    "question": "<b>恋<ruby>人<rp>（</rp><rt>ひと</rt><rp>）</rp></ruby></b>",
     "options": [
       "あいて",
       "あいひと",
@@ -948,7 +948,7 @@
       "グアム",
       "ノックします"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "difficulty": 1
   },
   {
@@ -1008,7 +1008,7 @@
       "じんこう",
       "どうろ"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "difficulty": 1
   },
   {
@@ -1032,7 +1032,7 @@
       "ホルモン",
       "～によると"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "difficulty": 1
   },
   {
@@ -1078,7 +1078,7 @@
       "へいきんじゅみょう",
       "パトカー"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "difficulty": 1
   },
   {
@@ -1150,7 +1150,7 @@
       "はっぴょう",
       "パトカー"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "difficulty": 1
   },
   {
@@ -1162,7 +1162,7 @@
       "はかせ",
       "ぶんがく"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "difficulty": 1
   },
   {
@@ -1179,7 +1179,7 @@
   },
   {
     "id": 101,
-    "question": "<b>ワット<ruby>先生<rp>（</rp><rt>せんせい</rt><rp>）</rp></ruby>の（　）がします。</b>",
+    "question": "<b>ワット<ruby>先<ruby>生<rp>（</rp><rt>う</rt><rp>）</rp></ruby><rp>（</rp><rt>せんせい</rt><rp>）</rp></ruby>の（　）がします。</b>",
     "options": [
       "声",
       "音"
@@ -1261,7 +1261,7 @@
   },
   {
     "id": 108,
-    "question": "<b><ruby>彼<rp>（</rp><rt>かれ</rt><rp>）</rp></ruby>の<ruby>意見<rp>（</rp><rt>いけん</rt><rp>）</rp></ruby>（　）<ruby>賛成<rp>（</rp><rt>さんせい</rt><rp>）</rp></ruby>です。</b>",
+    "question": "<b><ruby>彼<rp>（</rp><rt>かれ</rt><rp>）</rp></ruby>の<ruby>意<ruby>見<rp>（</rp><rt>み</rt><rp>）</rp></ruby><rp>（</rp><rt>いけん</rt><rp>）</rp></ruby>（　）<ruby>賛成<rp>（</rp><rt>さんせい</rt><rp>）</rp></ruby>です。</b>",
     "options": [
       "に",
       "を"
@@ -1350,7 +1350,7 @@
       "わかれます",
       "イラン"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "difficulty": 1
   },
   {
@@ -1386,7 +1386,7 @@
       "ノックします",
       "パトカー"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "difficulty": 1
   },
   {
@@ -1410,12 +1410,12 @@
       "じょせい",
       "はかせ"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "difficulty": 1
   },
   {
     "id": 121,
-    "question": "<b>知り合います</b>",
+    "question": "<b><ruby>知<rp>（</rp><rt>し</rt><rp>）</rp></ruby>り合います</b>",
     "options": [
       "します",
       "しりあいます",
@@ -1427,7 +1427,7 @@
   },
   {
     "id": 122,
-    "question": "<b>道路</b>",
+    "question": "<b><ruby>道<rp>（</rp><rt>みち</rt><rp>）</rp></ruby>路</b>",
     "options": [
       "けしょう",
       "けしょうひん",
@@ -1439,7 +1439,7 @@
   },
   {
     "id": 123,
-    "question": "<b>わたしは<ruby>彼<rp>（</rp><rt>かれ</rt><rp>）</rp></ruby>の<ruby>意見<rp>（</rp><rt>いけん</rt><rp>）</rp></ruby>（　）<ruby>賛成<rp>（</rp><rt>さんせい</rt><rp>）</rp></ruby>です。</b>",
+    "question": "<b>わたしは<ruby>彼<rp>（</rp><rt>かれ</rt><rp>）</rp></ruby>の<ruby>意<ruby>見<rp>（</rp><rt>み</rt><rp>）</rp></ruby><rp>（</rp><rt>いけん</rt><rp>）</rp></ruby>（　）<ruby>賛成<rp>（</rp><rt>さんせい</rt><rp>）</rp></ruby>です。</b>",
     "options": [
       "に",
       "を"
@@ -1622,7 +1622,7 @@
       "イラン",
       "バリとう"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "difficulty": 1
   },
   {
@@ -1721,7 +1721,7 @@
   },
   {
     "id": 147,
-    "question": "<b>道路</b>",
+    "question": "<b><ruby>道<rp>（</rp><rt>みち</rt><rp>）</rp></ruby>路</b>",
     "options": [
       "こうそくどうろ",
       "だんせい",
@@ -1812,7 +1812,7 @@
       "はんとし",
       "ノックします"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "difficulty": 1
   },
   {
@@ -1841,7 +1841,7 @@
   },
   {
     "id": 157,
-    "question": "<b><ruby>最近<rp>（</rp><rt>さいきん</rt><rp>）</rp></ruby><ruby>新<rp>（</rp><rt>あたら</rt><rp>）</rp></ruby>しい<ruby>医学<rp>（</rp><rt>いがく</rt><rp>）</rp></ruby>の<ruby>論文<rp>（</rp><rt>ろんぶん</rt><rp>）</rp></ruby>をアメリカの<ruby>雑誌<rp>（</rp><rt>ざっし</rt><rp>）</rp></ruby>（　）<ruby>読<rp>（</rp><rt>よ</rt><rp>）</rp></ruby>みました。</b>",
+    "question": "<b><ruby>最<ruby>近<rp>（</rp><rt>ちか</rt><rp>）</rp></ruby><rp>（</rp><rt>さいきん</rt><rp>）</rp></ruby><ruby>新<rp>（</rp><rt>あたら</rt><rp>）</rp></ruby>しい<ruby>医学<rp>（</rp><rt>いがく</rt><rp>）</rp></ruby>の<ruby>論文<rp>（</rp><rt>ろんぶん</rt><rp>）</rp></ruby>をアメリカの<ruby>雑誌<rp>（</rp><rt>ざっし</rt><rp>）</rp></ruby>（　）<ruby>読<rp>（</rp><rt>よ</rt><rp>）</rp></ruby>みました。</b>",
     "options": [
       "で",
       "に"
@@ -1882,7 +1882,7 @@
       "あいて",
       "あんた"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "difficulty": 1
   },
   {
@@ -1894,7 +1894,7 @@
       "ながいきします",
       "グアム"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "difficulty": 1
   },
   {
@@ -2007,7 +2007,7 @@
   },
   {
     "id": 171,
-    "question": "<b><ruby>網棚<rp>（</rp><rt>あみだな</rt><rp>）</rp></ruby>の<ruby>荷物<rp>（</rp><rt>にもつ</rt><rp>）</rp></ruby>が（　）から、きちんと<ruby>乗<rp>（</rp><rt>の</rt><rp>）</rp></ruby>せてください。</b>",
+    "question": "<b><ruby>網棚<rp>（</rp><rt>あみだな</rt><rp>）</rp></ruby>の<ruby>荷<ruby>物<rp>（</rp><rt>もの</rt><rp>）</rp></ruby><rp>（</rp><rt>にもつ</rt><rp>）</rp></ruby>が（　）から、きちんと<ruby>乗<rp>（</rp><rt>の</rt><rp>）</rp></ruby>せてください。</b>",
     "options": [
       "落ちそうです",
       "落ちるようです"
@@ -2083,7 +2083,7 @@
   },
   {
     "id": 178,
-    "question": "<b><ruby>先生<rp>（</rp><rt>せんせい</rt><rp>）</rp></ruby>の<ruby>話<rp>（</rp><rt>はなし</rt><rp>）</rp></ruby>によると、この<ruby>辞書<rp>（</rp><rt>じしょ</rt><rp>）</rp></ruby>は<ruby>便利<rp>（</rp><rt>べんり</rt><rp>）</rp></ruby>（　）そうです。</b>",
+    "question": "<b><ruby>先<ruby>生<rp>（</rp><rt>う</rt><rp>）</rp></ruby><rp>（</rp><rt>せんせい</rt><rp>）</rp></ruby>の<ruby>話<rp>（</rp><rt>はなし</rt><rp>）</rp></ruby>によると、この<ruby>辞書<rp>（</rp><rt>じしょ</rt><rp>）</rp></ruby>は<ruby>便利<rp>（</rp><rt>べんり</rt><rp>）</rp></ruby>（　）そうです。</b>",
     "options": [
       "だ",
       "な"

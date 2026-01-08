@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "question": "<b>行きます</b>",
+    "question": "<b><ruby>行<rp>（</rp><rt>い</rt><rp>）</rp></ruby>きます</b>",
     "options": [
       "いきます",
       "なんがつ",
@@ -20,18 +20,8 @@
       "さかなや",
       "ひとりで"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "difficulty": 1
-  },
-  {
-    "id": 3,
-    "question": "<b>A：きょうは（　）ですか。<p>B：<ruby>火曜日<rp>（</rp><rt>かようび</rt><rp>）</rp></ruby>です。</p></b>",
-    "options": [
-      "何日",
-      "何曜日"
-    ],
-    "correctAnswer": 0,
-    "difficulty": 2
   },
   {
     "id": 4,
@@ -114,7 +104,7 @@
       "こんげつ",
       "たんじょうび"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "difficulty": 1
   },
   {
@@ -131,7 +121,7 @@
   },
   {
     "id": 12,
-    "question": "<b>甲子園</b>",
+    "question": "<b>甲<ruby>子<rp>（</rp><rt>こ</rt><rp>）</rp></ruby>園</b>",
     "options": [
       "こうしえん",
       "じてんしゃ",
@@ -150,7 +140,7 @@
       "năm sau, năm tới",
       "xe buýt"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "difficulty": 1
   },
   {
@@ -179,7 +169,7 @@
   },
   {
     "id": 16,
-    "question": "<b>博多</b>",
+    "question": "<b>博<ruby>多<rp>（</rp><rt>おお</rt><rp>）</rp></ruby></b>",
     "options": [
       "かぞく",
       "たんじょうび",
@@ -201,7 +191,7 @@
   },
   {
     "id": 18,
-    "question": "<b>A：<ruby>先月<rp>（</rp><rt>せんげつ</rt><rp>）</rp></ruby>の２５<ruby>日<rp>（</rp><rt>にち</rt><rp>）</rp></ruby>（１）<ruby>電車<rp>（</rp><rt>でんしゃ</rt><rp>）</rp></ruby>（２）カリナさん（３）うち（４）<ruby>行<rp>（</rp><rt>い</rt><rp>）</rp></ruby>きました。<p>B：<ruby>一人<rp>（</rp><rt>ひとり</rt><rp>）</rp></ruby>で（５）<ruby>行<rp>（</rp><rt>い</rt><rp>）</rp></ruby>きましたか。</p><p>A：いいえ、<ruby>友達<rp>（</rp><rt>ともだち</rt><rp>）</rp></ruby>（６）<ruby>行<rp>（</rp><rt>い</rt><rp>）</rp></ruby>きました。</p></b><p><b>(6)</b></p>",
+    "question": "<b>A：<ruby>先<ruby>月<rp>（</rp><rt>つき</rt><rp>）</rp></ruby><rp>（</rp><rt>せんげつ</rt><rp>）</rp></ruby>の２５<ruby>日<rp>（</rp><rt>にち</rt><rp>）</rp></ruby>（１）<ruby>電車<rp>（</rp><rt>でんしゃ</rt><rp>）</rp></ruby>（２）カリナさん（３）うち（４）<ruby>行<rp>（</rp><rt>い</rt><rp>）</rp></ruby>きました。<p>B：<ruby>一<ruby>人<rp>（</rp><rt>ひと</rt><rp>）</rp></ruby><rp>（</rp><rt>ひとり</rt><rp>）</rp></ruby>で（５）<ruby>行<rp>（</rp><rt>い</rt><rp>）</rp></ruby>きましたか。</p><p>A：いいえ、<ruby>友達<rp>（</rp><rt>ともだち</rt><rp>）</rp></ruby>（６）<ruby>行<rp>（</rp><rt>い</rt><rp>）</rp></ruby>きました。</p></b><p><b>(6)</b></p>",
     "options": [
       "と",
       "を"
@@ -271,7 +261,7 @@
   },
   {
     "id": 24,
-    "question": "<b>A：<ruby>先月<rp>（</rp><rt>せんげつ</rt><rp>）</rp></ruby>の２５<ruby>日<rp>（</rp><rt>にち</rt><rp>）</rp></ruby>（１）<ruby>電車<rp>（</rp><rt>でんしゃ</rt><rp>）</rp></ruby>（２）カリナさん（３）うち（４）<ruby>行<rp>（</rp><rt>い</rt><rp>）</rp></ruby>きました。<p>B：<ruby>一人<rp>（</rp><rt>ひとり</rt><rp>）</rp></ruby>で（５）<ruby>行<rp>（</rp><rt>い</rt><rp>）</rp></ruby>きましたか。</p><p>A：いいえ、<ruby>友達<rp>（</rp><rt>ともだち</rt><rp>）</rp></ruby>（６）<ruby>行<rp>（</rp><rt>い</rt><rp>）</rp></ruby>きました。</p></b><p><b>(3)</b></p>",
+    "question": "<b>A：<ruby>先<ruby>月<rp>（</rp><rt>つき</rt><rp>）</rp></ruby><rp>（</rp><rt>せんげつ</rt><rp>）</rp></ruby>の２５<ruby>日<rp>（</rp><rt>にち</rt><rp>）</rp></ruby>（１）<ruby>電車<rp>（</rp><rt>でんしゃ</rt><rp>）</rp></ruby>（２）カリナさん（３）うち（４）<ruby>行<rp>（</rp><rt>い</rt><rp>）</rp></ruby>きました。<p>B：<ruby>一<ruby>人<rp>（</rp><rt>ひと</rt><rp>）</rp></ruby><rp>（</rp><rt>ひとり</rt><rp>）</rp></ruby>で（５）<ruby>行<rp>（</rp><rt>い</rt><rp>）</rp></ruby>きましたか。</p><p>A：いいえ、<ruby>友達<rp>（</rp><rt>ともだち</rt><rp>）</rp></ruby>（６）<ruby>行<rp>（</rp><rt>い</rt><rp>）</rp></ruby>きました。</p></b><p><b>(3)</b></p>",
     "options": [
       "×",
       "の"
@@ -288,7 +278,7 @@
       "đi",
       "đến"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "difficulty": 1
   },
   {
@@ -300,7 +290,7 @@
       "xe đạp",
       "đi bộ (chỉ phương tiện, = on foot)"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "difficulty": 1
   },
   {
@@ -310,19 +300,19 @@
       "に",
       "Ｘ"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "difficulty": 2
   },
   {
     "id": 28,
-    "question": "<b>来月</b>",
+    "question": "<b><ruby>来<rp>（</rp><rt>き</rt><rp>）</rp></ruby><ruby>月<rp>（</rp><rt>つき</rt><rp>）</rp></ruby></b>",
     "options": [
       "えき",
       "ひこうき",
       "らいげつ",
       "らいねん"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "difficulty": 2
   },
   {
@@ -368,7 +358,7 @@
       "ふつう",
       "ふね"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "difficulty": 2
   },
   {
@@ -416,7 +406,7 @@
       "Bọn chúng",
       "Cô ấy, bạn gái"
     ],
-    "correctAnswer": 3,
+    "correctAnswer": 0,
     "difficulty": 1
   },
   {
@@ -428,7 +418,7 @@
       "người yêu",
       "tốc hành, tàu tốc hành"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "difficulty": 1
   },
   {
@@ -440,7 +430,7 @@
       "Gia đình",
       "Họ hàng"
     ],
-    "correctAnswer": 3,
+    "correctAnswer": 2,
     "difficulty": 1
   },
   {
@@ -469,7 +459,7 @@
   },
   {
     "id": 41,
-    "question": "<b>A：<ruby>先月<rp>（</rp><rt>せんげつ</rt><rp>）</rp></ruby>の２５<ruby>日<rp>（</rp><rt>にち</rt><rp>）</rp></ruby>（１）<ruby>電車<rp>（</rp><rt>でんしゃ</rt><rp>）</rp></ruby>（２）カリナさん（３）うち（４）<ruby>行<rp>（</rp><rt>い</rt><rp>）</rp></ruby>きました。<p>B：<ruby>一人<rp>（</rp><rt>ひとり</rt><rp>）</rp></ruby>で（５）<ruby>行<rp>（</rp><rt>い</rt><rp>）</rp></ruby>きましたか。</p><p>A：いいえ、<ruby>友達<rp>（</rp><rt>ともだち</rt><rp>）</rp></ruby>（６）<ruby>行<rp>（</rp><rt>い</rt><rp>）</rp></ruby>きました。</p></b><p><b>(4)</b></p>",
+    "question": "<b>A：<ruby>先<ruby>月<rp>（</rp><rt>つき</rt><rp>）</rp></ruby><rp>（</rp><rt>せんげつ</rt><rp>）</rp></ruby>の２５<ruby>日<rp>（</rp><rt>にち</rt><rp>）</rp></ruby>（１）<ruby>電車<rp>（</rp><rt>でんしゃ</rt><rp>）</rp></ruby>（２）カリナさん（３）うち（４）<ruby>行<rp>（</rp><rt>い</rt><rp>）</rp></ruby>きました。<p>B：<ruby>一<ruby>人<rp>（</rp><rt>ひと</rt><rp>）</rp></ruby><rp>（</rp><rt>ひとり</rt><rp>）</rp></ruby>で（５）<ruby>行<rp>（</rp><rt>い</rt><rp>）</rp></ruby>きましたか。</p><p>A：いいえ、<ruby>友達<rp>（</rp><rt>ともだち</rt><rp>）</rp></ruby>（６）<ruby>行<rp>（</rp><rt>い</rt><rp>）</rp></ruby>きました。</p></b><p><b>(4)</b></p>",
     "options": [
       "に",
       "へ"
@@ -498,12 +488,12 @@
       "なんがつ",
       "らいしゅう"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "difficulty": 1
   },
   {
     "id": 44,
-    "question": "<b>A：いつ（１）<ruby>日本<rp>（</rp><rt>にほん</rt><rp>）</rp></ruby>（２）<ruby>来<rp>（</rp><rt>き</rt><rp>）</rp></ruby>ましたか。<p>B：３<ruby>月<rp>（</rp><rt>がつ</rt><rp>）</rp></ruby>２５<ruby>日<rp>（</rp><rt>にち</rt><rp>）</rp></ruby>（３）<ruby>来<rp>（</rp><rt>き</rt><rp>）</rp></ruby>ました。</p></b><p><b>(3)</b></p>",
+    "question": "<b>A：いつ（１）<ruby>日<ruby>本<rp>（</rp><rt>ほん</rt><rp>）</rp></ruby><rp>（</rp><rt>にほん</rt><rp>）</rp></ruby>（２）<ruby>来<rp>（</rp><rt>き</rt><rp>）</rp></ruby>ましたか。<p>B：３<ruby>月<rp>（</rp><rt>がつ</rt><rp>）</rp></ruby>２５<ruby>日<rp>（</rp><rt>にち</rt><rp>）</rp></ruby>（３）<ruby>来<rp>（</rp><rt>き</rt><rp>）</rp></ruby>ました。</p></b><p><b>(3)</b></p>",
     "options": [
       "に",
       "へ"
@@ -520,12 +510,12 @@
       "ふね",
       "らいしゅう"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "difficulty": 1
   },
   {
     "id": 46,
-    "question": "<b>大阪城</b>",
+    "question": "<b><ruby>大阪城<rp>（</rp><rt>おおさかじょう</rt><rp>）</rp></ruby></b>",
     "options": [
       "おおさかじょう",
       "きゅうこう",
@@ -544,7 +534,7 @@
       "えき",
       "えきいん"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "difficulty": 1
   },
   {
@@ -556,7 +546,7 @@
       "なんがつ",
       "～ねん"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "difficulty": 1
   },
   {
@@ -568,7 +558,7 @@
       "năm sau, năm tới",
       "taxi"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "difficulty": 1
   },
   {
@@ -580,7 +570,7 @@
       "自伝車",
       "自転車"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "difficulty": 1
   },
   {
@@ -616,12 +606,12 @@
       "もどうります",
       "もどります"
     ],
-    "correctAnswer": 3,
+    "correctAnswer": 0,
     "difficulty": 2
   },
   {
     "id": 54,
-    "question": "<b>A：（　）アメリカへ<ruby>行<rp>（</rp><rt>い</rt><rp>）</rp></ruby>きますか。<p>B：<ruby>来月<rp>（</rp><rt>らいげつ</rt><rp>）</rp></ruby><ruby>行<rp>（</rp><rt>い</rt><rp>）</rp></ruby>きます。</p></b>",
+    "question": "<b>A：（　）アメリカへ<ruby>行<rp>（</rp><rt>い</rt><rp>）</rp></ruby>きますか。<p>B：<ruby>来<ruby>月<rp>（</rp><rt>つき</rt><rp>）</rp></ruby><rp>（</rp><rt>らいげつ</rt><rp>）</rp></ruby><ruby>行<rp>（</rp><rt>い</rt><rp>）</rp></ruby>きます。</p></b>",
     "options": [
       "いくつ",
       "いつ"
@@ -638,7 +628,7 @@
       "thông thường, tàu thường",
       "đi"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "difficulty": 1
   },
   {
@@ -650,7 +640,7 @@
       "～ねん",
       "～や"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "difficulty": 2
   },
   {
@@ -665,7 +655,7 @@
   },
   {
     "id": 58,
-    "question": "<b>A：<ruby>先月<rp>（</rp><rt>せんげつ</rt><rp>）</rp></ruby>の２５<ruby>日<rp>（</rp><rt>にち</rt><rp>）</rp></ruby>（１）<ruby>電車<rp>（</rp><rt>でんしゃ</rt><rp>）</rp></ruby>（２）カリナさん（３）うち（４）<ruby>行<rp>（</rp><rt>い</rt><rp>）</rp></ruby>きました。<p>B：<ruby>一人<rp>（</rp><rt>ひとり</rt><rp>）</rp></ruby>で（５）<ruby>行<rp>（</rp><rt>い</rt><rp>）</rp></ruby>きましたか。</p><p>A：いいえ、<ruby>友達<rp>（</rp><rt>ともだち</rt><rp>）</rp></ruby>（６）<ruby>行<rp>（</rp><rt>い</rt><rp>）</rp></ruby>きました。</p></b><p><b>(5)</b></p>",
+    "question": "<b>A：<ruby>先<ruby>月<rp>（</rp><rt>つき</rt><rp>）</rp></ruby><rp>（</rp><rt>せんげつ</rt><rp>）</rp></ruby>の２５<ruby>日<rp>（</rp><rt>にち</rt><rp>）</rp></ruby>（１）<ruby>電車<rp>（</rp><rt>でんしゃ</rt><rp>）</rp></ruby>（２）カリナさん（３）うち（４）<ruby>行<rp>（</rp><rt>い</rt><rp>）</rp></ruby>きました。<p>B：<ruby>一<ruby>人<rp>（</rp><rt>ひと</rt><rp>）</rp></ruby><rp>（</rp><rt>ひとり</rt><rp>）</rp></ruby>で（５）<ruby>行<rp>（</rp><rt>い</rt><rp>）</rp></ruby>きましたか。</p><p>A：いいえ、<ruby>友達<rp>（</rp><rt>ともだち</rt><rp>）</rp></ruby>（６）<ruby>行<rp>（</rp><rt>い</rt><rp>）</rp></ruby>きました。</p></b><p><b>(5)</b></p>",
     "options": [
       "×",
       "は"
@@ -706,7 +696,7 @@
       "tháng～",
       "tàu Shinkansen"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "difficulty": 1
   },
   {
@@ -742,19 +732,19 @@
       "せんしゅう",
       "～がつ"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "difficulty": 1
   },
   {
     "id": 65,
-    "question": "<b>電車</b>",
+    "question": "<b><ruby>電車<rp>（</rp><rt>でんしゃ</rt><rp>）</rp></ruby></b>",
     "options": [
       "こうじょう",
       "でんしゃ",
       "なんがつ",
       "ふしみ"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "difficulty": 2
   },
   {
@@ -790,7 +780,7 @@
       "Đồ vật",
       "Động vật"
     ],
-    "correctAnswer": 3,
+    "correctAnswer": 1,
     "difficulty": 1
   },
   {
@@ -802,7 +792,7 @@
       "なんねん",
       "ほんや"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "difficulty": 1
   },
   {
@@ -814,7 +804,7 @@
       "学交",
       "学校"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "difficulty": 1
   },
   {
@@ -826,7 +816,7 @@
       "舴",
       "船"
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 3,
     "difficulty": 1
   },
   {
@@ -838,7 +828,7 @@
       "thông thường, tàu thường",
       "xe đạp"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "difficulty": 1
   },
   {
@@ -862,7 +852,7 @@
       "タクシー",
       "～ばんせん"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "difficulty": 1
   },
   {
@@ -874,7 +864,7 @@
       "tháng này",
       "thông thường, tàu thường"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "difficulty": 1
   },
   {
@@ -910,7 +900,7 @@
       "tuần này",
       "về, trở về (về nhà, về quê, về nước…)"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "difficulty": 1
   },
   {
@@ -927,7 +917,7 @@
   },
   {
     "id": 80,
-    "question": "<b>A：<ruby>先月<rp>（</rp><rt>せんげつ</rt><rp>）</rp></ruby>の２５<ruby>日<rp>（</rp><rt>にち</rt><rp>）</rp></ruby>（１）<ruby>電車<rp>（</rp><rt>でんしゃ</rt><rp>）</rp></ruby>（２）カリナさん（３）うち（４）<ruby>行<rp>（</rp><rt>い</rt><rp>）</rp></ruby>きました。<p>B：<ruby>一人<rp>（</rp><rt>ひとり</rt><rp>）</rp></ruby>で（５）<ruby>行<rp>（</rp><rt>い</rt><rp>）</rp></ruby>きましたか。</p><p>A：いいえ、<ruby>友達<rp>（</rp><rt>ともだち</rt><rp>）</rp></ruby>（６）<ruby>行<rp>（</rp><rt>い</rt><rp>）</rp></ruby>きました。</p></b><p><b>(2)</b></p>",
+    "question": "<b>A：<ruby>先<ruby>月<rp>（</rp><rt>つき</rt><rp>）</rp></ruby><rp>（</rp><rt>せんげつ</rt><rp>）</rp></ruby>の２５<ruby>日<rp>（</rp><rt>にち</rt><rp>）</rp></ruby>（１）<ruby>電車<rp>（</rp><rt>でんしゃ</rt><rp>）</rp></ruby>（２）カリナさん（３）うち（４）<ruby>行<rp>（</rp><rt>い</rt><rp>）</rp></ruby>きました。<p>B：<ruby>一<ruby>人<rp>（</rp><rt>ひと</rt><rp>）</rp></ruby><rp>（</rp><rt>ひとり</rt><rp>）</rp></ruby>で（５）<ruby>行<rp>（</rp><rt>い</rt><rp>）</rp></ruby>きましたか。</p><p>A：いいえ、<ruby>友達<rp>（</rp><rt>ともだち</rt><rp>）</rp></ruby>（６）<ruby>行<rp>（</rp><rt>い</rt><rp>）</rp></ruby>きました。</p></b><p><b>(2)</b></p>",
     "options": [
       "で",
       "に"
@@ -976,7 +966,7 @@
       "こんしゅう",
       "はかた"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "difficulty": 1
   },
   {
@@ -988,7 +978,7 @@
       "らいげつ",
       "らいねん"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "difficulty": 1
   },
   {
@@ -1012,7 +1002,7 @@
       "スーパー",
       "バス"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "difficulty": 1
   },
   {
@@ -1024,12 +1014,12 @@
       "năm nay",
       "thông thường, tàu thường"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "difficulty": 1
   },
   {
     "id": 89,
-    "question": "<b>A：いつ（１）<ruby>日本<rp>（</rp><rt>にほん</rt><rp>）</rp></ruby>（２）<ruby>来<rp>（</rp><rt>き</rt><rp>）</rp></ruby>ましたか。<p>B：３<ruby>月<rp>（</rp><rt>がつ</rt><rp>）</rp></ruby>２５<ruby>日<rp>（</rp><rt>にち</rt><rp>）</rp></ruby>（３）<ruby>来<rp>（</rp><rt>き</rt><rp>）</rp></ruby>ました。</p></b><p><b>(1)</b></p>",
+    "question": "<b>A：いつ（１）<ruby>日<ruby>本<rp>（</rp><rt>ほん</rt><rp>）</rp></ruby><rp>（</rp><rt>にほん</rt><rp>）</rp></ruby>（２）<ruby>来<rp>（</rp><rt>き</rt><rp>）</rp></ruby>ましたか。<p>B：３<ruby>月<rp>（</rp><rt>がつ</rt><rp>）</rp></ruby>２５<ruby>日<rp>（</rp><rt>にち</rt><rp>）</rp></ruby>（３）<ruby>来<rp>（</rp><rt>き</rt><rp>）</rp></ruby>ました。</p></b><p><b>(1)</b></p>",
     "options": [
       "×",
       "に"
@@ -1058,7 +1048,7 @@
       "どもたち",
       "どもだち"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "difficulty": 1
   },
   {
@@ -1200,7 +1190,7 @@
       "らいげつ",
       "～にち"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "difficulty": 1
   },
   {
@@ -1229,7 +1219,7 @@
   },
   {
     "id": 106,
-    "question": "<b>A：<ruby>誕生日<rp>（</rp><rt>たんじょうび</rt><rp>）</rp></ruby>は（１）（２）ですか。<p>B：９<ruby>月<rp>（</rp><rt>がつ</rt><rp>）</rp></ruby>１５<ruby>日<rp>（</rp><rt>にち</rt><rp>）</rp></ruby>です。</p></b><p><b>(1)</b></p>",
+    "question": "<b>A：<ruby>誕<ruby>生<rp>（</rp><rt>う</rt><rp>）</rp></ruby>日<rp>（</rp><rt>たんじょうび</rt><rp>）</rp></ruby>は（１）（２）ですか。<p>B：９<ruby>月<rp>（</rp><rt>がつ</rt><rp>）</rp></ruby>１５<ruby>日<rp>（</rp><rt>にち</rt><rp>）</rp></ruby>です。</p></b><p><b>(1)</b></p>",
     "options": [
       "何日",
       "何月"
@@ -1246,7 +1236,7 @@
       "đi bộ (chỉ phương tiện, = on foot)",
       "～tiếp theo"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "difficulty": 1
   },
   {
@@ -1258,7 +1248,7 @@
       "về, trở về (về nhà, về quê, về nước…)",
       "đến"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "difficulty": 1
   },
   {
@@ -1292,7 +1282,7 @@
       "はかた",
       "らいねん"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "difficulty": 1
   },
   {
@@ -1362,19 +1352,19 @@
       "ちかてつ",
       "つぎの～"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "difficulty": 2
   },
   {
     "id": 118,
-    "question": "<b>来月</b>",
+    "question": "<b><ruby>来<rp>（</rp><rt>き</rt><rp>）</rp></ruby><ruby>月<rp>（</rp><rt>つき</rt><rp>）</rp></ruby></b>",
     "options": [
       "こいびと",
       "こうしえん",
       "ひと",
       "らいげつ"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "difficulty": 2
   },
   {
@@ -1408,7 +1398,7 @@
       "じてんしゃ",
       "じでんしゃ"
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 2,
     "difficulty": 1
   },
   {
@@ -1444,7 +1434,7 @@
       "ひこうき",
       "ふしみ"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "difficulty": 1
   },
   {
@@ -1471,7 +1461,7 @@
   },
   {
     "id": 127,
-    "question": "<b>～日</b>",
+    "question": "<b>～<ruby>日<rp>（</rp><rt>ひ</rt><rp>）</rp></ruby></b>",
     "options": [
       "いつ",
       "ちかてつ",
@@ -1502,7 +1492,7 @@
       "らいねん",
       "～がつ"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "difficulty": 1
   },
   {
@@ -1514,19 +1504,19 @@
       "nhà máy",
       "tháng trước"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "difficulty": 1
   },
   {
     "id": 131,
-    "question": "<b>人</b>",
+    "question": "<b><ruby>人<rp>（</rp><rt>ひと</rt><rp>）</rp></ruby></b>",
     "options": [
       "でんしゃ",
       "なんがつ",
       "ひと",
       "ふね"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "difficulty": 2
   },
   {
@@ -1565,14 +1555,14 @@
   },
   {
     "id": 135,
-    "question": "<b>博多</b>",
+    "question": "<b>博<ruby>多<rp>（</rp><rt>おお</rt><rp>）</rp></ruby></b>",
     "options": [
       "がっこう",
       "せんげつ",
       "はかた",
       "ふつう"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "difficulty": 2
   },
   {
@@ -1584,7 +1574,7 @@
       "tháng～",
       "～tiếp theo"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "difficulty": 1
   },
   {
@@ -1596,12 +1586,12 @@
       "しんかんせん",
       "らいねん"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "difficulty": 1
   },
   {
     "id": 138,
-    "question": "<b>彼女</b>",
+    "question": "<b>彼<ruby>女<rp>（</rp><rt>おんな</rt><rp>）</rp></ruby></b>",
     "options": [
       "あるいて",
       "いつ",
@@ -1625,7 +1615,7 @@
   },
   {
     "id": 140,
-    "question": "<b>A：<ruby>誕生日<rp>（</rp><rt>たんじょうび</rt><rp>）</rp></ruby>は（１）（２）ですか。<p>B：９<ruby>月<rp>（</rp><rt>がつ</rt><rp>）</rp></ruby>１５<ruby>日<rp>（</rp><rt>にち</rt><rp>）</rp></ruby>です。</p></b><p><b>(2)</b></p>",
+    "question": "<b>A：<ruby>誕<ruby>生<rp>（</rp><rt>う</rt><rp>）</rp></ruby>日<rp>（</rp><rt>たんじょうび</rt><rp>）</rp></ruby>は（１）（２）ですか。<p>B：９<ruby>月<rp>（</rp><rt>がつ</rt><rp>）</rp></ruby>１５<ruby>日<rp>（</rp><rt>にち</rt><rp>）</rp></ruby>です。</p></b><p><b>(2)</b></p>",
     "options": [
       "に",
       "何日"
@@ -1642,19 +1632,19 @@
       "người yêu",
       "tháng～"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "difficulty": 1
   },
   {
     "id": 142,
-    "question": "<b>飛行機</b>",
+    "question": "<b>飛<ruby>行<rp>（</rp><rt>い</rt><rp>）</rp></ruby>機</b>",
     "options": [
       "ひきょうき",
       "ひきょき",
       "ひこうき",
       "ひこき"
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 2,
     "difficulty": 2
   },
   {
@@ -1666,7 +1656,7 @@
       "ひこうき",
       "ふつう"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "difficulty": 2
   },
   {
@@ -1678,7 +1668,7 @@
       "tháng sau, tháng tới",
       "đi bộ (chỉ phương tiện, = on foot)"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "difficulty": 1
   },
   {
@@ -1690,7 +1680,7 @@
       "tuần trước",
       "tàu thủy"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "difficulty": 1
   },
   {
@@ -1712,7 +1702,7 @@
       "さかなや",
       "とっきゅう"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "difficulty": 2
   },
   {
@@ -1724,7 +1714,7 @@
       "Tháng trước",
       "Đầu tháng"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "difficulty": 1
   },
   {
@@ -1736,7 +1726,7 @@
       "tàu điện",
       "về, trở về (về nhà, về quê, về nước…)"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "difficulty": 1
   },
   {
@@ -1748,7 +1738,7 @@
       "ngày bao nhiêu? (bao nhiêu ngày?)",
       "tháng mấy"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "difficulty": 1
   },
   {
@@ -1784,7 +1774,7 @@
       "ひとりで",
       "バス"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "difficulty": 1
   },
   {
@@ -1808,7 +1798,7 @@
       "xe buýt",
       "đi bộ (chỉ phương tiện, = on foot)"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "difficulty": 1
   },
   {
@@ -1820,7 +1810,7 @@
       "xe buýt",
       "xe đạp"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "difficulty": 1
   },
   {
@@ -1832,7 +1822,7 @@
       "来周",
       "来週"
     ],
-    "correctAnswer": 3,
+    "correctAnswer": 1,
     "difficulty": 1
   },
   {
@@ -1844,12 +1834,12 @@
       "ngày～, (～ ngày)",
       "tháng mấy"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "difficulty": 1
   },
   {
     "id": 159,
-    "question": "<b>A：いつ（１）<ruby>日本<rp>（</rp><rt>にほん</rt><rp>）</rp></ruby>（２）<ruby>来<rp>（</rp><rt>き</rt><rp>）</rp></ruby>ましたか。<p>B：３<ruby>月<rp>（</rp><rt>がつ</rt><rp>）</rp></ruby>２５<ruby>日<rp>（</rp><rt>にち</rt><rp>）</rp></ruby>（３）<ruby>来<rp>（</rp><rt>き</rt><rp>）</rp></ruby>ました。</p></b><p><b>(2)</b></p>",
+    "question": "<b>A：いつ（１）<ruby>日<ruby>本<rp>（</rp><rt>ほん</rt><rp>）</rp></ruby><rp>（</rp><rt>にほん</rt><rp>）</rp></ruby>（２）<ruby>来<rp>（</rp><rt>き</rt><rp>）</rp></ruby>ましたか。<p>B：３<ruby>月<rp>（</rp><rt>がつ</rt><rp>）</rp></ruby>２５<ruby>日<rp>（</rp><rt>にち</rt><rp>）</rp></ruby>（３）<ruby>来<rp>（</rp><rt>き</rt><rp>）</rp></ruby>ました。</p></b><p><b>(2)</b></p>",
     "options": [
       "に",
       "へ"
@@ -1890,7 +1880,7 @@
       "こうじょう",
       "タクシー"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "difficulty": 1
   },
   {
@@ -1914,7 +1904,7 @@
       "tàu thủy",
       "～tiếp theo"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "difficulty": 1
   },
   {
@@ -1926,7 +1916,7 @@
       "cô ấy (ngôi thứ ba số ít)",
       "người yêu"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "difficulty": 1
   },
   {
@@ -1950,7 +1940,7 @@
       "パス",
       "パース"
     ],
-    "correctAnswer": 3,
+    "correctAnswer": 0,
     "difficulty": 1
   },
   {
@@ -1962,7 +1952,7 @@
       "ふつう",
       "らいげつ"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "difficulty": 1
   },
   {
@@ -1986,7 +1976,7 @@
       "tháng～",
       "tàu thủy"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "difficulty": 1
   },
   {
@@ -2034,7 +2024,7 @@
       "ひこうき",
       "ふつう"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "difficulty": 1
   },
   {
@@ -2046,7 +2036,7 @@
       "タクシー",
       "～や"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "difficulty": 1
   },
   {
@@ -2058,7 +2048,7 @@
       "～がつ",
       "～にち"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "difficulty": 1
   },
   {
@@ -2070,12 +2060,12 @@
       "たんじょうび",
       "バス"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "difficulty": 1
   },
   {
     "id": 178,
-    "question": "<b>去年</b>",
+    "question": "<b>去<ruby>年<rp>（</rp><rt>とし</rt><rp>）</rp></ruby></b>",
     "options": [
       "きょねん",
       "せんげつ",
@@ -2087,7 +2077,7 @@
   },
   {
     "id": 179,
-    "question": "<b>A：<ruby>先月<rp>（</rp><rt>せんげつ</rt><rp>）</rp></ruby>の２５<ruby>日<rp>（</rp><rt>にち</rt><rp>）</rp></ruby>（１）<ruby>電車<rp>（</rp><rt>でんしゃ</rt><rp>）</rp></ruby>（２）カリナさん（３）うち（４）<ruby>行<rp>（</rp><rt>い</rt><rp>）</rp></ruby>きました。<p>B：<ruby>一人<rp>（</rp><rt>ひとり</rt><rp>）</rp></ruby>で（５）<ruby>行<rp>（</rp><rt>い</rt><rp>）</rp></ruby>きましたか。</p><p>A：いいえ、<ruby>友達<rp>（</rp><rt>ともだち</rt><rp>）</rp></ruby>（６）<ruby>行<rp>（</rp><rt>い</rt><rp>）</rp></ruby>きました。</p></b><p><b>(1)</b></p>",
+    "question": "<b>A：<ruby>先<ruby>月<rp>（</rp><rt>つき</rt><rp>）</rp></ruby><rp>（</rp><rt>せんげつ</rt><rp>）</rp></ruby>の２５<ruby>日<rp>（</rp><rt>にち</rt><rp>）</rp></ruby>（１）<ruby>電車<rp>（</rp><rt>でんしゃ</rt><rp>）</rp></ruby>（２）カリナさん（３）うち（４）<ruby>行<rp>（</rp><rt>い</rt><rp>）</rp></ruby>きました。<p>B：<ruby>一<ruby>人<rp>（</rp><rt>ひと</rt><rp>）</rp></ruby><rp>（</rp><rt>ひとり</rt><rp>）</rp></ruby>で（５）<ruby>行<rp>（</rp><rt>い</rt><rp>）</rp></ruby>きましたか。</p><p>A：いいえ、<ruby>友達<rp>（</rp><rt>ともだち</rt><rp>）</rp></ruby>（６）<ruby>行<rp>（</rp><rt>い</rt><rp>）</rp></ruby>きました。</p></b><p><b>(1)</b></p>",
     "options": [
       "×",
       "に"
@@ -2116,7 +2106,7 @@
       "ふしみ",
       "ほんや"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "difficulty": 1
   },
   {
@@ -2133,7 +2123,7 @@
   },
   {
     "id": 183,
-    "question": "<b>博多</b>",
+    "question": "<b>博<ruby>多<rp>（</rp><rt>おお</rt><rp>）</rp></ruby></b>",
     "options": [
       "こうしえん",
       "せんげつ",
@@ -2232,7 +2222,7 @@
       "người",
       "người yêu"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "difficulty": 1
   },
   {
@@ -2244,7 +2234,7 @@
       "tháng này",
       "đi"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "difficulty": 1
   }
 ]

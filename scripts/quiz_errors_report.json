@@ -1,0 +1,38 @@
+[
+  {
+    "file": "quiz27.json",
+    "id": 9,
+    "type": "uchi",
+    "issue": "Wrong answer for uchi",
+    "current": "correctAnswer: 3 (Đánh)",
+    "shouldBe": "correctAnswer: 1 (Nhà bếp)",
+    "question": "うちます"
+  },
+  {
+    "file": "quiz3.json",
+    "id": 57,
+    "type": "heya",
+    "issue": "Wrong answer for heya",
+    "current": "correctAnswer: 0 (うち)",
+    "shouldBe": "correctAnswer: 2 (へや)",
+    "question": "phòng"
+  },
+  {
+    "file": "quiz3.json",
+    "id": 110,
+    "type": "soko",
+    "issue": "Wrong answer for soko",
+    "current": "correctAnswer: 0 (Chỗ kia (xa cả hai))",
+    "shouldBe": "correctAnswer: 3 (Chỗ đó (gần người nghe))",
+    "question": "あそこ"
+  },
+  {
+    "file": "quiz6.json",
+    "id": 167,
+    "type": "niwa",
+    "issue": "Wrong answer for niwa",
+    "current": "correctAnswer: 3 (Vườn)",
+    "shouldBe": "correctAnswer: 1 (Sântrường)",
+    "question": "にわ"
+  }
+]

@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "question": "<b><ruby>松本<rp>（</rp><rt>まつもと</rt><rp>）</rp></ruby>さんのうち（１）お<ruby>土産<rp>（</rp><rt>みやげ</rt><rp>）</rp></ruby>（２）<ruby>持<rp>（</rp><rt>も</rt><rp>）</rp></ruby>っていきましょう。</b><br/><b>(1)</b>",
+    "question": "<b><ruby>松<ruby>本<rp>（</rp><rt>ほん</rt><rp>）</rp></ruby><rp>（</rp><rt>まつもと</rt><rp>）</rp></ruby>さんのうち（１）お<ruby>土産<rp>（</rp><rt>みやげ</rt><rp>）</rp></ruby>（２）<ruby>持<rp>（</rp><rt>も</rt><rp>）</rp></ruby>っていきましょう。</b><br/><b>(1)</b>",
     "options": [
       "に",
       "へ"
@@ -11,7 +11,7 @@
   },
   {
     "id": 2,
-    "question": "<b>お風呂に入る</b>",
+    "question": "<b>お<ruby>風呂<rp>（</rp><rt>ふろ</rt><rp>）</rp></ruby>に<ruby>入<rp>（</rp><rt>はい</rt><rp>）</rp></ruby>る</b>",
     "options": [
       "おだいじに",
       "おふろにはいる",
@@ -42,7 +42,7 @@
       "こたえ",
       "どうしましたか"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "difficulty": 1
   },
   {
@@ -126,7 +126,7 @@
       "でかけます",
       "とめます"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "difficulty": 1
   },
   {
@@ -155,7 +155,7 @@
   },
   {
     "id": 14,
-    "question": "<b>払います</b>",
+    "question": "<b><ruby>払<rp>（</rp><rt>はら</rt><rp>）</rp></ruby>います</b>",
     "options": [
       "しゅっちょうします",
       "とめます",
@@ -179,7 +179,7 @@
   },
   {
     "id": 16,
-    "question": "<b><ruby>松本<rp>（</rp><rt>まつもと</rt><rp>）</rp></ruby>さんのうち（１）お<ruby>土産<rp>（</rp><rt>みやげ</rt><rp>）</rp></ruby>（２）<ruby>持<rp>（</rp><rt>も</rt><rp>）</rp></ruby>っていきましょう。</b><br/><b>(2)</b>",
+    "question": "<b><ruby>松<ruby>本<rp>（</rp><rt>ほん</rt><rp>）</rp></ruby><rp>（</rp><rt>まつもと</rt><rp>）</rp></ruby>さんのうち（１）お<ruby>土産<rp>（</rp><rt>みやげ</rt><rp>）</rp></ruby>（２）<ruby>持<rp>（</rp><rt>も</rt><rp>）</rp></ruby>っていきましょう。</b><br/><b>(2)</b>",
     "options": [
       "に",
       "を"
@@ -230,7 +230,7 @@
       "したぎ",
       "ですから"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "difficulty": 1
   },
   {
@@ -254,7 +254,7 @@
       "こたえ",
       "どうしましたか"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "difficulty": 1
   },
   {
@@ -292,14 +292,14 @@
   },
   {
     "id": 26,
-    "question": "<b>熱</b>",
+    "question": "<b><ruby>熱<rp>（</rp><rt>ねつ</rt><rp>）</rp></ruby></b>",
     "options": [
       "かせ",
       "かぜ",
       "ねち",
       "ねつ"
     ],
-    "correctAnswer": 2,
+    "correctAnswer": 3,
     "difficulty": 2
   },
   {
@@ -335,7 +335,7 @@
       "だめです",
       "クーラー"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "difficulty": 1
   },
   {
@@ -417,7 +417,7 @@
       "だめです",
       "はらいます"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "difficulty": 1
   },
   {
@@ -529,7 +529,7 @@
       "とめます",
       "～までに"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "difficulty": 1
   },
   {
@@ -589,7 +589,7 @@
       "しんぱいします",
       "どうしましたか"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "difficulty": 1
   },
   {
@@ -601,7 +601,7 @@
       "ざんぎょうします",
       "ざんぎょします"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "difficulty": 1
   },
   {
@@ -616,7 +616,7 @@
   },
   {
     "id": 54,
-    "question": "<b>忘れます</b>",
+    "question": "<b><ruby>忘<rp>（</rp><rt>わす</rt><rp>）</rp></ruby>れます</b>",
     "options": [
       "うわぎ",
       "おだいじに",
@@ -647,7 +647,7 @@
       "なくします",
       "もってきます"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "difficulty": 1
   },
   {
@@ -698,7 +698,7 @@
   },
   {
     "id": 61,
-    "question": "<b>この<ruby>本<rp>（</rp><rt>ほん</rt><rp>）</rp></ruby>、<ruby>来週<rp>（</rp><rt>らいしゅう</rt><rp>）</rp></ruby>の<ruby>火曜日<rp>（</rp><rt>かようび</rt><rp>）</rp></ruby>（　）<ruby>借<rp>（</rp><rt>か</rt><rp>）</rp></ruby>りてもいいですか。</b>",
+    "question": "<b>この<ruby>本<rp>（</rp><rt>ほん</rt><rp>）</rp></ruby>、<ruby>来週<rp>（</rp><rt>らいしゅう</rt><rp>）</rp></ruby>の<ruby>火曜<ruby>日<rp>（</rp><rt>ひ</rt><rp>）</rp></ruby><rp>（</rp><rt>かようび</rt><rp>）</rp></ruby>（　）<ruby>借<rp>（</rp><rt>か</rt><rp>）</rp></ruby>りてもいいですか。</b>",
     "options": [
       "まで",
       "までに"
@@ -739,7 +739,7 @@
       "ですから",
       "ぬぎます"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "difficulty": 1
   },
   {
@@ -780,7 +780,7 @@
   },
   {
     "id": 68,
-    "question": "<b>上着</b>",
+    "question": "<b><ruby>上<ruby>着<rp>（</rp><rt>き</rt><rp>）</rp></ruby><rp>（</rp><rt>うわぎ</rt><rp>）</rp></ruby></b>",
     "options": [
       "「けんこう」ほけんしょう",
       "うわぎ",
@@ -804,7 +804,7 @@
   },
   {
     "id": 70,
-    "question": "<b>返します</b>",
+    "question": "<b><ruby>返<rp>（</rp><rt>かえ</rt><rp>）</rp></ruby>します</b>",
     "options": [
       "おだいじに",
       "かえします",
@@ -899,7 +899,7 @@
       "きをつけます",
       "どうしましたか"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "difficulty": 1
   },
   {
@@ -957,7 +957,7 @@
       "とめます",
       "はらいます"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "difficulty": 1
   },
   {
@@ -1005,7 +1005,7 @@
       "はらいます",
       "わすれます"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "difficulty": 1
   },
   {
@@ -1041,7 +1041,7 @@
       "しゅっちょうします",
       "でかけます"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "difficulty": 1
   },
   {
@@ -1053,7 +1053,7 @@
       "クーラー",
       "～までに"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "difficulty": 1
   },
   {
@@ -1077,7 +1077,7 @@
       "とめます",
       "なくします"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "difficulty": 1
   },
   {
@@ -1118,7 +1118,7 @@
   },
   {
     "id": 97,
-    "question": "<b><ruby>時間<rp>（</rp><rt>じかん</rt><rp>）</rp></ruby>がありますから、（　）いいです。</b>",
+    "question": "<b><ruby>時<ruby>間<rp>（</rp><rt>あいだ</rt><rp>）</rp></ruby><rp>（</rp><rt>じかん</rt><rp>）</rp></ruby>がありますから、（　）いいです。</b>",
     "options": [
       "急いでも",
       "急がなくても"
@@ -1140,7 +1140,7 @@
   },
   {
     "id": 99,
-    "question": "<b>答え</b>",
+    "question": "<b><ruby>答<rp>（</rp><rt>こた</rt><rp>）</rp></ruby>え</b>",
     "options": [
       "うわぎ",
       "おと",
@@ -1164,7 +1164,7 @@
   },
   {
     "id": 101,
-    "question": "<b><ruby>今月<rp>（</rp><rt>こんげつ</rt><rp>）</rp></ruby>の３０<ruby>日<rp>（</rp><rt>にち</rt><rp>）</rp></ruby>（　）お<ruby>金<rp>（</rp><rt>かね</rt><rp>）</rp></ruby>を<ruby>払<rp>（</rp><rt>はら</rt><rp>）</rp></ruby>ってください。</b>",
+    "question": "<b><ruby>今<ruby>月<rp>（</rp><rt>つき</rt><rp>）</rp></ruby><rp>（</rp><rt>こんげつ</rt><rp>）</rp></ruby>の３０<ruby>日<rp>（</rp><rt>にち</rt><rp>）</rp></ruby>（　）お<ruby>金<rp>（</rp><rt>かね</rt><rp>）</rp></ruby>を<ruby>払<rp>（</rp><rt>はら</rt><rp>）</rp></ruby>ってください。</b>",
     "options": [
       "まで",
       "までに"
@@ -1186,14 +1186,14 @@
   },
   {
     "id": 103,
-    "question": "<b>問題</b>",
+    "question": "<b><ruby>問題<rp>（</rp><rt>もんだい</rt><rp>）</rp></ruby></b>",
     "options": [
       "ねつ",
       "もんだい",
       "スイッチ",
       "ロボット"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "difficulty": 2
   },
   {
@@ -1205,7 +1205,7 @@
       "ですから",
       "クーラー"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "difficulty": 1
   },
   {
@@ -1229,7 +1229,7 @@
       "しゅっちょうします",
       "ぬぎます"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "difficulty": 1
   },
   {
@@ -1241,7 +1241,7 @@
       "ですから",
       "スイッチ"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "difficulty": 1
   },
   {
@@ -1253,7 +1253,7 @@
       "きんえん",
       "くるまにきをつけます"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "difficulty": 1
   },
   {
@@ -1306,7 +1306,7 @@
   },
   {
     "id": 113,
-    "question": "<b>無くします</b>",
+    "question": "<b><ruby>無<rp>（</rp><rt>な</rt><rp>）</rp></ruby>くします</b>",
     "options": [
       "しんぱいします",
       "なくします",
@@ -1361,7 +1361,7 @@
       "ざんぎょうします",
       "とめます"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "difficulty": 1
   },
   {
@@ -1419,7 +1419,7 @@
       "でかけます",
       "～までに"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "difficulty": 1
   },
   {
@@ -1472,7 +1472,7 @@
   },
   {
     "id": 127,
-    "question": "<b>下着</b>",
+    "question": "<b><ruby>下<ruby>着<rp>（</rp><rt>き</rt><rp>）</rp></ruby><rp>（</rp><rt>したぎ</rt><rp>）</rp></ruby></b>",
     "options": [
       "きをつけます",
       "したぎ",
@@ -1503,7 +1503,7 @@
       "ねつ",
       "スイッチ"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "difficulty": 1
   },
   {
@@ -1621,7 +1621,7 @@
       "はらいます",
       "わすれます"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "difficulty": 1
   },
   {
@@ -1650,7 +1650,7 @@
   },
   {
     "id": 142,
-    "question": "<b>「～が」痛いです</b>",
+    "question": "<b>「～が」<ruby>痛<rp>（</rp><rt>いた</rt><rp>）</rp></ruby>いです</b>",
     "options": [
       "「～が」いたいです",
       "きかいにさわります",
@@ -1662,14 +1662,14 @@
   },
   {
     "id": 143,
-    "question": "<b>禁煙</b>",
+    "question": "<b><ruby>禁煙<rp>（</rp><rt>きんえん</rt><rp>）</rp></ruby></b>",
     "options": [
       "きんえい",
       "きんえん",
       "きんちょ",
       "きんちょう"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "difficulty": 2
   },
   {
@@ -1741,7 +1741,7 @@
       "とめます",
       "わすれます"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "difficulty": 1
   },
   {
@@ -1871,7 +1871,7 @@
       "くるまにきをつけます",
       "～までに"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "difficulty": 1
   },
   {
@@ -1893,7 +1893,7 @@
       "しゅっちょうします",
       "どうしましたか"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "difficulty": 1
   },
   {
@@ -1956,7 +1956,7 @@
   },
   {
     "id": 168,
-    "question": "<b>先生</b>",
+    "question": "<b><ruby>先<ruby>生<rp>（</rp><rt>う</rt><rp>）</rp></ruby><rp>（</rp><rt>せんせい</rt><rp>）</rp></ruby></b>",
     "options": [
       "がくせ",
       "がくせい",
@@ -1992,14 +1992,14 @@
   },
   {
     "id": 171,
-    "question": "<b>病気</b>",
+    "question": "<b><ruby>病気<rp>（</rp><rt>びょうき</rt><rp>）</rp></ruby></b>",
     "options": [
       "びょうき",
       "びょき",
       "ぴょうき",
       "ぴょき"
     ],
-    "correctAnswer": 2,
+    "correctAnswer": 0,
     "difficulty": 2
   },
   {
@@ -2016,7 +2016,7 @@
   },
   {
     "id": 173,
-    "question": "<b>上着</b>",
+    "question": "<b><ruby>上<ruby>着<rp>（</rp><rt>き</rt><rp>）</rp></ruby><rp>（</rp><rt>うわぎ</rt><rp>）</rp></ruby></b>",
     "options": [
       "うわき",
       "うわぎ",
@@ -2057,7 +2057,7 @@
       "どうしましたか",
       "もっていきます"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "difficulty": 1
   },
   {
@@ -2074,7 +2074,7 @@
   },
   {
     "id": 178,
-    "question": "<b><ruby>忙<rp>（</rp><rt>いそが</rt><rp>）</rp></ruby>しい<ruby>仕事<rp>（</rp><rt>しごと</rt><rp>）</rp></ruby>が<ruby>終<rp>（</rp><rt>お</rt><rp>）</rp></ruby>わりましたから、<ruby>今日<rp>（</rp><rt>きょう</rt><rp>）</rp></ruby>は（　）。</b>",
+    "question": "<b><ruby>忙<rp>（</rp><rt>いそが</rt><rp>）</rp></ruby>しい<ruby>仕事<rp>（</rp><rt>しごと</rt><rp>）</rp></ruby>が<ruby>終<rp>（</rp><rt>お</rt><rp>）</rp></ruby>わりましたから、<ruby>今<ruby>日<rp>（</rp><rt>ひ</rt><rp>）</rp></ruby><rp>（</rp><rt>きょう</rt><rp>）</rp></ruby>は（　）。</b>",
     "options": [
       "残業しなくてもいいです",
       "残業しなければなりません"

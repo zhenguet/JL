@@ -1,0 +1,1712 @@
+{
+  "1": [
+    {
+      "id": 33,
+      "index": 33,
+      "question": "<b>A：あなたは　せんせいですか。<p>B：いいえ、せんせい（　）ありません。</p></b>",
+      "unknownWords": [
+        "ありません"
+      ]
+    },
+    {
+      "id": 52,
+      "index": 52,
+      "question": "<b>A：あなたは　かいしゃいんですか。<p>B：いいえ、かいしゃいん（　）ありません。</p></b>",
+      "unknownWords": [
+        "ありません"
+      ]
+    },
+    {
+      "id": 91,
+      "index": 91,
+      "question": "<b>A：あなたは　がくせいですか。<p>B：いいえ、がくせい（　）ありません。</p></b>",
+      "unknownWords": [
+        "ありません"
+      ]
+    },
+    {
+      "id": 149,
+      "index": 149,
+      "question": "<b>エンジニア</b>",
+      "unknownWords": [
+        "エンジニア"
+      ]
+    }
+  ],
+  "2": [
+    {
+      "id": 23,
+      "index": 23,
+      "question": "<b><ruby>新<ruby>聞<rp>（</rp><rt>きこ</rt><rp>）</rp></ruby><rp>（</rp><rt>しんぶん</rt><rp>）</rp></ruby></b>",
+      "unknownWords": [
+        "きこ"
+      ]
+    }
+  ],
+  "3": [
+    {
+      "id": 25,
+      "index": 25,
+      "question": "<b>A：<ruby>教<rp>（</rp><rt>おし</rt><rp>）</rp></ruby>室は　どこですか。<p>B：（　）です。</p></b>",
+      "unknownWords": [
+        "おし"
+      ]
+    },
+    {
+      "id": 91,
+      "index": 90,
+      "question": "<b>イタリア</b>",
+      "unknownWords": [
+        "イタリア"
+      ]
+    },
+    {
+      "id": 95,
+      "index": 94,
+      "question": "<b>A：パワー<ruby>電気<rp>（</rp><rt>でんき</rt><rp>）</rp></ruby>（１）<ruby>何<rp>（</rp><rt>なん</rt><rp>）</rp></ru",
+      "unknownWords": [
+        "コンピューター"
+      ]
+    },
+    {
+      "id": 144,
+      "index": 143,
+      "question": "<b>たばこ</b>",
+      "unknownWords": [
+        "たばこ"
+      ]
+    },
+    {
+      "id": 164,
+      "index": 163,
+      "question": "<b>A：パワー<ruby>電気<rp>（</rp><rt>でんき</rt><rp>）</rp></ruby>（１）<ruby>何<rp>（</rp><rt>なん</rt><rp>）</rp></ru",
+      "unknownWords": [
+        "コンピューター"
+      ]
+    },
+    {
+      "id": 181,
+      "index": 180,
+      "question": "<b>A：パワー<ruby>電気<rp>（</rp><rt>でんき</rt><rp>）</rp></ruby>（１）<ruby>何<rp>（</rp><rt>なん</rt><rp>）</rp></ru",
+      "unknownWords": [
+        "コンピューター"
+      ]
+    }
+  ],
+  "4": [
+    {
+      "id": 9,
+      "index": 9,
+      "question": "<b><ruby>昨<ruby>日<rp>（</rp><rt>ひ</rt><rp>）</rp></ruby><rp>（</rp><rt>きのう</rt><rp>）</rp></ruby>の<ruby>",
+      "unknownWords": [
+        "しました"
+      ]
+    },
+    {
+      "id": 27,
+      "index": 27,
+      "question": "<b><ruby>月<rp>（</rp><rt>つき</rt><rp>）</rp></ruby>曜<ruby>日<rp>（</rp><rt>ひ</rt><rp>）</rp></ruby></b>",
+      "unknownWords": [
+        "つき"
+      ]
+    },
+    {
+      "id": 39,
+      "index": 39,
+      "question": "<b>A：<ruby>桜<rp>（</rp><rt>さくら</rt><rp>）</rp></ruby><ruby>大学<rp>（</rp><rt>だいがく</rt><rp>）</rp></ruby>の",
+      "unknownWords": [
+        "さくら"
+      ]
+    },
+    {
+      "id": 155,
+      "index": 155,
+      "question": "<b><ruby>昨<ruby>日<rp>（</rp><rt>ひ</rt><rp>）</rp></ruby><rp>（</rp><rt>きのう</rt><rp>）</rp></ruby>の<ruby>",
+      "unknownWords": [
+        "しました"
+      ]
+    }
+  ],
+  "5": [
+    {
+      "id": 18,
+      "index": 18,
+      "question": "<b>A：<ruby>先<ruby>月<rp>（</rp><rt>つき</rt><rp>）</rp></ruby><rp>（</rp><rt>せんげつ</rt><rp>）</rp></ruby>の２５",
+      "unknownWords": [
+        "つき"
+      ]
+    },
+    {
+      "id": 24,
+      "index": 24,
+      "question": "<b>A：<ruby>先<ruby>月<rp>（</rp><rt>つき</rt><rp>）</rp></ruby><rp>（</rp><rt>せんげつ</rt><rp>）</rp></ruby>の２５",
+      "unknownWords": [
+        "つき"
+      ]
+    },
+    {
+      "id": 28,
+      "index": 28,
+      "question": "<b><ruby>来<rp>（</rp><rt>き</rt><rp>）</rp></ruby><ruby>月<rp>（</rp><rt>つき</rt><rp>）</rp></ruby></b>",
+      "unknownWords": [
+        "つき"
+      ]
+    },
+    {
+      "id": 41,
+      "index": 41,
+      "question": "<b>A：<ruby>先<ruby>月<rp>（</rp><rt>つき</rt><rp>）</rp></ruby><rp>（</rp><rt>せんげつ</rt><rp>）</rp></ruby>の２５",
+      "unknownWords": [
+        "つき"
+      ]
+    },
+    {
+      "id": 54,
+      "index": 54,
+      "question": "<b>A：（　）アメリカへ<ruby>行<rp>（</rp><rt>い</rt><rp>）</rp></ruby>きますか。<p>B：<ruby>来<ruby>月<rp>（</rp><rt>つき</r",
+      "unknownWords": [
+        "つき"
+      ]
+    },
+    {
+      "id": 58,
+      "index": 58,
+      "question": "<b>A：<ruby>先<ruby>月<rp>（</rp><rt>つき</rt><rp>）</rp></ruby><rp>（</rp><rt>せんげつ</rt><rp>）</rp></ruby>の２５",
+      "unknownWords": [
+        "つき"
+      ]
+    },
+    {
+      "id": 80,
+      "index": 80,
+      "question": "<b>A：<ruby>先<ruby>月<rp>（</rp><rt>つき</rt><rp>）</rp></ruby><rp>（</rp><rt>せんげつ</rt><rp>）</rp></ruby>の２５",
+      "unknownWords": [
+        "つき"
+      ]
+    },
+    {
+      "id": 109,
+      "index": 109,
+      "question": "<b>A：<ruby>神戸<rp>（</rp><rt>こうべ</rt><rp>）</rp></ruby>まで（　）ですか。<p>B：５７０<ruby>円<rp>（</rp><rt>えん</rt><rp",
+      "unknownWords": [
+        "神戸",
+        "こうべ"
+      ]
+    },
+    {
+      "id": 118,
+      "index": 118,
+      "question": "<b><ruby>来<rp>（</rp><rt>き</rt><rp>）</rp></ruby><ruby>月<rp>（</rp><rt>つき</rt><rp>）</rp></ruby></b>",
+      "unknownWords": [
+        "つき"
+      ]
+    },
+    {
+      "id": 138,
+      "index": 138,
+      "question": "<b>彼<ruby>女<rp>（</rp><rt>おんな</rt><rp>）</rp></ruby></b>",
+      "unknownWords": [
+        "おんな"
+      ]
+    },
+    {
+      "id": 179,
+      "index": 179,
+      "question": "<b>A：<ruby>先<ruby>月<rp>（</rp><rt>つき</rt><rp>）</rp></ruby><rp>（</rp><rt>せんげつ</rt><rp>）</rp></ruby>の２５",
+      "unknownWords": [
+        "つき"
+      ]
+    }
+  ],
+  "6": [
+    {
+      "id": 41,
+      "index": 41,
+      "question": "<b>ともだち（　）ごはんを　たべました。</b>",
+      "unknownWords": [
+        "たべました"
+      ]
+    },
+    {
+      "id": 106,
+      "index": 106,
+      "question": "<b>A：（　）で<ruby>新<ruby>聞<rp>（</rp><rt>きこ</rt><rp>）</rp></ruby><rp>（</rp><rt>しんぶん</rt><rp>）</rp></ruby",
+      "unknownWords": [
+        "きこ"
+      ]
+    }
+  ],
+  "7": [
+    {
+      "id": 50,
+      "index": 50,
+      "question": "<b>カリナさんはイーさんにCDを<ruby>貸<rp>（</rp><rt>か</rt><rp>）</rp></ruby>しました。<p>イーさんは（　）。</p></b>",
+      "unknownWords": [
+        "しました"
+      ]
+    },
+    {
+      "id": 58,
+      "index": 58,
+      "question": "<b>A：なんで　レポートを　おくりますか。<p>B：メール（　）おくります。</p></b>",
+      "unknownWords": [
+        "メール"
+      ]
+    },
+    {
+      "id": 158,
+      "index": 158,
+      "question": "<b>わたしは　ともだちに　CDを（　）。<p>いっしょに　この　CDを　ききましょう。</p></b>",
+      "unknownWords": [
+        "ききましょう"
+      ]
+    },
+    {
+      "id": 159,
+      "index": 159,
+      "question": "<b><ruby>山田<rp>（</rp><rt>やまだ</rt><rp>）</rp></ruby>さんはタワポンさんに<ruby>日<ruby>本<rp>（</rp><rt>ほん</rt><rp>）",
+      "unknownWords": [
+        "山田",
+        "えました"
+      ]
+    }
+  ],
+  "8": [
+    {
+      "id": 16,
+      "index": 16,
+      "question": "<b>シャンハイ</b>",
+      "unknownWords": [
+        "シャンハイ"
+      ]
+    },
+    {
+      "id": 55,
+      "index": 55,
+      "question": "<b>（　）で<ruby>飲<rp>（</rp><rt>の</rt><rp>）</rp></ruby>みますか。…あそこで<ruby>飲<rp>（</rp><rt>の</rt><rp>）</rp></",
+      "unknownWords": [
+        "みましょう"
+      ]
+    }
+  ],
+  "9": [
+    {
+      "id": 102,
+      "index": 102,
+      "question": "<b>ミラーさんはパソコン（　）ありません（　）、いつも（　）<ruby>佐藤<rp>（</rp><rt>さとう</rt><rp>）</rp></ruby>さん（　）<ruby>借<rp>（</rp>",
+      "unknownWords": [
+        "佐藤"
+      ]
+    },
+    {
+      "id": 154,
+      "index": 154,
+      "question": "<b>あしたいっしょに<ruby>花見<rp>（</rp><rt>はなみ</rt><rp>）</rp></ruby>（　）しませんか。<p>…すみません。あした<ruby>友達<rp>（</rp><r",
+      "unknownWords": [
+        "約束"
+      ]
+    },
+    {
+      "id": 167,
+      "index": 167,
+      "question": "<b>約束</b>",
+      "unknownWords": [
+        "約束"
+      ]
+    }
+  ],
+  "10": [
+    {
+      "id": 45,
+      "index": 45,
+      "question": "<b><ruby>木<rp>（</rp><rt>き</rt><rp>）</rp></ruby>の<ruby>下<rp>（</rp><rt>した</rt><rp>）</rp></ruby>に<ruby>",
+      "unknownWords": [
+        "いぬ"
+      ]
+    },
+    {
+      "id": 46,
+      "index": 46,
+      "question": "<b><ruby>佐藤<rp>（</rp><rt>さとう</rt><rp>）</rp></ruby>さんの<ruby>隣<rp>（</rp><rt>となり</rt><rp>）</rp></ruby>（",
+      "unknownWords": [
+        "佐藤"
+      ]
+    },
+    {
+      "id": 69,
+      "index": 69,
+      "question": "<b><ruby>犬<rp>（</rp><rt>いぬ</rt><rp>）</rp></ruby></b>",
+      "unknownWords": [
+        "いぬ"
+      ]
+    },
+    {
+      "id": 144,
+      "index": 144,
+      "question": "<b>この<ruby>近<rp>（</rp><rt>ちか</rt><rp>）</rp></ruby>く（　）<ruby>喫<ruby>茶<rp>（</rp><rt>ちゃ</rt><rp>）</rp><",
+      "unknownWords": [
+        "喫茶"
+      ]
+    }
+  ],
+  "11": [
+    {
+      "id": 5,
+      "index": 5,
+      "question": "<b><ruby>先<ruby>月<rp>（</rp><rt>つき</rt><rp>）</rp></ruby><rp>（</rp><rt>せんげつ</rt><rp>）</rp></ruby>1<rub",
+      "unknownWords": [
+        "つき"
+      ]
+    },
+    {
+      "id": 49,
+      "index": 49,
+      "question": "<b>～<ruby>回<rp>（</rp><rt>まわ</rt><rp>）</rp></ruby></b>",
+      "unknownWords": [
+        "まわ"
+      ]
+    },
+    {
+      "id": 103,
+      "index": 103,
+      "question": "<b><ruby>用事<rp>（</rp><rt>ようじ</rt><rp>）</rp></ruby>がありますから、<ruby>会社<rp>（</rp><rt>かいしゃ</rt><rp>）</rp><",
+      "unknownWords": [
+        "用事"
+      ]
+    },
+    {
+      "id": 107,
+      "index": 107,
+      "question": "<b>オーストラリア</b>",
+      "unknownWords": [
+        "オーストラリア"
+      ]
+    },
+    {
+      "id": 125,
+      "index": 125,
+      "question": "<b><ruby>大阪<rp>（</rp><rt>おおさか</rt><rp>）</rp></ruby>（　）<ruby>東京<rp>（</rp><rt>とうきょう</rt><rp>）</rp></ru",
+      "unknownWords": [
+        "東京"
+      ]
+    },
+    {
+      "id": 157,
+      "index": 157,
+      "question": "<b><ruby>六<rp>（</rp><rt>ろく</rt><rp>）</rp></ruby>つ</b>",
+      "unknownWords": [
+        "ろく"
+      ]
+    }
+  ],
+  "12": [
+    {
+      "id": 4,
+      "index": 4,
+      "question": "<b>１<ruby>年<rp>（</rp><rt>ねん</rt><rp>）</rp></ruby>（　）<ruby>何<ruby>月<rp>（</rp><rt>つき</rt><rp>）</rp></r",
+      "unknownWords": [
+        "つき"
+      ]
+    },
+    {
+      "id": 11,
+      "index": 11,
+      "question": "<b><ruby>東京<rp>(</rp><rt>とうきょう</rt><rp>)</rp></ruby>の<ruby>本屋<rp>(</rp><rt>ほんや</rt><rp>)</rp></ruby>",
+      "unknownWords": [
+        "東京"
+      ]
+    },
+    {
+      "id": 19,
+      "index": 19,
+      "question": "<b><ruby>京都<rp>（</rp><rt>きょうと</rt><rp>）</rp></ruby><ruby>旅<ruby>行<rp>（</rp><rt>い</rt><rp>）</rp></rub",
+      "unknownWords": [
+        "京都"
+      ]
+    },
+    {
+      "id": 32,
+      "index": 32,
+      "question": "<b>うみ</b>",
+      "unknownWords": [
+        "うみ"
+      ]
+    },
+    {
+      "id": 39,
+      "index": 39,
+      "question": "<b>ホテル</b>",
+      "unknownWords": [
+        "ホテル"
+      ]
+    },
+    {
+      "id": 89,
+      "index": 89,
+      "question": "<b><ruby>空港<rp>（</rp><rt>くうこう</rt><rp>）</rp></ruby></b>",
+      "unknownWords": [
+        "空港",
+        "くうこう"
+      ]
+    },
+    {
+      "id": 125,
+      "index": 125,
+      "question": "<b>A: <ruby>海<rp>（</rp><rt>うみ</rt><rp>）</rp></ruby>と<ruby>山<rp>（</rp><rt>やま</rt><rp>）</rp></ruby>（　）",
+      "unknownWords": [
+        "うみ"
+      ]
+    },
+    {
+      "id": 166,
+      "index": 166,
+      "question": "<b><ruby>暑<rp>（</rp><rt>あつ</rt><rp>）</rp></ruby>い<ruby>季節<rp>（</rp><rt>きせつ</rt><rp>）</rp></ruby>（　）<",
+      "unknownWords": [
+        "ほう"
+      ]
+    }
+  ],
+  "13": [
+    {
+      "id": 6,
+      "index": 6,
+      "question": "<b><ruby>木村<rp>（</rp><rt>きむら</rt><rp>）</rp></ruby>さんはコンピューターを（　）います。</b>",
+      "unknownWords": [
+        "木村",
+        "きむら"
+      ]
+    },
+    {
+      "id": 18,
+      "index": 18,
+      "question": "<b><ruby>弟<rp>（</rp><rt>おとうと</rt><rp>）</rp></ruby>は（　）いません。<ruby>独身<rp>（</rp><rt>どくしん</rt><rp>）</rp>",
+      "unknownWords": [
+        "独身",
+        "どくしん"
+      ]
+    },
+    {
+      "id": 30,
+      "index": 30,
+      "question": "<b><ruby>高校<rp>（</rp><rt>こうこう</rt><rp>）</rp></ruby></b>",
+      "unknownWords": [
+        "高校",
+        "こうこう"
+      ]
+    },
+    {
+      "id": 31,
+      "index": 31,
+      "question": "<b><ruby>机<rp>（</rp><rt>つくえ</rt><rp>）</rp></ruby>（１）<ruby>上<rp>（</rp><rt>うえ</rt><rp>）</rp></ruby>（２）",
+      "unknownWords": [
+        "資料"
+      ]
+    },
+    {
+      "id": 58,
+      "index": 58,
+      "question": "<b>あの<ruby>桜<rp>（</rp><rt>さくら</rt><rp>）</rp></ruby>（１）<ruby>木<rp>（</rp><rt>き</rt><rp>）</rp></ruby>（２",
+      "unknownWords": [
+        "すわ",
+        "りましょう"
+      ]
+    },
+    {
+      "id": 60,
+      "index": 60,
+      "question": "<b>つくります</b>",
+      "unknownWords": [
+        "つくります"
+      ]
+    },
+    {
+      "id": 68,
+      "index": 68,
+      "question": "<b><ruby>服<rp>（</rp><rt>ふく</rt><rp>）</rp></ruby></b>",
+      "unknownWords": [
+        "ふく"
+      ]
+    },
+    {
+      "id": 74,
+      "index": 74,
+      "question": "<b><ruby>時々<rp>（</rp><rt>ときどき</rt><rp>）</rp></ruby><ruby>高校<rp>（</rp><rt>こうこう</rt><rp>）</rp></ruby>の",
+      "unknownWords": [
+        "高校",
+        "こうこう",
+        "い出"
+      ]
+    },
+    {
+      "id": 93,
+      "index": 93,
+      "question": "<b><ruby>製品<rp>（</rp><rt>せいひん</rt><rp>）</rp></ruby></b>",
+      "unknownWords": [
+        "製品",
+        "せいひん"
+      ]
+    },
+    {
+      "id": 111,
+      "index": 111,
+      "question": "<b><ruby>独身<rp>（</rp><rt>どくしん</rt><rp>）</rp></ruby></b>",
+      "unknownWords": [
+        "独身",
+        "どくしん"
+      ]
+    },
+    {
+      "id": 112,
+      "index": 112,
+      "question": "<b>あの<ruby>桜<rp>（</rp><rt>さくら</rt><rp>）</rp></ruby>（１）<ruby>木<rp>（</rp><rt>き</rt><rp>）</rp></ruby>（２",
+      "unknownWords": [
+        "すわ",
+        "りましょう"
+      ]
+    },
+    {
+      "id": 113,
+      "index": 113,
+      "question": "<b>たちます</b>",
+      "unknownWords": [
+        "たちます"
+      ]
+    },
+    {
+      "id": 118,
+      "index": 118,
+      "question": "<b><ruby>机<rp>（</rp><rt>つくえ</rt><rp>）</rp></ruby>（１）<ruby>上<rp>（</rp><rt>うえ</rt><rp>）</rp></ruby>（２）",
+      "unknownWords": [
+        "資料"
+      ]
+    },
+    {
+      "id": 157,
+      "index": 157,
+      "question": "<b>A: リンさんは<ruby>結婚<rp>（</rp><rt>けっこん</rt><rp>）</rp></ruby>していますか。<p>B: はい、<ruby>先<ruby>月<rp>（</rp><",
+      "unknownWords": [
+        "つき"
+      ]
+    },
+    {
+      "id": 170,
+      "index": 170,
+      "question": "<b>あの<ruby>桜<rp>（</rp><rt>さくら</rt><rp>）</rp></ruby>（１）<ruby>木<rp>（</rp><rt>き</rt><rp>）</rp></ruby>（２",
+      "unknownWords": [
+        "すわ",
+        "りましょう"
+      ]
+    },
+    {
+      "id": 175,
+      "index": 175,
+      "question": "<b><ruby>机<rp>（</rp><rt>つくえ</rt><rp>）</rp></ruby>（１）<ruby>上<rp>（</rp><rt>うえ</rt><rp>）</rp></ruby>（２）",
+      "unknownWords": [
+        "資料"
+      ]
+    }
+  ],
+  "15": [
+    {
+      "id": 31,
+      "index": 31,
+      "question": "<b><ruby>木村<rp>（</rp><rt>きむら</rt><rp>）</rp></ruby>さんはコンピューターを（　）います。</b>",
+      "unknownWords": [
+        "木村",
+        "きむら"
+      ]
+    },
+    {
+      "id": 76,
+      "index": 76,
+      "question": "<b>あの<ruby>桜<rp>（</rp><rt>さくら</rt><rp>）</rp></ruby>（１）<ruby>木<rp>（</rp><rt>き</rt><rp>）</rp></ruby>（２",
+      "unknownWords": [
+        "りましょう"
+      ]
+    },
+    {
+      "id": 96,
+      "index": 96,
+      "question": "<b>あの<ruby>桜<rp>（</rp><rt>さくら</rt><rp>）</rp></ruby>（１）<ruby>木<rp>（</rp><rt>き</rt><rp>）</rp></ruby>（２",
+      "unknownWords": [
+        "りましょう"
+      ]
+    },
+    {
+      "id": 158,
+      "index": 158,
+      "question": "<b>あの<ruby>桜<rp>（</rp><rt>さくら</rt><rp>）</rp></ruby>（１）<ruby>木<rp>（</rp><rt>き</rt><rp>）</rp></ruby>（２",
+      "unknownWords": [
+        "りましょう"
+      ]
+    },
+    {
+      "id": 172,
+      "index": 172,
+      "question": "<b>A: リンさんは<ruby>結婚<rp>（</rp><rt>けっこん</rt><rp>）</rp></ruby>していますか。<p>B: はい、<ruby>先<ruby>月<rp>（</rp><",
+      "unknownWords": [
+        "つき"
+      ]
+    }
+  ],
+  "16": [
+    {
+      "id": 115,
+      "index": 115,
+      "question": "<b><ruby>横浜<rp>（</rp><rt>よこはま</rt><rp>）</rp></ruby>（１）<ruby>電車<rp>（</rp><rt>でんしゃ</rt><rp>）</rp></rub",
+      "unknownWords": [
+        "横浜"
+      ]
+    },
+    {
+      "id": 138,
+      "index": 138,
+      "question": "<b><ruby>横浜<rp>（</rp><rt>よこはま</rt><rp>）</rp></ruby>（１）<ruby>電車<rp>（</rp><rt>でんしゃ</rt><rp>）</rp></rub",
+      "unknownWords": [
+        "横浜"
+      ]
+    }
+  ],
+  "17": [
+    {
+      "id": 23,
+      "index": 23,
+      "question": "<b><ruby>横浜<rp>（</rp><rt>よこはま</rt><rp>）</rp></ruby>で<ruby>電車<rp>（</rp><rt>でんしゃ</rt><rp>）</rp></ruby>",
+      "unknownWords": [
+        "横浜"
+      ]
+    },
+    {
+      "id": 77,
+      "index": 77,
+      "question": "<b><ruby>両親<rp>（</rp><rt>りょうしん</rt><rp>）</rp></ruby>が<ruby>来<rp>（</rp><rt>き</rt><rp>）</rp></ruby>ますか",
+      "unknownWords": [
+        "空港",
+        "くうこう"
+      ]
+    },
+    {
+      "id": 101,
+      "index": 101,
+      "question": "<b><ruby>今<ruby>月<rp>（</rp><rt>つき</rt><rp>）</rp></ruby><rp>（</rp><rt>こんげつ</rt><rp>）</rp></ruby>の３０<r",
+      "unknownWords": [
+        "つき"
+      ]
+    },
+    {
+      "id": 178,
+      "index": 178,
+      "question": "<b><ruby>忙<rp>（</rp><rt>いそが</rt><rp>）</rp></ruby>しい<ruby>仕事<rp>（</rp><rt>しごと</rt><rp>）</rp></ruby>が<",
+      "unknownWords": [
+        "しい仕事"
+      ]
+    }
+  ],
+  "18": [
+    {
+      "id": 43,
+      "index": 43,
+      "question": "<b><ruby>忙<rp>（</rp><rt>いそが</rt><rp>）</rp></ruby>しいですから、（　）<ruby>京都<rp>（</rp><rt>きょうと</rt><rp>）</rp>",
+      "unknownWords": [
+        "京都"
+      ]
+    }
+  ],
+  "19": [
+    {
+      "id": 133,
+      "index": 133,
+      "question": "<b><ruby>太郎<rp>（</rp><rt>たろう</rt><rp>）</rp></ruby>ちゃんは（１）なりましたね。<ruby>何<ruby>歳<rp>（</rp><rt>さい</rt><",
+      "unknownWords": [
+        "太郎",
+        "たろう"
+      ]
+    },
+    {
+      "id": 166,
+      "index": 166,
+      "question": "<b>A :　<ruby>広島<rp>（</rp><rt>ひろしま</rt><rp>）</rp></ruby>へ<ruby>行<rp>（</rp><rt>い</rt><rp>）</rp></ruby>",
+      "unknownWords": [
+        "広島",
+        "ひろしま"
+      ]
+    },
+    {
+      "id": 168,
+      "index": 168,
+      "question": "<b><ruby>太郎<rp>（</rp><rt>たろう</rt><rp>）</rp></ruby>ちゃんは（１）なりましたね。<ruby>何<ruby>歳<rp>（</rp><rt>さい</rt><",
+      "unknownWords": [
+        "太郎",
+        "たろう"
+      ]
+    },
+    {
+      "id": 190,
+      "index": 190,
+      "question": "<b><ruby>太郎<rp>（</rp><rt>たろう</rt><rp>）</rp></ruby>ちゃんは（１）なりましたね。<ruby>何<ruby>歳<rp>（</rp><rt>さい</rt><",
+      "unknownWords": [
+        "太郎",
+        "たろう"
+      ]
+    }
+  ],
+  "20": [
+    {
+      "id": 23,
+      "index": 23,
+      "question": "<b><ruby>旅<ruby>行<rp>（</rp><rt>い</rt><rp>）</rp></ruby><rp>（</rp><rt>りょこう</rt><rp>）</rp></ruby>は<ruby",
+      "unknownWords": [
+        "れた"
+      ]
+    },
+    {
+      "id": 106,
+      "index": 106,
+      "question": "<b>ビザが（　）…ううん、<ruby>要<rp>（</rp><rt>い</rt><rp>）</rp></ruby>らない。</b>",
+      "unknownWords": [
+        "らない"
+      ]
+    },
+    {
+      "id": 113,
+      "index": 113,
+      "question": "<b>この<ruby>人<rp>（</rp><rt>ひと</rt><rp>）</rp></ruby>はことし<ruby>海<rp>（</rp><rt>うみ</rt><rp>）</rp></ruby>へ",
+      "unknownWords": [
+        "うみ"
+      ]
+    },
+    {
+      "id": 157,
+      "index": 157,
+      "question": "<b>この<ruby>人<rp>（</rp><rt>ひと</rt><rp>）</rp></ruby>は<ruby>去<ruby>年<rp>（</rp><rt>とし</rt><rp>）</rp></ru",
+      "unknownWords": [
+        "うみ"
+      ]
+    },
+    {
+      "id": 171,
+      "index": 171,
+      "question": "<b>きのうは<ruby>休<rp>（</rp><rt>やす</rt><rp>）</rp></ruby>みだった？…ううん、（　）。</b>",
+      "unknownWords": [
+        "みだった"
+      ]
+    }
+  ],
+  "21": [
+    {
+      "id": 29,
+      "index": 29,
+      "question": "<b><ruby>佐藤<rp>（</rp><rt>さとう</rt><rp>）</rp></ruby>さんは<ruby>独身<rp>（</rp><rt>どくしん</rt><rp>）</rp></ruby",
+      "unknownWords": [
+        "佐藤"
+      ]
+    },
+    {
+      "id": 43,
+      "index": 43,
+      "question": "<b>パーティー（１）<ruby>佐藤<rp>（</rp><rt>さとう</rt><rp>）</rp></ruby>さんの<ruby>友達<rp>（</rp><rt>ともだち</rt><rp>）</r",
+      "unknownWords": [
+        "佐藤"
+      ]
+    },
+    {
+      "id": 60,
+      "index": 60,
+      "question": "<b>アニメ</b>",
+      "unknownWords": [
+        "アニメ"
+      ]
+    },
+    {
+      "id": 69,
+      "index": 69,
+      "question": "<b>このカレーは<ruby>辛<rp>（</rp><rt>つら</rt><rp>）</rp></ruby>いでしょう？…いいえ、そんなに（　）。</b>",
+      "unknownWords": [
+        "つら"
+      ]
+    },
+    {
+      "id": 84,
+      "index": 84,
+      "question": "<b>マンガ</b>",
+      "unknownWords": [
+        "マンガ"
+      ]
+    },
+    {
+      "id": 107,
+      "index": 107,
+      "question": "<b><ruby>木村<rp>（</rp><rt>きむら</rt><rp>）</rp></ruby>さんは　アルバイトは　<ruby>時<ruby>間<rp>（</rp><rt>あいだ</rt><rp",
+      "unknownWords": [
+        "木村",
+        "きむら"
+      ]
+    },
+    {
+      "id": 136,
+      "index": 136,
+      "question": "<b><ruby>日<ruby>本<rp>（</rp><rt>ほん</rt><rp>）</rp></ruby><rp>（</rp><rt>にほん</rt><rp>）</rp></ruby>でどこへ<r",
+      "unknownWords": [
+        "北海",
+        "うみ",
+        "みち"
+      ]
+    },
+    {
+      "id": 145,
+      "index": 145,
+      "question": "<b>パーティー（１）<ruby>佐藤<rp>（</rp><rt>さとう</rt><rp>）</rp></ruby>さんの<ruby>友達<rp>（</rp><rt>ともだち</rt><rp>）</r",
+      "unknownWords": [
+        "佐藤"
+      ]
+    }
+  ],
+  "22": [
+    {
+      "id": 56,
+      "index": 56,
+      "question": "<b><ruby>車<rp>（</rp><rt>くるま</rt><rp>）</rp></ruby>を（　）<ruby>所<rp>（</rp><rt>しょ</rt><rp>）</rp></ruby>があ",
+      "unknownWords": [
+        "きましょう"
+      ]
+    },
+    {
+      "id": 120,
+      "index": 120,
+      "question": "<b>ミラーさんは（　）<ruby>喫<ruby>茶<rp>（</rp><rt>ちゃ</rt><rp>）</rp></ruby>店<rp>（</rp><rt>きっさてん</rt><rp>）</rp><",
+      "unknownWords": [
+        "喫茶"
+      ]
+    },
+    {
+      "id": 175,
+      "index": 175,
+      "question": "<b><ruby>佐藤<rp>（</rp><rt>さとう</rt><rp>）</rp></ruby>さんに（１）プレゼントは（２）ですか。…<ruby>時計<rp>（</rp><rt>とけい</rt>",
+      "unknownWords": [
+        "佐藤"
+      ]
+    },
+    {
+      "id": 177,
+      "index": 177,
+      "question": "<b><ruby>佐藤<rp>（</rp><rt>さとう</rt><rp>）</rp></ruby>さんに（１）プレゼントは（２）ですか。…<ruby>時計<rp>（</rp><rt>とけい</rt>",
+      "unknownWords": [
+        "佐藤"
+      ]
+    }
+  ],
+  "23": [
+    {
+      "id": 65,
+      "index": 65,
+      "question": "<b><ruby>聞<rp>（</rp><rt>きこ</rt><rp>）</rp></ruby>きます</b>",
+      "unknownWords": [
+        "きこ"
+      ]
+    },
+    {
+      "id": 71,
+      "index": 71,
+      "question": "<b><ruby>聞<rp>（</rp><rt>きこ</rt><rp>）</rp></ruby>きます</b>",
+      "unknownWords": [
+        "きこ"
+      ]
+    },
+    {
+      "id": 135,
+      "index": 135,
+      "question": "<b><ruby>細<rp>（</rp><rt>ほそ</rt><rp>）</rp></ruby>かいお<ruby>金<rp>（</rp><rt>きん</rt><rp>）</rp></ruby></b>",
+      "unknownWords": [
+        "ほそ"
+      ]
+    },
+    {
+      "id": 141,
+      "index": 141,
+      "question": "<b>けさここへ（　）とき、<ruby>駅<rp>（</rp><rt>えき</rt><rp>）</rp></ruby>で<ruby>新<ruby>聞<rp>（</rp><rt>きこ</rt><rp>）",
+      "unknownWords": [
+        "きこ"
+      ]
+    }
+  ],
+  "24": [
+    {
+      "id": 58,
+      "index": 58,
+      "question": "<b><ruby>連<rp>（</rp><rt>つ</rt><rp>）</rp></ruby>れる</b>",
+      "unknownWords": [
+        "れる"
+      ]
+    },
+    {
+      "id": 74,
+      "index": 74,
+      "question": "<b>[<ruby>佐藤<rp>（</rp><rt>さとう</rt><rp>）</rp></ruby>さんが<ruby>病気<rp>（</rp><rt>びょうき</rt><rp>）</rp></rub",
+      "unknownWords": [
+        "佐藤"
+      ]
+    },
+    {
+      "id": 90,
+      "index": 90,
+      "question": "<b><ruby>喫<ruby>茶<rp>（</rp><rt>ちゃ</rt><rp>）</rp></ruby>店<rp>（</rp><rt>きっさてん</rt><rp>）</rp></ruby>で（１",
+      "unknownWords": [
+        "喫茶"
+      ]
+    },
+    {
+      "id": 95,
+      "index": 95,
+      "question": "<b><ruby>喫<ruby>茶<rp>（</rp><rt>ちゃ</rt><rp>）</rp></ruby>店<rp>（</rp><rt>きっさてん</rt><rp>）</rp></ruby>で（１",
+      "unknownWords": [
+        "喫茶"
+      ]
+    },
+    {
+      "id": 137,
+      "index": 137,
+      "question": "<b>わたし：コーヒーをいれましょうか。<p>グプタ：ええ、お<ruby>願<rp>（</rp><rt>ねが</rt><rp>）</rp></ruby>いします。</p><p>→わたしはグプタさんにコ",
+      "unknownWords": [
+        "グプタ"
+      ]
+    },
+    {
+      "id": 160,
+      "index": 160,
+      "question": "<b><ruby>木村<rp>（</rp><rt>きむら</rt><rp>）</rp></ruby>：あしたは<ruby>奈良<rp>（</rp><rt>なら</rt><rp>）</rp></ruby",
+      "unknownWords": [
+        "木村",
+        "きむら",
+        "タワポン"
+      ]
+    }
+  ],
+  "25": [
+    {
+      "id": 83,
+      "index": 83,
+      "question": "<b>バスが（　）、<ruby>歩<rp>（</rp><rt>ある</rt><rp>）</rp></ruby>きましょう。</b>",
+      "unknownWords": [
+        "きましょう"
+      ]
+    },
+    {
+      "id": 86,
+      "index": 86,
+      "question": "<b><ruby>駅<rp>（</rp><rt>えき</rt><rp>）</rp></ruby>（　）<ruby>着<rp>（</rp><rt>つ</rt><rp>）</rp></ruby>いたら、<",
+      "unknownWords": [
+        "いたら"
+      ]
+    }
+  ],
+  "26": [
+    {
+      "id": 86,
+      "index": 86,
+      "question": "<b><ruby>渡辺<rp>（</rp><rt>わたなべ</rt><rp>）</rp></ruby>：<ruby>朝<rp>（</rp><rt>あさ</rt><rp>）</rp></ruby>はいつ",
+      "unknownWords": [
+        "渡辺"
+      ]
+    },
+    {
+      "id": 100,
+      "index": 100,
+      "question": "<b>A: <ruby>毎朝<rp>（</rp><rt>まいあさ</rt><rp>）</rp></ruby>、<ruby>新<ruby>聞<rp>（</rp><rt>きこ</rt><rp>）</rp>",
+      "unknownWords": [
+        "きこ"
+      ]
+    },
+    {
+      "id": 163,
+      "index": 163,
+      "question": "<b>きれいな<ruby>桜<rp>（</rp><rt>さくら</rt><rp>）</rp></ruby>の<ruby>写真<rp>（</rp><rt>しゃしん</rt><rp>）</rp></rub",
+      "unknownWords": [
+        "奈良"
+      ]
+    },
+    {
+      "id": 165,
+      "index": 165,
+      "question": "<b>A:　いつ<ruby>国<ruby>会議<rp>（</rp><rt>かいぎ</rt><rp>）</rp></ruby>事堂<rp>（</rp><rt>こっかいぎじどう</rt><rp>）</rp",
+      "unknownWords": [
+        "事堂"
+      ]
+    },
+    {
+      "id": 166,
+      "index": 166,
+      "question": "<b><ruby>渡辺<rp>（</rp><rt>わたなべ</rt><rp>）</rp></ruby>： （　）の<ruby>運<ruby>動<rp>（</rp><rt>うご</rt><rp>）</r",
+      "unknownWords": [
+        "渡辺"
+      ]
+    },
+    {
+      "id": 172,
+      "index": 172,
+      "question": "<b><ruby>新<ruby>聞<rp>（</rp><rt>きこ</rt><rp>）</rp></ruby>社<rp>（</rp><rt>しんぶんしゃ</rt><rp>）</rp></ruby></",
+      "unknownWords": [
+        "きこ"
+      ]
+    }
+  ],
+  "27": [
+    {
+      "id": 92,
+      "index": 92,
+      "question": "<b>A: <ruby>渡辺<rp>（</rp><rt>わたなべ</rt><rp>）</rp></ruby>さんに<ruby>会<rp>（</rp><rt>あ</rt><rp>）</rp></ruby",
+      "unknownWords": [
+        "渡辺"
+      ]
+    }
+  ],
+  "28": [
+    {
+      "id": 25,
+      "index": 25,
+      "question": "<b><ruby>休<rp>（</rp><rt>やす</rt><rp>）</rp></ruby>みの<ruby>日<rp>（</rp><rt>ひ</rt><rp>）</rp></ruby>はたいていプ",
+      "unknownWords": [
+        "いだり"
+      ]
+    }
+  ],
+  "30": [
+    {
+      "id": 13,
+      "index": 13,
+      "question": "<b>玄関</b>",
+      "unknownWords": [
+        "玄関"
+      ]
+    },
+    {
+      "id": 16,
+      "index": 16,
+      "question": "<b><ruby>交<ruby>番<rp>（</rp><rt>ばん</rt><rp>）</rp></ruby><rp>（</rp><rt>こうばん</rt><rp>）</rp></ruby>に<rub",
+      "unknownWords": [
+        "こうばん"
+      ]
+    },
+    {
+      "id": 27,
+      "index": 27,
+      "question": "<b>ちきゅう</b>",
+      "unknownWords": [
+        "ちきゅう"
+      ]
+    },
+    {
+      "id": 39,
+      "index": 39,
+      "question": "<b><ruby>授業<rp>（</rp><rt>じゅぎょう</rt><rp>）</rp></ruby>（　）まえに、<ruby>予習<rp>（</rp><rt>よしゅう</rt><rp>）</rp>",
+      "unknownWords": [
+        "授業",
+        "予習"
+      ]
+    },
+    {
+      "id": 42,
+      "index": 42,
+      "question": "<b><ruby>授業<rp>（</rp><rt>じゅぎょう</rt><rp>）</rp></ruby>（　）<ruby>終<rp>（</rp><rt>お</rt><rp>）</rp></ruby>わ",
+      "unknownWords": [
+        "授業",
+        "わったら",
+        "復習"
+      ]
+    },
+    {
+      "id": 45,
+      "index": 45,
+      "question": "<b><ruby>予定表<rp>（</rp><rt>よていひょう</rt><rp>）</rp></ruby>（　）<ruby>来<ruby>月<rp>（</rp><rt>つき</rt><rp>）</r",
+      "unknownWords": [
+        "予定表"
+      ]
+    }
+  ],
+  "31": [
+    {
+      "id": 67,
+      "index": 67,
+      "question": "<b><ruby>庭<rp>（</rp><rt>にわ</rt><rp>）</rp></ruby>があるうちに<ruby>引<rp>（</rp><rt>ひ</rt><rp>）</rp></ruby>っ<",
+      "unknownWords": [
+        "っ越",
+        "いぬ"
+      ]
+    }
+  ],
+  "32": [
+    {
+      "id": 22,
+      "index": 22,
+      "question": "<b>おそく</b>",
+      "unknownWords": [
+        "おそく"
+      ]
+    },
+    {
+      "id": 115,
+      "index": 115,
+      "question": "<b><ruby>地図<rp>（</rp><rt>ちず</rt><rp>）</rp></ruby>を<ruby>見<rp>（</rp><rt>み</rt><rp>）</rp></ruby>ても、よくわ",
+      "unknownWords": [
+        "こうばん"
+      ]
+    }
+  ],
+  "33": [
+    {
+      "id": 47,
+      "index": 47,
+      "question": "<b><ruby>渡辺<rp>（</rp><rt>わたなべ</rt><rp>）</rp></ruby>さんはまだコピーしているんですか。<p>…（　）と<ruby>言<rp>（</rp><rt>い</",
+      "unknownWords": [
+        "渡辺"
+      ]
+    },
+    {
+      "id": 96,
+      "index": 96,
+      "question": "<b>わりびき</b>",
+      "unknownWords": [
+        "わりびき"
+      ]
+    }
+  ],
+  "34": [
+    {
+      "id": 14,
+      "index": 14,
+      "question": "<b><ruby>渡辺<rp>（</rp><rt>わたなべ</rt><rp>）</rp></ruby>さんは<ruby>傘<rp>（</rp><rt>かさ</rt><rp>）</rp></ruby>を",
+      "unknownWords": [
+        "渡辺"
+      ]
+    },
+    {
+      "id": 23,
+      "index": 23,
+      "question": "<b>あそこに（　）お<ruby>弁当<rp>（</rp><rt>べんとう</rt><rp>）</rp></ruby>を<ruby>食<rp>（</rp><rt>た</rt><rp>）</rp></r",
+      "unknownWords": [
+        "べましょう"
+      ]
+    },
+    {
+      "id": 41,
+      "index": 41,
+      "question": "<b>もし、わたしが<ruby>遅<rp>（</rp><rt>おく</rt><rp>）</rp></ruby>れたら、（　）<ruby>先<rp>（</rp><rt>さき</rt><rp>）</rp>",
+      "unknownWords": [
+        "れたら"
+      ]
+    }
+  ],
+  "35": [
+    {
+      "id": 49,
+      "index": 49,
+      "question": "<b><ruby>予定<rp>（</rp><rt>よてい</rt><rp>）</rp></ruby>（　）<ruby>変<rp>（</rp><rt>か</rt><rp>）</rp></ruby>わった",
+      "unknownWords": [
+        "わったら"
+      ]
+    },
+    {
+      "id": 80,
+      "index": 80,
+      "question": "<b><ruby>日<ruby>本<rp>（</rp><rt>ほん</rt><rp>）</rp></ruby><rp>（</rp><rt>にほん</rt><rp>）</rp></ruby>は<ruby",
+      "unknownWords": [
+        "ければ"
+      ]
+    }
+  ],
+  "36": [
+    {
+      "id": 9,
+      "index": 9,
+      "question": "<b>世紀</b>",
+      "unknownWords": [
+        "世紀"
+      ]
+    },
+    {
+      "id": 24,
+      "index": 24,
+      "question": "<b>毎週</b>",
+      "unknownWords": [
+        "毎週"
+      ]
+    },
+    {
+      "id": 89,
+      "index": 89,
+      "question": "<b><ruby>夜<rp>（</rp><rt>よる</rt><rp>）</rp></ruby>は（１）<ruby>早<rp>（</rp><rt>はや</rt><rp>）</rp></ruby>く<r",
+      "unknownWords": [
+        "く寝"
+      ]
+    },
+    {
+      "id": 94,
+      "index": 94,
+      "question": "<b>遠く</b>",
+      "unknownWords": [
+        "遠く"
+      ]
+    },
+    {
+      "id": 122,
+      "index": 122,
+      "question": "<b>くさります</b>",
+      "unknownWords": [
+        "くさります"
+      ]
+    },
+    {
+      "id": 127,
+      "index": 127,
+      "question": "<b><ruby>夜<rp>（</rp><rt>よる</rt><rp>）</rp></ruby>は（１）<ruby>早<rp>（</rp><rt>はや</rt><rp>）</rp></ruby>く<r",
+      "unknownWords": [
+        "く寝"
+      ]
+    },
+    {
+      "id": 176,
+      "index": 176,
+      "question": "<b>あした<ruby>早<rp>（</rp><rt>はや</rt><rp>）</rp></ruby>く（　）ように、<ruby>今晩<rp>（</rp><rt>こんばん</rt><rp>）</rp>",
+      "unknownWords": [
+        "く寝"
+      ]
+    },
+    {
+      "id": 180,
+      "index": 180,
+      "question": "<b><ruby>夜<rp>（</rp><rt>よる</rt><rp>）</rp></ruby>１０<ruby>時<rp>（</rp><rt>じ</rt><rp>）</rp></ruby>（　）<ru",
+      "unknownWords": [
+        "ぎたら"
+      ]
+    },
+    {
+      "id": 205,
+      "index": 205,
+      "question": "<b>このスーパーでは７<ruby>時<rp>（</rp><rt>じ</rt><rp>）</rp></ruby>（　）<ruby>過<rp>（</rp><rt>す</rt><rp>）</rp></ru",
+      "unknownWords": [
+        "ぎたら"
+      ]
+    }
+  ],
+  "37": [
+    {
+      "id": 45,
+      "index": 45,
+      "question": "<b><ruby>鈴<ruby>木<rp>（</rp><rt>き</rt><rp>）</rp></ruby><rp>（</rp><rt>すずき</rt><rp>）</rp></ruby>さんにカメラを",
+      "unknownWords": [
+        "鈴木"
+      ]
+    }
+  ],
+  "38": [
+    {
+      "id": 23,
+      "index": 23,
+      "question": "<b><ruby>木村<rp>（</rp><rt>きむら</rt><rp>）</rp></ruby>さん（　）<ruby>赤<rp>（</rp><rt>あか</rt><rp>）</rp></ruby>",
+      "unknownWords": [
+        "木村",
+        "きむら"
+      ]
+    },
+    {
+      "id": 142,
+      "index": 142,
+      "question": "<b>かぎを<ruby>掛<rp>（</rp><rt>か</rt><rp>）</rp></ruby>ける（　）を<ruby>忘<rp>（</rp><rt>わす</rt><rp>）</rp></ruby",
+      "unknownWords": [
+        "ける"
+      ]
+    }
+  ],
+  "39": [
+    {
+      "id": 73,
+      "index": 73,
+      "question": "<b><ruby>授業<rp>（</rp><rt>じゅぎょう</rt><rp>）</rp></ruby>（１）<ruby>遅刻<rp>（</rp><rt>ちこく</rt><rp>）</rp></rub",
+      "unknownWords": [
+        "授業"
+      ]
+    },
+    {
+      "id": 95,
+      "index": 95,
+      "question": "<b><ruby>授業<rp>（</rp><rt>じゅぎょう</rt><rp>）</rp></ruby>（１）<ruby>遅刻<rp>（</rp><rt>ちこく</rt><rp>）</rp></rub",
+      "unknownWords": [
+        "授業"
+      ]
+    }
+  ],
+  "40": [
+    {
+      "id": 154,
+      "index": 154,
+      "question": "<b><ruby>鈴<ruby>木<rp>（</rp><rt>き</rt><rp>）</rp></ruby><rp>（</rp><rt>すずき</rt><rp>）</rp></ruby>さんは<rub",
+      "unknownWords": [
+        "鈴木"
+      ]
+    },
+    {
+      "id": 173,
+      "index": 173,
+      "question": "<b><ruby>林<rp>（</rp><rt>はやし</rt><rp>）</rp></ruby>さんに<ruby>借<rp>（</rp><rt>か</rt><rp>）</rp></ruby>りたＣＤ",
+      "unknownWords": [
+        "りた"
+      ]
+    }
+  ],
+  "41": [
+    {
+      "id": 58,
+      "index": 58,
+      "question": "<b><ruby>田舎<rp>（</rp><rt>いなか</rt><rp>）</rp></ruby>へ<ruby>行<rp>（</rp><rt>い</rt><rp>）</rp></ruby>ったとき、",
+      "unknownWords": [
+        "むら"
+      ]
+    },
+    {
+      "id": 75,
+      "index": 75,
+      "question": "<b>ミラーさん、<ruby>回覧<rp>（</rp><rt>かいらん</rt><rp>）</rp></ruby>です。みたら、ここにはんこを＿＿＿。</b>",
+      "unknownWords": [
+        "みたら"
+      ]
+    },
+    {
+      "id": 93,
+      "index": 93,
+      "question": "<b><ruby>小<ruby>川<rp>（</rp><rt>かわ</rt><rp>）</rp></ruby><rp>（</rp><rt>おがわ</rt><rp>）</rp></ruby>さんはわたし",
+      "unknownWords": [
+        "ディズニーランド"
+      ]
+    },
+    {
+      "id": 156,
+      "index": 156,
+      "question": "<b>すみませんが、<ruby>渡辺<rp>（</rp><rt>わたなべ</rt><rp>）</rp></ruby>さんに<ruby>会議<rp>（</rp><rt>かいぎ</rt><rp>）</rp",
+      "unknownWords": [
+        "渡辺"
+      ]
+    },
+    {
+      "id": 171,
+      "index": 171,
+      "question": "<b><ruby>先週<rp>（</rp><rt>せんしゅう</rt><rp>）</rp></ruby>クラスの<ruby>皆<rp>（</rp><rt>みな</rt><rp>）</rp></ruby",
+      "unknownWords": [
+        "し教"
+      ]
+    },
+    {
+      "id": 172,
+      "index": 172,
+      "question": "<b>暖房</b>",
+      "unknownWords": [
+        "暖房"
+      ]
+    },
+    {
+      "id": 181,
+      "index": 181,
+      "question": "<b>コンピューター（　）<ruby>興味<rp>（</rp><rt>きょうみ</rt><rp>）</rp></ruby>があります。</b>",
+      "unknownWords": [
+        "コンピューター"
+      ]
+    }
+  ],
+  "42": [
+    {
+      "id": 23,
+      "index": 23,
+      "question": "<b><ruby>病気<rp>（</rp><rt>びょうき</rt><rp>）</rp></ruby>が<ruby>早<rp>（</rp><rt>はや</rt><rp>）</rp></ruby>く<r",
+      "unknownWords": [
+        "く治"
+      ]
+    }
+  ],
+  "43": [
+    {
+      "id": 29,
+      "index": 29,
+      "question": "<b><ruby>渡辺<rp>（</rp><rt>わたなべ</rt><rp>）</rp></ruby>さんは＿＿＿そうです。コーヒーを<ruby>飲<rp>（</rp><rt>の</rt><rp>）<",
+      "unknownWords": [
+        "渡辺"
+      ]
+    },
+    {
+      "id": 94,
+      "index": 94,
+      "question": "<b><ruby>鈴<ruby>木<rp>（</rp><rt>き</rt><rp>）</rp></ruby><rp>（</rp><rt>すずき</rt><rp>）</rp></ruby>さん、<rub",
+      "unknownWords": [
+        "鈴木"
+      ]
+    },
+    {
+      "id": 121,
+      "index": 121,
+      "question": "<b><ruby>佐藤<rp>（</rp><rt>さとう</rt><rp>）</rp></ruby>さんはきょうは<ruby>仕事<rp>（</rp><rt>しごと</rt><rp>）</rp></r",
+      "unknownWords": [
+        "佐藤"
+      ]
+    },
+    {
+      "id": 183,
+      "index": 183,
+      "question": "<b><ruby>約束<rp>（</rp><rt>やくそく</rt><rp>）</rp></ruby>の<ruby>時<ruby>間<rp>（</rp><rt>あいだ</rt><rp>）</rp></",
+      "unknownWords": [
+        "し急",
+        "ぎましょう"
+      ]
+    }
+  ],
+  "44": [
+    {
+      "id": 52,
+      "index": 52,
+      "question": "<b>カット</b>",
+      "unknownWords": [
+        "カット"
+      ]
+    },
+    {
+      "id": 69,
+      "index": 69,
+      "question": "<b>洋食</b>",
+      "unknownWords": [
+        "洋食"
+      ]
+    },
+    {
+      "id": 94,
+      "index": 94,
+      "question": "<b><ruby>鈴<ruby>木<rp>（</rp><rt>き</rt><rp>）</rp></ruby><rp>（</rp><rt>すずき</rt><rp>）</rp></ruby>さんは＿＿＿<",
+      "unknownWords": [
+        "鈴木"
+      ]
+    },
+    {
+      "id": 121,
+      "index": 121,
+      "question": "<b>和食</b>",
+      "unknownWords": [
+        "和食"
+      ]
+    }
+  ],
+  "45": [
+    {
+      "id": 2,
+      "index": 2,
+      "question": "<b><ruby>電車<rp>（</rp><rt>でんしゃ</rt><rp>）</rp></ruby>にかばんを（　）<ruby>場合<rp>（</rp><rt>ばあい</rt><rp>）</rp><",
+      "unknownWords": [
+        "場合"
+      ]
+    },
+    {
+      "id": 6,
+      "index": 6,
+      "question": "<b><ruby>書<rp>（</rp><rt>か</rt><rp>）</rp></き<ruby>方<rp>（</rp><rt>かた</rt><rp>）</rp></ruby>を（　）<ruby>場合",
+      "unknownWords": [
+        "場合"
+      ]
+    },
+    {
+      "id": 9,
+      "index": 9,
+      "question": "<b><ruby>予約<rp>（</rp><rt>よやく</rt><rp>）</rp></ruby>を（　）<ruby>場合<rp>（</rp><rt>ばあい</rt><rp>）</rp></ruby",
+      "unknownWords": [
+        "場合"
+      ]
+    },
+    {
+      "id": 12,
+      "index": 12,
+      "question": "<b>（　）<ruby>場合<rp>（</rp><rt>ばあい</rt><rp>）</rp></ruby>は、<ruby>野球<rp>（</rp><rt>やきゅう</rt><rp>）</rp></ru",
+      "unknownWords": [
+        "場合"
+      ]
+    },
+    {
+      "id": 18,
+      "index": 18,
+      "question": "<b><ruby>途中<rp>（</rp><rt>とちゅう</rt><rp>）</rp></ruby>でコピーを（　）<ruby>場合<rp>（</rp><rt>ばあい</rt><rp>）</rp><",
+      "unknownWords": [
+        "場合"
+      ]
+    },
+    {
+      "id": 84,
+      "index": 84,
+      "question": "<b>３０<ruby>日<rp>（</rp><rt>にち</rt><rp>）</rp></ruby>までにお<ruby>金<rp>（</rp><rt>かね</rt><rp>）</rp></ruby>が",
+      "unknownWords": [
+        "場合"
+      ]
+    },
+    {
+      "id": 94,
+      "index": 94,
+      "question": "<b>この<ruby>旅<ruby>行<rp>（</rp><rt>い</rt><rp>）</rp></ruby><rp>（</rp><rt>りょこう</rt><rp>）</rp></ruby>は<ru",
+      "unknownWords": [
+        "場合"
+      ]
+    },
+    {
+      "id": 96,
+      "index": 96,
+      "question": "<b>（　）<ruby>場合<rp>（</rp><rt>ばあい</rt><rp>）</rp></ruby>は、すぐ<ruby>火<rp>（</rp><rt>ひ</rt><rp>）</rp></を<ru",
+      "unknownWords": [
+        "場合"
+      ]
+    },
+    {
+      "id": 100,
+      "index": 100,
+      "question": "<b><ruby>事故<rp>（</rp><rt>じこ</rt><rp>）</rp></ruby>が（　）<ruby>場合<rp>（</rp><rt>ばあい</rt><rp>）</rp></ruby>",
+      "unknownWords": [
+        "場合"
+      ]
+    },
+    {
+      "id": 112,
+      "index": 112,
+      "question": "<b>なかなか<ruby>熱<rp>（</rp><rt>ねつ</rt><rp>）</rp></ruby>が（　）<ruby>場合<rp>（</rp><rt>ばあい</rt><rp>）</rp></ru",
+      "unknownWords": [
+        "場合"
+      ]
+    },
+    {
+      "id": 126,
+      "index": 126,
+      "question": "<b><ruby>日<ruby>本<rp>（</rp><rt>ほん</rt><rp>）</rp></ruby><rp>（</rp><rt>にほん</rt><rp>）</rp></ruby>でお<rub",
+      "unknownWords": [
+        "場合"
+      ]
+    },
+    {
+      "id": 144,
+      "index": 144,
+      "question": "<b><ruby>初<rp>（</rp><rt>はじ</rt><rp>）</rp></めて<ruby>会<rp>（</rp><rt>あ</rt><rp>）</rp></った<ruby>人<rp>（</",
+      "unknownWords": [
+        "場合"
+      ]
+    },
+    {
+      "id": 152,
+      "index": 152,
+      "question": "<b>（　）<ruby>場合<rp>（</rp><rt>ばあい</rt><rp>）</rp></ruby>は、きれいな<ruby>紙<rp>（</rp><rt>かみ</rt><rp>）</rp></r",
+      "unknownWords": [
+        "場合"
+      ]
+    },
+    {
+      "id": 155,
+      "index": 155,
+      "question": "<b><ruby>体<rp>（</rp><rt>からだ</rt><rp>）</rp></ruby>の<ruby>調<ruby>子<rp>（</rp><rt>こ</rt><rp>）</rp></ruby",
+      "unknownWords": [
+        "場合"
+      ]
+    },
+    {
+      "id": 157,
+      "index": 157,
+      "question": "<b>お<ruby>釣<rp>（</rp><rt>つ</rt><rp>）</rp></りが（　）<ruby>場合<rp>（</rp><rt>ばあい</rt><rp>）</rp></ruby>は、このレ",
+      "unknownWords": [
+        "場合"
+      ]
+    },
+    {
+      "id": 161,
+      "index": 161,
+      "question": "<b><ruby>資料<rp>（</rp><rt>しりょう</rt><rp>）</rp></ruby>が（　）<ruby>場合<rp>（</rp><rt>ばあい</rt><rp>）</rp></rub",
+      "unknownWords": [
+        "場合"
+      ]
+    },
+    {
+      "id": 171,
+      "index": 171,
+      "question": "<b>（　）<ruby>場合<rp>（</rp><rt>ばあい</rt><rp>）</rp></ruby>は、<ruby>休<rp>（</rp><rt>やす</rt><rp>）</rp></ruby>",
+      "unknownWords": [
+        "場合"
+      ]
+    },
+    {
+      "id": 174,
+      "index": 174,
+      "question": "<b>あしたの<ruby>花火<rp>（</rp><rt>はなび</rt><rp>）</rp></ruby><ruby>大<ruby>会<rp>（</rp><rt>あ</rt><rp>）</rp></",
+      "unknownWords": [
+        "場合"
+      ]
+    },
+    {
+      "id": 176,
+      "index": 176,
+      "question": "<b>まちがい<ruby>電<ruby>話<rp>（</rp><rt>はなし</rt><rp>）</rp></ruby><rp>（</rp><rt>でんわ</rt><rp>）</rp></ruby>を",
+      "unknownWords": [
+        "場合"
+      ]
+    },
+    {
+      "id": 177,
+      "index": 177,
+      "question": "<b><ruby>保証書<rp>（</rp><rt>ほしょうしょ</rt><rp>）</rp></ruby>が（　）<ruby>場合<rp>（</rp><rt>ばあい</rt><rp>）</rp></",
+      "unknownWords": [
+        "場合"
+      ]
+    }
+  ],
+  "46": [
+    {
+      "id": 4,
+      "index": 4,
+      "question": "<b>この<ruby>赤<rp>（</rp><rt>あか</rt><rp>）</rp></ruby>ちゃんは<ruby>先<ruby>月<rp>（</rp><rt>つき</rt><rp>）</rp><",
+      "unknownWords": [
+        "まれた"
+      ]
+    },
+    {
+      "id": 50,
+      "index": 50,
+      "question": "<b><ruby>鈴<ruby>木<rp>（</rp><rt>き</rt><rp>）</rp></ruby><rp>（</rp><rt>すずき</rt><rp>）</rp></ruby>さんはタイに５",
+      "unknownWords": [
+        "鈴木"
+      ]
+    }
+  ],
+  "47": [
+    {
+      "id": 69,
+      "index": 69,
+      "question": "<b><ruby>鈴<ruby>木<rp>（</rp><rt>き</rt><rp>）</rp></ruby><rp>（</rp><rt>すずき</rt><rp>）</rp></ruby>さんは<rub",
+      "unknownWords": [
+        "鈴木"
+      ]
+    }
+  ],
+  "48": [
+    {
+      "id": 111,
+      "index": 111,
+      "question": "<b><ruby>公園<rp>（</rp><rt>こうえん</rt><rp>）</rp></ruby>で<ruby>子<rp>（</rp><rt>こ</rt><rp>）</rp></ruby>ども（　",
+      "unknownWords": [
+        "ばせます"
+      ]
+    }
+  ],
+  "49": [
+    {
+      "id": 93,
+      "index": 93,
+      "question": "<b><ruby>社<ruby>長<rp>（</rp><rt>なが</rt><rp>）</rp></ruby><rp>（</rp><rt>しゃちょう</rt><rp>）</rp></ruby>、ゴルフ",
+      "unknownWords": [
+        "毎週"
+      ]
+    }
+  ],
+  "50": [
+    {
+      "id": 123,
+      "index": 123,
+      "question": "<b><ruby>伊藤<rp>（</rp><rt>いとう</rt><rp>）</rp></ruby><ruby>先<ruby>生<rp>（</rp><rt>う</rt><rp>）</rp></ruby",
+      "unknownWords": [
+        "伊藤"
+      ]
+    }
+  ]
+}

@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "question": "<b><ruby>松本<rp>（</rp><rt>まつもと</rt><rp>）</rp></ruby>さんは<ruby>体<rp>（</rp><rt>からだ</rt><rp>）</rp></ruby>の<ruby>調子<rp>（</rp><rt>ちょうし</rt><rp>）</rp></ruby>が<ruby>悪<rp>（</rp><rt>わる</rt><rp>）</rp></ruby>いんですか。<p>…（　）と<ruby>言<rp>（</rp><rt>い</rt><rp>）</rp></っていました。</p></b>",
+    "question": "<b><ruby>松<ruby>本<rp>（</rp><rt>ほん</rt><rp>）</rp></ruby><rp>（</rp><rt>まつもと</rt><rp>）</rp></ruby>さんは<ruby>体<rp>（</rp><rt>からだ</rt><rp>）</rp></ruby>の<ruby>調<ruby>子<rp>（</rp><rt>こ</rt><rp>）</rp></ruby><rp>（</rp><rt>ちょうし</rt><rp>）</rp></ruby>が<ruby>悪<rp>（</rp><rt>わる</rt><rp>）</rp></ruby>いんですか。<p>…（　）と<ruby>言<rp>（</rp><rt>い</rt><rp>）</rp></っていました。</p></b>",
     "options": [
       "あまりよく",
       "あまりよくない"
@@ -90,7 +90,7 @@
       "おいわい",
       "せんたくき"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "difficulty": 1
   },
   {
@@ -129,7 +129,7 @@
   },
   {
     "id": 12,
-    "question": "<b>明日</b>",
+    "question": "<b>明<ruby>日<rp>（</rp><rt>ひ</rt><rp>）</rp></ruby></b>",
     "options": [
       "あす",
       "けいさつ",
@@ -177,7 +177,7 @@
   },
   {
     "id": 16,
-    "question": "<b>第一</b>",
+    "question": "<b>第<ruby>一<rp>（</rp><rt>いち</rt><rp>）</rp></ruby></b>",
     "options": [
       "あきらめます",
       "しらせます",
@@ -189,7 +189,7 @@
   },
   {
     "id": 17,
-    "question": "<b>（　）<ruby>時間<rp>（</rp><rt>じかん</rt><rp>）</rp></ruby>がない。<ruby>急<rp>（</rp><rt>いそ</rt><rp>）</rp></ruby>ごう。</b>",
+    "question": "<b>（　）<ruby>時<ruby>間<rp>（</rp><rt>あいだ</rt><rp>）</rp></ruby><rp>（</rp><rt>じかん</rt><rp>）</rp></ruby>がない。<ruby>急<rp>（</rp><rt>いそ</rt><rp>）</rp></ruby>ごう。</b>",
     "options": [
       "まだ",
       "もう"
@@ -326,7 +326,7 @@
       "しらせます",
       "どういう～"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "difficulty": 1
   },
   {
@@ -367,7 +367,7 @@
   },
   {
     "id": 32,
-    "question": "<b>重い病気</b>",
+    "question": "<b>重い<ruby>病気<rp>（</rp><rt>びょうき</rt><rp>）</rp></ruby></b>",
     "options": [
       "あんぜんぐつ",
       "おもいびょうき",
@@ -463,7 +463,7 @@
   },
   {
     "id": 40,
-    "question": "<b>あそこ（１）「止まれ」（２）<ruby>書<rp>（</rp><rt>か</rt><rp>）</rp></ruby>いてあります。</b><br/><b>(1)</b>",
+    "question": "<b>あそこ（１）「<ruby>止<rp>（</rp><rt>と</rt><rp>）</rp></ruby>まれ」（２）<ruby>書<rp>（</rp><rt>か</rt><rp>）</rp></ruby>いてあります。</b><br/><b>(1)</b>",
     "options": [
       "に",
       "は"
@@ -528,12 +528,12 @@
       "はこびます",
       "ほんじつきゅうぎょう"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "difficulty": 1
   },
   {
     "id": 46,
-    "question": "<b>本日休業</b>",
+    "question": "<b><ruby>本<rp>（</rp><rt>ほん</rt><rp>）</rp></ruby><ruby>日<rp>（</rp><rt>ひ</rt><rp>）</rp></ruby><ruby>休<rp>（</rp><rt>やす</rt><rp>）</rp></ruby>業</b>",
     "options": [
       "たちいりきんし",
       "ちゅうしゃいはん",
@@ -680,7 +680,7 @@
       "どういう～",
       "ばっきん"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "difficulty": 1
   },
   {
@@ -704,7 +704,7 @@
       "ほんしゃ",
       "レバー"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "difficulty": 1
   },
   {
@@ -800,7 +800,7 @@
       "むりょう",
       "ファックス"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "difficulty": 1
   },
   {
@@ -812,7 +812,7 @@
       "にげます",
       "トラック"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "difficulty": 1
   },
   {
@@ -858,7 +858,7 @@
       "レバー",
       "ロッカー"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "difficulty": 1
   },
   {
@@ -882,7 +882,7 @@
       "きぞく",
       "ぎそか"
     ],
-    "correctAnswer": 2,
+    "correctAnswer": 1,
     "difficulty": 1
   },
   {
@@ -923,7 +923,7 @@
   },
   {
     "id": 79,
-    "question": "<b>「立入禁止」<p>A：この<ruby>漢字<rp>（</rp><rt>かんじ</rt><rp>）</rp></ruby>は（１）<ruby>読<rp>（</rp><rt>よ</rt><rp>）</rp></ruby>みますか。</p><p>B：「たちいりきんし」です。</p><p>A：（２）<ruby>意味<rp>（</rp><rt>いみ</rt><rp>）</rp></ruby>ですか。</p><p>B：ここに（３）という<ruby>意味<rp>（</rp><rt>いみ</rt><rp>）</rp></ruby>です。</p></b><br/><b>(3)</b>",
+    "question": "<b>「<ruby>立<rp>（</rp><rt>た</rt><rp>）</rp></ruby><ruby>入<rp>（</rp><rt>はい</rt><rp>）</rp></ruby>禁<ruby>止<rp>（</rp><rt>と</rt><rp>）</rp></ruby>」<p>A：この<ruby>漢字<rp>（</rp><rt>かんじ</rt><rp>）</rp></ruby>は（１）<ruby>読<rp>（</rp><rt>よ</rt><rp>）</rp></ruby>みますか。</p><p>B：「たちいりきんし」です。</p><p>A：（２）<ruby>意味<rp>（</rp><rt>いみ</rt><rp>）</rp></ruby>ですか。</p><p>B：ここに（３）という<ruby>意味<rp>（</rp><rt>いみ</rt><rp>）</rp></ruby>です。</p></b><br/><b>(3)</b>",
     "options": [
       "入るな",
       "入れ"
@@ -952,12 +952,12 @@
       "ぜき",
       "ぜぎ"
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 0,
     "difficulty": 1
   },
   {
     "id": 82,
-    "question": "<b>第一</b>",
+    "question": "<b>第<ruby>一<rp>（</rp><rt>いち</rt><rp>）</rp></ruby></b>",
     "options": [
       "けいさつ",
       "さわぎます",
@@ -976,7 +976,7 @@
       "むりょ",
       "むりょう"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "difficulty": 1
   },
   {
@@ -988,7 +988,7 @@
       "せき",
       "まもります"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "difficulty": 1
   },
   {
@@ -1020,7 +1020,7 @@
       "どういう～",
       "むりょう"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "difficulty": 1
   },
   {
@@ -1049,14 +1049,14 @@
   },
   {
     "id": 90,
-    "question": "<b>無料</b>",
+    "question": "<b><ruby>無料<rp>（</rp><rt>むりょう</rt><rp>）</rp></ruby></b>",
     "options": [
       "かなしみ",
       "せき",
       "ほんしゃ",
       "むりょう"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "difficulty": 2
   },
   {
@@ -1068,7 +1068,7 @@
       "マーク",
       "～き"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "difficulty": 1
   },
   {
@@ -1155,7 +1155,7 @@
   },
   {
     "id": 99,
-    "question": "<b>レポートは1<ruby>週間<rp>（</rp><rt>しゅうかん</rt><rp>）</rp></ruby><ruby>以内<rp>（</rp><rt>いない</rt><rp>）</rp></ruby>（　）<ruby>出<rp>（</rp><rt>だ</rt><rp>）</rp></してください。</b>",
+    "question": "<b>レポートは1<ruby>週<ruby>間<rp>（</rp><rt>あいだ</rt><rp>）</rp></ruby><rp>（</rp><rt>しゅうかん</rt><rp>）</rp></ruby><ruby>以内<rp>（</rp><rt>いない</rt><rp>）</rp></ruby>（　）<ruby>出<rp>（</rp><rt>だ</rt><rp>）</rp></してください。</b>",
     "options": [
       "に",
       "を"
@@ -1184,7 +1184,7 @@
       "クレーン",
       "ランプ"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "difficulty": 1
   },
   {
@@ -1196,7 +1196,7 @@
       "しらせます",
       "ちゅうしゃいはん"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "difficulty": 1
   },
   {
@@ -1225,7 +1225,7 @@
   },
   {
     "id": 105,
-    "question": "<b>あそこ（１）「止まれ」（２）<ruby>書<rp>（</rp><rt>か</rt><rp>）</rp></ruby>いてあります。</b><br/><b>(2)</b>",
+    "question": "<b>あそこ（１）「<ruby>止<rp>（</rp><rt>と</rt><rp>）</rp></ruby>まれ」（２）<ruby>書<rp>（</rp><rt>か</rt><rp>）</rp></ruby>いてあります。</b><br/><b>(2)</b>",
     "options": [
       "と",
       "を"
@@ -1302,7 +1302,7 @@
       "ほんしゃ",
       "クレーン"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "difficulty": 1
   },
   {
@@ -1341,7 +1341,7 @@
   },
   {
     "id": 115,
-    "question": "<b>「立入禁止」<p>A：この<ruby>漢字<rp>（</rp><rt>かんじ</rt><rp>）</rp></ruby>は（１）<ruby>読<rp>（</rp><rt>よ</rt><rp>）</rp></ruby>みますか。</p><p>B：「たちいりきんし」です。</p><p>A：（２）<ruby>意味<rp>（</rp><rt>いみ</rt><rp>）</rp></ruby>ですか。</p><p>B：ここに（３）という<ruby>意味<rp>（</rp><rt>いみ</rt><rp>）</rp></ruby>です。</p></b><br/><b>(1)</b>",
+    "question": "<b>「<ruby>立<rp>（</rp><rt>た</rt><rp>）</rp></ruby><ruby>入<rp>（</rp><rt>はい</rt><rp>）</rp></ruby>禁<ruby>止<rp>（</rp><rt>と</rt><rp>）</rp></ruby>」<p>A：この<ruby>漢字<rp>（</rp><rt>かんじ</rt><rp>）</rp></ruby>は（１）<ruby>読<rp>（</rp><rt>よ</rt><rp>）</rp></ruby>みますか。</p><p>B：「たちいりきんし」です。</p><p>A：（２）<ruby>意味<rp>（</rp><rt>いみ</rt><rp>）</rp></ruby>ですか。</p><p>B：ここに（３）という<ruby>意味<rp>（</rp><rt>いみ</rt><rp>）</rp></ruby>です。</p></b><br/><b>(1)</b>",
     "options": [
       "どういう",
       "何と"
@@ -1370,7 +1370,7 @@
       "なげます",
       "はこびます"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "difficulty": 1
   },
   {
@@ -1394,7 +1394,7 @@
       "はしります",
       "～いない"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "difficulty": 1
   },
   {
@@ -1418,7 +1418,7 @@
       "どういう～",
       "ひじょうぐち"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "difficulty": 1
   },
   {
@@ -1481,7 +1481,7 @@
   },
   {
     "id": 127,
-    "question": "<b>使用中</b>",
+    "question": "<b><ruby>使<rp>（</rp><rt>つか</rt><rp>）</rp></ruby>用中</b>",
     "options": [
       "しようじゅ",
       "しようじゅう",
@@ -1539,7 +1539,7 @@
   },
   {
     "id": 132,
-    "question": "<b><ruby>部長<rp>（</rp><rt>ぶちょう</rt><rp>）</rp></ruby>は<ruby>席<rp>（</rp><rt>せき</rt><rp>）</rp></ruby>（　）<ruby>外<rp>（</rp><rt>はず</rt><rp>）</rp></ruby>しています。</b>",
+    "question": "<b><ruby>部<ruby>長<rp>（</rp><rt>なが</rt><rp>）</rp></ruby><rp>（</rp><rt>ぶちょう</rt><rp>）</rp></ruby>は<ruby>席<rp>（</rp><rt>せき</rt><rp>）</rp></ruby>（　）<ruby>外<rp>（</rp><rt>はず</rt><rp>）</rp></ruby>しています。</b>",
     "options": [
       "から",
       "を"
@@ -1549,7 +1549,7 @@
   },
   {
     "id": 133,
-    "question": "<b>「立入禁止」<p>A：この<ruby>漢字<rp>（</rp><rt>かんじ</rt><rp>）</rp></ruby>は（１）<ruby>読<rp>（</rp><rt>よ</rt><rp>）</rp></ruby>みますか。</p><p>B：「たちいりきんし」です。</p><p>A：（２）<ruby>意味<rp>（</rp><rt>いみ</rt><rp>）</rp></ruby>ですか。</p><p>B：ここに（３）という<ruby>意味<rp>（</rp><rt>いみ</rt><rp>）</rp></ruby>です。</p></b><br/><b>(2)</b>",
+    "question": "<b>「<ruby>立<rp>（</rp><rt>た</rt><rp>）</rp></ruby><ruby>入<rp>（</rp><rt>はい</rt><rp>）</rp></ruby>禁<ruby>止<rp>（</rp><rt>と</rt><rp>）</rp></ruby>」<p>A：この<ruby>漢字<rp>（</rp><rt>かんじ</rt><rp>）</rp></ruby>は（１）<ruby>読<rp>（</rp><rt>よ</rt><rp>）</rp></ruby>みますか。</p><p>B：「たちいりきんし」です。</p><p>A：（２）<ruby>意味<rp>（</rp><rt>いみ</rt><rp>）</rp></ruby>ですか。</p><p>B：ここに（３）という<ruby>意味<rp>（</rp><rt>いみ</rt><rp>）</rp></ruby>です。</p></b><br/><b>(2)</b>",
     "options": [
       "どういう",
       "何と"
@@ -1602,7 +1602,7 @@
       "ファックス",
       "ロッカー"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "difficulty": 1
   },
   {
@@ -1614,7 +1614,7 @@
       "ランプ",
       "ロッカー"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "difficulty": 1
   },
   {
@@ -1631,7 +1631,7 @@
   },
   {
     "id": 140,
-    "question": "<b>洗濯機</b>",
+    "question": "<b><ruby>洗濯<rp>（</rp><rt>せんたく</rt><rp>）</rp></ruby>機</b>",
     "options": [
       "せんたくき",
       "ばっきん",
@@ -1708,7 +1708,7 @@
       "ほんじつきゅうぎょう",
       "～いない"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "difficulty": 1
   },
   {
@@ -1720,12 +1720,12 @@
       "ひじょうぐち",
       "ほんじつきゅうぎょう"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "difficulty": 1
   },
   {
     "id": 148,
-    "question": "<b>第一</b>",
+    "question": "<b>第<ruby>一<rp>（</rp><rt>いち</rt><rp>）</rp></ruby></b>",
     "options": [
       "きそく",
       "だいいち",
@@ -1737,7 +1737,7 @@
   },
   {
     "id": 149,
-    "question": "<b>罰金</b>",
+    "question": "<b>罰<ruby>金<rp>（</rp><rt>きん</rt><rp>）</rp></ruby></b>",
     "options": [
       "さっき",
       "ざっき",
@@ -1756,7 +1756,7 @@
       "はしります",
       "クレーン"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "difficulty": 1
   },
   {
@@ -1768,7 +1768,7 @@
       "ロッカー",
       "～いない"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "difficulty": 1
   },
   {
@@ -1860,7 +1860,7 @@
       "ちゅうしゃいはん",
       "トラック"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "difficulty": 1
   },
   {
@@ -1889,7 +1889,7 @@
   },
   {
     "id": 162,
-    "question": "<b>非常口</b>",
+    "question": "<b>非常<ruby>口<rp>（</rp><rt>くち</rt><rp>）</rp></ruby></b>",
     "options": [
       "いりぐち",
       "でぐち",
@@ -2014,7 +2014,7 @@
       "せんたくき",
       "ロッカー"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "difficulty": 1
   },
   {
@@ -2074,7 +2074,7 @@
       "るす",
       "ロッカー"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "difficulty": 1
   }
 ]

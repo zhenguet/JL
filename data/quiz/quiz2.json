@@ -8,19 +8,19 @@
       "は",
       "も"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "difficulty": 3
   },
   {
     "id": 2,
-    "question": "<b>鞄</b>",
+    "question": "<b><ruby>鞄<rp>（</rp><rt>かばん</rt><rp>）</rp></ruby></b>",
     "options": [
       "かっばん",
       "かば",
       "かばん",
       "かばんん"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "difficulty": 2
   },
   {
@@ -42,7 +42,7 @@
       "はい、ほんです",
       "ほん"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "difficulty": 2
   },
   {
@@ -54,7 +54,7 @@
       "それ",
       "どれ"
     ],
-    "correctAnswer": 2,
+    "correctAnswer": 0,
     "difficulty": 3
   },
   {
@@ -86,7 +86,7 @@
       "ざっしです",
       "はい、ざっしです"
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 0,
     "difficulty": 2
   },
   {
@@ -110,7 +110,7 @@
       "は",
       "も"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "difficulty": 3
   },
   {
@@ -131,7 +131,7 @@
       "Máy đánh chữ",
       "Máy ảnh"
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 2,
     "difficulty": 1
   },
   {
@@ -172,14 +172,14 @@
   },
   {
     "id": 16,
-    "question": "<b>鉛筆</b>",
+    "question": "<b><ruby>鉛筆<rp>（</rp><rt>えんぴつ</rt><rp>）</rp></ruby></b>",
     "options": [
       "えいびつ",
       "えいぴつ",
       "えんびつ",
       "えんぴつ"
     ],
-    "correctAnswer": 2,
+    "correctAnswer": 3,
     "difficulty": 2
   },
   {
@@ -191,19 +191,19 @@
       "ほん",
       "ノート"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "difficulty": 1
   },
   {
     "id": 18,
-    "question": "<b>手帳</b>",
+    "question": "<b><ruby>手帳<rp>（</rp><rt>てちょう</rt><rp>）</rp></ruby></b>",
     "options": [
       "てちょ",
       "てちょう",
       "てちょうう",
       "てっちょう"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "difficulty": 2
   },
   {
@@ -215,7 +215,7 @@
       "Từ điển",
       "Vở"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "difficulty": 1
   },
   {
@@ -239,7 +239,7 @@
       "Của ai",
       "Ở đâu"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "difficulty": 1
   },
   {
@@ -251,12 +251,12 @@
       "Điện thoại",
       "Đồng hồ"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "difficulty": 1
   },
   {
     "id": 23,
-    "question": "<b>新聞</b>",
+    "question": "<b><ruby>新<ruby>聞<rp>（</rp><rt>きこ</rt><rp>）</rp></ruby><rp>（</rp><rt>しんぶん</rt><rp>）</rp></ruby></b>",
     "options": [
       "しんふん",
       "しんぶん",
@@ -287,7 +287,7 @@
       "Cái này (đứng trước danh từ)",
       "Cái đó (đứng trước danh từ)"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "difficulty": 1
   },
   {
@@ -299,7 +299,7 @@
       "Cửa",
       "Ổ khoá"
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 0,
     "difficulty": 1
   },
   {
@@ -311,7 +311,7 @@
       "Của ai",
       "Ở đâu"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "difficulty": 1
   },
   {
@@ -323,7 +323,7 @@
       "それ",
       "どれ"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "difficulty": 2
   },
   {
@@ -347,7 +347,7 @@
       "は",
       "も"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "difficulty": 1
   },
   {
@@ -383,7 +383,7 @@
       "それ",
       "どれ"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "difficulty": 2
   },
   {
@@ -395,7 +395,7 @@
       "Cái này (đứng trước danh từ)",
       "Cái đó (đứng trước danh từ)"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "difficulty": 1
   },
   {
@@ -407,7 +407,7 @@
       "Cái này (gần người nói)",
       "Cái đó (gần người nghe)"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "difficulty": 1
   },
   {
@@ -419,31 +419,31 @@
       "Cái này",
       "Cái đó"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "difficulty": 1
   },
   {
     "id": 37,
-    "question": "<b>本</b>",
+    "question": "<b><ruby>本<rp>（</rp><rt>ほん</rt><rp>）</rp></ruby></b>",
     "options": [
       "からだ",
       "はん",
       "ばん",
       "ほん"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "difficulty": 2
   },
   {
     "id": 38,
-    "question": "<b>本</b>",
+    "question": "<b><ruby>本<rp>（</rp><rt>ほん</rt><rp>）</rp></ruby></b>",
     "options": [
       "ほ",
       "ほん",
       "ほんん",
       "ほーん"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "difficulty": 2
   },
   {
@@ -455,7 +455,7 @@
       "カメラ",
       "ペン"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "difficulty": 1
   },
   {
@@ -467,7 +467,7 @@
       "Máy tính",
       "Máy ảnh"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "difficulty": 1
   },
   {
@@ -515,7 +515,7 @@
       "Cái này (đứng trước danh từ, gần người nói)",
       "Cái đó (đứng trước danh từ, gần người nghe)"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "difficulty": 1
   },
   {
@@ -539,7 +539,7 @@
       "Sách",
       "Vở"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "difficulty": 1
   },
   {
@@ -563,7 +563,7 @@
       "それ",
       "どれ"
     ],
-    "correctAnswer": 2,
+    "correctAnswer": 0,
     "difficulty": 2
   },
   {
@@ -575,7 +575,7 @@
       "Cái này (gần người nói)",
       "Cái đó (gần người nghe)"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "difficulty": 1
   },
   {
@@ -604,14 +604,14 @@
   },
   {
     "id": 52,
-    "question": "<b>辞書</b>",
+    "question": "<b><ruby>辞書<rp>（</rp><rt>じしょ</rt><rp>）</rp></ruby></b>",
     "options": [
       "かしょ",
       "かしょう",
       "じしょ",
       "じしょう"
     ],
-    "correctAnswer": 3,
+    "correctAnswer": 2,
     "difficulty": 2
   },
   {
@@ -623,7 +623,7 @@
       "Cái đó (đứng một mình)",
       "Cái đó (đứng trước danh từ)"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "difficulty": 1
   },
   {
@@ -645,7 +645,7 @@
       "ほん",
       "ノート"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "difficulty": 1
   },
   {
@@ -681,7 +681,7 @@
       "Bút chì kim",
       "Bút máy"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "difficulty": 1
   },
   {
@@ -693,7 +693,7 @@
       "時折",
       "時計"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "difficulty": 1
   },
   {
@@ -703,7 +703,7 @@
       "はい、ほんです",
       "ほんです"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "difficulty": 2
   },
   {
@@ -715,7 +715,7 @@
       "は",
       "も"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "difficulty": 1
   },
   {
@@ -727,7 +727,7 @@
       "Không phải",
       "Đúng vậy"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "difficulty": 1
   },
   {
@@ -763,7 +763,7 @@
       "Máy ảnh",
       "Điện thoại"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "difficulty": 1
   },
   {
@@ -809,7 +809,7 @@
       "ほん",
       "ノート"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "difficulty": 1
   },
   {
@@ -821,7 +821,7 @@
       "Cái nào (đứng trước danh từ)",
       "Của ai"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "difficulty": 1
   },
   {
@@ -848,14 +848,14 @@
   },
   {
     "id": 73,
-    "question": "<b>鍵</b>",
+    "question": "<b><ruby>鍵<rp>（</rp><rt>かぎ</rt><rp>）</rp></ruby></b>",
     "options": [
       "か",
       "かぎ",
       "かぎい",
       "かっぎ"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "difficulty": 2
   },
   {
@@ -867,7 +867,7 @@
       "Cái đó (đứng một mình)",
       "Cái đó (đứng trước danh từ)"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "difficulty": 1
   },
   {
@@ -879,7 +879,7 @@
       "は",
       "も"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "difficulty": 1
   },
   {
@@ -891,7 +891,7 @@
       "Cái này (đứng trước danh từ, gần người nói)",
       "Cái đó (đứng trước danh từ, gần người nghe)"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "difficulty": 1
   },
   {
@@ -915,19 +915,7 @@
       "Tivi",
       "Điện thoại"
     ],
-    "correctAnswer": 0,
-    "difficulty": 1
-  },
-  {
-    "id": 79,
-    "question": "<b>Máy vi tính</b>",
-    "options": [
-      "コンビュータ",
-      "コンビューター",
-      "コンピュータ",
-      "コンピューター"
-    ],
-    "correctAnswer": 2,
+    "correctAnswer": 1,
     "difficulty": 1
   },
   {
@@ -939,7 +927,7 @@
       "とけい",
       "ノート"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "difficulty": 1
   },
   {
@@ -987,7 +975,7 @@
       "Bút màu",
       "Bút mực"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "difficulty": 1
   },
   {
@@ -1011,7 +999,7 @@
       "とけい",
       "ペン"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "difficulty": 1
   },
   {
@@ -1023,7 +1011,7 @@
       "Sách",
       "Vở"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "difficulty": 1
   },
   {
@@ -1062,14 +1050,14 @@
   },
   {
     "id": 91,
-    "question": "<b>鉛筆</b>",
+    "question": "<b><ruby>鉛筆<rp>（</rp><rt>えんぴつ</rt><rp>）</rp></ruby></b>",
     "options": [
       "えんぴ",
       "えんぴっつ",
       "えんぴつ",
       "えんぴつつ"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "difficulty": 2
   },
   {
@@ -1089,7 +1077,7 @@
       "だれ",
       "なん"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "difficulty": 2
   },
   {
@@ -1123,7 +1111,7 @@
       "わたし",
       "わたしの"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "difficulty": 3
   },
   {
@@ -1135,7 +1123,7 @@
       "それ",
       "どれ"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "difficulty": 2
   },
   {
@@ -1146,7 +1134,7 @@
       "拿",
       "禽"
     ],
-    "correctAnswer": 2,
+    "correctAnswer": 0,
     "difficulty": 1
   },
   {
@@ -1182,7 +1170,7 @@
       "Ví da",
       "Đồng hồ"
     ],
-    "correctAnswer": 3,
+    "correctAnswer": 0,
     "difficulty": 1
   },
   {
@@ -1206,7 +1194,7 @@
       "それ",
       "どれ"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "difficulty": 2
   },
   {
@@ -1322,7 +1310,7 @@
       "それ",
       "どれ"
     ],
-    "correctAnswer": 2,
+    "correctAnswer": 0,
     "difficulty": 2
   },
   {
@@ -1380,7 +1368,7 @@
       "デレビ",
       "デレピ"
     ],
-    "correctAnswer": 3,
+    "correctAnswer": 0,
     "difficulty": 1
   },
   {
@@ -1409,14 +1397,14 @@
   },
   {
     "id": 121,
-    "question": "<b>時計</b>",
+    "question": "<b><ruby>時計<rp>（</rp><rt>とけい</rt><rp>）</rp></ruby></b>",
     "options": [
       "とけ",
       "とけい",
       "とけいい",
       "とっけい"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "difficulty": 2
   },
   {
@@ -1433,7 +1421,7 @@
   },
   {
     "id": 123,
-    "question": "<b>時計</b>",
+    "question": "<b><ruby>時計<rp>（</rp><rt>とけい</rt><rp>）</rp></ruby></b>",
     "options": [
       "とうけい",
       "とけい",
@@ -1464,7 +1452,7 @@
       "コーヒ",
       "コーヒー"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "difficulty": 1
   },
   {
@@ -1476,7 +1464,7 @@
       "は",
       "も"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "difficulty": 1
   },
   {
@@ -1488,19 +1476,19 @@
       "Cái này",
       "Cái đó"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "difficulty": 1
   },
   {
     "id": 128,
-    "question": "<b>辞書</b>",
+    "question": "<b><ruby>辞書<rp>（</rp><rt>じしょ</rt><rp>）</rp></ruby></b>",
     "options": [
       "じし",
       "じしょ",
       "じしょお",
       "じっしょ"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "difficulty": 2
   },
   {
@@ -1524,7 +1512,7 @@
       "Cái đó (đứng một mình)",
       "Cái đó (đứng trước danh từ)"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "difficulty": 1
   }
 ]

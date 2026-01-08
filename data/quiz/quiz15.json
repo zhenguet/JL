@@ -1,14 +1,14 @@
 [
   {
     "id": 1,
-    "question": "<b>家族</b>",
+    "question": "<b><ruby>家族<rp>（</rp><rt>かぞく</rt><rp>）</rp></ruby></b>",
     "options": [
       "かじょく",
       "かぞく",
       "しょうぞく",
       "しんじょく"
     ],
-    "correctAnswer": 2,
+    "correctAnswer": 1,
     "difficulty": 2
   },
   {
@@ -20,12 +20,12 @@
       "すんでいます",
       "ソフト"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "difficulty": 1
   },
   {
     "id": 3,
-    "question": "<b>知っています</b>",
+    "question": "<b><ruby>知<rp>（</rp><rt>し</rt><rp>）</rp></ruby>っています</b>",
     "options": [
       "しっています",
       "すみます",
@@ -48,26 +48,6 @@
     "difficulty": 2
   },
   {
-    "id": 5,
-    "question": "<b>サントスさんの<ruby>住所<rp>（</rp><rt>じゅうしょ</rt><rp>）</rp></ruby>を（　）いますか。</b>",
-    "options": [
-      "知って",
-      "知り"
-    ],
-    "correctAnswer": 1,
-    "difficulty": 2
-  },
-  {
-    "id": 6,
-    "question": "<b><ruby>窓<rp>（</rp><rt>まど</rt><rp>）</rp></ruby>を（　）もいいですか。</b>",
-    "options": [
-      "開けて",
-      "開けで"
-    ],
-    "correctAnswer": 0,
-    "difficulty": 2
-  },
-  {
     "id": 7,
     "question": "<b>ふく</b>",
     "options": [
@@ -76,7 +56,7 @@
       "quần áo",
       "sản phẩm, hàng"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "difficulty": 1
   },
   {
@@ -88,7 +68,7 @@
       "Làm",
       "Tán ngẫu"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "difficulty": 1
   },
   {
@@ -100,7 +80,7 @@
       "cư trú, sống, ở",
       "tài liệu, nguyên liệu"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "difficulty": 1
   },
   {
@@ -116,42 +96,6 @@
     "difficulty": 1
   },
   {
-    "id": 11,
-    "question": "<b>住みます</b>",
-    "options": [
-      "うります",
-      "すみます",
-      "もっています",
-      "ソフト"
-    ],
-    "correctAnswer": 0,
-    "difficulty": 2
-  },
-  {
-    "id": 12,
-    "question": "<b>cửa hàng cắt tóc</b>",
-    "options": [
-      "けんきゅうします",
-      "すみます",
-      "すわります",
-      "とこや"
-    ],
-    "correctAnswer": 0,
-    "difficulty": 1
-  },
-  {
-    "id": 13,
-    "question": "<b>経済</b>",
-    "options": [
-      "Khoa học",
-      "Kinh tế",
-      "Lịch sử",
-      "Văn hóa"
-    ],
-    "correctAnswer": 1,
-    "difficulty": 2
-  },
-  {
     "id": 14,
     "question": "<b>おもいだします</b>",
     "options": [
@@ -160,7 +104,7 @@
       "sống ở Tokyo",
       "sống, sinh sống [ở Tokyo]"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "difficulty": 1
   },
   {
@@ -172,7 +116,7 @@
       "tài liệu, nguyên liệu",
       "đại lý bán vé, phòng bán vé"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "difficulty": 1
   },
   {
@@ -200,35 +144,15 @@
     "difficulty": 2
   },
   {
-    "id": 18,
-    "question": "<b>A: <ruby>学校<rp>（</rp><rt>がっこう</rt><rp>）</rp></ruby>の<ruby>電話<rp>（</rp><rt>でんわ</rt><rp>）</rp></ruby><ruby>番号<rp>（</rp><rt>ばんごう</rt><rp>）</rp></ruby>を（１）。<p>B：いいえ、（２）。</p></b><p>(2)</p>",
-    "options": [
-      "知っていません",
-      "知りません"
-    ],
-    "correctAnswer": 1,
-    "difficulty": 3
-  },
-  {
-    "id": 19,
-    "question": "<b><ruby>大阪<rp>（</rp><rt>おおさか</rt><rp>）</rp></ruby>（　）<ruby>住<rp>（</rp><rt>す</rt><rp>）</rp></ruby>んでいます。</b>",
-    "options": [
-      "で",
-      "に"
-    ],
-    "correctAnswer": 0,
-    "difficulty": 2
-  },
-  {
     "id": 20,
-    "question": "<b>独身</b>",
+    "question": "<b><ruby>独身<rp>（</rp><rt>どくしん</rt><rp>）</rp></ruby></b>",
     "options": [
       "とくしん",
       "どくしん",
       "どくじん",
       "どっしん"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "difficulty": 2
   },
   {
@@ -240,7 +164,7 @@
       "sống ở Tokyo",
       "sống, sinh sống [ở Tokyo]"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "difficulty": 1
   },
   {
@@ -262,7 +186,7 @@
       "そちら",
       "どちら"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "difficulty": 2
   },
   {
@@ -278,18 +202,6 @@
     "difficulty": 1
   },
   {
-    "id": 25,
-    "question": "<b>có, mang, đang cầm, đang nắm</b>",
-    "options": [
-      "おきます",
-      "とこや",
-      "ふく",
-      "もっています"
-    ],
-    "correctAnswer": 0,
-    "difficulty": 1
-  },
-  {
     "id": 26,
     "question": "<b>どくしん</b>",
     "options": [
@@ -298,18 +210,8 @@
       "gia đình (gia đình của người khác)",
       "độc thân"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "difficulty": 1
-  },
-  {
-    "id": 27,
-    "question": "<b>ごはんを<ruby>食<rp>（</rp><rt>た</rt><rp>）</rp></ruby>べます。はし（　）<ruby>使<rp>（</rp><rt>つか</rt><rp>）</rp></ruby>います。</b>",
-    "options": [
-      "で",
-      "を"
-    ],
-    "correctAnswer": 0,
-    "difficulty": 2
   },
   {
     "id": 28,
@@ -320,7 +222,7 @@
       "tài liệu, nguyên liệu",
       "đứng"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "difficulty": 1
   },
   {
@@ -344,28 +246,8 @@
       "しっています",
       "にほんばし"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "difficulty": 1
-  },
-  {
-    "id": 31,
-    "question": "<b><ruby>木村<rp>（</rp><rt>きむら</rt><rp>）</rp></ruby>さんはコンピューターを（　）います。</b>",
-    "options": [
-      "つかって",
-      "つくって"
-    ],
-    "correctAnswer": 1,
-    "difficulty": 2
-  },
-  {
-    "id": 32,
-    "question": "<b><ruby>机<rp>（</rp><rt>つくえ</rt><rp>）</rp></ruby>（１）<ruby>上<rp>（</rp><rt>うえ</rt><rp>）</rp></ruby>（２）<ruby>資料<rp>（</rp><rt>しりょう</rt><rp>）</rp></ruby>（３）<ruby>置<rp>（</rp><rt>お</rt><rp>）</rp></ruby>きました。</b><p>(3)</p>",
-    "options": [
-      "で",
-      "を"
-    ],
-    "correctAnswer": 1,
-    "difficulty": 3
   },
   {
     "id": 33,
@@ -388,7 +270,7 @@
       "そちら",
       "どちら"
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 2,
     "difficulty": 2
   },
   {
@@ -400,7 +282,7 @@
       "資理",
       "資科"
     ],
-    "correctAnswer": 2,
+    "correctAnswer": 1,
     "difficulty": 1
   },
   {
@@ -412,7 +294,7 @@
       "おもいだします",
       "どくしん"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "difficulty": 1
   },
   {
@@ -436,7 +318,7 @@
       "nha sĩ",
       "sống ở Tokyo"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "difficulty": 1
   },
   {
@@ -448,7 +330,7 @@
       "せいひん",
       "もちます"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "difficulty": 1
   },
   {
@@ -460,19 +342,7 @@
       "とうきょうにすんでいます",
       "カタログ"
     ],
-    "correctAnswer": 0,
-    "difficulty": 1
-  },
-  {
-    "id": 41,
-    "question": "<b>dùng, sử dụng</b>",
-    "options": [
-      "うります",
-      "つかいます",
-      "もっています",
-      "ソフト"
-    ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "difficulty": 1
   },
   {
@@ -484,7 +354,7 @@
       "phần mềm",
       "tài liệu, nguyên liệu"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "difficulty": 1
   },
   {
@@ -496,7 +366,7 @@
       "とうきょうにすんでいます",
       "タオル"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "difficulty": 1
   },
   {
@@ -506,7 +376,7 @@
       "吸っては",
       "吸っても"
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 0,
     "difficulty": 3
   },
   {
@@ -522,30 +392,6 @@
     "difficulty": 2
   },
   {
-    "id": 46,
-    "question": "<b>製品</b>",
-    "options": [
-      "けんきゅうします",
-      "しりょう",
-      "すわります",
-      "せいひん"
-    ],
-    "correctAnswer": 0,
-    "difficulty": 2
-  },
-  {
-    "id": 47,
-    "question": "<b>ngồi [vào ghế]</b>",
-    "options": [
-      "したの「いもうと」",
-      "すわります",
-      "つくります",
-      "プレイガイド"
-    ],
-    "correctAnswer": 0,
-    "difficulty": 1
-  },
-  {
     "id": 48,
     "question": "<b>Bán</b>",
     "options": [
@@ -554,106 +400,6 @@
       "かいります"
     ],
     "correctAnswer": 0,
-    "difficulty": 1
-  },
-  {
-    "id": 49,
-    "question": "<b>日本橋</b>",
-    "options": [
-      "すわります",
-      "にほんばし",
-      "もっています",
-      "ソフト"
-    ],
-    "correctAnswer": 0,
-    "difficulty": 2
-  },
-  {
-    "id": 50,
-    "question": "<b><ruby>静<rp>（</rp><rt>しず</rt><rp>）</rp></ruby>かな<ruby>所<rp>（</rp><rt>しょ</rt><rp>）</rp></ruby>（　）<ruby>住<rp>（</rp><rt>す</rt><rp>）</rp></ruby>みたいです。</b>",
-    "options": [
-      "に",
-      "を"
-    ],
-    "correctAnswer": 0,
-    "difficulty": 2
-  },
-  {
-    "id": 51,
-    "question": "<b>có, mang, đang cầm, đang nắm</b>",
-    "options": [
-      "つかいます",
-      "つくります",
-      "もちます",
-      "もっています"
-    ],
-    "correctAnswer": 0,
-    "difficulty": 1
-  },
-  {
-    "id": 52,
-    "question": "<b><ruby>時々<rp>（</rp><rt>ときどき</rt><rp>）</rp></ruby><ruby>高校<rp>（</rp><rt>こうこう</rt><rp>）</rp></ruby>の<ruby>友達<rp>（</rp><rt>ともだち</rt><rp>）</rp></ruby>（　）<ruby>思<rp>（</rp><rt>おも</rt><rp>）</rp></ruby>い<ruby>出<rp>（</rp><rt>だ</rt><rp>）</rp></ruby>します。</b>",
-    "options": [
-      "に",
-      "を"
-    ],
-    "correctAnswer": 1,
-    "difficulty": 3
-  },
-  {
-    "id": 53,
-    "question": "<b>もっています</b>",
-    "options": [
-      "có, mang, đang cầm, đang nắm",
-      "cấm hút thuốc lá",
-      "xà phòng",
-      "đứng"
-    ],
-    "correctAnswer": 0,
-    "difficulty": 1
-  },
-  {
-    "id": 54,
-    "question": "<b>dùng, sử dụng</b>",
-    "options": [
-      "いすにすわります",
-      "すみます",
-      "つかいます",
-      "もっています"
-    ],
-    "correctAnswer": 0,
-    "difficulty": 1
-  },
-  {
-    "id": 55,
-    "question": "<b>この<ruby>辞書<rp>（</rp><rt>じしょ</rt><rp>）</rp></ruby>を（　）いいですか。</b>",
-    "options": [
-      "借りては",
-      "借りても"
-    ],
-    "correctAnswer": 0,
-    "difficulty": 2
-  },
-  {
-    "id": 56,
-    "question": "<b>この<ruby>電話<rp>（</rp><rt>でんわ</rt><rp>）</rp></ruby>を（　）もいいですか。</b>",
-    "options": [
-      "使いて",
-      "使って"
-    ],
-    "correctAnswer": 0,
-    "difficulty": 2
-  },
-  {
-    "id": 57,
-    "question": "<b>せんもん</b>",
-    "options": [
-      "専問",
-      "専聞",
-      "専門",
-      "専間"
-    ],
-    "correctAnswer": 3,
     "difficulty": 1
   },
   {
@@ -670,14 +416,14 @@
   },
   {
     "id": 59,
-    "question": "<b>住みます</b>",
+    "question": "<b><ruby>住<rp>（</rp><rt>す</rt><rp>）</rp></ruby>みます</b>",
     "options": [
       "じこくひょう",
       "すみます",
       "はいしゃ",
       "もちます"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "difficulty": 2
   },
   {
@@ -717,28 +463,6 @@
     "difficulty": 2
   },
   {
-    "id": 63,
-    "question": "<b>２０<ruby>歳<rp>（</rp><rt>さい</rt><rp>）</rp></ruby>までお<ruby>酒<rp>（</rp><rt>さけ</rt><rp>）</rp></ruby>を（　）はいけません。</b>",
-    "options": [
-      "飲みて",
-      "飲んで"
-    ],
-    "correctAnswer": 0,
-    "difficulty": 2
-  },
-  {
-    "id": 64,
-    "question": "<b>すわります</b>",
-    "options": [
-      "ngồi [vào ghế]",
-      "nhớ lại",
-      "quần áo",
-      "đặt, để"
-    ],
-    "correctAnswer": 0,
-    "difficulty": 1
-  },
-  {
     "id": 65,
     "question": "<b>しります</b>",
     "options": [
@@ -747,7 +471,7 @@
       "phần mềm",
       "quần áo"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "difficulty": 1
   },
   {
@@ -759,7 +483,7 @@
       "それ",
       "どれ"
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 2,
     "difficulty": 2
   },
   {
@@ -771,20 +495,8 @@
       "どくしん",
       "カタログ"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "difficulty": 1
-  },
-  {
-    "id": 68,
-    "question": "<b>椅子に座ります</b>",
-    "options": [
-      "いすにすわります",
-      "もちます",
-      "もっています",
-      "タオル"
-    ],
-    "correctAnswer": 0,
-    "difficulty": 2
   },
   {
     "id": 69,
@@ -795,7 +507,7 @@
       "nghiên cứu",
       "đại lý bán vé, phòng bán vé"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "difficulty": 1
   },
   {
@@ -807,7 +519,7 @@
       "往みます",
       "消みます"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "difficulty": 1
   },
   {
@@ -819,28 +531,8 @@
       "cầm, nắm, mang",
       "nghiên cứu"
     ],
-    "correctAnswer": 0,
-    "difficulty": 1
-  },
-  {
-    "id": 72,
-    "question": "<b><ruby>机<rp>（</rp><rt>つくえ</rt><rp>）</rp></ruby>（１）<ruby>上<rp>（</rp><rt>うえ</rt><rp>）</rp></ruby>（２）<ruby>資料<rp>（</rp><rt>しりょう</rt><rp>）</rp></ruby>（３）<ruby>置<rp>（</rp><rt>お</rt><rp>）</rp></ruby>きました。</b><p>(1)</p>",
-    "options": [
-      "で",
-      "の"
-    ],
     "correctAnswer": 1,
-    "difficulty": 3
-  },
-  {
-    "id": 73,
-    "question": "<b>わたしは<ruby>自動車<rp>（</rp><rt>じどうしゃ</rt><rp>）</rp></ruby>を（　）。</b>",
-    "options": [
-      "あります",
-      "持っています"
-    ],
-    "correctAnswer": 0,
-    "difficulty": 2
+    "difficulty": 1
   },
   {
     "id": 74,
@@ -856,25 +548,15 @@
   },
   {
     "id": 75,
-    "question": "<b>作ります／造ります</b>",
+    "question": "<b><ruby>作<rp>（</rp><rt>つく</rt><rp>）</rp></ruby>ります／<ruby>造<rp>（</rp><rt>ぞう</rt><rp>）</rp></ruby>ります</b>",
     "options": [
       "いすにすわります",
       "きんえん",
       "したの「いもうと」",
       "つくります"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "difficulty": 2
-  },
-  {
-    "id": 76,
-    "question": "<b>あの<ruby>桜<rp>（</rp><rt>さくら</rt><rp>）</rp></ruby>（１）<ruby>木<rp>（</rp><rt>き</rt><rp>）</rp></ruby>（２）<ruby>下<rp>（</rp><rt>した</rt><rp>）</rp></ruby>（３）<ruby>座<rp>（</rp><rt>すわ</rt><rp>）</rp></ruby>りましょう。</b><p>(3)</p>",
-    "options": [
-      "で",
-      "に"
-    ],
-    "correctAnswer": 1,
-    "difficulty": 3
   },
   {
     "id": 77,
@@ -885,7 +567,7 @@
       "trường trung học phổ thông",
       "đặt, để"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "difficulty": 1
   },
   {
@@ -909,7 +591,7 @@
       "phần mềm",
       "xà phòng"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "difficulty": 1
   },
   {
@@ -933,7 +615,7 @@
       "cấm hút thuốc lá",
       "thời gian biểu"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "difficulty": 1
   },
   {
@@ -945,7 +627,7 @@
       "せっけん",
       "プレイガイド"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "difficulty": 1
   },
   {
@@ -957,7 +639,7 @@
       "tài liệu, nguyên liệu",
       "đứng"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "difficulty": 1
   },
   {
@@ -969,31 +651,19 @@
       "そちら",
       "どちら"
     ],
-    "correctAnswer": 0,
-    "difficulty": 2
-  },
-  {
-    "id": 85,
-    "question": "<b>市役所</b>",
-    "options": [
-      "しゃぐそ",
-      "しやくしょ",
-      "しやくそ",
-      "しやぐしょ"
-    ],
-    "correctAnswer": 3,
+    "correctAnswer": 2,
     "difficulty": 2
   },
   {
     "id": 86,
-    "question": "<b>製品</b>",
+    "question": "<b><ruby>製品<rp>（</rp><rt>せいひん</rt><rp>）</rp></ruby></b>",
     "options": [
       "しなひん",
       "せいしな",
       "せいひん",
       "ひんせい"
     ],
-    "correctAnswer": 3,
+    "correctAnswer": 2,
     "difficulty": 2
   },
   {
@@ -1009,18 +679,6 @@
     "difficulty": 1
   },
   {
-    "id": 88,
-    "question": "<b>置きます</b>",
-    "options": [
-      "おきます",
-      "けんきゅうします",
-      "せいひん",
-      "もっています"
-    ],
-    "correctAnswer": 0,
-    "difficulty": 2
-  },
-  {
     "id": 89,
     "question": "<b>A：おきますは　どこですか。<p>B：（　）です。</p></b>",
     "options": [
@@ -1030,16 +688,6 @@
       "どこ"
     ],
     "correctAnswer": 0,
-    "difficulty": 2
-  },
-  {
-    "id": 90,
-    "question": "<b>テレーザちゃんは<ruby>自転車<rp>（</rp><rt>じてんしゃ</rt><rp>）</rp></ruby>を（　）います。</b>",
-    "options": [
-      "売って",
-      "売んで"
-    ],
-    "correctAnswer": 1,
     "difficulty": 2
   },
   {
@@ -1068,24 +716,12 @@
   },
   {
     "id": 93,
-    "question": "<b>使います</b>",
+    "question": "<b><ruby>使<rp>（</rp><rt>つか</rt><rp>）</rp></ruby>います</b>",
     "options": [
       "こうこう",
       "しります",
       "つかいます",
       "にほんばし"
-    ],
-    "correctAnswer": 0,
-    "difficulty": 2
-  },
-  {
-    "id": 94,
-    "question": "<b>上の「妹」</b>",
-    "options": [
-      "うえの「いもうと」",
-      "しります",
-      "しりょう",
-      "じこくひょう"
     ],
     "correctAnswer": 0,
     "difficulty": 2
@@ -1099,29 +735,7 @@
       "trường trung học phổ thông",
       "độc thân"
     ],
-    "correctAnswer": 0,
-    "difficulty": 1
-  },
-  {
-    "id": 96,
-    "question": "<b>あの<ruby>桜<rp>（</rp><rt>さくら</rt><rp>）</rp></ruby>（１）<ruby>木<rp>（</rp><rt>き</rt><rp>）</rp></ruby>（２）<ruby>下<rp>（</rp><rt>した</rt><rp>）</rp></ruby>（３）<ruby>座<rp>（</rp><rt>すわ</rt><rp>）</rp></ruby>りましょう。</b><p>(1)</p>",
-    "options": [
-      "が",
-      "の"
-    ],
-    "correctAnswer": 0,
-    "difficulty": 3
-  },
-  {
-    "id": 97,
-    "question": "<b>もっています</b>",
-    "options": [
-      "[em gái] lớn",
-      "[em gái] nhỏ",
-      "có, mang, đang cầm, đang nắm",
-      "trường trung học phổ thông"
-    ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "difficulty": 1
   },
   {
@@ -1145,7 +759,7 @@
       "ngồi [vào ghế]",
       "phần mềm"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "difficulty": 1
   },
   {
@@ -1157,7 +771,7 @@
       "làm, chế tạo",
       "tài liệu, nguyên liệu"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "difficulty": 1
   },
   {
@@ -1169,18 +783,8 @@
       "ふく",
       "タオル"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "difficulty": 1
-  },
-  {
-    "id": 102,
-    "question": "<b>A: <ruby>学校<rp>（</rp><rt>がっこう</rt><rp>）</rp></ruby>の<ruby>電話<rp>（</rp><rt>でんわ</rt><rp>）</rp></ruby><ruby>番号<rp>（</rp><rt>ばんごう</rt><rp>）</rp></ruby>を（１）。<p>B：いいえ、（２）。</p></b><p>(1)</p>",
-    "options": [
-      "知っていますか",
-      "知ていますか"
-    ],
-    "correctAnswer": 0,
-    "difficulty": 3
   },
   {
     "id": 103,
@@ -1191,7 +795,7 @@
       "しります",
       "すんでいます"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "difficulty": 1
   },
   {
@@ -1215,7 +819,7 @@
       "そこ",
       "どこ"
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 2,
     "difficulty": 2
   },
   {
@@ -1231,16 +835,6 @@
     "difficulty": 2
   },
   {
-    "id": 107,
-    "question": "<b>ここに<ruby>荷物<rp>（</rp><rt>にもつ</rt><rp>）</rp></ruby>を（　）ください。</b>",
-    "options": [
-      "おいて",
-      "おきて"
-    ],
-    "correctAnswer": 1,
-    "difficulty": 2
-  },
-  {
     "id": 108,
     "question": "<b>つくります</b>",
     "options": [
@@ -1249,12 +843,12 @@
       "Mua",
       "Nói chuyện, bàn bạc, buôn bán"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "difficulty": 1
   },
   {
     "id": 109,
-    "question": "<b>置きます</b>",
+    "question": "<b><ruby>置<rp>（</rp><rt>お</rt><rp>）</rp></ruby>きます</b>",
     "options": [
       "おきます",
       "しっています",
@@ -1285,7 +879,7 @@
       "そちら",
       "どちら"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "difficulty": 2
   },
   {
@@ -1309,7 +903,7 @@
       "けんきゅうします",
       "カタログ"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "difficulty": 1
   },
   {
@@ -1320,19 +914,7 @@
       "けんきゅうします",
       "けんきゅします"
     ],
-    "correctAnswer": 0,
-    "difficulty": 1
-  },
-  {
-    "id": 115,
-    "question": "<b>cư trú, sống, ở</b>",
-    "options": [
-      "ごかぞく",
-      "すみます",
-      "にほんばし",
-      "もっています"
-    ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "difficulty": 1
   },
   {
@@ -1356,7 +938,7 @@
       "phần mềm",
       "xà phòng"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "difficulty": 1
   },
   {
@@ -1366,7 +948,7 @@
       "持ちて",
       "持って"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "difficulty": 2
   },
   {
@@ -1378,29 +960,7 @@
       "けんきゅうします",
       "したの「いもうと」"
     ],
-    "correctAnswer": 0,
-    "difficulty": 1
-  },
-  {
-    "id": 120,
-    "question": "<b>タワポンさんは<ruby>学校<rp>（</rp><rt>がっこう</rt><rp>）</rp></ruby>の<ruby>近<rp>（</rp><rt>ちか</rt><rp>）</rp></ruby>くに（　）います。</b>",
-    "options": [
-      "住んて",
-      "住んで"
-    ],
-    "correctAnswer": 0,
-    "difficulty": 2
-  },
-  {
-    "id": 121,
-    "question": "<b>bán</b>",
-    "options": [
-      "うります",
-      "すみます",
-      "とこや",
-      "もっています"
-    ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "difficulty": 1
   },
   {
@@ -1416,27 +976,15 @@
     "difficulty": 1
   },
   {
-    "id": 123,
-    "question": "<b>Ngồi</b>",
-    "options": [
-      "すわります",
-      "はすります",
-      "りすわます",
-      "わすれます"
-    ],
-    "correctAnswer": 1,
-    "difficulty": 1
-  },
-  {
     "id": 124,
-    "question": "<b>歯医者</b>",
+    "question": "<b><ruby>歯<ruby>医者<rp>（</rp><rt>いしゃ</rt><rp>）</rp></ruby><rp>（</rp><rt>はいしゃ</rt><rp>）</rp></ruby></b>",
     "options": [
       "つかいます",
       "どくしん",
       "はいしゃ",
       "プレイガイド"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "difficulty": 2
   },
   {
@@ -1460,7 +1008,7 @@
       "tài liệu, nguyên liệu",
       "đặt, để"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "difficulty": 1
   },
   {
@@ -1484,29 +1032,19 @@
       "そちら",
       "どちら"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "difficulty": 2
   },
   {
-    "id": 129,
-    "question": "<b><ruby>子供<rp>（</rp><rt>こども</rt><rp>）</rp></ruby>はたばこを（　）はいけません。</b>",
-    "options": [
-      "吸って",
-      "吸んで"
-    ],
-    "correctAnswer": 1,
-    "difficulty": 3
-  },
-  {
     "id": 130,
-    "question": "<b>服</b>",
+    "question": "<b><ruby>服<rp>（</rp><rt>ふく</rt><rp>）</rp></ruby></b>",
     "options": [
       "かばん",
       "くつ",
       "ふく",
       "ぼうし"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "difficulty": 2
   },
   {
@@ -1518,7 +1056,7 @@
       "そちら",
       "どちら"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "difficulty": 2
   },
   {
@@ -1530,7 +1068,7 @@
       "そこ",
       "どこ"
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 2,
     "difficulty": 2
   },
   {
@@ -1544,16 +1082,6 @@
     "difficulty": 1
   },
   {
-    "id": 134,
-    "question": "<b><ruby>弟<rp>（</rp><rt>おとうと</rt><rp>）</rp></ruby>は（　）いません。<ruby>独身<rp>（</rp><rt>どくしん</rt><rp>）</rp></ruby>です。</b>",
-    "options": [
-      "結婚さして",
-      "結婚して"
-    ],
-    "correctAnswer": 1,
-    "difficulty": 2
-  },
-  {
     "id": 135,
     "question": "<b>ごかぞく</b>",
     "options": [
@@ -1562,7 +1090,7 @@
       "khăn lau, khăn mặt",
       "làm, chế tạo"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "difficulty": 1
   },
   {
@@ -1586,7 +1114,7 @@
       "そちら",
       "どちら"
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 2,
     "difficulty": 2
   },
   {
@@ -1598,7 +1126,7 @@
       "しります",
       "しりみます"
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 2,
     "difficulty": 1
   },
   {
@@ -1620,7 +1148,7 @@
       "xà phòng",
       "đại lý bán vé, phòng bán vé"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "difficulty": 1
   },
   {
@@ -1632,7 +1160,7 @@
       "nhớ lại",
       "xà phòng"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "difficulty": 1
   },
   {
@@ -1648,18 +1176,6 @@
     "difficulty": 2
   },
   {
-    "id": 143,
-    "question": "<b>ngồi [vào ghế]</b>",
-    "options": [
-      "すわります",
-      "せいひん",
-      "たちます",
-      "にほんばし"
-    ],
-    "correctAnswer": 0,
-    "difficulty": 1
-  },
-  {
     "id": 144,
     "question": "<b>xà phòng</b>",
     "options": [
@@ -1668,7 +1184,7 @@
       "せっけん",
       "つかいます"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "difficulty": 1
   },
   {
@@ -1680,7 +1196,7 @@
       "しりょう",
       "はいしゃ"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "difficulty": 1
   },
   {
@@ -1696,18 +1212,8 @@
     "difficulty": 2
   },
   {
-    "id": 147,
-    "question": "<b><ruby>机<rp>（</rp><rt>つくえ</rt><rp>）</rp></ruby>（１）<ruby>上<rp>（</rp><rt>うえ</rt><rp>）</rp></ruby>（２）<ruby>資料<rp>（</rp><rt>しりょう</rt><rp>）</rp></ruby>（３）<ruby>置<rp>（</rp><rt>お</rt><rp>）</rp></ruby>きました。</b><p>(2)</p>",
-    "options": [
-      "が",
-      "に"
-    ],
-    "correctAnswer": 1,
-    "difficulty": 3
-  },
-  {
     "id": 148,
-    "question": "<b>知っています</b>",
+    "question": "<b><ruby>知<rp>（</rp><rt>し</rt><rp>）</rp></ruby>っています</b>",
     "options": [
       "こうこう",
       "したの「いもうと」",
@@ -1718,18 +1224,6 @@
     "difficulty": 2
   },
   {
-    "id": 149,
-    "question": "<b>すわります</b>",
-    "options": [
-      "ngồi [vào ghế]",
-      "trường trung học phổ thông",
-      "đại lý bán vé, phòng bán vé",
-      "đứng"
-    ],
-    "correctAnswer": 0,
-    "difficulty": 1
-  },
-  {
     "id": 150,
     "question": "<b>[em gái] nhỏ</b>",
     "options": [
@@ -1738,18 +1232,8 @@
       "じこくひょう",
       "ふく"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "difficulty": 1
-  },
-  {
-    "id": 151,
-    "question": "<b>この<ruby>川<rp>（</rp><rt>かわ</rt><rp>）</rp></ruby>で（　）はいけません。</b>",
-    "options": [
-      "泳いで",
-      "泳んで"
-    ],
-    "correctAnswer": 0,
-    "difficulty": 2
   },
   {
     "id": 152,
@@ -1784,7 +1268,7 @@
       "phần mềm",
       "trường trung học phổ thông"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "difficulty": 1
   },
   {
@@ -1796,7 +1280,7 @@
       "ngồi [vào ghế]",
       "sản phẩm, hàng"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "difficulty": 1
   },
   {
@@ -1808,7 +1292,7 @@
       "カタログ",
       "ソフト"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "difficulty": 1
   },
   {
@@ -1820,18 +1304,8 @@
       "つくります",
       "もちます"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "difficulty": 1
-  },
-  {
-    "id": 158,
-    "question": "<b>あの<ruby>桜<rp>（</rp><rt>さくら</rt><rp>）</rp></ruby>（１）<ruby>木<rp>（</rp><rt>き</rt><rp>）</rp></ruby>（２）<ruby>下<rp>（</rp><rt>した</rt><rp>）</rp></ruby>（３）<ruby>座<rp>（</rp><rt>すわ</rt><rp>）</rp></ruby>りましょう。</b><p>(2)</p>",
-    "options": [
-      "に",
-      "の"
-    ],
-    "correctAnswer": 0,
-    "difficulty": 3
   },
   {
     "id": 159,
@@ -1854,32 +1328,12 @@
       "時刻表",
       "時告票"
     ],
-    "correctAnswer": 0,
-    "difficulty": 1
-  },
-  {
-    "id": 161,
-    "question": "<b>カリナさんは<ruby>日本<rp>（</rp><rt>にほん</rt><rp>）</rp></ruby>の<ruby>古<rp>（</rp><rt>ふる</rt><rp>）</rp></ruby>い<ruby>美術<rp>（</rp><rt>びじゅつ</rt><rp>）</rp></ruby>を（　）います。</b>",
-    "options": [
-      "研究して",
-      "研究て"
-    ],
-    "correctAnswer": 0,
-    "difficulty": 3
-  },
-  {
-    "id": 162,
-    "question": "<b>エアコンを（　）もいいですか。</b>",
-    "options": [
-      "つけて",
-      "つけんで"
-    ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "difficulty": 1
   },
   {
     "id": 163,
-    "question": "<b>思い出します</b>",
+    "question": "<b><ruby>思<rp>（</rp><rt>おも</rt><rp>）</rp></ruby>い<ruby>出<rp>（</rp><rt>だ</rt><rp>）</rp></ruby>します</b>",
     "options": [
       "いすにすわります",
       "おもいだします",
@@ -1891,7 +1345,7 @@
   },
   {
     "id": 164,
-    "question": "<b>売ります</b>",
+    "question": "<b><ruby>売<rp>（</rp><rt>う</rt><rp>）</rp></ruby>ります</b>",
     "options": [
       "うります",
       "けんきゅうします",
@@ -1910,7 +1364,7 @@
       "ngồi [vào ghế]",
       "sống ở Tokyo"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "difficulty": 1
   },
   {
@@ -1934,7 +1388,7 @@
       "Đợi",
       "Đứng"
     ],
-    "correctAnswer": 2,
+    "correctAnswer": 3,
     "difficulty": 1
   },
   {
@@ -1957,18 +1411,8 @@
       "歯医者",
       "歯意者"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "difficulty": 1
-  },
-  {
-    "id": 170,
-    "question": "<b>タワポンさんは（　）いません。<ruby>学生<rp>（</rp><rt>がくせい</rt><rp>）</rp></ruby>です。</b>",
-    "options": [
-      "働いて",
-      "働きて"
-    ],
-    "correctAnswer": 0,
-    "difficulty": 2
   },
   {
     "id": 171,
@@ -1981,16 +1425,6 @@
     ],
     "correctAnswer": 0,
     "difficulty": 1
-  },
-  {
-    "id": 172,
-    "question": "<b>A: リンさんは<ruby>結婚<rp>（</rp><rt>けっこん</rt><rp>）</rp></ruby>していますか。<p>B: はい、<ruby>先月<rp>（</rp><rt>せんげつ</rt><rp>）</rp></ruby>（　）。</p></b>",
-    "options": [
-      "結婚しています",
-      "結婚しました"
-    ],
-    "correctAnswer": 1,
-    "difficulty": 3
   },
   {
     "id": 173,
@@ -2013,19 +1447,19 @@
       "xà phòng",
       "đứng"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "difficulty": 1
   },
   {
     "id": 175,
-    "question": "<b>研究します</b>",
+    "question": "<b><ruby>研究<rp>（</rp><rt>けんきゅう</rt><rp>）</rp></ruby>します</b>",
     "options": [
       "おもいだします",
       "けんきゅうします",
       "じこくひょう",
       "タオル"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "difficulty": 2
   },
   {
@@ -2037,20 +1471,8 @@
       "sống, sinh sống [ở Tokyo]",
       "độc thân"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "difficulty": 1
-  },
-  {
-    "id": 177,
-    "question": "<b>住みます</b>",
-    "options": [
-      "ごかぞく",
-      "すみます",
-      "すわります",
-      "せいひん"
-    ],
-    "correctAnswer": 0,
-    "difficulty": 2
   },
   {
     "id": 178,
@@ -2061,7 +1483,7 @@
       "phần mềm",
       "độc thân"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "difficulty": 1
   },
   {
@@ -2077,18 +1499,6 @@
     "difficulty": 2
   },
   {
-    "id": 180,
-    "question": "<b>東京に住んでいます</b>",
-    "options": [
-      "おきます",
-      "ごかぞく",
-      "すわります",
-      "とうきょうにすんでいます"
-    ],
-    "correctAnswer": 0,
-    "difficulty": 2
-  },
-  {
     "id": 181,
     "question": "<b>けんきゅうします</b>",
     "options": [
@@ -2097,7 +1507,7 @@
       "nghiên cứu",
       "nha sĩ"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "difficulty": 1
   },
   {
@@ -2109,7 +1519,7 @@
       "しります",
       "にほんばし"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "difficulty": 1
   },
   {

@@ -8,12 +8,12 @@
       "もってきます",
       "メーカー"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "difficulty": 1
   },
   {
     "id": 2,
-    "question": "<b>生まれます</b>",
+    "question": "<b><ruby>生<rp>（</rp><rt>う</rt><rp>）</rp></ruby>まれます</b>",
     "options": [
       "うまれます",
       "またこんどおねがいします",
@@ -56,7 +56,7 @@
       "ふく",
       "ぶひん"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "difficulty": 1
   },
   {
@@ -162,7 +162,7 @@
       "かけます",
       "はけます"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "difficulty": 1
   },
   {
@@ -208,7 +208,7 @@
       "ぼうし",
       "ぼうしをかぶります"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "difficulty": 1
   },
   {
@@ -220,7 +220,7 @@
       "アパート",
       "スーツ"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "difficulty": 1
   },
   {
@@ -249,7 +249,7 @@
   },
   {
     "id": 22,
-    "question": "<b><ruby>旅行<rp>（</rp><rt>りょこう</rt><rp>）</rp></ruby>に（　）<ruby>人<rp>（</rp><rt>ひと</rt><rp>）</rp></ruby>にお<ruby>土産<rp>（</rp><rt>みやげ</rt><rp>）</rp></ruby>をあげました。</b>",
+    "question": "<b><ruby>旅<ruby>行<rp>（</rp><rt>い</rt><rp>）</rp></ruby><rp>（</rp><rt>りょこう</rt><rp>）</rp></ruby>に（　）<ruby>人<rp>（</rp><rt>ひと</rt><rp>）</rp></ruby>にお<ruby>土産<rp>（</rp><rt>みやげ</rt><rp>）</rp></ruby>をあげました。</b>",
     "options": [
       "行かない",
       "行かなかった"
@@ -266,7 +266,7 @@
       "ぶひん",
       "レジャーはくしょ"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "difficulty": 1
   },
   {
@@ -278,7 +278,7 @@
       "スーツ",
       "レジャーはくしょ"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "difficulty": 1
   },
   {
@@ -401,14 +401,14 @@
   },
   {
     "id": 35,
-    "question": "<b>和室</b>",
+    "question": "<b><ruby>和室<rp>（</rp><rt>わしつ</rt><rp>）</rp></ruby></b>",
     "options": [
       "かぶります",
       "やくそく",
       "わしつ",
       "シャツ／コートをきます"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "difficulty": 2
   },
   {
@@ -425,7 +425,7 @@
   },
   {
     "id": 37,
-    "question": "<b>生まれます</b>",
+    "question": "<b><ruby>生<rp>（</rp><rt>う</rt><rp>）</rp></ruby>まれます</b>",
     "options": [
       "いかまれます",
       "いきまれます",
@@ -471,7 +471,7 @@
   },
   {
     "id": 41,
-    "question": "<b>靴</b>",
+    "question": "<b><ruby>靴<rp>（</rp><rt>くつ</rt><rp>）</rp></ruby></b>",
     "options": [
       "くつ",
       "しり",
@@ -483,7 +483,7 @@
   },
   {
     "id": 42,
-    "question": "<b>レジャー白書</b>",
+    "question": "<b>レジャー<ruby>白書<rp>（</rp><rt>はくしょ</rt><rp>）</rp></ruby></b>",
     "options": [
       "かぶります",
       "ぼうしをかぶります",
@@ -507,7 +507,7 @@
   },
   {
     "id": 44,
-    "question": "<b>眼鏡</b>",
+    "question": "<b><ruby>眼鏡<rp>（</rp><rt>めがね</rt><rp>）</rp></ruby></b>",
     "options": [
       "めかね",
       "めがね",
@@ -538,7 +538,7 @@
       "ダイニングキッチン",
       "メーカー"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "difficulty": 1
   },
   {
@@ -562,12 +562,12 @@
       "ぼうしをかぶります",
       "パリ"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "difficulty": 1
   },
   {
     "id": 49,
-    "question": "<b>着ます</b>",
+    "question": "<b><ruby>着<rp>（</rp><rt>き</rt><rp>）</rp></ruby>ます</b>",
     "options": [
       "おつかれさまでした",
       "きます",
@@ -586,7 +586,7 @@
       "はきます",
       "シャツ／コートをきます"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "difficulty": 1
   },
   {
@@ -618,7 +618,7 @@
       "コート",
       "シャツ／コートをきます"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "difficulty": 1
   },
   {
@@ -657,7 +657,7 @@
   },
   {
     "id": 57,
-    "question": "<b>履きます</b>",
+    "question": "<b><ruby>履<rp>（</rp><rt>は</rt><rp>）</rp></ruby>きます</b>",
     "options": [
       "はきます",
       "ぼうしをかぶります",
@@ -676,7 +676,7 @@
       "ばんりのちょうじょう",
       "やちん"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "difficulty": 1
   },
   {
@@ -688,7 +688,7 @@
       "もっていきます",
       "ヘルメット"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "difficulty": 1
   },
   {
@@ -734,7 +734,7 @@
       "もっていきます",
       "アパート"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "difficulty": 1
   },
   {
@@ -763,7 +763,7 @@
   },
   {
     "id": 66,
-    "question": "<b>帽子</b>",
+    "question": "<b><ruby>帽<ruby>子<rp>（</rp><rt>こ</rt><rp>）</rp></ruby><rp>（</rp><rt>ぼうし</rt><rp>）</rp></ruby></b>",
     "options": [
       "うーん",
       "きます",
@@ -830,12 +830,12 @@
       "ふく",
       "レジャーはくしょ"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "difficulty": 1
   },
   {
     "id": 72,
-    "question": "<b>また今度お願いします</b>",
+    "question": "<b>また<ruby>今度<rp>（</rp><rt>こんど</rt><rp>）</rp></ruby>お<ruby>願<rp>（</rp><rt>ねがい</rt><rp>）</rp></ruby>いします</b>",
     "options": [
       "うまれます",
       "またこんどおねがいします",
@@ -883,7 +883,7 @@
   },
   {
     "id": 76,
-    "question": "<b><ruby>旅行<rp>（</rp><rt>りょこう</rt><rp>）</rp></ruby>に（１）<ruby>人<rp>（</rp><rt>ひと</rt><rp>）</rp></ruby>は（２）ですか。…１５<ruby>人<rp>（</rp><rt>にん</rt><rp>）</rp></ruby>です。</b><p><b>(1)</b></p>",
+    "question": "<b><ruby>旅<ruby>行<rp>（</rp><rt>い</rt><rp>）</rp></ruby><rp>（</rp><rt>りょこう</rt><rp>）</rp></ruby>に（１）<ruby>人<rp>（</rp><rt>ひと</rt><rp>）</rp></ruby>は（２）ですか。…１５<ruby>人<rp>（</rp><rt>にん</rt><rp>）</rp></ruby>です。</b><p><b>(1)</b></p>",
     "options": [
       "行く",
       "行った"
@@ -960,7 +960,7 @@
       "やくそく",
       "わしつ"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "difficulty": 1
   },
   {
@@ -1023,7 +1023,7 @@
   },
   {
     "id": 88,
-    "question": "<b>持って行きます</b>",
+    "question": "<b><ruby>持<rp>（</rp><rt>も</rt><rp>）</rp></ruby>って<ruby>行<rp>（</rp><rt>い</rt><rp>）</rp></ruby>きます</b>",
     "options": [
       "おしいれ",
       "もっていきます",
@@ -1105,7 +1105,7 @@
   },
   {
     "id": 95,
-    "question": "<b>あの<ruby>帽子<rp>（</rp><rt>ぼうし</rt><rp>）</rp></ruby>を（１）<ruby>人<rp>（</rp><rt>ひと</rt><rp>）</rp></ruby>は（２）ですか。…サントスさんです。</b><p><b>(2)</b></p>",
+    "question": "<b>あの<ruby>帽<ruby>子<rp>（</rp><rt>こ</rt><rp>）</rp></ruby><rp>（</rp><rt>ぼうし</rt><rp>）</rp></ruby>を（１）<ruby>人<rp>（</rp><rt>ひと</rt><rp>）</rp></ruby>は（２）ですか。…サントスさんです。</b><p><b>(2)</b></p>",
     "options": [
       "だれ",
       "どこ"
@@ -1219,7 +1219,7 @@
   },
   {
     "id": 105,
-    "question": "<b>A:　サントスさんは（　）<ruby>人<rp>（</rp><rt>ひと</rt><rp>）</rp></ruby>ですか。<p>B:　あの<ruby>帽子<rp>（</rp><rt>ぼうし</rt><rp>）</rp></ruby>をかぶっている<ruby>人<rp>（</rp><rt>ひと</rt><rp>）</rp></ruby>です。</p></b>",
+    "question": "<b>A:　サントスさんは（　）<ruby>人<rp>（</rp><rt>ひと</rt><rp>）</rp></ruby>ですか。<p>B:　あの<ruby>帽<ruby>子<rp>（</rp><rt>こ</rt><rp>）</rp></ruby><rp>（</rp><rt>ぼうし</rt><rp>）</rp></ruby>をかぶっている<ruby>人<rp>（</rp><rt>ひと</rt><rp>）</rp></ruby>です。</p></b>",
     "options": [
       "どの",
       "どれ"
@@ -1258,7 +1258,7 @@
       "もってきます",
       "スーツ"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "difficulty": 1
   },
   {
@@ -1335,14 +1335,14 @@
   },
   {
     "id": 115,
-    "question": "<b>家賃</b>",
+    "question": "<b><ruby>家賃<rp>（</rp><rt>やちん</rt><rp>）</rp></ruby></b>",
     "options": [
       "かち",
       "かちん",
       "やち",
       "やちん"
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 3,
     "difficulty": 2
   },
   {
@@ -1354,7 +1354,7 @@
       "セーター",
       "レジャーはくしょ"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "difficulty": 1
   },
   {
@@ -1393,7 +1393,7 @@
   },
   {
     "id": 120,
-    "question": "<b>ミラーさんは（　）<ruby>喫茶店<rp>（</rp><rt>きっさてん</rt><rp>）</rp></ruby>へ<ruby>行<rp>（</rp><rt>い</rt><rp>）</rp></ruby>きます。</b>",
+    "question": "<b>ミラーさんは（　）<ruby>喫<ruby>茶<rp>（</rp><rt>ちゃ</rt><rp>）</rp></ruby>店<rp>（</rp><rt>きっさてん</rt><rp>）</rp></ruby>へ<ruby>行<rp>（</rp><rt>い</rt><rp>）</rp></ruby>きます。</b>",
     "options": [
       "だいたい",
       "よく"
@@ -1410,7 +1410,7 @@
       "ぼうしをかぶります",
       "メーカー"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "difficulty": 1
   },
   {
@@ -1458,7 +1458,7 @@
       "またこんどおねがいします",
       "コート"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "difficulty": 1
   },
   {
@@ -1571,14 +1571,14 @@
   },
   {
     "id": 135,
-    "question": "<b>約束</b>",
+    "question": "<b><ruby>約束<rp>（</rp><rt>やくそく</rt><rp>）</rp></ruby></b>",
     "options": [
       "おつかれさまでした",
       "ぼうしをかぶります",
       "やくそく",
       "アパート"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "difficulty": 2
   },
   {
@@ -1677,7 +1677,7 @@
   },
   {
     "id": 144,
-    "question": "<b>押し入れ</b>",
+    "question": "<b><ruby>押<rp>（</rp><rt>お</rt><rp>）</rp></ruby>し<ruby>入<rp>（</rp><rt>はい</rt><rp>）</rp></ruby>れ</b>",
     "options": [
       "おしいれ",
       "はきます",
@@ -1696,12 +1696,12 @@
       "もっていきます",
       "スーツ"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "difficulty": 1
   },
   {
     "id": 146,
-    "question": "<b>生まれます</b>",
+    "question": "<b><ruby>生<rp>（</rp><rt>う</rt><rp>）</rp></ruby>まれます</b>",
     "options": [
       "うまれます",
       "ばんりのちょうじょう",
@@ -1713,7 +1713,7 @@
   },
   {
     "id": 147,
-    "question": "<b><ruby>旅行<rp>（</rp><rt>りょこう</rt><rp>）</rp></ruby>に（１）<ruby>人<rp>（</rp><rt>ひと</rt><rp>）</rp></ruby>は（２）ですか。…１５<ruby>人<rp>（</rp><rt>にん</rt><rp>）</rp></ruby>です。</b><p><b>(2)</b></p>",
+    "question": "<b><ruby>旅<ruby>行<rp>（</rp><rt>い</rt><rp>）</rp></ruby><rp>（</rp><rt>りょこう</rt><rp>）</rp></ruby>に（１）<ruby>人<rp>（</rp><rt>ひと</rt><rp>）</rp></ruby>は（２）ですか。…１５<ruby>人<rp>（</rp><rt>にん</rt><rp>）</rp></ruby>です。</b><p><b>(2)</b></p>",
     "options": [
       "だれ",
       "何人"
@@ -1742,7 +1742,7 @@
       "わしつ",
       "セーター"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "difficulty": 1
   },
   {
@@ -1769,7 +1769,7 @@
   },
   {
     "id": 152,
-    "question": "<b>押入れ</b>",
+    "question": "<b><ruby>押<rp>（</rp><rt>お</rt><rp>）</rp></ruby><ruby>入<rp>（</rp><rt>はい</rt><rp>）</rp></ruby>れ</b>",
     "options": [
       "おうしいれ",
       "おおしいれ",
@@ -1793,7 +1793,7 @@
   },
   {
     "id": 154,
-    "question": "<b><ruby>本<rp>（</rp><rt>ほん</rt><rp>）</rp></ruby>を（　）<ruby>時間<rp>（</rp><rt>じかん</rt><rp>）</rp></ruby>が<ruby>欲<rp>（</rp><rt>ほ</rt><rp>）</rp></ruby>しいです。</b>",
+    "question": "<b><ruby>本<rp>（</rp><rt>ほん</rt><rp>）</rp></ruby>を（　）<ruby>時<ruby>間<rp>（</rp><rt>あいだ</rt><rp>）</rp></ruby><rp>（</rp><rt>じかん</rt><rp>）</rp></ruby>が<ruby>欲<rp>（</rp><rt>ほ</rt><rp>）</rp></ruby>しいです。</b>",
     "options": [
       "読む",
       "読むの"
@@ -1820,7 +1820,7 @@
       "かけます",
       "わしつ"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "difficulty": 1
   },
   {
@@ -1844,12 +1844,12 @@
       "コート",
       "スーツ"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "difficulty": 1
   },
   {
     "id": 159,
-    "question": "<b>あの<ruby>帽子<rp>（</rp><rt>ぼうし</rt><rp>）</rp></ruby>を（１）<ruby>人<rp>（</rp><rt>ひと</rt><rp>）</rp></ruby>は（２）ですか。…サントスさんです。</b><p><b>(1)</b></p>",
+    "question": "<b>あの<ruby>帽<ruby>子<rp>（</rp><rt>こ</rt><rp>）</rp></ruby><rp>（</rp><rt>ぼうし</rt><rp>）</rp></ruby>を（１）<ruby>人<rp>（</rp><rt>ひと</rt><rp>）</rp></ruby>は（２）ですか。…サントスさんです。</b><p><b>(1)</b></p>",
     "options": [
       "かぶっていた",
       "かぶっている"
@@ -1878,7 +1878,7 @@
       "ぶひん",
       "めがねをかけます"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "difficulty": 1
   },
   {
@@ -1979,7 +1979,7 @@
   },
   {
     "id": 170,
-    "question": "<b>持って来ます</b>",
+    "question": "<b><ruby>持<rp>（</rp><rt>も</rt><rp>）</rp></ruby>って<ruby>来<rp>（</rp><rt>き</rt><rp>）</rp></ruby>ます</b>",
     "options": [
       "うーん",
       "かけます",
@@ -2025,7 +2025,7 @@
   },
   {
     "id": 174,
-    "question": "<b>押し入れ</b>",
+    "question": "<b><ruby>押<rp>（</rp><rt>お</rt><rp>）</rp></ruby>し<ruby>入<rp>（</rp><rt>はい</rt><rp>）</rp></ruby>れ</b>",
     "options": [
       "おしいれ",
       "ぼうしをかぶります",

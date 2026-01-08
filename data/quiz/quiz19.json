@@ -53,7 +53,7 @@
       "しかし",
       "パチンコ"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "difficulty": 1
   },
   {
@@ -116,7 +116,7 @@
   },
   {
     "id": 11,
-    "question": "<b><ruby>日本語<rp>（</rp><rt>にほんご</rt><rp>）</rp></ruby>の<ruby>勉強<rp>（</rp><rt>べんきょう</rt><rp>）</rp></ruby>はどうですか。<p>…<ruby>難<rp>（</rp><rt>むずか</rt><rp>）</rp></ruby>しいですが、おもしろいです。</p><p>　でも、（１）（２）なりません。</p><p>(1)</p></b>",
+    "question": "<b><ruby>日<ruby>本<rp>（</rp><rt>ほん</rt><rp>）</rp></ruby>語<rp>（</rp><rt>にほんご</rt><rp>）</rp></ruby>の<ruby>勉強<rp>（</rp><rt>べんきょう</rt><rp>）</rp></ruby>はどうですか。<p>…<ruby>難<rp>（</rp><rt>むずか</rt><rp>）</rp></ruby>しいですが、おもしろいです。</p><p>　でも、（１）（２）なりません。</p><p>(1)</p></b>",
     "options": [
       "だんだん",
       "なかなか",
@@ -146,7 +146,7 @@
       "ダイエット",
       "パチンコ"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "difficulty": 1
   },
   {
@@ -169,7 +169,7 @@
       "のぼります",
       "パチンコ「～をします」"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "difficulty": 1
   },
   {
@@ -289,7 +289,7 @@
   },
   {
     "id": 26,
-    "question": "<b>登ります</b>",
+    "question": "<b><ruby>登<rp>（</rp><rt>のぼ</rt><rp>）</rp></ruby>ります</b>",
     "options": [
       "いちど",
       "のぼります",
@@ -320,7 +320,7 @@
       "とまります",
       "のぼります"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "difficulty": 1
   },
   {
@@ -332,7 +332,7 @@
       "のぼります",
       "ケーキ"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "difficulty": 1
   },
   {
@@ -349,7 +349,7 @@
   },
   {
     "id": 31,
-    "question": "<b>掃除します</b>",
+    "question": "<b><ruby>掃除<rp>（</rp><rt>そうじ</rt><rp>）</rp></ruby>します</b>",
     "options": [
       "しゅうりします",
       "そうじします",
@@ -368,7 +368,7 @@
       "なります",
       "やまにのぼります"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "difficulty": 1
   },
   {
@@ -380,7 +380,7 @@
       "のぼります",
       "ケーキ"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "difficulty": 1
   },
   {
@@ -392,12 +392,12 @@
       "ダイエット",
       "パチンコ「～をします」"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "difficulty": 1
   },
   {
     "id": 35,
-    "question": "<b>洗濯します</b>",
+    "question": "<b><ruby>洗濯<rp>（</rp><rt>せんたく</rt><rp>）</rp></ruby>します</b>",
     "options": [
       "せたくします",
       "せんたくします",
@@ -409,7 +409,7 @@
   },
   {
     "id": 36,
-    "question": "<b>山に登ります</b>",
+    "question": "<b><ruby>山<rp>（</rp><rt>やま</rt><rp>）</rp></ruby>に<ruby>登<rp>（</rp><rt>のぼ</rt><rp>）</rp></ruby>ります</b>",
     "options": [
       "そうじします",
       "やまにのぼります",
@@ -428,7 +428,7 @@
       "ダイエット",
       "パチンコ"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "difficulty": 1
   },
   {
@@ -457,7 +457,7 @@
   },
   {
     "id": 40,
-    "question": "<b>A：<ruby>富士山<rp>（</rp><rt>ふじさん</rt><rp>）</rp></ruby>に（１）ことがありますか。<p>B：いいえ、ありません。ぜひ（２）（３）たいです。</p><p>(2)</p></b>",
+    "question": "<b>A：<ruby>富士<ruby>山<rp>（</rp><rt>やま</rt><rp>）</rp></ruby><rp>（</rp><rt>ふじさん</rt><rp>）</rp></ruby>に（１）ことがありますか。<p>B：いいえ、ありません。ぜひ（２）（３）たいです。</p><p>(2)</p></b>",
     "options": [
       "もう一度",
       "一度",
@@ -475,7 +475,7 @@
       "ダイエット",
       "パチンコ"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "difficulty": 1
   },
   {
@@ -499,7 +499,7 @@
       "ダイエット",
       "ホテルにとまります"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "difficulty": 1
   },
   {
@@ -516,7 +516,7 @@
   },
   {
     "id": 45,
-    "question": "<b>A：この<ruby>果物<rp>（</rp><rt>くだもの</rt><rp>）</rp></ruby>を（１）ことがありますか。<p>B：いいえ、（２）です。</p><p>A：おいしいですよ。どうぞたくさん（３）ください。</p><p>(1)</p></b>",
+    "question": "<b>A：この<ruby>果<ruby>物<rp>（</rp><rt>もの</rt><rp>）</rp></ruby><rp>（</rp><rt>くだもの</rt><rp>）</rp></ruby>を（１）ことがありますか。<p>B：いいえ、（２）です。</p><p>A：おいしいですよ。どうぞたくさん（３）ください。</p><p>(1)</p></b>",
     "options": [
       "食べ",
       "食べた",
@@ -527,7 +527,7 @@
   },
   {
     "id": 46,
-    "question": "<b><ruby>毎日<rp>（</rp><rt>まいにち</rt><rp>）</rp></ruby><ruby>日本語<rp>（</rp><rt>にほんご</rt><rp>）</rp></ruby>のCDを（１）り、<ruby>漢字<rp>（</rp><rt>かんじ</rt><rp>）</rp></ruby>を（２）りしなければなりません。<p>(2)</p></b>",
+    "question": "<b><ruby>毎日<rp>（</rp><rt>まいにち</rt><rp>）</rp></ruby><ruby>日<ruby>本<rp>（</rp><rt>ほん</rt><rp>）</rp></ruby>語<rp>（</rp><rt>にほんご</rt><rp>）</rp></ruby>のCDを（１）り、<ruby>漢字<rp>（</rp><rt>かんじ</rt><rp>）</rp></ruby>を（２）りしなければなりません。<p>(2)</p></b>",
     "options": [
       "メーモし",
       "覚えた"
@@ -615,7 +615,7 @@
       "とまります",
       "やまにのぼります"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "difficulty": 1
   },
   {
@@ -639,7 +639,7 @@
       "ちょうし",
       "ダイエット"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "difficulty": 1
   },
   {
@@ -761,7 +761,7 @@
   },
   {
     "id": 66,
-    "question": "<b><ruby>日本語<rp>（</rp><rt>にほんご</rt><rp>）</rp></ruby>の<ruby>勉強<rp>（</rp><rt>べんきょう</rt><rp>）</rp></ruby>はどうですか。<p>…<ruby>難<rp>（</rp><rt>むずか</rt><rp>）</rp></ruby>しいですが、おもしろいです。</p><p>　でも、（１）（２）なりません。</p><p>(2)</p></b>",
+    "question": "<b><ruby>日<ruby>本<rp>（</rp><rt>ほん</rt><rp>）</rp></ruby>語<rp>（</rp><rt>にほんご</rt><rp>）</rp></ruby>の<ruby>勉強<rp>（</rp><rt>べんきょう</rt><rp>）</rp></ruby>はどうですか。<p>…<ruby>難<rp>（</rp><rt>むずか</rt><rp>）</rp></ruby>しいですが、おもしろいです。</p><p>　でも、（１）（２）なりません。</p><p>(2)</p></b>",
     "options": [
       "上手",
       "上手な",
@@ -772,7 +772,7 @@
   },
   {
     "id": 67,
-    "question": "<b>お茶</b>",
+    "question": "<b>お<ruby>茶<rp>（</rp><rt>ちゃ</rt><rp>）</rp></ruby></b>",
     "options": [
       "おかし",
       "おかゆ",
@@ -818,7 +818,7 @@
   },
   {
     "id": 71,
-    "question": "<b>一度</b>",
+    "question": "<b><ruby>一度<rp>（</rp><rt>いちど</rt><rp>）</rp></ruby></b>",
     "options": [
       "いちど",
       "かんぱい",
@@ -837,7 +837,7 @@
       "ダイエット",
       "ホテルにとまります"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "difficulty": 1
   },
   {
@@ -849,7 +849,7 @@
       "やまにのぼります",
       "ゴルフ"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "difficulty": 1
   },
   {
@@ -861,7 +861,7 @@
       "のぼります",
       "ケーキ"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "difficulty": 1
   },
   {
@@ -919,7 +919,7 @@
       "パチンコ「～をします」",
       "ホテルにとまります"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "difficulty": 1
   },
   {
@@ -931,7 +931,7 @@
       "ダイエット",
       "ホテルにとまります"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "difficulty": 1
   },
   {
@@ -972,7 +972,7 @@
   },
   {
     "id": 84,
-    "question": "<b>A：<ruby>日本語<rp>（</rp><rt>にほんご</rt><rp>）</rp></ruby>で<ruby>手紙<rp>（</rp><rt>てがみ</rt><rp>）</rp></ruby>を（１）ことがありますか。<p>B：ええ、（２）あります。でも、<ruby>難<rp>（</rp><rt>むずか</rt><rp>）</rp></ruby>しい<ruby>漢字<rp>（</rp><rt>かんじ</rt><rp>）</rp></ruby>は（３）ことができません。</p><p>(1)</p></b>",
+    "question": "<b>A：<ruby>日<ruby>本<rp>（</rp><rt>ほん</rt><rp>）</rp></ruby>語<rp>（</rp><rt>にほんご</rt><rp>）</rp></ruby>で<ruby>手紙<rp>（</rp><rt>てがみ</rt><rp>）</rp></ruby>を（１）ことがありますか。<p>B：ええ、（２）あります。でも、<ruby>難<rp>（</rp><rt>むずか</rt><rp>）</rp></ruby>しい<ruby>漢字<rp>（</rp><rt>かんじ</rt><rp>）</rp></ruby>は（３）ことができません。</p><p>(1)</p></b>",
     "options": [
       "書いた",
       "書いて",
@@ -1024,7 +1024,7 @@
       "ゴルフ「～をします」",
       "ダイエット"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "difficulty": 1
   },
   {
@@ -1041,7 +1041,7 @@
   },
   {
     "id": 90,
-    "question": "<b><ruby>毎日<rp>（</rp><rt>まいにち</rt><rp>）</rp></ruby><ruby>日本語<rp>（</rp><rt>にほんご</rt><rp>）</rp></ruby>のCDを（１）り、<ruby>漢字<rp>（</rp><rt>かんじ</rt><rp>）</rp></ruby>を（２）りしなければなりません。<p>(1)</p></b>",
+    "question": "<b><ruby>毎日<rp>（</rp><rt>まいにち</rt><rp>）</rp></ruby><ruby>日<ruby>本<rp>（</rp><rt>ほん</rt><rp>）</rp></ruby>語<rp>（</rp><rt>にほんご</rt><rp>）</rp></ruby>のCDを（１）り、<ruby>漢字<rp>（</rp><rt>かんじ</rt><rp>）</rp></ruby>を（２）りしなければなりません。<p>(1)</p></b>",
     "options": [
       "聞いた",
       "見た"
@@ -1135,7 +1135,7 @@
   },
   {
     "id": 98,
-    "question": "<b>A：<ruby>富士山<rp>（</rp><rt>ふじさん</rt><rp>）</rp></ruby>に（１）ことがありますか。<p>B：いいえ、ありません。ぜひ（２）（３）たいです。</p><p>(3)</p></b>",
+    "question": "<b>A：<ruby>富士<ruby>山<rp>（</rp><rt>やま</rt><rp>）</rp></ruby><rp>（</rp><rt>ふじさん</rt><rp>）</rp></ruby>に（１）ことがありますか。<p>B：いいえ、ありません。ぜひ（２）（３）たいです。</p><p>(3)</p></b>",
     "options": [
       "登って",
       "登り",
@@ -1194,7 +1194,7 @@
   },
   {
     "id": 103,
-    "question": "<b>一度</b>",
+    "question": "<b><ruby>一度<rp>（</rp><rt>いちど</rt><rp>）</rp></ruby></b>",
     "options": [
       "いちど",
       "おかげさまで",
@@ -1206,7 +1206,7 @@
   },
   {
     "id": 104,
-    "question": "<b>調子</b>",
+    "question": "<b><ruby>調<ruby>子<rp>（</rp><rt>こ</rt><rp>）</rp></ruby><rp>（</rp><rt>ちょうし</rt><rp>）</rp></ruby></b>",
     "options": [
       "ちょうし",
       "ちょうじ",
@@ -1236,7 +1236,7 @@
       "パチンコ",
       "ホテルにとまります"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "difficulty": 1
   },
   {
@@ -1265,7 +1265,7 @@
   },
   {
     "id": 109,
-    "question": "<b>練習します</b>",
+    "question": "<b><ruby>練習<rp>（</rp><rt>れんしゅう</rt><rp>）</rp></ruby>します</b>",
     "options": [
       "ねんしゅうします",
       "ねんしゅします",
@@ -1307,7 +1307,7 @@
       "そうじします",
       "とまります"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "difficulty": 1
   },
   {
@@ -1442,7 +1442,7 @@
       "ゴルフ「～をします」",
       "パチンコ「～をします」"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "difficulty": 1
   },
   {
@@ -1493,7 +1493,7 @@
   },
   {
     "id": 129,
-    "question": "<b>山に登ります</b>",
+    "question": "<b><ruby>山<rp>（</rp><rt>やま</rt><rp>）</rp></ruby>に<ruby>登<rp>（</rp><rt>のぼ</rt><rp>）</rp></ruby>ります</b>",
     "options": [
       "おちゃ「～をならいます」",
       "かんぱい",
@@ -1540,7 +1540,7 @@
   },
   {
     "id": 133,
-    "question": "<b><ruby>太郎<rp>（</rp><rt>たろう</rt><rp>）</rp></ruby>ちゃんは（１）なりましたね。<ruby>何歳<rp>（</rp><rt>なんさい</rt><rp>）</rp></ruby>ですか。<p>…（２）（３）なります。</p><p>(1)</p></b>",
+    "question": "<b><ruby>太郎<rp>（</rp><rt>たろう</rt><rp>）</rp></ruby>ちゃんは（１）なりましたね。<ruby>何<ruby>歳<rp>（</rp><rt>さい</rt><rp>）</rp></ruby><rp>（</rp><rt>なんさい</rt><rp>）</rp></ruby>ですか。<p>…（２）（３）なります。</p><p>(1)</p></b>",
     "options": [
       "大きい",
       "大きいに",
@@ -1582,7 +1582,7 @@
       "ゴルフ",
       "パチンコ「～をします」"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "difficulty": 1
   },
   {
@@ -1594,7 +1594,7 @@
       "なります",
       "パチンコ「～をします」"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "difficulty": 1
   },
   {
@@ -1671,7 +1671,7 @@
   },
   {
     "id": 144,
-    "question": "<b>調子</b>",
+    "question": "<b><ruby>調<ruby>子<rp>（</rp><rt>こ</rt><rp>）</rp></ruby><rp>（</rp><rt>ちょうし</rt><rp>）</rp></ruby></b>",
     "options": [
       "せんたくします",
       "ちょうし",
@@ -1683,7 +1683,7 @@
   },
   {
     "id": 145,
-    "question": "<b>A：この<ruby>果物<rp>（</rp><rt>くだもの</rt><rp>）</rp></ruby>を（１）ことがありますか。<p>B：いいえ、（２）です。</p><p>A：おいしいですよ。どうぞたくさん（３）ください。</p><p>(2)</p></b>",
+    "question": "<b>A：この<ruby>果<ruby>物<rp>（</rp><rt>もの</rt><rp>）</rp></ruby><rp>（</rp><rt>くだもの</rt><rp>）</rp></ruby>を（１）ことがありますか。<p>B：いいえ、（２）です。</p><p>A：おいしいですよ。どうぞたくさん（３）ください。</p><p>(2)</p></b>",
     "options": [
       "なかなか",
       "一度も",
@@ -1797,7 +1797,7 @@
       "やまにのぼります",
       "ホテルにとまります"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "difficulty": 1
   },
   {
@@ -1809,7 +1809,7 @@
       "ケーキ",
       "ホテルにとまります"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "difficulty": 1
   },
   {
@@ -1838,7 +1838,7 @@
   },
   {
     "id": 158,
-    "question": "<b>A：この<ruby>果物<rp>（</rp><rt>くだもの</rt><rp>）</rp></ruby>を（１）ことがありますか。<p>B：いいえ、（２）です。</p><p>A：おいしいですよ。どうぞたくさん（３）ください。</p><p>(3)</p></b>",
+    "question": "<b>A：この<ruby>果<ruby>物<rp>（</rp><rt>もの</rt><rp>）</rp></ruby><rp>（</rp><rt>くだもの</rt><rp>）</rp></ruby>を（１）ことがありますか。<p>B：いいえ、（２）です。</p><p>A：おいしいですよ。どうぞたくさん（３）ください。</p><p>(3)</p></b>",
     "options": [
       "食べた",
       "食べて",
@@ -1878,12 +1878,12 @@
       "そうじします",
       "ホテルにとまります"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "difficulty": 1
   },
   {
     "id": 162,
-    "question": "<b>A：<ruby>日本語<rp>（</rp><rt>にほんご</rt><rp>）</rp></ruby>で<ruby>手紙<rp>（</rp><rt>てがみ</rt><rp>）</rp></ruby>を（１）ことがありますか。<p>B：ええ、（２）あります。でも、<ruby>難<rp>（</rp><rt>むずか</rt><rp>）</rp></ruby>しい<ruby>漢字<rp>（</rp><rt>かんじ</rt><rp>）</rp></ruby>は（３）ことができません。</p><p>(2)</p></b>",
+    "question": "<b>A：<ruby>日<ruby>本<rp>（</rp><rt>ほん</rt><rp>）</rp></ruby>語<rp>（</rp><rt>にほんご</rt><rp>）</rp></ruby>で<ruby>手紙<rp>（</rp><rt>てがみ</rt><rp>）</rp></ruby>を（１）ことがありますか。<p>B：ええ、（２）あります。でも、<ruby>難<rp>（</rp><rt>むずか</rt><rp>）</rp></ruby>しい<ruby>漢字<rp>（</rp><rt>かんじ</rt><rp>）</rp></ruby>は（３）ことができません。</p><p>(2)</p></b>",
     "options": [
       "一度も",
       "何回も",
@@ -1894,7 +1894,7 @@
   },
   {
     "id": 163,
-    "question": "<b>A：<ruby>日本語<rp>（</rp><rt>にほんご</rt><rp>）</rp></ruby>で<ruby>手紙<rp>（</rp><rt>てがみ</rt><rp>）</rp></ruby>を（１）ことがありますか。<p>B：ええ、（２）あります。でも、<ruby>難<rp>（</rp><rt>むずか</rt><rp>）</rp></ruby>しい<ruby>漢字<rp>（</rp><rt>かんじ</rt><rp>）</rp></ruby>は（３）ことができません。</p><p>(3)</p></b>",
+    "question": "<b>A：<ruby>日<ruby>本<rp>（</rp><rt>ほん</rt><rp>）</rp></ruby>語<rp>（</rp><rt>にほんご</rt><rp>）</rp></ruby>で<ruby>手紙<rp>（</rp><rt>てがみ</rt><rp>）</rp></ruby>を（１）ことがありますか。<p>B：ええ、（２）あります。でも、<ruby>難<rp>（</rp><rt>むずか</rt><rp>）</rp></ruby>しい<ruby>漢字<rp>（</rp><rt>かんじ</rt><rp>）</rp></ruby>は（３）ことができません。</p><p>(3)</p></b>",
     "options": [
       "書いた",
       "書き",
@@ -1949,7 +1949,7 @@
   },
   {
     "id": 168,
-    "question": "<b><ruby>太郎<rp>（</rp><rt>たろう</rt><rp>）</rp></ruby>ちゃんは（１）なりましたね。<ruby>何歳<rp>（</rp><rt>なんさい</rt><rp>）</rp></ruby>ですか。<p>…（２）（３）なります。</p><p>(2)</p></b>",
+    "question": "<b><ruby>太郎<rp>（</rp><rt>たろう</rt><rp>）</rp></ruby>ちゃんは（１）なりましたね。<ruby>何<ruby>歳<rp>（</rp><rt>さい</rt><rp>）</rp></ruby><rp>（</rp><rt>なんさい</rt><rp>）</rp></ruby>ですか。<p>…（２）（３）なります。</p><p>(2)</p></b>",
     "options": [
       "あとで",
       "だんだん",
@@ -1979,7 +1979,7 @@
       "ケーキ",
       "ゴルフ「～をします」"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "difficulty": 1
   },
   {
@@ -2003,7 +2003,7 @@
       "やまにのぼります",
       "ホテルにとまります"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "difficulty": 1
   },
   {
@@ -2015,12 +2015,12 @@
       "ねむい",
       "ねむれ"
     ],
-    "correctAnswer": 3,
+    "correctAnswer": 2,
     "difficulty": 1
   },
   {
     "id": 174,
-    "question": "<b>調子</b>",
+    "question": "<b><ruby>調<ruby>子<rp>（</rp><rt>こ</rt><rp>）</rp></ruby><rp>（</rp><rt>ちょうし</rt><rp>）</rp></ruby></b>",
     "options": [
       "ちょうし",
       "なります",
@@ -2061,7 +2061,7 @@
       "すもう",
       "ケーキ"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "difficulty": 1
   },
   {
@@ -2131,12 +2131,12 @@
       "ダーイエット",
       "ダーイエト"
     ],
-    "correctAnswer": 2,
+    "correctAnswer": 0,
     "difficulty": 1
   },
   {
     "id": 184,
-    "question": "<b>A：<ruby>富士山<rp>（</rp><rt>ふじさん</rt><rp>）</rp></ruby>に（１）ことがありますか。<p>B：いいえ、ありません。ぜひ（２）（３）たいです。</p><p>(1)</p></b>",
+    "question": "<b>A：<ruby>富士<ruby>山<rp>（</rp><rt>やま</rt><rp>）</rp></ruby><rp>（</rp><rt>ふじさん</rt><rp>）</rp></ruby>に（１）ことがありますか。<p>B：いいえ、ありません。ぜひ（２）（３）たいです。</p><p>(1)</p></b>",
     "options": [
       "登った",
       "登って",
@@ -2154,7 +2154,7 @@
       "しかし",
       "パチンコ"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "difficulty": 1
   },
   {
@@ -2205,7 +2205,7 @@
   },
   {
     "id": 190,
-    "question": "<b><ruby>太郎<rp>（</rp><rt>たろう</rt><rp>）</rp></ruby>ちゃんは（１）なりましたね。<ruby>何歳<rp>（</rp><rt>なんさい</rt><rp>）</rp></ruby>ですか。<p>…（２）（３）なります。</p><p>(3)</p></b>",
+    "question": "<b><ruby>太郎<rp>（</rp><rt>たろう</rt><rp>）</rp></ruby>ちゃんは（１）なりましたね。<ruby>何<ruby>歳<rp>（</rp><rt>さい</rt><rp>）</rp></ruby><rp>（</rp><rt>なんさい</rt><rp>）</rp></ruby>ですか。<p>…（２）（３）なります。</p><p>(3)</p></b>",
     "options": [
       "９歳",
       "９歳に",
