@@ -359,7 +359,7 @@
       "は",
       "も"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "difficulty": 1
   },
   {
@@ -371,7 +371,7 @@
       "は",
       "も"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "difficulty": 1
   },
   {
@@ -479,7 +479,7 @@
       "どの",
       "どれ"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "difficulty": 2
   },
   {
@@ -551,7 +551,7 @@
       "は",
       "も"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "difficulty": 1
   },
   {
@@ -791,16 +791,6 @@
     "difficulty": 2
   },
   {
-    "id": 68,
-    "question": "<b>A：かりなさんは　がくせいですか。<p>B：はい、（　）です。</p></b>",
-    "options": [
-      "そう",
-      "カリナさん"
-    ],
-    "correctAnswer": 0,
-    "difficulty": 2
-  },
-  {
     "id": 69,
     "question": "<b>Sổ tay</b>",
     "options": [
@@ -823,16 +813,6 @@
     ],
     "correctAnswer": 2,
     "difficulty": 1
-  },
-  {
-    "id": 71,
-    "question": "<b>A：やまださんは　がくせいですか。<p>B：はい、（　）です。</p></b>",
-    "options": [
-      "そう",
-      "やまださん"
-    ],
-    "correctAnswer": 0,
-    "difficulty": 2
   },
   {
     "id": 72,
@@ -1101,7 +1081,7 @@
       "は",
       "も"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "difficulty": 1
   },
   {
@@ -1440,7 +1420,7 @@
       "は",
       "も"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "difficulty": 1
   },
   {
@@ -1464,7 +1444,7 @@
       "は",
       "も"
     ],
-    "correctAnswer": 2,
+    "correctAnswer": 1,
     "difficulty": 1
   },
   {
