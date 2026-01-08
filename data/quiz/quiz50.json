@@ -44,20 +44,8 @@
       "そちら",
       "どちら"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "difficulty": 2
-  },
-  {
-    "id": 5,
-    "question": "<b>ようい</b>",
-    "options": [
-      "Chuẩn bị",
-      "Cảm tạ",
-      "Làm phiền",
-      "Động viên"
-    ],
-    "correctAnswer": 0,
-    "difficulty": 1
   },
   {
     "id": 6,
@@ -168,18 +156,6 @@
     "difficulty": 1
   },
   {
-    "id": 15,
-    "question": "<b>うつくしい</b>",
-    "options": [
-      "Bần cùng",
-      "Dơ bẩn",
-      "Xấu xí",
-      "Đẹp"
-    ],
-    "correctAnswer": 2,
-    "difficulty": 1
-  },
-  {
     "id": 16,
     "question": "<b>Là (cách nói lịch sự của です)</b>",
     "options": [
@@ -188,7 +164,7 @@
       "アルバム",
       "～でございます"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "difficulty": 1
   },
   {
@@ -200,7 +176,7 @@
       "さらいねん",
       "ぞんじます"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "difficulty": 2
   },
   {
@@ -260,7 +236,7 @@
       "Thế thì, Vậy thì",
       "Tự nhiên, thiên nhiên"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "difficulty": 1
   },
   {
@@ -296,7 +272,7 @@
       "Thu",
       "Ăn, uống, nhận (từ khiêm tốn của 食べます、のみます、もらいます)"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "difficulty": 1
   },
   {
@@ -368,7 +344,7 @@
       "ございます",
       "もうします"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "difficulty": 1
   },
   {
@@ -384,26 +360,6 @@
     "difficulty": 2
   },
   {
-    "id": 33,
-    "question": "<b><ruby>重<rp>（</rp><rt>おも</rt><rp>）</rp></ruby>そうですね。<ruby>私<rp>（</rp><rt>わたし</rt><rp>）</rp></ruby>が（　）。</b>",
-    "options": [
-      "お手伝いします",
-      "お手伝いになります"
-    ],
-    "correctAnswer": 0,
-    "difficulty": 2
-  },
-  {
-    "id": 34,
-    "question": "<b><ruby>先<ruby>生<rp>（</rp><rt>う</rt><rp>）</rp></ruby><rp>（</rp><rt>せんせい</rt><rp>）</rp></ruby>はパーティーの<ruby>時<ruby>間<rp>（</rp><rt>あいだ</rt><rp>）</rp></ruby><rp>（</rp><rt>じかん</rt><rp>）</rp></ruby>を（　）か。</b>",
-    "options": [
-      "ご存じです",
-      "存じています"
-    ],
-    "correctAnswer": 1,
-    "difficulty": 3
-  },
-  {
     "id": 35,
     "question": "<b>A：これは　なんですか。<p>B：（　）は　はいけいです。</p></b>",
     "options": [
@@ -416,16 +372,6 @@
     "difficulty": 2
   },
   {
-    "id": 36,
-    "question": "<b>きれいな<ruby>桜<rp>（</rp><rt>さくら</rt><rp>）</rp></ruby>の<ruby>花<rp>（</rp><rt>はな</rt><rp>）</rp></ruby>をビデオ（　）<ruby>撮<rp>（</rp><rt>と</rt><rp>）</rp></ruby>って、<ruby>国<rp>（</rp><rt>くに</rt><rp>）</rp></ruby>の<ruby>家族<rp>（</rp><rt>かぞく</rt><rp>）</rp></ruby>（　）<ruby>見<rp>（</rp><rt>み</rt><rp>）</rp></ruby>せたいと<ruby>思<rp>（</rp><rt>おも</rt><rp>）</rp></ruby>います。</b>",
-    "options": [
-      "に、　が",
-      "に、　に"
-    ],
-    "correctAnswer": 0,
-    "difficulty": 4
-  },
-  {
     "id": 37,
     "question": "<b><ruby>先<ruby>日<rp>（</rp><rt>ひ</rt><rp>）</rp></ruby><rp>（</rp><rt>せんじつ</rt><rp>）</rp></ruby>、<ruby>先<ruby>生<rp>（</rp><rt>う</rt><rp>）</rp></ruby><rp>（</rp><rt>せんせい</rt><rp>）</rp></ruby>のご<ruby>本<rp>（</rp><rt>ほん</rt><rp>）</rp></ruby>を（　）。</b>",
     "options": [
@@ -436,16 +382,6 @@
     "difficulty": 3
   },
   {
-    "id": 38,
-    "question": "<b><ruby>中村<rp>（</rp><rt>なかむら</rt><rp>）</rp></ruby>：<ruby>高橋<rp>（</rp><rt>たかはし</rt><rp>）</rp></ruby>さんは<ruby>会議<rp>（</rp><rt>かいぎ</rt><rp>）</rp></ruby>の<ruby>予定<rp>（</rp><rt>よてい</rt><rp>）</rp></ruby>についてご<ruby>存<rp>（</rp><rt>ぞん</rt><rp>）</rp></ruby>じですか。<p><ruby>高橋<rp>（</rp><rt>たかはし</rt><rp>）</rp></ruby>：いいえ、（　）。</p></b>",
-    "options": [
-      "ご存じじゃありません",
-      "存じません"
-    ],
-    "correctAnswer": 1,
-    "difficulty": 4
-  },
-  {
     "id": 39,
     "question": "<b>こうがい</b>",
     "options": [
@@ -454,30 +390,8 @@
       "Thế thì, Vậy thì",
       "Tôi nói vài lời có được không?"
     ],
-    "correctAnswer": 0,
-    "difficulty": 1
-  },
-  {
-    "id": 40,
-    "question": "<b>A：これは　なんですか。<p>B：（　）は　ほうそうしますです。</p></b>",
-    "options": [
-      "あれ",
-      "これ",
-      "それ",
-      "どれ"
-    ],
     "correctAnswer": 1,
-    "difficulty": 2
-  },
-  {
-    "id": 41,
-    "question": "<b><ruby>先<ruby>生<rp>（</rp><rt>う</rt><rp>）</rp></ruby><rp>（</rp><rt>せんせい</rt><rp>）</rp></ruby>は<ruby>何<rp>（</rp><rt>なん</rt><rp>）</rp></ruby>と（　）か。</b>",
-    "options": [
-      "おっしゃいました",
-      "申しました"
-    ],
-    "correctAnswer": 0,
-    "difficulty": 2
+    "difficulty": 1
   },
   {
     "id": 42,
@@ -548,20 +462,8 @@
       "Tiệc chia tay",
       "Trở thành hiện thực"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "difficulty": 1
-  },
-  {
-    "id": 48,
-    "question": "<b>A：これは　なんですか。<p>B：（　）は　まいりますです。</p></b>",
-    "options": [
-      "あれ",
-      "これ",
-      "それ",
-      "どれ"
-    ],
-    "correctAnswer": 1,
-    "difficulty": 2
   },
   {
     "id": 49,
@@ -620,30 +522,8 @@
       "Kính thư (từ kết thúc của bức thư)",
       "Ăn, uống, nhận (từ khiêm tốn của 食べます、のみます、もらいます)"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "difficulty": 1
-  },
-  {
-    "id": 54,
-    "question": "<b><ruby>先<ruby>生<rp>（</rp><rt>う</rt><rp>）</rp></ruby><rp>（</rp><rt>せんせい</rt><rp>）</rp></ruby>の<ruby>予定<rp>（</rp><rt>よてい</rt><rp>）</rp></ruby>は<ruby>受<ruby>付<rp>（</rp><rt>つ</rt><rp>）</rp></ruby><rp>（</rp><rt>うけつけ</rt><rp>）</rp></ruby>に（　）ください。</b>",
-    "options": [
-      "お聞きになって",
-      "伺って"
-    ],
-    "correctAnswer": 0,
-    "difficulty": 3
-  },
-  {
-    "id": 55,
-    "question": "<b>A：これは　なんですか。<p>B：（　）は　とりますです。</p></b>",
-    "options": [
-      "あれ",
-      "これ",
-      "それ",
-      "どれ"
-    ],
-    "correctAnswer": 1,
-    "difficulty": 2
   },
   {
     "id": 56,
@@ -654,7 +534,7 @@
       "はいけんします",
       "ミュンヘン"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "difficulty": 2
   },
   {
@@ -670,16 +550,6 @@
     "difficulty": 2
   },
   {
-    "id": 58,
-    "question": "<b><ruby>始<rp>（</rp><rt>はじ</rt><rp>）</rp></ruby>めまして。<ruby>林<rp>（</rp><rt>はやし</rt><rp>）</rp></ruby>（　）<ruby>申<rp>（</rp><rt>もう</rt><rp>）</rp></ruby>します。</b>",
-    "options": [
-      "と",
-      "も"
-    ],
-    "correctAnswer": 1,
-    "difficulty": 2
-  },
-  {
     "id": 59,
     "question": "<b>Tiền thưởng</b>",
     "options": [
@@ -692,16 +562,6 @@
     "difficulty": 1
   },
   {
-    "id": 60,
-    "question": "<b>ミラーさんがスポーツ<ruby>大<ruby>会<rp>（</rp><rt>あ</rt><rp>）</rp></ruby><rp>（</rp><rt>たいかい</rt><rp>）</rp></ruby>（　）<ruby>優<ruby>勝<rp>（</rp><rt>か</rt><rp>）</rp></ruby><rp>（</rp><rt>ゆうしょう</rt><rp>）</rp></ruby>したの（　）ご<ruby>存<rp>（</rp><rt>ぞん</rt><rp>）</rp></ruby>じですか。</b>",
-    "options": [
-      "で、を",
-      "へ、を"
-    ],
-    "correctAnswer": 0,
-    "difficulty": 3
-  },
-  {
     "id": 61,
     "question": "<b>けいぐ</b>",
     "options": [
@@ -710,20 +570,8 @@
       "Đi, đến (từ khiêm tốn của きます、いきます)",
       "Ở (từ khiêm tốn của います)"
     ],
-    "correctAnswer": 0,
-    "difficulty": 1
-  },
-  {
-    "id": 62,
-    "question": "<b>A：これは　なんですか。<p>B：（　）は　きょうりょくしますです。</p></b>",
-    "options": [
-      "あれ",
-      "これ",
-      "それ",
-      "どれ"
-    ],
     "correctAnswer": 1,
-    "difficulty": 2
+    "difficulty": 1
   },
   {
     "id": 63,
@@ -746,7 +594,7 @@
       "Lúc các ông (bà) đang bận.",
       "Tiệc chia tay"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "difficulty": 1
   },
   {
@@ -798,26 +646,6 @@
     "difficulty": 1
   },
   {
-    "id": 69,
-    "question": "<b>もしもし、こちらはパワー<ruby>電気<rp>（</rp><rt>でんき</rt><rp>）</rp></ruby>（　）ございます。</b>",
-    "options": [
-      "で",
-      "に"
-    ],
-    "correctAnswer": 1,
-    "difficulty": 2
-  },
-  {
-    "id": 70,
-    "question": "<b>グプタさんは<ruby>刺身<rp>（</rp><rt>さしみ</rt><rp>）</rp></ruby>を（　）。</b>",
-    "options": [
-      "いただきません",
-      "召し上がりません"
-    ],
-    "correctAnswer": 0,
-    "difficulty": 2
-  },
-  {
     "id": 71,
     "question": "<b>参ります</b>",
     "options": [
@@ -826,7 +654,7 @@
       "まいります",
       "みなさま"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "difficulty": 2
   },
   {
@@ -874,7 +702,7 @@
       "はいけんします",
       "もうします"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "difficulty": 2
   },
   {
@@ -922,7 +750,7 @@
       "Voi",
       "Đi, đến (từ khiêm tốn của きます、いきます)"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "difficulty": 1
   },
   {
@@ -950,16 +778,6 @@
     "difficulty": 1
   },
   {
-    "id": 82,
-    "question": "<b>また<ruby>先<ruby>生<rp>（</rp><rt>う</rt><rp>）</rp></ruby><rp>（</rp><rt>せんせい</rt><rp>）</rp></ruby>に（　）と<ruby>思<rp>（</rp><rt>おも</rt><rp>）</rp></ruby>います。</b>",
-    "options": [
-      "お目にかかりたい",
-      "拝見したい"
-    ],
-    "correctAnswer": 0,
-    "difficulty": 2
-  },
-  {
     "id": 83,
     "question": "<b>ございます</b>",
     "options": [
@@ -968,7 +786,7 @@
       "Khi, lúc",
       "Kính gửi (từ đầu thư)"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "difficulty": 1
   },
   {
@@ -1064,18 +882,8 @@
       "Người hướng dẫn",
       "Nhân viên bán hàng"
     ],
-    "correctAnswer": 3,
+    "correctAnswer": 2,
     "difficulty": 1
-  },
-  {
-    "id": 92,
-    "question": "<b><ruby>父<rp>（</rp><rt>ちち</rt><rp>）</rp></ruby>は<ruby>再<ruby>来<rp>（</rp><rt>き</rt><rp>）</rp></ruby>週<rp>（</rp><rt>さらいしゅう</rt><rp>）</rp></ruby><ruby>日<ruby>本<rp>（</rp><rt>ほん</rt><rp>）</rp></ruby><rp>（</rp><rt>にほん</rt><rp>）</rp></ruby>へ（　）。<p></p></b>",
-    "options": [
-      "参ります",
-      "来られます"
-    ],
-    "correctAnswer": 0,
-    "difficulty": 3
   },
   {
     "id": 93,
@@ -1110,7 +918,7 @@
       "Tháng sau nữa",
       "Tiền thưởng"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "difficulty": 1
   },
   {
@@ -1122,7 +930,7 @@
       "Thế thì, Vậy thì",
       "Đi, đến (từ khiêm tốn của きます、いきます)"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "difficulty": 1
   },
   {
@@ -1150,16 +958,6 @@
     "difficulty": 1
   },
   {
-    "id": 99,
-    "question": "<b><ruby>私<rp>（</rp><rt>わたし</rt><rp>）</rp></ruby>たちは<ruby>来週<rp>（</rp><rt>らいしゅう</rt><rp>）</rp></ruby><ruby>先<ruby>生<rp>（</rp><rt>う</rt><rp>）</rp></ruby><rp>（</rp><rt>せんせい</rt><rp>）</rp></ruby>のお<ruby>宅<rp>（</rp><rt>たく</rt><rp>）</rp></ruby>へ（　）。</b>",
-    "options": [
-      "おっしゃいます",
-      "伺います"
-    ],
-    "correctAnswer": 1,
-    "difficulty": 3
-  },
-  {
     "id": 100,
     "question": "<b>えどとうきょうはくぶつかん</b>",
     "options": [
@@ -1180,7 +978,7 @@
       "ごしんせつ",
       "～でございます"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "difficulty": 1
   },
   {
@@ -1204,7 +1002,7 @@
       "みなさま",
       "～でございます"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "difficulty": 2
   },
   {
@@ -1216,7 +1014,7 @@
       "Tiền thưởng",
       "Ăn, uống, nhận (từ khiêm tốn của 食べます、のみます、もらいます)"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "difficulty": 1
   },
   {
@@ -1228,19 +1026,7 @@
       "Kính gửi (từ đầu thư)",
       "Voi"
     ],
-    "correctAnswer": 0,
-    "difficulty": 1
-  },
-  {
-    "id": 106,
-    "question": "<b>Đầu tiên</b>",
-    "options": [
-      "さいこうに",
-      "さいごに",
-      "はじめに",
-      "はじめまして"
-    ],
-    "correctAnswer": 2,
+    "correctAnswer": 3,
     "difficulty": 1
   },
   {
@@ -1252,7 +1038,7 @@
       "Quí vị",
       "Đi, đến (từ khiêm tốn của きます、いきます)"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "difficulty": 1
   },
   {
@@ -1300,7 +1086,7 @@
       "さらいげつ",
       "～でございます"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "difficulty": 1
   },
   {
@@ -1312,7 +1098,7 @@
       "Kính thư (từ kết thúc của bức thư)",
       "Năm sau nữa"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "difficulty": 1
   },
   {
@@ -1324,18 +1110,8 @@
       "Nghe, hỏi (từ khiêm tốn của ききます)",
       "Người hướng dẫn, hướng dẫn viên du lịch"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "difficulty": 1
-  },
-  {
-    "id": 114,
-    "question": "<b>わたくしが<ruby>旅<ruby>行<rp>（</rp><rt>い</rt><rp>）</rp></ruby><rp>（</rp><rt>りょこう</rt><rp>）</rp></ruby>について（　）。</b>",
-    "options": [
-      "ご説明します",
-      "説明されます"
-    ],
-    "correctAnswer": 1,
-    "difficulty": 2
   },
   {
     "id": 115,
@@ -1346,7 +1122,7 @@
       "とります",
       "わたくし"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "difficulty": 2
   },
   {
@@ -1358,18 +1134,8 @@
       "Tháng sau nữa",
       "Tôi (khiêm tốn của わたし)"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "difficulty": 1
-  },
-  {
-    "id": 117,
-    "question": "<b><ruby>先<ruby>生<rp>（</rp><rt>う</rt><rp>）</rp></ruby><rp>（</rp><rt>せんせい</rt><rp>）</rp></ruby>のお<ruby>宅<rp>（</rp><rt>たく</rt><rp>）</rp></ruby>（１）<ruby>伺<rp>（</rp><rt>うかが</rt><rp>）</rp></ruby>って、<ruby>奥様<rp>（</rp><rt>おくさま</rt><rp>）</rp></ruby>（２）お<ruby>目<rp>（</rp><rt>め</rt><rp>）</rp></ruby>にかかりました。</b><p><b>(1)</b></p>",
-    "options": [
-      "へ",
-      "を"
-    ],
-    "correctAnswer": 0,
-    "difficulty": 3
   },
   {
     "id": 118,
@@ -1408,16 +1174,6 @@
     "difficulty": 1
   },
   {
-    "id": 121,
-    "question": "<b>この<ruby>間<rp>（</rp><rt>あいだ</rt><rp>）</rp></ruby>、<ruby>社<ruby>長<rp>（</rp><rt>なが</rt><rp>）</rp></ruby><rp>（</rp><rt>しゃちょう</rt><rp>）</rp></ruby>に（　）。</b>",
-    "options": [
-      "お目にかかりました",
-      "ご覧になりました"
-    ],
-    "correctAnswer": 0,
-    "difficulty": 2
-  },
-  {
     "id": 122,
     "question": "<b>みなさま</b>",
     "options": [
@@ -1426,18 +1182,8 @@
       "Phát sóng",
       "Quí vị"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "difficulty": 1
-  },
-  {
-    "id": 123,
-    "question": "<b><ruby>伊藤<rp>（</rp><rt>いとう</rt><rp>）</rp></ruby><ruby>先<ruby>生<rp>（</rp><rt>う</rt><rp>）</rp></ruby><rp>（</rp><rt>せんせい</rt><rp>）</rp></ruby>（　）パーティー（　）ご<ruby>招<ruby>待<rp>（</rp><rt>ま</rt><rp>）</rp></ruby><rp>（</rp><rt>しょうたい</rt><rp>）</rp></ruby>したいと<ruby>思<rp>（</rp><rt>おも</rt><rp>）</rp></ruby>います。</b>",
-    "options": [
-      "が、　に",
-      "を、　に"
-    ],
-    "correctAnswer": 0,
-    "difficulty": 3
   },
   {
     "id": 124,
@@ -1448,7 +1194,7 @@
       "はいけい",
       "もうします"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "difficulty": 2
   },
   {
@@ -1464,18 +1210,6 @@
     "difficulty": 2
   },
   {
-    "id": 126,
-    "question": "<b>A：これは　なんですか。<p>B：（　）は　ごしゅっせきくださいましてです。</p></b>",
-    "options": [
-      "あれ",
-      "これ",
-      "それ",
-      "どれ"
-    ],
-    "correctAnswer": 1,
-    "difficulty": 2
-  },
-  {
     "id": 127,
     "question": "<b>ご<ruby>出<rp>（</rp><rt>だ</rt><rp>）</rp></ruby>席くださいまして</b>",
     "options": [
@@ -1484,7 +1218,7 @@
       "ごしんせつ",
       "わたくし"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "difficulty": 2
   },
   {
@@ -1508,7 +1242,7 @@
       "Quí vị",
       "Tiền thưởng"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "difficulty": 1
   },
   {
@@ -1520,7 +1254,7 @@
       "ごしんせつ",
       "ほうそうします"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "difficulty": 2
   },
   {
@@ -1556,7 +1290,7 @@
       "Năm sau nữa",
       "Voi"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "difficulty": 1
   },
   {
@@ -1568,18 +1302,8 @@
       "Hươu cao cổ",
       "Ăn, uống, nhận (từ khiêm tốn của 食べます、のみます、もらいます)"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "difficulty": 1
-  },
-  {
-    "id": 135,
-    "question": "<b><ruby>先<ruby>生<rp>（</rp><rt>う</rt><rp>）</rp></ruby><rp>（</rp><rt>せんせい</rt><rp>）</rp></ruby>のお<ruby>宅<rp>（</rp><rt>たく</rt><rp>）</rp></ruby>（１）<ruby>伺<rp>（</rp><rt>うかが</rt><rp>）</rp></ruby>って、<ruby>奥様<rp>（</rp><rt>おくさま</rt><rp>）</rp></ruby>（２）お<ruby>目<rp>（</rp><rt>め</rt><rp>）</rp></ruby>にかかりました。</b><p><b>(2)</b></p>",
-    "options": [
-      "に",
-      "を"
-    ],
-    "correctAnswer": 0,
-    "difficulty": 3
   },
   {
     "id": 136,
@@ -1614,7 +1338,7 @@
       "Ăn, uống",
       "Ở, có"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "difficulty": 1
   },
   {
@@ -1626,18 +1350,8 @@
       "しぜん",
       "ほうそうします"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "difficulty": 2
-  },
-  {
-    "id": 140,
-    "question": "<b>この<ruby>賞<ruby>金<rp>（</rp><rt>きん</rt><rp>）</rp></ruby><rp>（</rp><rt>しょうきん</rt><rp>）</rp></ruby>は<ruby>何<rp>（</rp><rt>なん</rt><rp>）</rp></ruby>（　）お<ruby>使<rp>（</rp><rt>つか</rt><rp>）</rp></ruby>いになるつもりですか。</b>",
-    "options": [
-      "に",
-      "も"
-    ],
-    "correctAnswer": 1,
-    "difficulty": 3
   },
   {
     "id": 141,
@@ -1700,26 +1414,6 @@
     "difficulty": 1
   },
   {
-    "id": 146,
-    "question": "<b><ruby>係<rp>（</rp><rt>かかり</rt><rp>）</rp></ruby>の<ruby>者<rp>（</rp><rt>もの</rt><rp>）</rp></ruby>は（　）<ruby>席<rp>（</rp><rt>せき</rt><rp>）</rp></ruby>を<ruby>外<rp>（</rp><rt>はず</rt><rp>）</rp></ruby>しております。</b>",
-    "options": [
-      "ただ今",
-      "たった今"
-    ],
-    "correctAnswer": 1,
-    "difficulty": 3
-  },
-  {
-    "id": 147,
-    "question": "<b>わたしは<ruby>毎晩<rp>（</rp><rt>まいばん</rt><rp>）</rp></ruby>３<ruby>時<ruby>間<rp>（</rp><rt>あいだ</rt><rp>）</rp></ruby><rp>（</rp><rt>じかん</rt><rp>）</rp></ruby>ぐらいテレビを（　）。</b>",
-    "options": [
-      "ご覧になっています",
-      "見ています"
-    ],
-    "correctAnswer": 0,
-    "difficulty": 3
-  },
-  {
     "id": 148,
     "question": "<b>A：アルバムは　どちらですか。<p>B：（　）です。</p></b>",
     "options": [
@@ -1764,7 +1458,7 @@
       "Tháng sau nữa",
       "Địa danh của Đức"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "difficulty": 1
   },
   {
@@ -1800,7 +1494,7 @@
       "Làm phiền",
       "Tiền thưởng"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "difficulty": 1
   },
   {
@@ -1835,16 +1529,6 @@
       "ここ",
       "そこ",
       "どこ"
-    ],
-    "correctAnswer": 0,
-    "difficulty": 2
-  },
-  {
-    "id": 158,
-    "question": "<b>お<ruby>名<ruby>前<rp>（</rp><rt>まえ</rt><rp>）</rp></ruby><rp>（</rp><rt>なまえ</rt><rp>）</rp></ruby>は<ruby>何<rp>（</rp><rt>なん</rt><rp>）</rp></ruby>（　）おっしゃいますか。</b>",
-    "options": [
-      "と",
-      "を"
     ],
     "correctAnswer": 0,
     "difficulty": 2
@@ -1928,7 +1612,7 @@
       "Kính gửi (từ đầu thư)",
       "Ở (từ khiêm tốn của います)"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "difficulty": 1
   },
   {
@@ -1940,7 +1624,7 @@
       "Tiền thưởng",
       "Địa danh của Đức"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "difficulty": 1
   },
   {
@@ -1952,7 +1636,7 @@
       "おります",
       "さらいしゅう"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "difficulty": 1
   },
   {
@@ -1964,7 +1648,7 @@
       "Người hướng dẫn, hướng dẫn viên du lịch",
       "Tự nhiên, thiên nhiên"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "difficulty": 1
   },
   {
@@ -1988,7 +1672,7 @@
       "Thế thì, Vậy thì",
       "Ở (từ khiêm tốn của います)"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "difficulty": 1
   },
   {
@@ -2000,7 +1684,7 @@
       "Ăn, uống, nhận (từ khiêm tốn của 食べます、のみます、もらいます)",
       "Ở (từ khiêm tốn của います)"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "difficulty": 1
   },
   {
@@ -2012,7 +1696,7 @@
       "Năm sau nữa",
       "Quí vị"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "difficulty": 1
   },
   {
@@ -2036,7 +1720,7 @@
       "さらいねん",
       "しょうきん"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "difficulty": 2
   }
 ]

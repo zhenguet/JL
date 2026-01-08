@@ -1,17 +1,5 @@
 [
   {
-    "id": 1,
-    "question": "<b>ゆか</b>",
-    "options": [
-      "床",
-      "康",
-      "木",
-      "病"
-    ],
-    "correctAnswer": 0,
-    "difficulty": 1
-  },
-  {
     "id": 2,
     "question": "<b>Gặp khó khăn</b>",
     "options": [
@@ -78,7 +66,7 @@
       "Vào",
       "Đi đến, hướng tới"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "difficulty": 1
   },
   {
@@ -102,7 +90,7 @@
       "Sơn",
       "Đi đến, hướng tới"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "difficulty": 1
   },
   {
@@ -115,18 +103,6 @@
       "ガス・サービス・センター"
     ],
     "correctAnswer": 0,
-    "difficulty": 1
-  },
-  {
-    "id": 11,
-    "question": "<b>はんとし</b>",
-    "options": [
-      "判年",
-      "半年",
-      "洋年",
-      "羊年"
-    ],
-    "correctAnswer": 2,
     "difficulty": 1
   },
   {
@@ -150,7 +126,7 @@
       "Từ khóa (từ quan trọng)",
       "Vào"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "difficulty": 1
   },
   {
@@ -186,7 +162,7 @@
       "みつかります",
       "むかいます"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "difficulty": 2
   },
   {
@@ -222,7 +198,7 @@
       "Xin lỗi, bây giờ có làm phiền gì anh/chị không?",
       "Đi đến, hướng tới"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "difficulty": 1
   },
   {
@@ -234,7 +210,7 @@
       "Sơn",
       "Xin lỗi, bây giờ có làm phiền gì anh/chị không?"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "difficulty": 1
   },
   {
@@ -400,7 +376,7 @@
       "Sách giới thiệu",
       "Tìm thấy, tìm ra"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "difficulty": 1
   },
   {
@@ -412,7 +388,7 @@
       "Trao tay, đưa cho",
       "Từ khóa (từ quan trọng)"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "difficulty": 1
   },
   {
@@ -425,18 +401,6 @@
       "ガスレンジ"
     ],
     "correctAnswer": 3,
-    "difficulty": 1
-  },
-  {
-    "id": 37,
-    "question": "<b>Sự việc</b>",
-    "options": [
-      "ぐあい",
-      "できごと",
-      "ところ",
-      "ゆか"
-    ],
-    "correctAnswer": 2,
     "difficulty": 1
   },
   {
@@ -590,18 +554,6 @@
     "difficulty": 3
   },
   {
-    "id": 51,
-    "question": "<b>Đi vắng</b>",
-    "options": [
-      "たつ",
-      "のす",
-      "るす",
-      "ろか"
-    ],
-    "correctAnswer": 3,
-    "difficulty": 1
-  },
-  {
     "id": 52,
     "question": "<b>乾きます</b>",
     "options": [
@@ -646,7 +598,7 @@
       "わたします",
       "キーワード"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "difficulty": 2
   },
   {
@@ -658,7 +610,7 @@
       "びょう",
       "システム"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "difficulty": 2
   },
   {
@@ -728,7 +680,7 @@
       "完配便",
       "究配便"
     ],
-    "correctAnswer": 2,
+    "correctAnswer": 0,
     "difficulty": 1
   },
   {
@@ -810,7 +762,7 @@
       "どちらさまでしょうか",
       "システム"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "difficulty": 2
   },
   {
@@ -834,7 +786,7 @@
       "ぬります",
       "ぬれます"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "difficulty": 1
   },
   {
@@ -846,7 +798,7 @@
       "Quét, sơn",
       "Tri thức"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "difficulty": 1
   },
   {
@@ -858,7 +810,7 @@
       "むかいます",
       "ガスレンジ"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "difficulty": 2
   },
   {
@@ -882,7 +834,7 @@
       "パンフレット",
       "ペンキ"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "difficulty": 1
   },
   {
@@ -934,18 +886,6 @@
     "difficulty": 1
   },
   {
-    "id": 80,
-    "question": "<b>情報</b>",
-    "options": [
-      "じょうほ",
-      "じょうほう",
-      "じょほ",
-      "じょほう"
-    ],
-    "correctAnswer": 1,
-    "difficulty": 2
-  },
-  {
     "id": 81,
     "question": "<b>Tình trạng, trạng thái</b>",
     "options": [
@@ -994,18 +934,6 @@
     "difficulty": 1
   },
   {
-    "id": 85,
-    "question": "<b>卒業</b>",
-    "options": [
-      "そっぎょう",
-      "そつぎょう",
-      "にゅうがく",
-      "にゅがく"
-    ],
-    "correctAnswer": 3,
-    "difficulty": 2
-  },
-  {
     "id": 86,
     "question": "<b>注射</b>",
     "options": [
@@ -1014,7 +942,7 @@
       "キーワード",
       "ペンキ"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "difficulty": 2
   },
   {
@@ -1124,18 +1052,6 @@
     "difficulty": 1
   },
   {
-    "id": 96,
-    "question": "<b>パンフレット</b>",
-    "options": [
-      "Giấy đăng ký",
-      "Hoá đơn",
-      "Phiếu bảo hành",
-      "Tờ rơi"
-    ],
-    "correctAnswer": 2,
-    "difficulty": 1
-  },
-  {
     "id": 97,
     "question": "<b>Từ khóa (từ quan trọng)</b>",
     "options": [
@@ -1168,7 +1084,7 @@
       "ぬります",
       "やきます"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "difficulty": 1
   },
   {
@@ -1180,7 +1096,7 @@
       "Xin lỗi, bây giờ có làm phiền gì anh/chị không?",
       "Đi đến, hướng tới"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "difficulty": 1
   },
   {
@@ -1194,18 +1110,6 @@
     ],
     "correctAnswer": 0,
     "difficulty": 1
-  },
-  {
-    "id": 102,
-    "question": "<b>留守</b>",
-    "options": [
-      "しゅうす",
-      "るうす",
-      "るす",
-      "るすう"
-    ],
-    "correctAnswer": 1,
-    "difficulty": 2
   },
   {
     "id": 103,
@@ -1262,7 +1166,7 @@
       "Từ khóa (từ quan trọng)",
       "Ướt"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "difficulty": 1
   },
   {
@@ -1274,7 +1178,7 @@
       "Tri thức",
       "Tìm thấy, tìm ra"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "difficulty": 1
   },
   {
@@ -1286,7 +1190,7 @@
       "Tiến triển, tiến lên",
       "Trung tâm dịch vụ ga"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "difficulty": 1
   },
   {
@@ -1298,7 +1202,7 @@
       "Trung tâm dịch vụ ga",
       "Tìm thấy, tìm ra"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "difficulty": 1
   },
   {
@@ -1320,7 +1224,7 @@
       "上手な",
       "上手の"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "difficulty": 2
   },
   {
@@ -1332,7 +1236,7 @@
       "にゅうりょく",
       "むかいます"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "difficulty": 2
   },
   {
@@ -1486,7 +1390,7 @@
       "Từ khóa (từ quan trọng)",
       "Âm thanh nổi"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "difficulty": 1
   },
   {
@@ -1498,7 +1402,7 @@
       "Sách giới thiệu",
       "Xin cho hỏi ngài là ai ạ?"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "difficulty": 1
   },
   {
@@ -1510,19 +1414,7 @@
       "Tìm thấy, tìm ra",
       "Tình trạng"
     ],
-    "correctAnswer": 0,
-    "difficulty": 1
-  },
-  {
-    "id": 129,
-    "question": "<b>ベル</b>",
-    "options": [
-      "Bếp ga",
-      "Chuông cửa",
-      "Chìa khóa",
-      "Sàn nhà"
-    ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "difficulty": 1
   },
   {
@@ -1548,16 +1440,6 @@
     "difficulty": 3
   },
   {
-    "id": 132,
-    "question": "<b>もしもし、<ruby>今<rp>（</rp><rt>いま</rt><rp>）</rp></ruby>どこにいるんですか。<p>…<ruby>空港<rp>（</rp><rt>くうこう</rt><rp>）</rp></ruby>です。たった<ruby>今<rp>（</rp><rt>いま</rt><rp>）</rp></ruby><ruby>日<ruby>本<rp>（</rp><rt>ほん</rt><rp>）</rp></ruby><rp>（</rp><rt>にほん</rt><rp>）</rp></ruby>に（　）ところです。</p></b>",
-    "options": [
-      "着いた",
-      "着いている"
-    ],
-    "correctAnswer": 1,
-    "difficulty": 3
-  },
-  {
     "id": 133,
     "question": "<b>この<ruby>時計<rp>（</rp><rt>とけい</rt><rp>）</rp></ruby>は１<ruby>週<ruby>間<rp>（</rp><rt>あいだ</rt><rp>）</rp></ruby><rp>（</rp><rt>しゅうかん</rt><rp>）</rp></ruby>まえに、<ruby>買<rp>（</rp><rt>か</rt><rp>）</rp></ruby>った（　）なのに、もう<ruby>壊<rp>（</rp><rt>こわ</rt><rp>）</rp></ruby>れてしまいました。</b>",
     "options": [
@@ -1576,7 +1458,7 @@
       "Nguyên nhân",
       "Từ khóa (từ quan trọng)"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "difficulty": 1
   },
   {
@@ -1588,7 +1470,7 @@
       "Từ khóa (từ quan trọng)",
       "Vào"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "difficulty": 1
   },
   {
@@ -1600,7 +1482,7 @@
       "Nguyên nhân",
       "Ướt"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "difficulty": 1
   },
   {
@@ -1658,7 +1540,7 @@
       "ちゅうしゃ",
       "はいります"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "difficulty": 2
   },
   {
@@ -1670,7 +1552,7 @@
       "Trung tâm dịch vụ ga",
       "Âm thanh nổi"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "difficulty": 1
   },
   {
@@ -1730,7 +1612,7 @@
       "そちら",
       "どちら"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "difficulty": 2
   },
   {
@@ -1742,18 +1624,8 @@
       "まかいます",
       "むかいます"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "difficulty": 2
-  },
-  {
-    "id": 149,
-    "question": "<b><ruby>火事<rp>（</rp><rt>かじ</rt><rp>）</rp></ruby>の（　）はたばこです。</b>",
-    "options": [
-      "原因",
-      "理由"
-    ],
-    "correctAnswer": 0,
-    "difficulty": 3
   },
   {
     "id": 150,
@@ -1764,7 +1636,7 @@
       "Sách giới thiệu",
       "Ướt"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "difficulty": 1
   },
   {
@@ -1824,7 +1696,7 @@
       "Xin lỗi, bây giờ có làm phiền gì anh/chị không?",
       "Ướt"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "difficulty": 1
   },
   {
@@ -1836,7 +1708,7 @@
       "Quét, sơn",
       "Tiêm"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "difficulty": 1
   },
   {
@@ -1860,7 +1732,7 @@
       "そこ",
       "どこ"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "difficulty": 2
   },
   {
@@ -1872,7 +1744,7 @@
       "ぬります",
       "はいります"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "difficulty": 2
   },
   {
@@ -1908,7 +1780,7 @@
       "てにはいります",
       "でます"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "difficulty": 1
   },
   {
@@ -1920,7 +1792,7 @@
       "Trao tay, đưa cho",
       "Âm thanh nổi"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "difficulty": 1
   },
   {
@@ -1934,16 +1806,6 @@
     ],
     "correctAnswer": 2,
     "difficulty": 1
-  },
-  {
-    "id": 165,
-    "question": "<b>A：<ruby>今<rp>（</rp><rt>いま</rt><rp>）</rp></ruby>、<ruby>忙<rp>（</rp><rt>いそが</rt><rp>）</rp></ruby>しいので、あとで（　）から<ruby>電<ruby>話<rp>（</rp><rt>はなし</rt><rp>）</rp></ruby><rp>（</rp><rt>でんわ</rt><rp>）</rp></ruby>します。<p>B：じゃ、すみませんが、お<ruby>願<rp>（</rp><rt>ねが</rt><rp>）</rp></ruby>いします。</p></b>",
-    "options": [
-      "こちら",
-      "自分"
-    ],
-    "correctAnswer": 1,
-    "difficulty": 3
   },
   {
     "id": 166,
@@ -1988,7 +1850,7 @@
       "Sơn",
       "Tri thức"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "difficulty": 1
   },
   {
