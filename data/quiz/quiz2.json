@@ -734,24 +734,24 @@
     "id": 63,
     "question": "<b>A：あなたの　ペンは　どれですか。<p>B：（　）です。</p></b>",
     "options": [
-      "その",
       "それ",
       "どの",
-      "どれ"
+      "どれ",
+      "その"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "difficulty": 2
   },
   {
     "id": 64,
     "question": "<b>テープ</b>",
     "options": [
-      "Băng cassette",
+      "Băng video",
       "Băng dính",
       "Băng ghi âm",
-      "Băng video"
+      "Băng cassette"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "difficulty": 1
   },
   {
@@ -1121,12 +1121,12 @@
     "id": 99,
     "question": "<b>それは　やまださん（　）ペンです。</b>",
     "options": [
-      "から",
       "の",
-      "は",
-      "も"
+      "も",
+      "から",
+      "は"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "difficulty": 1
   },
   {
