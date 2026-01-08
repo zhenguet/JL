@@ -23,7 +23,7 @@
   },
   {
     "id": 3,
-    "question": "<b>A：これは　なんですか。<p>B：（　）は　いちばんです。</p></b>",
+    "question": "<b>A：どれが　いちばんですか。<p>B：（　）は　いちばんです。</p></b>",
     "options": [
       "あれ",
       "これ",
@@ -213,7 +213,7 @@
   },
   {
     "id": 19,
-    "question": "<b>A：これは　なんですか。<p>B：（　）は　いちばんです。</p></b>",
+    "question": "<b>A：どれが　いちばんですか。<p>B：（　）は　いちばんです。</p></b>",
     "options": [
       "あれ",
       "これ",
@@ -399,7 +399,7 @@
   },
   {
     "id": 35,
-    "question": "<b>A：これは　なんですか。<p>B：（　）は　いちばんです。</p></b>",
+    "question": "<b>A：どれが　いちばんですか。<p>B：（　）は　いちばんです。</p></b>",
     "options": [
       "あれ",
       "これ",
@@ -532,7 +532,7 @@
       "に、が",
       "の、は"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "difficulty": 3
   },
   {
@@ -674,7 +674,7 @@
       "ほんや",
       "ぼんや"
     ],
-    "correctAnswer": 3,
+    "correctAnswer": 2,
     "difficulty": 1
   },
   {
@@ -990,7 +990,7 @@
       "tỉnh",
       "ở giữa"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "difficulty": 1
   },
   {
@@ -1456,18 +1456,6 @@
     "difficulty": 1
   },
   {
-    "id": 128,
-    "question": "<b>A：いちばんは　どこですか。<p>B：（　）です。</p></b>",
-    "options": [
-      "あそこ",
-      "ここ",
-      "そこ",
-      "どこ"
-    ],
-    "correctAnswer": 0,
-    "difficulty": 3
-  },
-  {
     "id": 129,
     "question": "<b>A：うえは　どちらですか。<p>B：（　）です。</p></b>",
     "options": [
@@ -1638,7 +1626,7 @@
       "が、に、が",
       "に、が、に"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "difficulty": 3
   },
   {
@@ -1770,7 +1758,7 @@
       "ngoài, bên ngoài",
       "tỉnh"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "difficulty": 1
   },
   {

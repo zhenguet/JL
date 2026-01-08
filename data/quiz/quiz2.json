@@ -256,7 +256,7 @@
   },
   {
     "id": 23,
-    "question": "<b><ruby>新<ruby>聞<rp>（</rp><rt>きこ</rt><rp>）</rp></ruby><rp>（</rp><rt>しんぶん</rt><rp>）</rp></ruby></b>",
+    "question": "<b><ruby>新聞<rp>（</rp><rt>しんぶん</rt><rp>）</rp></ruby></b>",
     "options": [
       "しんふん",
       "しんぶん",
@@ -503,7 +503,7 @@
       "どの",
       "どれ"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "difficulty": 3
   },
   {
@@ -739,7 +739,7 @@
       "どれ",
       "その"
     ],
-    "correctAnswer": 3,
+    "correctAnswer": 0,
     "difficulty": 2
   },
   {
@@ -787,7 +787,7 @@
       "どの",
       "どれ"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "difficulty": 2
   },
   {
@@ -859,7 +859,7 @@
       "は",
       "も"
     ],
-    "correctAnswer": 2,
+    "correctAnswer": 1,
     "difficulty": 1
   },
   {
@@ -1126,7 +1126,7 @@
       "から",
       "は"
     ],
-    "correctAnswer": 2,
+    "correctAnswer": 0,
     "difficulty": 1
   },
   {
@@ -1138,7 +1138,7 @@
       "Sổ tay",
       "Vở"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "difficulty": 1
   },
   {
@@ -1208,7 +1208,7 @@
       "どの",
       "どれ"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "difficulty": 2
   },
   {
@@ -1312,7 +1312,7 @@
       "どの",
       "どれ"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "difficulty": 2
   },
   {
@@ -1360,7 +1360,7 @@
       "雑誌",
       "雑識"
     ],
-    "correctAnswer": 3,
+    "correctAnswer": 2,
     "difficulty": 1
   },
   {

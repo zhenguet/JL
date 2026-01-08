@@ -1,10 +1,10 @@
 [
   {
     "id": 2,
-    "question": "<b>A：どうして　テニスをしませんか。<p>B：（　）。</p></b>",
+    "question": "<b>A：どうして　テニスをしませんか。<p>B：じかんが　ありません（　）。</p></b>",
     "options": [
-      "じかんが　ありませんから",
-      "テニスが　きらいですから"
+      "から",
+      "が"
     ],
     "correctAnswer": 0,
     "difficulty": 2
@@ -136,7 +136,7 @@
       "nhảy, khiêu vũ",
       "thịt gà"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "difficulty": 1
   },
   {
@@ -184,7 +184,7 @@
       "こまかいおかね",
       "とりにく"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "difficulty": 2
   },
   {
@@ -198,18 +198,6 @@
     ],
     "correctAnswer": 3,
     "difficulty": 1
-  },
-  {
-    "id": 19,
-    "question": "<b>A：あたまがいたいですは　どちらですか。<p>B：（　）です。</p></b>",
-    "options": [
-      "あちら",
-      "こちら",
-      "そちら",
-      "どちら"
-    ],
-    "correctAnswer": 1,
-    "difficulty": 2
   },
   {
     "id": 21,
@@ -250,7 +238,7 @@
       "ぜんぜん",
       "よく"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "difficulty": 1
   },
   {
@@ -264,18 +252,6 @@
     ],
     "correctAnswer": 0,
     "difficulty": 1
-  },
-  {
-    "id": 26,
-    "question": "<b>A：あたまがいたいですは　どこですか。<p>B：（　）です。</p></b>",
-    "options": [
-      "あそこ",
-      "ここ",
-      "そこ",
-      "どこ"
-    ],
-    "correctAnswer": 1,
-    "difficulty": 2
   },
   {
     "id": 27,
@@ -346,7 +322,7 @@
       "cái đó thì… (dùng khi muốn gián tiếp từ chối)",
       "thể thao"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "difficulty": 1
   },
   {
@@ -386,18 +362,6 @@
     "difficulty": 1
   },
   {
-    "id": 38,
-    "question": "<b>A：こまかいおかねは　どちらですか。<p>B：（　）です。</p></b>",
-    "options": [
-      "あちら",
-      "こちら",
-      "そちら",
-      "どちら"
-    ],
-    "correctAnswer": 1,
-    "difficulty": 2
-  },
-  {
     "id": 39,
     "question": "<b>おなか</b>",
     "options": [
@@ -434,30 +398,6 @@
     "difficulty": 1
   },
   {
-    "id": 42,
-    "question": "<b>A：やすみますは　どこですか。<p>B：（　）です。</p></b>",
-    "options": [
-      "あそこ",
-      "ここ",
-      "そこ",
-      "どこ"
-    ],
-    "correctAnswer": 0,
-    "difficulty": 2
-  },
-  {
-    "id": 43,
-    "question": "<b>A：うたは　どこですか。<p>B：（　）です。</p></b>",
-    "options": [
-      "あそこ",
-      "ここ",
-      "そこ",
-      "どこ"
-    ],
-    "correctAnswer": 0,
-    "difficulty": 2
-  },
-  {
     "id": 44,
     "question": "<b>bị cảm</b>",
     "options": [
@@ -478,20 +418,8 @@
       "おなか",
       "すみませんが"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "difficulty": 1
-  },
-  {
-    "id": 46,
-    "question": "<b>A：スポーツは　どちらですか。<p>B：（　）です。</p></b>",
-    "options": [
-      "あちら",
-      "こちら",
-      "そちら",
-      "どちら"
-    ],
-    "correctAnswer": 0,
-    "difficulty": 2
   },
   {
     "id": 47,
@@ -525,18 +453,6 @@
       "くすり",
       "ぶたにく",
       "カタカナ"
-    ],
-    "correctAnswer": 0,
-    "difficulty": 2
-  },
-  {
-    "id": 50,
-    "question": "<b>A：ねつがありますは　どちらですか。<p>B：（　）です。</p></b>",
-    "options": [
-      "あちら",
-      "こちら",
-      "そちら",
-      "どちら"
     ],
     "correctAnswer": 0,
     "difficulty": 2
@@ -634,7 +550,7 @@
       "nhảy, khiêu vũ",
       "thịt bò"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "difficulty": 1
   },
   {
@@ -674,18 +590,6 @@
     "difficulty": 2
   },
   {
-    "id": 64,
-    "question": "<b>A：なんですかは　どちらですか。<p>B：（　）です。</p></b>",
-    "options": [
-      "あちら",
-      "こちら",
-      "そちら",
-      "どちら"
-    ],
-    "correctAnswer": 1,
-    "difficulty": 2
-  },
-  {
     "id": 65,
     "question": "<b>わかります</b>",
     "options": [
@@ -708,18 +612,6 @@
     ],
     "correctAnswer": 3,
     "difficulty": 1
-  },
-  {
-    "id": 67,
-    "question": "<b>A：ありますは　どちらですか。<p>B：（　）です。</p></b>",
-    "options": [
-      "あちら",
-      "こちら",
-      "そちら",
-      "どちら"
-    ],
-    "correctAnswer": 0,
-    "difficulty": 2
   },
   {
     "id": 69,
@@ -758,18 +650,6 @@
     "difficulty": 1
   },
   {
-    "id": 72,
-    "question": "<b>A：あたまは　どちらですか。<p>B：（　）です。</p></b>",
-    "options": [
-      "あちら",
-      "こちら",
-      "そちら",
-      "どちら"
-    ],
-    "correctAnswer": 1,
-    "difficulty": 2
-  },
-  {
     "id": 73,
     "question": "<b>上手</b>",
     "options": [
@@ -797,12 +677,12 @@
     "id": 75,
     "question": "<b>え</b>",
     "options": [
+      "hả?, gì cơ?",
       "Bản đồ",
       "Màu sắc",
-      "Phim ảnh",
-      "Tranh, hội họa"
+      "Phim ảnh"
     ],
-    "correctAnswer": 3,
+    "correctAnswer": 0,
     "difficulty": 1
   },
   {
@@ -815,18 +695,6 @@
       "コンサート"
     ],
     "correctAnswer": 0,
-    "difficulty": 2
-  },
-  {
-    "id": 77,
-    "question": "<b>A：すみませんがは　どこですか。<p>B：（　）です。</p></b>",
-    "options": [
-      "あそこ",
-      "ここ",
-      "そこ",
-      "どこ"
-    ],
-    "correctAnswer": 2,
     "difficulty": 2
   },
   {
@@ -878,18 +746,6 @@
     "difficulty": 1
   },
   {
-    "id": 82,
-    "question": "<b>A：がっこうをやすみますは　どちらですか。<p>B：（　）です。</p></b>",
-    "options": [
-      "あちら",
-      "こちら",
-      "そちら",
-      "どちら"
-    ],
-    "correctAnswer": 2,
-    "difficulty": 2
-  },
-  {
     "id": 83,
     "question": "<b>薬</b>",
     "options": [
@@ -897,18 +753,6 @@
       "くすり",
       "ひらがな",
       "スポーツ"
-    ],
-    "correctAnswer": 1,
-    "difficulty": 2
-  },
-  {
-    "id": 84,
-    "question": "<b>A：これは　なんですか。<p>B：（　）は　かいしゃをやすみますです。</p></b>",
-    "options": [
-      "あれ",
-      "これ",
-      "それ",
-      "どれ"
     ],
     "correctAnswer": 1,
     "difficulty": 2
@@ -936,18 +780,6 @@
     ],
     "correctAnswer": 2,
     "difficulty": 1
-  },
-  {
-    "id": 88,
-    "question": "<b>A：ああは　どこですか。<p>B：（　）です。</p></b>",
-    "options": [
-      "あそこ",
-      "ここ",
-      "そこ",
-      "どこ"
-    ],
-    "correctAnswer": 0,
-    "difficulty": 2
   },
   {
     "id": 89,
@@ -1034,18 +866,6 @@
     "difficulty": 1
   },
   {
-    "id": 98,
-    "question": "<b>A：やすみますは　どちらですか。<p>B：（　）です。</p></b>",
-    "options": [
-      "あちら",
-      "こちら",
-      "そちら",
-      "どちら"
-    ],
-    "correctAnswer": 1,
-    "difficulty": 2
-  },
-  {
     "id": 99,
     "question": "<b>Âm nhạc</b>",
     "options": [
@@ -1066,18 +886,6 @@
     ],
     "correctAnswer": 0,
     "difficulty": 1
-  },
-  {
-    "id": 101,
-    "question": "<b>A：ギターをひきますは　どこですか。<p>B：（　）です。</p></b>",
-    "options": [
-      "あそこ",
-      "ここ",
-      "そこ",
-      "どこ"
-    ],
-    "correctAnswer": 1,
-    "difficulty": 2
   },
   {
     "id": 103,
@@ -1212,18 +1020,6 @@
     "difficulty": 1
   },
   {
-    "id": 115,
-    "question": "<b>A：スポーツをしますは　どこですか。<p>B：（　）です。</p></b>",
-    "options": [
-      "あそこ",
-      "ここ",
-      "そこ",
-      "どこ"
-    ],
-    "correctAnswer": 1,
-    "difficulty": 2
-  },
-  {
     "id": 116,
     "question": "<b>会社を休みます</b>",
     "options": [
@@ -1233,18 +1029,6 @@
       "～から"
     ],
     "correctAnswer": 1,
-    "difficulty": 2
-  },
-  {
-    "id": 117,
-    "question": "<b>A：～はちょっとは　どこですか。<p>B：（　）です。</p></b>",
-    "options": [
-      "あそこ",
-      "ここ",
-      "そこ",
-      "どこ"
-    ],
-    "correctAnswer": 0,
     "difficulty": 2
   },
   {
@@ -1306,30 +1090,6 @@
     ],
     "correctAnswer": 0,
     "difficulty": 1
-  },
-  {
-    "id": 124,
-    "question": "<b>A：これは　なんですか。<p>B：（　）は　ダンスをしますです。</p></b>",
-    "options": [
-      "あれ",
-      "これ",
-      "それ",
-      "どれ"
-    ],
-    "correctAnswer": 1,
-    "difficulty": 2
-  },
-  {
-    "id": 126,
-    "question": "<b>A：かいしゃをやすみますは　どちらですか。<p>B：（　）です。</p></b>",
-    "options": [
-      "あちら",
-      "こちら",
-      "そちら",
-      "どちら"
-    ],
-    "correctAnswer": 0,
-    "difficulty": 2
   },
   {
     "id": 127,
@@ -1462,18 +1222,6 @@
     "difficulty": 2
   },
   {
-    "id": 141,
-    "question": "<b>A：ダンスをしますは　どこですか。<p>B：（　）です。</p></b>",
-    "options": [
-      "あそこ",
-      "ここ",
-      "そこ",
-      "どこ"
-    ],
-    "correctAnswer": 2,
-    "difficulty": 2
-  },
-  {
     "id": 143,
     "question": "<b>漢字</b>",
     "options": [
@@ -1520,18 +1268,6 @@
     ],
     "correctAnswer": 0,
     "difficulty": 1
-  },
-  {
-    "id": 148,
-    "question": "<b>A：がっこうをやすみますは　どこですか。<p>B：（　）です。</p></b>",
-    "options": [
-      "あそこ",
-      "ここ",
-      "そこ",
-      "どこ"
-    ],
-    "correctAnswer": 0,
-    "difficulty": 2
   },
   {
     "id": 149,
@@ -1615,30 +1351,6 @@
       "やすみます"
     ],
     "correctAnswer": 3,
-    "difficulty": 2
-  },
-  {
-    "id": 158,
-    "question": "<b>A：ダンスをしますは　どちらですか。<p>B：（　）です。</p></b>",
-    "options": [
-      "あちら",
-      "こちら",
-      "そちら",
-      "どちら"
-    ],
-    "correctAnswer": 2,
-    "difficulty": 2
-  },
-  {
-    "id": 159,
-    "question": "<b>A：うたは　どちらですか。<p>B：（　）です。</p></b>",
-    "options": [
-      "あちら",
-      "こちら",
-      "そちら",
-      "どちら"
-    ],
-    "correctAnswer": 0,
     "difficulty": 2
   },
   {
@@ -1841,18 +1553,6 @@
       "Tiền lẻ"
     ],
     "correctAnswer": 3,
-    "difficulty": 2
-  },
-  {
-    "id": 181,
-    "question": "<b>A：またこんどおねがいしますは　どちらですか。<p>B：（　）です。</p></b>",
-    "options": [
-      "あちら",
-      "こちら",
-      "そちら",
-      "どちら"
-    ],
-    "correctAnswer": 0,
     "difficulty": 2
   },
   {

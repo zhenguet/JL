@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "question": "<b>cầu thang máy</b>",
+    "question": "<b>thang máy</b>",
     "options": [
       "かいぎしつ",
       "ちょっとすみません",
@@ -74,7 +74,7 @@
     "id": 13,
     "question": "<b>エレベーター</b>",
     "options": [
-      "cầu thang máy",
+      "thang máy",
       "rượu vang",
       "văn phòng",
       "vạn, mười nghìn"
@@ -89,7 +89,7 @@
       "Cái gì (lịch sự)",
       "Cái nào (lịch sự)",
       "Của ai (lịch sự)",
-      "Ở đâu (lịch sự)"
+      "Ở đâu / bên nào (lịch sự)"
     ],
     "correctAnswer": 3,
     "difficulty": 1
@@ -103,7 +103,7 @@
       "Sân",
       "Vườn"
     ],
-    "correctAnswer": 2,
+    "correctAnswer": 3,
     "difficulty": 1
   },
   {
@@ -282,7 +282,7 @@
       "tầng hầm",
       "tầng ngầm (dưới đất)"
     ],
-    "correctAnswer": 2,
+    "correctAnswer": 3,
     "difficulty": 1
   },
   {
@@ -447,7 +447,7 @@
     "options": [
       "giầy",
       "tầng mấy",
-      "tầng ngầm (dưới đất)",
+      "Tầng 1 dưới đất / tầng hầm 1 (B1)",
       "văn phòng"
     ],
     "correctAnswer": 2,
@@ -671,7 +671,7 @@
   },
   {
     "id": 156,
-    "question": "<b>tầng ngầm (dưới đất)</b>",
+    "question": "<b>Tầng 1 dưới đất / tầng hầm 1 (B1)</b>",
     "options": [
       "ここ",
       "ちかいっかい",

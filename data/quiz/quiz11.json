@@ -13,7 +13,7 @@
   },
   {
     "id": 2,
-    "question": "<b>A：ここのつは　どちらですか。<p>B：（　）です。</p></b>",
+    "question": "<b>A：きっては　どちらですか。<p>B：（　）です。</p></b>",
     "options": [
       "あちら",
       "こちら",
@@ -105,7 +105,7 @@
   },
   {
     "id": 10,
-    "question": "<b>nước ngoài</b>",
+    "question": "<b>Nước ngoài</b>",
     "options": [
       "いっていらっしゃい",
       "がいこく",
@@ -389,7 +389,7 @@
   },
   {
     "id": 34,
-    "question": "<b><ruby>日<ruby>本<rp>（</rp><rt>ほん</rt><rp>）</rp></ruby><rp>（</rp><rt>にほん</rt><rp>）</rp></ruby>にいます</b>",
+    "question": "<b><ruby>日本<rp>（</rp><rt>にほん</rt><rp>）</rp></ruby>にいます</b>",
     "options": [
       "いってまいります",
       "ぜんぶで",
@@ -543,9 +543,9 @@
   },
   {
     "id": 47,
-    "question": "<b>A：いつつは　どちらですか。<p>B：（　）です。</p></b>",
+    "question": "<b>A：これは　いくつですか。<p>B：（　）です。</p></b>",
     "options": [
-      "あちら",
+      "いつつ",
       "こちら",
       "そちら",
       "どちら"
@@ -795,7 +795,7 @@
   },
   {
     "id": 68,
-    "question": "<b>A：これは　なんですか。<p>B：（　）は　ひとりです。</p></b>",
+    "question": "<b>A：だれですか。<p>B：（　）は　ひとりです。</p></b>",
     "options": [
       "あれ",
       "これ",
@@ -1028,7 +1028,7 @@
       "tem",
       "~ năm"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "difficulty": 1
   },
   {

@@ -189,7 +189,7 @@
   },
   {
     "id": 17,
-    "question": "<b>A：おはなみをしますは　どこですか。<p>B：（　）です。</p></b>",
+    "question": "<b>A：おはなみは　どこですか。<p>B：（　）です。</p></b>",
     "options": [
       "あそこ",
       "ここ",
@@ -344,18 +344,6 @@
     "difficulty": 1
   },
   {
-    "id": 30,
-    "question": "<b>A：もしもしは　どちらですか。<p>B：（　）です。</p></b>",
-    "options": [
-      "あちら",
-      "こちら",
-      "そちら",
-      "どちら"
-    ],
-    "correctAnswer": 1,
-    "difficulty": 2
-  },
-  {
     "id": 31,
     "question": "<b>sau đó</b>",
     "options": [
@@ -393,7 +381,7 @@
   },
   {
     "id": 34,
-    "question": "<b>A：しゃしんをとりますは　どちらですか。<p>B：（　）です。</p></b>",
+    "question": "<b>A：しゃしんは　どちらですか。<p>B：（　）です。</p></b>",
     "options": [
       "あちら",
       "こちら",
@@ -458,7 +446,7 @@
       "それ",
       "どれ"
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 0,
     "difficulty": 2
   },
   {
@@ -468,7 +456,7 @@
       "で",
       "に"
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 0,
     "difficulty": 2
   },
   {
@@ -570,7 +558,7 @@
       "hút",
       "phim, bộ phim"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "difficulty": 1
   },
   {
@@ -614,7 +602,7 @@
       "が",
       "を"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "difficulty": 2
   },
   {
@@ -709,10 +697,10 @@
     "id": 62,
     "question": "<b>きのう（１）<ruby>午後<rp>（</rp><rt>ごご</rt><rp>）</rp></ruby>うち（２）CD（３）<ruby>聞<rp>（</rp><rt>き</rt><rp>）</rp></ruby>きました。</b><br/><b>(1)</b>",
     "options": [
-      "×",
+      "は",
       "の"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "difficulty": 2
   },
   {
@@ -726,18 +714,6 @@
     ],
     "correctAnswer": 3,
     "difficulty": 1
-  },
-  {
-    "id": 64,
-    "question": "<b>A：かいますは　どちらですか。<p>B：（　）です。</p></b>",
-    "options": [
-      "あちら",
-      "こちら",
-      "そちら",
-      "どちら"
-    ],
-    "correctAnswer": 0,
-    "difficulty": 2
   },
   {
     "id": 65,
@@ -757,18 +733,6 @@
       "へ"
     ],
     "correctAnswer": 0,
-    "difficulty": 2
-  },
-  {
-    "id": 67,
-    "question": "<b>A：これは　なんですか。<p>B：（　）は　かきますです。</p></b>",
-    "options": [
-      "あれ",
-      "これ",
-      "それ",
-      "どれ"
-    ],
-    "correctAnswer": 1,
     "difficulty": 2
   },
   {
@@ -833,10 +797,10 @@
     "id": 73,
     "question": "<b>きのう<ruby>自転車<rp>（</rp><rt>じてんしゃ</rt><rp>）</rp></ruby>（１）スーパー（２）<ruby>行<rp>（</rp><rt>い</rt><rp>）</rp></ruby>きました。スーパー（３）<ruby>牛乳<rp>（</rp><rt>ぎゅうにゅう</rt><rp>）</rp></ruby>（４）<ruby>果<ruby>物<rp>（</rp><rt>もの</rt><rp>）</rp></ruby><rp>（</rp><rt>くだもの</rt><rp>）</rp></ruby>（５）<ruby>買<rp>（</rp><rt>か</rt><rp>）</rp></ruby>いました。</b><br/><b>(4)</b>",
     "options": [
-      "×",
-      "と"
+      "と",
+      "を"
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 0,
     "difficulty": 4
   },
   {
@@ -980,18 +944,6 @@
     "difficulty": 2
   },
   {
-    "id": 86,
-    "question": "<b>A：これは　なんですか。<p>B：（　）は　たべますです。</p></b>",
-    "options": [
-      "あれ",
-      "これ",
-      "それ",
-      "どれ"
-    ],
-    "correctAnswer": 1,
-    "difficulty": 2
-  },
-  {
     "id": 87,
     "question": "<b>A：これは　なんですか。<p>B：（　）は　もしもしです。</p></b>",
     "options": [
@@ -1026,18 +978,6 @@
     "difficulty": 1
   },
   {
-    "id": 90,
-    "question": "<b>A：それからは　どこですか。<p>B：（　）です。</p></b>",
-    "options": [
-      "あそこ",
-      "ここ",
-      "そこ",
-      "どこ"
-    ],
-    "correctAnswer": 0,
-    "difficulty": 2
-  },
-  {
     "id": 91,
     "question": "<b>てがみ</b>",
     "options": [
@@ -1070,18 +1010,6 @@
     ],
     "correctAnswer": 1,
     "difficulty": 3
-  },
-  {
-    "id": 94,
-    "question": "<b>A：これは　なんですか。<p>B：（　）は　しゃしんをとりますです。</p></b>",
-    "options": [
-      "あれ",
-      "これ",
-      "それ",
-      "どれ"
-    ],
-    "correctAnswer": 1,
-    "difficulty": 2
   },
   {
     "id": 95,
@@ -1236,18 +1164,6 @@
     "difficulty": 1
   },
   {
-    "id": 108,
-    "question": "<b>A：なには　どこですか。<p>B：（　）です。</p></b>",
-    "options": [
-      "あそこ",
-      "ここ",
-      "そこ",
-      "どこ"
-    ],
-    "correctAnswer": 0,
-    "difficulty": 2
-  },
-  {
     "id": 109,
     "question": "<b>ひるごはん</b>",
     "options": [
@@ -1392,18 +1308,6 @@
     "difficulty": 1
   },
   {
-    "id": 121,
-    "question": "<b>A：じゃ、またあしたは　どこですか。<p>B：（　）です。</p></b>",
-    "options": [
-      "あそこ",
-      "ここ",
-      "そこ",
-      "どこ"
-    ],
-    "correctAnswer": 2,
-    "difficulty": 2
-  },
-  {
     "id": 122,
     "question": "<b>A：サッカーは　どこですか。<p>B：（　）です。</p></b>",
     "options": [
@@ -1482,18 +1386,6 @@
     ],
     "correctAnswer": 2,
     "difficulty": 1
-  },
-  {
-    "id": 130,
-    "question": "<b>A：かいますは　どこですか。<p>B：（　）です。</p></b>",
-    "options": [
-      "あそこ",
-      "ここ",
-      "そこ",
-      "どこ"
-    ],
-    "correctAnswer": 0,
-    "difficulty": 2
   },
   {
     "id": 131,
@@ -1720,18 +1612,6 @@
     "difficulty": 1
   },
   {
-    "id": 150,
-    "question": "<b>A：これは　なんですか。<p>B：（　）は　とりますです。</p></b>",
-    "options": [
-      "あれ",
-      "これ",
-      "それ",
-      "どれ"
-    ],
-    "correctAnswer": 1,
-    "difficulty": 2
-  },
-  {
     "id": 151,
     "question": "<b>メキシコ</b>",
     "options": [
@@ -1764,18 +1644,6 @@
     ],
     "correctAnswer": 1,
     "difficulty": 4
-  },
-  {
-    "id": 154,
-    "question": "<b>A：ええは　どこですか。<p>B：（　）です。</p></b>",
-    "options": [
-      "あそこ",
-      "ここ",
-      "そこ",
-      "どこ"
-    ],
-    "correctAnswer": 0,
-    "difficulty": 2
   },
   {
     "id": 155,
@@ -1836,18 +1704,6 @@
     ],
     "correctAnswer": 0,
     "difficulty": 1
-  },
-  {
-    "id": 160,
-    "question": "<b>A：あいますは　どこですか。<p>B：（　）です。</p></b>",
-    "options": [
-      "あそこ",
-      "ここ",
-      "そこ",
-      "どこ"
-    ],
-    "correctAnswer": 0,
-    "difficulty": 2
   },
   {
     "id": 161,
@@ -1930,30 +1786,6 @@
     ],
     "correctAnswer": 2,
     "difficulty": 1
-  },
-  {
-    "id": 169,
-    "question": "<b>A：いいですねは　どこですか。<p>B：（　）です。</p></b>",
-    "options": [
-      "あそこ",
-      "ここ",
-      "そこ",
-      "どこ"
-    ],
-    "correctAnswer": 2,
-    "difficulty": 2
-  },
-  {
-    "id": 170,
-    "question": "<b>A：とりますは　どこですか。<p>B：（　）です。</p></b>",
-    "options": [
-      "あそこ",
-      "ここ",
-      "そこ",
-      "どこ"
-    ],
-    "correctAnswer": 0,
-    "difficulty": 2
   },
   {
     "id": 171,

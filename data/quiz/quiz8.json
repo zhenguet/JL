@@ -120,18 +120,6 @@
     "difficulty": 2
   },
   {
-    "id": 12,
-    "question": "<b>A：しばらくですねは　どこですか。<p>B：（　）です。</p></b>",
-    "options": [
-      "あそこ",
-      "ここ",
-      "そこ",
-      "どこ"
-    ],
-    "correctAnswer": 2,
-    "difficulty": 3
-  },
-  {
     "id": 13,
     "question": "<b>A：しけんは　どちらですか。<p>B：（　）です。</p></b>",
     "options": [
@@ -310,18 +298,6 @@
     "difficulty": 2
   },
   {
-    "id": 29,
-    "question": "<b>A：またいらっしゃってくださいは　どちらですか。<p>B：（　）です。</p></b>",
-    "options": [
-      "あちら",
-      "こちら",
-      "そちら",
-      "どちら"
-    ],
-    "correctAnswer": 2,
-    "difficulty": 2
-  },
-  {
     "id": 30,
     "question": "<b><ruby>日本<rp>（</rp><rt>にほん</rt><rp>）</rp></ruby>の<ruby>生活<rp>（</rp><rt>せいかつ</rt><rp>）</rp></ruby>は<ruby>楽<rp>（</rp><rt>たの</rt><rp>）</rp></ruby>しいですか。…はい、とても＿＿＿＿。</b>",
     "options": [
@@ -352,7 +328,7 @@
       "thi, kiểm tra",
       "uống/dùng (cà phê) nhé/không?"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "difficulty": 1
   },
   {
@@ -388,7 +364,7 @@
       "xin mời (nói khi bắt đầu ăn, uống gì đó)",
       "à, cái đó thì… (nói khi tạm ngừng và suy nghĩ) vâng, vâng đúng rồi (nói khi đồng ý với ý kiến khác)"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "difficulty": 1
   },
   {
@@ -400,7 +376,7 @@
       "はな",
       "りょう"
     ],
-    "correctAnswer": 2,
+    "correctAnswer": 0,
     "difficulty": 1
   },
   {
@@ -424,7 +400,7 @@
       "xe ô tô",
       "đã 12 giờ rồi nhỉ"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "difficulty": 1
   },
   {
@@ -508,7 +484,7 @@
       "xin mời (nói khi bắt đầu ăn, uống gì đó)",
       "xin mời đi lối này"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "difficulty": 1
   },
   {
@@ -560,18 +536,6 @@
     "difficulty": 1
   },
   {
-    "id": 53,
-    "question": "<b>A：どうぞこちらへは　どこですか。<p>B：（　）です。</p></b>",
-    "options": [
-      "あそこ",
-      "ここ",
-      "そこ",
-      "どこ"
-    ],
-    "correctAnswer": 1,
-    "difficulty": 2
-  },
-  {
     "id": 54,
     "question": "<b>しけん</b>",
     "options": [
@@ -592,7 +556,7 @@
       "lâu lắm không gặp nhỉ",
       "xin cảm ơn (vì bữa ăn ngon) (nói khi ăn, uống xong)"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "difficulty": 1
   },
   {
@@ -618,18 +582,6 @@
     ],
     "correctAnswer": 3,
     "difficulty": 1
-  },
-  {
-    "id": 59,
-    "question": "<b>A：おげんきですかは　どちらですか。<p>B：（　）です。</p></b>",
-    "options": [
-      "あちら",
-      "こちら",
-      "そちら",
-      "どちら"
-    ],
-    "correctAnswer": 1,
-    "difficulty": 2
   },
   {
     "id": 60,
@@ -680,18 +632,6 @@
     "difficulty": 2
   },
   {
-    "id": 64,
-    "question": "<b>A：これは　なんですか。<p>B：（　）は　いただきますです。</p></b>",
-    "options": [
-      "あれ",
-      "これ",
-      "それ",
-      "どれ"
-    ],
-    "correctAnswer": 1,
-    "difficulty": 2
-  },
-  {
     "id": 67,
     "question": "<b>おしごと</b>",
     "options": [
@@ -700,7 +640,7 @@
       "xin cảm ơn (vì bữa ăn ngon) (nói khi ăn, uống xong)",
       "đồ ăn"
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 0,
     "difficulty": 1
   },
   {
@@ -714,18 +654,6 @@
     ],
     "correctAnswer": 2,
     "difficulty": 1
-  },
-  {
-    "id": 69,
-    "question": "<b>A：しばらくですねは　どちらですか。<p>B：（　）です。</p></b>",
-    "options": [
-      "あちら",
-      "こちら",
-      "そちら",
-      "どちら"
-    ],
-    "correctAnswer": 1,
-    "difficulty": 3
   },
   {
     "id": 70,
@@ -748,7 +676,7 @@
       "xin mời (nói khi bắt đầu ăn, uống gì đó)",
       "đã 12 giờ rồi nhỉ"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "difficulty": 1
   },
   {
@@ -774,18 +702,6 @@
     "difficulty": 1
   },
   {
-    "id": 74,
-    "question": "<b>A：ごちそうさまでしたは　どこですか。<p>B：（　）です。</p></b>",
-    "options": [
-      "あそこ",
-      "ここ",
-      "そこ",
-      "どこ"
-    ],
-    "correctAnswer": 0,
-    "difficulty": 2
-  },
-  {
     "id": 75,
     "question": "<b>そろそろしつれいします</b>",
     "options": [
@@ -794,7 +710,7 @@
       "núi Phú Sĩ",
       "tôi xin phép ra về (vì đã đến giờ nên về)"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "difficulty": 1
   },
   {
@@ -888,7 +804,7 @@
       "つめたい",
       "ふるい"
     ],
-    "correctAnswer": 2,
+    "correctAnswer": 3,
     "difficulty": 2
   },
   {
@@ -1006,7 +922,7 @@
       "しけん",
       "どれ"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "difficulty": 1
   },
   {
@@ -1031,18 +947,6 @@
       "やま"
     ],
     "correctAnswer": 0,
-    "difficulty": 2
-  },
-  {
-    "id": 99,
-    "question": "<b>A：これは　なんですか。<p>B：（　）は　いいえ、けっこうですです。</p></b>",
-    "options": [
-      "あれ",
-      "これ",
-      "それ",
-      "どれ"
-    ],
-    "correctAnswer": 1,
     "difficulty": 2
   },
   {
@@ -1175,18 +1079,6 @@
       "どちら"
     ],
     "correctAnswer": 1,
-    "difficulty": 2
-  },
-  {
-    "id": 112,
-    "question": "<b>A：もうじゅうにじですねは　どちらですか。<p>B：（　）です。</p></b>",
-    "options": [
-      "あちら",
-      "こちら",
-      "そちら",
-      "どちら"
-    ],
-    "correctAnswer": 0,
     "difficulty": 2
   },
   {
@@ -1330,18 +1222,6 @@
     ],
     "correctAnswer": 3,
     "difficulty": 1
-  },
-  {
-    "id": 132,
-    "question": "<b>A：これは　なんですか。<p>B：（　）は　コーヒーをもういっぱいいかがですかです。</p></b>",
-    "options": [
-      "あれ",
-      "これ",
-      "それ",
-      "どれ"
-    ],
-    "correctAnswer": 1,
-    "difficulty": 2
   },
   {
     "id": 133,
@@ -1488,18 +1368,6 @@
     "difficulty": 1
   },
   {
-    "id": 145,
-    "question": "<b>A：どうぞこちらへは　どちらですか。<p>B：（　）です。</p></b>",
-    "options": [
-      "あちら",
-      "こちら",
-      "そちら",
-      "どちら"
-    ],
-    "correctAnswer": 1,
-    "difficulty": 2
-  },
-  {
     "id": 146,
     "question": "<b>すてき</b>",
     "options": [
@@ -1582,18 +1450,6 @@
     ],
     "correctAnswer": 2,
     "difficulty": 1
-  },
-  {
-    "id": 153,
-    "question": "<b>A：またいらっしゃってくださいは　どこですか。<p>B：（　）です。</p></b>",
-    "options": [
-      "あそこ",
-      "ここ",
-      "そこ",
-      "どこ"
-    ],
-    "correctAnswer": 2,
-    "difficulty": 2
   },
   {
     "id": 154,
@@ -1702,18 +1558,6 @@
     "difficulty": 1
   },
   {
-    "id": 163,
-    "question": "<b>A：そうですねは　どこですか。<p>B：（　）です。</p></b>",
-    "options": [
-      "あそこ",
-      "ここ",
-      "そこ",
-      "どこ"
-    ],
-    "correctAnswer": 0,
-    "difficulty": 2
-  },
-  {
     "id": 164,
     "question": "<b>này!, chào! (dùng để chào bạn bè)</b>",
     "options": [
@@ -1786,18 +1630,6 @@
     "difficulty": 2
   },
   {
-    "id": 171,
-    "question": "<b>A：これは　なんですか。<p>B：（　）は　どれです。</p></b>",
-    "options": [
-      "あれ",
-      "これ",
-      "それ",
-      "どれ"
-    ],
-    "correctAnswer": 1,
-    "difficulty": 2
-  },
-  {
     "id": 172,
     "question": "<b>やまださんは　しんせつです。（　）おもしろいです。</b>",
     "options": [
@@ -1828,19 +1660,7 @@
       "~ như thế nào? (+danh từ)",
       "đã 12 giờ rồi nhỉ"
     ],
-    "correctAnswer": 0,
-    "difficulty": 1
-  },
-  {
-    "id": 176,
-    "question": "<b>A：おしごとは　どこですか。<p>B：（　）です。</p></b>",
-    "options": [
-      "あそこ",
-      "ここ",
-      "そこ",
-      "どこ"
-    ],
     "correctAnswer": 2,
-    "difficulty": 2
+    "difficulty": 1
   }
 ]
