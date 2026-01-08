@@ -156,104 +156,141 @@ export default function Quiz({ questions, title, shuffleOptions = true }: QuizPr
 
   const shouldShowResultHeader = showResults || showAnswerKey;
 
+  const getQuestionSummaryStatus = (question: ShuffledQuestion) => {
+    const selected = selectedAnswers[question.id];
+
+    if (selected === undefined) {
+      return 'unanswered';
+    }
+
+    if (showResults || showAnswerKey) {
+      if (selected === question.shuffledCorrectAnswer) {
+        return 'correct';
+      }
+      return 'incorrect';
+    }
+
+    return 'answered';
+  };
+
   return (
     <div className={`quiz-container ${showFurigana ? '' : 'hide-furigana'}`}>
-      <div className="quiz-header-wrapper">
-        {title && <h2 className="quiz-title">{title}</h2>}
-        {shouldShowResultHeader && (
-          <div className="quiz-result-header">
-            Kết quả: {result.correct} / {questions.length} ( {result.percentage.toFixed(1)}% )
-          </div>
-        )}
-        <div className="furigana-toggle">
-          <button
-            type="button"
-            onClick={() => setShowFurigana(!showFurigana)}
-            className={`btn-toggle-furigana ${showFurigana ? 'active' : ''}`}
-            title={showFurigana ? 'Ẩn chữ mềm' : 'Hiện chữ mềm'}
-          >
-            {showFurigana ? 'Ẩn chữ mềm' : 'Hiện chữ mềm'}
-          </button>
-        </div>
-      </div>
-      <form className="quiz-form">
-        {shuffledQuestions.map((shuffledQuestion, index) => (
-          <div key={shuffledQuestion.id}>
-            <hr className="style-one" />
-            <div className="tracnghiem">
-              <div className="question">
-                <div className="bai_stt">問{String(index + 1).padStart(2, '0')}:</div>
-                <span
-                  className="question-text"
-                  dangerouslySetInnerHTML={{ __html: shuffledQuestion.question }}
-                />
+      <div className="quiz-layout">
+        <div className="quiz-main">
+          <div className="quiz-header-wrapper">
+            {title && <h2 className="quiz-title">{title}</h2>}
+            {shouldShowResultHeader && (
+              <div className="quiz-result-header">
+                Kết quả: {result.correct} / {questions.length} ( {result.percentage.toFixed(1)}% )
               </div>
-              <table className="table_tracnghiem">
-                <tbody>
-                  {shuffledQuestion.shuffledOptions.map((option, optionIndex) => (
-                    <tr
-                      key={optionIndex}
-                      className={`tr${shuffledQuestion.id * 10 + optionIndex + 1}`}
-                    >
-                      <td className="item1">
-                        <input
-                          id={`answer_${shuffledQuestion.id}${optionIndex + 1}`}
-                          type="radio"
-                          name={`answer[${shuffledQuestion.id}]`}
-                          checked={selectedAnswers[shuffledQuestion.id] === optionIndex}
-                          onChange={() => handleAnswerSelect(shuffledQuestion.id, optionIndex)}
-                          disabled={showResults || showAnswerKey}
-                        />
-                        <label
-                          htmlFor={`answer_${shuffledQuestion.id}${optionIndex + 1}`}
-                          className={getOptionClass(shuffledQuestion.id, optionIndex)}
-                        >
-                          <span className="option-label">{optionLabels[optionIndex]}.</span>
-                          <span className="option-text">{option}</span>
-                        </label>
-                        <span className="result-indicator">
-                          {getQuestionResult(shuffledQuestion.id, optionIndex)}
-                        </span>
-                      </td>
-                    </tr>
-                  ))}
-                </tbody>
-              </table>
+            )}
+            <div className="furigana-toggle">
+              <button
+                type="button"
+                onClick={() => setShowFurigana(!showFurigana)}
+                className={`btn-toggle-furigana ${showFurigana ? 'active' : ''}`}
+                title={showFurigana ? 'Ẩn chữ mềm' : 'Hiện chữ mềm'}
+              >
+                {showFurigana ? 'Ẩn chữ mềm' : 'Hiện chữ mềm'}
+              </button>
             </div>
           </div>
-        ))}
-        <hr className="style-one" />
-      </form>
-      <div className="quiz-actions-wrapper">
-        <div className="quiz-actions">
-          <button
-            type="button"
-            onClick={handleCheckResult}
-            className="btn btn-danger"
-            disabled={Object.keys(selectedAnswers).length === 0}
-          >
-            Kết Quả
-          </button>
-          <button type="button" onClick={handleReset} className="btn btn-success">
-            Làm Lại
-          </button>
-          <button
-            type="button"
-            onClick={handleShowAnswerKey}
-            className="btn btn-primary"
-            title="Bạn chỉ xem được đáp án khi làm đúng từ 60% trở lên"
-          >
-            Đáp Án
-          </button>
-          <button
-            type="button"
-            onClick={handleShuffle}
-            className="btn btn-secondary"
-            title="Xáo trộn lại thứ tự câu hỏi và các lựa chọn"
-          >
-            Xáo Trộn
-          </button>
+          <form className="quiz-form">
+            {shuffledQuestions.map((shuffledQuestion, index) => (
+              <div key={shuffledQuestion.id}>
+                <hr className="style-one" />
+                <div className="tracnghiem">
+                  <div className="question">
+                    <div className="bai_stt">問{String(index + 1).padStart(2, '0')}:</div>
+                    <span
+                      className="question-text"
+                      dangerouslySetInnerHTML={{ __html: shuffledQuestion.question }}
+                    />
+                  </div>
+                  <table className="table_tracnghiem">
+                    <tbody>
+                      {shuffledQuestion.shuffledOptions.map((option, optionIndex) => (
+                        <tr
+                          key={optionIndex}
+                          className={`tr${shuffledQuestion.id * 10 + optionIndex + 1}`}
+                        >
+                          <td className="item1">
+                            <input
+                              id={`answer_${shuffledQuestion.id}${optionIndex + 1}`}
+                              type="radio"
+                              name={`answer[${shuffledQuestion.id}]`}
+                              checked={selectedAnswers[shuffledQuestion.id] === optionIndex}
+                              onChange={() => handleAnswerSelect(shuffledQuestion.id, optionIndex)}
+                              disabled={showResults || showAnswerKey}
+                            />
+                            <label
+                              htmlFor={`answer_${shuffledQuestion.id}${optionIndex + 1}`}
+                              className={getOptionClass(shuffledQuestion.id, optionIndex)}
+                            >
+                              <span className="option-label">{optionLabels[optionIndex]}.</span>
+                              <span className="option-text">{option}</span>
+                            </label>
+                            <span className="result-indicator">
+                              {getQuestionResult(shuffledQuestion.id, optionIndex)}
+                            </span>
+                          </td>
+                        </tr>
+                      ))}
+                    </tbody>
+                  </table>
+                </div>
+              </div>
+            ))}
+            <hr className="style-one" />
+          </form>
+          <div className="quiz-actions-wrapper">
+            <div className="quiz-actions">
+              <button
+                type="button"
+                onClick={handleCheckResult}
+                className="btn btn-danger"
+                disabled={Object.keys(selectedAnswers).length === 0}
+              >
+                Kết Quả
+              </button>
+              <button type="button" onClick={handleReset} className="btn btn-success">
+                Làm Lại
+              </button>
+              <button
+                type="button"
+                onClick={handleShowAnswerKey}
+                className="btn btn-primary"
+                title="Bạn chỉ xem được đáp án khi làm đúng từ 60% trở lên"
+              >
+                Đáp Án
+              </button>
+              <button
+                type="button"
+                onClick={handleShuffle}
+                className="btn btn-secondary"
+                title="Xáo trộn lại thứ tự câu hỏi và các lựa chọn"
+              >
+                Xáo Trộn
+              </button>
+            </div>
+          </div>
         </div>
+        <aside className="quiz-summary-desktop">
+          <div className="quiz-summary-title">Danh sách câu hỏi</div>
+          <div className="quiz-summary-grid">
+            {shuffledQuestions.map((question, index) => {
+              const status = getQuestionSummaryStatus(question);
+              return (
+                <div
+                  key={question.id}
+                  className={`quiz-summary-item quiz-summary-item-${status}`}
+                >
+                  {index + 1}
+                </div>
+              );
+            })}
+          </div>
+        </aside>
       </div>
     </div>
   );
