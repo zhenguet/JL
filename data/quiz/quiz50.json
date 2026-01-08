@@ -140,7 +140,7 @@
       "そこ",
       "どこ"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "difficulty": 2
   },
   {
@@ -212,7 +212,7 @@
       "とります",
       "もうします"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "difficulty": 1
   },
   {
@@ -320,7 +320,7 @@
       "そこ",
       "どこ"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "difficulty": 2
   },
   {
@@ -356,7 +356,7 @@
       "そちら",
       "どちら"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "difficulty": 2
   },
   {
@@ -370,16 +370,6 @@
     ],
     "correctAnswer": 1,
     "difficulty": 2
-  },
-  {
-    "id": 37,
-    "question": "<b><ruby>先<ruby>日<rp>（</rp><rt>ひ</rt><rp>）</rp></ruby><rp>（</rp><rt>せんじつ</rt><rp>）</rp></ruby>、<ruby>先<ruby>生<rp>（</rp><rt>う</rt><rp>）</rp></ruby><rp>（</rp><rt>せんせい</rt><rp>）</rp></ruby>のご<ruby>本<rp>（</rp><rt>ほん</rt><rp>）</rp></ruby>を（　）。</b>",
-    "options": [
-      "伺いました",
-      "拝見しました"
-    ],
-    "correctAnswer": 1,
-    "difficulty": 3
   },
   {
     "id": 39,
@@ -630,7 +620,7 @@
       "そちら",
       "どちら"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "difficulty": 2
   },
   {
@@ -810,7 +800,7 @@
       "そちら",
       "どちら"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "difficulty": 2
   },
   {
@@ -870,7 +860,7 @@
       "そちら",
       "どちら"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "difficulty": 2
   },
   {
@@ -1146,7 +1136,7 @@
       "そこ",
       "どこ"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "difficulty": 2
   },
   {
@@ -1158,7 +1148,7 @@
       "そちら",
       "どちら"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "difficulty": 2
   },
   {
@@ -1206,7 +1196,7 @@
       "そちら",
       "どちら"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "difficulty": 2
   },
   {
@@ -1278,7 +1268,7 @@
       "そちら",
       "どちら"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "difficulty": 2
   },
   {
@@ -1530,7 +1520,7 @@
       "そこ",
       "どこ"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "difficulty": 2
   },
   {
@@ -1552,7 +1542,7 @@
       "あなた",
       "わたくし"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "difficulty": 2
   },
   {
