@@ -13,18 +13,6 @@
   },
   {
     "id": 2,
-    "question": "<b><ruby>生<rp>（</rp><rt>う</rt><rp>）</rp></ruby>まれます</b>",
-    "options": [
-      "うまれます",
-      "またこんどおねがいします",
-      "めがね",
-      "ダイニングキッチン"
-    ],
-    "correctAnswer": 0,
-    "difficulty": 2
-  },
-  {
-    "id": 3,
     "question": "<b>うーん</b>",
     "options": [
       "mũ bảo hiểm, mũ an toàn",
@@ -32,11 +20,11 @@
       "để tôi xem đã",
       "đội [mũ]"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "difficulty": 1
   },
   {
-    "id": 4,
+    "id": 3,
     "question": "<b>かけます</b>",
     "options": [
       "Vạn lý trường thành",
@@ -44,11 +32,11 @@
       "áo len",
       "đeo [kính]"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "difficulty": 1
   },
   {
-    "id": 5,
+    "id": 4,
     "question": "<b>đi [giày], mặc [quần]</b>",
     "options": [
       "くつ／くつした／ずぼんをはきます",
@@ -60,29 +48,7 @@
     "difficulty": 1
   },
   {
-    "id": 6,
-    "question": "<b>ヨーロッパで<ruby>行<rp>（</rp><rt>い</rt><rp>）</rp></ruby>ったことが（１）<ruby>国<rp>（</rp><rt>くに</rt><rp>）</rp></ruby>は（２）ですか。<p>…フランスとスイスとイタリアです。</p></b><p><b>(1)</b></p>",
-    "options": [
-      "あった",
-      "ある"
-    ],
-    "correctAnswer": 0,
-    "difficulty": 2
-  },
-  {
-    "id": 7,
-    "question": "<b>A：アパートは　どちらですか。<p>B：（　）です。</p></b>",
-    "options": [
-      "あちら",
-      "こちら",
-      "そちら",
-      "どちら"
-    ],
-    "correctAnswer": 0,
-    "difficulty": 2
-  },
-  {
-    "id": 8,
+    "id": 5,
     "question": "<b>かぶります</b>",
     "options": [
       "bộ com lê",
@@ -90,23 +56,11 @@
       "mặc [áo sơ mi…]",
       "đội [mũ]"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "difficulty": 1
   },
   {
-    "id": 9,
-    "question": "<b>うーん</b>",
-    "options": [
-      "bộ com lê",
-      "chung cư",
-      "phụ tùng, linh kiện",
-      "để tôi xem đã"
-    ],
-    "correctAnswer": 0,
-    "difficulty": 1
-  },
-  {
-    "id": 10,
+    "id": 6,
     "question": "<b>A：これは　なんですか。<p>B：（　）は　スーツです。</p></b>",
     "options": [
       "あれ",
@@ -118,7 +72,7 @@
     "difficulty": 2
   },
   {
-    "id": 11,
+    "id": 7,
     "question": "<b>A：これは　なんですか。<p>B：（　）は　アパートです。</p></b>",
     "options": [
       "あれ",
@@ -130,7 +84,7 @@
     "difficulty": 2
   },
   {
-    "id": 12,
+    "id": 8,
     "question": "<b>mũ</b>",
     "options": [
       "はきます",
@@ -138,11 +92,11 @@
       "やくそく",
       "ヘルメット"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "difficulty": 1
   },
   {
-    "id": 13,
+    "id": 9,
     "question": "<b>おつかれさまでした</b>",
     "options": [
       "cảm ơn nhé. anh về nhé. (dùng khi người khác làm việc cho mình xong. hoặc khi người cùng làm trong cơ quan về sớm hơn mình thì nói câu này để chào.)",
@@ -154,41 +108,7 @@
     "difficulty": 1
   },
   {
-    "id": 14,
-    "question": "<b>Đeo [kính]</b>",
-    "options": [
-      "かえます",
-      "かかります",
-      "かけます",
-      "はけます"
-    ],
-    "correctAnswer": 2,
-    "difficulty": 1
-  },
-  {
-    "id": 15,
-    "question": "<b>A：やちんは　どこですか。<p>B：（　）です。</p></b>",
-    "options": [
-      "あそこ",
-      "ここ",
-      "そこ",
-      "どこ"
-    ],
-    "correctAnswer": 1,
-    "difficulty": 2
-  },
-  {
-    "id": 16,
-    "question": "<b><ruby>山田<rp>（</rp><rt>やまだ</rt><rp>）</rp></ruby>さんはユーモアが（　）<ruby>人<rp>（</rp><rt>ひと</rt><rp>）</rp></ruby>です。</b>",
-    "options": [
-      "わからない",
-      "わかりません"
-    ],
-    "correctAnswer": 1,
-    "difficulty": 2
-  },
-  {
-    "id": 17,
+    "id": 10,
     "question": "<b>được sinh ra</b>",
     "options": [
       "うまれます",
@@ -200,7 +120,7 @@
     "difficulty": 1
   },
   {
-    "id": 18,
+    "id": 11,
     "question": "<b>đội mũ</b>",
     "options": [
       "きます",
@@ -212,7 +132,7 @@
     "difficulty": 1
   },
   {
-    "id": 19,
+    "id": 12,
     "question": "<b>bộ com lê</b>",
     "options": [
       "うまれます",
@@ -224,19 +144,7 @@
     "difficulty": 1
   },
   {
-    "id": 20,
-    "question": "<b>A：もっていきますは　どちらですか。<p>B：（　）です。</p></b>",
-    "options": [
-      "あちら",
-      "こちら",
-      "そちら",
-      "どちら"
-    ],
-    "correctAnswer": 0,
-    "difficulty": 2
-  },
-  {
-    "id": 21,
+    "id": 13,
     "question": "<b>ふく</b>",
     "options": [
       "mang đến",
@@ -244,21 +152,11 @@
       "mũ bảo hiểm, mũ an toàn",
       "áo, quần áo"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "difficulty": 1
   },
   {
-    "id": 22,
-    "question": "<b><ruby>旅<ruby>行<rp>（</rp><rt>い</rt><rp>）</rp></ruby><rp>（</rp><rt>りょこう</rt><rp>）</rp></ruby>に（　）<ruby>人<rp>（</rp><rt>ひと</rt><rp>）</rp></ruby>にお<ruby>土産<rp>（</rp><rt>みやげ</rt><rp>）</rp></ruby>をあげました。</b>",
-    "options": [
-      "行かない",
-      "行かなかった"
-    ],
-    "correctAnswer": 0,
-    "difficulty": 3
-  },
-  {
-    "id": 23,
+    "id": 14,
     "question": "<b>áo, quần áo</b>",
     "options": [
       "おつかれさまでした",
@@ -270,19 +168,7 @@
     "difficulty": 1
   },
   {
-    "id": 24,
-    "question": "<b>bộ com lê</b>",
-    "options": [
-      "ぼうし",
-      "やくそく",
-      "スーツ",
-      "レジャーはくしょ"
-    ],
-    "correctAnswer": 2,
-    "difficulty": 1
-  },
-  {
-    "id": 25,
+    "id": 15,
     "question": "<b>シャツ／コートをきます</b>",
     "options": [
       "kính",
@@ -290,11 +176,11 @@
       "áo choàng ngoài, áo măng tô",
       "đi giày"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "difficulty": 1
   },
   {
-    "id": 26,
+    "id": 16,
     "question": "<b>A：これは　なんですか。<p>B：（　）は　おしいれです。</p></b>",
     "options": [
       "あれ",
@@ -306,53 +192,7 @@
     "difficulty": 2
   },
   {
-    "id": 27,
-    "question": "<b>A：ばんりのちょうじょうは　どちらですか。<p>B：（　）です。</p></b>",
-    "options": [
-      "あちら",
-      "こちら",
-      "そちら",
-      "どちら"
-    ],
-    "correctAnswer": 0,
-    "difficulty": 3
-  },
-  {
-    "id": 28,
-    "question": "<b>Phòng kiểu Nhật</b>",
-    "options": [
-      "ようしつ",
-      "よしつ",
-      "わしつ",
-      "わや"
-    ],
-    "correctAnswer": 2,
-    "difficulty": 1
-  },
-  {
-    "id": 29,
-    "question": "<b><ruby>田中<rp>（</rp><rt>たなか</rt><rp>）</rp></ruby>さんは<ruby>黒<rp>（</rp><rt>くろ</rt><rp>）</rp></ruby>い<ruby>靴<rp>（</rp><rt>くつ</rt><rp>）</rp></ruby>を（　）。</b>",
-    "options": [
-      "はいています",
-      "着ています"
-    ],
-    "correctAnswer": 1,
-    "difficulty": 3
-  },
-  {
-    "id": 30,
-    "question": "<b>A：かけますは　どこですか。<p>B：（　）です。</p></b>",
-    "options": [
-      "あそこ",
-      "ここ",
-      "そこ",
-      "どこ"
-    ],
-    "correctAnswer": 0,
-    "difficulty": 2
-  },
-  {
-    "id": 31,
+    "id": 17,
     "question": "<b>パリ</b>",
     "options": [
       "Paris",
@@ -364,7 +204,7 @@
     "difficulty": 1
   },
   {
-    "id": 32,
+    "id": 18,
     "question": "<b>コート</b>",
     "options": [
       "phòng kiểu nhật",
@@ -372,23 +212,11 @@
       "áo, quần áo",
       "đội mũ"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "difficulty": 1
   },
   {
-    "id": 33,
-    "question": "<b>おつかれさまでした</b>",
-    "options": [
-      "cảm ơn nhé. anh về nhé. (dùng khi người khác làm việc cho mình xong. hoặc khi người cùng làm trong cơ quan về sớm hơn mình thì nói câu này để chào.)",
-      "phòng kiểu nhật",
-      "đeo kính",
-      "đi [giày], mặc [quần]"
-    ],
-    "correctAnswer": 0,
-    "difficulty": 1
-  },
-  {
-    "id": 34,
+    "id": 19,
     "question": "<b>セーター</b>",
     "options": [
       "kính",
@@ -396,69 +224,11 @@
       "áo choàng ngoài, áo măng tô",
       "áo len"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "difficulty": 1
   },
   {
-    "id": 35,
-    "question": "<b><ruby>和室<rp>（</rp><rt>わしつ</rt><rp>）</rp></ruby></b>",
-    "options": [
-      "かぶります",
-      "やくそく",
-      "わしつ",
-      "シャツ／コートをきます"
-    ],
-    "correctAnswer": 2,
-    "difficulty": 2
-  },
-  {
-    "id": 36,
-    "question": "<b>A：コートは　どこですか。<p>B：（　）です。</p></b>",
-    "options": [
-      "あそこ",
-      "ここ",
-      "そこ",
-      "どこ"
-    ],
-    "correctAnswer": 2,
-    "difficulty": 2
-  },
-  {
-    "id": 37,
-    "question": "<b><ruby>生<rp>（</rp><rt>う</rt><rp>）</rp></ruby>まれます</b>",
-    "options": [
-      "いかまれます",
-      "いきまれます",
-      "うきまれます",
-      "うまれます"
-    ],
-    "correctAnswer": 2,
-    "difficulty": 2
-  },
-  {
-    "id": 38,
-    "question": "<b>（　）<ruby>資料<rp>（</rp><rt>しりょう</rt><rp>）</rp></ruby>をコピーしてください。</b>",
-    "options": [
-      "足らない",
-      "足りない"
-    ],
-    "correctAnswer": 1,
-    "difficulty": 2
-  },
-  {
-    "id": 39,
-    "question": "<b>パリ</b>",
-    "options": [
-      "Paris",
-      "phòng kiểu nhật",
-      "tủ đựng quần áo kiểu Nhật",
-      "đi giày"
-    ],
-    "correctAnswer": 0,
-    "difficulty": 1
-  },
-  {
-    "id": 40,
+    "id": 20,
     "question": "<b>mũ bảo hiểm, mũ an toàn</b>",
     "options": [
       "ぼうし",
@@ -466,35 +236,11 @@
       "やちん",
       "ヘルメット"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "difficulty": 1
   },
   {
-    "id": 41,
-    "question": "<b><ruby>靴<rp>（</rp><rt>くつ</rt><rp>）</rp></ruby></b>",
-    "options": [
-      "くつ",
-      "しり",
-      "はな",
-      "むずか"
-    ],
-    "correctAnswer": 0,
-    "difficulty": 2
-  },
-  {
-    "id": 42,
-    "question": "<b>レジャー<ruby>白書<rp>（</rp><rt>はくしょ</rt><rp>）</rp></ruby></b>",
-    "options": [
-      "かぶります",
-      "ぼうしをかぶります",
-      "またこんどおねがいします",
-      "レジャーはくしょ"
-    ],
-    "correctAnswer": 0,
-    "difficulty": 2
-  },
-  {
-    "id": 43,
+    "id": 21,
     "question": "<b>めがね</b>",
     "options": [
       "kính",
@@ -506,31 +252,7 @@
     "difficulty": 1
   },
   {
-    "id": 44,
-    "question": "<b><ruby>眼鏡<rp>（</rp><rt>めがね</rt><rp>）</rp></ruby></b>",
-    "options": [
-      "めかね",
-      "めがね",
-      "めこね",
-      "めごね"
-    ],
-    "correctAnswer": 1,
-    "difficulty": 2
-  },
-  {
-    "id": 45,
-    "question": "<b>A：やくそくは　どこですか。<p>B：（　）です。</p></b>",
-    "options": [
-      "あそこ",
-      "ここ",
-      "そこ",
-      "どこ"
-    ],
-    "correctAnswer": 0,
-    "difficulty": 2
-  },
-  {
-    "id": 46,
+    "id": 22,
     "question": "<b>nhà bếp kiêm phòng ăn</b>",
     "options": [
       "おしいれ",
@@ -542,7 +264,7 @@
     "difficulty": 1
   },
   {
-    "id": 47,
+    "id": 23,
     "question": "<b>cảm ơn nhé. anh về nhé. (dùng khi người khác làm việc cho mình xong. hoặc khi người cùng làm trong cơ quan về sớm hơn mình thì nói câu này để chào.)</b>",
     "options": [
       "おつかれさまでした",
@@ -554,7 +276,7 @@
     "difficulty": 3
   },
   {
-    "id": 48,
+    "id": 24,
     "question": "<b>phụ tùng, linh kiện</b>",
     "options": [
       "おつかれさまでした",
@@ -566,19 +288,7 @@
     "difficulty": 1
   },
   {
-    "id": 49,
-    "question": "<b><ruby>着<rp>（</rp><rt>き</rt><rp>）</rp></ruby>ます</b>",
-    "options": [
-      "おつかれさまでした",
-      "きます",
-      "くつ／くつした／ずぼんをはきます",
-      "ヘルメット"
-    ],
-    "correctAnswer": 0,
-    "difficulty": 2
-  },
-  {
-    "id": 50,
+    "id": 25,
     "question": "<b>đi giày</b>",
     "options": [
       "うまれます",
@@ -590,27 +300,7 @@
     "difficulty": 1
   },
   {
-    "id": 51,
-    "question": "<b><ruby>母<rp>（</rp><rt>はは</rt><rp>）</rp></ruby>（　）<ruby>作<rp>（</rp><rt>つく</rt><rp>）</rp></ruby>った<ruby>料理<rp>（</rp><rt>りょうり</rt><rp>）</rp></ruby>が<ruby>食<rp>（</rp><rt>た</rt><rp>）</rp></ruby>べたいです。</b>",
-    "options": [
-      "が",
-      "は"
-    ],
-    "correctAnswer": 1,
-    "difficulty": 3
-  },
-  {
-    "id": 52,
-    "question": "<b>イーさんが（　）コートはすてきですね。</b>",
-    "options": [
-      "着ていた",
-      "着ている"
-    ],
-    "correctAnswer": 1,
-    "difficulty": 1
-  },
-  {
-    "id": 53,
+    "id": 26,
     "question": "<b>áo choàng ngoài, áo măng tô</b>",
     "options": [
       "かぶります",
@@ -622,7 +312,7 @@
     "difficulty": 1
   },
   {
-    "id": 54,
+    "id": 27,
     "question": "<b>đội [mũ]</b>",
     "options": [
       "かぶります",
@@ -634,41 +324,7 @@
     "difficulty": 1
   },
   {
-    "id": 55,
-    "question": "<b>A：ふとんは　どちらですか。<p>B：（　）です。</p></b>",
-    "options": [
-      "あちら",
-      "こちら",
-      "そちら",
-      "どちら"
-    ],
-    "correctAnswer": 0,
-    "difficulty": 2
-  },
-  {
-    "id": 56,
-    "question": "<b><ruby>車<rp>（</rp><rt>くるま</rt><rp>）</rp></ruby>を（　）<ruby>所<rp>（</rp><rt>しょ</rt><rp>）</rp></ruby>がありませんから、<ruby>電車<rp>（</rp><rt>でんしゃ</rt><rp>）</rp></ruby>で<ruby>行<rp>（</rp><rt>い</rt><rp>）</rp></ruby>きましょう。</b>",
-    "options": [
-      "止めて",
-      "止める"
-    ],
-    "correctAnswer": 1,
-    "difficulty": 3
-  },
-  {
-    "id": 57,
-    "question": "<b><ruby>履<rp>（</rp><rt>は</rt><rp>）</rp></ruby>きます</b>",
-    "options": [
-      "はきます",
-      "ぼうしをかぶります",
-      "やくそく",
-      "レジャーはくしょ"
-    ],
-    "correctAnswer": 0,
-    "difficulty": 2
-  },
-  {
-    "id": 58,
+    "id": 28,
     "question": "<b>Vạn lý trường thành</b>",
     "options": [
       "うーん",
@@ -680,7 +336,7 @@
     "difficulty": 1
   },
   {
-    "id": 59,
+    "id": 29,
     "question": "<b>mang đi</b>",
     "options": [
       "うまれます",
@@ -692,53 +348,7 @@
     "difficulty": 1
   },
   {
-    "id": 60,
-    "question": "<b>ヨーロッパで<ruby>行<rp>（</rp><rt>い</rt><rp>）</rp></ruby>ったことが（１）<ruby>国<rp>（</rp><rt>くに</rt><rp>）</rp></ruby>は（２）ですか。<p>…フランスとスイスとイタリアです。</p></b><p><b>(2)</b></p>",
-    "options": [
-      "どこ",
-      "なん"
-    ],
-    "correctAnswer": 1,
-    "difficulty": 2
-  },
-  {
-    "id": 61,
-    "question": "<b>A：めがねは　どこですか。<p>B：（　）です。</p></b>",
-    "options": [
-      "あそこ",
-      "ここ",
-      "そこ",
-      "どこ"
-    ],
-    "correctAnswer": 2,
-    "difficulty": 2
-  },
-  {
-    "id": 62,
-    "question": "<b>mũ bảo hiểm, mũ an toàn</b>",
-    "options": [
-      "おつかれさまでした",
-      "アパート",
-      "パリ",
-      "ヘルメット"
-    ],
-    "correctAnswer": 0,
-    "difficulty": 1
-  },
-  {
-    "id": 63,
-    "question": "<b>đi giày</b>",
-    "options": [
-      "かけます",
-      "くつ／くつした／ずぼんをはきます",
-      "もっていきます",
-      "アパート"
-    ],
-    "correctAnswer": 1,
-    "difficulty": 1
-  },
-  {
-    "id": 64,
+    "id": 30,
     "question": "<b>うまれます</b>",
     "options": [
       "lời hứa, hẹn",
@@ -746,47 +356,11 @@
       "đi giày",
       "được sinh ra"
     ],
-    "correctAnswer": 0,
-    "difficulty": 1
-  },
-  {
-    "id": 65,
-    "question": "<b>Mũ</b>",
-    "options": [
-      "ほうし",
-      "ぼうし",
-      "ぼうしい",
-      "ぼし"
-    ],
     "correctAnswer": 3,
     "difficulty": 1
   },
   {
-    "id": 66,
-    "question": "<b><ruby>帽<ruby>子<rp>（</rp><rt>こ</rt><rp>）</rp></ruby><rp>（</rp><rt>ぼうし</rt><rp>）</rp></ruby></b>",
-    "options": [
-      "うーん",
-      "きます",
-      "ふく",
-      "ぼうし"
-    ],
-    "correctAnswer": 0,
-    "difficulty": 2
-  },
-  {
-    "id": 67,
-    "question": "<b>パリ</b>",
-    "options": [
-      "Paris",
-      "sách trắng giải trí",
-      "xin phép tôi về trước (dùng khi về sớm hơn người khác)",
-      "để tôi xem đã"
-    ],
-    "correctAnswer": 0,
-    "difficulty": 1
-  },
-  {
-    "id": 68,
+    "id": 31,
     "question": "<b>めがねをかけます</b>",
     "options": [
       "mang đến",
@@ -794,11 +368,11 @@
       "đeo kính",
       "đi giày"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "difficulty": 1
   },
   {
-    "id": 69,
+    "id": 32,
     "question": "<b>kính</b>",
     "options": [
       "おしいれ",
@@ -806,23 +380,11 @@
       "シャツ／コートをきます",
       "レジャーはくしょ"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "difficulty": 1
   },
   {
-    "id": 70,
-    "question": "<b>シャツ／コートをきます</b>",
-    "options": [
-      "bộ com lê",
-      "chung cư",
-      "mặc áo sơ mi",
-      "sách trắng giải trí"
-    ],
-    "correctAnswer": 0,
-    "difficulty": 1
-  },
-  {
-    "id": 71,
+    "id": 33,
     "question": "<b>sách trắng giải trí</b>",
     "options": [
       "うーん",
@@ -834,65 +396,7 @@
     "difficulty": 1
   },
   {
-    "id": 72,
-    "question": "<b>また<ruby>今度<rp>（</rp><rt>こんど</rt><rp>）</rp></ruby>お<ruby>願<rp>（</rp><rt>ねがい</rt><rp>）</rp></ruby>いします</b>",
-    "options": [
-      "うまれます",
-      "またこんどおねがいします",
-      "やくそく",
-      "わしつ"
-    ],
-    "correctAnswer": 0,
-    "difficulty": 2
-  },
-  {
-    "id": 73,
-    "question": "<b>わしつ</b>",
-    "options": [
-      "和室",
-      "知室",
-      "知屋",
-      "課室"
-    ],
-    "correctAnswer": 2,
-    "difficulty": 1
-  },
-  {
-    "id": 74,
-    "question": "<b>A：くつ／くつした／ずぼんをはきますは　どちらですか。<p>B：（　）です。</p></b>",
-    "options": [
-      "あちら",
-      "こちら",
-      "そちら",
-      "どちら"
-    ],
-    "correctAnswer": 1,
-    "difficulty": 2
-  },
-  {
-    "id": 75,
-    "question": "<b>đi [giày], mặc [quần]</b>",
-    "options": [
-      "はきます",
-      "アパート",
-      "スーツ",
-      "ヘルメット"
-    ],
-    "correctAnswer": 0,
-    "difficulty": 1
-  },
-  {
-    "id": 76,
-    "question": "<b><ruby>旅<ruby>行<rp>（</rp><rt>い</rt><rp>）</rp></ruby><rp>（</rp><rt>りょこう</rt><rp>）</rp></ruby>に（１）<ruby>人<rp>（</rp><rt>ひと</rt><rp>）</rp></ruby>は（２）ですか。…１５<ruby>人<rp>（</rp><rt>にん</rt><rp>）</rp></ruby>です。</b><p><b>(1)</b></p>",
-    "options": [
-      "行く",
-      "行った"
-    ],
-    "correctAnswer": 1,
-    "difficulty": 3
-  },
-  {
-    "id": 77,
+    "id": 34,
     "question": "<b>はきます</b>",
     "options": [
       "Mang giày",
@@ -900,23 +404,11 @@
       "Đeo kính",
       "Đội mũ"
     ],
-    "correctAnswer": 3,
+    "correctAnswer": 0,
     "difficulty": 1
   },
   {
-    "id": 78,
-    "question": "<b>A：メーカーは　どこですか。<p>B：（　）です。</p></b>",
-    "options": [
-      "あそこ",
-      "ここ",
-      "そこ",
-      "どこ"
-    ],
-    "correctAnswer": 1,
-    "difficulty": 2
-  },
-  {
-    "id": 79,
+    "id": 35,
     "question": "<b>やちん</b>",
     "options": [
       "Paris",
@@ -924,11 +416,11 @@
       "tiền thuê nhà",
       "để tôi xem đã"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "difficulty": 1
   },
   {
-    "id": 80,
+    "id": 36,
     "question": "<b>レジャーはくしょ</b>",
     "options": [
       "cảm ơn nhé. anh về nhé. (dùng khi người khác làm việc cho mình xong. hoặc khi người cùng làm trong cơ quan về sớm hơn mình thì nói câu này để chào.)",
@@ -936,23 +428,11 @@
       "sách trắng giải trí",
       "xin phép tôi về trước (dùng khi về sớm hơn người khác)"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "difficulty": 1
   },
   {
-    "id": 81,
-    "question": "<b>めがねをかけます</b>",
-    "options": [
-      "mang đến",
-      "mũ",
-      "đeo kính",
-      "để tôi xem đã"
-    ],
-    "correctAnswer": 0,
-    "difficulty": 1
-  },
-  {
-    "id": 82,
+    "id": 37,
     "question": "<b>phòng kiểu nhật</b>",
     "options": [
       "かけます",
@@ -964,123 +444,7 @@
     "difficulty": 1
   },
   {
-    "id": 83,
-    "question": "<b>かぶります</b>",
-    "options": [
-      "bộ com lê",
-      "cảm ơn nhé. anh về nhé. (dùng khi người khác làm việc cho mình xong. hoặc khi người cùng làm trong cơ quan về sớm hơn mình thì nói câu này để chào.)",
-      "tủ đựng quần áo kiểu Nhật",
-      "đội [mũ]"
-    ],
-    "correctAnswer": 0,
-    "difficulty": 1
-  },
-  {
-    "id": 84,
-    "question": "<b>A：またこんどおねがいしますは　どこですか。<p>B：（　）です。</p></b>",
-    "options": [
-      "あそこ",
-      "ここ",
-      "そこ",
-      "どこ"
-    ],
-    "correctAnswer": 1,
-    "difficulty": 2
-  },
-  {
-    "id": 85,
-    "question": "<b>A：おつかれさまでしたは　どちらですか。<p>B：（　）です。</p></b>",
-    "options": [
-      "あちら",
-      "こちら",
-      "そちら",
-      "どちら"
-    ],
-    "correctAnswer": 1,
-    "difficulty": 2
-  },
-  {
-    "id": 86,
-    "question": "<b>コート</b>",
-    "options": [
-      "lời hứa, hẹn",
-      "nhà bếp kiêm phòng ăn",
-      "nhà sản xuất",
-      "áo choàng ngoài, áo măng tô"
-    ],
-    "correctAnswer": 0,
-    "difficulty": 1
-  },
-  {
-    "id": 87,
-    "question": "<b>A:　ミラーさんは（　）<ruby>人<rp>（</rp><rt>ひと</rt><rp>）</rp></ruby>ですか。<p>B:　とても<ruby>親切<rp>（</rp><rt>しんせつ</rt><rp>）</rp></ruby>な<ruby>人<rp>（</rp><rt>ひと</rt><rp>）</rp></ruby>です。</p></b>",
-    "options": [
-      "どの",
-      "どんな"
-    ],
-    "correctAnswer": 1,
-    "difficulty": 3
-  },
-  {
-    "id": 88,
-    "question": "<b><ruby>持<rp>（</rp><rt>も</rt><rp>）</rp></ruby>って<ruby>行<rp>（</rp><rt>い</rt><rp>）</rp></ruby>きます</b>",
-    "options": [
-      "おしいれ",
-      "もっていきます",
-      "アパート",
-      "ダイニングキッチン"
-    ],
-    "correctAnswer": 0,
-    "difficulty": 2
-  },
-  {
-    "id": 89,
-    "question": "<b>A：これは　なんですか。<p>B：（　）は　ぼうしをかぶりますです。</p></b>",
-    "options": [
-      "あれ",
-      "これ",
-      "それ",
-      "どれ"
-    ],
-    "correctAnswer": 1,
-    "difficulty": 2
-  },
-  {
-    "id": 90,
-    "question": "<b>A：これは　なんですか。<p>B：（　）は　はきますです。</p></b>",
-    "options": [
-      "あれ",
-      "これ",
-      "それ",
-      "どれ"
-    ],
-    "correctAnswer": 1,
-    "difficulty": 2
-  },
-  {
-    "id": 91,
-    "question": "<b>おしいれ</b>",
-    "options": [
-      "押し出れ",
-      "押入れ",
-      "押合れ",
-      "町し人れ"
-    ],
-    "correctAnswer": 1,
-    "difficulty": 1
-  },
-  {
-    "id": 92,
-    "question": "<b><ruby>青<rp>（</rp><rt>あお</rt><rp>）</rp></ruby>いコートを（　）<ruby>人<rp>（</rp><rt>ひと</rt><rp>）</rp></ruby>はだれですか。</b>",
-    "options": [
-      "着ている",
-      "着る"
-    ],
-    "correctAnswer": 1,
-    "difficulty": 2
-  },
-  {
-    "id": 93,
+    "id": 38,
     "question": "<b>A：これは　なんですか。<p>B：（　）は　ふとんです。</p></b>",
     "options": [
       "あれ",
@@ -1092,51 +456,7 @@
     "difficulty": 2
   },
   {
-    "id": 94,
-    "question": "<b>Tiền thuê nhà</b>",
-    "options": [
-      "やうちん",
-      "やちん",
-      "やとう",
-      "やどう"
-    ],
-    "correctAnswer": 1,
-    "difficulty": 1
-  },
-  {
-    "id": 95,
-    "question": "<b>あの<ruby>帽<ruby>子<rp>（</rp><rt>こ</rt><rp>）</rp></ruby><rp>（</rp><rt>ぼうし</rt><rp>）</rp></ruby>を（１）<ruby>人<rp>（</rp><rt>ひと</rt><rp>）</rp></ruby>は（２）ですか。…サントスさんです。</b><p><b>(2)</b></p>",
-    "options": [
-      "だれ",
-      "どこ"
-    ],
-    "correctAnswer": 0,
-    "difficulty": 2
-  },
-  {
-    "id": 96,
-    "question": "<b>A：きますは　どこですか。<p>B：（　）です。</p></b>",
-    "options": [
-      "あそこ",
-      "ここ",
-      "そこ",
-      "どこ"
-    ],
-    "correctAnswer": 2,
-    "difficulty": 2
-  },
-  {
-    "id": 97,
-    "question": "<b><ruby>妹<rp>（</rp><rt>いもうと</rt><rp>）</rp></ruby>さんが（１）アパートの<ruby>家賃<rp>（</rp><rt>やちん</rt><rp>）</rp></ruby>は（２）ですか。…75,000<ruby>円<rp>（</rp><rt>えん</rt><rp>）</rp></ruby>です。</b><p><b>(2)</b></p>",
-    "options": [
-      "いくら",
-      "いつ"
-    ],
-    "correctAnswer": 0,
-    "difficulty": 3
-  },
-  {
-    "id": 98,
+    "id": 39,
     "question": "<b>ぼうしをかぶります</b>",
     "options": [
       "nhà bếp kiêm phòng ăn",
@@ -1144,277 +464,11 @@
       "được sinh ra",
       "đội mũ"
     ],
-    "correctAnswer": 0,
-    "difficulty": 1
-  },
-  {
-    "id": 99,
-    "question": "<b>わしつ</b>",
-    "options": [
-      "mặc áo sơ mi",
-      "phòng kiểu nhật",
-      "áo len",
-      "để tôi xem đã"
-    ],
-    "correctAnswer": 0,
-    "difficulty": 1
-  },
-  {
-    "id": 100,
-    "question": "<b>mũ</b>",
-    "options": [
-      "おさきにしつれいします",
-      "おつかれさまでした",
-      "ぼうし",
-      "またこんどおねがいします"
-    ],
-    "correctAnswer": 0,
-    "difficulty": 1
-  },
-  {
-    "id": 101,
-    "question": "<b><ruby>名古屋<rp>（</rp><rt>なごや</rt><rp>）</rp></ruby>で（１）ホテルは（２）でしたか。…きれいで、サービスがよかったです。</b><p><b>(1)</b></p>",
-    "options": [
-      "泊まった",
-      "泊まっている"
-    ],
-    "correctAnswer": 0,
-    "difficulty": 2
-  },
-  {
-    "id": 102,
-    "question": "<b>おつかれさまでした</b>",
-    "options": [
-      "cảm ơn nhé. anh về nhé. (dùng khi người khác làm việc cho mình xong. hoặc khi người cùng làm trong cơ quan về sớm hơn mình thì nói câu này để chào.)",
-      "mang đến",
-      "phụ tùng, linh kiện",
-      "xin để lần khác (cách từ chối gián tiếp)"
-    ],
-    "correctAnswer": 0,
-    "difficulty": 1
-  },
-  {
-    "id": 103,
-    "question": "<b>A：わしつは　どちらですか。<p>B：（　）です。</p></b>",
-    "options": [
-      "あちら",
-      "こちら",
-      "そちら",
-      "どちら"
-    ],
-    "correctAnswer": 2,
-    "difficulty": 2
-  },
-  {
-    "id": 104,
-    "question": "<b>A：これは　なんですか。<p>B：（　）は　かぶりますです。</p></b>",
-    "options": [
-      "あれ",
-      "これ",
-      "それ",
-      "どれ"
-    ],
-    "correctAnswer": 1,
-    "difficulty": 2
-  },
-  {
-    "id": 105,
-    "question": "<b>A:　サントスさんは（　）<ruby>人<rp>（</rp><rt>ひと</rt><rp>）</rp></ruby>ですか。<p>B:　あの<ruby>帽<ruby>子<rp>（</rp><rt>こ</rt><rp>）</rp></ruby><rp>（</rp><rt>ぼうし</rt><rp>）</rp></ruby>をかぶっている<ruby>人<rp>（</rp><rt>ひと</rt><rp>）</rp></ruby>です。</p></b>",
-    "options": [
-      "どの",
-      "どれ"
-    ],
-    "correctAnswer": 0,
-    "difficulty": 3
-  },
-  {
-    "id": 106,
-    "question": "<b><ruby>妹<rp>（</rp><rt>いもうと</rt><rp>）</rp></ruby>さんが（１）アパートの<ruby>家賃<rp>（</rp><rt>やちん</rt><rp>）</rp></ruby>は（２）ですか。…75,000<ruby>円<rp>（</rp><rt>えん</rt><rp>）</rp></ruby>です。</b><p><b>(1)</b></p>",
-    "options": [
-      "借りた",
-      "借りる"
-    ],
-    "correctAnswer": 0,
-    "difficulty": 3
-  },
-  {
-    "id": 107,
-    "question": "<b>A：おつかれさまでしたは　どこですか。<p>B：（　）です。</p></b>",
-    "options": [
-      "あそこ",
-      "ここ",
-      "そこ",
-      "どこ"
-    ],
-    "correctAnswer": 1,
-    "difficulty": 2
-  },
-  {
-    "id": 108,
-    "question": "<b>bộ com lê</b>",
-    "options": [
-      "おしいれ",
-      "ふとん",
-      "もってきます",
-      "スーツ"
-    ],
     "correctAnswer": 3,
     "difficulty": 1
   },
   {
-    "id": 109,
-    "question": "<b>セーター</b>",
-    "options": [
-      "Váy liền thân",
-      "Váy đi học",
-      "Áo len",
-      "Áo sơ mi"
-    ],
-    "correctAnswer": 1,
-    "difficulty": 1
-  },
-  {
-    "id": 110,
-    "question": "<b>コート</b>",
-    "options": [
-      "Vạn lý trường thành",
-      "chung cư",
-      "áo choàng ngoài, áo măng tô",
-      "để tôi xem đã"
-    ],
-    "correctAnswer": 0,
-    "difficulty": 1
-  },
-  {
-    "id": 111,
-    "question": "<b>コート</b>",
-    "options": [
-      "Áo dài",
-      "Áo khoác",
-      "Áo váy",
-      "Đầm"
-    ],
-    "correctAnswer": 2,
-    "difficulty": 1
-  },
-  {
-    "id": 112,
-    "question": "<b>A：かぶりますは　どこですか。<p>B：（　）です。</p></b>",
-    "options": [
-      "あそこ",
-      "ここ",
-      "そこ",
-      "どこ"
-    ],
-    "correctAnswer": 1,
-    "difficulty": 2
-  },
-  {
-    "id": 113,
-    "question": "<b>パリ</b>",
-    "options": [
-      "Paris",
-      "mang đến",
-      "đeo kính",
-      "đi giày"
-    ],
-    "correctAnswer": 0,
-    "difficulty": 1
-  },
-  {
-    "id": 114,
-    "question": "<b>A：わしつは　どこですか。<p>B：（　）です。</p></b>",
-    "options": [
-      "あそこ",
-      "ここ",
-      "そこ",
-      "どこ"
-    ],
-    "correctAnswer": 2,
-    "difficulty": 2
-  },
-  {
-    "id": 115,
-    "question": "<b><ruby>家賃<rp>（</rp><rt>やちん</rt><rp>）</rp></ruby></b>",
-    "options": [
-      "かち",
-      "かちん",
-      "やち",
-      "やちん"
-    ],
-    "correctAnswer": 3,
-    "difficulty": 2
-  },
-  {
-    "id": 116,
-    "question": "<b>bộ com lê</b>",
-    "options": [
-      "やちん",
-      "スーツ",
-      "セーター",
-      "レジャーはくしょ"
-    ],
-    "correctAnswer": 1,
-    "difficulty": 1
-  },
-  {
-    "id": 117,
-    "question": "<b><ruby>子<rp>（</rp><rt>こ</rt><rp>）</rp></ruby>どもと<ruby>遊<rp>（</rp><rt>あそ</rt><rp>）</rp></ruby>ぶ（　）があります。</b>",
-    "options": [
-      "用事",
-      "約束"
-    ],
-    "correctAnswer": 0,
-    "difficulty": 2
-  },
-  {
-    "id": 118,
-    "question": "<b>A：アパートは　どこですか。<p>B：（　）です。</p></b>",
-    "options": [
-      "あそこ",
-      "ここ",
-      "そこ",
-      "どこ"
-    ],
-    "correctAnswer": 0,
-    "difficulty": 2
-  },
-  {
-    "id": 119,
-    "question": "<b>おしいれ</b>",
-    "options": [
-      "chăn",
-      "nhà sản xuất",
-      "tủ đựng quần áo kiểu Nhật",
-      "đội mũ"
-    ],
-    "correctAnswer": 0,
-    "difficulty": 1
-  },
-  {
-    "id": 120,
-    "question": "<b>ミラーさんは（　）<ruby>喫<ruby>茶<rp>（</rp><rt>ちゃ</rt><rp>）</rp></ruby>店<rp>（</rp><rt>きっさてん</rt><rp>）</rp></ruby>へ<ruby>行<rp>（</rp><rt>い</rt><rp>）</rp></ruby>きます。</b>",
-    "options": [
-      "だいたい",
-      "よく"
-    ],
-    "correctAnswer": 0,
-    "difficulty": 3
-  },
-  {
-    "id": 121,
-    "question": "<b>đội mũ</b>",
-    "options": [
-      "くつ／くつした／ずぼんをはきます",
-      "ばんりのちょうじょう",
-      "ぼうしをかぶります",
-      "メーカー"
-    ],
-    "correctAnswer": 2,
-    "difficulty": 1
-  },
-  {
-    "id": 122,
+    "id": 40,
     "question": "<b>アパート</b>",
     "options": [
       "chung cư",
@@ -1426,19 +480,7 @@
     "difficulty": 1
   },
   {
-    "id": 123,
-    "question": "<b>はきます</b>",
-    "options": [
-      "nhà bếp kiêm phòng ăn",
-      "nhà sản xuất",
-      "đi [giày], mặc [quần]",
-      "đội mũ"
-    ],
-    "correctAnswer": 0,
-    "difficulty": 1
-  },
-  {
-    "id": 124,
+    "id": 41,
     "question": "<b>A：これは　なんですか。<p>B：（　）は　ばんりのちょうじょうです。</p></b>",
     "options": [
       "あれ",
@@ -1450,43 +492,7 @@
     "difficulty": 3
   },
   {
-    "id": 125,
-    "question": "<b>áo choàng ngoài, áo măng tô</b>",
-    "options": [
-      "ばんりのちょうじょう",
-      "ふく",
-      "またこんどおねがいします",
-      "コート"
-    ],
-    "correctAnswer": 3,
-    "difficulty": 1
-  },
-  {
-    "id": 126,
-    "question": "<b>A：またこんどおねがいしますは　どちらですか。<p>B：（　）です。</p></b>",
-    "options": [
-      "あちら",
-      "こちら",
-      "そちら",
-      "どちら"
-    ],
-    "correctAnswer": 0,
-    "difficulty": 2
-  },
-  {
-    "id": 127,
-    "question": "<b>ふとん</b>",
-    "options": [
-      "布因",
-      "布団",
-      "布囲",
-      "布財"
-    ],
-    "correctAnswer": 2,
-    "difficulty": 1
-  },
-  {
-    "id": 128,
+    "id": 42,
     "question": "<b>きます</b>",
     "options": [
       "cảm ơn nhé. anh về nhé. (dùng khi người khác làm việc cho mình xong. hoặc khi người cùng làm trong cơ quan về sớm hơn mình thì nói câu này để chào.)",
@@ -1494,131 +500,11 @@
       "áo choàng ngoài, áo măng tô",
       "đi [giày], mặc [quần]"
     ],
-    "correctAnswer": 0,
-    "difficulty": 1
-  },
-  {
-    "id": 129,
-    "question": "<b>わしつ</b>",
-    "options": [
-      "mang đi",
-      "phòng kiểu nhật",
-      "áo len",
-      "để tôi xem đã"
-    ],
-    "correctAnswer": 0,
-    "difficulty": 1
-  },
-  {
-    "id": 130,
-    "question": "<b>かぶります</b>",
-    "options": [
-      "Mang giày",
-      "Mặc áo",
-      "Đeo kính",
-      "Đội mũ"
-    ],
-    "correctAnswer": 0,
-    "difficulty": 1
-  },
-  {
-    "id": 131,
-    "question": "<b>アパート</b>",
-    "options": [
-      "chung cư",
-      "lời hứa, hẹn",
-      "xin để lần khác (cách từ chối gián tiếp)",
-      "áo, quần áo"
-    ],
-    "correctAnswer": 0,
-    "difficulty": 1
-  },
-  {
-    "id": 132,
-    "question": "<b>Kính</b>",
-    "options": [
-      "めかぬ",
-      "めかね",
-      "めがぬ",
-      "めがね"
-    ],
     "correctAnswer": 1,
     "difficulty": 1
   },
   {
-    "id": 133,
-    "question": "<b>アパート</b>",
-    "options": [
-      "Khu mua sắm",
-      "Nhà bán",
-      "Nhà chung cư",
-      "Nhà riêng"
-    ],
-    "correctAnswer": 2,
-    "difficulty": 1
-  },
-  {
-    "id": 134,
-    "question": "<b>やちん</b>",
-    "options": [
-      "bộ com lê",
-      "mũ bảo hiểm, mũ an toàn",
-      "tiền thuê nhà",
-      "áo choàng ngoài, áo măng tô"
-    ],
-    "correctAnswer": 0,
-    "difficulty": 1
-  },
-  {
-    "id": 135,
-    "question": "<b><ruby>約束<rp>（</rp><rt>やくそく</rt><rp>）</rp></ruby></b>",
-    "options": [
-      "おつかれさまでした",
-      "ぼうしをかぶります",
-      "やくそく",
-      "アパート"
-    ],
-    "correctAnswer": 2,
-    "difficulty": 2
-  },
-  {
-    "id": 136,
-    "question": "<b>おしいれ</b>",
-    "options": [
-      "Paris",
-      "bộ com lê",
-      "tủ đựng quần áo kiểu Nhật",
-      "để tôi xem đã"
-    ],
-    "correctAnswer": 0,
-    "difficulty": 1
-  },
-  {
-    "id": 137,
-    "question": "<b>やちん</b>",
-    "options": [
-      "家貸",
-      "家賃",
-      "貸賃",
-      "賃貸"
-    ],
-    "correctAnswer": 2,
-    "difficulty": 1
-  },
-  {
-    "id": 138,
-    "question": "<b>A：めがねをかけますは　どちらですか。<p>B：（　）です。</p></b>",
-    "options": [
-      "あちら",
-      "こちら",
-      "そちら",
-      "どちら"
-    ],
-    "correctAnswer": 0,
-    "difficulty": 2
-  },
-  {
-    "id": 139,
+    "id": 43,
     "question": "<b>ダイニングキッチン</b>",
     "options": [
       "chăn",
@@ -1626,23 +512,11 @@
       "đeo kính",
       "đi giày"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "difficulty": 1
   },
   {
-    "id": 140,
-    "question": "<b>きます</b>",
-    "options": [
-      "着ます",
-      "聞ます",
-      "道ます",
-      "開ます"
-    ],
-    "correctAnswer": 3,
-    "difficulty": 1
-  },
-  {
-    "id": 141,
+    "id": 44,
     "question": "<b>đeo [kính]</b>",
     "options": [
       "かけます",
@@ -1654,283 +528,7 @@
     "difficulty": 1
   },
   {
-    "id": 142,
-    "question": "<b>はきます</b>",
-    "options": [
-      "chung cư",
-      "sách trắng giải trí",
-      "xin để lần khác (cách từ chối gián tiếp)",
-      "đi [giày], mặc [quần]"
-    ],
-    "correctAnswer": 0,
-    "difficulty": 1
-  },
-  {
-    "id": 143,
-    "question": "<b>あれはミラーさん（　）<ruby>作<rp>（</rp><rt>つく</rt><rp>）</rp></ruby>ったいすです。</b>",
-    "options": [
-      "が",
-      "は"
-    ],
-    "correctAnswer": 0,
-    "difficulty": 2
-  },
-  {
-    "id": 144,
-    "question": "<b><ruby>押<rp>（</rp><rt>お</rt><rp>）</rp></ruby>し<ruby>入<rp>（</rp><rt>はい</rt><rp>）</rp></ruby>れ</b>",
-    "options": [
-      "おしいれ",
-      "はきます",
-      "ダイニングキッチン",
-      "ヘルメット"
-    ],
-    "correctAnswer": 0,
-    "difficulty": 2
-  },
-  {
-    "id": 145,
-    "question": "<b>đeo [kính]</b>",
-    "options": [
-      "うまれます",
-      "かけます",
-      "もっていきます",
-      "スーツ"
-    ],
-    "correctAnswer": 1,
-    "difficulty": 1
-  },
-  {
-    "id": 146,
-    "question": "<b><ruby>生<rp>（</rp><rt>う</rt><rp>）</rp></ruby>まれます</b>",
-    "options": [
-      "うまれます",
-      "ばんりのちょうじょう",
-      "もってきます",
-      "シャツ／コートをきます"
-    ],
-    "correctAnswer": 0,
-    "difficulty": 2
-  },
-  {
-    "id": 147,
-    "question": "<b><ruby>旅<ruby>行<rp>（</rp><rt>い</rt><rp>）</rp></ruby><rp>（</rp><rt>りょこう</rt><rp>）</rp></ruby>に（１）<ruby>人<rp>（</rp><rt>ひと</rt><rp>）</rp></ruby>は（２）ですか。…１５<ruby>人<rp>（</rp><rt>にん</rt><rp>）</rp></ruby>です。</b><p><b>(2)</b></p>",
-    "options": [
-      "だれ",
-      "何人"
-    ],
-    "correctAnswer": 0,
-    "difficulty": 3
-  },
-  {
-    "id": 148,
-    "question": "<b>A：もってきますは　どちらですか。<p>B：（　）です。</p></b>",
-    "options": [
-      "あちら",
-      "こちら",
-      "そちら",
-      "どちら"
-    ],
-    "correctAnswer": 1,
-    "difficulty": 2
-  },
-  {
-    "id": 149,
-    "question": "<b>phòng kiểu nhật</b>",
-    "options": [
-      "ふとん",
-      "やちん",
-      "わしつ",
-      "セーター"
-    ],
-    "correctAnswer": 2,
-    "difficulty": 1
-  },
-  {
-    "id": 150,
-    "question": "<b><ruby>兄<rp>（</rp><rt>あに</rt><rp>）</rp></ruby>はおいしい<ruby>水<rp>（</rp><rt>みず</rt><rp>）</rp></ruby>を（　）<ruby>研究<rp>（</rp><rt>けんきゅう</rt><rp>）</rp></ruby>をしています。</b>",
-    "options": [
-      "作って",
-      "作る"
-    ],
-    "correctAnswer": 1,
-    "difficulty": 3
-  },
-  {
-    "id": 151,
-    "question": "<b>mũ bảo hiểm, mũ an toàn</b>",
-    "options": [
-      "めがねをかけます",
-      "もっていきます",
-      "アパート",
-      "ヘルメット"
-    ],
-    "correctAnswer": 0,
-    "difficulty": 1
-  },
-  {
-    "id": 152,
-    "question": "<b><ruby>押<rp>（</rp><rt>お</rt><rp>）</rp></ruby><ruby>入<rp>（</rp><rt>はい</rt><rp>）</rp></ruby>れ</b>",
-    "options": [
-      "おうしいれ",
-      "おおしいれ",
-      "おしいれ",
-      "おしれ"
-    ],
-    "correctAnswer": 1,
-    "difficulty": 2
-  },
-  {
-    "id": 153,
-    "question": "<b>ふく</b>",
-    "options": [
-      "mang đến",
-      "tủ đựng quần áo kiểu Nhật",
-      "áo, quần áo",
-      "đội [mũ]"
-    ],
-    "correctAnswer": 0,
-    "difficulty": 1
-  },
-  {
-    "id": 154,
-    "question": "<b><ruby>本<rp>（</rp><rt>ほん</rt><rp>）</rp></ruby>を（　）<ruby>時<ruby>間<rp>（</rp><rt>あいだ</rt><rp>）</rp></ruby><rp>（</rp><rt>じかん</rt><rp>）</rp></ruby>が<ruby>欲<rp>（</rp><rt>ほ</rt><rp>）</rp></ruby>しいです。</b>",
-    "options": [
-      "読む",
-      "読むの"
-    ],
-    "correctAnswer": 0,
-    "difficulty": 3
-  },
-  {
-    "id": 155,
-    "question": "<b><ruby>名古屋<rp>（</rp><rt>なごや</rt><rp>）</rp></ruby>で（１）ホテルは（２）でしたか。…きれいで、サービスがよかったです。</b><p><b>(2)</b></p>",
-    "options": [
-      "どう",
-      "どこ"
-    ],
-    "correctAnswer": 0,
-    "difficulty": 2
-  },
-  {
-    "id": 156,
-    "question": "<b>đeo [kính]</b>",
-    "options": [
-      "うーん",
-      "おしいれ",
-      "かけます",
-      "わしつ"
-    ],
-    "correctAnswer": 2,
-    "difficulty": 1
-  },
-  {
-    "id": 157,
-    "question": "<b>パリ</b>",
-    "options": [
-      "Paris",
-      "chăn",
-      "mũ",
-      "đội [mũ]"
-    ],
-    "correctAnswer": 0,
-    "difficulty": 1
-  },
-  {
-    "id": 158,
-    "question": "<b>bộ com lê</b>",
-    "options": [
-      "きます",
-      "ぶひん",
-      "コート",
-      "スーツ"
-    ],
-    "correctAnswer": 3,
-    "difficulty": 1
-  },
-  {
-    "id": 159,
-    "question": "<b>あの<ruby>帽<ruby>子<rp>（</rp><rt>こ</rt><rp>）</rp></ruby><rp>（</rp><rt>ぼうし</rt><rp>）</rp></ruby>を（１）<ruby>人<rp>（</rp><rt>ひと</rt><rp>）</rp></ruby>は（２）ですか。…サントスさんです。</b><p><b>(1)</b></p>",
-    "options": [
-      "かぶっていた",
-      "かぶっている"
-    ],
-    "correctAnswer": 0,
-    "difficulty": 2
-  },
-  {
-    "id": 160,
-    "question": "<b>A：シャツ／コートをきますは　どこですか。<p>B：（　）です。</p></b>",
-    "options": [
-      "あそこ",
-      "ここ",
-      "そこ",
-      "どこ"
-    ],
-    "correctAnswer": 2,
-    "difficulty": 2
-  },
-  {
-    "id": 161,
-    "question": "<b>đeo [kính]</b>",
-    "options": [
-      "おしいれ",
-      "かけます",
-      "ぶひん",
-      "めがねをかけます"
-    ],
-    "correctAnswer": 1,
-    "difficulty": 1
-  },
-  {
-    "id": 162,
-    "question": "<b>A：はきますは　どちらですか。<p>B：（　）です。</p></b>",
-    "options": [
-      "あちら",
-      "こちら",
-      "そちら",
-      "どちら"
-    ],
-    "correctAnswer": 2,
-    "difficulty": 2
-  },
-  {
-    "id": 163,
-    "question": "<b>きます</b>",
-    "options": [
-      "Vạn lý trường thành",
-      "mặc [áo sơ mi…]",
-      "tiền thuê nhà",
-      "áo, quần áo"
-    ],
-    "correctAnswer": 0,
-    "difficulty": 1
-  },
-  {
-    "id": 164,
-    "question": "<b>mũ bảo hiểm, mũ an toàn</b>",
-    "options": [
-      "うーん",
-      "ぼうしをかぶります",
-      "パリ",
-      "ヘルメット"
-    ],
-    "correctAnswer": 0,
-    "difficulty": 1
-  },
-  {
-    "id": 165,
-    "question": "<b>アパート</b>",
-    "options": [
-      "Paris",
-      "chung cư",
-      "mũ",
-      "đi giày"
-    ],
-    "correctAnswer": 0,
-    "difficulty": 1
-  },
-  {
-    "id": 166,
+    "id": 45,
     "question": "<b>またこんどおねがいします</b>",
     "options": [
       "Vạn lý trường thành",
@@ -1938,11 +536,11 @@
       "xin phép tôi về trước (dùng khi về sớm hơn người khác)",
       "xin để lần khác (cách từ chối gián tiếp)"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "difficulty": 1
   },
   {
-    "id": 167,
+    "id": 46,
     "question": "<b>メーカー</b>",
     "options": [
       "bộ com lê",
@@ -1950,121 +548,7 @@
       "mũ bảo hiểm, mũ an toàn",
       "nhà sản xuất"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "difficulty": 1
-  },
-  {
-    "id": 168,
-    "question": "<b>A：ダイニングキッチンは　どこですか。<p>B：（　）です。</p></b>",
-    "options": [
-      "あそこ",
-      "ここ",
-      "そこ",
-      "どこ"
-    ],
-    "correctAnswer": 2,
-    "difficulty": 2
-  },
-  {
-    "id": 169,
-    "question": "<b>đeo [kính]</b>",
-    "options": [
-      "かけます",
-      "ぼうし",
-      "アパート",
-      "シャツ／コートをきます"
-    ],
-    "correctAnswer": 0,
-    "difficulty": 1
-  },
-  {
-    "id": 170,
-    "question": "<b><ruby>持<rp>（</rp><rt>も</rt><rp>）</rp></ruby>って<ruby>来<rp>（</rp><rt>き</rt><rp>）</rp></ruby>ます</b>",
-    "options": [
-      "うーん",
-      "かけます",
-      "かぶります",
-      "もってきます"
-    ],
-    "correctAnswer": 0,
-    "difficulty": 2
-  },
-  {
-    "id": 171,
-    "question": "<b>mũ bảo hiểm, mũ an toàn</b>",
-    "options": [
-      "きます",
-      "ダイニングキッチン",
-      "パリ",
-      "ヘルメット"
-    ],
-    "correctAnswer": 0,
-    "difficulty": 1
-  },
-  {
-    "id": 172,
-    "question": "<b>カリナさんが（　）<ruby>絵<rp>（</rp><rt>え</rt><rp>）</rp></ruby>を<ruby>見<rp>（</rp><rt>み</rt><rp>）</rp></ruby>たことがありますか。</b>",
-    "options": [
-      "かいた",
-      "かく"
-    ],
-    "correctAnswer": 0,
-    "difficulty": 2
-  },
-  {
-    "id": 173,
-    "question": "<b>レジャーはくしょ</b>",
-    "options": [
-      "sách trắng giải trí",
-      "áo choàng ngoài, áo măng tô",
-      "đeo kính",
-      "đội mũ"
-    ],
-    "correctAnswer": 0,
-    "difficulty": 1
-  },
-  {
-    "id": 174,
-    "question": "<b><ruby>押<rp>（</rp><rt>お</rt><rp>）</rp></ruby>し<ruby>入<rp>（</rp><rt>はい</rt><rp>）</rp></ruby>れ</b>",
-    "options": [
-      "おしいれ",
-      "ぼうしをかぶります",
-      "またこんどおねがいします",
-      "やちん"
-    ],
-    "correctAnswer": 0,
-    "difficulty": 2
-  },
-  {
-    "id": 175,
-    "question": "<b><ruby>佐藤<rp>（</rp><rt>さとう</rt><rp>）</rp></ruby>さんに（１）プレゼントは（２）ですか。…<ruby>時計<rp>（</rp><rt>とけい</rt><rp>）</rp></ruby>です。</b><p><b>(1)</b></p>",
-    "options": [
-      "もらう",
-      "もらった"
-    ],
-    "correctAnswer": 0,
-    "difficulty": 3
-  },
-  {
-    "id": 176,
-    "question": "<b>A：コートは　どちらですか。<p>B：（　）です。</p></b>",
-    "options": [
-      "あちら",
-      "こちら",
-      "そちら",
-      "どちら"
-    ],
-    "correctAnswer": 2,
-    "difficulty": 2
-  },
-  {
-    "id": 177,
-    "question": "<b><ruby>佐藤<rp>（</rp><rt>さとう</rt><rp>）</rp></ruby>さんに（１）プレゼントは（２）ですか。…<ruby>時計<rp>（</rp><rt>とけい</rt><rp>）</rp></ruby>です。</b><p><b>(2)</b></p>",
-    "options": [
-      "いつ",
-      "何"
-    ],
-    "correctAnswer": 1,
-    "difficulty": 3
   }
 ]

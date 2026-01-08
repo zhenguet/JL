@@ -20,7 +20,7 @@
       "かさみ",
       "さがみ"
     ],
-    "correctAnswer": 3,
+    "correctAnswer": 1,
     "difficulty": 2
   },
   {
@@ -66,7 +66,7 @@
       "Lau nhà",
       "Rửa chén"
     ],
-    "correctAnswer": 3,
+    "correctAnswer": 0,
     "difficulty": 1
   },
   {
@@ -81,16 +81,6 @@
   },
   {
     "id": 8,
-    "question": "<b>あそこに<ruby>来週<rp>（</rp><rt>らいしゅう</rt><rp>）</rp></ruby>の<ruby>予定<rp>（</rp><rt>よてい</rt><rp>）</rp></ruby>が<ruby>書<rp>（</rp><rt>か</rt><rp>）</rp></ruby>いて＿＿＿から、<ruby>見<rp>（</rp><rt>み</rt><rp>）</rp></ruby>て＿＿＿ください。</b>",
-    "options": [
-      "あります、おいて",
-      "います、ありません"
-    ],
-    "correctAnswer": 1,
-    "difficulty": 3
-  },
-  {
-    "id": 9,
     "question": "<b>交<ruby>番<rp>（</rp><rt>ばん</rt><rp>）</rp></ruby></b>",
     "options": [
       "こうばん",
@@ -98,11 +88,11 @@
       "こばん",
       "こぱん"
     ],
-    "correctAnswer": 2,
+    "correctAnswer": 0,
     "difficulty": 2
   },
   {
-    "id": 10,
+    "id": 9,
     "question": "<b>ごみの<ruby>日<rp>（</rp><rt>ひ</rt><rp>）</rp></ruby>はあしたなんですが、<ruby>今晩<rp>（</rp><rt>こんばん</rt><rp>）</rp></ruby><ruby>出<rp>（</rp><rt>だ</rt><rp>）</rp></ruby>して＿＿＿もいいですか。</b>",
     "options": [
       "おいて",
@@ -112,7 +102,7 @@
     "difficulty": 3
   },
   {
-    "id": 11,
+    "id": 10,
     "question": "<b><ruby>人形<rp>（</rp><rt>にんぎょう</rt><rp>）</rp></ruby></b>",
     "options": [
       "にんきょ",
@@ -124,7 +114,7 @@
     "difficulty": 2
   },
   {
-    "id": 12,
+    "id": 11,
     "question": "<b>テーブルの<ruby>周<rp>（</rp><rt>まわ</rt><rp>）</rp></ruby>り（　）いすが<ruby>並<rp>（</rp><rt>なら</rt><rp>）</rp></ruby>べてあります。</b>",
     "options": [
       "で",
@@ -134,7 +124,7 @@
     "difficulty": 2
   },
   {
-    "id": 13,
+    "id": 12,
     "question": "<b>玄関</b>",
     "options": [
       "かかん",
@@ -142,21 +132,21 @@
       "けんかん",
       "げんかん"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "difficulty": 2
   },
   {
-    "id": 14,
+    "id": 13,
     "question": "<b><ruby>借<rp>（</rp><rt>か</rt><rp>）</rp></ruby>りたお<ruby>金<rp>（</rp><rt>かね</rt><rp>）</rp></ruby>をすぐ（　）。</b>",
     "options": [
       "戻します",
       "返します"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "difficulty": 2
   },
   {
-    "id": 15,
+    "id": 14,
     "question": "<b>すみ</b>",
     "options": [
       "涙",
@@ -168,7 +158,7 @@
     "difficulty": 1
   },
   {
-    "id": 16,
+    "id": 15,
     "question": "<b><ruby>交<ruby>番<rp>（</rp><rt>ばん</rt><rp>）</rp></ruby><rp>（</rp><rt>こうばん</rt><rp>）</rp></ruby>に<ruby>町<rp>（</rp><rt>まち</rt><rp>）</rp></ruby>の<ruby>地図<rp>（</rp><rt>ちず</rt><rp>）</rp></ruby>がはって（　）。</b>",
     "options": [
       "あります",
@@ -178,7 +168,7 @@
     "difficulty": 3
   },
   {
-    "id": 17,
+    "id": 16,
     "question": "<b>あさっての<ruby>夜<rp>（</rp><rt>よる</rt><rp>）</rp></ruby>IMCの<ruby>部<ruby>長<rp>（</rp><rt>なが</rt><rp>）</rp></ruby><rp>（</rp><rt>ぶちょう</rt><rp>）</rp></ruby>と<ruby>食事<rp>（</rp><rt>しょくじ</rt><rp>）</rp></ruby>しますから、レストランを＿＿＿おきます。</b>",
     "options": [
       "予約して",
@@ -188,7 +178,7 @@
     "difficulty": 3
   },
   {
-    "id": 18,
+    "id": 17,
     "question": "<b><ruby>廊下<rp>（</rp><rt>ろうか</rt><rp>）</rp></ruby>（　）<ruby>壁<rp>（</rp><rt>かべ</rt><rp>）</rp></ruby>（　）お<ruby>知<rp>（</rp><rt>し</rt><rp>）</rp></ruby>らせ（　）はっておきました。</b>",
     "options": [
       "の、で、を",
@@ -198,7 +188,7 @@
     "difficulty": 3
   },
   {
-    "id": 19,
+    "id": 18,
     "question": "<b>はさみを<ruby>使<rp>（</rp><rt>つか</rt><rp>）</rp></ruby>ったら、<ruby>元<rp>（</rp><rt>もと</rt><rp>）</rp></ruby>の<ruby>所<rp>（</rp><rt>ところ</rt><rp>）</rp></ruby>に<ruby>戻<rp>（</rp><rt>もど</rt><rp>）</rp></ruby>して（　）ください。</b>",
     "options": [
       "あって",
@@ -208,19 +198,7 @@
     "difficulty": 3
   },
   {
-    "id": 20,
-    "question": "<b>きめます</b>",
-    "options": [
-      "Cáo buộc",
-      "Quyết định",
-      "Trình đơn",
-      "Đề xuất"
-    ],
-    "correctAnswer": 1,
-    "difficulty": 1
-  },
-  {
-    "id": 21,
+    "id": 19,
     "question": "<b><ruby>壁<rp>（</rp><rt>かべ</rt><rp>）</rp></ruby>に<ruby>帽<ruby>子<rp>（</rp><rt>こ</rt><rp>）</rp></ruby><rp>（</rp><rt>ぼうし</rt><rp>）</rp></ruby>が（　）あります。</b>",
     "options": [
       "はって",
@@ -230,7 +208,7 @@
     "difficulty": 2
   },
   {
-    "id": 22,
+    "id": 20,
     "question": "<b>ミラーさんから<ruby>来<rp>（</rp><rt>き</rt><rp>）</rp></ruby>た<ruby>手紙<rp>（</rp><rt>てがみ</rt><rp>）</rp></ruby>（　）どこですか。<p>…<ruby>机<rp>（</rp><rt>つくえ</rt><rp>）</rp></ruby>（　）<ruby>引<rp>（</rp><rt>ひ</rt><rp>）</rp></ruby>き<ruby>出<rp>（</rp><rt>だ</rt><rp>）</rp></ruby>し（　）しまってあります。</p></b>",
     "options": [
       "の、は、に",
@@ -240,27 +218,17 @@
     "difficulty": 3
   },
   {
-    "id": 23,
+    "id": 21,
     "question": "<b>あそこに<ruby>止<rp>（</rp><rt>と</rt><rp>）</rp></ruby>まって＿＿＿<ruby>車<rp>（</rp><rt>くるま</rt><rp>）</rp></ruby>、<ruby>誰<rp>（</rp><rt>だれ</rt><rp>）</rp></ruby>が<ruby>乗<rp>（</rp><rt>の</rt><rp>）</rp></ruby>って＿＿＿か。<p>                …いいえ、だれも<ruby>乗<rp>（</rp><rt>の</rt><rp>）</rp></ruby>って＿＿＿</p></b>",
     "options": [
       "いる、います、いません",
       "おいて、あって、いません"
     ],
-    "correctAnswer": 1,
-    "difficulty": 3
-  },
-  {
-    "id": 24,
-    "question": "<b><ruby>試験<rp>（</rp><rt>しけん</rt><rp>）</rp></ruby>までにこの<ruby>本<rp>（</rp><rt>ほん</rt><rp>）</rp></ruby>を<ruby>読<rp>（</rp><rt>よ</rt><rp>）</rp></ruby>んで＿＿＿なければなりません。</b>",
-    "options": [
-      "おか",
-      "おくな"
-    ],
     "correctAnswer": 0,
     "difficulty": 3
   },
   {
-    "id": 25,
+    "id": 22,
     "question": "<b>Kế hoạch</b>",
     "options": [
       "ようて",
@@ -268,11 +236,11 @@
       "よてい",
       "よてう"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "difficulty": 1
   },
   {
-    "id": 26,
+    "id": 23,
     "question": "<b>Bài giảng</b>",
     "options": [
       "こいぎい",
@@ -280,11 +248,11 @@
       "こうぎ",
       "こぎ"
     ],
-    "correctAnswer": 3,
+    "correctAnswer": 2,
     "difficulty": 1
   },
   {
-    "id": 27,
+    "id": 24,
     "question": "<b>ちきゅう</b>",
     "options": [
       "世界",
@@ -292,11 +260,11 @@
       "球地",
       "界世"
     ],
-    "correctAnswer": 2,
+    "correctAnswer": 1,
     "difficulty": 1
   },
   {
-    "id": 28,
+    "id": 25,
     "question": "<b>あした<ruby>登<rp>（</rp><rt>のぼ</rt><rp>）</rp></ruby>る<ruby>山<rp>（</rp><rt>やま</rt><rp>）</rp></ruby>は<ruby>初<rp>（</rp><rt>はじ</rt><rp>）</rp></ruby>めてですから、<ruby>地図<rp>（</rp><rt>ちず</rt><rp>）</rp></ruby>をよく＿＿＿おきます。</b>",
     "options": [
       "見たくて",
@@ -306,7 +274,7 @@
     "difficulty": 3
   },
   {
-    "id": 29,
+    "id": 26,
     "question": "<b>かびん</b>",
     "options": [
       "瓶花",
@@ -318,7 +286,7 @@
     "difficulty": 1
   },
   {
-    "id": 30,
+    "id": 27,
     "question": "<b>いけ</b>",
     "options": [
       "壁",
@@ -326,21 +294,11 @@
       "鏡",
       "隅"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "difficulty": 1
   },
   {
-    "id": 31,
-    "question": "<b>この<ruby>手紙<rp>（</rp><rt>てがみ</rt><rp>）</rp></ruby>、<ruby>切手<rp>（</rp><rt>きって</rt><rp>）</rp></ruby>がはって＿＿＿から、はってから、<ruby>出<rp>（</rp><rt>だ</rt><rp>）</rp></ruby>してください。</b>",
-    "options": [
-      "ありません",
-      "おくる"
-    ],
-    "correctAnswer": 0,
-    "difficulty": 3
-  },
-  {
-    "id": 32,
+    "id": 28,
     "question": "<b><ruby>池<rp>（</rp><rt>いけ</rt><rp>）</rp></ruby>（　）<ruby>周<rp>（</rp><rt>まわ</rt><rp>）</rp></ruby>り（　）<ruby>桜<rp>（</rp><rt>さくら</rt><rp>）</rp></ruby>の<ruby>木<rp>（</rp><rt>き</rt><rp>）</rp></ruby>（　）<ruby>植<rp>（</rp><rt>う</rt><rp>）</rp></ruby>えてあります。</b>",
     "options": [
       "の、で、が",
@@ -350,17 +308,17 @@
     "difficulty": 3
   },
   {
-    "id": 33,
+    "id": 29,
     "question": "<b><ruby>封筒<rp>（</rp><rt>ふうとう</rt><rp>）</rp></ruby>に<ruby>切手<rp>（</rp><rt>きって</rt><rp>）</rp></ruby>を（　）ください。</b>",
     "options": [
       "はって",
       "掛けて"
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 0,
     "difficulty": 3
   },
   {
-    "id": 34,
+    "id": 30,
     "question": "<b>しまいます</b>",
     "options": [
       "Cất vào",
@@ -372,7 +330,7 @@
     "difficulty": 1
   },
   {
-    "id": 35,
+    "id": 31,
     "question": "<b>廊下</b>",
     "options": [
       "さんかん",
@@ -380,11 +338,11 @@
       "ろうか",
       "ろか"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "difficulty": 2
   },
   {
-    "id": 36,
+    "id": 32,
     "question": "<b>かけます</b>",
     "options": [
       "Công bố",
@@ -396,27 +354,27 @@
     "difficulty": 1
   },
   {
-    "id": 37,
+    "id": 33,
     "question": "<b>A: テレビを<ruby>消<rp>（</rp><rt>け</rt><rp>）</rp></ruby>してもいいですか。<p>B: いいえ。（１）<ruby>見<rp>（</rp><rt>み</rt><rp>）</rp></ruby>ていますから、そのままに（２）おいてください。</p></b><p><b>(2)</b></p>",
     "options": [
       "けして",
       "して"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "difficulty": 2
   },
   {
-    "id": 38,
+    "id": 34,
     "question": "<b><ruby>部屋<rp>（</rp><rt>へや</rt><rp>）</rp></ruby>の（　）にごみ<ruby>箱<rp>（</rp><rt>ばこ</rt><rp>）</rp></ruby>がおいてあります。</b>",
     "options": [
       "角",
       "隅"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "difficulty": 3
   },
   {
-    "id": 39,
+    "id": 35,
     "question": "<b><ruby>授業<rp>（</rp><rt>じゅぎょう</rt><rp>）</rp></ruby>（　）まえに、<ruby>予習<rp>（</rp><rt>よしゅう</rt><rp>）</rp></ruby>しておきます。</b>",
     "options": [
       "が",
@@ -426,7 +384,7 @@
     "difficulty": 3
   },
   {
-    "id": 40,
+    "id": 36,
     "question": "<b><ruby>飲<rp>（</rp><rt>の</rt><rp>）</rp></ruby>み<ruby>物<rp>（</rp><rt>もの</rt><rp>）</rp></ruby>はパーティーの<ruby>時<ruby>間<rp>（</rp><rt>あいだ</rt><rp>）</rp></ruby><rp>（</rp><rt>じかん</rt><rp>）</rp></ruby>まで<ruby>冷蔵庫<rp>（</rp><rt>れいぞうこ</rt><rp>）</rp></ruby>に＿＿＿おきます。</b>",
     "options": [
       "入れて",
@@ -436,7 +394,7 @@
     "difficulty": 3
   },
   {
-    "id": 41,
+    "id": 37,
     "question": "<b>A: テレビを<ruby>消<rp>（</rp><rt>け</rt><rp>）</rp></ruby>してもいいですか。<p>B: いいえ。（１）<ruby>見<rp>（</rp><rt>み</rt><rp>）</rp></ruby>ていますから、そのままに（２）おいてください。</p></b><p><b>(1)</b></p>",
     "options": [
       "まだ",
@@ -446,7 +404,7 @@
     "difficulty": 2
   },
   {
-    "id": 42,
+    "id": 38,
     "question": "<b><ruby>授業<rp>（</rp><rt>じゅぎょう</rt><rp>）</rp></ruby>（　）<ruby>終<rp>（</rp><rt>お</rt><rp>）</rp></ruby>わったら、<ruby>復習<rp>（</rp><rt>ふくしゅう</rt><rp>）</rp></ruby>しておいてください。</b>",
     "options": [
       "が",
@@ -456,7 +414,7 @@
     "difficulty": 3
   },
   {
-    "id": 43,
+    "id": 39,
     "question": "<b>かべ</b>",
     "options": [
       "壁",
@@ -464,11 +422,11 @@
       "河",
       "髪"
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 0,
     "difficulty": 1
   },
   {
-    "id": 44,
+    "id": 40,
     "question": "<b>よしゅうします</b>",
     "options": [
       "Chuẩn bị bài mới",
@@ -480,7 +438,7 @@
     "difficulty": 1
   },
   {
-    "id": 45,
+    "id": 41,
     "question": "<b><ruby>予定表<rp>（</rp><rt>よていひょう</rt><rp>）</rp></ruby>（　）<ruby>来<ruby>月<rp>（</rp><rt>つき</rt><rp>）</rp></ruby><rp>（</rp><rt>らいげつ</rt><rp>）</rp></ruby>の<ruby>予定<rp>（</rp><rt>よてい</rt><rp>）</rp></ruby>（　）<ruby>書<rp>（</rp><rt>か</rt><rp>）</rp></ruby>いておきます。</b>",
     "options": [
       "で、を",
