@@ -8,7 +8,7 @@
       "Tìm thấy",
       "Vườn bách thú"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "difficulty": 1
   },
   {
@@ -102,7 +102,7 @@
       "Tiếp tục",
       "～ tới"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "difficulty": 1
   },
   {
@@ -182,7 +182,7 @@
       "しゃちょう",
       "つづけます"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "difficulty": 2
   },
   {
@@ -216,7 +216,7 @@
       "Trưởng ban, trưởng phòng",
       "Xuất phát, khởi hành"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "difficulty": 1
   },
   {
@@ -228,7 +228,7 @@
       "Mẹ mình",
       "Tốt nghiệp"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "difficulty": 1
   },
   {
@@ -284,7 +284,7 @@
       "なつ",
       "にゅうがく"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "difficulty": 2
   },
   {
@@ -332,7 +332,7 @@
       "Suối nước nóng",
       "Thành thị"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "difficulty": 1
   },
   {
@@ -464,7 +464,7 @@
       "Đám cưới, lễ cưới",
       "Ở lại, còn lại"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "difficulty": 1
   },
   {
@@ -502,18 +502,6 @@
     ],
     "correctAnswer": 0,
     "difficulty": 2
-  },
-  {
-    "id": 44,
-    "question": "<b>Phía</b>",
-    "options": [
-      "おんせん",
-      "しゅっぱつ",
-      "とじます",
-      "～のほう"
-    ],
-    "correctAnswer": 3,
-    "difficulty": 1
   },
   {
     "id": 45,
@@ -560,7 +548,7 @@
       "Vườn bách thú",
       "Để ý, quan tâm tới"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "difficulty": 1
   },
   {
@@ -606,7 +594,7 @@
       "しけん",
       "そうしき"
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 3,
     "difficulty": 1
   },
   {
@@ -724,7 +712,7 @@
       "だいがくいん",
       "にゅうがく"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "difficulty": 2
   },
   {
@@ -736,7 +724,7 @@
       "どうぶつえん",
       "どぶつえん"
     ],
-    "correctAnswer": 3,
+    "correctAnswer": 2,
     "difficulty": 2
   },
   {
@@ -784,18 +772,6 @@
     "difficulty": 3
   },
   {
-    "id": 68,
-    "question": "<b><ruby>大学<rp>（</rp><rt>だいがく</rt><rp>）</rp></ruby>院</b>",
-    "options": [
-      "たいがくいん",
-      "だいかくいん",
-      "だいがくいん",
-      "だいがくしん"
-    ],
-    "correctAnswer": 0,
-    "difficulty": 2
-  },
-  {
     "id": 69,
     "question": "<b><ruby>結婚<rp>（</rp><rt>けっこん</rt><rp>）</rp></ruby>についてもう<ruby>両親<rp>（</rp><rt>りょうしん</rt><rp>）</rp></ruby>に<ruby>話<rp>（</rp><rt>はな</rt><rp>）</rp></ruby>しましたか。<p>…いいえ、まだ（　）。<ruby>今度<rp>（</rp><rt>こんど</rt><rp>）</rp></ruby><ruby>国<rp>（</rp><rt>くに</rt><rp>）</rp></ruby>へ<ruby>帰<rp>（</rp><rt>かえ</rt><rp>）</rp></ruby>ったとき、（　）つもりです。</p></b>",
     "options": [
@@ -804,18 +780,6 @@
     ],
     "correctAnswer": 1,
     "difficulty": 4
-  },
-  {
-    "id": 70,
-    "question": "<b>Giám đốc</b>",
-    "options": [
-      "しゃちょう",
-      "つづけます",
-      "よかったら、～",
-      "インターネット"
-    ],
-    "correctAnswer": 0,
-    "difficulty": 1
   },
   {
     "id": 71,
@@ -846,7 +810,7 @@
       "Xuất phát, khởi hành",
       "Đám cưới, lễ cưới"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "difficulty": 1
   },
   {
@@ -930,18 +894,6 @@
     "difficulty": 2
   },
   {
-    "id": 81,
-    "question": "<b>そうだん</b>",
-    "options": [
-      "Hay quá nhỉ",
-      "Nhà thờ",
-      "Trao đổi, thảo luận",
-      "Xuất phát, khởi hành"
-    ],
-    "correctAnswer": 0,
-    "difficulty": 1
-  },
-  {
     "id": 82,
     "question": "<b>～の<ruby>方<rp>（</rp><rt>かた</rt><rp>）</rp></ruby></b>",
     "options": [
@@ -964,18 +916,6 @@
     ],
     "correctAnswer": 0,
     "difficulty": 2
-  },
-  {
-    "id": 84,
-    "question": "<b>あね</b>",
-    "options": [
-      "Chi nhánh, công ty con",
-      "Chị gái mình",
-      "Sân bay, phi trường",
-      "Tìm thấy"
-    ],
-    "correctAnswer": 0,
-    "difficulty": 1
   },
   {
     "id": 85,
@@ -1020,7 +960,7 @@
       "卒業",
       "授業"
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 2,
     "difficulty": 1
   },
   {
@@ -1084,18 +1024,6 @@
     "difficulty": 2
   },
   {
-    "id": 94,
-    "question": "<b>のこります</b>",
-    "options": [
-      "Hay quá nhỉ",
-      "Phía",
-      "Đám tang, lễ tang",
-      "Ở lại, còn lại"
-    ],
-    "correctAnswer": 0,
-    "difficulty": 1
-  },
-  {
     "id": 95,
     "question": "<b>きがつきます</b>",
     "options": [
@@ -1104,7 +1032,7 @@
       "Để ý, quan tâm tới",
       "Ở lại, còn lại"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "difficulty": 1
   },
   {
@@ -1128,7 +1056,7 @@
       "教合",
       "業会"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "difficulty": 1
   },
   {
@@ -1142,18 +1070,6 @@
     ],
     "correctAnswer": 2,
     "difficulty": 2
-  },
-  {
-    "id": 99,
-    "question": "<b>Tóm tắt, tổng hợp</b>",
-    "options": [
-      "しぜん",
-      "ふゆ",
-      "ぶちょう",
-      "まとめます"
-    ],
-    "correctAnswer": 3,
-    "difficulty": 1
   },
   {
     "id": 100,
@@ -1187,7 +1103,7 @@
       "Mẹ mình",
       "Suối nước nóng"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "difficulty": 1
   },
   {
@@ -1199,20 +1115,8 @@
       "Quyết định",
       "Xuất phát, khởi hành"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "difficulty": 1
-  },
-  {
-    "id": 104,
-    "question": "<b>都<ruby>会<rp>（</rp><rt>あ</rt><rp>）</rp></ruby></b>",
-    "options": [
-      "こんどの～",
-      "しき",
-      "とかい",
-      "ほんしゃ"
-    ],
-    "correctAnswer": 0,
-    "difficulty": 2
   },
   {
     "id": 105,
@@ -1223,7 +1127,7 @@
       "Quyết định",
       "Ra"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "difficulty": 1
   },
   {
@@ -1339,7 +1243,7 @@
       "Sự tuyệt vời",
       "Ủa!"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "difficulty": 1
   },
   {
@@ -1490,7 +1394,7 @@
       "Mùa thu",
       "Đóng, nhắm (mắt)"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "difficulty": 1
   },
   {
@@ -1518,18 +1422,6 @@
     "difficulty": 2
   },
   {
-    "id": 131,
-    "question": "<b>つづけます</b>",
-    "options": [
-      "Bỏ đi",
-      "Dừng lại",
-      "Lướt qua",
-      "Tiếp tục"
-    ],
-    "correctAnswer": 2,
-    "difficulty": 1
-  },
-  {
     "id": 132,
     "question": "<b>もうしこみます</b>",
     "options": [
@@ -1542,18 +1434,6 @@
     "difficulty": 1
   },
   {
-    "id": 133,
-    "question": "<b>きめます</b>",
-    "options": [
-      "Bài luận, bài văn",
-      "Quyết định",
-      "Tham dự, có mặt",
-      "Đóng, nhắm (mắt)"
-    ],
-    "correctAnswer": 0,
-    "difficulty": 1
-  },
-  {
     "id": 134,
     "question": "<b>しゅっせき</b>",
     "options": [
@@ -1561,18 +1441,6 @@
       "Cao học",
       "Tham dự, có mặt",
       "Trưởng ban, trưởng phòng"
-    ],
-    "correctAnswer": 0,
-    "difficulty": 1
-  },
-  {
-    "id": 135,
-    "question": "<b>つづけます</b>",
-    "options": [
-      "Anh trai mình",
-      "Mẹ mình",
-      "Thành thị",
-      "Tiếp tục"
     ],
     "correctAnswer": 0,
     "difficulty": 1
@@ -1602,30 +1470,6 @@
     "difficulty": 2
   },
   {
-    "id": 138,
-    "question": "<b>なつ</b>",
-    "options": [
-      "Dự định",
-      "Mùa hè",
-      "Tiếp tục",
-      "Tìm thấy"
-    ],
-    "correctAnswer": 0,
-    "difficulty": 1
-  },
-  {
-    "id": 139,
-    "question": "<b>Tìm thấy</b>",
-    "options": [
-      "いなか",
-      "すばらしさ",
-      "まとめます",
-      "みつけます"
-    ],
-    "correctAnswer": 3,
-    "difficulty": 1
-  },
-  {
     "id": 140,
     "question": "<b><ruby>本社<rp>（</rp><rt>ほんしゃ</rt><rp>）</rp></ruby>の<ruby>会議<rp>（</rp><rt>かいぎ</rt><rp>）</rp></ruby>にはだれが<ruby>出席<rp>（</rp><rt>しゅっせき</rt><rp>）</rp></ruby>しますか。<p>…<ruby>部<ruby>長<rp>（</rp><rt>なが</rt><rp>）</rp></ruby><rp>（</rp><rt>ぶちょう</rt><rp>）</rp></ruby>が（　）<ruby>予定<rp>（</rp><rt>よてい</rt><rp>）</rp></ruby>です。</p></b>",
     "options": [
@@ -1634,18 +1478,6 @@
     ],
     "correctAnswer": 1,
     "difficulty": 4
-  },
-  {
-    "id": 141,
-    "question": "<b>Để ý, quan tâm tới</b>",
-    "options": [
-      "あに",
-      "きがつきます",
-      "ちち",
-      "まとめます"
-    ],
-    "correctAnswer": 1,
-    "difficulty": 1
   },
   {
     "id": 142,
@@ -1682,18 +1514,6 @@
     ],
     "correctAnswer": 0,
     "difficulty": 1
-  },
-  {
-    "id": 145,
-    "question": "<b>～の<ruby>方<rp>（</rp><rt>かた</rt><rp>）</rp></ruby></b>",
-    "options": [
-      "してん",
-      "でます",
-      "はじまります",
-      "～のほう"
-    ],
-    "correctAnswer": 0,
-    "difficulty": 2
   },
   {
     "id": 146,
@@ -1766,18 +1586,6 @@
     "difficulty": 1
   },
   {
-    "id": 152,
-    "question": "<b>Đám tang, lễ tang</b>",
-    "options": [
-      "おきゃく",
-      "おそうしき",
-      "すばらしさ",
-      "たのしみにしています"
-    ],
-    "correctAnswer": 1,
-    "difficulty": 1
-  },
-  {
     "id": 153,
     "question": "<b>Bài văn</b>",
     "options": [
@@ -1824,18 +1632,6 @@
     ],
     "correctAnswer": 0,
     "difficulty": 2
-  },
-  {
-    "id": 157,
-    "question": "<b>おんせん</b>",
-    "options": [
-      "Nhập học",
-      "Suối nước nóng",
-      "Trao đổi, thảo luận",
-      "Đi công tác"
-    ],
-    "correctAnswer": 0,
-    "difficulty": 1
   },
   {
     "id": 158,
@@ -1886,30 +1682,6 @@
     "difficulty": 2
   },
   {
-    "id": 162,
-    "question": "<b>ぶちょう</b>",
-    "options": [
-      "Bắt đầu",
-      "Nghỉ dài ngày",
-      "Quê, nhà quê",
-      "Trưởng ban, trưởng phòng"
-    ],
-    "correctAnswer": 0,
-    "difficulty": 1
-  },
-  {
-    "id": 163,
-    "question": "<b><ruby>社<ruby>長<rp>（</rp><rt>なが</rt><rp>）</rp></ruby><rp>（</rp><rt>しゃちょう</rt><rp>）</rp></ruby></b>",
-    "options": [
-      "きがつきます",
-      "しゃちょう",
-      "でます",
-      "～のほう"
-    ],
-    "correctAnswer": 0,
-    "difficulty": 2
-  },
-  {
     "id": 164,
     "question": "<b>きょうは<ruby>朝<rp>（</rp><rt>あさ</rt><rp>）</rp></ruby>から（　）<ruby>本<rp>（</rp><rt>ほん</rt><rp>）</rp></ruby>を<ruby>読<rp>（</rp><rt>よ</rt><rp>）</rp></ruby>んでいました。</b>",
     "options": [
@@ -1918,18 +1690,6 @@
     ],
     "correctAnswer": 1,
     "difficulty": 2
-  },
-  {
-    "id": 165,
-    "question": "<b>Sự tuyệt vời</b>",
-    "options": [
-      "いなか",
-      "さくぶん",
-      "すばらしさ",
-      "そつぎょう"
-    ],
-    "correctAnswer": 2,
-    "difficulty": 1
   },
   {
     "id": 166,
@@ -2014,18 +1774,6 @@
     "difficulty": 1
   },
   {
-    "id": 173,
-    "question": "<b>Có được không?</b>",
-    "options": [
-      "いいんですか",
-      "しゅっぱつ",
-      "にゅうがく",
-      "はは"
-    ],
-    "correctAnswer": 0,
-    "difficulty": 1
-  },
-  {
     "id": 174,
     "question": "<b>あに</b>",
     "options": [
@@ -2035,18 +1783,6 @@
       "Tham dự, có mặt"
     ],
     "correctAnswer": 0,
-    "difficulty": 1
-  },
-  {
-    "id": 175,
-    "question": "<b>Sân bay, phi trường</b>",
-    "options": [
-      "おわり",
-      "くうこう",
-      "つづけます",
-      "よてい"
-    ],
-    "correctAnswer": 1,
     "difficulty": 1
   },
   {
@@ -2069,42 +1805,6 @@
       "こちら",
       "そちら",
       "どちら"
-    ],
-    "correctAnswer": 0,
-    "difficulty": 2
-  },
-  {
-    "id": 178,
-    "question": "<b>残ります</b>",
-    "options": [
-      "きょうかい",
-      "しゃちょう",
-      "だいがくいん",
-      "のこります"
-    ],
-    "correctAnswer": 0,
-    "difficulty": 2
-  },
-  {
-    "id": 179,
-    "question": "<b>Ra</b>",
-    "options": [
-      "おわり",
-      "たてます",
-      "でます",
-      "ほんしゃ"
-    ],
-    "correctAnswer": 2,
-    "difficulty": 1
-  },
-  {
-    "id": 180,
-    "question": "<b><ruby>終<rp>（</rp><rt>おわ</rt><rp>）</rp></ruby>わり</b>",
-    "options": [
-      "おわり",
-      "きゅうけい",
-      "しゃちょう",
-      "たのしみにしています"
     ],
     "correctAnswer": 0,
     "difficulty": 2
