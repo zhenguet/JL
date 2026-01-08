@@ -209,6 +209,13 @@ export default function Quiz({ questions, title, shuffleOptions = true }: QuizPr
     return 'answered';
   };
 
+  const handleQuestionScroll = (questionId: number) => {
+    const questionElement = document.getElementById(`question-${questionId}`);
+    if (questionElement) {
+      questionElement.scrollIntoView({ behavior: 'smooth', block: 'start' });
+    }
+  };
+
   return (
     <div className={`quiz-container ${showFurigana ? '' : 'hide-furigana'}`}>
       <div className="quiz-layout">
@@ -233,7 +240,7 @@ export default function Quiz({ questions, title, shuffleOptions = true }: QuizPr
           </div>
           <form className="quiz-form">
             {shuffledQuestions.map((shuffledQuestion, index) => (
-              <div key={shuffledQuestion.id}>
+              <div key={shuffledQuestion.id} id={`question-${shuffledQuestion.id}`}>
                 <hr className="style-one" />
                 <div className="tracnghiem">
                   <div className="question">
@@ -320,6 +327,8 @@ export default function Quiz({ questions, title, shuffleOptions = true }: QuizPr
                 <div
                   key={question.id}
                   className={`quiz-summary-item quiz-summary-item-${status}`}
+                  onClick={() => handleQuestionScroll(question.id)}
+                  style={{ cursor: 'pointer' }}
                 >
                   {index + 1}
                 </div>
