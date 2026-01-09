@@ -276,7 +276,7 @@
       "どうも",
       "今にも"
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 0,
     "difficulty": 2
   },
   {
@@ -470,16 +470,6 @@
     ],
     "correctAnswer": 0,
     "difficulty": 1
-  },
-  {
-    "id": 41,
-    "question": "<b>この<ruby>写真<rp>（</rp><rt>しゃしん</rt><rp>）</rp></ruby>のシュミットさんは（　）そうですね。</b>",
-    "options": [
-      "ひど",
-      "怖"
-    ],
-    "correctAnswer": 0,
-    "difficulty": 2
   },
   {
     "id": 42,
@@ -842,7 +832,7 @@
       "Não",
       "Văn học"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "difficulty": 1
   },
   {
@@ -866,7 +856,7 @@
       "カリフォルニア",
       "～によると"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "difficulty": 2
   },
   {
@@ -906,16 +896,6 @@
     "difficulty": 1
   },
   {
-    "id": 78,
-    "question": "<b><ruby>外<rp>（</rp><rt>そと</rt><rp>）</rp></ruby>で<ruby>大<rp>（</rp><rt>おお</rt><rp>）</rp></ruby>きい<ruby>声<rp>（</rp><rt>こえ</rt><rp>）</rp></ruby>がしますね。だれか（　）。</b>",
-    "options": [
-      "けんかしそうです。",
-      "けんかしているようです"
-    ],
-    "correctAnswer": 0,
-    "difficulty": 2
-  },
-  {
     "id": 79,
     "question": "<b>A：これは　なんですか。<p>B：（　）は　きゅうきゅうしゃです。</p></b>",
     "options": [
@@ -948,7 +928,7 @@
       "しんぱいですね",
       "イラン"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "difficulty": 2
   },
   {
@@ -1220,7 +1200,7 @@
       "こんやくします",
       "どうろ"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "difficulty": 2
   },
   {
@@ -1230,7 +1210,7 @@
       "に",
       "を"
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 0,
     "difficulty": 3
   },
   {
@@ -1542,16 +1522,6 @@
     "difficulty": 1
   },
   {
-    "id": 132,
-    "question": "<b><ruby>網棚<rp>（</rp><rt>あみだな</rt><rp>）</rp></ruby>の<ruby>荷<ruby>物<rp>（</rp><rt>もの</rt><rp>）</rp></ruby><rp>（</rp><rt>にもつ</rt><rp>）</rp></ruby>が（　）から、きちんと<ruby>乗<rp>（</rp><rt>の</rt><rp>）</rp></ruby>せてください。</b>",
-    "options": [
-      "落ちそうです",
-      "落ちるようです"
-    ],
-    "correctAnswer": 1,
-    "difficulty": 3
-  },
-  {
     "id": 133,
     "question": "<b>Tập hợp, tập trung</b>",
     "options": [
@@ -1570,7 +1540,7 @@
       "が",
       "を"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "difficulty": 3
   },
   {
@@ -1602,7 +1572,7 @@
       "におい",
       "味"
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 0,
     "difficulty": 2
   },
   {

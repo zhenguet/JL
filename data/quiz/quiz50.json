@@ -1,12 +1,12 @@
 [
   {
     "id": 1,
-    "question": "<b>Cảm tạ</b>",
+    "question": "<b>Cảm ơn, cảm tạ</b>",
     "options": [
-      "かさ",
-      "かんさ",
       "かんしゃ",
-      "かんじゃ"
+      "きんちょうします",
+      "かんしゃします",
+      "かんじゃします"
     ],
     "correctAnswer": 2,
     "difficulty": 1
@@ -147,12 +147,12 @@
     "id": 14,
     "question": "<b>Tuần sau nữa</b>",
     "options": [
-      "さらいしゅ",
       "さらいしゅう",
-      "ならいしゅ",
-      "ならいしゅう"
+      "さらいげつ",
+      "さらいねん",
+      "しょうきん"
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 0,
     "difficulty": 1
   },
   {
@@ -276,18 +276,6 @@
     "difficulty": 1
   },
   {
-    "id": 26,
-    "question": "<b>A：おめにかかりますは　どこですか。<p>B：（　）です。</p></b>",
-    "options": [
-      "あそこ",
-      "ここ",
-      "そこ",
-      "どこ"
-    ],
-    "correctAnswer": 1,
-    "difficulty": 2
-  },
-  {
     "id": 27,
     "question": "<b>ごしんせつ</b>",
     "options": [
@@ -298,30 +286,6 @@
     ],
     "correctAnswer": 0,
     "difficulty": 1
-  },
-  {
-    "id": 28,
-    "question": "<b>A：かないますは　どこですか。<p>B：（　）です。</p></b>",
-    "options": [
-      "あそこ",
-      "ここ",
-      "そこ",
-      "どこ"
-    ],
-    "correctAnswer": 1,
-    "difficulty": 2
-  },
-  {
-    "id": 29,
-    "question": "<b>A：こうがいは　どこですか。<p>B：（　）です。</p></b>",
-    "options": [
-      "あそこ",
-      "ここ",
-      "そこ",
-      "どこ"
-    ],
-    "correctAnswer": 1,
-    "difficulty": 2
   },
   {
     "id": 30,
@@ -384,18 +348,6 @@
     "difficulty": 1
   },
   {
-    "id": 42,
-    "question": "<b>きりん</b>",
-    "options": [
-      "Hươu cao cổ",
-      "Kính thư (từ kết thúc của bức thư)",
-      "Trở thành hiện thực",
-      "Tôi (khiêm tốn của わたし)"
-    ],
-    "correctAnswer": 0,
-    "difficulty": 1
-  },
-  {
     "id": 43,
     "question": "<b>敬具</b>",
     "options": [
@@ -416,7 +368,7 @@
       "そちら",
       "どちら"
     ],
-    "correctAnswer": 2,
+    "correctAnswer": 1,
     "difficulty": 2
   },
   {
@@ -468,42 +420,6 @@
     "difficulty": 1
   },
   {
-    "id": 50,
-    "question": "<b>A：ほうそうしますは　どちらですか。<p>B：（　）です。</p></b>",
-    "options": [
-      "あちら",
-      "こちら",
-      "そちら",
-      "どちら"
-    ],
-    "correctAnswer": 1,
-    "difficulty": 2
-  },
-  {
-    "id": 51,
-    "question": "<b>A：もうしますは　どこですか。<p>B：（　）です。</p></b>",
-    "options": [
-      "あそこ",
-      "ここ",
-      "そこ",
-      "どこ"
-    ],
-    "correctAnswer": 1,
-    "difficulty": 2
-  },
-  {
-    "id": 52,
-    "question": "<b>こうがい</b>",
-    "options": [
-      "Ngoại ô, ngoại thành",
-      "Tôi nói vài lời có được không?",
-      "Ăn, uống, nhận (từ khiêm tốn của 食べます、のみます、もらいます)",
-      "Địa danh của Đức"
-    ],
-    "correctAnswer": 0,
-    "difficulty": 1
-  },
-  {
     "id": 53,
     "question": "<b>けいぐ</b>",
     "options": [
@@ -528,42 +444,6 @@
     "difficulty": 2
   },
   {
-    "id": 57,
-    "question": "<b>A：ごしゅっせきくださいましては　どこですか。<p>B：（　）です。</p></b>",
-    "options": [
-      "あそこ",
-      "ここ",
-      "そこ",
-      "どこ"
-    ],
-    "correctAnswer": 2,
-    "difficulty": 2
-  },
-  {
-    "id": 59,
-    "question": "<b>Tiền thưởng</b>",
-    "options": [
-      "かないます",
-      "しょうきん",
-      "まいります",
-      "わたくし"
-    ],
-    "correctAnswer": 1,
-    "difficulty": 1
-  },
-  {
-    "id": 61,
-    "question": "<b>けいぐ</b>",
-    "options": [
-      "Căng thẳng, lo lắng",
-      "Kính thư (từ kết thúc của bức thư)",
-      "Đi, đến (từ khiêm tốn của きます、いきます)",
-      "Ở (từ khiêm tốn của います)"
-    ],
-    "correctAnswer": 1,
-    "difficulty": 1
-  },
-  {
     "id": 63,
     "question": "<b>ございます</b>",
     "options": [
@@ -585,18 +465,6 @@
       "Tiệc chia tay"
     ],
     "correctAnswer": 3,
-    "difficulty": 1
-  },
-  {
-    "id": 65,
-    "question": "<b>Năm sau nữa</b>",
-    "options": [
-      "おいそがしいところ",
-      "かんしゃします",
-      "さらいねん",
-      "アルバム"
-    ],
-    "correctAnswer": 2,
     "difficulty": 1
   },
   {
@@ -624,18 +492,6 @@
     "difficulty": 2
   },
   {
-    "id": 68,
-    "question": "<b>Hươu cao cổ</b>",
-    "options": [
-      "おれい",
-      "きりん",
-      "しょうきん",
-      "まいります"
-    ],
-    "correctAnswer": 1,
-    "difficulty": 1
-  },
-  {
     "id": 71,
     "question": "<b>参ります</b>",
     "options": [
@@ -645,66 +501,6 @@
       "みなさま"
     ],
     "correctAnswer": 2,
-    "difficulty": 2
-  },
-  {
-    "id": 72,
-    "question": "<b>きりん</b>",
-    "options": [
-      "Con hươu cao cổ",
-      "Con khỉ",
-      "Con sư tử",
-      "Con voi"
-    ],
-    "correctAnswer": 0,
-    "difficulty": 1
-  },
-  {
-    "id": 73,
-    "question": "<b>A：ごしんせつは　どこですか。<p>B：（　）です。</p></b>",
-    "options": [
-      "あそこ",
-      "ここ",
-      "そこ",
-      "どこ"
-    ],
-    "correctAnswer": 1,
-    "difficulty": 2
-  },
-  {
-    "id": 74,
-    "question": "<b>Tiền thưởng</b>",
-    "options": [
-      "しょうき",
-      "しょうきん",
-      "しょきん",
-      "じょうきん"
-    ],
-    "correctAnswer": 1,
-    "difficulty": 1
-  },
-  {
-    "id": 75,
-    "question": "<b>拝<ruby>見<rp>（</rp><rt>み</rt><rp>）</rp></ruby>します</b>",
-    "options": [
-      "いただきます",
-      "はいけい",
-      "はいけんします",
-      "もうします"
-    ],
-    "correctAnswer": 2,
-    "difficulty": 2
-  },
-  {
-    "id": 76,
-    "question": "<b>A：おいそがしいところは　どこですか。<p>B：（　）です。</p></b>",
-    "options": [
-      "あそこ",
-      "ここ",
-      "そこ",
-      "どこ"
-    ],
-    "correctAnswer": 1,
     "difficulty": 2
   },
   {
@@ -718,18 +514,6 @@
     ],
     "correctAnswer": 3,
     "difficulty": 1
-  },
-  {
-    "id": 78,
-    "question": "<b>A：では／それではは　どちらですか。<p>B：（　）です。</p></b>",
-    "options": [
-      "あちら",
-      "こちら",
-      "そちら",
-      "どちら"
-    ],
-    "correctAnswer": 1,
-    "difficulty": 2
   },
   {
     "id": 79,
@@ -768,18 +552,6 @@
     "difficulty": 1
   },
   {
-    "id": 83,
-    "question": "<b>ございます</b>",
-    "options": [
-      "Biết (từ khiêm tốn của しっています)",
-      "Có (kính ngữ của あります、います)",
-      "Khi, lúc",
-      "Kính gửi (từ đầu thư)"
-    ],
-    "correctAnswer": 1,
-    "difficulty": 1
-  },
-  {
     "id": 84,
     "question": "<b>A：おれいは　どこですか。<p>B：（　）です。</p></b>",
     "options": [
@@ -787,42 +559,6 @@
       "ここ",
       "そこ",
       "どこ"
-    ],
-    "correctAnswer": 2,
-    "difficulty": 2
-  },
-  {
-    "id": 85,
-    "question": "<b>A：おめにかかりますは　どちらですか。<p>B：（　）です。</p></b>",
-    "options": [
-      "あちら",
-      "こちら",
-      "そちら",
-      "どちら"
-    ],
-    "correctAnswer": 1,
-    "difficulty": 2
-  },
-  {
-    "id": 86,
-    "question": "<b>ぞんじます</b>",
-    "options": [
-      "Biết (từ khiêm tốn của しっています)",
-      "Năm sau nữa",
-      "Tôi (khiêm tốn của わたし)",
-      "Ăn, uống, nhận (từ khiêm tốn của 食べます、のみます、もらいます)"
-    ],
-    "correctAnswer": 0,
-    "difficulty": 1
-  },
-  {
-    "id": 87,
-    "question": "<b>A：はいけんしますは　どちらですか。<p>B：（　）です。</p></b>",
-    "options": [
-      "あちら",
-      "こちら",
-      "そちら",
-      "どちら"
     ],
     "correctAnswer": 1,
     "difficulty": 2
@@ -835,30 +571,6 @@
       "ここ",
       "そこ",
       "どこ"
-    ],
-    "correctAnswer": 1,
-    "difficulty": 2
-  },
-  {
-    "id": 89,
-    "question": "<b>Gặp (từ khiêm tốn của)</b>",
-    "options": [
-      "おげんきでいらっしゃいますか",
-      "おめにかかります",
-      "きょうりょくします",
-      "けいぐ"
-    ],
-    "correctAnswer": 1,
-    "difficulty": 1
-  },
-  {
-    "id": 90,
-    "question": "<b>A：～でございますは　どちらですか。<p>B：（　）です。</p></b>",
-    "options": [
-      "あちら",
-      "こちら",
-      "そちら",
-      "どちら"
     ],
     "correctAnswer": 1,
     "difficulty": 2
@@ -900,18 +612,6 @@
     "difficulty": 1
   },
   {
-    "id": 95,
-    "question": "<b>～でございます</b>",
-    "options": [
-      "Hươu cao cổ",
-      "Là (cách nói lịch sự của です)",
-      "Tháng sau nữa",
-      "Tiền thưởng"
-    ],
-    "correctAnswer": 1,
-    "difficulty": 1
-  },
-  {
     "id": 96,
     "question": "<b>では／それでは</b>",
     "options": [
@@ -919,18 +619,6 @@
       "Căng thẳng, lo lắng",
       "Thế thì, Vậy thì",
       "Đi, đến (từ khiêm tốn của きます、いきます)"
-    ],
-    "correctAnswer": 2,
-    "difficulty": 1
-  },
-  {
-    "id": 97,
-    "question": "<b>Làm phiền</b>",
-    "options": [
-      "うかがいます",
-      "かないます",
-      "めいわくをかけます",
-      "ガイド"
     ],
     "correctAnswer": 2,
     "difficulty": 1
@@ -955,30 +643,6 @@
       "Tiền thưởng",
       "Tiệc chia tay",
       "Ăn, uống, nhận (từ khiêm tốn của 食べます、のみます、もらいます)"
-    ],
-    "correctAnswer": 0,
-    "difficulty": 1
-  },
-  {
-    "id": 101,
-    "question": "<b>Là (cách nói lịch sự của です)</b>",
-    "options": [
-      "おめにかかります",
-      "ころ",
-      "ごしんせつ",
-      "～でございます"
-    ],
-    "correctAnswer": 3,
-    "difficulty": 1
-  },
-  {
-    "id": 102,
-    "question": "<b>ぞんじます</b>",
-    "options": [
-      "Biết (từ khiêm tốn của しっています)",
-      "Kính thư (từ kết thúc của bức thư)",
-      "Năm sau nữa",
-      "Tôi nói vài lời có được không?"
     ],
     "correctAnswer": 0,
     "difficulty": 1
@@ -1056,30 +720,6 @@
     "difficulty": 2
   },
   {
-    "id": 110,
-    "question": "<b>A：めいわくをかけますは　どちらですか。<p>B：（　）です。</p></b>",
-    "options": [
-      "あちら",
-      "こちら",
-      "そちら",
-      "どちら"
-    ],
-    "correctAnswer": 2,
-    "difficulty": 2
-  },
-  {
-    "id": 111,
-    "question": "<b>Có (kính ngữ của あります、います)</b>",
-    "options": [
-      "おいそがしいところ",
-      "ございます",
-      "さらいげつ",
-      "～でございます"
-    ],
-    "correctAnswer": 1,
-    "difficulty": 1
-  },
-  {
     "id": 112,
     "question": "<b>さらいねん</b>",
     "options": [
@@ -1087,18 +727,6 @@
       "Hợp tác",
       "Kính thư (từ kết thúc của bức thư)",
       "Năm sau nữa"
-    ],
-    "correctAnswer": 3,
-    "difficulty": 1
-  },
-  {
-    "id": 113,
-    "question": "<b>ガイド</b>",
-    "options": [
-      "Kính gửi (từ đầu thư)",
-      "Kính thư (từ kết thúc của bức thư)",
-      "Nghe, hỏi (từ khiêm tốn của ききます)",
-      "Người hướng dẫn, hướng dẫn viên du lịch"
     ],
     "correctAnswer": 3,
     "difficulty": 1
@@ -1128,138 +756,6 @@
     "difficulty": 1
   },
   {
-    "id": 118,
-    "question": "<b>A：～でございますは　どこですか。<p>B：（　）です。</p></b>",
-    "options": [
-      "あそこ",
-      "ここ",
-      "そこ",
-      "どこ"
-    ],
-    "correctAnswer": 1,
-    "difficulty": 2
-  },
-  {
-    "id": 119,
-    "question": "<b>A：かないますは　どちらですか。<p>B：（　）です。</p></b>",
-    "options": [
-      "あちら",
-      "こちら",
-      "そちら",
-      "どちら"
-    ],
-    "correctAnswer": 1,
-    "difficulty": 2
-  },
-  {
-    "id": 120,
-    "question": "<b>Hươu cao cổ</b>",
-    "options": [
-      "きりん",
-      "ぞんじます",
-      "みなさま",
-      "～でございます"
-    ],
-    "correctAnswer": 0,
-    "difficulty": 1
-  },
-  {
-    "id": 122,
-    "question": "<b>みなさま</b>",
-    "options": [
-      "Kính thư (từ kết thúc của bức thư)",
-      "Là (cách nói lịch sự của です)",
-      "Phát sóng",
-      "Quí vị"
-    ],
-    "correctAnswer": 3,
-    "difficulty": 1
-  },
-  {
-    "id": 124,
-    "question": "<b>協<ruby>力<rp>（</rp><rt>ちから</rt><rp>）</rp></ruby>します</b>",
-    "options": [
-      "かんしゃします",
-      "きょうりょくします",
-      "はいけい",
-      "もうします"
-    ],
-    "correctAnswer": 1,
-    "difficulty": 2
-  },
-  {
-    "id": 125,
-    "question": "<b>A：いただきますは　どちらですか。<p>B：（　）です。</p></b>",
-    "options": [
-      "あちら",
-      "こちら",
-      "そちら",
-      "どちら"
-    ],
-    "correctAnswer": 1,
-    "difficulty": 2
-  },
-  {
-    "id": 127,
-    "question": "<b>ご<ruby>出<rp>（</rp><rt>だ</rt><rp>）</rp></ruby>席くださいまして</b>",
-    "options": [
-      "いたします",
-      "ごしゅっせきくださいまして",
-      "ごしんせつ",
-      "わたくし"
-    ],
-    "correctAnswer": 1,
-    "difficulty": 2
-  },
-  {
-    "id": 128,
-    "question": "<b>A：とりますは　どこですか。<p>B：（　）です。</p></b>",
-    "options": [
-      "あそこ",
-      "ここ",
-      "そこ",
-      "どこ"
-    ],
-    "correctAnswer": 1,
-    "difficulty": 2
-  },
-  {
-    "id": 129,
-    "question": "<b>しょうきん</b>",
-    "options": [
-      "Làm (từ khiêm tốn します)",
-      "Năm sau nữa",
-      "Quí vị",
-      "Tiền thưởng"
-    ],
-    "correctAnswer": 3,
-    "difficulty": 1
-  },
-  {
-    "id": 130,
-    "question": "<b>放<ruby>送<rp>（</rp><rt>おく</rt><rp>）</rp></ruby>します</b>",
-    "options": [
-      "おります",
-      "こうがい",
-      "ごしんせつ",
-      "ほうそうします"
-    ],
-    "correctAnswer": 3,
-    "difficulty": 2
-  },
-  {
-    "id": 131,
-    "question": "<b>A：もうしますは　どちらですか。<p>B：（　）です。</p></b>",
-    "options": [
-      "あちら",
-      "こちら",
-      "そちら",
-      "どちら"
-    ],
-    "correctAnswer": 2,
-    "difficulty": 2
-  },
-  {
     "id": 132,
     "question": "<b>A：しょうきんは　どちらですか。<p>B：（　）です。</p></b>",
     "options": [
@@ -1270,102 +766,6 @@
     ],
     "correctAnswer": 1,
     "difficulty": 2
-  },
-  {
-    "id": 133,
-    "question": "<b>ガイド</b>",
-    "options": [
-      "Bảo tàng Edo Tokyo",
-      "Người hướng dẫn, hướng dẫn viên du lịch",
-      "Năm sau nữa",
-      "Voi"
-    ],
-    "correctAnswer": 1,
-    "difficulty": 1
-  },
-  {
-    "id": 134,
-    "question": "<b>いただきます</b>",
-    "options": [
-      "Album",
-      "Anh (chị) có khỏe không ạ?",
-      "Hươu cao cổ",
-      "Ăn, uống, nhận (từ khiêm tốn của 食べます、のみます、もらいます)"
-    ],
-    "correctAnswer": 3,
-    "difficulty": 1
-  },
-  {
-    "id": 136,
-    "question": "<b>アルバム</b>",
-    "options": [
-      "Album",
-      "Thu",
-      "Tiệc chia tay",
-      "Địa danh của Đức"
-    ],
-    "correctAnswer": 0,
-    "difficulty": 1
-  },
-  {
-    "id": 137,
-    "question": "<b>A：ガイドは　どこですか。<p>B：（　）です。</p></b>",
-    "options": [
-      "あそこ",
-      "ここ",
-      "そこ",
-      "どこ"
-    ],
-    "correctAnswer": 2,
-    "difficulty": 2
-  },
-  {
-    "id": 138,
-    "question": "<b>いただきます</b>",
-    "options": [
-      "Nói",
-      "Xem, nhìn",
-      "Ăn, uống",
-      "Ở, có"
-    ],
-    "correctAnswer": 2,
-    "difficulty": 1
-  },
-  {
-    "id": 139,
-    "question": "<b>放<ruby>送<rp>（</rp><rt>おく</rt><rp>）</rp></ruby>します</b>",
-    "options": [
-      "おいそがしいところ",
-      "こうがい",
-      "しぜん",
-      "ほうそうします"
-    ],
-    "correctAnswer": 3,
-    "difficulty": 2
-  },
-  {
-    "id": 141,
-    "question": "<b>もうします</b>",
-    "options": [
-      "(từ khiêm tốn của いいます)",
-      "Phát sóng",
-      "Tiệc chia tay",
-      "Đi, đến (từ khiêm tốn của きます、いきます)"
-    ],
-    "correctAnswer": 0,
-    "difficulty": 1
-  },
-  {
-    "id": 142,
-    "question": "<b>Người hướng dẫn, hướng dẫn viên du lịch</b>",
-    "options": [
-      "おめにかかります",
-      "ほうそうします",
-      "めいわくをかけます",
-      "ガイド"
-    ],
-    "correctAnswer": 3,
-    "difficulty": 1
   },
   {
     "id": 143,
@@ -1392,18 +792,6 @@
     "difficulty": 1
   },
   {
-    "id": 145,
-    "question": "<b>ごしんせつ</b>",
-    "options": [
-      "Chu đáo, cẩn thận (dùng cho người khác)",
-      "Cảm ơn",
-      "Quí vị",
-      "Thế thì, Vậy thì"
-    ],
-    "correctAnswer": 0,
-    "difficulty": 1
-  },
-  {
     "id": 148,
     "question": "<b>A：アルバムは　どちらですか。<p>B：（　）です。</p></b>",
     "options": [
@@ -1412,31 +800,7 @@
       "そちら",
       "どちら"
     ],
-    "correctAnswer": 2,
-    "difficulty": 2
-  },
-  {
-    "id": 149,
-    "question": "<b>Album</b>",
-    "options": [
-      "こうがい",
-      "ぞんじます",
-      "めいわくをかけます",
-      "アルバム"
-    ],
-    "correctAnswer": 3,
-    "difficulty": 1
-  },
-  {
-    "id": 150,
-    "question": "<b>A：さらいしゅうは　どこですか。<p>B：（　）です。</p></b>",
-    "options": [
-      "あそこ",
-      "ここ",
-      "そこ",
-      "どこ"
-    ],
-    "correctAnswer": 2,
+    "correctAnswer": 1,
     "difficulty": 2
   },
   {
@@ -1462,18 +826,6 @@
     ],
     "correctAnswer": 0,
     "difficulty": 2
-  },
-  {
-    "id": 153,
-    "question": "<b>Thế thì, Vậy thì</b>",
-    "options": [
-      "おいそがしいところ",
-      "ごしんせつ",
-      "では／それでは",
-      "ほうそうします"
-    ],
-    "correctAnswer": 2,
-    "difficulty": 1
   },
   {
     "id": 154,
@@ -1512,30 +864,6 @@
     "difficulty": 2
   },
   {
-    "id": 157,
-    "question": "<b>A：ぞんじますは　どこですか。<p>B：（　）です。</p></b>",
-    "options": [
-      "あそこ",
-      "ここ",
-      "そこ",
-      "どこ"
-    ],
-    "correctAnswer": 1,
-    "difficulty": 2
-  },
-  {
-    "id": 159,
-    "question": "<b>Thu</b>",
-    "options": [
-      "いただきます",
-      "かないます",
-      "では／それでは",
-      "とります"
-    ],
-    "correctAnswer": 3,
-    "difficulty": 1
-  },
-  {
     "id": 160,
     "question": "<b><ruby>初<rp>（</rp><rt>はじ</rt><rp>）</rp></ruby>めまして。（　）はミラーと<ruby>申<rp>（</rp><rt>もう</rt><rp>）</rp></ruby>します。</b>",
     "options": [
@@ -1544,18 +872,6 @@
     ],
     "correctAnswer": 1,
     "difficulty": 2
-  },
-  {
-    "id": 161,
-    "question": "<b>Tuần sau nữa</b>",
-    "options": [
-      "さらいげつ",
-      "さらいしゅう",
-      "とります",
-      "ほうそうします"
-    ],
-    "correctAnswer": 1,
-    "difficulty": 1
   },
   {
     "id": 162,
@@ -1630,18 +946,6 @@
     "difficulty": 1
   },
   {
-    "id": 168,
-    "question": "<b>ガイド</b>",
-    "options": [
-      "Khi, lúc",
-      "Lúc các ông (bà) đang bận.",
-      "Người hướng dẫn, hướng dẫn viên du lịch",
-      "Tự nhiên, thiên nhiên"
-    ],
-    "correctAnswer": 2,
-    "difficulty": 1
-  },
-  {
     "id": 169,
     "question": "<b>Tháng sau nữa</b>",
     "options": [
@@ -1661,30 +965,6 @@
       "Kính thư (từ kết thúc của bức thư)",
       "Thế thì, Vậy thì",
       "Ở (từ khiêm tốn của います)"
-    ],
-    "correctAnswer": 3,
-    "difficulty": 1
-  },
-  {
-    "id": 171,
-    "question": "<b>ぞう</b>",
-    "options": [
-      "Tôi (khiêm tốn của わたし)",
-      "Voi",
-      "Ăn, uống, nhận (từ khiêm tốn của 食べます、のみます、もらいます)",
-      "Ở (từ khiêm tốn của います)"
-    ],
-    "correctAnswer": 1,
-    "difficulty": 1
-  },
-  {
-    "id": 172,
-    "question": "<b>みなさま</b>",
-    "options": [
-      "Cảm ơn",
-      "Ngoại ô, ngoại thành",
-      "Năm sau nữa",
-      "Quí vị"
     ],
     "correctAnswer": 3,
     "difficulty": 1
@@ -1712,5 +992,41 @@
     ],
     "correctAnswer": 2,
     "difficulty": 2
+  },
+  {
+    "id": 127,
+    "question": "<b>ご<ruby>出<ruby>席<rp>（</rp><rt>だ</rt><rp>）</rp></ruby>くださいまして</b>",
+    "options": [
+      "いたします",
+      "ごしゅっせきくださいまして",
+      "ごしんせつ",
+      "わたくし"
+    ],
+    "correctAnswer": 1,
+    "difficulty": 2
+  },
+  {
+    "id": 130,
+    "question": "<b>放<ruby>送<rp>（</rp><rt>おく</rt><rp>）</rp></ruby>します</b>",
+    "options": [
+      "おります",
+      "こうがい",
+      "ごしんせつ",
+      "ほうそうします"
+    ],
+    "correctAnswer": 3,
+    "difficulty": 2
+  },
+  {
+    "id": 78,
+    "question": "<b>うかがいます</b>",
+    "options": [
+      "Nghe, hỏi (từ khiêm tốn của ききます)",
+      "Ở (từ khiêm tốn của います)",
+      "Đi, đến (từ khiêm tốn của きます、いきます)",
+      "Làm (từ khiêm tốn します)"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 1
   }
 ]
