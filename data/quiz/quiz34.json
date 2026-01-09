@@ -361,12 +361,12 @@
     "id": 75,
     "question": "<b>おります</b>",
     "options": [
-      "Bể",
-      "Gãy",
-      "Nhặt",
-      "Vứt"
+      "Bẻ, gập, gấp",
+      "Chải, cọ",
+      "Nấu",
+      "Tháo rời ra"
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 0,
     "difficulty": 1
   },
   {
@@ -667,18 +667,6 @@
       "～グラム"
     ],
     "correctAnswer": 0,
-    "difficulty": 1
-  },
-  {
-    "id": 124,
-    "question": "<b>lửa</b>",
-    "options": [
-      "こ",
-      "すい",
-      "ど",
-      "ひ"
-    ],
-    "correctAnswer": 3,
     "difficulty": 1
   },
   {

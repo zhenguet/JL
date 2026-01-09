@@ -70,15 +70,27 @@
     "difficulty": 1
   },
   {
-    "id": 8,
-    "question": "<b>ừ (cách nói tự nhiên, thân mật của \"hai\")</b>",
+    "id": 7,
+    "question": "<b>うん</b>",
     "options": [
-      "うん",
-      "くにへかえるの？",
-      "はじめ",
-      "みんなで"
+      "ừ (cách nói tự nhiên, thân mật của \"hai\")",
+      "không (cách nói tự nhiên, thân mật của \"iie\")",
+      "mình, tớ (từ thay cho \"watashi\", đàn ông tự xưng một cách tự nhiên trong không khí thân mật với nhau)",
+      "cậu (thay cho \"anata\", đàn ông gọi bạn một cách tự nhiên và thân mật)"
     ],
     "correctAnswer": 0,
+    "difficulty": 1
+  },
+  {
+    "id": 8,
+    "question": "<b>ううん</b>",
+    "options": [
+      "ừ (cách nói tự nhiên, thân mật của \"hai\")",
+      "không (cách nói tự nhiên, thân mật của \"iie\")",
+      "mình, tớ (từ thay cho \"watashi\", đàn ông tự xưng một cách tự nhiên trong không khí thân mật với nhau)",
+      "cậu (thay cho \"anata\", đàn ông gọi bạn một cách tự nhiên và thân mật)"
+    ],
+    "correctAnswer": 1,
     "difficulty": 1
   },
   {
@@ -131,7 +143,7 @@
   },
   {
     "id": 13,
-    "question": "<b>đằng đó (cách nói tự nhiên của, thân mật \"sochira\")</b>",
+    "question": "<b>そっち</b>",
     "options": [
       "ううん",
       "そっち",
@@ -167,30 +179,6 @@
   },
   {
     "id": 16,
-    "question": "<b>うん</b>",
-    "options": [
-      "nghiên cứu, kiểm tra, điều tra",
-      "từ, từ ngữ, từ vựng",
-      "visa, hộ chiếu",
-      "ừ (cách nói tự nhiên, thân mật của \"hai\")"
-    ],
-    "correctAnswer": 3,
-    "difficulty": 1
-  },
-  {
-    "id": 17,
-    "question": "<b>まっているよ</b>",
-    "options": [
-      "nhưng (dạng thông thường của \"ga\")",
-      "tớ chờ cậu nhé. mình sẽ chờ đấy!",
-      "đằng này (cách nói tự nhiên, thân mật của \"kochira\")",
-      "ừ (cách nói tự nhiên, thân mật của \"hai\")"
-    ],
-    "correctAnswer": 1,
-    "difficulty": 1
-  },
-  {
-    "id": 18,
     "question": "<b>くにへかえるの？</b>",
     "options": [
       "bạn về nước à?",
@@ -200,5 +188,173 @@
     ],
     "correctAnswer": 0,
     "difficulty": 1
+  },
+  {
+    "id": 17,
+    "question": "<b>いります</b>",
+    "options": [
+      "cần, cần có",
+      "nghiên cứu, kiểm tra, điều tra",
+      "sửa, sửa chữa",
+      "gọi điện thoại"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 1
+  },
+  {
+    "id": 18,
+    "question": "<b>しらべます</b>",
+    "options": [
+      "cần, cần có",
+      "nghiên cứu, kiểm tra, điều tra",
+      "sửa, sửa chữa",
+      "gọi điện thoại"
+    ],
+    "correctAnswer": 1,
+    "difficulty": 1
+  },
+  {
+    "id": 19,
+    "question": "<b>なおします</b>",
+    "options": [
+      "cần, cần có",
+      "nghiên cứu, kiểm tra, điều tra",
+      "sửa, sửa chữa",
+      "gọi điện thoại"
+    ],
+    "correctAnswer": 2,
+    "difficulty": 1
+  },
+  {
+    "id": 20,
+    "question": "<b>しゅうりします</b>",
+    "options": [
+      "cần, cần có",
+      "nghiên cứu, kiểm tra, điều tra",
+      "sửa, sửa chữa",
+      "gọi điện thoại"
+    ],
+    "correctAnswer": 2,
+    "difficulty": 1
+  },
+  {
+    "id": 21,
+    "question": "<b>でんわします</b>",
+    "options": [
+      "cần, cần có",
+      "nghiên cứu, kiểm tra, điều tra",
+      "sửa, sửa chữa",
+      "gọi điện thoại"
+    ],
+    "correctAnswer": 3,
+    "difficulty": 1
+  },
+  {
+    "id": 22,
+    "question": "<b>きみ</b>",
+    "options": [
+      "mình, tớ (từ thay cho \"watashi\", đàn ông tự xưng một cách tự nhiên trong không khí thân mật với nhau)",
+      "cậu (thay cho \"anata\", đàn ông gọi bạn một cách tự nhiên và thân mật)",
+      "ừ (cách nói tự nhiên, thân mật của \"hai\")",
+      "không (cách nói tự nhiên, thân mật của \"iie\")"
+    ],
+    "correctAnswer": 1,
+    "difficulty": 1
+  },
+  {
+    "id": 23,
+    "question": "<b>ことば</b>",
+    "options": [
+      "từ, từ ngữ, từ vựng",
+      "giá cả, vật giá",
+      "kimono (trang phục truyền thống của Nhật Bản)",
+      "mấy hôm gần đây, mấy hôm trước"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 1
+  },
+  {
+    "id": 24,
+    "question": "<b>ぶっか</b>",
+    "options": [
+      "từ, từ ngữ, từ vựng",
+      "giá cả, vật giá",
+      "kimono (trang phục truyền thống của Nhật Bản)",
+      "mấy hôm gần đây, mấy hôm trước"
+    ],
+    "correctAnswer": 1,
+    "difficulty": 1
+  },
+  {
+    "id": 25,
+    "question": "<b>きもの</b>",
+    "options": [
+      "từ, từ ngữ, từ vựng",
+      "giá cả, vật giá",
+      "kimono (trang phục truyền thống của Nhật Bản)",
+      "mấy hôm gần đây, mấy hôm trước"
+    ],
+    "correctAnswer": 2,
+    "difficulty": 1
+  },
+  {
+    "id": 26,
+    "question": "<b>このあいだ</b>",
+    "options": [
+      "từ, từ ngữ, từ vựng",
+      "giá cả, vật giá",
+      "kimono (trang phục truyền thống của Nhật Bản)",
+      "mấy hôm gần đây, mấy hôm trước"
+    ],
+    "correctAnswer": 3,
+    "difficulty": 1
+  },
+  {
+    "id": 27,
+    "question": "<b>あっち</b>",
+    "options": [
+      "đằng này (cách nói tự nhiên, thân mật của \"kochira\")",
+      "đằng đó (cách nói tự nhiên của, thân mật \"sochira\")",
+      "đằng kia (cách nói tự nhiên, thân mật của \"achira\")",
+      "đằng nào, phía nào (cách nói tự nhiên, thân mật của \"dochira\")"
+    ],
+    "correctAnswer": 2,
+    "difficulty": 1
+  },
+  {
+    "id": 28,
+    "question": "<b>いろいろ</b>",
+    "options": [
+      "nếu bạn thích, nếu được, nếu ổn",
+      "mọi người cùng nhau",
+      "đầu tiên, lúc đầu",
+      "nhiều, đủ loại, đủ thứ"
+    ],
+    "correctAnswer": 3,
+    "difficulty": 1
+  },
+  {
+    "id": 29,
+    "question": "<b>～が<ruby>要<rp>（</rp><rt>い</rt><rp>）</rp></ruby>ります</b>",
+    "options": [
+      "cần ~",
+      "nghiên cứu ~",
+      "sửa ~",
+      "gọi điện ~"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 2
+  },
+  {
+    "id": 30,
+    "question": "<b>～を<ruby>調<rp>（</rp><rt>しら</rt><rp>）</rp></ruby>べます</b>",
+    "options": [
+      "cần ~",
+      "nghiên cứu, kiểm tra ~",
+      "sửa ~",
+      "gọi điện ~"
+    ],
+    "correctAnswer": 1,
+    "difficulty": 2
   }
 ]

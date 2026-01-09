@@ -402,7 +402,7 @@
       "Qua lại",
       "Thăm hỏi",
       "Đi du lịch",
-      "Đi học, đi làm"
+      "Đi lại, đi (đi học, đi làm)"
     ],
     "correctAnswer": 3,
     "difficulty": 1
@@ -568,7 +568,7 @@
     "question": "<b>ちがいます</b>",
     "options": [
       "Hướng dẫn",
-      "Khác",
+      "Khác, không đúng",
       "Không cần",
       "Đúng"
     ],
@@ -713,7 +713,7 @@
     "options": [
       "Ca sỹ",
       "Cơm hộp",
-      "Ghi",
+      "Ghi nhớ, note",
       "Mùi"
     ],
     "correctAnswer": 3,
@@ -904,7 +904,7 @@
     "question": "<b>まじめ</b>",
     "options": [
       "Hời hợt",
-      "Nghiêm túc",
+      "Nghiêm chỉnh, ngoan ngoãn",
       "Ngây thơ",
       "Vui cười"
     ],
@@ -1227,7 +1227,7 @@
     "id": 103,
     "question": "<b>メニュー</b>",
     "options": [
-      "Ghi",
+      "Ghi nhớ, note",
       "Phòng tập thể dục",
       "Thực đơn",
       "Đi lại, đi (đi học, đi làm)"

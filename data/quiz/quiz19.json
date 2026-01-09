@@ -13,7 +13,17 @@
   },
   {
     "id": 2,
-    "question": "<b><ruby>次<rp>（</rp><rt>つぎ</rt><rp>）</rp></ruby>の<ruby>日曜日<rp>（</rp><rt>にちようび</rt><rp>）</rp></ruby>は、うちで<ruby>本<rp>（</rp><rt>ほん</rt><rp>）</rp></ruby>を（１）、ビデオを（２）りしたいです。<p>(2)</p></b>",
+    "question": "<b><ruby>次<rp>（</rp><rt>つぎ</rt><rp>）</rp></ruby>の<ruby>日曜日<rp>（</rp><rt>にちようび</rt><rp>）</rp></ruby>は、うちで<ruby>本<rp>（</rp><rt>ほん</rt><rp>）</rp></ruby>を（１）り、ビデオを（２）りしたいです。<p>(1)</p></b>",
+    "options": [
+      "見た",
+      "読んだ"
+    ],
+    "correctAnswer": 1,
+    "difficulty": 3
+  },
+  {
+    "id": 3,
+    "question": "<b><ruby>次<rp>（</rp><rt>つぎ</rt><rp>）</rp></ruby>の<ruby>日曜日<rp>（</rp><rt>にちようび</rt><rp>）</rp></ruby>は、うちで<ruby>本<rp>（</rp><rt>ほん</rt><rp>）</rp></ruby>を（１）り、ビデオを（２）りしたいです。<p>(2)</p></b>",
     "options": [
       "見た",
       "読んだ"
@@ -22,7 +32,29 @@
     "difficulty": 3
   },
   {
-    "id": 3,
+    "id": 4,
+    "question": "<b>A：<ruby>相撲<rp>（</rp><rt>すもう</rt><rp>）</rp></ruby>を（１）ことがありますか。<p>B：いいえ、（２）ありません。</p><p>A：じゃ、いっしょに（３）に<ruby>行<rp>（</rp><rt>い</rt><rp>）</rp></ruby>きませんか。</p><p>(1)</p></b>",
+    "options": [
+      "見た",
+      "見て",
+      "見る"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 2
+  },
+  {
+    "id": 5,
+    "question": "<b>A：<ruby>相撲<rp>（</rp><rt>すもう</rt><rp>）</rp></ruby>を（１）ことがありますか。<p>B：いいえ、（２）ありません。</p><p>A：じゃ、いっしょに（３）に<ruby>行<rp>（</rp><rt>い</rt><rp>）</rp></ruby>きませんか。</p><p>(2)</p></b>",
+    "options": [
+      "一度",
+      "一度でも",
+      "一度も"
+    ],
+    "correctAnswer": 2,
+    "difficulty": 2
+  },
+  {
+    "id": 6,
     "question": "<b>A：<ruby>相撲<rp>（</rp><rt>すもう</rt><rp>）</rp></ruby>を（１）ことがありますか。<p>B：いいえ、（２）ありません。</p><p>A：じゃ、いっしょに（３）に<ruby>行<rp>（</rp><rt>い</rt><rp>）</rp></ruby>きませんか。</p><p>(3)</p></b>",
     "options": [
       "見",
@@ -33,8 +65,8 @@
     "difficulty": 2
   },
   {
-    "id": 4,
-    "question": "<b>trò chơi pachinko (máy bắn bi)</b>",
+    "id": 7,
+    "question": "<b>パチンコ</b>",
     "options": [
       "いちど",
       "おかげさまで",
@@ -45,7 +77,7 @@
     "difficulty": 1
   },
   {
-    "id": 5,
+    "id": 8,
     "question": "<b>やまにのぼります</b>",
     "options": [
       "leo núi",
@@ -57,7 +89,7 @@
     "difficulty": 1
   },
   {
-    "id": 6,
+    "id": 9,
     "question": "<b>もう９<ruby>月<rp>（</rp><rt>がつ</rt><rp>）</rp></ruby>ですね。<p>…ええ。これから（１）（２）なって、いい（３）なりますね。</p><p>(1)</p></b>",
     "options": [
       "だんだん",
@@ -68,7 +100,7 @@
     "difficulty": 2
   },
   {
-    "id": 7,
+    "id": 10,
     "question": "<b><ruby>日<ruby>本<rp>（</rp><rt>ほん</rt><rp>）</rp></ruby>語<rp>（</rp><rt>にほんご</rt><rp>）</rp></ruby>の<ruby>勉強<rp>（</rp><rt>べんきょう</rt><rp>）</rp></ruby>はどうですか。<p>…<ruby>難<rp>（</rp><rt>むずか</rt><rp>）</rp></ruby>しいですが、おもしろいです。</p><p>　でも、（１）（２）なりません。</p><p>(1)</p></b>",
     "options": [
       "だんだん",
@@ -79,7 +111,18 @@
     "difficulty": 3
   },
   {
-    "id": 8,
+    "id": 11,
+    "question": "<b><ruby>日<ruby>本<rp>（</rp><rt>ほん</rt><rp>）</rp></ruby>語<rp>（</rp><rt>にほんご</rt><rp>）</rp></ruby>の<ruby>勉強<rp>（</rp><rt>べんきょう</rt><rp>）</rp></ruby>はどうですか。<p>…<ruby>難<rp>（</rp><rt>むずか</rt><rp>）</rp></ruby>しいですが、おもしろいです。</p><p>　でも、（１）（２）なりません。</p><p>(2)</p></b>",
+    "options": [
+      "上手",
+      "上手な",
+      "上手に"
+    ],
+    "correctAnswer": 2,
+    "difficulty": 3
+  },
+  {
+    "id": 12,
     "question": "<b>việc ăn kiêng</b>",
     "options": [
       "のぼります",
@@ -91,7 +134,7 @@
     "difficulty": 1
   },
   {
-    "id": 9,
+    "id": 13,
     "question": "<b>trèo, leo (núi)</b>",
     "options": [
       "おかげさまで",
@@ -103,7 +146,7 @@
     "difficulty": 1
   },
   {
-    "id": 10,
+    "id": 14,
     "question": "<b>ホテルにとまります</b>",
     "options": [
       "cạn ly",
@@ -115,7 +158,7 @@
     "difficulty": 1
   },
   {
-    "id": 11,
+    "id": 15,
     "question": "<b>ちょうし</b>",
     "options": [
       "giặt (quần áo)",
@@ -127,28 +170,7 @@
     "difficulty": 1
   },
   {
-    "id": 12,
-    "question": "<b>A：<ruby>相撲<rp>（</rp><rt>すもう</rt><rp>）</rp></ruby>を（１）ことがありますか。<p>B：いいえ、（２）ありません。</p><p>A：じゃ、いっしょに（３）に<ruby>行<rp>（</rp><rt>い</rt><rp>）</rp></ruby>きませんか。</p><p>(1)</p></b>",
-    "options": [
-      "見た",
-      "見て",
-      "見る"
-    ],
-    "correctAnswer": 0,
-    "difficulty": 2
-  },
-  {
-    "id": 13,
-    "question": "<b><ruby>次<rp>（</rp><rt>つぎ</rt><rp>）</rp></ruby>の<ruby>日曜日<rp>（</rp><rt>にちようび</rt><rp>）</rp></ruby>は、うちで<ruby>本<rp>（</rp><rt>ほん</rt><rp>）</rp></ruby>を（１）、ビデオを（２）りしたいです。<p>(1)</p></b>",
-    "options": [
-      "見た",
-      "読んだ"
-    ],
-    "correctAnswer": 1,
-    "difficulty": 3
-  },
-  {
-    "id": 14,
+    "id": 16,
     "question": "<b><ruby>登<rp>（</rp><rt>のぼ</rt><rp>）</rp></ruby>ります</b>",
     "options": [
       "いちど",
@@ -160,7 +182,7 @@
     "difficulty": 2
   },
   {
-    "id": 15,
+    "id": 17,
     "question": "<b>trở nên, trở thành</b>",
     "options": [
       "かんぱい",
@@ -172,7 +194,7 @@
     "difficulty": 1
   },
   {
-    "id": 16,
+    "id": 18,
     "question": "<b><ruby>掃除<rp>（</rp><rt>そうじ</rt><rp>）</rp></ruby>します</b>",
     "options": [
       "しゅうりします",
@@ -184,7 +206,7 @@
     "difficulty": 2
   },
   {
-    "id": 17,
+    "id": 19,
     "question": "<b>leo núi</b>",
     "options": [
       "せんたくします",
@@ -196,7 +218,7 @@
     "difficulty": 1
   },
   {
-    "id": 18,
+    "id": 20,
     "question": "<b>ngủ trọ, nghỉ [ở khách sạn]</b>",
     "options": [
       "いちど",
@@ -208,7 +230,7 @@
     "difficulty": 1
   },
   {
-    "id": 19,
+    "id": 21,
     "question": "<b><ruby>洗濯<rp>（</rp><rt>せんたく</rt><rp>）</rp></ruby>します</b>",
     "options": [
       "せたくします",
@@ -220,7 +242,7 @@
     "difficulty": 2
   },
   {
-    "id": 20,
+    "id": 22,
     "question": "<b><ruby>山<rp>（</rp><rt>やま</rt><rp>）</rp></ruby>に<ruby>登<rp>（</rp><rt>のぼ</rt><rp>）</rp></ruby>ります</b>",
     "options": [
       "そうじします",
@@ -232,7 +254,7 @@
     "difficulty": 2
   },
   {
-    "id": 21,
+    "id": 23,
     "question": "<b>おちゃ</b>",
     "options": [
       "một lần",
@@ -244,19 +266,7 @@
     "difficulty": 1
   },
   {
-    "id": 22,
-    "question": "<b>A：これは　なんですか。<p>B：（　）は　ケーキです。</p></b>",
-    "options": [
-      "あれ",
-      "これ",
-      "それ",
-      "どれ"
-    ],
-    "correctAnswer": 1,
-    "difficulty": 2
-  },
-  {
-    "id": 23,
+    "id": 24,
     "question": "<b>cảm ơn. nhờ trời</b>",
     "options": [
       "おかげさまで",
@@ -266,17 +276,6 @@
     ],
     "correctAnswer": 0,
     "difficulty": 1
-  },
-  {
-    "id": 24,
-    "question": "<b>A：<ruby>相撲<rp>（</rp><rt>すもう</rt><rp>）</rp></ruby>を（１）ことがありますか。<p>B：いいえ、（２）ありません。</p><p>A：じゃ、いっしょに（３）に<ruby>行<rp>（</rp><rt>い</rt><rp>）</rp></ruby>きませんか。</p><p>(2)</p></b>",
-    "options": [
-      "一度",
-      "一度でも",
-      "一度も"
-    ],
-    "correctAnswer": 2,
-    "difficulty": 2
   },
   {
     "id": 25,
@@ -328,27 +327,16 @@
   },
   {
     "id": 29,
-    "question": "<b><ruby>子<rp>（</rp><rt>こ</rt><rp>）</rp></ruby>どもはお<ruby>酒<rp>（</rp><rt>さけ</rt><rp>）</rp></ruby>を（１）り、たばこを（２）りしてはいけません。<p>(2)</p></b>",
+    "question": "<b>（　）ダイエットをしたことがあります。</b>",
     "options": [
-      "吸った",
-      "食べた"
+      "何回",
+      "何回も"
     ],
-    "correctAnswer": 0,
-    "difficulty": 2
+    "correctAnswer": 1,
+    "difficulty": 1
   },
   {
     "id": 30,
-    "question": "<b><ruby>日<ruby>本<rp>（</rp><rt>ほん</rt><rp>）</rp></ruby>語<rp>（</rp><rt>にほんご</rt><rp>）</rp></ruby>の<ruby>勉強<rp>（</rp><rt>べんきょう</rt><rp>）</rp></ruby>はどうですか。<p>…<ruby>難<rp>（</rp><rt>むずか</rt><rp>）</rp></ruby>しいですが、おもしろいです。</p><p>　でも、（１）（２）なりません。</p><p>(2)</p></b>",
-    "options": [
-      "上手",
-      "上手な",
-      "上手に"
-    ],
-    "correctAnswer": 2,
-    "difficulty": 3
-  },
-  {
-    "id": 31,
     "question": "<b>お<ruby>茶<rp>（</rp><rt>ちゃ</rt><rp>）</rp></ruby></b>",
     "options": [
       "おかし",
@@ -360,7 +348,7 @@
     "difficulty": 2
   },
   {
-    "id": 32,
+    "id": 31,
     "question": "<b>パチンコ「～をします」</b>",
     "options": [
       "[chơi pachinko]",
@@ -372,17 +360,7 @@
     "difficulty": 1
   },
   {
-    "id": 33,
-    "question": "<b><ruby>子<rp>（</rp><rt>こ</rt><rp>）</rp></ruby>どもはお<ruby>酒<rp>（</rp><rt>さけ</rt><rp>）</rp></ruby>を（１）り、たばこを（２）りしてはいけません。<p>(1)</p></b>",
-    "options": [
-      "食べた",
-      "飲んだ"
-    ],
-    "correctAnswer": 1,
-    "difficulty": 2
-  },
-  {
-    "id": 34,
+    "id": 32,
     "question": "<b><ruby>一度<rp>（</rp><rt>いちど</rt><rp>）</rp></ruby></b>",
     "options": [
       "いちど",
@@ -394,7 +372,7 @@
     "difficulty": 2
   },
   {
-    "id": 35,
+    "id": 33,
     "question": "<b>nghỉ ở khách sạn</b>",
     "options": [
       "とまります",
@@ -406,19 +384,7 @@
     "difficulty": 1
   },
   {
-    "id": 36,
-    "question": "<b>A：これは　なんですか。<p>B：（　）は　おちゃ「～をならいます」です。</p></b>",
-    "options": [
-      "あれ",
-      "これ",
-      "それ",
-      "どれ"
-    ],
-    "correctAnswer": 1,
-    "difficulty": 2
-  },
-  {
-    "id": 37,
+    "id": 34,
     "question": "<b>[học trà đạo]</b>",
     "options": [
       "おちゃ「～をならいます」",
@@ -430,29 +396,7 @@
     "difficulty": 1
   },
   {
-    "id": 39,
-    "question": "<b>（　）ダイエットをしたことがあります。</b>",
-    "options": [
-      "何回",
-      "何回も"
-    ],
-    "correctAnswer": 1,
-    "difficulty": 1
-  },
-  {
-    "id": 39,
-    "question": "<b>[chơi pachinko]</b>",
-    "options": [
-      "そうじします",
-      "ゴルフ「～をします」",
-      "パチンコ「～をします」",
-      "ホテルにとまります"
-    ],
-    "correctAnswer": 2,
-    "difficulty": 1
-  },
-  {
-    "id": 40,
+    "id": 35,
     "question": "<b>すもう</b>",
     "options": [
       "Sumo – môn võ truyền thống của Nhật",
@@ -464,7 +408,7 @@
     "difficulty": 1
   },
   {
-    "id": 41,
+    "id": 36,
     "question": "<b><ruby>山<rp>（</rp><rt>やま</rt><rp>）</rp></ruby>（　）<ruby>登<rp>（</rp><rt>のぼ</rt><rp>）</rp></ruby>ります。</b>",
     "options": [
       "で",
@@ -474,7 +418,7 @@
     "difficulty": 2
   },
   {
-    "id": 42,
+    "id": 37,
     "question": "<b>とまります</b>",
     "options": [
       "[chơi pachinko]",
@@ -486,7 +430,7 @@
     "difficulty": 1
   },
   {
-    "id": 43,
+    "id": 38,
     "question": "<b>おちゃ「～をならいます」</b>",
     "options": [
       "[học trà đạo]",
@@ -498,7 +442,7 @@
     "difficulty": 1
   },
   {
-    "id": 44,
+    "id": 39,
     "question": "<b><ruby>調<ruby>子<rp>（</rp><rt>こ</rt><rp>）</rp></ruby><rp>（</rp><rt>ちょうし</rt><rp>）</rp></ruby></b>",
     "options": [
       "ちょうし",
@@ -509,7 +453,7 @@
     "difficulty": 2
   },
   {
-    "id": 45,
+    "id": 40,
     "question": "<b>むり</b>",
     "options": [
       "夢理",
@@ -521,7 +465,7 @@
     "difficulty": 1
   },
   {
-    "id": 46,
+    "id": 41,
     "question": "<b>すしを<ruby>食<rp>（</rp><rt>た</rt><rp>）</rp></ruby>べたことが（　）。</b>",
     "options": [
       "あります",
@@ -531,7 +475,7 @@
     "difficulty": 2
   },
   {
-    "id": 47,
+    "id": 42,
     "question": "<b><ruby>太郎<rp>（</rp><rt>たろう</rt><rp>）</rp></ruby>ちゃんは（１）なりましたね。<ruby>何<ruby>歳<rp>（</rp><rt>さい</rt><rp>）</rp></ruby><rp>（</rp><rt>なんさい</rt><rp>）</rp></ruby>ですか。<p>…（２）（３）なります。</p><p>(1)</p></b>",
     "options": [
       "大きい",
@@ -542,7 +486,7 @@
     "difficulty": 3
   },
   {
-    "id": 48,
+    "id": 43,
     "question": "<b>trà, trà đạo</b>",
     "options": [
       "おちゃ",
@@ -554,7 +498,7 @@
     "difficulty": 1
   },
   {
-    "id": 49,
+    "id": 44,
     "question": "<b>よわい</b>",
     "options": [
       "低い",
@@ -566,7 +510,7 @@
     "difficulty": 1
   },
   {
-    "id": 50,
+    "id": 45,
     "question": "<b>ホテル（　）<ruby>泊<rp>（</rp><rt>と</rt><rp>）</rp></ruby>まります。</b>",
     "options": [
       "で",
@@ -576,7 +520,7 @@
     "difficulty": 2
   },
   {
-    "id": 51,
+    "id": 46,
     "question": "<b><ruby>子<rp>（</rp><rt>こ</rt><rp>）</rp></ruby>どもはだんだん（　）なりました。</b>",
     "options": [
       "大きいに",
@@ -586,7 +530,7 @@
     "difficulty": 2
   },
   {
-    "id": 52,
+    "id": 47,
     "question": "<b><ruby>太郎<rp>（</rp><rt>たろう</rt><rp>）</rp></ruby>ちゃんは（１）なりましたね。<ruby>何<ruby>歳<rp>（</rp><rt>さい</rt><rp>）</rp></ruby><rp>（</rp><rt>なんさい</rt><rp>）</rp></ruby>ですか。<p>…（２）（３）なります。</p><p>(3)</p></b>",
     "options": [
       "９歳",
@@ -595,5 +539,41 @@
     ],
     "correctAnswer": 1,
     "difficulty": 3
+  },
+  {
+    "id": 48,
+    "question": "<b>giặt (quần áo)</b>",
+    "options": [
+      "そうじします",
+      "せんたくします",
+      "とまります",
+      "やまにのぼります"
+    ],
+    "correctAnswer": 1,
+    "difficulty": 1
+  },
+  {
+    "id": 49,
+    "question": "<b>すもう</b>",
+    "options": [
+      "Sumo – môn võ truyền thống của Nhật",
+      "một lần",
+      "ngủ trọ, nghỉ [ở khách sạn]",
+      "trèo, leo (núi)"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 1
+  },
+  {
+    "id": 50,
+    "question": "<b>ゴルフ「～をします」</b>",
+    "options": [
+      "[chơi gôn]",
+      "[học trà đạo]",
+      "giặt (quần áo)",
+      "trèo, leo (núi)"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 1
   }
 ]

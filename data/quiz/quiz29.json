@@ -569,8 +569,8 @@
     "options": [
       "おとします",
       "おれます",
-      "されます",
-      "たおれる"
+      "やぶれます",
+      "たおれます"
     ],
     "correctAnswer": 0,
     "difficulty": 1
@@ -764,7 +764,7 @@
       "それ",
       "どれ"
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 2,
     "difficulty": 3
   },
   {
@@ -1110,7 +1110,7 @@
       "Rách, bị rách",
       "Túi (Áo, quần)"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "difficulty": 1
   },
   {

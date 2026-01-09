@@ -61,18 +61,6 @@
   },
   {
     "id": 6,
-    "question": "<b>A：でますは　どこですか。<p>B：（　）です。</p></b>",
-    "options": [
-      "あそこ",
-      "ここ",
-      "そこ",
-      "どこ"
-    ],
-    "correctAnswer": 2,
-    "difficulty": 2
-  },
-  {
-    "id": 7,
     "question": "<b>Sốt</b>",
     "options": [
       "こまります",
@@ -84,7 +72,7 @@
     "difficulty": 1
   },
   {
-    "id": 8,
+    "id": 7,
     "question": "<b>たいよう</b>",
     "options": [
       "Dừng, nghỉ",
@@ -96,7 +84,7 @@
     "difficulty": 1
   },
   {
-    "id": 9,
+    "id": 8,
     "question": "<b>うんどう</b>",
     "options": [
       "Nước máy",
@@ -108,7 +96,7 @@
     "difficulty": 1
   },
   {
-    "id": 10,
+    "id": 9,
     "question": "<b>やみます</b>",
     "options": [
       "Bỏng",
@@ -120,7 +108,7 @@
     "difficulty": 1
   },
   {
-    "id": 11,
+    "id": 10,
     "question": "<b>Trở lại</b>",
     "options": [
       "それはいけませんね",
@@ -132,7 +120,7 @@
     "difficulty": 1
   },
   {
-    "id": 12,
+    "id": 11,
     "question": "<b>つづきます</b>",
     "options": [
       "Leo núi",
@@ -144,7 +132,7 @@
     "difficulty": 1
   },
   {
-    "id": 13,
+    "id": 12,
     "question": "<b>Tăng, lên cao</b>",
     "options": [
       "あがります",
@@ -156,19 +144,7 @@
     "difficulty": 1
   },
   {
-    "id": 14,
-    "question": "<b>にし</b>",
-    "options": [
-      "北",
-      "南",
-      "東",
-      "西"
-    ],
-    "correctAnswer": 3,
-    "difficulty": 1
-  },
-  {
-    "id": 15,
+    "id": 13,
     "question": "<b>よこになってください</b>",
     "options": [
       "Hãy nằm xuống",
@@ -180,7 +156,7 @@
     "difficulty": 1
   },
   {
-    "id": 16,
+    "id": 14,
     "question": "<b>せいこう</b>",
     "options": [
       "Khổ, khó khăn",
@@ -192,7 +168,7 @@
     "difficulty": 1
   },
   {
-    "id": 17,
+    "id": 15,
     "question": "<b>アレルギー</b>",
     "options": [
       "Cân, đo (nhiệt độ, kích thước)",
@@ -204,7 +180,7 @@
     "difficulty": 1
   },
   {
-    "id": 18,
+    "id": 16,
     "question": "<b>あたります</b>",
     "options": [
       "Sao",
@@ -216,7 +192,7 @@
     "difficulty": 1
   },
   {
-    "id": 19,
+    "id": 17,
     "question": "<b>はたらきすぎ</b>",
     "options": [
       "Làm việc quá nhiều",
@@ -228,7 +204,7 @@
     "difficulty": 1
   },
   {
-    "id": 20,
+    "id": 18,
     "question": "<b>Trời nắng, quang đãng</b>",
     "options": [
       "あがります",
@@ -240,7 +216,7 @@
     "difficulty": 1
   },
   {
-    "id": 21,
+    "id": 19,
     "question": "<b>Tập thể dục</b>",
     "options": [
       "うんどう",
@@ -252,7 +228,7 @@
     "difficulty": 1
   },
   {
-    "id": 22,
+    "id": 20,
     "question": "<b>むりをします</b>",
     "options": [
       "Họng",
@@ -264,7 +240,7 @@
     "difficulty": 1
   },
   {
-    "id": 23,
+    "id": 21,
     "question": "<b>こまります</b>",
     "options": [
       "Bệnh cúm gia cầm",
@@ -276,7 +252,7 @@
     "difficulty": 1
   },
   {
-    "id": 24,
+    "id": 22,
     "question": "<b>れんあい</b>",
     "options": [
       "Bỏng",
@@ -288,31 +264,7 @@
     "difficulty": 1
   },
   {
-    "id": 25,
-    "question": "<b>Làm</b>",
-    "options": [
-      "うんどう",
-      "します",
-      "はいります",
-      "ほし"
-    ],
-    "correctAnswer": 1,
-    "difficulty": 1
-  },
-  {
-    "id": 26,
-    "question": "<b>Phía tây</b>",
-    "options": [
-      "きた",
-      "にし",
-      "ひがし",
-      "みなみ"
-    ],
-    "correctAnswer": 1,
-    "difficulty": 1
-  },
-  {
-    "id": 27,
+    "id": 23,
     "question": "<b>あたります</b>",
     "options": [
       "Chúc (bạn) chóng khỏi bệnh",
@@ -324,7 +276,7 @@
     "difficulty": 1
   },
   {
-    "id": 28,
+    "id": 24,
     "question": "<b>ストレス</b>",
     "options": [
       "Làm",
@@ -336,7 +288,7 @@
     "difficulty": 1
   },
   {
-    "id": 29,
+    "id": 25,
     "question": "<b>Dị ứng</b>",
     "options": [
       "のど",
@@ -348,19 +300,7 @@
     "difficulty": 1
   },
   {
-    "id": 30,
-    "question": "<b>こみます</b>",
-    "options": [
-      "Có mây",
-      "Quang đãng",
-      "Vắng(đường ~)",
-      "Đông(đường ~)"
-    ],
-    "correctAnswer": 3,
-    "difficulty": 1
-  },
-  {
-    "id": 31,
+    "id": 26,
     "question": "<b>Làm quá sức</b>",
     "options": [
       "たいよう",
@@ -372,7 +312,7 @@
     "difficulty": 1
   },
   {
-    "id": 32,
+    "id": 27,
     "question": "<b>Tối nay</b>",
     "options": [
       "おかねもち",
@@ -384,7 +324,7 @@
     "difficulty": 1
   },
   {
-    "id": 33,
+    "id": 28,
     "question": "<b>もどります</b>",
     "options": [
       "Bỏng",
@@ -396,7 +336,7 @@
     "difficulty": 1
   },
   {
-    "id": 34,
+    "id": 29,
     "question": "<b>ふきます</b>",
     "options": [
       "Giảm, xuống",
@@ -408,7 +348,7 @@
     "difficulty": 1
   },
   {
-    "id": 35,
+    "id": 30,
     "question": "<b>A：これは　なんですか。<p>B：（　）は　のどです。</p></b>",
     "options": [
       "あれ",
@@ -420,7 +360,7 @@
     "difficulty": 2
   },
   {
-    "id": 36,
+    "id": 31,
     "question": "<b>Hãy nằm xuống</b>",
     "options": [
       "しっぱい",
@@ -432,7 +372,7 @@
     "difficulty": 1
   },
   {
-    "id": 37,
+    "id": 32,
     "question": "<b>すいどう</b>",
     "options": [
       "Dạ dày",
@@ -444,7 +384,7 @@
     "difficulty": 1
   },
   {
-    "id": 38,
+    "id": 33,
     "question": "<b>Mặt trời</b>",
     "options": [
       "こんや",
@@ -456,7 +396,7 @@
     "difficulty": 1
   },
   {
-    "id": 39,
+    "id": 34,
     "question": "<b>ストレス</b>",
     "options": [
       "Bệnh cảm",
@@ -468,7 +408,7 @@
     "difficulty": 1
   },
   {
-    "id": 40,
+    "id": 35,
     "question": "<b>A：胃は　どこですか。<p>B：（　）です。</p></b>",
     "options": [
       "あそこ",
@@ -480,7 +420,7 @@
     "difficulty": 2
   },
   {
-    "id": 41,
+    "id": 36,
     "question": "<b>Mô tơ</b>",
     "options": [
       "はたらきすぎ",
@@ -492,7 +432,7 @@
     "difficulty": 1
   },
   {
-    "id": 42,
+    "id": 37,
     "question": "<b><ruby>出<rp>（</rp><rt>だ</rt><rp>）</rp></ruby>ます</b>",
     "options": [
       "でます",
@@ -504,7 +444,7 @@
     "difficulty": 2
   },
   {
-    "id": 43,
+    "id": 38,
     "question": "<b>けんこう</b>",
     "options": [
       "Dạ dày",
@@ -516,7 +456,7 @@
     "difficulty": 1
   },
   {
-    "id": 44,
+    "id": 39,
     "question": "<b>あたります</b>",
     "options": [
       "Cân, đo (nhiệt độ, kích thước)",
@@ -528,7 +468,7 @@
     "difficulty": 1
   },
   {
-    "id": 45,
+    "id": 40,
     "question": "<b>A：せきは　どこですか。<p>B：（　）です。</p></b>",
     "options": [
       "あそこ",
@@ -540,7 +480,7 @@
     "difficulty": 2
   },
   {
-    "id": 46,
+    "id": 41,
     "question": "<b>けんこう</b>",
     "options": [
       "Nghỉ ngơi cho thoải mái",
@@ -552,7 +492,7 @@
     "difficulty": 1
   },
   {
-    "id": 47,
+    "id": 42,
     "question": "<b>Thế thì không ổn rồi</b>",
     "options": [
       "くもります",
@@ -564,7 +504,7 @@
     "difficulty": 1
   },
   {
-    "id": 48,
+    "id": 43,
     "question": "<b>ストレス</b>",
     "options": [
       "Giảm, xuống",
@@ -576,7 +516,7 @@
     "difficulty": 1
   },
   {
-    "id": 49,
+    "id": 44,
     "question": "<b>オリンピック</b>",
     "options": [
       "Ho",
@@ -588,7 +528,7 @@
     "difficulty": 1
   },
   {
-    "id": 50,
+    "id": 45,
     "question": "<b>Bệnh cảm</b>",
     "options": [
       "かぜ",
@@ -600,7 +540,7 @@
     "difficulty": 1
   },
   {
-    "id": 51,
+    "id": 46,
     "question": "<b>それはいけませんね</b>",
     "options": [
       "Dạ dày",
@@ -612,7 +552,7 @@
     "difficulty": 1
   },
   {
-    "id": 52,
+    "id": 47,
     "question": "<b>うんどう</b>",
     "options": [
       "Làm",
@@ -624,7 +564,7 @@
     "difficulty": 1
   },
   {
-    "id": 53,
+    "id": 48,
     "question": "<b>Khỏi</b>",
     "options": [
       "しっぱい",
@@ -636,7 +576,7 @@
     "difficulty": 1
   },
   {
-    "id": 54,
+    "id": 49,
     "question": "<b>うんどう</b>",
     "options": [
       "Bỏng",
@@ -648,7 +588,7 @@
     "difficulty": 1
   },
   {
-    "id": 55,
+    "id": 50,
     "question": "<b>けが</b>",
     "options": [
       "Mặt trời",

@@ -144,18 +144,6 @@
     "difficulty": 2
   },
   {
-    "id": 14,
-    "question": "<b>A：すてますは　どちらですか。<p>B：（　）です。</p></b>",
-    "options": [
-      "あちら",
-      "こちら",
-      "そちら",
-      "どちら"
-    ],
-    "correctAnswer": 2,
-    "difficulty": 2
-  },
-  {
     "id": 15,
     "question": "<b>かえます</b>",
     "options": [
@@ -368,7 +356,7 @@
       "sửa, chữa",
       "trao đổi, đổi"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "difficulty": 1
   },
   {
@@ -402,7 +390,7 @@
       "trượt tuyết",
       "đặt chỗ, đặt trước"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "difficulty": 1
   },
   {
@@ -498,7 +486,7 @@
       "trao đổi, đổi",
       "đặt chỗ, đặt trước"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "difficulty": 1
   },
   {
@@ -510,7 +498,7 @@
       "へえ",
       "もっと「れんしゅうし」ないと…"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "difficulty": 2
   },
   {
@@ -534,7 +522,7 @@
       "trại nuôi gia súc",
       "tôi còn phải cố gắng [tập] hơn nữa"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "difficulty": 1
   },
   {
@@ -570,7 +558,7 @@
       "ぶちょう",
       "まだまだだめです"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "difficulty": 2
   },
   {
@@ -606,7 +594,7 @@
       "ぶちょう",
       "ぼくじょう"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "difficulty": 2
   },
   {
@@ -642,7 +630,7 @@
       "すれます",
       "ひろいます"
     ],
-    "correctAnswer": 3,
+    "correctAnswer": 0,
     "difficulty": 1
   },
   {
@@ -666,7 +654,7 @@
       "trại nuôi gia súc",
       "tập trung, tập hợp"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "difficulty": 1
   },
   {
@@ -690,7 +678,7 @@
       "tôi còn phải cố gắng [tập] hơn nữa",
       "ôi hay quá nhỉ!"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "difficulty": 1
   },
   {
@@ -714,7 +702,7 @@
       "trượt tuyết",
       "tập trung, tập hợp"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "difficulty": 1
   },
   {
@@ -738,7 +726,7 @@
       "ぶちょう",
       "れんしゅうします"
     ],
-    "correctAnswer": 2,
+    "correctAnswer": 0,
     "difficulty": 1
   },
   {
@@ -750,7 +738,7 @@
       "tôi còn phải cố gắng [tập] hơn nữa",
       "động vật"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "difficulty": 1
   },
   {
@@ -762,7 +750,7 @@
       "tiền mặt",
       "tập trung, tập hợp"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "difficulty": 1
   },
   {
@@ -870,7 +858,7 @@
       "Đàn gita",
       "Đàn organ"
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 0,
     "difficulty": 1
   },
   {
@@ -882,7 +870,7 @@
       "そちら",
       "どちら"
     ],
-    "correctAnswer": 2,
+    "correctAnswer": 1,
     "difficulty": 2
   },
   {
@@ -918,7 +906,7 @@
       "trại nuôi gia súc",
       "vẫn còn chưa được (câu nói khiêm tốn)"
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 3,
     "difficulty": 1
   },
   {
@@ -930,7 +918,7 @@
       "trượt tuyết",
       "động vật"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "difficulty": 1
   },
   {
@@ -954,7 +942,7 @@
       "thật á! (dùng khi biểu lộ sự ngạc nhiên)",
       "động vật"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "difficulty": 1
   },
   {
@@ -978,7 +966,7 @@
       "trượt tuyết",
       "vứt đi, bỏ đi"
     ],
-    "correctAnswer": 3,
+    "correctAnswer": 2,
     "difficulty": 1
   },
   {
@@ -990,7 +978,7 @@
       "vứt đi, bỏ đi",
       "ôi hay quá nhỉ!"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "difficulty": 1
   },
   {
@@ -1014,7 +1002,7 @@
       "trại nuôi gia súc",
       "tập, luyện tập"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "difficulty": 1
   },
   {
@@ -1074,7 +1062,7 @@
       "sửa, chữa",
       "trại nuôi gia súc"
     ],
-    "correctAnswer": 2,
+    "correctAnswer": 1,
     "difficulty": 1
   },
   {
@@ -1086,7 +1074,7 @@
       "sở thích",
       "trại nuôi gia súc"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "difficulty": 1
   },
   {
@@ -1132,7 +1120,7 @@
       "ほんとうですか",
       "れんしゅうします"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "difficulty": 2
   },
   {
@@ -1168,7 +1156,7 @@
       "trưởng phòng",
       "trượt tuyết"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "difficulty": 1
   },
   {
@@ -1190,7 +1178,7 @@
       "が",
       "を"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "difficulty": 3
   },
   {
@@ -1238,7 +1226,7 @@
       "sự cầu chúc",
       "vẫn còn chưa được (câu nói khiêm tốn)"
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 0,
     "difficulty": 1
   },
   {
@@ -1250,7 +1238,7 @@
       "thật sao?",
       "ôi hay quá nhỉ!"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "difficulty": 1
   },
   {
@@ -1274,7 +1262,7 @@
       "vứt đi, bỏ đi",
       "đặt chỗ, đặt trước"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "difficulty": 1
   },
   {
@@ -1286,7 +1274,7 @@
       "trượt tuyết",
       "động vật"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "difficulty": 1
   },
   {
@@ -1310,7 +1298,7 @@
       "hát",
       "trưởng phòng"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "difficulty": 1
   },
   {
@@ -1346,7 +1334,7 @@
       "ビートルズ",
       "メートル"
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 0,
     "difficulty": 1
   },
   {
@@ -1358,7 +1346,7 @@
       "vẫn còn chưa được (câu nói khiêm tốn)",
       "vứt đi, bỏ đi"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "difficulty": 1
   },
   {
@@ -1382,7 +1370,7 @@
       "すてます",
       "ビートルズ"
     ],
-    "correctAnswer": 3,
+    "correctAnswer": 0,
     "difficulty": 1
   },
   {
@@ -1394,7 +1382,7 @@
       "tập trung, tập hợp",
       "vẫn còn chưa được (câu nói khiêm tốn)"
     ],
-    "correctAnswer": 2,
+    "correctAnswer": 3,
     "difficulty": 1
   },
   {
@@ -1406,7 +1394,7 @@
       "sở thích",
       "tiền mặt"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "difficulty": 1
   },
   {
@@ -1418,7 +1406,7 @@
       "không hề gì. không sao đâu",
       "lái (xe), điều khiển"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "difficulty": 1
   },
   {
@@ -1430,7 +1418,7 @@
       "sửa, chữa",
       "đặt chỗ, đặt trước"
     ],
-    "correctAnswer": 2,
+    "correctAnswer": 3,
     "difficulty": 1
   },
   {
@@ -1442,7 +1430,7 @@
       "trao đổi, đổi",
       "tập trung, tập hợp"
     ],
-    "correctAnswer": 3,
+    "correctAnswer": 2,
     "difficulty": 1
   },
   {
@@ -1454,7 +1442,7 @@
       "sở thích",
       "sửa, chữa"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "difficulty": 1
   },
   {
@@ -1478,7 +1466,7 @@
       "trưởng phòng",
       "ôi hay quá nhỉ!"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "difficulty": 1
   },
   {
