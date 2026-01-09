@@ -238,5 +238,305 @@
     ],
     "correctAnswer": 1,
     "difficulty": 2
+  },
+  {
+    "id": 21,
+    "question": "<b>わすれます</b>",
+    "options": [
+      "quên",
+      "đánh mất",
+      "lo, lo lắng",
+      "trả lại"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 1
+  },
+  {
+    "id": 22,
+    "question": "<b>なくします</b>",
+    "options": [
+      "quên",
+      "đánh mất",
+      "lo, lo lắng",
+      "ngừng, dừng lại, đỗ (xe)"
+    ],
+    "correctAnswer": 1,
+    "difficulty": 1
+  },
+  {
+    "id": 23,
+    "question": "<b>しんぱいします</b>",
+    "options": [
+      "quên",
+      "đánh mất",
+      "lo, lo lắng",
+      "trả lại"
+    ],
+    "correctAnswer": 2,
+    "difficulty": 1
+  },
+  {
+    "id": 24,
+    "question": "<b>きをつけます</b>",
+    "options": [
+      "chú ý, cẩn thận, cảnh giác [với xe ô tô]",
+      "ngừng, dừng lại, đỗ (xe)",
+      "trả lại",
+      "trả, nộp tiền, đóng tiền"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 1
+  },
+  {
+    "id": 25,
+    "question": "<b>とめます</b>",
+    "options": [
+      "chú ý, cẩn thận, cảnh giác [với xe ô tô]",
+      "ngừng, dừng lại, đỗ (xe)",
+      "trả lại",
+      "cởi (quần áo, giầy…)"
+    ],
+    "correctAnswer": 1,
+    "difficulty": 1
+  },
+  {
+    "id": 26,
+    "question": "<b>かえします</b>",
+    "options": [
+      "ngừng, dừng lại, đỗ (xe)",
+      "trả lại",
+      "trả, nộp tiền, đóng tiền",
+      "cởi (quần áo, giầy…)"
+    ],
+    "correctAnswer": 1,
+    "difficulty": 1
+  },
+  {
+    "id": 27,
+    "question": "<b>はらいます</b>",
+    "options": [
+      "trả lại",
+      "trả, nộp tiền, đóng tiền",
+      "cởi (quần áo, giầy…)",
+      "sờ, mó tay, chạm tay [vào máy]"
+    ],
+    "correctAnswer": 1,
+    "difficulty": 1
+  },
+  {
+    "id": 28,
+    "question": "<b>きかいにさわります</b>",
+    "options": [
+      "cởi (quần áo, giầy…)",
+      "sờ, mó tay, chạm tay [vào máy]",
+      "chạm vào máy",
+      "đi ra ngoài"
+    ],
+    "correctAnswer": 2,
+    "difficulty": 1
+  },
+  {
+    "id": 29,
+    "question": "<b>でかけます</b>",
+    "options": [
+      "sờ, mó tay, chạm tay [vào máy]",
+      "đi ra ngoài",
+      "đem (cái gì) đi",
+      "mang (cái gì) đến"
+    ],
+    "correctAnswer": 1,
+    "difficulty": 1
+  },
+  {
+    "id": 30,
+    "question": "<b>もっていきます</b>",
+    "options": [
+      "đi ra ngoài",
+      "đem (cái gì) đi",
+      "mang (cái gì) đến",
+      "làm thêm"
+    ],
+    "correctAnswer": 1,
+    "difficulty": 1
+  },
+  {
+    "id": 31,
+    "question": "<b>もってきます</b>",
+    "options": [
+      "đem (cái gì) đi",
+      "mang (cái gì) đến",
+      "làm thêm",
+      "đi công tác"
+    ],
+    "correctAnswer": 1,
+    "difficulty": 1
+  },
+  {
+    "id": 32,
+    "question": "<b>かぜ</b>",
+    "options": [
+      "sốt",
+      "cảm cúm",
+      "bồn tắm",
+      "họng"
+    ],
+    "correctAnswer": 1,
+    "difficulty": 1
+  },
+  {
+    "id": 33,
+    "question": "<b>スイッチ</b>",
+    "options": [
+      "công tắc điện, cái chuyển mạch",
+      "máy điều hòa, máy lạnh",
+      "máy sưởi",
+      "người máy"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 1
+  },
+  {
+    "id": 34,
+    "question": "<b>ですから</b>",
+    "options": [
+      "có chuyện gì vậy? sao vậy?",
+      "vì vậy, cho nên (đứng đầu câu)",
+      "không được",
+      "đến khi ~, đến ~ (chỉ thời hạn)"
+    ],
+    "correctAnswer": 1,
+    "difficulty": 1
+  },
+  {
+    "id": 35,
+    "question": "<b>だめです</b>",
+    "options": [
+      "vì vậy, cho nên (đứng đầu câu)",
+      "không được",
+      "có chuyện gì vậy? sao vậy?",
+      "đau [～]"
+    ],
+    "correctAnswer": 1,
+    "difficulty": 1
+  },
+  {
+    "id": 36,
+    "question": "<b>どうしましたか</b>",
+    "options": [
+      "không được",
+      "có chuyện gì vậy? sao vậy?",
+      "đau [～]",
+      "nhanh chóng bình phục nhé! (dùng để chúc người ốm chóng khỏi)"
+    ],
+    "correctAnswer": 1,
+    "difficulty": 1
+  },
+  {
+    "id": 37,
+    "question": "<b>「～が」いたいです</b>",
+    "options": [
+      "có chuyện gì vậy? sao vậy?",
+      "đau [～]",
+      "nhanh chóng bình phục nhé! (dùng để chúc người ốm chóng khỏi)",
+      "quan trọng, quý giá"
+    ],
+    "correctAnswer": 1,
+    "difficulty": 1
+  },
+  {
+    "id": 38,
+    "question": "<b>おだいじに</b>",
+    "options": [
+      "đau [～]",
+      "nhanh chóng bình phục nhé! (dùng để chúc người ốm chóng khỏi)",
+      "quan trọng, quý giá",
+      "bền, chắc, khỏe"
+    ],
+    "correctAnswer": 1,
+    "difficulty": 1
+  },
+  {
+    "id": 39,
+    "question": "<b>だいじょうぶ</b>",
+    "options": [
+      "quan trọng, quý giá",
+      "bền, chắc, khỏe",
+      "tuyệt vời, cực kỳ, giỏi",
+      "nguy hiểm"
+    ],
+    "correctAnswer": 1,
+    "difficulty": 1
+  },
+  {
+    "id": 40,
+    "question": "<b>あぶない</b>",
+    "options": [
+      "bền, chắc, khỏe",
+      "tuyệt vời, cực kỳ, giỏi",
+      "nguy hiểm",
+      "tiếng động, âm thanh"
+    ],
+    "correctAnswer": 2,
+    "difficulty": 1
+  },
+  {
+    "id": 41,
+    "question": "<b>きょか</b>",
+    "options": [
+      "sự cho phép (danh từ)",
+      "công tắc điện, cái chuyển mạch",
+      "câu hỏi, vấn đề",
+      "câu trả lời"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 1
+  },
+  {
+    "id": 42,
+    "question": "<b>こたえ</b>",
+    "options": [
+      "câu hỏi, vấn đề",
+      "câu trả lời",
+      "cấm hút thuốc lá",
+      "giấy bảo hiểm [sức khỏe]"
+    ],
+    "correctAnswer": 1,
+    "difficulty": 1
+  },
+  {
+    "id": 43,
+    "question": "<b>「けんこう」ほけんしょう</b>",
+    "options": [
+      "cấm hút thuốc lá",
+      "giấy bảo hiểm [sức khỏe]",
+      "cảm cúm",
+      "sốt"
+    ],
+    "correctAnswer": 1,
+    "difficulty": 1
+  },
+  {
+    "id": 44,
+    "question": "<b>おふろ</b>",
+    "options": [
+      "bồn tắm",
+      "áo khoác",
+      "đồ lót",
+      "họng"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 1
+  },
+  {
+    "id": 45,
+    "question": "<b>おふろにはいる</b>",
+    "options": [
+      "bồn tắm",
+      "đi tắm",
+      "áo khoác",
+      "đồ lót"
+    ],
+    "correctAnswer": 1,
+    "difficulty": 1
   }
 ]

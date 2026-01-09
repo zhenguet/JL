@@ -80,18 +80,6 @@
     "difficulty": 1
   },
   {
-    "id": 32,
-    "question": "<b>số mấy</b>",
-    "options": [
-      "あさって",
-      "ぎんこう",
-      "なんばん",
-      "まいあさ"
-    ],
-    "correctAnswer": 2,
-    "difficulty": 1
-  },
-  {
     "id": 35,
     "question": "<b>ngủ</b>",
     "options": [
@@ -158,18 +146,6 @@
     "difficulty": 2
   },
   {
-    "id": 63,
-    "question": "<b>Los Angeles</b>",
-    "options": [
-      "おととい",
-      "おわります",
-      "かようび",
-      "ロサンゼルス"
-    ],
-    "correctAnswer": 3,
-    "difficulty": 1
-  },
-  {
     "id": 64,
     "question": "<b>xong, kết thúc</b>",
     "options": [
@@ -194,30 +170,6 @@
     "difficulty": 1
   },
   {
-    "id": 78,
-    "question": "<b>London</b>",
-    "options": [
-      "おきます",
-      "べんきょう",
-      "ロサンゼルス",
-      "ロンドン"
-    ],
-    "correctAnswer": 3,
-    "difficulty": 1
-  },
-  {
-    "id": 81,
-    "question": "<b>London</b>",
-    "options": [
-      "にちようび",
-      "まいばん",
-      "みどりとしょかん",
-      "ロンドン"
-    ],
-    "correctAnswer": 3,
-    "difficulty": 1
-  },
-  {
     "id": 82,
     "question": "<b>nghỉ</b>",
     "options": [
@@ -226,7 +178,7 @@
       "やすみ",
       "やすみます"
     ],
-    "correctAnswer": 2,
+    "correctAnswer": 3,
     "difficulty": 1
   },
   {
@@ -237,18 +189,6 @@
       "に"
     ],
     "correctAnswer": 0,
-    "difficulty": 1
-  },
-  {
-    "id": 85,
-    "question": "<b>tiếng Nhật</b>",
-    "options": [
-      "きんようび",
-      "にちようび",
-      "にほんご",
-      "ペキン"
-    ],
-    "correctAnswer": 2,
     "difficulty": 1
   },
   {
@@ -273,18 +213,6 @@
       "やまとびじゅつかん"
     ],
     "correctAnswer": 0,
-    "difficulty": 1
-  },
-  {
-    "id": 89,
-    "question": "<b>Bangkok</b>",
-    "options": [
-      "ぎんこう",
-      "げつようび",
-      "すいようび",
-      "バンコク"
-    ],
-    "correctAnswer": 3,
     "difficulty": 1
   },
   {
@@ -423,18 +351,6 @@
       "～から"
     ],
     "correctAnswer": 0,
-    "difficulty": 1
-  },
-  {
-    "id": 126,
-    "question": "<b>Bangkok</b>",
-    "options": [
-      "げつようび",
-      "ごぜん",
-      "ゆうびんきょく",
-      "バンコク"
-    ],
-    "correctAnswer": 3,
     "difficulty": 1
   },
   {

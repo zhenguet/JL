@@ -168,16 +168,6 @@
     "difficulty": 1
   },
   {
-    "id": 22,
-    "question": "<b>ご<ruby>家族<rp>（</rp><rt>かぞく</rt><rp>）</rp></ruby>（１）どちら（２）いらっしゃいますか。</b><p>(1)</p>",
-    "options": [
-      "で",
-      "は"
-    ],
-    "correctAnswer": 0,
-    "difficulty": 2
-  },
-  {
     "id": 23,
     "question": "<b>A：プレイガイドは　どちらですか。<p>B：（　）です。</p></b>",
     "options": [
@@ -907,11 +897,11 @@
     "id": 133,
     "question": "<b>このカタログを（　）もいいですか。</b>",
     "options": [
-      "もらって",
-      "もらっで"
+      "使って",
+      "使っで"
     ],
     "correctAnswer": 0,
-    "difficulty": 1
+    "difficulty": 2
   },
   {
     "id": 135,
@@ -948,16 +938,6 @@
     ],
     "correctAnswer": 2,
     "difficulty": 1
-  },
-  {
-    "id": 139,
-    "question": "<b>ご<ruby>家族<rp>（</rp><rt>かぞく</rt><rp>）</rp></ruby>（１）どちら（２）いらっしゃいますか。</b><p>(2)</p>",
-    "options": [
-      "が",
-      "に"
-    ],
-    "correctAnswer": 1,
-    "difficulty": 2
   },
   {
     "id": 140,
@@ -1281,5 +1261,37 @@
     ],
     "correctAnswer": 3,
     "difficulty": 1
+  },
+  {
+    "id": 183,
+    "question": "<b>いすにすわります</b>",
+    "options": [
+      "ngồi vào ghế",
+      "đứng",
+      "đặt, để",
+      "bán"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 1
+  },
+  {
+    "id": 184,
+    "question": "<b>ここでタバコを（　）もいいですか。</b>",
+    "options": [
+      "吸って",
+      "吸っで"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 2
+  },
+  {
+    "id": 185,
+    "question": "<b>ここで（　）もいいですか。</b>",
+    "options": [
+      "座って",
+      "座っで"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 2
   }
 ]

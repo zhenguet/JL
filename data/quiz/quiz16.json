@@ -171,7 +171,7 @@
     "id": 15,
     "question": "<b>いれます</b>",
     "options": [
-      "Bỏ vào",
+      "cho vào, lồng vào",
       "Lấy ra",
       "Quét",
       "Thúc giục"
@@ -573,6 +573,90 @@
       "à… (khi ngừng để suy nghĩ và nói tiếp)"
     ],
     "correctAnswer": 2,
+    "difficulty": 1
+  },
+  {
+    "id": 49,
+    "question": "<b>からだ</b>",
+    "options": [
+      "thân thể",
+      "mặt",
+      "mũi",
+      "tay"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 1
+  },
+  {
+    "id": 50,
+    "question": "<b>かお</b>",
+    "options": [
+      "thân thể",
+      "mặt",
+      "mũi",
+      "tay"
+    ],
+    "correctAnswer": 1,
+    "difficulty": 1
+  },
+  {
+    "id": 51,
+    "question": "<b>て</b>",
+    "options": [
+      "thân thể",
+      "mặt",
+      "mũi",
+      "tay"
+    ],
+    "correctAnswer": 3,
+    "difficulty": 1
+  },
+  {
+    "id": 52,
+    "question": "<b>どうやって</b>",
+    "options": [
+      "làm thế nào",
+      "~ nào",
+      "cái gì cũng được. thế nào cũng được",
+      "số tiền"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 1
+  },
+  {
+    "id": 53,
+    "question": "<b>キャッシュカード</b>",
+    "options": [
+      "thẻ ATM",
+      "mã Pin",
+      "số tiền",
+      "sự xác nhận (danh từ)"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 1
+  },
+  {
+    "id": 54,
+    "question": "<b>おひきだしですか</b>",
+    "options": [
+      "(ngài) rút tiền ạ?",
+      "bạn muốn (ăn, uống) gì?",
+      "làm thế nào",
+      "~ nào"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 1
+  },
+  {
+    "id": 55,
+    "question": "<b>あるきます</b>",
+    "options": [
+      "đi bộ, bước đi",
+      "lên, đi [tàu điện]",
+      "xuống [khỏi tàu điện]",
+      "thay, đổi (tàu điện…)"
+    ],
+    "correctAnswer": 0,
     "difficulty": 1
   }
 ]

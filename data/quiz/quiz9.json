@@ -266,30 +266,6 @@
     "difficulty": 1
   },
   {
-    "id": 29,
-    "question": "<b>A：カラオケは　どこですか。<p>B：（　）です。</p></b>",
-    "options": [
-      "あそこ",
-      "ここ",
-      "そこ",
-      "どこ"
-    ],
-    "correctAnswer": 2,
-    "difficulty": 2
-  },
-  {
-    "id": 30,
-    "question": "<b>A：これは　なんですか。<p>B：（　）は　おなかです。</p></b>",
-    "options": [
-      "あれ",
-      "これ",
-      "それ",
-      "どれ"
-    ],
-    "correctAnswer": 1,
-    "difficulty": 2
-  },
-  {
     "id": 31,
     "question": "<b>おなか</b>",
     "options": [
@@ -494,18 +470,6 @@
     "difficulty": 1
   },
   {
-    "id": 55,
-    "question": "<b>A：これは　なんですか。<p>B：（　）は　ぎゅうにくです。</p></b>",
-    "options": [
-      "あれ",
-      "これ",
-      "それ",
-      "どれ"
-    ],
-    "correctAnswer": 1,
-    "difficulty": 2
-  },
-  {
     "id": 57,
     "question": "<b>vì ~, bởi ~</b>",
     "options": [
@@ -528,18 +492,6 @@
     ],
     "correctAnswer": 2,
     "difficulty": 1
-  },
-  {
-    "id": 59,
-    "question": "<b>A：これは　なんですか。<p>B：（　）は　もしもしです。</p></b>",
-    "options": [
-      "あれ",
-      "これ",
-      "それ",
-      "どれ"
-    ],
-    "correctAnswer": 1,
-    "difficulty": 2
   },
   {
     "id": 60,
@@ -677,7 +629,7 @@
     "id": 75,
     "question": "<b>え</b>",
     "options": [
-      "hả?, gì cơ?",
+      "tranh, bức tranh",
       "Bản đồ",
       "Màu sắc",
       "Phim ảnh"
@@ -818,18 +770,6 @@
     "difficulty": 1
   },
   {
-    "id": 93,
-    "question": "<b>A：これは　なんですか。<p>B：（　）は　じです。</p></b>",
-    "options": [
-      "あれ",
-      "これ",
-      "それ",
-      "どれ"
-    ],
-    "correctAnswer": 1,
-    "difficulty": 2
-  },
-  {
     "id": 94,
     "question": "<b>りょうり</b>",
     "options": [
@@ -948,18 +888,6 @@
     "difficulty": 1
   },
   {
-    "id": 109,
-    "question": "<b>A：これは　なんですか。<p>B：（　）は　かんじです。</p></b>",
-    "options": [
-      "あれ",
-      "これ",
-      "それ",
-      "どれ"
-    ],
-    "correctAnswer": 1,
-    "difficulty": 2
-  },
-  {
     "id": 110,
     "question": "<b>おなか</b>",
     "options": [
@@ -1039,18 +967,6 @@
       "とりにく",
       "ジャズ",
       "～はちょっと"
-    ],
-    "correctAnswer": 1,
-    "difficulty": 2
-  },
-  {
-    "id": 119,
-    "question": "<b>A：あたまは　どこですか。<p>B：（　）です。</p></b>",
-    "options": [
-      "あそこ",
-      "ここ",
-      "そこ",
-      "どこ"
     ],
     "correctAnswer": 1,
     "difficulty": 2
@@ -1426,18 +1342,6 @@
     "difficulty": 1
   },
   {
-    "id": 166,
-    "question": "<b>A：おなかは　どこですか。<p>B：（　）です。</p></b>",
-    "options": [
-      "あそこ",
-      "ここ",
-      "そこ",
-      "どこ"
-    ],
-    "correctAnswer": 2,
-    "difficulty": 2
-  },
-  {
     "id": 170,
     "question": "<b>時間</b>",
     "options": [
@@ -1484,18 +1388,6 @@
     "difficulty": 1
   },
   {
-    "id": 174,
-    "question": "<b>A：これは　なんですか。<p>B：（　）は　コンサートです。</p></b>",
-    "options": [
-      "あれ",
-      "これ",
-      "それ",
-      "どれ"
-    ],
-    "correctAnswer": 1,
-    "difficulty": 2
-  },
-  {
     "id": 175,
     "question": "<b>かぶき</b>",
     "options": [
@@ -1506,42 +1398,6 @@
     ],
     "correctAnswer": 1,
     "difficulty": 1
-  },
-  {
-    "id": 176,
-    "question": "<b>A：これは　なんですか。<p>B：（　）は　ギターです。</p></b>",
-    "options": [
-      "あれ",
-      "これ",
-      "それ",
-      "どれ"
-    ],
-    "correctAnswer": 1,
-    "difficulty": 2
-  },
-  {
-    "id": 178,
-    "question": "<b>A：チケットは　どこですか。<p>B：（　）です。</p></b>",
-    "options": [
-      "あそこ",
-      "ここ",
-      "そこ",
-      "どこ"
-    ],
-    "correctAnswer": 1,
-    "difficulty": 2
-  },
-  {
-    "id": 179,
-    "question": "<b>A：こまかいおかねは　どこですか。<p>B：（　）です。</p></b>",
-    "options": [
-      "あそこ",
-      "ここ",
-      "そこ",
-      "どこ"
-    ],
-    "correctAnswer": 0,
-    "difficulty": 2
   },
   {
     "id": 180,

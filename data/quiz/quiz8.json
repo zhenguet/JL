@@ -12,54 +12,6 @@
     "difficulty": 1
   },
   {
-    "id": 2,
-    "question": "<b>やあ</b>",
-    "options": [
-      "bạn có khỏe không",
-      "hoa Anh Đào",
-      "này!, chào! (dùng để chào bạn bè)",
-      "tôi xin phép ra về (vì đã đến giờ nên về)"
-    ],
-    "correctAnswer": 2,
-    "difficulty": 1
-  },
-  {
-    "id": 4,
-    "question": "<b>A：これは　なんですか。<p>B：（　）は　しけんです。</p></b>",
-    "options": [
-      "あれ",
-      "これ",
-      "それ",
-      "どれ"
-    ],
-    "correctAnswer": 1,
-    "difficulty": 2
-  },
-  {
-    "id": 5,
-    "question": "<b>A：コーヒーをもういっぱいいかがですかは　どちらですか。<p>B：（　）です。</p></b>",
-    "options": [
-      "あちら",
-      "こちら",
-      "そちら",
-      "どちら"
-    ],
-    "correctAnswer": 1,
-    "difficulty": 2
-  },
-  {
-    "id": 6,
-    "question": "<b>やあ</b>",
-    "options": [
-      "này!, chào! (dùng để chào bạn bè)",
-      "và rồi",
-      "xe ô tô",
-      "xin mời (nói khi bắt đầu ăn, uống gì đó)"
-    ],
-    "correctAnswer": 0,
-    "difficulty": 1
-  },
-  {
     "id": 7,
     "question": "<b>りょう</b>",
     "options": [
@@ -108,42 +60,6 @@
     "difficulty": 1
   },
   {
-    "id": 11,
-    "question": "<b>コーヒーをもう一杯いかがですか</b>",
-    "options": [
-      "どんな～",
-      "もう～ですね",
-      "やま",
-      "コーヒーをもういっぱいいかがですか"
-    ],
-    "correctAnswer": 3,
-    "difficulty": 2
-  },
-  {
-    "id": 13,
-    "question": "<b>A：しけんは　どちらですか。<p>B：（　）です。</p></b>",
-    "options": [
-      "あちら",
-      "こちら",
-      "そちら",
-      "どちら"
-    ],
-    "correctAnswer": 0,
-    "difficulty": 2
-  },
-  {
-    "id": 14,
-    "question": "<b>A：これは　なんですか。<p>B：（　）は　りょうです。</p></b>",
-    "options": [
-      "あれ",
-      "これ",
-      "それ",
-      "どれ"
-    ],
-    "correctAnswer": 1,
-    "difficulty": 2
-  },
-  {
     "id": 15,
     "question": "<b>便利</b>",
     "options": [
@@ -154,42 +70,6 @@
     ],
     "correctAnswer": 2,
     "difficulty": 2
-  },
-  {
-    "id": 16,
-    "question": "<b>シャンハイ</b>",
-    "options": [
-      "Bắc Kinh",
-      "Hồng Kong",
-      "Thượng Hải",
-      "Đài Loan"
-    ],
-    "correctAnswer": 2,
-    "difficulty": 1
-  },
-  {
-    "id": 18,
-    "question": "<b>いただきます</b>",
-    "options": [
-      "núi Phú Sĩ",
-      "thị xã, phố, phường",
-      "xin mời (nói khi bắt đầu ăn, uống gì đó)",
-      "~ nhưng ~"
-    ],
-    "correctAnswer": 2,
-    "difficulty": 1
-  },
-  {
-    "id": 19,
-    "question": "<b>コーヒーをもういっぱいいかがですか</b>",
-    "options": [
-      "hoa, bông hoa",
-      "uống/dùng thêm (cà phê) nhé/không?",
-      "xin cảm ơn (vì bữa ăn ngon) (nói khi ăn, uống xong)",
-      "à, cái đó thì… (nói khi tạm ngừng và suy nghĩ) vâng, vâng đúng rồi (nói khi đồng ý với ý kiến khác)"
-    ],
-    "correctAnswer": 1,
-    "difficulty": 1
   },
   {
     "id": 20,
@@ -224,18 +104,6 @@
     ],
     "correctAnswer": 1,
     "difficulty": 1
-  },
-  {
-    "id": 23,
-    "question": "<b>A：りょうは　どちらですか。<p>B：（　）です。</p></b>",
-    "options": [
-      "あちら",
-      "こちら",
-      "そちら",
-      "どちら"
-    ],
-    "correctAnswer": 0,
-    "difficulty": 2
   },
   {
     "id": 24,
@@ -286,18 +154,6 @@
     "difficulty": 2
   },
   {
-    "id": 28,
-    "question": "<b>A：～が、は　どちらですか。<p>B：（　）です。</p></b>",
-    "options": [
-      "あちら",
-      "こちら",
-      "そちら",
-      "どちら"
-    ],
-    "correctAnswer": 1,
-    "difficulty": 2
-  },
-  {
     "id": 30,
     "question": "<b><ruby>日本<rp>（</rp><rt>にほん</rt><rp>）</rp></ruby>の<ruby>生活<rp>（</rp><rt>せいかつ</rt><rp>）</rp></ruby>は<ruby>楽<rp>（</rp><rt>たの</rt><rp>）</rp></ruby>しいですか。…はい、とても＿＿＿＿。</b>",
     "options": [
@@ -306,18 +162,6 @@
     ],
     "correctAnswer": 0,
     "difficulty": 3
-  },
-  {
-    "id": 31,
-    "question": "<b>そうですね</b>",
-    "options": [
-      "ký túc xá",
-      "như thế nào, ra sao",
-      "thi, kiểm tra",
-      "à, cái đó thì… (nói khi tạm ngừng và suy nghĩ) vâng, vâng đúng rồi (nói khi đồng ý với ý kiến khác)"
-    ],
-    "correctAnswer": 3,
-    "difficulty": 1
   },
   {
     "id": 32,
@@ -356,30 +200,6 @@
     "difficulty": 1
   },
   {
-    "id": 35,
-    "question": "<b>いただきます</b>",
-    "options": [
-      "hoa Anh Đào",
-      "lần sau lại đến nhé",
-      "xin mời (nói khi bắt đầu ăn, uống gì đó)",
-      "à, cái đó thì… (nói khi tạm ngừng và suy nghĩ) vâng, vâng đúng rồi (nói khi đồng ý với ý kiến khác)"
-    ],
-    "correctAnswer": 2,
-    "difficulty": 1
-  },
-  {
-    "id": 37,
-    "question": "<b>bạn có khỏe không</b>",
-    "options": [
-      "おげんきですか",
-      "おしごと",
-      "はな",
-      "りょう"
-    ],
-    "correctAnswer": 0,
-    "difficulty": 1
-  },
-  {
     "id": 38,
     "question": "<b>どう</b>",
     "options": [
@@ -390,30 +210,6 @@
     ],
     "correctAnswer": 2,
     "difficulty": 1
-  },
-  {
-    "id": 39,
-    "question": "<b>いいえ、けっこうです</b>",
-    "options": [
-      "hoa, bông hoa",
-      "không, cảm ơn, tôi đủ rồi (nói khi từ chối ăn tiếp)",
-      "xe ô tô",
-      "đã 12 giờ rồi nhỉ"
-    ],
-    "correctAnswer": 1,
-    "difficulty": 1
-  },
-  {
-    "id": 42,
-    "question": "<b>A：～が、は　どこですか。<p>B：（　）です。</p></b>",
-    "options": [
-      "あそこ",
-      "ここ",
-      "そこ",
-      "どこ"
-    ],
-    "correctAnswer": 2,
-    "difficulty": 2
   },
   {
     "id": 43,
@@ -440,66 +236,6 @@
     "difficulty": 1
   },
   {
-    "id": 45,
-    "question": "<b>お元気ですか</b>",
-    "options": [
-      "おげんきですか",
-      "しばらくですね",
-      "まち",
-      "コーヒーはいかがですか"
-    ],
-    "correctAnswer": 0,
-    "difficulty": 2
-  },
-  {
-    "id": 46,
-    "question": "<b>A：やまは　どこですか。<p>B：（　）です。</p></b>",
-    "options": [
-      "あそこ",
-      "ここ",
-      "そこ",
-      "どこ"
-    ],
-    "correctAnswer": 1,
-    "difficulty": 2
-  },
-  {
-    "id": 47,
-    "question": "<b>đã ~ rồi (nhỉ)</b>",
-    "options": [
-      "ごちそうさまでした",
-      "どれ",
-      "ふじさん",
-      "もう～ですね"
-    ],
-    "correctAnswer": 3,
-    "difficulty": 1
-  },
-  {
-    "id": 48,
-    "question": "<b>どうぞこちらへ</b>",
-    "options": [
-      "này!, chào! (dùng để chào bạn bè)",
-      "và rồi",
-      "xin mời (nói khi bắt đầu ăn, uống gì đó)",
-      "xin mời đi lối này"
-    ],
-    "correctAnswer": 3,
-    "difficulty": 1
-  },
-  {
-    "id": 49,
-    "question": "<b>A：ところは　どこですか。<p>B：（　）です。</p></b>",
-    "options": [
-      "あそこ",
-      "ここ",
-      "そこ",
-      "どこ"
-    ],
-    "correctAnswer": 2,
-    "difficulty": 2
-  },
-  {
     "id": 50,
     "question": "<b>しゅくだい</b>",
     "options": [
@@ -509,18 +245,6 @@
       "đã ~ rồi (nhỉ)"
     ],
     "correctAnswer": 0,
-    "difficulty": 1
-  },
-  {
-    "id": 51,
-    "question": "<b>lần sau lại đến nhé</b>",
-    "options": [
-      "くるま",
-      "どう",
-      "ふじさん",
-      "またいらっしゃってください"
-    ],
-    "correctAnswer": 3,
     "difficulty": 1
   },
   {
@@ -584,18 +308,6 @@
     "difficulty": 1
   },
   {
-    "id": 60,
-    "question": "<b>xin mời đi lối này</b>",
-    "options": [
-      "いいえ、けっこうです",
-      "しけん",
-      "どう",
-      "どうぞこちらへ"
-    ],
-    "correctAnswer": 3,
-    "difficulty": 1
-  },
-  {
     "id": 61,
     "question": "<b>せいかつ</b>",
     "options": [
@@ -620,18 +332,6 @@
     "difficulty": 1
   },
   {
-    "id": 63,
-    "question": "<b>A：はなは　どこですか。<p>B：（　）です。</p></b>",
-    "options": [
-      "あそこ",
-      "ここ",
-      "そこ",
-      "どこ"
-    ],
-    "correctAnswer": 1,
-    "difficulty": 2
-  },
-  {
     "id": 67,
     "question": "<b>おしごと</b>",
     "options": [
@@ -651,30 +351,6 @@
       "như thế nào, ra sao",
       "núi Phú Sĩ",
       "xin cảm ơn (vì bữa ăn ngon) (nói khi ăn, uống xong)"
-    ],
-    "correctAnswer": 2,
-    "difficulty": 1
-  },
-  {
-    "id": 70,
-    "question": "<b>đã ~ rồi (nhỉ)</b>",
-    "options": [
-      "しけん",
-      "どんな～",
-      "もう～ですね",
-      "やま"
-    ],
-    "correctAnswer": 2,
-    "difficulty": 1
-  },
-  {
-    "id": 71,
-    "question": "<b>いただきます</b>",
-    "options": [
-      "nơi, chỗ",
-      "thị xã, phố, phường",
-      "xin mời (nói khi bắt đầu ăn, uống gì đó)",
-      "đã 12 giờ rồi nhỉ"
     ],
     "correctAnswer": 2,
     "difficulty": 1
@@ -702,30 +378,6 @@
     "difficulty": 1
   },
   {
-    "id": 75,
-    "question": "<b>そろそろしつれいします</b>",
-    "options": [
-      "cái nào",
-      "không, cảm ơn, tôi đủ rồi (nói khi từ chối ăn tiếp)",
-      "núi Phú Sĩ",
-      "tôi xin phép ra về (vì đã đến giờ nên về)"
-    ],
-    "correctAnswer": 3,
-    "difficulty": 1
-  },
-  {
-    "id": 76,
-    "question": "<b>A：これは　なんですか。<p>B：（　）は　ふじさんです。</p></b>",
-    "options": [
-      "あれ",
-      "これ",
-      "それ",
-      "どれ"
-    ],
-    "correctAnswer": 1,
-    "difficulty": 2
-  },
-  {
     "id": 77,
     "question": "<b>試験</b>",
     "options": [
@@ -746,54 +398,6 @@
     ],
     "correctAnswer": 1,
     "difficulty": 2
-  },
-  {
-    "id": 79,
-    "question": "<b>đã 12 giờ rồi nhỉ</b>",
-    "options": [
-      "くるま",
-      "どうぞこちらへ",
-      "またいらっしゃってください",
-      "もうじゅうにじですね"
-    ],
-    "correctAnswer": 3,
-    "difficulty": 1
-  },
-  {
-    "id": 80,
-    "question": "<b>đã ~ rồi (nhỉ)</b>",
-    "options": [
-      "そして",
-      "もうじゅうにじですね",
-      "もう～ですね",
-      "やあ"
-    ],
-    "correctAnswer": 2,
-    "difficulty": 1
-  },
-  {
-    "id": 81,
-    "question": "<b>xin mời đi lối này</b>",
-    "options": [
-      "おげんきですか",
-      "しけん",
-      "どうぞこちらへ",
-      "ふじさん"
-    ],
-    "correctAnswer": 2,
-    "difficulty": 1
-  },
-  {
-    "id": 82,
-    "question": "<b>cái nào</b>",
-    "options": [
-      "おしごと",
-      "さくら",
-      "どれ",
-      "はな"
-    ],
-    "correctAnswer": 2,
-    "difficulty": 1
   },
   {
     "id": 83,
@@ -866,42 +470,6 @@
     "difficulty": 1
   },
   {
-    "id": 90,
-    "question": "<b>いただきます</b>",
-    "options": [
-      "cái nào",
-      "lâu lắm không gặp nhỉ",
-      "như thế nào, ra sao",
-      "xin mời (nói khi bắt đầu ăn, uống gì đó)"
-    ],
-    "correctAnswer": 3,
-    "difficulty": 1
-  },
-  {
-    "id": 92,
-    "question": "<b>コーヒーをもういっぱいいかがですか</b>",
-    "options": [
-      "lần sau lại đến nhé",
-      "tôi xin phép ra về (vì đã đến giờ nên về)",
-      "uống/dùng thêm (cà phê) nhé/không?",
-      "xe ô tô"
-    ],
-    "correctAnswer": 2,
-    "difficulty": 1
-  },
-  {
-    "id": 94,
-    "question": "<b>ごちそうさまでした</b>",
-    "options": [
-      "bài tập (về nhà)",
-      "cái nào",
-      "nơi, chỗ",
-      "xin cảm ơn (vì bữa ăn ngon) (nói khi ăn, uống xong)"
-    ],
-    "correctAnswer": 3,
-    "difficulty": 1
-  },
-  {
     "id": 95,
     "question": "<b>せいかつ</b>",
     "options": [
@@ -911,18 +479,6 @@
       "道活"
     ],
     "correctAnswer": 0,
-    "difficulty": 1
-  },
-  {
-    "id": 96,
-    "question": "<b>cái nào</b>",
-    "options": [
-      "いただきます",
-      "おげんきですか",
-      "しけん",
-      "どれ"
-    ],
-    "correctAnswer": 3,
     "difficulty": 1
   },
   {
@@ -947,78 +503,6 @@
       "やま"
     ],
     "correctAnswer": 0,
-    "difficulty": 2
-  },
-  {
-    "id": 100,
-    "question": "<b>cái nào</b>",
-    "options": [
-      "くるま",
-      "どれ",
-      "もうじゅうにじですね",
-      "もう～ですね"
-    ],
-    "correctAnswer": 1,
-    "difficulty": 1
-  },
-  {
-    "id": 101,
-    "question": "<b>A：くるまは　どちらですか。<p>B：（　）です。</p></b>",
-    "options": [
-      "あちら",
-      "こちら",
-      "そちら",
-      "どちら"
-    ],
-    "correctAnswer": 1,
-    "difficulty": 2
-  },
-  {
-    "id": 103,
-    "question": "<b>さくら</b>",
-    "options": [
-      "hoa Anh Đào",
-      "thi, kiểm tra",
-      "tôi xin phép ra về (vì đã đến giờ nên về)",
-      "à, cái đó thì… (nói khi tạm ngừng và suy nghĩ) vâng, vâng đúng rồi (nói khi đồng ý với ý kiến khác)"
-    ],
-    "correctAnswer": 0,
-    "difficulty": 1
-  },
-  {
-    "id": 104,
-    "question": "<b>宿題</b>",
-    "options": [
-      "ごちそうさまでした",
-      "しゅくだい",
-      "どれ",
-      "コーヒーはいかがですか"
-    ],
-    "correctAnswer": 1,
-    "difficulty": 2
-  },
-  {
-    "id": 105,
-    "question": "<b>やあ</b>",
-    "options": [
-      "bài tập (về nhà)",
-      "này!, chào! (dùng để chào bạn bè)",
-      "thị xã, phố, phường",
-      "đã 12 giờ rồi nhỉ"
-    ],
-    "correctAnswer": 1,
-    "difficulty": 1
-  },
-  {
-    "id": 106,
-    "question": "<b>A：まちは　どちらですか。<p>B：（　）です。</p></b>",
-    "options": [
-      "あちら",
-      "こちら",
-      "そちら",
-      "どちら"
-    ],
-    "correctAnswer": 2,
     "difficulty": 2
   },
   {
@@ -1058,30 +542,6 @@
     "difficulty": 1
   },
   {
-    "id": 110,
-    "question": "<b>đã ~ rồi (nhỉ)</b>",
-    "options": [
-      "たべもの",
-      "どんな～",
-      "ふじさん",
-      "もう～ですね"
-    ],
-    "correctAnswer": 3,
-    "difficulty": 1
-  },
-  {
-    "id": 111,
-    "question": "<b>A：やまは　どちらですか。<p>B：（　）です。</p></b>",
-    "options": [
-      "あちら",
-      "こちら",
-      "そちら",
-      "どちら"
-    ],
-    "correctAnswer": 1,
-    "difficulty": 2
-  },
-  {
     "id": 116,
     "question": "<b>たべもの</b>",
     "options": [
@@ -1092,18 +552,6 @@
     ],
     "correctAnswer": 3,
     "difficulty": 1
-  },
-  {
-    "id": 117,
-    "question": "<b>A：りょうは　どこですか。<p>B：（　）です。</p></b>",
-    "options": [
-      "あそこ",
-      "ここ",
-      "そこ",
-      "どこ"
-    ],
-    "correctAnswer": 1,
-    "difficulty": 2
   },
   {
     "id": 118,
@@ -1130,40 +578,6 @@
     "difficulty": 1
   },
   {
-    "id": 121,
-    "question": "<b>lâu lắm không gặp nhỉ</b>",
-    "options": [
-      "しばらくですね",
-      "そうですね",
-      "どんな～",
-      "まち"
-    ],
-    "correctAnswer": 0,
-    "difficulty": 1
-  },
-  {
-    "id": 122,
-    "question": "<b>コーヒーをもう一杯いかがですか</b>",
-    "options": [
-      "おしごと",
-      "どうぞこちらへ",
-      "はな",
-      "コーヒーをもういっぱいいかがですか"
-    ],
-    "correctAnswer": 3,
-    "difficulty": 2
-  },
-  {
-    "id": 124,
-    "question": "<b>あなたの<ruby>車<rp>（</rp><rt>くるま</rt><rp>）</rp></ruby>は（　）ですか。…あの<ruby>赤<rp>（</rp><rt>あか</rt><rp>）</rp></ruby>い<ruby>車<rp>（</rp><rt>くるま</rt><rp>）</rp></ruby>です。</b>",
-    "options": [
-      "どれ",
-      "どんな"
-    ],
-    "correctAnswer": 0,
-    "difficulty": 2
-  },
-  {
     "id": 125,
     "question": "<b>どんな～</b>",
     "options": [
@@ -1188,18 +602,6 @@
     "difficulty": 1
   },
   {
-    "id": 127,
-    "question": "<b>xin mời đi lối này</b>",
-    "options": [
-      "おげんきですか",
-      "どうぞこちらへ",
-      "やあ",
-      "やま"
-    ],
-    "correctAnswer": 1,
-    "difficulty": 1
-  },
-  {
     "id": 130,
     "question": "<b>Đồ ăn</b>",
     "options": [
@@ -1212,18 +614,6 @@
     "difficulty": 1
   },
   {
-    "id": 131,
-    "question": "<b>uống/dùng (cà phê) nhé/không?</b>",
-    "options": [
-      "さくら",
-      "せいかつ",
-      "どれ",
-      "コーヒーはいかがですか"
-    ],
-    "correctAnswer": 3,
-    "difficulty": 1
-  },
-  {
     "id": 133,
     "question": "<b>bài tập (về nhà)</b>",
     "options": [
@@ -1233,54 +623,6 @@
       "ところ"
     ],
     "correctAnswer": 1,
-    "difficulty": 1
-  },
-  {
-    "id": 134,
-    "question": "<b>そろそろしつれいします</b>",
-    "options": [
-      "hoa Anh Đào",
-      "không, cảm ơn, tôi đủ rồi (nói khi từ chối ăn tiếp)",
-      "tôi xin phép ra về (vì đã đến giờ nên về)",
-      "à, cái đó thì… (nói khi tạm ngừng và suy nghĩ) vâng, vâng đúng rồi (nói khi đồng ý với ý kiến khác)"
-    ],
-    "correctAnswer": 3,
-    "difficulty": 1
-  },
-  {
-    "id": 135,
-    "question": "<b>やあ</b>",
-    "options": [
-      "bạn có khỏe không",
-      "này!, chào! (dùng để chào bạn bè)",
-      "núi Phú Sĩ",
-      "đã 12 giờ rồi nhỉ"
-    ],
-    "correctAnswer": 1,
-    "difficulty": 1
-  },
-  {
-    "id": 136,
-    "question": "<b>宿題</b>",
-    "options": [
-      "しけん",
-      "しゅくだい",
-      "そして",
-      "もうじゅうにじですね"
-    ],
-    "correctAnswer": 1,
-    "difficulty": 2
-  },
-  {
-    "id": 137,
-    "question": "<b>xin mời (nói khi bắt đầu ăn, uống gì đó)</b>",
-    "options": [
-      "いただきます",
-      "くるま",
-      "たべもの",
-      "またいらっしゃってください"
-    ],
-    "correctAnswer": 0,
     "difficulty": 1
   },
   {
@@ -1356,18 +698,6 @@
     "difficulty": 1
   },
   {
-    "id": 144,
-    "question": "<b>uống/dùng (cà phê) nhé/không?</b>",
-    "options": [
-      "いいえ、けっこうです",
-      "おしごと",
-      "やま",
-      "コーヒーはいかがですか"
-    ],
-    "correctAnswer": 3,
-    "difficulty": 1
-  },
-  {
     "id": 146,
     "question": "<b>すてき</b>",
     "options": [
@@ -1380,18 +710,6 @@
     "difficulty": 1
   },
   {
-    "id": 147,
-    "question": "<b>A：まちは　どこですか。<p>B：（　）です。</p></b>",
-    "options": [
-      "あそこ",
-      "ここ",
-      "そこ",
-      "どこ"
-    ],
-    "correctAnswer": 0,
-    "difficulty": 2
-  },
-  {
     "id": 148,
     "question": "<b>忙しい</b>",
     "options": [
@@ -1402,18 +720,6 @@
     ],
     "correctAnswer": 0,
     "difficulty": 2
-  },
-  {
-    "id": 149,
-    "question": "<b>uống/dùng (cà phê) nhé/không?</b>",
-    "options": [
-      "しけん",
-      "しゅくだい",
-      "コーヒーはいかがですか",
-      "～が、"
-    ],
-    "correctAnswer": 2,
-    "difficulty": 1
   },
   {
     "id": 150,
@@ -1452,18 +758,6 @@
     "difficulty": 1
   },
   {
-    "id": 154,
-    "question": "<b>đã 12 giờ rồi nhỉ</b>",
-    "options": [
-      "いいえ、けっこうです",
-      "どんな～",
-      "またいらっしゃってください",
-      "もうじゅうにじですね"
-    ],
-    "correctAnswer": 3,
-    "difficulty": 1
-  },
-  {
     "id": 155,
     "question": "<b>宿題</b>",
     "options": [
@@ -1474,18 +768,6 @@
     ],
     "correctAnswer": 0,
     "difficulty": 2
-  },
-  {
-    "id": 156,
-    "question": "<b>này!, chào! (dùng để chào bạn bè)</b>",
-    "options": [
-      "せいかつ",
-      "そして",
-      "やあ",
-      "コーヒーはいかがですか"
-    ],
-    "correctAnswer": 2,
-    "difficulty": 1
   },
   {
     "id": 157,
@@ -1512,30 +794,6 @@
     "difficulty": 1
   },
   {
-    "id": 159,
-    "question": "<b>いただきます</b>",
-    "options": [
-      "và rồi",
-      "xin mời (nói khi bắt đầu ăn, uống gì đó)",
-      "~ nhưng ~",
-      "à, cái đó thì… (nói khi tạm ngừng và suy nghĩ) vâng, vâng đúng rồi (nói khi đồng ý với ý kiến khác)"
-    ],
-    "correctAnswer": 1,
-    "difficulty": 1
-  },
-  {
-    "id": 160,
-    "question": "<b>xin cảm ơn (vì bữa ăn ngon) (nói khi ăn, uống xong)</b>",
-    "options": [
-      "くるま",
-      "ごちそうさまでした",
-      "そして",
-      "どれ"
-    ],
-    "correctAnswer": 1,
-    "difficulty": 1
-  },
-  {
     "id": 161,
     "question": "<b>にほんの　たべものは（　）おいしいです。</b>",
     "options": [
@@ -1543,66 +801,6 @@
       "たかいですが、"
     ],
     "correctAnswer": 1,
-    "difficulty": 1
-  },
-  {
-    "id": 162,
-    "question": "<b>uống/dùng (cà phê) nhé/không?</b>",
-    "options": [
-      "しばらくですね",
-      "そして",
-      "やあ",
-      "コーヒーはいかがですか"
-    ],
-    "correctAnswer": 3,
-    "difficulty": 1
-  },
-  {
-    "id": 164,
-    "question": "<b>này!, chào! (dùng để chào bạn bè)</b>",
-    "options": [
-      "しけん",
-      "そうですね",
-      "ところ",
-      "やあ"
-    ],
-    "correctAnswer": 3,
-    "difficulty": 1
-  },
-  {
-    "id": 165,
-    "question": "<b>どうぞこちらへ</b>",
-    "options": [
-      "lần sau lại đến nhé",
-      "này!, chào! (dùng để chào bạn bè)",
-      "uống/dùng (cà phê) nhé/không?",
-      "xin mời đi lối này"
-    ],
-    "correctAnswer": 3,
-    "difficulty": 1
-  },
-  {
-    "id": 166,
-    "question": "<b>ごちそうさまでした</b>",
-    "options": [
-      "nơi, chỗ",
-      "xin cảm ơn (vì bữa ăn ngon) (nói khi ăn, uống xong)",
-      "xin mời đi lối này",
-      "à, cái đó thì… (nói khi tạm ngừng và suy nghĩ) vâng, vâng đúng rồi (nói khi đồng ý với ý kiến khác)"
-    ],
-    "correctAnswer": 1,
-    "difficulty": 1
-  },
-  {
-    "id": 167,
-    "question": "<b>どうぞこちらへ</b>",
-    "options": [
-      "như thế nào, ra sao",
-      "xin cảm ơn (vì bữa ăn ngon) (nói khi ăn, uống xong)",
-      "xin mời đi lối này",
-      "đã 12 giờ rồi nhỉ"
-    ],
-    "correctAnswer": 2,
     "difficulty": 1
   },
   {
@@ -1616,18 +814,6 @@
     ],
     "correctAnswer": 3,
     "difficulty": 1
-  },
-  {
-    "id": 170,
-    "question": "<b>A：しゅくだいは　どちらですか。<p>B：（　）です。</p></b>",
-    "options": [
-      "あちら",
-      "こちら",
-      "そちら",
-      "どちら"
-    ],
-    "correctAnswer": 0,
-    "difficulty": 2
   },
   {
     "id": 172,

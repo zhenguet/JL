@@ -20,7 +20,7 @@
       "そちら",
       "どちら"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "difficulty": 2
   },
   {
@@ -88,20 +88,20 @@
       "X、を",
       "を、X"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "difficulty": 2
   },
   {
     "id": 9,
-    "question": "<b>みかん</b>",
+    "question": "<b>～<ruby>人<rp>（</rp><rt>ひと</rt><rp>）</rp></ruby></b>",
     "options": [
-      "Chuối",
-      "Hồng",
-      "Quýt",
-      "Đào"
+      "ふたつ",
+      "～かい",
+      "～にん",
+      "～だい"
     ],
     "correctAnswer": 2,
-    "difficulty": 1
+    "difficulty": 2
   },
   {
     "id": 10,
@@ -131,12 +131,12 @@
     "id": 12,
     "question": "<b>～<ruby>人<rp>（</rp><rt>ひと</rt><rp>）</rp></ruby></b>",
     "options": [
-      "おでかけですか",
       "ふたつ",
       "～かい",
-      "～にん"
+      "～にん",
+      "～だい"
     ],
-    "correctAnswer": 3,
+    "correctAnswer": 2,
     "difficulty": 2
   },
   {
@@ -220,7 +220,7 @@
       "そちら",
       "どちら"
     ],
-    "correctAnswer": 2,
+    "correctAnswer": 1,
     "difficulty": 2
   },
   {
@@ -290,7 +290,7 @@
       "そちら",
       "どちら"
     ],
-    "correctAnswer": 2,
+    "correctAnswer": 1,
     "difficulty": 2
   },
   {
@@ -509,7 +509,7 @@
     "id": 44,
     "question": "<b>bưu thiếp (thư)</b>",
     "options": [
-      "おでかけですか",
+      "きって",
       "はがき",
       "ひとつ",
       "～じかん"
@@ -795,18 +795,6 @@
   },
   {
     "id": 68,
-    "question": "<b>A：だれですか。<p>B：（　）は　ひとりです。</p></b>",
-    "options": [
-      "あれ",
-      "これ",
-      "それ",
-      "どれ"
-    ],
-    "correctAnswer": 1,
-    "difficulty": 2
-  },
-  {
-    "id": 69,
     "question": "<b>きっぷ</b>",
     "options": [
       "tất cả là, tổng cộng là",
@@ -818,7 +806,7 @@
     "difficulty": 1
   },
   {
-    "id": 70,
+    "id": 69,
     "question": "<b><ruby>船便<rp>（</rp><rt>ふなびん</rt><rp>）</rp></ruby>で（　）ですか。…630<ruby>円<rp>（</rp><rt>えん</rt><rp>）</rp></ruby>です。</b>",
     "options": [
       "いくつ",
@@ -828,19 +816,19 @@
     "difficulty": 2
   },
   {
-    "id": 71,
+    "id": 70,
     "question": "<b>そくたつ</b>",
     "options": [
       "2 người",
-      "anh đi ra ngoài đấy à?",
       "chuyển phát nhanh",
-      "có (dùng cho người, động vật, chỉ sự sở hữu)"
+      "tem",
+      "~ năm"
     ],
-    "correctAnswer": 2,
+    "correctAnswer": 1,
     "difficulty": 1
   },
   {
-    "id": 72,
+    "id": 71,
     "question": "<b>A：これは　なんですか。<p>B：（　）は　ここのつです。</p></b>",
     "options": [
       "あれ",
@@ -852,7 +840,7 @@
     "difficulty": 2
   },
   {
-    "id": 73,
+    "id": 72,
     "question": "<b>きって</b>",
     "options": [
       "3 cái",
@@ -864,7 +852,7 @@
     "difficulty": 1
   },
   {
-    "id": 74,
+    "id": 73,
     "question": "<b>～だい</b>",
     "options": [
       "5 cái",
@@ -876,7 +864,7 @@
     "difficulty": 1
   },
   {
-    "id": 75,
+    "id": 74,
     "question": "<b>thư bảo đảm</b>",
     "options": [
       "いくつ",
@@ -888,7 +876,7 @@
     "difficulty": 1
   },
   {
-    "id": 76,
+    "id": 75,
     "question": "<b>Mất, tốn (thời gian, tiền bạc)</b>",
     "options": [
       "あげます",
@@ -900,7 +888,7 @@
     "difficulty": 1
   },
   {
-    "id": 77,
+    "id": 76,
     "question": "<b>6 cái</b>",
     "options": [
       "こどもがいます",
@@ -912,7 +900,7 @@
     "difficulty": 1
   },
   {
-    "id": 78,
+    "id": 77,
     "question": "<b>tem</b>",
     "options": [
       "きって",
@@ -924,7 +912,7 @@
     "difficulty": 1
   },
   {
-    "id": 79,
+    "id": 78,
     "question": "<b>ひとつ</b>",
     "options": [
       "1 cái (sử dụng để đếm vật nói chung)",
@@ -936,7 +924,7 @@
     "difficulty": 1
   },
   {
-    "id": 80,
+    "id": 79,
     "question": "<b>1 cái (sử dụng để đếm vật nói chung)</b>",
     "options": [
       "いっていらっしゃい",
@@ -948,7 +936,7 @@
     "difficulty": 1
   },
   {
-    "id": 81,
+    "id": 80,
     "question": "<b>6 cái</b>",
     "options": [
       "きょうだい",
@@ -960,7 +948,7 @@
     "difficulty": 1
   },
   {
-    "id": 82,
+    "id": 81,
     "question": "<b><ruby>切符<rp>（</rp><rt>きっぷ</rt><rp>）</rp></ruby></b>",
     "options": [
       "きっぷ",
@@ -972,31 +960,31 @@
     "difficulty": 2
   },
   {
-    "id": 83,
+    "id": 82,
     "question": "<b>いくつ</b>",
     "options": [
-      "anh đi rồi về nhé (dùng khi người ở nhà nói với người đi ra ngoài)",
       "bao nhiêu cái",
       "bố mẹ",
-      "chuyển phát nhanh"
+      "chuyển phát nhanh",
+      "～まい"
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 0,
+    "difficulty": 1
+  },
+  {
+    "id": 83,
+    "question": "<b>ぜんぶで</b>",
+    "options": [
+      "4 cái",
+      "có (dùng cho người, động vật, chỉ sự sở hữu)",
+      "tất cả là, tổng cộng là",
+      "～まい"
+    ],
+    "correctAnswer": 2,
     "difficulty": 1
   },
   {
     "id": 84,
-    "question": "<b>ぜんぶで</b>",
-    "options": [
-      "4 cái",
-      "anh đi rồi về nhé (dùng khi người ở nhà nói với người đi ra ngoài)",
-      "có (dùng cho người, động vật, chỉ sự sở hữu)",
-      "tất cả là, tổng cộng là"
-    ],
-    "correctAnswer": 3,
-    "difficulty": 1
-  },
-  {
-    "id": 85,
     "question": "<b><ruby>子供<rp>（</rp><rt>こども</rt><rp>）</rp></ruby>がいます</b>",
     "options": [
       "きょうだい",
@@ -1008,7 +996,7 @@
     "difficulty": 2
   },
   {
-    "id": 86,
+    "id": 85,
     "question": "<b>tôi đi rồi về (dùng khi người đi ra ngoài nói với người ở nhà)</b>",
     "options": [
       "いってまいります",
@@ -1020,7 +1008,7 @@
     "difficulty": 1
   },
   {
-    "id": 87,
+    "id": 86,
     "question": "<b>そくたつ</b>",
     "options": [
       "10 cái",
@@ -1032,7 +1020,7 @@
     "difficulty": 1
   },
   {
-    "id": 88,
+    "id": 87,
     "question": "<b>むっつ</b>",
     "options": [
       "2 người",
@@ -1044,7 +1032,7 @@
     "difficulty": 1
   },
   {
-    "id": 89,
+    "id": 88,
     "question": "<b><ruby>外国<rp>（</rp><rt>がいこく</rt><rp>）</rp></ruby></b>",
     "options": [
       "かいこく",
@@ -1056,7 +1044,7 @@
     "difficulty": 2
   },
   {
-    "id": 90,
+    "id": 89,
     "question": "<b>anh đi rồi về nhé (dùng khi người ở nhà nói với người đi ra ngoài)</b>",
     "options": [
       "いいおてんきですね",
@@ -1068,7 +1056,7 @@
     "difficulty": 1
   },
   {
-    "id": 91,
+    "id": 90,
     "question": "<b>こどもがいます</b>",
     "options": [
       "bưu thiếp (thư)",
@@ -1080,19 +1068,19 @@
     "difficulty": 1
   },
   {
-    "id": 92,
+    "id": 91,
     "question": "<b>いくつ</b>",
     "options": [
       "anh đi rồi về nhé (dùng khi người ở nhà nói với người đi ra ngoài)",
       "bao nhiêu cái",
       "nước ngoài",
-      "~ tờ, chiếc, cái (đơn vị dùng để đếm vật mỏng)"
+      "～まい"
     ],
     "correctAnswer": 1,
     "difficulty": 1
   },
   {
-    "id": 93,
+    "id": 92,
     "question": "<b>とお</b>",
     "options": [
       "10 cái",
@@ -1104,7 +1092,7 @@
     "difficulty": 1
   },
   {
-    "id": 94,
+    "id": 93,
     "question": "<b>7 cái</b>",
     "options": [
       "いちにち",
@@ -1116,7 +1104,7 @@
     "difficulty": 1
   },
   {
-    "id": 95,
+    "id": 94,
     "question": "<b>bưu thiếp (thư)</b>",
     "options": [
       "います",
@@ -1128,7 +1116,7 @@
     "difficulty": 1
   },
   {
-    "id": 96,
+    "id": 95,
     "question": "<b>～ぐらい</b>",
     "options": [
       "chuyển phát nhanh",
@@ -1140,7 +1128,7 @@
     "difficulty": 1
   },
   {
-    "id": 97,
+    "id": 96,
     "question": "<b>ななつ</b>",
     "options": [
       "7 cái",
@@ -1152,7 +1140,7 @@
     "difficulty": 1
   },
   {
-    "id": 98,
+    "id": 97,
     "question": "<b>vé</b>",
     "options": [
       "きっぷ",
@@ -1164,7 +1152,7 @@
     "difficulty": 1
   },
   {
-    "id": 99,
+    "id": 98,
     "question": "<b>ふなびん</b>",
     "options": [
       "1 cái (sử dụng để đếm vật nói chung)",
@@ -1176,7 +1164,7 @@
     "difficulty": 1
   },
   {
-    "id": 100,
+    "id": 99,
     "question": "<b>thư bảo đảm</b>",
     "options": [
       "かきとめ",
@@ -1188,7 +1176,7 @@
     "difficulty": 1
   },
   {
-    "id": 101,
+    "id": 100,
     "question": "<b>một ngày</b>",
     "options": [
       "いちにち",
@@ -1200,7 +1188,7 @@
     "difficulty": 1
   },
   {
-    "id": 102,
+    "id": 101,
     "question": "<b>8 cái</b>",
     "options": [
       "かきとめ",
@@ -1212,7 +1200,7 @@
     "difficulty": 1
   },
   {
-    "id": 103,
+    "id": 102,
     "question": "<b>かかります</b>",
     "options": [
       "anh chị em",
@@ -1224,7 +1212,7 @@
     "difficulty": 1
   },
   {
-    "id": 104,
+    "id": 103,
     "question": "<b>Nước ngoài</b>",
     "options": [
       "かいこく",
@@ -1236,7 +1224,7 @@
     "difficulty": 1
   },
   {
-    "id": 105,
+    "id": 104,
     "question": "<b>1 cái (sử dụng để đếm vật nói chung)</b>",
     "options": [
       "います",
@@ -1248,7 +1236,7 @@
     "difficulty": 1
   },
   {
-    "id": 106,
+    "id": 105,
     "question": "<b>A：これは　なんですか。<p>B：（　）は　かきとめです。</p></b>",
     "options": [
       "あれ",
@@ -1260,7 +1248,7 @@
     "difficulty": 2
   },
   {
-    "id": 107,
+    "id": 106,
     "question": "<b>thời tiết đẹp nhỉ!</b>",
     "options": [
       "いいおてんきですね",
@@ -1272,7 +1260,7 @@
     "difficulty": 1
   },
   {
-    "id": 108,
+    "id": 107,
     "question": "<b>ふうとう</b>",
     "options": [
       "封同",
@@ -1284,7 +1272,7 @@
     "difficulty": 1
   },
   {
-    "id": 109,
+    "id": 108,
     "question": "<b>いってまいります</b>",
     "options": [
       "mọi người, các bạn",
@@ -1296,7 +1284,7 @@
     "difficulty": 1
   },
   {
-    "id": 110,
+    "id": 109,
     "question": "<b>8 cái</b>",
     "options": [
       "いちにち",
@@ -1308,7 +1296,7 @@
     "difficulty": 1
   },
   {
-    "id": 111,
+    "id": 110,
     "question": "<b>bưu thiếp (thư)</b>",
     "options": [
       "ぜんぶで",
@@ -1320,7 +1308,7 @@
     "difficulty": 1
   },
   {
-    "id": 112,
+    "id": 111,
     "question": "<b><ruby>六<rp>（</rp><rt>ろく</rt><rp>）</rp></ruby>つ</b>",
     "options": [
       "かきとめ",
@@ -1332,7 +1320,7 @@
     "difficulty": 2
   },
   {
-    "id": 113,
+    "id": 112,
     "question": "<b><ruby>一<rp>（</rp><rt>いち</rt><rp>）</rp></ruby>つ</b>",
     "options": [
       "いくつ",
@@ -1344,7 +1332,7 @@
     "difficulty": 2
   },
   {
-    "id": 114,
+    "id": 113,
     "question": "<b><ruby>兄弟<rp>（</rp><rt>きょうだい</rt><rp>）</rp></ruby></b>",
     "options": [
       "きょうたい",
@@ -1356,7 +1344,7 @@
     "difficulty": 2
   },
   {
-    "id": 115,
+    "id": 114,
     "question": "<b>みっつ</b>",
     "options": [
       "3 cái",
@@ -1368,19 +1356,19 @@
     "difficulty": 1
   },
   {
-    "id": 116,
+    "id": 115,
     "question": "<b>ぜんぶで</b>",
     "options": [
       "chuyển phát nhanh",
       "một ngày",
       "tất cả là, tổng cộng là",
-      "~ tờ, chiếc, cái (đơn vị dùng để đếm vật mỏng)"
+      "～まい"
     ],
     "correctAnswer": 2,
     "difficulty": 1
   },
   {
-    "id": 117,
+    "id": 116,
     "question": "<b>A：いっていらっしゃいは　どちらですか。<p>B：（　）です。</p></b>",
     "options": [
       "あちら",
@@ -1392,7 +1380,7 @@
     "difficulty": 2
   },
   {
-    "id": 118,
+    "id": 117,
     "question": "<b>ひとり</b>",
     "options": [
       "1 người",
@@ -1404,7 +1392,7 @@
     "difficulty": 1
   },
   {
-    "id": 119,
+    "id": 118,
     "question": "<b>ひとつ</b>",
     "options": [
       "Ba cái",
@@ -1416,7 +1404,7 @@
     "difficulty": 1
   },
   {
-    "id": 120,
+    "id": 119,
     "question": "<b>ぜんぶで</b>",
     "options": [
       "全体で",
@@ -1428,8 +1416,8 @@
     "difficulty": 1
   },
   {
-    "id": 121,
-    "question": "<b><ruby>週<ruby>間<rp>（</rp><rt>あいだ</rt><rp>）</rp></ruby><rp>（</rp><rt>しゅうかん</rt><rp>）</rp></ruby></b>",
+    "id": 120,
+    "question": "<b><ruby>週間<rp>（</rp><rt>しゅうかん</rt><rp>）</rp></ruby></b>",
     "options": [
       "しゅうかん",
       "しゅうまつ",
@@ -1440,7 +1428,7 @@
     "difficulty": 2
   },
   {
-    "id": 122,
+    "id": 121,
     "question": "<b><ruby>五<rp>（</rp><rt>ご</rt><rp>）</rp></ruby>つ</b>",
     "options": [
       "いっていらっしゃい",
@@ -1452,7 +1440,7 @@
     "difficulty": 2
   },
   {
-    "id": 123,
+    "id": 122,
     "question": "<b><ruby>切手<rp>（</rp><rt>きって</rt><rp>）</rp></ruby></b>",
     "options": [
       "きって",
@@ -1464,7 +1452,7 @@
     "difficulty": 2
   },
   {
-    "id": 124,
+    "id": 123,
     "question": "<b>~ tiếng đồng hồ</b>",
     "options": [
       "きって",
@@ -1476,7 +1464,7 @@
     "difficulty": 1
   },
   {
-    "id": 125,
+    "id": 124,
     "question": "<b>みっつ</b>",
     "options": [
       "2 cái",
@@ -1488,7 +1476,7 @@
     "difficulty": 1
   },
   {
-    "id": 126,
+    "id": 125,
     "question": "<b><ruby>書留<rp>（</rp><rt>かきとめ</rt><rp>）</rp></ruby></b>",
     "options": [
       "かきとめ",

@@ -1,125 +1,5 @@
 [
   {
-    "id": 1,
-    "question": "<b>おなかがすきます</b>",
-    "options": [
-      "mệt mỏi",
-      "vào [phòng]",
-      "xem phố",
-      "đói bụng"
-    ],
-    "correctAnswer": 3,
-    "difficulty": 1
-  },
-  {
-    "id": 2,
-    "question": "<b>vào phòng</b>",
-    "options": [
-      "おくります",
-      "かいぎをします",
-      "へやにはいります",
-      "プール"
-    ],
-    "correctAnswer": 2,
-    "difficulty": 1
-  },
-  {
-    "id": 4,
-    "question": "<b>quà lưu niệm</b>",
-    "options": [
-      "おみやげ",
-      "かいものします",
-      "さんぽします",
-      "ラジカセ"
-    ],
-    "correctAnswer": 0,
-    "difficulty": 1
-  },
-  {
-    "id": 5,
-    "question": "<b>へやにはいります</b>",
-    "options": [
-      "buổi họp, hội nghị",
-      "khát nước",
-      "kiến tập ở nhà máy",
-      "vào phòng"
-    ],
-    "correctAnswer": 3,
-    "difficulty": 1
-  },
-  {
-    "id": 8,
-    "question": "<b>A：～ごろは　どちらですか。<p>B：（　）です。</p></b>",
-    "options": [
-      "あちら",
-      "こちら",
-      "そちら",
-      "どちら"
-    ],
-    "correctAnswer": 0,
-    "difficulty": 2
-  },
-  {
-    "id": 9,
-    "question": "<b>A：ロシアは　どこですか。<p>B：（　）です。</p></b>",
-    "options": [
-      "あそこ",
-      "ここ",
-      "そこ",
-      "どこ"
-    ],
-    "correctAnswer": 0,
-    "difficulty": 2
-  },
-  {
-    "id": 11,
-    "question": "<b>đói bụng</b>",
-    "options": [
-      "いいてんきですね",
-      "おなかがすきます",
-      "しゅうまつ",
-      "はいります"
-    ],
-    "correctAnswer": 1,
-    "difficulty": 1
-  },
-  {
-    "id": 12,
-    "question": "<b>vào [phòng]</b>",
-    "options": [
-      "つりをします",
-      "とうろく",
-      "はいります",
-      "びじゅつ"
-    ],
-    "correctAnswer": 2,
-    "difficulty": 1
-  },
-  {
-    "id": 13,
-    "question": "<b>おみやげ</b>",
-    "options": [
-      "khát nước",
-      "quà lưu niệm",
-      "tham quan, xem [phố]",
-      "ừ nhỉ (cách trả lời đồng ý đối với ý kiến của người ta)"
-    ],
-    "correctAnswer": 1,
-    "difficulty": 1
-  },
-  {
-    "id": 14,
-    "question": "<b>てがみをだします</b>",
-    "options": [
-      "gửi thư",
-      "mệt mỏi",
-      "xem phố",
-      "đi bộ trong công viên"
-    ],
-    "correctAnswer": 0,
-    "difficulty": 1
-  },
-  {
     "id": 16,
     "question": "<b>つりをします</b>",
     "options": [
@@ -129,62 +9,6 @@
       "no bụng"
     ],
     "correctAnswer": 1,
-    "difficulty": 1
-  },
-  {
-    "id": 17,
-    "question": "<b>おなかがいっぱいです</b>",
-    "options": [
-      "chơi, đi chơi",
-      "no bụng",
-      "ra khỏi, rời [phòng]",
-      "đi bộ [trong công viên]"
-    ],
-    "correctAnswer": 1,
-    "difficulty": 1
-  },
-  {
-    "id": 18,
-    "question": "<b><ruby>弟<rp>（</rp><rt>おとうと</rt><rp>）</rp></ruby>は（　）いません。<ruby>独身<rp>（</rp><rt>どくしん</rt><rp>）</rp></ruby>です。</b>",
-    "options": [
-      "結婚さして",
-      "結婚して"
-    ],
-    "correctAnswer": 1,
-    "difficulty": 2
-  },
-  {
-    "id": 20,
-    "question": "<b>しりょう</b>",
-    "options": [
-      "貨理",
-      "資料",
-      "資理",
-      "資科"
-    ],
-    "correctAnswer": 1,
-    "difficulty": 1
-  },
-  {
-    "id": 21,
-    "question": "<b>ここに<ruby>荷物<rp>（</rp><rt>にもつ</rt><rp>）</rp></ruby>を（　）ください。</b>",
-    "options": [
-      "おいて",
-      "おきて"
-    ],
-    "correctAnswer": 0,
-    "difficulty": 2
-  },
-  {
-    "id": 22,
-    "question": "<b>しゅくだいをだします</b>",
-    "options": [
-      "cuối tuần",
-      "câu cá",
-      "nộp bài tập về nhà",
-      "đi bộ trong công viên"
-    ],
-    "correctAnswer": 2,
     "difficulty": 1
   },
   {
@@ -200,18 +24,6 @@
     "difficulty": 2
   },
   {
-    "id": 25,
-    "question": "<b>kiến tập ở nhà máy</b>",
-    "options": [
-      "こうじょうをけんがくします",
-      "てがみをだします",
-      "とうろく",
-      "ステレオ"
-    ],
-    "correctAnswer": 0,
-    "difficulty": 1
-  },
-  {
     "id": 26,
     "question": "<b>さんぽします</b>",
     "options": [
@@ -221,64 +33,6 @@
       "đi bộ [trong công viên]"
     ],
     "correctAnswer": 3,
-    "difficulty": 1
-  },
-  {
-    "id": 27,
-    "question": "<b>けんがくします</b>",
-    "options": [
-      "bể bơi",
-      "lấy vợ, lấy chồng, cưới, lập gia đình",
-      "quà lưu niệm",
-      "tham quan, kiến tập [ở nhà máy]"
-    ],
-    "correctAnswer": 3,
-    "difficulty": 1
-  },
-  {
-    "id": 29,
-    "question": "<b>gửi [thư], nộp [báo cáo, bài tập…]</b>",
-    "options": [
-      "そうですね",
-      "だします",
-      "にもつをおくります",
-      "まちをけんぶつします"
-    ],
-    "correctAnswer": 1,
-    "difficulty": 1
-  },
-  {
-    "id": 31,
-    "question": "<b><ruby>机<rp>（</rp><rt>つくえ</rt><rp>）</rp></ruby>（１）<ruby>上<rp>（</rp><rt>うえ</rt><rp>）</rp></ruby>（２）<ruby>資料<rp>（</rp><rt>しりょう</rt><rp>）</rp></ruby>（３）<ruby>置<rp>（</rp><rt>お</rt><rp>）</rp></ruby>きました。</b><br/><b>(1)</b>",
-    "options": [
-      "で",
-      "の"
-    ],
-    "correctAnswer": 1,
-    "difficulty": 3
-  },
-  {
-    "id": 32,
-    "question": "<b>ừ nhỉ (cách trả lời đồng ý đối với ý kiến của người ta)</b>",
-    "options": [
-      "けんがくします",
-      "そうですね",
-      "つりをします",
-      "ラジカセ"
-    ],
-    "correctAnswer": 1,
-    "difficulty": 1
-  },
-  {
-    "id": 33,
-    "question": "<b>ごちゅうもんは</b>",
-    "options": [
-      "quý khách gọi món gì ạ?",
-      "tòa thị chính, ủy ban nhân dân",
-      "~ khoảng chừng (về thời gian)",
-      "đói bụng"
-    ],
-    "correctAnswer": 0,
     "difficulty": 1
   },
   {
@@ -294,66 +48,6 @@
     "difficulty": 1
   },
   {
-    "id": 36,
-    "question": "<b>rời khỏi phòng</b>",
-    "options": [
-      "いいてんきですね",
-      "こうえんをさんぽします",
-      "へやにはいります",
-      "へやをでます"
-    ],
-    "correctAnswer": 3,
-    "difficulty": 1
-  },
-  {
-    "id": 37,
-    "question": "<b>まちをけんぶつします</b>",
-    "options": [
-      "gửi hàng hóa",
-      "vào [phòng]",
-      "xem phố",
-      "ăn cơm"
-    ],
-    "correctAnswer": 2,
-    "difficulty": 1
-  },
-  {
-    "id": 39,
-    "question": "<b>いいてんきですね</b>",
-    "options": [
-      "mỹ thuật",
-      "trời đẹp quá nhỉ",
-      "vào [phòng]",
-      "~ khoảng chừng (về thời gian)"
-    ],
-    "correctAnswer": 1,
-    "difficulty": 1
-  },
-  {
-    "id": 40,
-    "question": "<b><ruby>町<rp>（</rp><rt>まち</rt><rp>）</rp></ruby>を<ruby>見物<rp>（</rp><rt>けんぶつ</rt><rp>）</rp></ruby>します</b>",
-    "options": [
-      "かいぎをします",
-      "ていしょく",
-      "どこか",
-      "まちをけんぶつします"
-    ],
-    "correctAnswer": 3,
-    "difficulty": 2
-  },
-  {
-    "id": 44,
-    "question": "<b>xin chờ một chút ạ</b>",
-    "options": [
-      "かいぎ",
-      "かいぎをします",
-      "こうえんをさんぽします",
-      "しょうしょうおまちください"
-    ],
-    "correctAnswer": 3,
-    "difficulty": 1
-  },
-  {
     "id": 45,
     "question": "<b>A：これは　なんですか。<p>B：（　）は　けいざいです。</p></b>",
     "options": [
@@ -364,18 +58,6 @@
     ],
     "correctAnswer": 1,
     "difficulty": 2
-  },
-  {
-    "id": 46,
-    "question": "<b>そうですね</b>",
-    "options": [
-      "cái gì đó",
-      "nộp bài tập về nhà",
-      "tham quan, xem [phố]",
-      "ừ nhỉ (cách trả lời đồng ý đối với ý kiến của người ta)"
-    ],
-    "correctAnswer": 3,
-    "difficulty": 1
   },
   {
     "id": 48,
@@ -390,18 +72,6 @@
     "difficulty": 2
   },
   {
-    "id": 49,
-    "question": "<b>ừ, làm thế đi (dùng khi nhất trí với người đề nghị làm cái gì đó)</b>",
-    "options": [
-      "かいぎをします",
-      "そうしましょう",
-      "どこか",
-      "プール"
-    ],
-    "correctAnswer": 1,
-    "difficulty": 1
-  },
-  {
     "id": 50,
     "question": "<b><ruby>美術<rp>（</rp><rt>びじゅつ</rt><rp>）</rp></ruby></b>",
     "options": [
@@ -414,18 +84,6 @@
     "difficulty": 2
   },
   {
-    "id": 51,
-    "question": "<b>しょうしょうおまちください</b>",
-    "options": [
-      "gửi [hàng, bưu kiện]",
-      "suất ăn cố định",
-      "trượt tuyết",
-      "xin chờ một chút ạ"
-    ],
-    "correctAnswer": 3,
-    "difficulty": 1
-  },
-  {
     "id": 53,
     "question": "<b>kinh tế</b>",
     "options": [
@@ -435,18 +93,6 @@
       "でます"
     ],
     "correctAnswer": 1,
-    "difficulty": 1
-  },
-  {
-    "id": 55,
-    "question": "<b>nước Nga</b>",
-    "options": [
-      "でます",
-      "とうろく",
-      "プール",
-      "ロシア"
-    ],
-    "correctAnswer": 3,
     "difficulty": 1
   },
   {
@@ -510,18 +156,6 @@
     "difficulty": 1
   },
   {
-    "id": 69,
-    "question": "<b>こうじょうをけんがくします</b>",
-    "options": [
-      "chơi, đi chơi",
-      "kinh tế",
-      "kiến tập ở nhà máy",
-      "đói bụng"
-    ],
-    "correctAnswer": 2,
-    "difficulty": 1
-  },
-  {
     "id": 73,
     "question": "<b>びじゅつ</b>",
     "options": [
@@ -532,18 +166,6 @@
     ],
     "correctAnswer": 0,
     "difficulty": 1
-  },
-  {
-    "id": 78,
-    "question": "<b>A：これは　なんですか。<p>B：（　）は　ていしょくです。</p></b>",
-    "options": [
-      "あれ",
-      "これ",
-      "それ",
-      "どれ"
-    ],
-    "correctAnswer": 1,
-    "difficulty": 2
   },
   {
     "id": 80,
@@ -594,30 +216,6 @@
     "difficulty": 2
   },
   {
-    "id": 85,
-    "question": "<b>そうしましょう</b>",
-    "options": [
-      "cái gì đó",
-      "tòa thị chính, ủy ban nhân dân",
-      "tổ chức hội nghị",
-      "ừ, làm thế đi (dùng khi nhất trí với người đề nghị làm cái gì đó)"
-    ],
-    "correctAnswer": 3,
-    "difficulty": 1
-  },
-  {
-    "id": 86,
-    "question": "<b>nộp bài tập về nhà</b>",
-    "options": [
-      "けんがくします",
-      "しゅくだいをだします",
-      "しょうしょうおまちください",
-      "はいります"
-    ],
-    "correctAnswer": 1,
-    "difficulty": 1
-  },
-  {
     "id": 87,
     "question": "<b>bơi lội</b>",
     "options": [
@@ -661,18 +259,6 @@
       "no bụng",
       "tòa thị chính, ủy ban nhân dân",
       "đổi, thay"
-    ],
-    "correctAnswer": 2,
-    "difficulty": 1
-  },
-  {
-    "id": 100,
-    "question": "<b>ロシア</b>",
-    "options": [
-      "bơi lội",
-      "mệt mỏi",
-      "nước Nga",
-      "trời đẹp quá nhỉ"
     ],
     "correctAnswer": 2,
     "difficulty": 1
@@ -726,16 +312,6 @@
     "difficulty": 1
   },
   {
-    "id": 118,
-    "question": "<b><ruby>机<rp>（</rp><rt>つくえ</rt><rp>）</rp></ruby>（１）<ruby>上<rp>（</rp><rt>うえ</rt><rp>）</rp></ruby>（２）<ruby>資料<rp>（</rp><rt>しりょう</rt><rp>）</rp></ruby>（３）<ruby>置<rp>（</rp><rt>お</rt><rp>）</rp></ruby>きました。</b><br/><b>(3)</b>",
-    "options": [
-      "で",
-      "を"
-    ],
-    "correctAnswer": 1,
-    "difficulty": 3
-  },
-  {
     "id": 119,
     "question": "<b>A：これは　なんですか。<p>B：（　）は　とうろくです。</p></b>",
     "options": [
@@ -748,42 +324,6 @@
     "difficulty": 2
   },
   {
-    "id": 121,
-    "question": "<b>のどがかわきます</b>",
-    "options": [
-      "gửi [thư], nộp [báo cáo, bài tập…]",
-      "khát nước",
-      "nộp bài tập về nhà",
-      "rời khỏi phòng"
-    ],
-    "correctAnswer": 1,
-    "difficulty": 1
-  },
-  {
-    "id": 122,
-    "question": "<b>món gyudon (món cơm trên là thịt bò nấu kèm với mấy lát gừng)</b>",
-    "options": [
-      "ぎゅうどん",
-      "しゅうまつ",
-      "しょくじします",
-      "つりをします"
-    ],
-    "correctAnswer": 0,
-    "difficulty": 1
-  },
-  {
-    "id": 127,
-    "question": "<b>ステレオ</b>",
-    "options": [
-      "giàn máy nghe nhạc",
-      "trời đẹp quá nhỉ",
-      "đăng ký",
-      "ừ nhỉ (cách trả lời đồng ý đối với ý kiến của người ta)"
-    ],
-    "correctAnswer": 0,
-    "difficulty": 1
-  },
-  {
     "id": 129,
     "question": "<b>スキー</b>",
     "options": [
@@ -793,18 +333,6 @@
       "đăng ký"
     ],
     "correctAnswer": 2,
-    "difficulty": 1
-  },
-  {
-    "id": 130,
-    "question": "<b>cái gì đó</b>",
-    "options": [
-      "おみやげ",
-      "なにか",
-      "のどがかわきます",
-      "～ごろ"
-    ],
-    "correctAnswer": 1,
     "difficulty": 1
   },
   {
@@ -832,42 +360,6 @@
     "difficulty": 1
   },
   {
-    "id": 134,
-    "question": "<b>gửi [hàng, bưu kiện]</b>",
-    "options": [
-      "おくります",
-      "おみやげ",
-      "ぎゅうどん",
-      "むかえます"
-    ],
-    "correctAnswer": 0,
-    "difficulty": 1
-  },
-  {
-    "id": 136,
-    "question": "<b>プール</b>",
-    "options": [
-      "bể bơi",
-      "trời đẹp quá nhỉ",
-      "việc trượt tuyết (danh từ)",
-      "xem phố"
-    ],
-    "correctAnswer": 0,
-    "difficulty": 1
-  },
-  {
-    "id": 138,
-    "question": "<b>~ khoảng chừng (về thời gian)</b>",
-    "options": [
-      "おくります",
-      "ごちゅうもんは",
-      "へやにはいります",
-      "～ごろ"
-    ],
-    "correctAnswer": 3,
-    "difficulty": 1
-  },
-  {
     "id": 141,
     "question": "<b>mỹ thuật</b>",
     "options": [
@@ -878,90 +370,6 @@
     ],
     "correctAnswer": 3,
     "difficulty": 1
-  },
-  {
-    "id": 142,
-    "question": "<b>だします</b>",
-    "options": [
-      "buổi họp, hội nghị",
-      "chơi, đi chơi",
-      "gửi [thư], nộp [báo cáo, bài tập…]",
-      "việc câu cá (danh từ)"
-    ],
-    "correctAnswer": 2,
-    "difficulty": 1
-  },
-  {
-    "id": 143,
-    "question": "<b><ruby>見学<rp>（</rp><rt>けんがく</rt><rp>）</rp></ruby>します</b>",
-    "options": [
-      "おなかがいっぱいです",
-      "けんがくします",
-      "しやくしょ",
-      "てがみをだします"
-    ],
-    "correctAnswer": 1,
-    "difficulty": 2
-  },
-  {
-    "id": 145,
-    "question": "<b>no bụng</b>",
-    "options": [
-      "おなかがいっぱいです",
-      "けんがくします",
-      "とうろくをします",
-      "スキーをします"
-    ],
-    "correctAnswer": 0,
-    "difficulty": 1
-  },
-  {
-    "id": 147,
-    "question": "<b>A：～ごろは　どこですか。<p>B：（　）です。</p></b>",
-    "options": [
-      "あそこ",
-      "ここ",
-      "そこ",
-      "どこ"
-    ],
-    "correctAnswer": 0,
-    "difficulty": 2
-  },
-  {
-    "id": 150,
-    "question": "<b>đổi, thay</b>",
-    "options": [
-      "おなかがいっぱいです",
-      "かえます",
-      "だします",
-      "はいります"
-    ],
-    "correctAnswer": 1,
-    "difficulty": 1
-  },
-  {
-    "id": 153,
-    "question": "<b>ぎゅうどん</b>",
-    "options": [
-      "món gyudon (món cơm trên là thịt bò nấu kèm với mấy lát gừng)",
-      "quý khách gọi món gì ạ?",
-      "tham quan, kiến tập [ở nhà máy]",
-      "~ khoảng chừng (về thời gian)"
-    ],
-    "correctAnswer": 0,
-    "difficulty": 1
-  },
-  {
-    "id": 155,
-    "question": "<b>A：これは　なんですか。<p>B：（　）は　しょうしょうおまちくださいです。</p></b>",
-    "options": [
-      "あれ",
-      "これ",
-      "それ",
-      "どれ"
-    ],
-    "correctAnswer": 1,
-    "difficulty": 2
   },
   {
     "id": 159,
@@ -988,54 +396,6 @@
     "difficulty": 1
   },
   {
-    "id": 165,
-    "question": "<b>A：ぎゅうどんは　どこですか。<p>B：（　）です。</p></b>",
-    "options": [
-      "あそこ",
-      "ここ",
-      "そこ",
-      "どこ"
-    ],
-    "correctAnswer": 0,
-    "difficulty": 2
-  },
-  {
-    "id": 166,
-    "question": "<b><ruby>出<rp>（</rp><rt>だ</rt><rp>）</rp></ruby>します</b>",
-    "options": [
-      "おなかがすきます",
-      "ぎゅうどん",
-      "だします",
-      "つり"
-    ],
-    "correctAnswer": 2,
-    "difficulty": 2
-  },
-  {
-    "id": 171,
-    "question": "<b><ruby>見物<rp>（</rp><rt>けんぶつ</rt><rp>）</rp></ruby>します</b>",
-    "options": [
-      "およぎます",
-      "けんぶつします",
-      "しやくしょ",
-      "スキー"
-    ],
-    "correctAnswer": 1,
-    "difficulty": 2
-  },
-  {
-    "id": 179,
-    "question": "<b>A：ラジカセは　どこですか。<p>B：（　）です。</p></b>",
-    "options": [
-      "あそこ",
-      "ここ",
-      "そこ",
-      "どこ"
-    ],
-    "correctAnswer": 1,
-    "difficulty": 2
-  },
-  {
     "id": 181,
     "question": "<b>A：かいぎは　どちらですか。<p>B：（　）です。</p></b>",
     "options": [
@@ -1057,18 +417,6 @@
       "つりをします"
     ],
     "correctAnswer": 0,
-    "difficulty": 1
-  },
-  {
-    "id": 183,
-    "question": "<b>かえます</b>",
-    "options": [
-      "kiến tập ở nhà máy",
-      "mỹ thuật",
-      "no bụng",
-      "đổi, thay"
-    ],
-    "correctAnswer": 3,
     "difficulty": 1
   },
   {

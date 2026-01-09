@@ -193,8 +193,8 @@
     "options": [
       "おんなのこ",
       "となり",
-      "パスポート",
-      "ポスト"
+      "ポスト",
+      "ビル"
     ],
     "correctAnswer": 1,
     "difficulty": 1
@@ -204,9 +204,9 @@
     "question": "<b>おとこのこ</b>",
     "options": [
       "bé trai, con trai (dùng cho trẻ con)",
-      "băng dính",
       "giá, kệ (bầy hàng)",
-      "hộp, cái hộp"
+      "hộp, cái hộp",
+      "công viên"
     ],
     "correctAnswer": 0,
     "difficulty": 1
@@ -230,21 +230,9 @@
       "bé gái, con gái (dùng cho trẻ con)",
       "bản đồ",
       "có (biểu thị sự tồn tại của người)",
-      "đại sứ quán"
+      "tủ lạnh"
     ],
     "correctAnswer": 2,
-    "difficulty": 1
-  },
-  {
-    "id": 21,
-    "question": "<b>Nhiều, đa dạng</b>",
-    "options": [
-      "いずれ",
-      "いずれか",
-      "いれいれ",
-      "いろいろ"
-    ],
-    "correctAnswer": 3,
     "difficulty": 1
   },
   {
@@ -298,9 +286,9 @@
     "question": "<b>もの</b>",
     "options": [
       "cái, đồ, vật, thứ…",
-      "hộ chiếu",
-      "phía sâu bên trong",
-      "tòa nhà cao tầng"
+      "tòa nhà cao tầng",
+      "công viên",
+      "hộp, cái hộp"
     ],
     "correctAnswer": 0,
     "difficulty": 1
@@ -312,7 +300,7 @@
       "あいだ",
       "うしろ",
       "なか",
-      "チリソース"
+      "そと"
     ],
     "correctAnswer": 1,
     "difficulty": 1
@@ -440,7 +428,7 @@
       "bàn (bàn tròn, bàn ăn)",
       "gần (ở vị trí gần)",
       "hộp, cái hộp",
-      "đại sứ quán"
+      "tủ lạnh"
     ],
     "correctAnswer": 1,
     "difficulty": 1
@@ -456,16 +444,6 @@
     ],
     "correctAnswer": 2,
     "difficulty": 1
-  },
-  {
-    "id": 40,
-    "question": "<b>A：テープは　どこですか。<p>B：した（　）２だんめです。</p></b>",
-    "options": [
-      "から",
-      "の"
-    ],
-    "correctAnswer": 1,
-    "difficulty": 2
   },
   {
     "id": 41,
@@ -727,10 +705,10 @@
     "options": [
       "người đàn ông, người con trai",
       "nơi lên xe (các phương tiện công cộng)",
-      "phía sâu bên trong",
-      "trong, bên trong"
+      "trong, bên trong",
+      "trạm dừng xe buýt"
     ],
-    "correctAnswer": 3,
+    "correctAnswer": 2,
     "difficulty": 1
   },
   {
@@ -891,10 +869,10 @@
     "options": [
       "người đàn ông, người con trai",
       "nơi lên xe (các phương tiện công cộng)",
-      "phía sâu bên trong",
-      "trạm dừng xe buýt"
+      "trạm dừng xe buýt",
+      "tỉnh"
     ],
-    "correctAnswer": 3,
+    "correctAnswer": 2,
     "difficulty": 1
   },
   {
@@ -915,8 +893,8 @@
     "options": [
       "ngoài, bên ngoài",
       "này, ~ / dạ thưa, ~ (biểu thị thái độ ngập ngừng, khi bắt đầu câu chuyện)",
-      "phía sâu bên trong",
-      "tỉnh"
+      "tỉnh",
+      "công viên"
     ],
     "correctAnswer": 0,
     "difficulty": 1
@@ -927,10 +905,10 @@
     "options": [
       "おとこのひと",
       "けん",
-      "パスポート",
-      "ポスト"
+      "ポスト",
+      "ビル"
     ],
-    "correctAnswer": 3,
+    "correctAnswer": 2,
     "difficulty": 1
   },
   {
@@ -975,8 +953,8 @@
     "options": [
       "こうえん",
       "した",
-      "パスポート",
-      "ポスト"
+      "ポスト",
+      "ビル"
     ],
     "correctAnswer": 0,
     "difficulty": 2
@@ -986,11 +964,11 @@
     "question": "<b>あいだ</b>",
     "options": [
       "có (biểu thị sự tồn tại của người)",
-      "hộ chiếu",
       "tỉnh",
-      "ở giữa"
+      "ở giữa",
+      "công viên"
     ],
-    "correctAnswer": 3,
+    "correctAnswer": 2,
     "difficulty": 1
   },
   {
@@ -1052,18 +1030,6 @@
     "difficulty": 2
   },
   {
-    "id": 92,
-    "question": "<b>băng dính</b>",
-    "options": [
-      "ちず",
-      "セロテープ",
-      "チリソース",
-      "テーブル"
-    ],
-    "correctAnswer": 1,
-    "difficulty": 1
-  },
-  {
     "id": 93,
     "question": "<b>～だんめ</b>",
     "options": [
@@ -1094,7 +1060,7 @@
       "bé trai, con trai (dùng cho trẻ con)",
       "pin, cục pin",
       "tỉnh Kanagawa",
-      "đại sứ quán"
+      "tủ lạnh"
     ],
     "correctAnswer": 0,
     "difficulty": 1
@@ -1117,8 +1083,8 @@
     "options": [
       "có (biểu thị sự tồn tại của người)",
       "hộp, cái hộp",
-      "phía sâu bên trong",
-      "sau, phía sau, đằng sau"
+      "sau, phía sau, đằng sau",
+      "trong, bên trong"
     ],
     "correctAnswer": 0,
     "difficulty": 1
@@ -1185,12 +1151,12 @@
     "id": 104,
     "question": "<b>うえ</b>",
     "options": [
-      "băng dính",
       "cái, đồ, vật, thứ…",
       "ngoài, bên ngoài",
-      "trên, bên trên"
+      "trên, bên trên",
+      "dưới, bên dưới"
     ],
-    "correctAnswer": 3,
+    "correctAnswer": 2,
     "difficulty": 1
   },
   {
@@ -1200,7 +1166,7 @@
       "おとこのこ",
       "たいしかん",
       "のりば",
-      "パスポート"
+      "ビル"
     ],
     "correctAnswer": 2,
     "difficulty": 2
@@ -1392,7 +1358,7 @@
       "あります",
       "けん",
       "そと",
-      "チリソース"
+      "ビル"
     ],
     "correctAnswer": 1,
     "difficulty": 1
@@ -1404,7 +1370,7 @@
       "gần (ở vị trí gần)",
       "hộp, cái hộp",
       "này, ~ / dạ thưa, ~ (biểu thị thái độ ngập ngừng, khi bắt đầu câu chuyện)",
-      "tương ớt"
+      "công viên"
     ],
     "correctAnswer": 1,
     "difficulty": 1
@@ -1444,18 +1410,6 @@
     "difficulty": 1
   },
   {
-    "id": 127,
-    "question": "<b>hộ chiếu</b>",
-    "options": [
-      "あいだ",
-      "なか",
-      "パスポート",
-      "～だんめ"
-    ],
-    "correctAnswer": 2,
-    "difficulty": 1
-  },
-  {
     "id": 129,
     "question": "<b>A：うえは　どちらですか。<p>B：（　）です。</p></b>",
     "options": [
@@ -1478,18 +1432,6 @@
     ],
     "correctAnswer": 2,
     "difficulty": 2
-  },
-  {
-    "id": 131,
-    "question": "<b>おく</b>",
-    "options": [
-      "bên cạnh (cạnh sát)",
-      "gần (ở vị trí gần)",
-      "phía sâu bên trong",
-      "ở giữa"
-    ],
-    "correctAnswer": 2,
-    "difficulty": 1
   },
   {
     "id": 132,
@@ -1560,18 +1502,6 @@
     "difficulty": 2
   },
   {
-    "id": 139,
-    "question": "<b>A：パスポートは　どちらですか。<p>B：（　）です。</p></b>",
-    "options": [
-      "あちら",
-      "こちら",
-      "そちら",
-      "どちら"
-    ],
-    "correctAnswer": 0,
-    "difficulty": 2
-  },
-  {
     "id": 140,
     "question": "<b>ở giữa</b>",
     "options": [
@@ -1594,18 +1524,6 @@
     ],
     "correctAnswer": 0,
     "difficulty": 2
-  },
-  {
-    "id": 142,
-    "question": "<b>セロテープ</b>",
-    "options": [
-      "bé trai, con trai (dùng cho trẻ con)",
-      "bên trái",
-      "băng dính",
-      "trước, phía trước"
-    ],
-    "correctAnswer": 2,
-    "difficulty": 1
   },
   {
     "id": 143,
@@ -1633,12 +1551,12 @@
     "id": 145,
     "question": "<b>ちず</b>",
     "options": [
-      "băng dính",
       "bản đồ",
       "cái giá hàng thứ nhất",
-      "hòm thư, hộp thư"
+      "hòm thư, hộp thư",
+      "công viên"
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 0,
     "difficulty": 1
   },
   {
@@ -1684,7 +1602,7 @@
       "bàn (bàn tròn, bàn ăn)",
       "cái giá hàng thứ nhất",
       "có (biểu thị sự tồn tại của vật)",
-      "phía sâu bên trong"
+      "công viên"
     ],
     "correctAnswer": 2,
     "difficulty": 1
@@ -1707,23 +1625,11 @@
     "options": [
       "います",
       "そと",
-      "パスポート",
-      "ポスト"
+      "ポスト",
+      "ビル"
     ],
     "correctAnswer": 1,
     "difficulty": 2
-  },
-  {
-    "id": 154,
-    "question": "<b>băng dính</b>",
-    "options": [
-      "でんち",
-      "まえ",
-      "セロテープ",
-      "ベッド"
-    ],
-    "correctAnswer": 2,
-    "difficulty": 1
   },
   {
     "id": 155,
@@ -1814,7 +1720,7 @@
       "いちだんめ",
       "おとこのひと",
       "でんち",
-      "セロテープ"
+      "ビル"
     ],
     "correctAnswer": 2,
     "difficulty": 1
@@ -1823,12 +1729,12 @@
     "id": 163,
     "question": "<b>bản đồ</b>",
     "options": [
-      "おく",
       "おとこのひと",
       "そと",
-      "ちず"
+      "ちず",
+      "ビル"
     ],
-    "correctAnswer": 3,
+    "correctAnswer": 2,
     "difficulty": 1
   },
   {
@@ -1859,10 +1765,10 @@
     "options": [
       "cái giá hàng thứ nhất",
       "gần (ở vị trí gần)",
-      "tương ớt",
-      "~ nhất (tính từ)"
+      "~ nhất (tính từ)",
+      "công viên"
     ],
-    "correctAnswer": 3,
+    "correctAnswer": 2,
     "difficulty": 1
   },
   {
@@ -1941,8 +1847,8 @@
     "options": [
       "あいだ",
       "でんち",
-      "セロテープ",
-      "ビル"
+      "ビル",
+      "こうえん"
     ],
     "correctAnswer": 0,
     "difficulty": 1
