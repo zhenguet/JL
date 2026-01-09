@@ -96,18 +96,6 @@
     "difficulty": 1
   },
   {
-    "id": 20,
-    "question": "<b>Bộ điều khiển từ xa</b>",
-    "options": [
-      "おわります",
-      "かわります",
-      "むこう",
-      "リモコン"
-    ],
-    "correctAnswer": 3,
-    "difficulty": 1
-  },
-  {
     "id": 21,
     "question": "<b>くわしい</b>",
     "options": [
@@ -142,18 +130,6 @@
     ],
     "correctAnswer": 2,
     "difficulty": 1
-  },
-  {
-    "id": 27,
-    "question": "<b>朱</b>",
-    "options": [
-      "しゅ",
-      "つきます",
-      "カタログ",
-      "リモコン"
-    ],
-    "correctAnswer": 0,
-    "difficulty": 2
   },
   {
     "id": 28,
@@ -208,7 +184,7 @@
     "question": "<b>しゅ</b>",
     "options": [
       "Bán chạy",
-      "Màu son",
+      "Màu đỏ son",
       "Niềm hân hoan, vui sướng",
       "Đi dã ngoại"
     ],
@@ -235,18 +211,6 @@
       "たのしみ",
       "なりませんか",
       "タイマー"
-    ],
-    "correctAnswer": 3,
-    "difficulty": 1
-  },
-  {
-    "id": 53,
-    "question": "<b>ハイキング</b>",
-    "options": [
-      "Hải ngoại",
-      "Thay đổi",
-      "Vùng lân cận",
-      "Đi dã ngoại"
     ],
     "correctAnswer": 3,
     "difficulty": 1
@@ -389,7 +353,7 @@
     "options": [
       "Bãi trượt tuyết",
       "Cái nắp",
-      "Dạ thưa có (nhiều loại)",
+      "Có (lịch sự)",
       "Đèn flash, đèn nháy"
     ],
     "correctAnswer": 2,
@@ -488,7 +452,7 @@
       "Rắc rối, khốn khó",
       "Đánh nhau"
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 2,
     "difficulty": 1
   },
   {
@@ -525,18 +489,6 @@
       "Phía bên kia"
     ],
     "correctAnswer": 1,
-    "difficulty": 1
-  },
-  {
-    "id": 130,
-    "question": "<b>フラッシュ</b>",
-    "options": [
-      "Kiểu mẫu",
-      "Lá cây",
-      "Phía bên kia",
-      "Đèn flash, đèn nháy"
-    ],
-    "correctAnswer": 3,
     "difficulty": 1
   },
   {
@@ -601,7 +553,7 @@
   },
   {
     "id": 147,
-    "question": "<b>Dạ thưa có (nhiều loại)</b>",
+    "question": "<b>Có (lịch sự)</b>",
     "options": [
       "ございます",
       "そうさ",
@@ -621,18 +573,6 @@
       "スキーじょう"
     ],
     "correctAnswer": 3,
-    "difficulty": 1
-  },
-  {
-    "id": 154,
-    "question": "<b>スキーじょう</b>",
-    "options": [
-      "Bãi trượt tuyết",
-      "Bộ điều khiển từ xa",
-      "Hải ngoại",
-      "Kết thúc ở đây"
-    ],
-    "correctAnswer": 0,
     "difficulty": 1
   },
   {

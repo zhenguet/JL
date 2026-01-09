@@ -61,12 +61,12 @@
   },
   {
     "id": 12,
-    "question": "<b>明<ruby>日<rp>（</rp><rt>ひ</rt><rp>）</rp></ruby></b>",
+    "question": "<b>明<ruby>日<rp>（</rp><rt>あす</rt><rp>）</rp></ruby></b>",
     "options": [
       "あす",
-      "けいさつ",
-      "にげます",
-      "むりょう"
+      "きのう",
+      "きょう",
+      "あした"
     ],
     "correctAnswer": 0,
     "difficulty": 2
@@ -156,18 +156,6 @@
     "difficulty": 1
   },
   {
-    "id": 29,
-    "question": "<b>下げます</b>",
-    "options": [
-      "あんぜんぐつ",
-      "さげます",
-      "たちいりきんし",
-      "ファックス"
-    ],
-    "correctAnswer": 1,
-    "difficulty": 2
-  },
-  {
     "id": 38,
     "question": "<b>レバー</b>",
     "options": [
@@ -178,18 +166,6 @@
     ],
     "correctAnswer": 3,
     "difficulty": 1
-  },
-  {
-    "id": 43,
-    "question": "<b>打ちます</b>",
-    "options": [
-      "うちます",
-      "きがえます",
-      "きとく",
-      "たしかめます"
-    ],
-    "correctAnswer": 0,
-    "difficulty": 2
   },
   {
     "id": 45,
@@ -252,18 +228,6 @@
     "difficulty": 1
   },
   {
-    "id": 59,
-    "question": "<b>きそく</b>",
-    "options": [
-      "Chú ý, coi chừng",
-      "Ngày mai",
-      "Quy tắc, nội quy",
-      "~ là gì, là như thế nào"
-    ],
-    "correctAnswer": 2,
-    "difficulty": 1
-  },
-  {
     "id": 60,
     "question": "<b>Đòn bẩy</b>",
     "options": [
@@ -296,32 +260,20 @@
       "Làm ồn",
       "Tủ sắt nhỏ"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "difficulty": 1
   },
   {
     "id": 66,
     "question": "<b>電報</b>",
     "options": [
-      "かなしみ",
-      "きゅうよう",
+      "でんわ",
+      "でんしゃ",
       "でんぽう",
-      "るすばん"
+      "でんき"
     ],
     "correctAnswer": 2,
     "difficulty": 2
-  },
-  {
-    "id": 68,
-    "question": "<b>Máy Fax</b>",
-    "options": [
-      "あげます",
-      "あんぜんぐつ",
-      "むりょう",
-      "ファックス"
-    ],
-    "correctAnswer": 3,
-    "difficulty": 1
   },
   {
     "id": 69,
@@ -333,18 +285,6 @@
       "トラック"
     ],
     "correctAnswer": 1,
-    "difficulty": 1
-  },
-  {
-    "id": 73,
-    "question": "<b>Tủ sắt nhỏ</b>",
-    "options": [
-      "きとく",
-      "りよう",
-      "レバー",
-      "ロッカー"
-    ],
-    "correctAnswer": 3,
     "difficulty": 1
   },
   {
@@ -396,27 +336,15 @@
     "difficulty": 1
   },
   {
-    "id": 90,
-    "question": "<b><ruby>無料<rp>（</rp><rt>むりょう</rt><rp>）</rp></ruby></b>",
-    "options": [
-      "かなしみ",
-      "せき",
-      "ほんしゃ",
-      "むりょう"
-    ],
-    "correctAnswer": 3,
-    "difficulty": 2
-  },
-  {
     "id": 91,
     "question": "<b>Máy~</b>",
     "options": [
-      "かなしみ",
-      "はしります",
-      "マーク",
-      "～き"
+      "～き",
+      "～じ",
+      "～し",
+      "～ち"
     ],
-    "correctAnswer": 3,
+    "correctAnswer": 0,
     "difficulty": 1
   },
   {
@@ -444,18 +372,6 @@
     "difficulty": 1
   },
   {
-    "id": 101,
-    "question": "<b>Cầu trục, cần cẩu</b>",
-    "options": [
-      "あんぜん",
-      "ちゅうい",
-      "クレーン",
-      "ランプ"
-    ],
-    "correctAnswer": 2,
-    "difficulty": 1
-  },
-  {
     "id": 102,
     "question": "<b>Đánh, gõ</b>",
     "options": [
@@ -475,18 +391,6 @@
       "Truyền đạt",
       "Xe tải",
       "Đánh, gõ"
-    ],
-    "correctAnswer": 0,
-    "difficulty": 1
-  },
-  {
-    "id": 108,
-    "question": "<b>Chán nản, từ bỏ</b>",
-    "options": [
-      "あきらめます",
-      "たしかめます",
-      "どういう～",
-      "まもります"
     ],
     "correctAnswer": 0,
     "difficulty": 1
@@ -564,18 +468,6 @@
     "difficulty": 1
   },
   {
-    "id": 138,
-    "question": "<b>Miễn phí</b>",
-    "options": [
-      "はしります",
-      "むりょう",
-      "ランプ",
-      "ロッカー"
-    ],
-    "correctAnswer": 1,
-    "difficulty": 1
-  },
-  {
     "id": 143,
     "question": "<b>あんぜん</b>",
     "options": [
@@ -615,12 +507,12 @@
     "id": 159,
     "question": "<b>Xe tải</b>",
     "options": [
-      "かなしみ",
-      "せんたくき",
-      "ちゅうしゃいはん",
-      "トラック"
+      "トラック",
+      "バス",
+      "タクシー",
+      "バイク"
     ],
-    "correctAnswer": 3,
+    "correctAnswer": 0,
     "difficulty": 1
   },
   {
@@ -633,18 +525,6 @@
       "Trong vòng ~"
     ],
     "correctAnswer": 2,
-    "difficulty": 1
-  },
-  {
-    "id": 161,
-    "question": "<b>うちます</b>",
-    "options": [
-      "Dấu hiệu, biển hiệu",
-      "Xác nhận",
-      "~ là gì, là như thế nào",
-      "Đánh, gõ"
-    ],
-    "correctAnswer": 3,
     "difficulty": 1
   },
   {
@@ -684,27 +564,15 @@
     "difficulty": 1
   },
   {
-    "id": 172,
-    "question": "<b>Máy giặt</b>",
-    "options": [
-      "あきらめます",
-      "さわぎます",
-      "せんたくき",
-      "ロッカー"
-    ],
-    "correctAnswer": 2,
-    "difficulty": 1
-  },
-  {
     "id": 177,
     "question": "<b>Vắng nhà</b>",
     "options": [
-      "かなしみ",
-      "きけん",
       "るす",
-      "ロッカー"
+      "いえ",
+      "うち",
+      "みせ"
     ],
-    "correctAnswer": 2,
+    "correctAnswer": 0,
     "difficulty": 1
   }
 ]

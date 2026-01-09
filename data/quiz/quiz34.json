@@ -40,7 +40,7 @@
     "question": "<b>Chấm</b>",
     "options": [
       "ざいりょう",
-      "つきます",
+      "てん",
       "にえます",
       "もんだい"
     ],
@@ -342,7 +342,7 @@
       "説明した",
       "説明する"
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 0,
     "difficulty": 1
   },
   {
@@ -853,7 +853,7 @@
     "id": 175,
     "question": "<b>なべ</b>",
     "options": [
-      "Cái chảo",
+      "Cái nồi",
       "Cái ghế",
       "Cái muỗng",
       "Cái vá"
