@@ -1,6 +1,6 @@
 [
   {
-    "id": 7,
+    "id": 1,
     "question": "<b>không ổn, phiền, khó khăn</b>",
     "options": [
       "こまります",
@@ -12,7 +12,7 @@
     "difficulty": 1
   },
   {
-    "id": 15,
+    "id": 2,
     "question": "<b>サイズ</b>",
     "options": [
       "Cỡ",
@@ -24,7 +24,7 @@
     "difficulty": 1
   },
   {
-    "id": 16,
+    "id": 3,
     "question": "<b>ききます</b>",
     "options": [
       "góc, góc đường",
@@ -36,7 +36,7 @@
     "difficulty": 1
   },
   {
-    "id": 19,
+    "id": 4,
     "question": "<b>まわします</b>",
     "options": [
       "chuyển đi, chuyển nhà",
@@ -48,7 +48,7 @@
     "difficulty": 1
   },
   {
-    "id": 38,
+    "id": 5,
     "question": "<b>しょうがつ</b>",
     "options": [
       "Ngày giao thừa",
@@ -60,7 +60,7 @@
     "difficulty": 1
   },
   {
-    "id": 48,
+    "id": 6,
     "question": "<b>うごきます</b>",
     "options": [
       "[máy] hoạt động / chạy",
@@ -72,7 +72,7 @@
     "difficulty": 1
   },
   {
-    "id": 57,
+    "id": 7,
     "question": "<b><ruby>曲<rp>（</rp><rt>まが</rt><rp>）</rp></ruby>がります</b>",
     "options": [
       "きっぷがでます",
@@ -84,7 +84,7 @@
     "difficulty": 2
   },
   {
-    "id": 62,
+    "id": 8,
     "question": "<b>まがります</b>",
     "options": [
       "gắng sức, cố gắng",
@@ -96,7 +96,7 @@
     "difficulty": 1
   },
   {
-    "id": 70,
+    "id": 9,
     "question": "<b>きっぷがでます</b>",
     "options": [
       "gắng sức, cố gắng",
@@ -108,7 +108,7 @@
     "difficulty": 1
   },
   {
-    "id": 74,
+    "id": 10,
     "question": "<b>ひきます</b>",
     "options": [
       "[máy] chạy, vận hành",
@@ -120,7 +120,7 @@
     "difficulty": 1
   },
   {
-    "id": 78,
+    "id": 11,
     "question": "<b>ちょうせつ（します、する、して）</b>",
     "options": [
       "góc, góc đường",
@@ -132,7 +132,7 @@
     "difficulty": 1
   },
   {
-    "id": 87,
+    "id": 12,
     "question": "<b>ボタン</b>",
     "options": [
       "nút, cúc, khuy",
@@ -144,7 +144,7 @@
     "difficulty": 1
   },
   {
-    "id": 90,
+    "id": 13,
     "question": "<b>こしょう（します、する、して）</b>",
     "options": [
       "[máy] ngừng, dừng lại",
@@ -156,7 +156,7 @@
     "difficulty": 1
   },
   {
-    "id": 91,
+    "id": 14,
     "question": "<b>でます</b>",
     "options": [
       "chạy, vận hành",
@@ -168,7 +168,7 @@
     "difficulty": 1
   },
   {
-    "id": 101,
+    "id": 15,
     "question": "<b>～め</b>",
     "options": [
       "thứ ~ (thứ tự)",
@@ -180,7 +180,7 @@
     "difficulty": 1
   },
   {
-    "id": 102,
+    "id": 16,
     "question": "<b>がんばります</b>",
     "options": [
       "cầu",
@@ -192,7 +192,7 @@
     "difficulty": 1
   },
   {
-    "id": 103,
+    "id": 17,
     "question": "<b>こまったな</b>",
     "options": [
       "Chết rồi, gay thật!",
@@ -204,7 +204,7 @@
     "difficulty": 1
   },
   {
-    "id": 107,
+    "id": 18,
     "question": "<b>こうさてん</b>",
     "options": [
       "交差店",
@@ -216,7 +216,7 @@
     "difficulty": 1
   },
   {
-    "id": 108,
+    "id": 19,
     "question": "<b><ruby>交差点<rp>（</rp><rt>こうさてん</rt><rp>）</rp></ruby></b>",
     "options": [
       "うごきます",
@@ -228,7 +228,7 @@
     "difficulty": 2
   },
   {
-    "id": 115,
+    "id": 20,
     "question": "<b><ruby>回<rp>（</rp><rt>まわ</rt><rp>）</rp></ruby>します</b>",
     "options": [
       "こわします",
@@ -240,7 +240,7 @@
     "difficulty": 2
   },
   {
-    "id": 119,
+    "id": 21,
     "question": "<b>こしょう</b>",
     "options": [
       "事境",
@@ -252,7 +252,7 @@
     "difficulty": 1
   },
   {
-    "id": 123,
+    "id": 22,
     "question": "<b>～<ruby>目<rp>（</rp><rt>め</rt><rp>）</rp></ruby></b>",
     "options": [
       "がんばります",
@@ -264,7 +264,7 @@
     "difficulty": 2
   },
   {
-    "id": 138,
+    "id": 23,
     "question": "<b><ruby>止<rp>（</rp><rt>と</rt><rp>）</rp></ruby>まります</b>",
     "options": [
       "こうさてん",
@@ -276,7 +276,7 @@
     "difficulty": 2
   },
   {
-    "id": 152,
+    "id": 24,
     "question": "<b>はし</b>",
     "options": [
       "橋",
