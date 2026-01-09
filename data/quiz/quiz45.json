@@ -60,18 +60,6 @@
     "difficulty": 1
   },
   {
-    "id": 8,
-    "question": "<b>信じます</b>",
-    "options": [
-      "あんじます",
-      "かんじます",
-      "きんじます",
-      "しんじます"
-    ],
-    "correctAnswer": 3,
-    "difficulty": 2
-  },
-  {
     "id": 9,
     "question": "<b><ruby>予約<rp>（</rp><rt>よやく</rt><rp>）</rp></ruby>を（　）<ruby>場合<rp>（</rp><rt>ばあい</rt><rp>）</rp></ruby>は、できるだけ<ruby>早<rp>（</rp><rt>はや</rt><rp>）</rp></ruby>く<ruby>連絡<rp>（</rp><rt>れんらく</rt><rp>）</rp></してください。</b>",
     "options": [
@@ -164,18 +152,6 @@
     ],
     "correctAnswer": 1,
     "difficulty": 2
-  },
-  {
-    "id": 19,
-    "question": "<b>かかりいん</b>",
-    "options": [
-      "係員",
-      "糸員",
-      "系員",
-      "茉員"
-    ],
-    "correctAnswer": 0,
-    "difficulty": 1
   },
   {
     "id": 20,
@@ -452,18 +428,6 @@
     "difficulty": 2
   },
   {
-    "id": 47,
-    "question": "<b>かいとう</b>",
-    "options": [
-      "回章",
-      "回答",
-      "章回",
-      "答回"
-    ],
-    "correctAnswer": 1,
-    "difficulty": 1
-  },
-  {
     "id": 48,
     "question": "<b>Đồng hồ báo thức</b>",
     "options": [
@@ -522,18 +486,6 @@
     ],
     "correctAnswer": 1,
     "difficulty": 2
-  },
-  {
-    "id": 53,
-    "question": "<b>スタート</b>",
-    "options": [
-      "Quầy tính tiền",
-      "Xuất phát",
-      "Đích",
-      "Đường chạy"
-    ],
-    "correctAnswer": 1,
-    "difficulty": 1
   },
   {
     "id": 54,

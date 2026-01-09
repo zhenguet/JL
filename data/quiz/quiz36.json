@@ -1,18 +1,6 @@
 [
   {
     "id": 1,
-    "question": "<b>A：これは　なんですか。<p>B：（　）は　はこびます。</p></b>",
-    "options": [
-      "あれ",
-      "これ",
-      "それ",
-      "どれ"
-    ],
-    "correctAnswer": 1,
-    "difficulty": 2
-  },
-  {
-    "id": 2,
     "question": "<b>発表します</b>",
     "options": [
       "けんどう",
@@ -24,7 +12,7 @@
     "difficulty": 2
   },
   {
-    "id": 3,
+    "id": 2,
     "question": "<b>ちょきんします</b>",
     "options": [
       "Béo",
@@ -36,7 +24,7 @@
     "difficulty": 1
   },
   {
-    "id": 4,
+    "id": 3,
     "question": "<b>Câu chuyện</b>",
     "options": [
       "けいたい～",
@@ -48,7 +36,7 @@
     "difficulty": 1
   },
   {
-    "id": 5,
+    "id": 4,
     "question": "<b>Rơi xuống</b>",
     "options": [
       "おちます",
@@ -60,7 +48,7 @@
     "difficulty": 1
   },
   {
-    "id": 6,
+    "id": 5,
     "question": "<b>けんどう</b>",
     "options": [
       "Béo",
@@ -72,7 +60,7 @@
     "difficulty": 1
   },
   {
-    "id": 7,
+    "id": 6,
     "question": "<b>やせます</b>",
     "options": [
       "Gầy",
@@ -84,19 +72,7 @@
     "difficulty": 1
   },
   {
-    "id": 8,
-    "question": "<b>A：パイプは　どちらですか。<p>B：（　）です。</p></b>",
-    "options": [
-      "あちら",
-      "こちら",
-      "そちら",
-      "どちら"
-    ],
-    "correctAnswer": 0,
-    "difficulty": 2
-  },
-  {
-    "id": 9,
+    "id": 7,
     "question": "<b>はなし</b>",
     "options": [
       "Câu chuyện",
@@ -108,7 +84,7 @@
     "difficulty": 1
   },
   {
-    "id": 10,
+    "id": 8,
     "question": "<b>過ぎます</b>",
     "options": [
       "おきゃくさま",
@@ -120,7 +96,7 @@
     "difficulty": 2
   },
   {
-    "id": 11,
+    "id": 9,
     "question": "<b>ちきゅう</b>",
     "options": [
       "Bao phủ, che kín lại",
@@ -132,31 +108,7 @@
     "difficulty": 1
   },
   {
-    "id": 12,
-    "question": "<b>ちきゅう</b>",
-    "options": [
-      "Bay",
-      "Thời gian gần đây, dạo này",
-      "Tiết kiệm",
-      "Trái đất"
-    ],
-    "correctAnswer": 3,
-    "difficulty": 1
-  },
-  {
-    "id": 13,
-    "question": "<b>A：ひづけは　どちらですか。<p>B：（　）です。</p></b>",
-    "options": [
-      "あちら",
-      "こちら",
-      "そちら",
-      "どちら"
-    ],
-    "correctAnswer": 2,
-    "difficulty": 2
-  },
-  {
-    "id": 14,
+    "id": 10,
     "question": "<b>はこびます</b>",
     "options": [
       "Nhờ trời",
@@ -168,7 +120,7 @@
     "difficulty": 1
   },
   {
-    "id": 15,
+    "id": 11,
     "question": "<b>Quen</b>",
     "options": [
       "すぎます",
@@ -180,7 +132,7 @@
     "difficulty": 1
   },
   {
-    "id": 16,
+    "id": 12,
     "question": "<b>A：これは　なんですか。<p>B：（　）は　ひづけです。</p></b>",
     "options": [
       "あれ",
@@ -192,7 +144,7 @@
     "difficulty": 2
   },
   {
-    "id": 17,
+    "id": 13,
     "question": "<b>きもち</b>",
     "options": [
       "Bao phủ, che kín lại",
@@ -204,19 +156,7 @@
     "difficulty": 1
   },
   {
-    "id": 18,
-    "question": "<b>毎週</b>",
-    "options": [
-      "まいしゅう",
-      "まいつき",
-      "まいとし",
-      "まいねん"
-    ],
-    "correctAnswer": 0,
-    "difficulty": 2
-  },
-  {
-    "id": 19,
+    "id": 14,
     "question": "<b>お<ruby>茶<rp>（</rp><rt>ちゃ</rt><rp>）</rp></ruby>を<ruby>飲<rp>（</rp><rt>の</rt><rp>）</rp></ruby>みたいとき、いつでも（　）ように、お<ruby>湯<rp>（</rp><rt>ゆ</rt><rp>）</rp></ruby>が<ruby>置<rp>（</rp><rt>お</rt><rp>）</rp></ruby>いてあります。</b>",
     "options": [
       "飲まれる",
@@ -226,7 +166,7 @@
     "difficulty": 3
   },
   {
-    "id": 20,
+    "id": 15,
     "question": "<b>Cái tẩu, ống dẫn ~</b>",
     "options": [
       "うちゅう",
@@ -238,17 +178,7 @@
     "difficulty": 1
   },
   {
-    "id": 21,
-    "question": "<b>（１）<ruby>夜<rp>（</rp><rt>よる</rt><rp>）</rp></ruby><ruby>遅<rp>（</rp><rt>おそ</rt><rp>）</rp></ruby>く<ruby>電<ruby>話<rp>（</rp><rt>はなし</rt><rp>）</rp></ruby><rp>（</rp><rt>でんわ</rt><rp>）</rp></ruby>を（２）ようにしてください。</b><br/><b>(2)</b>",
-    "options": [
-      "かかない",
-      "かけない"
-    ],
-    "correctAnswer": 1,
-    "difficulty": 3
-  },
-  {
-    "id": 22,
+    "id": 16,
     "question": "<b>Bay</b>",
     "options": [
       "こと",
@@ -260,7 +190,7 @@
     "difficulty": 1
   },
   {
-    "id": 23,
+    "id": 17,
     "question": "<b>Cái tẩu, ống dẫn ~</b>",
     "options": [
       "すぎます",
@@ -272,7 +202,7 @@
     "difficulty": 1
   },
   {
-    "id": 24,
+    "id": 18,
     "question": "<b>A：これは　なんですか。<p>B：（　）は　はなしです。</p></b>",
     "options": [
       "あれ",
@@ -284,7 +214,7 @@
     "difficulty": 2
   },
   {
-    "id": 25,
+    "id": 19,
     "question": "<b>Phát biểu; công bố</b>",
     "options": [
       "かんそう",
@@ -296,31 +226,7 @@
     "difficulty": 1
   },
   {
-    "id": 26,
-    "question": "<b>A：けんこうは　どこですか。<p>B：（　）です。</p></b>",
-    "options": [
-      "あそこ",
-      "ここ",
-      "そこ",
-      "どこ"
-    ],
-    "correctAnswer": 1,
-    "difficulty": 2
-  },
-  {
-    "id": 27,
-    "question": "<b>A：そのほうが～は　どこですか。<p>B：（　）です。</p></b>",
-    "options": [
-      "あそこ",
-      "ここ",
-      "そこ",
-      "どこ"
-    ],
-    "correctAnswer": 1,
-    "difficulty": 2
-  },
-  {
-    "id": 28,
+    "id": 20,
     "question": "<b>Bao phủ, che kín lại</b>",
     "options": [
       "おきゃくさま",
@@ -332,7 +238,7 @@
     "difficulty": 1
   },
   {
-    "id": 29,
+    "id": 21,
     "question": "<b>Tàu hỏa</b>",
     "options": [
       "きしゃ",
@@ -344,7 +250,7 @@
     "difficulty": 1
   },
   {
-    "id": 30,
+    "id": 22,
     "question": "<b><ruby>漢字<rp>（</rp><rt>かんじ</rt><rp>）</rp></ruby>が<ruby>書<rp>（</rp><rt>か</rt><rp>）</rp></ruby>けるようになりましたか。<p>…いいえ、まだ（　）。</p></b>",
     "options": [
       "かきません",
@@ -354,7 +260,7 @@
     "difficulty": 2
   },
   {
-    "id": 31,
+    "id": 23,
     "question": "<b>なれます</b>",
     "options": [
       "Bay",
@@ -366,7 +272,7 @@
     "difficulty": 1
   },
   {
-    "id": 32,
+    "id": 24,
     "question": "<b>せいかつ</b>",
     "options": [
       "Kiếm đạo",
@@ -378,7 +284,7 @@
     "difficulty": 1
   },
   {
-    "id": 33,
+    "id": 25,
     "question": "<b>けんこう</b>",
     "options": [
       "Mang theo, xách theo",
@@ -390,43 +296,7 @@
     "difficulty": 1
   },
   {
-    "id": 34,
-    "question": "<b>A：けいたい～は　どこですか。<p>B：（　）です。</p></b>",
-    "options": [
-      "あそこ",
-      "ここ",
-      "そこ",
-      "どこ"
-    ],
-    "correctAnswer": 2,
-    "difficulty": 2
-  },
-  {
-    "id": 35,
-    "question": "<b>A：はなしは　どこですか。<p>B：（　）です。</p></b>",
-    "options": [
-      "あそこ",
-      "ここ",
-      "そこ",
-      "どこ"
-    ],
-    "correctAnswer": 1,
-    "difficulty": 2
-  },
-  {
-    "id": 36,
-    "question": "<b>A：そうそうは　どこですか。<p>B：（　）です。</p></b>",
-    "options": [
-      "あそこ",
-      "ここ",
-      "そこ",
-      "どこ"
-    ],
-    "correctAnswer": 1,
-    "difficulty": 2
-  },
-  {
-    "id": 37,
+    "id": 26,
     "question": "<b>貯<ruby>金<rp>（</rp><rt>きん</rt><rp>）</rp></ruby>します</b>",
     "options": [
       "こと",
@@ -438,19 +308,7 @@
     "difficulty": 2
   },
   {
-    "id": 38,
-    "question": "<b>A：すぎますは　どちらですか。<p>B：（　）です。</p></b>",
-    "options": [
-      "あちら",
-      "こちら",
-      "そちら",
-      "どちら"
-    ],
-    "correctAnswer": 1,
-    "difficulty": 2
-  },
-  {
-    "id": 39,
+    "id": 27,
     "question": "<b>Thử thách</b>",
     "options": [
       "チャレンジ",
@@ -462,31 +320,7 @@
     "difficulty": 1
   },
   {
-    "id": 40,
-    "question": "<b>A：ふとりますは　どこですか。<p>B：（　）です。</p></b>",
-    "options": [
-      "あそこ",
-      "ここ",
-      "そこ",
-      "どこ"
-    ],
-    "correctAnswer": 0,
-    "difficulty": 2
-  },
-  {
-    "id": 41,
-    "question": "<b>A：チャレンジしますは　どちらですか。<p>B：（　）です。</p></b>",
-    "options": [
-      "あちら",
-      "こちら",
-      "そちら",
-      "どちら"
-    ],
-    "correctAnswer": 1,
-    "difficulty": 2
-  },
-  {
-    "id": 42,
+    "id": 28,
     "question": "<b><ruby>生<rp>（</rp><rt>う</rt><rp>）</rp></ruby>活</b>",
     "options": [
       "せいかつ",
@@ -498,7 +332,7 @@
     "difficulty": 2
   },
   {
-    "id": 43,
+    "id": 29,
     "question": "<b><ruby>健康<rp>（</rp><rt>けんこう</rt><rp>）</rp></ruby>（　）<ruby>気<rp>（</rp><rt>き</rt><rp>）</rp></ruby>をつけていますか。</b>",
     "options": [
       "に",
@@ -508,19 +342,7 @@
     "difficulty": 2
   },
   {
-    "id": 44,
-    "question": "<b>A：はっぴょうしますは　どちらですか。<p>B：（　）です。</p></b>",
-    "options": [
-      "あちら",
-      "こちら",
-      "そちら",
-      "どちら"
-    ],
-    "correctAnswer": 0,
-    "difficulty": 2
-  },
-  {
-    "id": 45,
+    "id": 30,
     "question": "<b><ruby>毎晩<rp>（</rp><rt>まいばん</rt><rp>）</rp></ruby><ruby>寝<rp>（</rp><rt>ね</rt><rp>）</rp></ruby>るまえに、（１）<ruby>歯<rp>（</rp><rt>は</rt><rp>）</rp></ruby>を（２）ようにしています。</b><br/><b>(1)</b>",
     "options": [
       "かなり",
@@ -531,7 +353,7 @@
     "difficulty": 3
   },
   {
-    "id": 46,
+    "id": 31,
     "question": "<b>Từng</b>",
     "options": [
       "けんどう",
@@ -543,19 +365,7 @@
     "difficulty": 1
   },
   {
-    "id": 47,
-    "question": "<b>A：かんそうは　どこですか。<p>B：（　）です。</p></b>",
-    "options": [
-      "あそこ",
-      "ここ",
-      "そこ",
-      "どこ"
-    ],
-    "correctAnswer": 0,
-    "difficulty": 2
-  },
-  {
-    "id": 48,
+    "id": 32,
     "question": "<b>なれます</b>",
     "options": [
       "Gầy",
@@ -567,7 +377,7 @@
     "difficulty": 1
   },
   {
-    "id": 49,
+    "id": 33,
     "question": "<b>ちょきんします</b>",
     "options": [
       "Làm cân bằng",
@@ -579,7 +389,7 @@
     "difficulty": 1
   },
   {
-    "id": 50,
+    "id": 34,
     "question": "<b>落ちます</b>",
     "options": [
       "おちます",
@@ -591,7 +401,7 @@
     "difficulty": 2
   },
   {
-    "id": 51,
+    "id": 35,
     "question": "<b>かけます</b>",
     "options": [
       "Bao phủ, che kín lại",
@@ -603,19 +413,7 @@
     "difficulty": 1
   },
   {
-    "id": 52,
-    "question": "<b>A：これは　なんですか。<p>B：（　）は　そうそうです。</p></b>",
-    "options": [
-      "あれ",
-      "これ",
-      "それ",
-      "どれ"
-    ],
-    "correctAnswer": 1,
-    "difficulty": 2
-  },
-  {
-    "id": 53,
+    "id": 36,
     "question": "<b>とどきます</b>",
     "options": [
       "Chuyển tới",
@@ -627,7 +425,7 @@
     "difficulty": 1
   },
   {
-    "id": 54,
+    "id": 37,
     "question": "<b>おかげさまで</b>",
     "options": [
       "Bay",
@@ -639,19 +437,7 @@
     "difficulty": 1
   },
   {
-    "id": 55,
-    "question": "<b>A：はこびますは　どちらですか。<p>B：（　）です。</p></b>",
-    "options": [
-      "あちら",
-      "こちら",
-      "そちら",
-      "どちら"
-    ],
-    "correctAnswer": 1,
-    "difficulty": 2
-  },
-  {
-    "id": 56,
+    "id": 38,
     "question": "<b>うちゅう</b>",
     "options": [
       "Chuyển tới",
@@ -663,7 +449,7 @@
     "difficulty": 1
   },
   {
-    "id": 57,
+    "id": 39,
     "question": "<b>太ります</b>",
     "options": [
       "おちます",
@@ -675,7 +461,7 @@
     "difficulty": 2
   },
   {
-    "id": 58,
+    "id": 40,
     "question": "<b>けんどう</b>",
     "options": [
       "Bay",
@@ -687,19 +473,7 @@
     "difficulty": 1
   },
   {
-    "id": 59,
-    "question": "<b>A：かんそうは　どちらですか。<p>B：（　）です。</p></b>",
-    "options": [
-      "あちら",
-      "こちら",
-      "そちら",
-      "どちら"
-    ],
-    "correctAnswer": 1,
-    "difficulty": 2
-  },
-  {
-    "id": 60,
+    "id": 41,
     "question": "<b>Gầy</b>",
     "options": [
       "おきゃくさま",
@@ -711,19 +485,7 @@
     "difficulty": 1
   },
   {
-    "id": 61,
-    "question": "<b>A：とびますは　どこですか。<p>B：（　）です。</p></b>",
-    "options": [
-      "あそこ",
-      "ここ",
-      "そこ",
-      "どこ"
-    ],
-    "correctAnswer": 2,
-    "difficulty": 2
-  },
-  {
-    "id": 62,
+    "id": 42,
     "question": "<b>地球</b>",
     "options": [
       "かんそう",
@@ -735,7 +497,7 @@
     "difficulty": 2
   },
   {
-    "id": 63,
+    "id": 43,
     "question": "<b>Đề ngày tháng</b>",
     "options": [
       "おきゃくさま",
@@ -747,7 +509,7 @@
     "difficulty": 1
   },
   {
-    "id": 64,
+    "id": 44,
     "question": "<b>れきし</b>",
     "options": [
       "Lịch sử",
@@ -759,19 +521,7 @@
     "difficulty": 1
   },
   {
-    "id": 65,
-    "question": "<b>A：でますは　どちらですか。<p>B：（　）です。</p></b>",
-    "options": [
-      "あちら",
-      "こちら",
-      "そちら",
-      "どちら"
-    ],
-    "correctAnswer": 2,
-    "difficulty": 2
-  },
-  {
-    "id": 66,
+    "id": 45,
     "question": "<b>れきし</b>",
     "options": [
       "Câu chuyện",
@@ -783,7 +533,7 @@
     "difficulty": 1
   },
   {
-    "id": 67,
+    "id": 46,
     "question": "<b>うちゅう</b>",
     "options": [
       "Câu chuyện",
@@ -795,7 +545,7 @@
     "difficulty": 1
   },
   {
-    "id": 68,
+    "id": 47,
     "question": "<b>Điện tử</b>",
     "options": [
       "おきゃくさま",
@@ -807,7 +557,7 @@
     "difficulty": 1
   },
   {
-    "id": 69,
+    "id": 48,
     "question": "<b>Thời gian gần đây, dạo này</b>",
     "options": [
       "おちます",
@@ -819,7 +569,7 @@
     "difficulty": 1
   },
   {
-    "id": 70,
+    "id": 49,
     "question": "<b><ruby>夜<rp>（</rp><rt>よる</rt><rp>）</rp></ruby>は（１）<ruby>早<rp>（</rp><rt>はや</rt><rp>）</rp></ruby>く<ruby>寝<rp>（</rp><rt>ね</rt><rp>）</rp></ruby>て、<ruby>朝<rp>（</rp><rt>あさ</rt><rp>）</rp></ruby>は<ruby>早<rp>（</rp><rt>はや</rt><rp>）</rp></ruby>く（２）ようにしています。</b><br/><b>(2)</b>",
     "options": [
       "起きて",
@@ -830,7 +580,7 @@
     "difficulty": 3
   },
   {
-    "id": 71,
+    "id": 50,
     "question": "<b>きもち</b>",
     "options": [
       "Lịch sử",
@@ -842,7 +592,7 @@
     "difficulty": 1
   },
   {
-    "id": 72,
+    "id": 51,
     "question": "<b>そうそう</b>",
     "options": [
       "Bay",
@@ -854,19 +604,7 @@
     "difficulty": 1
   },
   {
-    "id": 73,
-    "question": "<b>A：おちますは　どちらですか。<p>B：（　）です。</p></b>",
-    "options": [
-      "あちら",
-      "こちら",
-      "そちら",
-      "どちら"
-    ],
-    "correctAnswer": 1,
-    "difficulty": 2
-  },
-  {
-    "id": 74,
+    "id": 52,
     "question": "<b>かけます</b>",
     "options": [
       "Bao phủ, che kín lại",
@@ -878,7 +616,7 @@
     "difficulty": 1
   },
   {
-    "id": 75,
+    "id": 53,
     "question": "<b>Mang theo, xách theo</b>",
     "options": [
       "けいたい～",
@@ -890,19 +628,7 @@
     "difficulty": 1
   },
   {
-    "id": 76,
-    "question": "<b>A：やせますは　どちらですか。<p>B：（　）です。</p></b>",
-    "options": [
-      "あちら",
-      "こちら",
-      "そちら",
-      "どちら"
-    ],
-    "correctAnswer": 1,
-    "difficulty": 2
-  },
-  {
-    "id": 77,
+    "id": 54,
     "question": "<b>きしゃ</b>",
     "options": [
       "Lịch sử",
@@ -914,7 +640,7 @@
     "difficulty": 1
   },
   {
-    "id": 78,
+    "id": 55,
     "question": "<b>ちょきんします</b>",
     "options": [
       "Tiết kiệm",
@@ -926,7 +652,7 @@
     "difficulty": 1
   },
   {
-    "id": 79,
+    "id": 56,
     "question": "<b>ぜったい</b>",
     "options": [
       "対流",
@@ -938,17 +664,7 @@
     "difficulty": 1
   },
   {
-    "id": 80,
-    "question": "<b>このケーキ、おいしいですね。<p>…そうですか。どうぞたくさん（　）ください。</p></b>",
-    "options": [
-      "食べて",
-      "食べるようにして"
-    ],
-    "correctAnswer": 0,
-    "difficulty": 1
-  },
-  {
-    "id": 81,
+    "id": 57,
     "question": "<b>痩せます</b>",
     "options": [
       "おかげさまで",
@@ -960,67 +676,7 @@
     "difficulty": 2
   },
   {
-    "id": 82,
-    "question": "<b>A：これは　なんですか。<p>B：（　）は　やせますです。</p></b>",
-    "options": [
-      "あれ",
-      "これ",
-      "それ",
-      "どれ"
-    ],
-    "correctAnswer": 1,
-    "difficulty": 2
-  },
-  {
-    "id": 83,
-    "question": "<b>A：ちょきんしますは　どこですか。<p>B：（　）です。</p></b>",
-    "options": [
-      "あそこ",
-      "ここ",
-      "そこ",
-      "どこ"
-    ],
-    "correctAnswer": 2,
-    "difficulty": 2
-  },
-  {
-    "id": 84,
-    "question": "<b>きもち</b>",
-    "options": [
-      "Tàu chạy bằng hơi nước",
-      "Tâm trạng, tình cảm",
-      "Vận chuyển",
-      "À này"
-    ],
-    "correctAnswer": 1,
-    "difficulty": 1
-  },
-  {
-    "id": 85,
-    "question": "<b>飛びます</b>",
-    "options": [
-      "かけます",
-      "けんどう",
-      "とどきます",
-      "とびます"
-    ],
-    "correctAnswer": 3,
-    "difficulty": 2
-  },
-  {
-    "id": 86,
-    "question": "<b>そうそう</b>",
-    "options": [
-      "Cảm tưởng",
-      "Thời gian gần đây, dạo này",
-      "Tàu hỏa",
-      "À này"
-    ],
-    "correctAnswer": 3,
-    "difficulty": 1
-  },
-  {
-    "id": 87,
+    "id": 58,
     "question": "<b>Chuyển tới</b>",
     "options": [
       "せいかつ",
@@ -1032,43 +688,31 @@
     "difficulty": 1
   },
   {
-    "id": 88,
-    "question": "<b>A：でんしは　どこですか。<p>B：（　）です。</p></b>",
+    "id": 59,
+    "question": "<b>そうそう</b>",
     "options": [
-      "あそこ",
-      "ここ",
-      "そこ",
-      "どこ"
+      "Cảm tưởng",
+      "Thời gian gần đây, dạo này",
+      "Tàu hỏa",
+      "À này"
     ],
-    "correctAnswer": 1,
-    "difficulty": 2
+    "correctAnswer": 3,
+    "difficulty": 1
   },
   {
-    "id": 89,
-    "question": "<b>A：～ずつは　どちらですか。<p>B：（　）です。</p></b>",
-    "options": [
-      "あちら",
-      "こちら",
-      "そちら",
-      "どちら"
-    ],
-    "correctAnswer": 1,
-    "difficulty": 2
-  },
-  {
-    "id": 90,
+    "id": 60,
     "question": "<b>飛びます</b>",
     "options": [
-      "かんそう",
-      "きせん",
-      "けいたい～",
+      "かけます",
+      "けんどう",
+      "とどきます",
       "とびます"
     ],
     "correctAnswer": 3,
     "difficulty": 2
   },
   {
-    "id": 91,
+    "id": 61,
     "question": "<b>Trái đất</b>",
     "options": [
       "おちます",
@@ -1080,7 +724,7 @@
     "difficulty": 1
   },
   {
-    "id": 92,
+    "id": 62,
     "question": "<b>はこびます</b>",
     "options": [
       "Nhận được",
@@ -1092,7 +736,7 @@
     "difficulty": 1
   },
   {
-    "id": 93,
+    "id": 63,
     "question": "<b>Việc đó ~ thì hơn</b>",
     "options": [
       "そのほうが～",
@@ -1104,17 +748,7 @@
     "difficulty": 1
   },
   {
-    "id": 94,
-    "question": "<b>すみませんが、あと１０<ruby>分<rp>（</rp><rt>ぷん</rt><rp>）</rp></ruby>（　）ください。</b>",
-    "options": [
-      "待って",
-      "持つようにして"
-    ],
-    "correctAnswer": 0,
-    "difficulty": 2
-  },
-  {
-    "id": 95,
+    "id": 64,
     "question": "<b>À này</b>",
     "options": [
       "おきゃくさま",
@@ -1126,19 +760,7 @@
     "difficulty": 1
   },
   {
-    "id": 96,
-    "question": "<b>A：これは　なんですか。<p>B：（　）は　ちきゅうです。</p></b>",
-    "options": [
-      "あれ",
-      "これ",
-      "それ",
-      "どれ"
-    ],
-    "correctAnswer": 1,
-    "difficulty": 2
-  },
-  {
-    "id": 97,
+    "id": 65,
     "question": "<b>そのほうが～</b>",
     "options": [
       "Câu chuyện",
@@ -1150,7 +772,7 @@
     "difficulty": 1
   },
   {
-    "id": 98,
+    "id": 66,
     "question": "<b>ひづけ</b>",
     "options": [
       "Bay",
@@ -1162,7 +784,7 @@
     "difficulty": 1
   },
   {
-    "id": 99,
+    "id": 67,
     "question": "<b>Béo</b>",
     "options": [
       "かけます",
@@ -1174,7 +796,7 @@
     "difficulty": 1
   },
   {
-    "id": 100,
+    "id": 68,
     "question": "<b>そうそう</b>",
     "options": [
       "Cảm tưởng",
@@ -1186,7 +808,7 @@
     "difficulty": 1
   },
   {
-    "id": 101,
+    "id": 69,
     "question": "<b><ruby>寒<rp>（</rp><rt>さむ</rt><rp>）</rp></ruby>いですから、かぜを（　）ように、<ruby>気<rp>（</rp><rt>き</rt><rp>）</rp></ruby>をつけてください。</b>",
     "options": [
       "ひかない",
@@ -1196,7 +818,7 @@
     "difficulty": 2
   },
   {
-    "id": 102,
+    "id": 70,
     "question": "<b>はこびます</b>",
     "options": [
       "Mang theo, xách theo",
@@ -1208,7 +830,7 @@
     "difficulty": 1
   },
   {
-    "id": 103,
+    "id": 71,
     "question": "<b><ruby>夜<rp>（</rp><rt>よる</rt><rp>）</rp></ruby>は（１）<ruby>早<rp>（</rp><rt>はや</rt><rp>）</rp></ruby>く<ruby>寝<rp>（</rp><rt>ね</rt><rp>）</rp></ruby>て、<ruby>朝<rp>（</rp><rt>あさ</rt><rp>）</rp></ruby>は<ruby>早<rp>（</rp><rt>はや</rt><rp>）</rp></ruby>く（２）ようにしています。</b><br/><b>(1)</b>",
     "options": [
       "かなり",
@@ -1219,7 +841,7 @@
     "difficulty": 3
   },
   {
-    "id": 104,
+    "id": 72,
     "question": "<b>Điều; chuyện</b>",
     "options": [
       "おきゃくさま",
@@ -1231,7 +853,7 @@
     "difficulty": 1
   },
   {
-    "id": 105,
+    "id": 73,
     "question": "<b>ひづけ</b>",
     "options": [
       "Cái tẩu, ống dẫn ~",
@@ -1243,7 +865,7 @@
     "difficulty": 1
   },
   {
-    "id": 106,
+    "id": 74,
     "question": "<b>すぎます</b>",
     "options": [
       "Cái tẩu, ống dẫn ~",
@@ -1255,7 +877,7 @@
     "difficulty": 1
   },
   {
-    "id": 107,
+    "id": 75,
     "question": "<b>汽船</b>",
     "options": [
       "うちゅう",
@@ -1267,7 +889,7 @@
     "difficulty": 2
   },
   {
-    "id": 108,
+    "id": 76,
     "question": "<b>Rèn luyện, thử thách, thử sức</b>",
     "options": [
       "きせん",
@@ -1279,7 +901,7 @@
     "difficulty": 1
   },
   {
-    "id": 109,
+    "id": 77,
     "question": "<b>Rơi xuống</b>",
     "options": [
       "おちます",
@@ -1291,19 +913,7 @@
     "difficulty": 1
   },
   {
-    "id": 110,
-    "question": "<b>A：れきしは　どこですか。<p>B：（　）です。</p></b>",
-    "options": [
-      "あそこ",
-      "ここ",
-      "そこ",
-      "どこ"
-    ],
-    "correctAnswer": 1,
-    "difficulty": 2
-  },
-  {
-    "id": 111,
+    "id": 78,
     "question": "<b>けんどう</b>",
     "options": [
       "Kiếm đạo",
@@ -1315,7 +925,7 @@
     "difficulty": 1
   },
   {
-    "id": 112,
+    "id": 79,
     "question": "<b>Điều; chuyện</b>",
     "options": [
       "こと",
@@ -1327,7 +937,7 @@
     "difficulty": 1
   },
   {
-    "id": 113,
+    "id": 80,
     "question": "<b>落ちます</b>",
     "options": [
       "おちます",
@@ -1339,19 +949,7 @@
     "difficulty": 2
   },
   {
-    "id": 114,
-    "question": "<b>A：これは　なんですか。<p>B：（　）は　なれますです。</p></b>",
-    "options": [
-      "あれ",
-      "これ",
-      "それ",
-      "どれ"
-    ],
-    "correctAnswer": 1,
-    "difficulty": 2
-  },
-  {
-    "id": 115,
+    "id": 81,
     "question": "<b>Bao phủ, che kín lại</b>",
     "options": [
       "かけます",
@@ -1363,7 +961,7 @@
     "difficulty": 1
   },
   {
-    "id": 116,
+    "id": 82,
     "question": "<b>すぎます</b>",
     "options": [
       "Quá, qua",
@@ -1375,7 +973,7 @@
     "difficulty": 1
   },
   {
-    "id": 117,
+    "id": 83,
     "question": "<b>歴史</b>",
     "options": [
       "れいきし",
@@ -1387,7 +985,7 @@
     "difficulty": 2
   },
   {
-    "id": 118,
+    "id": 84,
     "question": "<b>チャレンジします</b>",
     "options": [
       "Rèn luyện, thử thách, thử sức",
@@ -1399,7 +997,7 @@
     "difficulty": 1
   },
   {
-    "id": 119,
+    "id": 85,
     "question": "<b>Vũ trụ</b>",
     "options": [
       "うちゅ",
@@ -1411,7 +1009,7 @@
     "difficulty": 1
   },
   {
-    "id": 120,
+    "id": 86,
     "question": "<b>ふとります</b>",
     "options": [
       "Béo",
@@ -1423,233 +1021,7 @@
     "difficulty": 1
   },
   {
-    "id": 121,
-    "question": "<b>A：きせんは　どちらですか。<p>B：（　）です。</p></b>",
-    "options": [
-      "あちら",
-      "こちら",
-      "そちら",
-      "どちら"
-    ],
-    "correctAnswer": 2,
-    "difficulty": 2
-  },
-  {
-    "id": 122,
-    "question": "<b>ほとんど</b>",
-    "options": [
-      "Giỏi",
-      "Hầu hết",
-      "Nhất định",
-      "Tuyệt đối"
-    ],
-    "correctAnswer": 1,
-    "difficulty": 1
-  },
-  {
-    "id": 123,
-    "question": "<b>Câu chuyện</b>",
-    "options": [
-      "せいかつ",
-      "はなし",
-      "ひづけ",
-      "～ずつ"
-    ],
-    "correctAnswer": 1,
-    "difficulty": 1
-  },
-  {
-    "id": 124,
-    "question": "<b>A：きもちは　どちらですか。<p>B：（　）です。</p></b>",
-    "options": [
-      "あちら",
-      "こちら",
-      "そちら",
-      "どちら"
-    ],
-    "correctAnswer": 0,
-    "difficulty": 2
-  },
-  {
-    "id": 125,
-    "question": "<b>ちょきんします</b>",
-    "options": [
-      "Câu chuyện",
-      "Nhờ trời",
-      "Quen",
-      "Tiết kiệm"
-    ],
-    "correctAnswer": 3,
-    "difficulty": 1
-  },
-  {
-    "id": 126,
-    "question": "<b>Thời gian gần đây, dạo này</b>",
-    "options": [
-      "おかげさまで",
-      "おきゃくさま",
-      "このごろ",
-      "～ずつ"
-    ],
-    "correctAnswer": 2,
-    "difficulty": 1
-  },
-  {
-    "id": 127,
-    "question": "<b>こと</b>",
-    "options": [
-      "Câu chuyện",
-      "Phát biểu; công bố",
-      "Sức khỏe",
-      "Điều; chuyện"
-    ],
-    "correctAnswer": 3,
-    "difficulty": 1
-  },
-  {
-    "id": 128,
-    "question": "<b>A：このごろは　どこですか。<p>B：（　）です。</p></b>",
-    "options": [
-      "あそこ",
-      "ここ",
-      "そこ",
-      "どこ"
-    ],
-    "correctAnswer": 2,
-    "difficulty": 2
-  },
-  {
-    "id": 129,
-    "question": "<b>Bay</b>",
-    "options": [
-      "かけます",
-      "きせん",
-      "とびます",
-      "カバー"
-    ],
-    "correctAnswer": 2,
-    "difficulty": 1
-  },
-  {
-    "id": 130,
-    "question": "<b>Kiếm đạo</b>",
-    "options": [
-      "けんどう",
-      "こと",
-      "でんし",
-      "カバー"
-    ],
-    "correctAnswer": 0,
-    "difficulty": 1
-  },
-  {
-    "id": 131,
-    "question": "<b>カバー</b>",
-    "options": [
-      "Bay",
-      "Gầy",
-      "Trái đất",
-      "Vỏ bọc; bao bên ngoài"
-    ],
-    "correctAnswer": 3,
-    "difficulty": 1
-  },
-  {
-    "id": 132,
-    "question": "<b>慣れます</b>",
-    "options": [
-      "おきゃくさま",
-      "そのほうが～",
-      "なれます",
-      "～ずつ"
-    ],
-    "correctAnswer": 2,
-    "difficulty": 2
-  },
-  {
-    "id": 133,
-    "question": "<b>（１）シートベルトをして<ruby>車<rp>（</rp><rt>くるま</rt><rp>）</rp></ruby>を（２）ようにしてください。</b><br/><b>(2)</b>",
-    "options": [
-      "運転",
-      "運転して",
-      "運転する"
-    ],
-    "correctAnswer": 1,
-    "difficulty": 2
-  },
-  {
-    "id": 134,
-    "question": "<b>Gầy</b>",
-    "options": [
-      "おちます",
-      "そうそう",
-      "はなし",
-      "やせます"
-    ],
-    "correctAnswer": 3,
-    "difficulty": 1
-  },
-  {
-    "id": 135,
-    "question": "<b>A：おきゃくさまは　どこですか。<p>B：（　）です。</p></b>",
-    "options": [
-      "あそこ",
-      "ここ",
-      "そこ",
-      "どこ"
-    ],
-    "correctAnswer": 0,
-    "difficulty": 2
-  },
-  {
-    "id": 136,
-    "question": "<b>はなし</b>",
-    "options": [
-      "Chuyển tới",
-      "Câu chuyện",
-      "Nhờ trời",
-      "Tàu chạy bằng hơi nước"
-    ],
-    "correctAnswer": 1,
-    "difficulty": 1
-  },
-  {
-    "id": 137,
-    "question": "<b>Cái tẩu, ống dẫn ~</b>",
-    "options": [
-      "うちゅう",
-      "すぎます",
-      "そのほうが～",
-      "パイプ"
-    ],
-    "correctAnswer": 3,
-    "difficulty": 1
-  },
-  {
-    "id": 138,
-    "question": "<b>このごろ</b>",
-    "options": [
-      "Quá, vượt quá",
-      "Sinh hoạt, đời sống",
-      "Thời gian gần đây, dạo này",
-      "Tiết kiệm"
-    ],
-    "correctAnswer": 2,
-    "difficulty": 1
-  },
-  {
-    "id": 139,
-    "question": "<b><ruby>毎晩<rp>（</rp><rt>まいばん</rt><rp>）</rp></ruby><ruby>寝<rp>（</rp><rt>ね</rt><rp>）</rp></ruby>るまえに、（１）<ruby>歯<rp>（</rp><rt>は</rt><rp>）</rp></ruby>を（２）ようにしています。</b><br/><b>(2)</b>",
-    "options": [
-      "磨かない",
-      "磨き",
-      "磨く"
-    ],
-    "correctAnswer": 0,
-    "difficulty": 3
-  },
-  {
-    "id": 140,
+    "id": 87,
     "question": "<b>かんそう</b>",
     "options": [
       "Béo",
@@ -1661,67 +1033,19 @@
     "difficulty": 1
   },
   {
-    "id": 141,
-    "question": "<b>A：ひづけは　どこですか。<p>B：（　）です。</p></b>",
+    "id": 88,
+    "question": "<b>このごろ</b>",
     "options": [
-      "あそこ",
-      "ここ",
-      "そこ",
-      "どこ"
-    ],
-    "correctAnswer": 2,
-    "difficulty": 2
-  },
-  {
-    "id": 142,
-    "question": "<b>すぎます</b>",
-    "options": [
-      "Kiếm đạo",
       "Quá, vượt quá",
-      "Vị khách",
-      "Điều; chuyện"
-    ],
-    "correctAnswer": 1,
-    "difficulty": 1
-  },
-  {
-    "id": 143,
-    "question": "<b>A：ちきゅうは　どちらですか。<p>B：（　）です。</p></b>",
-    "options": [
-      "あちら",
-      "こちら",
-      "そちら",
-      "どちら"
-    ],
-    "correctAnswer": 1,
-    "difficulty": 2
-  },
-  {
-    "id": 144,
-    "question": "<b>けんこう</b>",
-    "options": [
-      "Quen",
       "Sinh hoạt, đời sống",
-      "Sức khỏe",
-      "Vũ trụ"
+      "Thời gian gần đây, dạo này",
+      "Tiết kiệm"
     ],
     "correctAnswer": 2,
     "difficulty": 1
   },
   {
-    "id": 145,
-    "question": "<b>ちょきんします</b>",
-    "options": [
-      "Bay",
-      "Cảm tưởng",
-      "Tiết kiệm",
-      "À này"
-    ],
-    "correctAnswer": 2,
-    "difficulty": 1
-  },
-  {
-    "id": 146,
+    "id": 89,
     "question": "<b>そのほうが～</b>",
     "options": [
       "Cái tẩu, ống dẫn ~",
@@ -1733,7 +1057,7 @@
     "difficulty": 1
   },
   {
-    "id": 147,
+    "id": 90,
     "question": "<b>～ずつ</b>",
     "options": [
       "Cái tẩu, ống dẫn ~",
@@ -1745,7 +1069,7 @@
     "difficulty": 1
   },
   {
-    "id": 148,
+    "id": 91,
     "question": "<b>Tàu chạy bằng hơi nước</b>",
     "options": [
       "きせん",
@@ -1757,7 +1081,7 @@
     "difficulty": 1
   },
   {
-    "id": 149,
+    "id": 92,
     "question": "<b>ちょきんします</b>",
     "options": [
       "Rèn luyện, thử thách, thử sức",
@@ -1769,7 +1093,66 @@
     "difficulty": 1
   },
   {
-    "id": 150,
+    "id": 93,
+    "question": "<b>Gầy</b>",
+    "options": [
+      "おちます",
+      "そうそう",
+      "はなし",
+      "やせます"
+    ],
+    "correctAnswer": 3,
+    "difficulty": 1
+  },
+  {
+    "id": 94,
+    "question": "<b>はなし</b>",
+    "options": [
+      "Chuyển tới",
+      "Câu chuyện",
+      "Nhờ trời",
+      "Tàu chạy bằng hơi nước"
+    ],
+    "correctAnswer": 1,
+    "difficulty": 1
+  },
+  {
+    "id": 95,
+    "question": "<b>Cái tẩu, ống dẫn ~</b>",
+    "options": [
+      "うちゅう",
+      "すぎます",
+      "そのほうが～",
+      "パイプ"
+    ],
+    "correctAnswer": 3,
+    "difficulty": 1
+  },
+  {
+    "id": 96,
+    "question": "<b>慣れます</b>",
+    "options": [
+      "おきゃくさま",
+      "そのほうが～",
+      "なれます",
+      "～ずつ"
+    ],
+    "correctAnswer": 2,
+    "difficulty": 2
+  },
+  {
+    "id": 97,
+    "question": "<b>（１）シートベルトをして<ruby>車<rp>（</rp><rt>くるま</rt><rp>）</rp></ruby>を（２）ようにしてください。</b><br/><b>(2)</b>",
+    "options": [
+      "運転",
+      "運転して",
+      "運転する"
+    ],
+    "correctAnswer": 1,
+    "difficulty": 2
+  },
+  {
+    "id": 98,
     "question": "<b>（１）シートベルトをして<ruby>車<rp>（</rp><rt>くるま</rt><rp>）</rp></ruby>を（２）ようにしてください。</b><br/><b>(1)</b>",
     "options": [
       "かなり",
@@ -1780,67 +1163,18 @@
     "difficulty": 2
   },
   {
-    "id": 151,
-    "question": "<b>A：ことは　どこですか。<p>B：（　）です。</p></b>",
+    "id": 99,
+    "question": "<b><ruby>毎晩<rp>（</rp><rt>まいばん</rt><rp>）</rp></ruby><ruby>寝<rp>（</rp><rt>ね</rt><rp>）</rp></ruby>るまえに、（１）<ruby>歯<rp>（</rp><rt>は</rt><rp>）</rp></ruby>を（２）ようにしています。</b><br/><b>(2)</b>",
     "options": [
-      "あそこ",
-      "ここ",
-      "そこ",
-      "どこ"
+      "磨かない",
+      "磨き",
+      "磨く"
     ],
     "correctAnswer": 0,
-    "difficulty": 2
+    "difficulty": 3
   },
   {
-    "id": 152,
-    "question": "<b>ふとります</b>",
-    "options": [
-      "Bay",
-      "Béo",
-      "Tiết kiệm",
-      "Đề ngày tháng"
-    ],
-    "correctAnswer": 1,
-    "difficulty": 1
-  },
-  {
-    "id": 153,
-    "question": "<b>A：せいかつは　どちらですか。<p>B：（　）です。</p></b>",
-    "options": [
-      "あちら",
-      "こちら",
-      "そちら",
-      "どちら"
-    ],
-    "correctAnswer": 2,
-    "difficulty": 2
-  },
-  {
-    "id": 154,
-    "question": "<b>Tàu chạy bằng hơi nước</b>",
-    "options": [
-      "おかげさまで",
-      "きせん",
-      "そうそう",
-      "はっぴょうします"
-    ],
-    "correctAnswer": 1,
-    "difficulty": 1
-  },
-  {
-    "id": 155,
-    "question": "<b>Câu chuyện</b>",
-    "options": [
-      "そのほうが～",
-      "はなし",
-      "やせます",
-      "～ずつ"
-    ],
-    "correctAnswer": 1,
-    "difficulty": 1
-  },
-  {
-    "id": 156,
+    "id": 100,
     "question": "<b>けんこう</b>",
     "options": [
       "健建",
@@ -1852,15 +1186,27 @@
     "difficulty": 1
   },
   {
-    "id": 157,
-    "question": "<b>A：カバーは　どちらですか。<p>B：（　）です。</p></b>",
+    "id": 101,
+    "question": "<b>カバー</b>",
     "options": [
-      "あちら",
-      "こちら",
-      "そちら",
-      "どちら"
+      "Bay",
+      "Gầy",
+      "Trái đất",
+      "Vỏ bọc; bao bên ngoài"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
+    "difficulty": 1
+  },
+  {
+    "id": 102,
+    "question": "<b>飛びます</b>",
+    "options": [
+      "かんそう",
+      "きせん",
+      "けいたい～",
+      "とびます"
+    ],
+    "correctAnswer": 3,
     "difficulty": 2
   }
 ]

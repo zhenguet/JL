@@ -1,29 +1,5 @@
 [
   {
-    "id": 1,
-    "question": "<b>A：かがくは　どこですか。<p>B：（　）です。</p></b>",
-    "options": [
-      "あそこ",
-      "ここ",
-      "そこ",
-      "どこ"
-    ],
-    "correctAnswer": 0,
-    "difficulty": 2
-  },
-  {
-    "id": 2,
-    "question": "<b>A：イランは　どこですか。<p>B：（　）です。</p></b>",
-    "options": [
-      "あそこ",
-      "ここ",
-      "そこ",
-      "どこ"
-    ],
-    "correctAnswer": 1,
-    "difficulty": 2
-  },
-  {
     "id": 3,
     "question": "<b>Mỹ phẩm</b>",
     "options": [
@@ -34,18 +10,6 @@
     ],
     "correctAnswer": 0,
     "difficulty": 1
-  },
-  {
-    "id": 4,
-    "question": "<b>A：はかせは　どちらですか。<p>B：（　）です。</p></b>",
-    "options": [
-      "あちら",
-      "こちら",
-      "そちら",
-      "どちら"
-    ],
-    "correctAnswer": 1,
-    "difficulty": 2
   },
   {
     "id": 5,
@@ -104,18 +68,6 @@
     ],
     "correctAnswer": 3,
     "difficulty": 1
-  },
-  {
-    "id": 10,
-    "question": "<b>A：しりあいますは　どちらですか。<p>B：（　）です。</p></b>",
-    "options": [
-      "あちら",
-      "こちら",
-      "そちら",
-      "どちら"
-    ],
-    "correctAnswer": 2,
-    "difficulty": 2
   },
   {
     "id": 11,
@@ -213,7 +165,7 @@
   },
   {
     "id": 19,
-    "question": "<b><ruby>新<ruby>聞<rp>（</rp><rt>きこ</rt><rp>）</rp></ruby><rp>（</rp><rt>しんぶん</rt><rp>）</rp></ruby>によると、<ruby>世界<rp>（</rp><rt>せかい</rt><rp>）</rp></ruby>の<ruby>人<ruby>口<rp>（</rp><rt>くち</rt><rp>）</rp></ruby><rp>（</rp><rt>じんこう</rt><rp>）</rp></ruby>は６０<ruby>億人<rp>（</rp><rt>おくにん</rt><rp>）</rp></ruby>（　）。</b>",
+    "question": "<b><ruby>新<ruby>聞<rp>（</rp><rt>ぶん</rt><rp>）</rp></ruby><rp>（</rp><rt>しんぶん</rt><rp>）</rp></ruby>によると、<ruby>世界<rp>（</rp><rt>せかい</rt><rp>）</rp></ruby>の<ruby>人<ruby>口<rp>（</rp><rt>こう</rt><rp>）</rp></ruby><rp>（</rp><rt>じんこう</rt><rp>）</rp></ruby>は６０<ruby>億人<rp>（</rp><rt>おくにん</rt><rp>）</rp></ruby>（　）。</b>",
     "options": [
       "以上だそうです",
       "以上のようです"
@@ -232,30 +184,6 @@
     ],
     "correctAnswer": 2,
     "difficulty": 1
-  },
-  {
-    "id": 21,
-    "question": "<b>A：これは　なんですか。<p>B：（　）は　イランです。</p></b>",
-    "options": [
-      "あれ",
-      "これ",
-      "それ",
-      "どれ"
-    ],
-    "correctAnswer": 1,
-    "difficulty": 2
-  },
-  {
-    "id": 22,
-    "question": "<b>A：ノックしますは　どちらですか。<p>B：（　）です。</p></b>",
-    "options": [
-      "あちら",
-      "こちら",
-      "そちら",
-      "どちら"
-    ],
-    "correctAnswer": 2,
-    "difficulty": 2
   },
   {
     "id": 23,
@@ -290,42 +218,6 @@
     ],
     "correctAnswer": 0,
     "difficulty": 1
-  },
-  {
-    "id": 26,
-    "question": "<b>A：これは　なんですか。<p>B：（　）は　グアムです。</p></b>",
-    "options": [
-      "あれ",
-      "これ",
-      "それ",
-      "どれ"
-    ],
-    "correctAnswer": 1,
-    "difficulty": 2
-  },
-  {
-    "id": 27,
-    "question": "<b>A：ながいきしますは　どちらですか。<p>B：（　）です。</p></b>",
-    "options": [
-      "あちら",
-      "こちら",
-      "そちら",
-      "どちら"
-    ],
-    "correctAnswer": 2,
-    "difficulty": 2
-  },
-  {
-    "id": 28,
-    "question": "<b>A：けしょうは　どこですか。<p>B：（　）です。</p></b>",
-    "options": [
-      "あそこ",
-      "ここ",
-      "そこ",
-      "どこ"
-    ],
-    "correctAnswer": 1,
-    "difficulty": 2
   },
   {
     "id": 29,
@@ -400,18 +292,6 @@
     "difficulty": 1
   },
   {
-    "id": 35,
-    "question": "<b>A：のびますは　どちらですか。<p>B：（　）です。</p></b>",
-    "options": [
-      "あちら",
-      "こちら",
-      "そちら",
-      "どちら"
-    ],
-    "correctAnswer": 0,
-    "difficulty": 2
-  },
-  {
     "id": 36,
     "question": "<b>Đính hôn</b>",
     "options": [
@@ -424,18 +304,6 @@
     "difficulty": 1
   },
   {
-    "id": 37,
-    "question": "<b>A：しんぱいですねは　どちらですか。<p>B：（　）です。</p></b>",
-    "options": [
-      "あちら",
-      "こちら",
-      "そちら",
-      "どちら"
-    ],
-    "correctAnswer": 0,
-    "difficulty": 2
-  },
-  {
     "id": 38,
     "question": "<b>じょせい</b>",
     "options": [
@@ -446,18 +314,6 @@
     ],
     "correctAnswer": 0,
     "difficulty": 1
-  },
-  {
-    "id": 39,
-    "question": "<b>A：さしますは　どこですか。<p>B：（　）です。</p></b>",
-    "options": [
-      "あそこ",
-      "ここ",
-      "そこ",
-      "どこ"
-    ],
-    "correctAnswer": 0,
-    "difficulty": 2
   },
   {
     "id": 40,
@@ -484,30 +340,6 @@
     "difficulty": 1
   },
   {
-    "id": 43,
-    "question": "<b>A：いがくは　どちらですか。<p>B：（　）です。</p></b>",
-    "options": [
-      "あちら",
-      "こちら",
-      "そちら",
-      "どちら"
-    ],
-    "correctAnswer": 2,
-    "difficulty": 2
-  },
-  {
-    "id": 44,
-    "question": "<b>A：はんとしは　どちらですか。<p>B：（　）です。</p></b>",
-    "options": [
-      "あちら",
-      "こちら",
-      "そちら",
-      "どちら"
-    ],
-    "correctAnswer": 1,
-    "difficulty": 2
-  },
-  {
     "id": 45,
     "question": "<b>Tiến sĩ</b>",
     "options": [
@@ -520,18 +352,6 @@
     "difficulty": 1
   },
   {
-    "id": 46,
-    "question": "<b>A：もえますは　どちらですか。<p>B：（　）です。</p></b>",
-    "options": [
-      "あちら",
-      "こちら",
-      "そちら",
-      "どちら"
-    ],
-    "correctAnswer": 2,
-    "difficulty": 2
-  },
-  {
     "id": 47,
     "question": "<b>高速<ruby>道<rp>（</rp><rt>みち</rt><rp>）</rp></ruby>路</b>",
     "options": [
@@ -542,18 +362,6 @@
     ],
     "correctAnswer": 0,
     "difficulty": 1
-  },
-  {
-    "id": 48,
-    "question": "<b>A：じんこうは　どちらですか。<p>B：（　）です。</p></b>",
-    "options": [
-      "あちら",
-      "こちら",
-      "そちら",
-      "どちら"
-    ],
-    "correctAnswer": 2,
-    "difficulty": 2
   },
   {
     "id": 49,
@@ -613,7 +421,7 @@
   },
   {
     "id": 54,
-    "question": "<b><ruby>調<rp>（</rp><rt>しら</rt><rp>）</rp></ruby>べ</b>",
+    "question": "<b><ruby>調<ruby>べ<rp>（</rp><rt>べ</rt><rp>）</rp></ruby><rp>（</rp><rt>しらべ</rt><rp>）</rp></ruby></b>",
     "options": [
       "くらべます",
       "しらべ",
@@ -625,7 +433,7 @@
   },
   {
     "id": 55,
-    "question": "<b><ruby>長<rp>（</rp><rt>なが</rt><rp>）</rp></ruby><ruby>生<rp>（</rp><rt>う</rt><rp>）</rp></ruby>きします</b>",
+    "question": "<b><ruby>長<rp>（</rp><rt>なが</rt><rp>）</rp></ruby><ruby>生<rp>（</rp><rt>い</rt><rp>）</rp></ruby>きします</b>",
     "options": [
       "けしょうひん",
       "こんど",
@@ -670,18 +478,6 @@
     ],
     "correctAnswer": 0,
     "difficulty": 1
-  },
-  {
-    "id": 59,
-    "question": "<b>A：ふきますは　どこですか。<p>B：（　）です。</p></b>",
-    "options": [
-      "あそこ",
-      "ここ",
-      "そこ",
-      "どこ"
-    ],
-    "correctAnswer": 1,
-    "difficulty": 2
   },
   {
     "id": 60,
@@ -766,30 +562,6 @@
     "difficulty": 2
   },
   {
-    "id": 67,
-    "question": "<b>A：いがくは　どこですか。<p>B：（　）です。</p></b>",
-    "options": [
-      "あそこ",
-      "ここ",
-      "そこ",
-      "どこ"
-    ],
-    "correctAnswer": 1,
-    "difficulty": 2
-  },
-  {
-    "id": 68,
-    "question": "<b>A：こんどは　どこですか。<p>B：（　）です。</p></b>",
-    "options": [
-      "あそこ",
-      "ここ",
-      "そこ",
-      "どこ"
-    ],
-    "correctAnswer": 2,
-    "difficulty": 2
-  },
-  {
     "id": 69,
     "question": "<b>します</b>",
     "options": [
@@ -803,12 +575,12 @@
   },
   {
     "id": 70,
-    "question": "<b><ruby>天気<rp>（</rp><rt>てんき</rt><rp>）</rp></ruby>が<ruby>消<rp>（</rp><rt>き</rt><rp>）</rp></ruby>えていますから、だれ（　）いないようですね。</b>",
+    "question": "<b><ruby>電気<rp>（</rp><rt>でんき</rt><rp>）</rp></ruby>が<ruby>消<rp>（</rp><rt>き</rt><rp>）</rp></ruby>えていますから、だれ（　）いないようですね。</b>",
     "options": [
       "が",
       "も"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "difficulty": 2
   },
   {
@@ -834,18 +606,6 @@
     ],
     "correctAnswer": 3,
     "difficulty": 1
-  },
-  {
-    "id": 73,
-    "question": "<b>A：けしょうひんは　どこですか。<p>B：（　）です。</p></b>",
-    "options": [
-      "あそこ",
-      "ここ",
-      "そこ",
-      "どこ"
-    ],
-    "correctAnswer": 1,
-    "difficulty": 2
   },
   {
     "id": 74,
@@ -896,18 +656,6 @@
     "difficulty": 1
   },
   {
-    "id": 79,
-    "question": "<b>A：これは　なんですか。<p>B：（　）は　きゅうきゅうしゃです。</p></b>",
-    "options": [
-      "あれ",
-      "これ",
-      "それ",
-      "どれ"
-    ],
-    "correctAnswer": 1,
-    "difficulty": 2
-  },
-  {
     "id": 80,
     "question": "<b>Tuổi thọ trung bình</b>",
     "options": [
@@ -932,18 +680,6 @@
     "difficulty": 2
   },
   {
-    "id": 82,
-    "question": "<b>A：あいては　どちらですか。<p>B：（　）です。</p></b>",
-    "options": [
-      "あちら",
-      "こちら",
-      "そちら",
-      "どちら"
-    ],
-    "correctAnswer": 2,
-    "difficulty": 2
-  },
-  {
     "id": 83,
     "question": "<b>バリ島</b>",
     "options": [
@@ -953,30 +689,6 @@
       "バリとう"
     ],
     "correctAnswer": 3,
-    "difficulty": 2
-  },
-  {
-    "id": 84,
-    "question": "<b>A：しますは　どちらですか。<p>B：（　）です。</p></b>",
-    "options": [
-      "あちら",
-      "こちら",
-      "そちら",
-      "どちら"
-    ],
-    "correctAnswer": 2,
-    "difficulty": 2
-  },
-  {
-    "id": 85,
-    "question": "<b>A：じょせいは　どちらですか。<p>B：（　）です。</p></b>",
-    "options": [
-      "あちら",
-      "こちら",
-      "そちら",
-      "どちら"
-    ],
-    "correctAnswer": 0,
     "difficulty": 2
   },
   {
@@ -1004,20 +716,8 @@
     "difficulty": 1
   },
   {
-    "id": 88,
-    "question": "<b>A：ホルモンは　どちらですか。<p>B：（　）です。</p></b>",
-    "options": [
-      "あちら",
-      "こちら",
-      "そちら",
-      "どちら"
-    ],
-    "correctAnswer": 1,
-    "difficulty": 2
-  },
-  {
     "id": 89,
-    "question": "<b>ワット<ruby>先<ruby>生<rp>（</rp><rt>う</rt><rp>）</rp></ruby><rp>（</rp><rt>せんせい</rt><rp>）</rp></ruby>の（　）がします。</b>",
+    "question": "<b>ワット<ruby>先<ruby>生<rp>（</rp><rt>せい</rt><rp>）</rp></ruby><rp>（</rp><rt>せんせい</rt><rp>）</rp></ruby>の（　）がします。</b>",
     "options": [
       "声",
       "音"
@@ -1038,18 +738,6 @@
     "difficulty": 1
   },
   {
-    "id": 91,
-    "question": "<b>A：さんせいは　どこですか。<p>B：（　）です。</p></b>",
-    "options": [
-      "あそこ",
-      "ここ",
-      "そこ",
-      "どこ"
-    ],
-    "correctAnswer": 2,
-    "difficulty": 2
-  },
-  {
     "id": 92,
     "question": "<b>かがく</b>",
     "options": [
@@ -1058,7 +746,7 @@
       "科字",
       "科学"
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 3,
     "difficulty": 1
   },
   {
@@ -1087,7 +775,7 @@
   },
   {
     "id": 95,
-    "question": "<b><ruby>彼<rp>（</rp><rt>かれ</rt><rp>）</rp></ruby>の<ruby>意<ruby>見<rp>（</rp><rt>み</rt><rp>）</rp></ruby><rp>（</rp><rt>いけん</rt><rp>）</rp></ruby>（　）<ruby>賛成<rp>（</rp><rt>さんせい</rt><rp>）</rp></ruby>です。</b>",
+    "question": "<b><ruby>彼<rp>（</rp><rt>かれ</rt><rp>）</rp></ruby>の<ruby>意<ruby>見<rp>（</rp><rt>けん</rt><rp>）</rp></ruby><rp>（</rp><rt>いけん</rt><rp>）</rp></ruby>（　）<ruby>賛成<rp>（</rp><rt>さんせい</rt><rp>）</rp></ruby>です。</b>",
     "options": [
       "に",
       "を"
@@ -1106,30 +794,6 @@
     ],
     "correctAnswer": 3,
     "difficulty": 1
-  },
-  {
-    "id": 97,
-    "question": "<b>A：これは　なんですか。<p>B：（　）は　はんたいです。</p></b>",
-    "options": [
-      "あれ",
-      "これ",
-      "それ",
-      "どれ"
-    ],
-    "correctAnswer": 1,
-    "difficulty": 2
-  },
-  {
-    "id": 98,
-    "question": "<b>A：だんせいは　どちらですか。<p>B：（　）です。</p></b>",
-    "options": [
-      "あちら",
-      "こちら",
-      "そちら",
-      "どちら"
-    ],
-    "correctAnswer": 2,
-    "difficulty": 2
   },
   {
     "id": 99,
@@ -1156,42 +820,6 @@
     "difficulty": 1
   },
   {
-    "id": 101,
-    "question": "<b>A：もえますは　どこですか。<p>B：（　）です。</p></b>",
-    "options": [
-      "あそこ",
-      "ここ",
-      "そこ",
-      "どこ"
-    ],
-    "correctAnswer": 0,
-    "difficulty": 2
-  },
-  {
-    "id": 102,
-    "question": "<b>A：へいきんじゅみょうは　どこですか。<p>B：（　）です。</p></b>",
-    "options": [
-      "あそこ",
-      "ここ",
-      "そこ",
-      "どこ"
-    ],
-    "correctAnswer": 1,
-    "difficulty": 2
-  },
-  {
-    "id": 103,
-    "question": "<b>A：ホルモンは　どこですか。<p>B：（　）です。</p></b>",
-    "options": [
-      "あそこ",
-      "ここ",
-      "そこ",
-      "どこ"
-    ],
-    "correctAnswer": 2,
-    "difficulty": 2
-  },
-  {
     "id": 104,
     "question": "<b><ruby>道<rp>（</rp><rt>みち</rt><rp>）</rp></ruby>路</b>",
     "options": [
@@ -1205,7 +833,7 @@
   },
   {
     "id": 105,
-    "question": "<b>わたしは<ruby>彼<rp>（</rp><rt>かれ</rt><rp>）</rp></ruby>の<ruby>意<ruby>見<rp>（</rp><rt>み</rt><rp>）</rp></ruby><rp>（</rp><rt>いけん</rt><rp>）</rp></ruby>（　）<ruby>賛成<rp>（</rp><rt>さんせい</rt><rp>）</rp></ruby>です。</b>",
+    "question": "<b>わたしは<ruby>彼<rp>（</rp><rt>かれ</rt><rp>）</rp></ruby>の<ruby>意<ruby>見<rp>（</rp><rt>けん</rt><rp>）</rp></ruby><rp>（</rp><rt>いけん</rt><rp>）</rp></ruby>（　）<ruby>賛成<rp>（</rp><rt>さんせい</rt><rp>）</rp></ruby>です。</b>",
     "options": [
       "に",
       "を"
@@ -1238,18 +866,6 @@
     "difficulty": 1
   },
   {
-    "id": 108,
-    "question": "<b>A：きゅうきゅうしゃは　どこですか。<p>B：（　）です。</p></b>",
-    "options": [
-      "あそこ",
-      "ここ",
-      "そこ",
-      "どこ"
-    ],
-    "correctAnswer": 2,
-    "difficulty": 2
-  },
-  {
     "id": 109,
     "question": "<b>賛成</b>",
     "options": [
@@ -1274,18 +890,6 @@
     "difficulty": 1
   },
   {
-    "id": 111,
-    "question": "<b>A：じっけんは　どこですか。<p>B：（　）です。</p></b>",
-    "options": [
-      "あそこ",
-      "ここ",
-      "そこ",
-      "どこ"
-    ],
-    "correctAnswer": 1,
-    "difficulty": 2
-  },
-  {
     "id": 112,
     "question": "<b>A：<ruby>人<rp>（</rp><rt>ひと</rt><rp>）</rp></ruby>がたくさん<ruby>集<rp>（</rp><rt>あつ</rt><rp>）</rp></ruby>まっていますね。<p>B：ええ、<ruby>火事<rp>（</rp><rt>かじ</rt><rp>）</rp></ruby>（　）ようです。</p></b>",
     "options": [
@@ -1294,18 +898,6 @@
     ],
     "correctAnswer": 1,
     "difficulty": 3
-  },
-  {
-    "id": 113,
-    "question": "<b>A：これは　なんですか。<p>B：（　）は　かがくです。</p></b>",
-    "options": [
-      "あれ",
-      "これ",
-      "それ",
-      "どれ"
-    ],
-    "correctAnswer": 1,
-    "difficulty": 2
   },
   {
     "id": 114,
@@ -1378,30 +970,6 @@
     "difficulty": 2
   },
   {
-    "id": 120,
-    "question": "<b>A：くらべますは　どちらですか。<p>B：（　）です。</p></b>",
-    "options": [
-      "あちら",
-      "こちら",
-      "そちら",
-      "どちら"
-    ],
-    "correctAnswer": 2,
-    "difficulty": 2
-  },
-  {
-    "id": 121,
-    "question": "<b>A：のうは　どちらですか。<p>B：（　）です。</p></b>",
-    "options": [
-      "あちら",
-      "こちら",
-      "そちら",
-      "どちら"
-    ],
-    "correctAnswer": 0,
-    "difficulty": 2
-  },
-  {
     "id": 122,
     "question": "<b>Nhập viện, nằm viện</b>",
     "options": [
@@ -1446,7 +1014,7 @@
       "蕉まります",
       "集まります"
     ],
-    "correctAnswer": 2,
+    "correctAnswer": 3,
     "difficulty": 1
   },
   {
@@ -1472,42 +1040,6 @@
     ],
     "correctAnswer": 3,
     "difficulty": 1
-  },
-  {
-    "id": 128,
-    "question": "<b>A：これは　なんですか。<p>B：（　）は　のびますです。</p></b>",
-    "options": [
-      "あれ",
-      "これ",
-      "それ",
-      "どれ"
-    ],
-    "correctAnswer": 1,
-    "difficulty": 2
-  },
-  {
-    "id": 129,
-    "question": "<b>A：これは　なんですか。<p>B：（　）は　バリとうです。</p></b>",
-    "options": [
-      "あれ",
-      "これ",
-      "それ",
-      "どれ"
-    ],
-    "correctAnswer": 1,
-    "difficulty": 2
-  },
-  {
-    "id": 130,
-    "question": "<b>A：さんせいは　どちらですか。<p>B：（　）です。</p></b>",
-    "options": [
-      "あちら",
-      "こちら",
-      "そちら",
-      "どちら"
-    ],
-    "correctAnswer": 0,
-    "difficulty": 2
   },
   {
     "id": 131,
@@ -1577,7 +1109,7 @@
   },
   {
     "id": 138,
-    "question": "<b><ruby>先<ruby>生<rp>（</rp><rt>う</rt><rp>）</rp></ruby><rp>（</rp><rt>せんせい</rt><rp>）</rp></ruby>の<ruby>話<rp>（</rp><rt>はなし</rt><rp>）</rp></ruby>によると、この<ruby>辞書<rp>（</rp><rt>じしょ</rt><rp>）</rp></ruby>は<ruby>便利<rp>（</rp><rt>べんり</rt><rp>）</rp></ruby>（　）そうです。</b>",
+    "question": "<b><ruby>先<ruby>生<rp>（</rp><rt>せい</rt><rp>）</rp></ruby><rp>（</rp><rt>せんせい</rt><rp>）</rp></ruby>の<ruby>話<rp>（</rp><rt>はなし</rt><rp>）</rp></ruby>によると、この<ruby>辞書<rp>（</rp><rt>じしょ</rt><rp>）</rp></ruby>は<ruby>便利<rp>（</rp><rt>べんり</rt><rp>）</rp></ruby>（　）そうです。</b>",
     "options": [
       "だ",
       "な"

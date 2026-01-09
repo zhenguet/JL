@@ -430,5 +430,113 @@
     ],
     "correctAnswer": 2,
     "difficulty": 2
+  },
+  {
+    "id": 37,
+    "question": "<b>いらっしゃいます</b>",
+    "options": [
+      "Đi, đến, ở (kính ngữ của いきます、きます、います)",
+      "おかわりありませんか",
+      "おくに",
+      "なさいます"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 1
+  },
+  {
+    "id": 38,
+    "question": "<b>Hội trường</b>",
+    "options": [
+      "かいじょう",
+      "おたく",
+      "つとめます",
+      "～まえ"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 1
+  },
+  {
+    "id": 39,
+    "question": "<b>Xin phép cho tôi hỏi…</b>",
+    "options": [
+      "しつれいですが",
+      "おまちください",
+      "さっきょく",
+      "じゅじょうします"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 1
+  },
+  {
+    "id": 40,
+    "question": "<b>Trên đường về</b>",
+    "options": [
+      "かえりに",
+      "たまに",
+      "ちっとも",
+      "ちょうなん"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 1
+  },
+  {
+    "id": 41,
+    "question": "<b>Gia đình ông (bà)</b>",
+    "options": [
+      "ごかぞく",
+      "おたく",
+      "おくに",
+      "～さま"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 1
+  },
+  {
+    "id": 42,
+    "question": "<b>～様</b>",
+    "options": [
+      "Ngài, ông, bà, cô ~ (kính ngữ của さん)",
+      "お～",
+      "ご～",
+      "～まえ"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 1
+  },
+  {
+    "id": 43,
+    "question": "<b>Lớp~ năm thứ~</b>",
+    "options": [
+      "～ねん～くみ",
+      "～すぎ",
+      "～まえ",
+      "～さま"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 1
+  },
+  {
+    "id": 44,
+    "question": "<b>Nhiều ~</b>",
+    "options": [
+      "おおくの～",
+      "お～",
+      "ご～",
+      "～すぎ"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 1
+  },
+  {
+    "id": 45,
+    "question": "<b>Cho ra, đưa ra</b>",
+    "options": [
+      "だします",
+      "すごします",
+      "よります",
+      "もどります"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 1
   }
 ]

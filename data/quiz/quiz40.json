@@ -150,7 +150,7 @@
       "Nâng cao",
       "Tài liệu",
       "Việc nhà",
-      "Vụ án"
+      "Sự kiện"
     ],
     "correctAnswer": 3,
     "difficulty": 1
@@ -219,7 +219,7 @@
     "id": 19,
     "question": "<b>うわさをします</b>",
     "options": [
-      "Đồn đại, truyền tin đồn",
+      "Bàn tán, bàn luận",
       "Ma ra tông",
       "Say",
       "Tiệc đầu năm mới"
@@ -681,6 +681,90 @@
       "しゅっぱつします"
     ],
     "correctAnswer": 2,
+    "difficulty": 1
+  },
+  {
+    "id": 58,
+    "question": "<b>みつけます</b>",
+    "options": [
+      "Kiểm lại; xét lại",
+      "Tìm",
+      "Tìm thấy",
+      "Xác nhận"
+    ],
+    "correctAnswer": 2,
+    "difficulty": 1
+  },
+  {
+    "id": 59,
+    "question": "<b>はかります</b>",
+    "options": [
+      "Cân, đo",
+      "Đếm",
+      "Tìm",
+      "Xác nhận"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 1
+  },
+  {
+    "id": 60,
+    "question": "<b>たります</b>",
+    "options": [
+      "Còn lại, thừa",
+      "Đủ",
+      "Thích hợp",
+      "Tìm thấy"
+    ],
+    "correctAnswer": 1,
+    "difficulty": 1
+  },
+  {
+    "id": 61,
+    "question": "<b>あいます</b>",
+    "options": [
+      "Còn lại, thừa",
+      "Đủ",
+      "Thích hợp",
+      "Tìm thấy"
+    ],
+    "correctAnswer": 2,
+    "difficulty": 1
+  },
+  {
+    "id": 62,
+    "question": "<b>かんけいがあります</b>",
+    "options": [
+      "Có liên quan",
+      "Quan hệ; liên quan",
+      "Tìm thấy",
+      "Xác nhận"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 1
+  },
+  {
+    "id": 63,
+    "question": "<b>グラム</b>",
+    "options": [
+      "Cm",
+      "Gr",
+      "Kg, km",
+      "mm"
+    ],
+    "correctAnswer": 1,
+    "difficulty": 1
+  },
+  {
+    "id": 64,
+    "question": "<b>ニーズ</b>",
+    "options": [
+      "Nhu cầu",
+      "Quan hệ; liên quan",
+      "Tình hình",
+      "Nguyện vọng"
+    ],
+    "correctAnswer": 0,
     "difficulty": 1
   }
 ]
