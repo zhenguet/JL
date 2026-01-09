@@ -27,9 +27,9 @@
     "id": 3,
     "question": "<b>けがをします</b>",
     "options": [
-      "Làm",
+      "Bị thương",
       "Làm việc quá nhiều",
-      "Thêm",
+      "Vết thương",
       "Trời nắng, quang đãng"
     ],
     "correctAnswer": 0,
@@ -164,7 +164,7 @@
       "東",
       "西"
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 3,
     "difficulty": 1
   },
   {
@@ -292,7 +292,7 @@
     "question": "<b>Làm</b>",
     "options": [
       "うんどう",
-      "けがをします",
+      "します",
       "はいります",
       "ほし"
     ],
@@ -356,7 +356,7 @@
       "Vắng(đường ~)",
       "Đông(đường ~)"
     ],
-    "correctAnswer": 2,
+    "correctAnswer": 3,
     "difficulty": 1
   },
   {
@@ -469,14 +469,14 @@
   },
   {
     "id": 40,
-    "question": "<b>A：いは　どこですか。<p>B：（　）です。</p></b>",
+    "question": "<b>A：胃は　どこですか。<p>B：（　）です。</p></b>",
     "options": [
       "あそこ",
       "ここ",
       "そこ",
       "どこ"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "difficulty": 2
   },
   {

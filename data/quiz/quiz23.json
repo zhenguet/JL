@@ -1,7 +1,7 @@
 [
   {
     "id": 7,
-    "question": "<b>thắc mắc, không ổn, phiền, khó khăn</b>",
+    "question": "<b>không ổn, phiền, khó khăn</b>",
     "options": [
       "こまります",
       "でます",
@@ -20,7 +20,7 @@
       "Loại",
       "Thể loại"
     ],
-    "correctAnswer": 2,
+    "correctAnswer": 0,
     "difficulty": 1
   },
   {
@@ -53,7 +53,7 @@
     "options": [
       "Ngày giao thừa",
       "Ngày đầu năm",
-      "Tết Ta",
+      "Tết (Nhật Bản)",
       "Tết Tây"
     ],
     "correctAnswer": 2,
@@ -63,7 +63,7 @@
     "id": 48,
     "question": "<b>うごきます</b>",
     "options": [
-      "chạy, vận hành",
+      "[máy] hoạt động / chạy",
       "sang, qua",
       "vé ra",
       "điểm đỗ xe, bãi đỗ xe"
@@ -92,7 +92,7 @@
       "tiền lẻ",
       "tờ một nghìn Yên"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "difficulty": 1
   },
   {
@@ -114,9 +114,9 @@
       "[máy] chạy, vận hành",
       "chạy, vận hành",
       "kéo, lôi",
-      "thắc mắc, không ổn, phiền, khó khăn"
+      "không ổn, phiền, khó khăn"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "difficulty": 1
   },
   {
@@ -152,7 +152,7 @@
       "thứ ~ (thứ tự)",
       "điều chỉnh"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "difficulty": 1
   },
   {
@@ -185,7 +185,7 @@
     "options": [
       "cầu",
       "gắng sức, cố gắng",
-      "thắc mắc, không ổn, phiền, khó khăn",
+      "không ổn, phiền, khó khăn",
       "vé ra"
     ],
     "correctAnswer": 1,
@@ -195,7 +195,7 @@
     "id": 103,
     "question": "<b>こまったな</b>",
     "options": [
-      "chết rồi! gay quá!",
+      "Chết rồi, gay thật!",
       "quay, vặn, xoay",
       "điểm đỗ xe, bãi đỗ xe",
       "đẩy, ép, ấn"
@@ -236,7 +236,7 @@
       "はきします",
       "まわします"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "difficulty": 2
   },
   {

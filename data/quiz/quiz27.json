@@ -36,18 +36,6 @@
     "difficulty": 1
   },
   {
-    "id": 6,
-    "question": "<b><ruby>着<rp>（</rp><rt>き</rt><rp>）</rp></ruby>きます</b>",
-    "options": [
-      "きこえます",
-      "じ",
-      "じどうはんばいき",
-      "つきます"
-    ],
-    "correctAnswer": 3,
-    "difficulty": 2
-  },
-  {
     "id": 8,
     "question": "<b>しょうらい</b>",
     "options": [
@@ -66,7 +54,7 @@
       "Làm đồ mộc vào ngày chủ nhật",
       "Nhà bếp",
       "Nhân vật chính",
-      "Đánh"
+      "Đánh (đánh bóng, đánh máy…)"
     ],
     "correctAnswer": 3,
     "difficulty": 1
@@ -112,7 +100,7 @@
     "question": "<b>ゆうがた</b>",
     "options": [
       "Bên cạnh",
-      "Chiều qua",
+      "Chiều tối",
       "Hình dạng",
       "Tới (Nhật)"
     ],
@@ -217,12 +205,12 @@
   },
   {
     "id": 26,
-    "question": "<b>かいます</b>",
+    "question": "<b>かいます (飼います)</b>",
     "options": [
       "(có thể) nghe thấy",
       "(có thể) nhìn thấy",
       "Bên, phía, hướng",
-      "Nuôi"
+      "Nuôi (thú)"
     ],
     "correctAnswer": 3,
     "difficulty": 1
@@ -257,7 +245,7 @@
     "options": [
       "かいます",
       "かたち",
-      "つきます",
+      "きます",
       "みえます"
     ],
     "correctAnswer": 2,
@@ -373,7 +361,7 @@
   },
   {
     "id": 48,
-    "question": "<b>Bên, phía, hướng</b>",
+    "question": "<b>Phía ~ (bờ, bên của vật thể)</b>",
     "options": [
       "じどうはんばいき",
       "そば",
@@ -401,7 +389,7 @@
     "options": [
       "Bên, phía, hướng",
       "Rèm cửa",
-      "Thao tác, điều khiển",
+      "Thao tác, điều khiển (máy móc)",
       "Xây, xây dựng"
     ],
     "correctAnswer": 2,
@@ -409,7 +397,7 @@
   },
   {
     "id": 52,
-    "question": "<b>Rượu uýt ki</b>",
+    "question": "<b>Rượu whisky</b>",
     "options": [
       "うちます",
       "たてます",
@@ -449,7 +437,7 @@
     "options": [
       "Chung cư",
       "Giọng, giọng nói",
-      "Sóng, sóng biển",
+      "Hình dạng",
       "Thứ~"
     ],
     "correctAnswer": 3,
@@ -625,7 +613,7 @@
   },
   {
     "id": 98,
-    "question": "<b>Chiều qua</b>",
+    "question": "<b>Chiều tối</b>",
     "options": [
       "たてます",
       "どうぐ",
@@ -786,7 +774,7 @@
       "Giọng, giọng nói",
       "Gắn, bật…",
       "Máy bán hàng tự động",
-      "Rượu uýt ki"
+      "Rượu whisky"
     ],
     "correctAnswer": 2,
     "difficulty": 1

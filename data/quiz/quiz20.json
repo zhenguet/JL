@@ -51,7 +51,7 @@
     "options": [
       "cần từ điển",
       "nghiên cứu, kiểm tra, điều tra",
-      "tất cả mọi người",
+      "mọi người cùng nhau",
       "đằng đó (cách nói tự nhiên của, thân mật \"sochira\")"
     ],
     "correctAnswer": 2,
@@ -68,18 +68,6 @@
     ],
     "correctAnswer": 3,
     "difficulty": 1
-  },
-  {
-    "id": 7,
-    "question": "<b><ruby>僕<rp>（</rp><rt>ぼく</rt><rp>）</rp></ruby></b>",
-    "options": [
-      "そっち",
-      "はじめ",
-      "ぼく",
-      "まっているよ"
-    ],
-    "correctAnswer": 2,
-    "difficulty": 2
   },
   {
     "id": 8,
@@ -121,7 +109,7 @@
     "id": 11,
     "question": "<b>ビザ</b>",
     "options": [
-      "Bánh Pizza",
+      "書類",
       "Visa",
       "chứng minh",
       "hộ chiếu"

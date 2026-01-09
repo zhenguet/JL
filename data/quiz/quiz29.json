@@ -12,18 +12,6 @@
     "difficulty": 1
   },
   {
-    "id": 2,
-    "question": "<b>つきます</b>",
-    "options": [
-      "Bật đèn",
-      "Mở cửa",
-      "Tắt đèn",
-      "Đóng cửa"
-    ],
-    "correctAnswer": 0,
-    "difficulty": 1
-  },
-  {
     "id": 3,
     "question": "<b>～りょうめ</b>",
     "options": [
@@ -104,7 +92,7 @@
       "ひも",
       "ほんとうだ"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "difficulty": 2
   },
   {
@@ -344,7 +332,7 @@
       "Ngã, đổ, đổ bệnh",
       "Xin mời dùng, đi ~ trước"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "difficulty": 1
   },
   {
@@ -476,12 +464,12 @@
       "Túi (Áo, quần)",
       "Vỡ, bị vỡ"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "difficulty": 1
   },
   {
     "id": 41,
-    "question": "<b>Bị khóa</b>",
+    "question": "<b>Bị khóa (ổ khóa đã khóa)</b>",
     "options": [
       "かかります",
       "てちょう",
@@ -505,7 +493,7 @@
   },
   {
     "id": 43,
-    "question": "<b>Bị khóa</b>",
+    "question": "<b>Bị khóa (ổ khóa đã khóa)</b>",
     "options": [
       "かかります",
       "さら",
@@ -600,18 +588,6 @@
     "difficulty": 1
   },
   {
-    "id": 51,
-    "question": "<b>A：たおれますは　どこですか。<p>B：（　）です。</p></b>",
-    "options": [
-      "あそこ",
-      "ここ",
-      "そこ",
-      "どこ"
-    ],
-    "correctAnswer": 2,
-    "difficulty": 2
-  },
-  {
     "id": 52,
     "question": "<b>Vắng, vắng vẻ</b>",
     "options": [
@@ -622,18 +598,6 @@
     ],
     "correctAnswer": 1,
     "difficulty": 1
-  },
-  {
-    "id": 53,
-    "question": "<b>A：ガラスは　どこですか。<p>B：（　）です。</p></b>",
-    "options": [
-      "あそこ",
-      "ここ",
-      "そこ",
-      "どこ"
-    ],
-    "correctAnswer": 1,
-    "difficulty": 2
   },
   {
     "id": 54,
@@ -680,7 +644,7 @@
       "Gãy, bị gãy",
       "Đĩa, cái đĩa"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "difficulty": 1
   },
   {
@@ -720,18 +684,6 @@
     "difficulty": 1
   },
   {
-    "id": 61,
-    "question": "<b>A：あみだなは　どちらですか。<p>B：（　）です。</p></b>",
-    "options": [
-      "あちら",
-      "こちら",
-      "そちら",
-      "どちら"
-    ],
-    "correctAnswer": 0,
-    "difficulty": 2
-  },
-  {
     "id": 62,
     "question": "<b>Định kì / Vé tháng</b>",
     "options": [
@@ -742,18 +694,6 @@
     ],
     "correctAnswer": 1,
     "difficulty": 1
-  },
-  {
-    "id": 63,
-    "question": "<b>A：ズボンは　どちらですか。<p>B：（　）です。</p></b>",
-    "options": [
-      "あちら",
-      "こちら",
-      "そちら",
-      "どちら"
-    ],
-    "correctAnswer": 2,
-    "difficulty": 2
   },
   {
     "id": 64,
@@ -777,18 +717,6 @@
       "はり"
     ],
     "correctAnswer": 3,
-    "difficulty": 2
-  },
-  {
-    "id": 66,
-    "question": "<b>A：ちゃわんは　どこですか。<p>B：（　）です。</p></b>",
-    "options": [
-      "あそこ",
-      "ここ",
-      "そこ",
-      "どこ"
-    ],
-    "correctAnswer": 1,
     "difficulty": 2
   },
   {
@@ -828,18 +756,6 @@
     "difficulty": 2
   },
   {
-    "id": 70,
-    "question": "<b>A：おれますは　どちらですか。<p>B：（　）です。</p></b>",
-    "options": [
-      "あちら",
-      "こちら",
-      "そちら",
-      "どちら"
-    ],
-    "correctAnswer": 0,
-    "difficulty": 2
-  },
-  {
     "id": 71,
     "question": "<b>A：これは　なんですか。<p>B：（　）は　わすれものです。</p></b>",
     "options": [
@@ -862,18 +778,6 @@
     ],
     "correctAnswer": 1,
     "difficulty": 1
-  },
-  {
-    "id": 73,
-    "question": "<b>A：これは　なんですか。<p>B：（　）は　たおれますです。</p></b>",
-    "options": [
-      "あれ",
-      "これ",
-      "それ",
-      "どれ"
-    ],
-    "correctAnswer": 1,
-    "difficulty": 2
   },
   {
     "id": 74,
@@ -912,18 +816,6 @@
     "difficulty": 1
   },
   {
-    "id": 77,
-    "question": "<b>A：とまりますは　どちらですか。<p>B：（　）です。</p></b>",
-    "options": [
-      "あちら",
-      "こちら",
-      "そちら",
-      "どちら"
-    ],
-    "correctAnswer": 0,
-    "difficulty": 2
-  },
-  {
     "id": 78,
     "question": "<b>切れます</b>",
     "options": [
@@ -931,18 +823,6 @@
       "かべ",
       "きれます",
       "ズボン"
-    ],
-    "correctAnswer": 2,
-    "difficulty": 2
-  },
-  {
-    "id": 79,
-    "question": "<b>A：つきますは　どちらですか。<p>B：（　）です。</p></b>",
-    "options": [
-      "あちら",
-      "こちら",
-      "そちら",
-      "どちら"
     ],
     "correctAnswer": 2,
     "difficulty": 2
@@ -982,18 +862,6 @@
     ],
     "correctAnswer": 2,
     "difficulty": 1
-  },
-  {
-    "id": 83,
-    "question": "<b>A：とまりますは　どこですか。<p>B：（　）です。</p></b>",
-    "options": [
-      "あそこ",
-      "ここ",
-      "そこ",
-      "どこ"
-    ],
-    "correctAnswer": 2,
-    "difficulty": 2
   },
   {
     "id": 84,
@@ -1052,20 +920,8 @@
       "Nhặt, nhặt được",
       "Tất"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "difficulty": 1
-  },
-  {
-    "id": 89,
-    "question": "<b>A：これは　なんですか。<p>B：（　）は　おとしますです。</p></b>",
-    "options": [
-      "あれ",
-      "これ",
-      "それ",
-      "どれ"
-    ],
-    "correctAnswer": 1,
-    "difficulty": 2
   },
   {
     "id": 90,
@@ -1073,18 +929,6 @@
     "options": [
       "壊れている",
       "破れている"
-    ],
-    "correctAnswer": 0,
-    "difficulty": 2
-  },
-  {
-    "id": 91,
-    "question": "<b>A：ズボンは　どこですか。<p>B：（　）です。</p></b>",
-    "options": [
-      "あそこ",
-      "ここ",
-      "そこ",
-      "どこ"
     ],
     "correctAnswer": 1,
     "difficulty": 2
@@ -1126,18 +970,6 @@
     "difficulty": 1
   },
   {
-    "id": 95,
-    "question": "<b>A：よごれますは　どこですか。<p>B：（　）です。</p></b>",
-    "options": [
-      "あそこ",
-      "ここ",
-      "そこ",
-      "どこ"
-    ],
-    "correctAnswer": 0,
-    "difficulty": 2
-  },
-  {
     "id": 96,
     "question": "<b>Nhầm, nhầm lẫn</b>",
     "options": [
@@ -1148,30 +980,6 @@
     ],
     "correctAnswer": 2,
     "difficulty": 1
-  },
-  {
-    "id": 97,
-    "question": "<b>A：コップは　どこですか。<p>B：（　）です。</p></b>",
-    "options": [
-      "あそこ",
-      "ここ",
-      "そこ",
-      "どこ"
-    ],
-    "correctAnswer": 0,
-    "difficulty": 2
-  },
-  {
-    "id": 98,
-    "question": "<b>A：かべは　どこですか。<p>B：（　）です。</p></b>",
-    "options": [
-      "あそこ",
-      "ここ",
-      "そこ",
-      "どこ"
-    ],
-    "correctAnswer": 2,
-    "difficulty": 2
   },
   {
     "id": 99,
@@ -1218,7 +1026,7 @@
       "はり",
       "まちがえます"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "difficulty": 2
   },
   {
@@ -1266,7 +1074,7 @@
       "Tôi không nhớ",
       "Vỡ, bị vỡ"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "difficulty": 1
   },
   {
@@ -1285,7 +1093,7 @@
     "id": 108,
     "question": "<b>かかります</b>",
     "options": [
-      "Bị khóa",
+      "Bị khóa (ổ khóa đã khóa)",
       "Toa xe thứ…",
       "Vùng này, quanh đây",
       "[Ôi] tốt quá!"
@@ -1318,30 +1126,6 @@
     "difficulty": 1
   },
   {
-    "id": 111,
-    "question": "<b>A：くつしたは　どちらですか。<p>B：（　）です。</p></b>",
-    "options": [
-      "あちら",
-      "こちら",
-      "そちら",
-      "どちら"
-    ],
-    "correctAnswer": 0,
-    "difficulty": 2
-  },
-  {
-    "id": 112,
-    "question": "<b>A：まちがえますは　どこですか。<p>B：（　）です。</p></b>",
-    "options": [
-      "あそこ",
-      "ここ",
-      "そこ",
-      "どこ"
-    ],
-    "correctAnswer": 1,
-    "difficulty": 2
-  },
-  {
     "id": 113,
     "question": "<b>Cái kim</b>",
     "options": [
@@ -1361,18 +1145,6 @@
       "は、に"
     ],
     "correctAnswer": 0,
-    "difficulty": 2
-  },
-  {
-    "id": 115,
-    "question": "<b>A：～りょうめは　どこですか。<p>B：（　）です。</p></b>",
-    "options": [
-      "あそこ",
-      "ここ",
-      "そこ",
-      "どこ"
-    ],
-    "correctAnswer": 1,
     "difficulty": 2
   },
   {

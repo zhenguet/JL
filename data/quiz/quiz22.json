@@ -24,18 +24,6 @@
     "difficulty": 1
   },
   {
-    "id": 3,
-    "question": "<b>かけます</b>",
-    "options": [
-      "Vạn lý trường thành",
-      "tiền thuê nhà",
-      "áo len",
-      "đeo [kính]"
-    ],
-    "correctAnswer": 3,
-    "difficulty": 1
-  },
-  {
     "id": 4,
     "question": "<b>đi [giày], mặc [quần]</b>",
     "options": [
@@ -44,7 +32,7 @@
       "ふく",
       "ぶひん"
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 0,
     "difficulty": 1
   },
   {
@@ -68,7 +56,7 @@
       "それ",
       "どれ"
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 2,
     "difficulty": 2
   },
   {
@@ -80,7 +68,7 @@
       "それ",
       "どれ"
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 2,
     "difficulty": 2
   },
   {
@@ -172,7 +160,7 @@
     "question": "<b>シャツ／コートをきます</b>",
     "options": [
       "kính",
-      "mặc áo sơ mi",
+      "mặc áo sơ mi / áo khoác",
       "áo choàng ngoài, áo măng tô",
       "đi giày"
     ],
@@ -188,7 +176,7 @@
       "それ",
       "どれ"
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 2,
     "difficulty": 2
   },
   {
@@ -399,7 +387,7 @@
     "id": 34,
     "question": "<b>はきます</b>",
     "options": [
-      "Mang giày",
+      "Mang giày / mang tất / mặc quần",
       "Mặc áo",
       "Đeo kính",
       "Đội mũ"
@@ -452,7 +440,7 @@
       "それ",
       "どれ"
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 2,
     "difficulty": 2
   },
   {
@@ -488,7 +476,7 @@
       "それ",
       "どれ"
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 2,
     "difficulty": 3
   },
   {
