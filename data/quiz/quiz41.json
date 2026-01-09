@@ -30,17 +30,17 @@
       "くれた",
       "もらえました"
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 0,
     "difficulty": 3
   },
   {
     "id": 4,
-    "question": "<b>わたしの<ruby>誕<ruby>生<rp>（</rp><rt>う</rt><rp>）</rp></ruby><ruby>日<rp>（</rp><rt>ひ</rt><rp>）</rp></ruby><rp>（</rp><rt>たんじょうび</rt><rp>）</rp></ruby>に、<ruby>息<ruby>子<rp>（</rp><rt>こ</rt><rp>）</rp></ruby><rp>（</rp><rt>むすこ</rt><rp>）</rp></ruby>は<ruby>自分<rp>（</rp><rt>じぶん</rt><rp>）</rp></ruby>で<ruby>作<rp>（</rp><rt>つく</rt><rp>）</rp></ruby>った<ruby>紙<rp>（</rp><rt>かみ</rt><rp>）</rp></ruby><ruby>飛<ruby>行<rp>（</rp><rt>い</rt><rp>）</rp></ruby>機<rp>（</rp><rt>ひこうき</rt><rp>）</rp></ruby>を＿＿＿。</b>",
+    "question": "<b>わたしの<ruby>誕<ruby>生<rp>（</rp><rt>う</rt><rp>）</rp></ruby><ruby>日<rp>（</rp><rt>ひ</rt><rp>）</rp></ruby><rp>（</rp><rt>たんじょうび</rt><rp>）</rp></ruby>に、<ruby>息<ruby>子<rp>（</rp><rt>こ</rt><rp>）</rp></ruby><rp>（</rp><rt>むすこ</rt><rp>）</rp></ruby>は<ruby>自分<rp>（</rp><rt>じぶん</rt><rp>）</rp></ruby>で<ruby>作<rp>（</rp><rt>つく</rt><rp>）</rp></ruby>った<ruby>紙<ruby>飛<ruby>行<rp>（</rp><rt>い</rt><rp>）</rp></ruby>機<rp>（</rp><rt>ひこうき</rt><rp>）</rp></ruby><rp>（</rp><rt>かみひこうき</rt><rp>）</rp></ruby>を＿＿＿。</b>",
     "options": [
       "あげました",
       "くれました"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "difficulty": 4
   },
   {
@@ -108,20 +108,8 @@
       "の、に、が",
       "の、に、で"
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 0,
     "difficulty": 3
-  },
-  {
-    "id": 11,
-    "question": "<b>中身</b>",
-    "options": [
-      "ちゅうしん",
-      "ちゅうみ",
-      "なかしん",
-      "なかみ"
-    ],
-    "correctAnswer": 3,
-    "difficulty": 2
   },
   {
     "id": 12,
@@ -306,7 +294,7 @@
       "Mời",
       "Ông (của mình)"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "difficulty": 1
   },
   {
@@ -440,17 +428,6 @@
     "difficulty": 1
   },
   {
-    "id": 39,
-    "question": "<b>Khăn tay</b>",
-    "options": [
-      "ドライバー",
-      "ハンカチ",
-      "バッグ"
-    ],
-    "correctAnswer": 1,
-    "difficulty": 1
-  },
-  {
     "id": 40,
     "question": "<b>せんじつ</b>",
     "options": [
@@ -459,7 +436,7 @@
       "Điệu múa, điệu nhảy",
       "Đổi, thay"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "difficulty": 1
   },
   {
@@ -505,7 +482,7 @@
       "くださった",
       "もらった"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "difficulty": 4
   },
   {
@@ -540,18 +517,6 @@
       "ハンカチ"
     ],
     "correctAnswer": 3,
-    "difficulty": 1
-  },
-  {
-    "id": 48,
-    "question": "<b>Nam giới</b>",
-    "options": [
-      "あかちゃん",
-      "おとこ",
-      "おんな",
-      "こいびと"
-    ],
-    "correctAnswer": 1,
     "difficulty": 1
   },
   {
@@ -737,7 +702,7 @@
       "が",
       "は"
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 0,
     "difficulty": 3
   },
   {
@@ -1109,7 +1074,7 @@
       "Sinh sống",
       "Thành, cung thành"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "difficulty": 1
   },
   {
@@ -1291,18 +1256,6 @@
     "difficulty": 2
   },
   {
-    "id": 113,
-    "question": "<b>A：これは　なんですか。<p>B：（　）は　やりますです。</p></b>",
-    "options": [
-      "あれ",
-      "これ",
-      "それ",
-      "どれ"
-    ],
-    "correctAnswer": 1,
-    "difficulty": 2
-  },
-  {
     "id": 114,
     "question": "<b>むすこさん</b>",
     "options": [
@@ -1425,7 +1378,7 @@
       "かめ",
       "せんじつ"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "difficulty": 2
   },
   {
@@ -1611,7 +1564,7 @@
       "あげました",
       "くださいました"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "difficulty": 3
   },
   {
@@ -1657,7 +1610,7 @@
       "いただいた",
       "くれた"
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 0,
     "difficulty": 4
   },
   {
@@ -1763,7 +1716,7 @@
       "けむり",
       "しょうたい"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "difficulty": 2
   },
   {
