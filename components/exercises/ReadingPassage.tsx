@@ -34,7 +34,7 @@ export default function ReadingPassage({
 
   const handleSubmit = () => {
     if (selectedAnswers.some(ans => ans === null)) {
-      alert(t.reading.questions);
+      alert(t.reading.pleaseAnswerAll);
       return;
     }
     onSubmit(selectedAnswers as number[]);

@@ -68,6 +68,10 @@ export interface Translations {
     aiError: string
     correctHiraganaReading: string
     correctReading: string
+    empty: string
+    whatIs: string
+    readAs: string
+    aiGenerated: string
   }
   vocabulary: {
     title: string
@@ -124,9 +128,16 @@ export interface Translations {
     questions: string
     question: string
     submit: string
+    pleaseAnswerAll: string
   }
   home: {
     selectLesson: string
     lesson: string
+  }
+  alphabet: {
+    title: string
+    basicTable: string
+    combinedTable: string
+    viewAlphabet: string
   }
 }

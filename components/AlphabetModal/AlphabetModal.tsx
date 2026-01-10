@@ -1,6 +1,7 @@
 'use client'
 
 import React, { useState } from 'react'
+import { useI18n } from '@/i18n/context'
 import './AlphabetModal.css'
 
 interface AlphabetModalProps {
@@ -101,6 +102,7 @@ const katakanaCombinedRomaji = [
 ]
 
 export default function AlphabetModal({ isOpen, onClose }: AlphabetModalProps) {
+  const { t } = useI18n()
   const [activeTab, setActiveTab] = useState<'hiragana' | 'katakana'>('hiragana')
 
   if (!isOpen) return null
@@ -109,7 +111,7 @@ export default function AlphabetModal({ isOpen, onClose }: AlphabetModalProps) {
     <div className="alphabet-modal-overlay" onClick={onClose}>
       <div className="alphabet-modal-content" onClick={(e) => e.stopPropagation()}>
         <div className="alphabet-modal-header">
-          <h2>Bảng chữ cái</h2>
+          <h2>{t.alphabet.title}</h2>
           <button className="alphabet-modal-close" onClick={onClose}>
             ×
           </button>
@@ -134,7 +136,7 @@ export default function AlphabetModal({ isOpen, onClose }: AlphabetModalProps) {
           {activeTab === 'hiragana' ? (
             <>
               <div className="alphabet-section">
-                <h3>Bảng cơ bản</h3>
+                <h3>{t.alphabet.basicTable}</h3>
                 <table className="alphabet-table">
                   <thead>
                     <tr>
@@ -167,7 +169,7 @@ export default function AlphabetModal({ isOpen, onClose }: AlphabetModalProps) {
               </div>
 
               <div className="alphabet-section">
-                <h3>Âm ghép</h3>
+                <h3>{t.alphabet.combinedTable}</h3>
                 <table className="alphabet-table combined">
                   <thead>
                     <tr>
@@ -215,7 +217,7 @@ export default function AlphabetModal({ isOpen, onClose }: AlphabetModalProps) {
           ) : (
             <>
               <div className="alphabet-section">
-                <h3>Bảng cơ bản</h3>
+                <h3>{t.alphabet.basicTable}</h3>
                 <table className="alphabet-table">
                   <thead>
                     <tr>
@@ -248,7 +250,7 @@ export default function AlphabetModal({ isOpen, onClose }: AlphabetModalProps) {
               </div>
 
               <div className="alphabet-section">
-                <h3>Âm ghép</h3>
+                <h3>{t.alphabet.combinedTable}</h3>
                 <table className="alphabet-table combined">
                   <thead>
                     <tr>

@@ -65,7 +65,11 @@
     "readingQuestions": "問",
     "aiError": "AIエラー（ローカルチェックを使用）",
     "correctHiraganaReading": "正しいひらがなの読み方。",
-    "correctReading": "正しい読み方"
+    "correctReading": "正しい読み方",
+    "empty": "（空）",
+    "whatIs": "は何ですか？",
+    "readAs": "は何と読みますか？",
+    "aiGenerated": "AIによって生成された質問"
   },
   "vocabulary": {
     "title": "語彙",
@@ -126,5 +130,18 @@
   "home": {
     "selectLesson": "レッスンを選択して開始",
     "lesson": "課"
+  },
+  "alphabet": {
+    "title": "文字表",
+    "basicTable": "基本表",
+    "combinedTable": "組み合わせ音",
+    "viewAlphabet": "文字表を見る"
+  },
+  "reading": {
+    "passage": "文章",
+    "questions": "質問",
+    "question": "問",
+    "submit": "提出",
+    "pleaseAnswerAll": "すべての質問に答えてください"
   }
 }

@@ -65,7 +65,11 @@
     "readingQuestions": "câu",
     "aiError": "AI lỗi (dùng local check)",
     "correctHiraganaReading": "Đúng cách đọc hiragana.",
-    "correctReading": "Cách đọc đúng"
+    "correctReading": "Cách đọc đúng",
+    "empty": "(trống)",
+    "whatIs": "là gì?",
+    "readAs": "đọc là gì?",
+    "aiGenerated": "Câu hỏi được tạo bởi AI"
   },
   "vocabulary": {
     "title": "Từ vựng",
@@ -126,5 +130,18 @@
   "home": {
     "selectLesson": "Chọn bài học để bắt đầu",
     "lesson": "Bài"
+  },
+  "alphabet": {
+    "title": "Bảng chữ cái",
+    "basicTable": "Bảng cơ bản",
+    "combinedTable": "Âm ghép",
+    "viewAlphabet": "Xem bảng chữ cái"
+  },
+  "reading": {
+    "passage": "Đoạn văn",
+    "questions": "Câu hỏi",
+    "question": "Câu",
+    "submit": "Nộp bài",
+    "pleaseAnswerAll": "Vui lòng trả lời tất cả các câu hỏi"
   }
 }

@@ -71,18 +71,6 @@ function createFillKanjiHiraganaExercise(
   };
 }
 
-function createFillHiraganaFromKanjiExercise(
-  word: VocabularyWord
-): FillHiraganaFromKanjiExercise {
-  return {
-    id: `fill-hiragana-from-kanji-${Date.now()}`,
-    type: 'fill-hiragana-from-kanji',
-    question: `${word.kanji} (${word.vi}) đọc là gì?`,
-    kanji: word.kanji,
-    meaningVi: word.vi,
-    answer: word.hiragana,
-  };
-}
 
 function cleanText(text: string, toLowerCase = false): string {
   let cleaned = text
@@ -181,14 +169,25 @@ export default function ExerciseClient({ lessonNumber, exerciseType }: ExerciseC
   const createKanjiExercise = (word: VocabularyWord): KanjiExercise => {
     const shouldShowHiragana = !word.kanji || word.kanji !== word.hiragana;
     const question = shouldShowHiragana
-      ? `${t.exercise.kanjiQuestion} "${word.hiragana}" (${word.vi}) là gì?`
-      : `${t.exercise.kanjiQuestionNoHiragana} (${word.vi}) là gì?`;
+      ? `${t.exercise.kanjiQuestion} "${word.hiragana}" (${word.vi}) ${t.exercise.whatIs}`
+      : `${t.exercise.kanjiQuestionNoHiragana} (${word.vi}) ${t.exercise.whatIs}`;
     return {
       id: `kanji-${Date.now()}`,
       type: 'kanji',
       question,
       answer: word.kanji!,
       hiragana: word.hiragana,
+    };
+  };
+
+  const createFillHiraganaFromKanjiExercise = (word: VocabularyWord): FillHiraganaFromKanjiExercise => {
+    return {
+      id: `fill-hiragana-from-kanji-${Date.now()}`,
+      type: 'fill-hiragana-from-kanji',
+      question: `${word.kanji} (${word.vi}) ${t.exercise.readAs}`,
+      kanji: word.kanji,
+      meaningVi: word.vi,
+      answer: word.hiragana,
     };
   };
   const [currentExercise, setCurrentExercise] = useState<Exercise | null>(null);
@@ -635,7 +634,7 @@ export default function ExerciseClient({ lessonNumber, exerciseType }: ExerciseC
             <h3>
               {currentExercise.question}
               {currentExercise.id.includes('-ai-') && (
-                <span className="ai-badge" title="Câu hỏi được tạo bởi AI">
+                <span className="ai-badge" title={t.exercise.aiGenerated}>
                   🤖 AI
                 </span>
               )}
@@ -745,7 +744,7 @@ export default function ExerciseClient({ lessonNumber, exerciseType }: ExerciseC
                 </span>
                 <span className="history-answer">
                   <span className="history-text">
-                    {item.userAnswer || '(trống)'}
+                    {item.userAnswer || t.exercise.empty}
                   </span>
                   <span
                     className={`history-icon ${
