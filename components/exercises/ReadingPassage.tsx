@@ -3,6 +3,7 @@
 import { MultipleChoice } from '@/components/exercises';
 import { ReadingExercise } from '@/types/exercise';
 import { useState } from 'react';
+import { useI18n } from '@/i18n/context';
 import './readingPassage.css';
 
 interface ReadingPassageProps {
@@ -20,6 +21,7 @@ export default function ReadingPassage({
   userAnswers = [],
   disabled = false
 }: ReadingPassageProps) {
+  const { t } = useI18n();
   const [selectedAnswers, setSelectedAnswers] = useState<(number | null)[]>(
     new Array(exercise.questions.length).fill(null)
   );
@@ -31,9 +33,8 @@ export default function ReadingPassage({
   };
 
   const handleSubmit = () => {
-    // Check if all questions are answered
     if (selectedAnswers.some(ans => ans === null)) {
-      alert('Vui lòng trả lời tất cả câu hỏi!');
+      alert(t.reading.questions);
       return;
     }
     onSubmit(selectedAnswers as number[]);
@@ -44,7 +45,7 @@ export default function ReadingPassage({
   return (
     <div className="reading-passage-container">
       <div className="passage-section">
-        <h4 className="passage-title">📖 Đoạn văn</h4>
+        <h4 className="passage-title">📖 {t.reading.passage}</h4>
         <div className="passage-content">
           {exercise.passage.split('\n').map((line, idx) => (
             <p key={idx}>{line}</p>
@@ -53,10 +54,10 @@ export default function ReadingPassage({
       </div>
 
       <div className="questions-section">
-        <h4 className="questions-title">❓ Câu hỏi</h4>
+        <h4 className="questions-title">❓ {t.reading.questions}</h4>
         {exercise.questions.map((question, idx) => (
           <div key={idx} className="reading-question">
-            <div className="question-number">Câu {idx + 1}</div>
+            <div className="question-number">{t.reading.question} {idx + 1}</div>
             <MultipleChoice
               question={question.question}
               options={question.options}
@@ -77,7 +78,7 @@ export default function ReadingPassage({
             className="btn btn-submit"
             disabled={!allAnswered || disabled}
           >
-            Nộp bài ({selectedAnswers.filter(a => a !== null).length}/{exercise.questions.length})
+            {t.reading.submit} ({selectedAnswers.filter(a => a !== null).length}/{exercise.questions.length})
           </button>
         </div>
       )}

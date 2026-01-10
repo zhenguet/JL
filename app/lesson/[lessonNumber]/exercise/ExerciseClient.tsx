@@ -24,6 +24,7 @@ import {
 import { useEffect, useRef, useState } from 'react';
 import { useRouter } from 'next/navigation';
 import { exerciseTypeToRoute } from '@/utils/exerciseRoute';
+import { useI18n } from '@/i18n/context';
 import './exercise.css';
 
 interface ExerciseClientProps {
@@ -31,19 +32,6 @@ interface ExerciseClientProps {
   exerciseType: ExerciseType;
 }
 
-const EXERCISE_TYPES: Array<{
-  type: ExerciseType;
-  label: string;
-  icon: string;
-}> = [
-  { type: 'fill', label: 'Điền từ', icon: '📝' },
-  { type: 'fill-kanji-hiragana', label: 'Điền Kanji/Hiragana', icon: '✏️' },
-  {
-    type: 'fill-hiragana-from-kanji',
-    label: 'Điền chữ mềm (Kanji + nghĩa)',
-    icon: '🖋️',
-  },
-];
 
 const VOCABULARY_EXERCISE_TYPES: ExerciseType[] = [
   'fill',
@@ -200,8 +188,22 @@ function checkTextAnswer(userAnswer: string, correctAnswer: string): boolean {
 }
 
 export default function ExerciseClient({ lessonNumber, exerciseType }: ExerciseClientProps) {
+  const { t } = useI18n();
   const router = useRouter();
   const vocabulary = vocabularyData[lessonNumber] || [];
+  const EXERCISE_TYPES: Array<{
+    type: ExerciseType;
+    label: string;
+    icon: string;
+  }> = [
+    { type: 'fill', label: t.exercise.fill, icon: '📝' },
+    { type: 'fill-kanji-hiragana', label: t.exercise.fillKanjiHiragana, icon: '✏️' },
+    {
+      type: 'fill-hiragana-from-kanji',
+      label: t.exercise.fillHiraganaFromKanji,
+      icon: '🖋️',
+    },
+  ];
   const [currentExercise, setCurrentExercise] = useState<Exercise | null>(null);
   const [userAnswer, setUserAnswer] = useState('');
   const [selectedOptionIndex, setSelectedOptionIndex] = useState<number | null>(
@@ -549,7 +551,7 @@ export default function ExerciseClient({ lessonNumber, exerciseType }: ExerciseC
               }
             }
           }}
-          placeholder="Nhập câu trả lời..."
+          placeholder={t.exercise.enterAnswer}
           disabled={showResult}
           className="answer-input"
           autoComplete="off"
@@ -585,7 +587,7 @@ export default function ExerciseClient({ lessonNumber, exerciseType }: ExerciseC
 
   return (
     <div className="exercise-container">
-      <PageTitle title="Bài tập" lessonNumber={lessonNumber} />
+      <PageTitle title={t.exercise.title} lessonNumber={lessonNumber} />
 
       <div className="exercise-type-selector">
         {EXERCISE_TYPES.map(({ type, label, icon }) => (
@@ -601,13 +603,13 @@ export default function ExerciseClient({ lessonNumber, exerciseType }: ExerciseC
 
       <div className="stats-bar">
         <div className="stat-item">
-          <span className="stat-label">Điểm</span>
+          <span className="stat-label">{t.exercise.score}</span>
           <span className="stat-value">
             {score}/{total}
           </span>
         </div>
         <div className="stat-item">
-          <span className="stat-label">Streak</span>
+          <span className="stat-label">{t.exercise.streak}</span>
           <span className="stat-value">🔥 {streak}</span>
         </div>
       </div>
@@ -622,15 +624,15 @@ export default function ExerciseClient({ lessonNumber, exerciseType }: ExerciseC
       {isGenerating ? (
         <div className="loading-container">
           <div className="generating-indicator">
-            <span className="spinner">⏳</span> Đang tạo câu hỏi mới...
+            <span className="spinner">⏳</span> {t.exercise.generating}
           </div>
         </div>
       ) : !currentExercise ? (
         <EmptyMessage
           message={
             isEmptyMessage
-              ? `Chưa có dữ liệu từ vựng cho bài ${lessonNumber}`
-              : `Chưa có bài tập ${exerciseType} cho bài ${lessonNumber}`
+              ? `${t.exercise.noData} ${lessonNumber}`
+              : `${t.exercise.noExercise} ${lessonNumber}`
           }
         />
       ) : (
@@ -663,7 +665,7 @@ export default function ExerciseClient({ lessonNumber, exerciseType }: ExerciseC
                   <span className="result-icon">✓</span>
                   <div>
                     <div className="result-header">
-                      <span>Chính xác! +1 điểm</span>
+                      <span>{t.exercise.correctPoints}</span>
                       {checkMethod && (
                         <span className={`check-badge ${checkMethod}`}>
                           {checkMethod === 'ai' ? '🤖 AI' : '💻 Local'}
@@ -681,7 +683,7 @@ export default function ExerciseClient({ lessonNumber, exerciseType }: ExerciseC
                   <div>
                     <div className="result-header">
                       <span>
-                        Sai rồi. Đáp án:{' '}
+                        {t.exercise.wrongAnswer}:{' '}
                         <strong className="correct-answer-text">
                           {getCorrectAnswer()}
                         </strong>
@@ -708,7 +710,7 @@ export default function ExerciseClient({ lessonNumber, exerciseType }: ExerciseC
                 className="btn btn-submit"
                 disabled={isChecking}
               >
-                {isChecking ? 'Đang kiểm tra...' : 'Kiểm tra'}
+                {isChecking ? t.exercise.checking : t.common.check}
               </button>
             ) : (
               <button
@@ -716,7 +718,7 @@ export default function ExerciseClient({ lessonNumber, exerciseType }: ExerciseC
                 className="btn btn-next"
                 ref={(btn) => btn?.focus()}
               >
-                Tiếp tục ↵
+                {t.common.continue} ↵
               </button>
             )}
           </div>
@@ -727,7 +729,7 @@ export default function ExerciseClient({ lessonNumber, exerciseType }: ExerciseC
         <div className="practiced-words">
           <div className="flex items-center justify-between gap-2">
             <span className="stat-label">
-              Từ đã làm ({answerHistory.length})
+              {t.exercise.practicedWords} ({answerHistory.length})
             </span>
             <div>
               <span className="correct-count">

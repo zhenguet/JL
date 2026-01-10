@@ -4,6 +4,7 @@ import { useState, useEffect, useRef } from 'react'
 import { vocabularyData } from '@/data/vocabulary'
 import { VocabularyWord } from '@/types/vocabulary'
 import { EmptyMessage, PageTitle, ProgressBar } from '@/components'
+import { useI18n } from '@/i18n/context'
 import './flashcard.css'
 
 interface FlashcardClientProps {
@@ -11,6 +12,7 @@ interface FlashcardClientProps {
 }
 
 export default function FlashcardClient({ lessonNumber }: FlashcardClientProps) {
+  const { t } = useI18n()
   const vocabulary = vocabularyData[lessonNumber] || []
   const [currentIndex, setCurrentIndex] = useState(0)
   const [isFlipped, setIsFlipped] = useState(false)
@@ -79,8 +81,8 @@ export default function FlashcardClient({ lessonNumber }: FlashcardClientProps) 
   if (vocabulary.length === 0) {
     return (
       <div className="flashcard-container">
-        <PageTitle title="Flashcard" lessonNumber={lessonNumber} />
-        <EmptyMessage message={`Chưa có dữ liệu từ vựng cho bài ${lessonNumber}`} />
+        <PageTitle title={t.flashcard.title} lessonNumber={lessonNumber} />
+        <EmptyMessage message={`${t.flashcard.noData} ${lessonNumber}`} />
       </div>
     )
   }
@@ -88,8 +90,8 @@ export default function FlashcardClient({ lessonNumber }: FlashcardClientProps) 
   if (shuffledWords.length === 0) {
     return (
       <div className="flashcard-container">
-        <PageTitle title="Flashcard" lessonNumber={lessonNumber} />
-        <EmptyMessage message="Đang tải..." />
+        <PageTitle title={t.flashcard.title} lessonNumber={lessonNumber} />
+        <EmptyMessage message={t.common.loading} />
       </div>
     )
   }
@@ -98,8 +100,8 @@ export default function FlashcardClient({ lessonNumber }: FlashcardClientProps) 
   if (!currentWord) {
     return (
       <div className="flashcard-container">
-        <PageTitle title="Flashcard" lessonNumber={lessonNumber} />
-        <EmptyMessage message="Đang tải..." />
+        <PageTitle title={t.flashcard.title} lessonNumber={lessonNumber} />
+        <EmptyMessage message={t.common.loading} />
       </div>
     )
   }
@@ -190,7 +192,7 @@ export default function FlashcardClient({ lessonNumber }: FlashcardClientProps) 
                   {word.kanji ? (
                     <div className="word-kanji">{word.kanji}</div>
                   ) : null}
-                  <div className="card-hint">Click để xem nghĩa</div>
+                  <div className="card-hint">{t.flashcard.clickToView}</div>
                 </div>
               </div>
               <div className="card-back" style={{ position: 'relative', height: 'auto' }}>
@@ -204,23 +206,23 @@ export default function FlashcardClient({ lessonNumber }: FlashcardClientProps) 
         ))}
       </div>
 
-      <PageTitle title="Flashcard" lessonNumber={lessonNumber} />
+      <PageTitle title={t.flashcard.title} lessonNumber={lessonNumber} />
 
       <div className="flashcard-controls">
         <button onClick={handleShuffle} className="btn btn-secondary">
-          Xáo trộn
+          {t.common.shuffle}
         </button>
         <button
           onClick={() => handleModeChange('view')}
           className={`btn ${practiceMode === 'view' ? 'btn-primary' : 'btn-secondary'}`}
         >
-          Xem nghĩa
+          {t.flashcard.viewMeaning}
         </button>
         <button
           onClick={() => handleModeChange('fill')}
           className={`btn ${practiceMode === 'fill' ? 'btn-primary' : 'btn-secondary'}`}
         >
-          Điền nghĩa
+          {t.flashcard.fillMeaning}
         </button>
       </div>
 
@@ -244,7 +246,7 @@ export default function FlashcardClient({ lessonNumber }: FlashcardClientProps) 
                 {currentWord.kanji ? (
                   <div className="word-kanji">{currentWord.kanji}</div>
                 ) : null}
-                <div className="card-hint">Click để xem nghĩa</div>
+                <div className="card-hint">{t.flashcard.clickToView}</div>
               </div>
             </div>
             <div className="card-back">
@@ -284,7 +286,7 @@ export default function FlashcardClient({ lessonNumber }: FlashcardClientProps) 
                           checkAnswer()
                         }
                       }}
-                      placeholder="Nhập nghĩa..."
+                      placeholder={t.flashcard.enterMeaning}
                       className="fill-input"
                       disabled={showResult}
                     />
@@ -308,11 +310,11 @@ export default function FlashcardClient({ lessonNumber }: FlashcardClientProps) 
 
       <div className="card-navigation">
         <button onClick={handlePrev} className="btn btn-nav">
-          ← Trước
+          ← {t.common.prev}
         </button>
         {practiceMode === 'view' ? (
           <button onClick={handleFlip} className="btn btn-primary">
-            {isFlipped ? 'Ẩn nghĩa' : 'Xem nghĩa'}
+            {isFlipped ? t.flashcard.hideMeaning : t.flashcard.viewMeaning}
           </button>
         ) : (
           <button
@@ -320,11 +322,11 @@ export default function FlashcardClient({ lessonNumber }: FlashcardClientProps) 
             className="btn btn-primary"
             disabled={!userAnswer.trim() || showResult}
           >
-            {showResult ? 'Đã kiểm tra' : 'Kiểm tra'}
+            {showResult ? t.flashcard.checked : t.common.check}
           </button>
         )}
         <button onClick={handleNext} className="btn btn-nav">
-          Sau →
+          {t.common.next} →
         </button>
       </div>
     </div>

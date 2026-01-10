@@ -2,6 +2,7 @@
 
 import React, { useState } from 'react'
 import { VocabularyWord } from '@/types/vocabulary'
+import { useI18n } from '@/i18n/context'
 import './VocabularyTable.css'
 
 interface VocabularyTableProps {
@@ -9,15 +10,16 @@ interface VocabularyTableProps {
   showKanji?: boolean
 }
 
-const typeLabels: Record<string, string> = {
-  noun: 'Danh từ',
-  verb: 'Động từ',
-  adjective: 'Tính từ',
-  adverb: 'Trạng từ',
-  other: 'Khác',
-}
 
 export default function VocabularyTable({ words, showKanji = true }: VocabularyTableProps) {
+  const { t } = useI18n()
+  const typeLabels: Record<string, string> = {
+    noun: 'Danh từ',
+    verb: 'Động từ',
+    adjective: 'Tính từ',
+    adverb: 'Trạng từ',
+    other: 'Khác',
+  }
   const [expandedIds, setExpandedIds] = useState<Set<string>>(new Set())
 
   if (words.length === 0) {
@@ -84,7 +86,7 @@ export default function VocabularyTable({ words, showKanji = true }: VocabularyT
                               className="expand-btn"
                               onClick={() => toggleExpand(word.id)}
                             >
-                              {isExpanded ? 'Thu gọn' : 'Xem chi tiết'}
+                              {isExpanded ? t.vocabulary.collapse : t.vocabulary.expand}
                             </button>
                           )}
                         </td>
@@ -94,7 +96,7 @@ export default function VocabularyTable({ words, showKanji = true }: VocabularyT
                           <td colSpan={4} className="detail-content">
                             <div className="vocab-detail">
                               <div className="detail-section">
-                                <h4>Giải thích:</h4>
+                                <h4>{t.vocabulary.explanation}:</h4>
                                 <ul className="explanation-list">
                                   {word.explanation!.content.map((item, idx) => (
                                     <li key={idx}>{item}</li>

@@ -1,5 +1,8 @@
+'use client'
+
 import { vocabularyData } from '@/data/vocabulary'
 import { EmptyMessage, PageTitle } from '@/components'
+import { useI18n } from '@/i18n/context'
 import './usage.css'
 
 export function generateStaticParams() {
@@ -20,6 +23,7 @@ interface WordExplanation {
 }
 
 export default function UsagePage({ params }: PageProps) {
+  const { t } = useI18n();
   const lessonNumber = parseInt(params.lessonNumber, 10);
   const vocabulary = vocabularyData[lessonNumber] || [];
 
@@ -44,9 +48,9 @@ export default function UsagePage({ params }: PageProps) {
   if (wordsWithExplanation.length === 0) {
     return (
       <div className="usage-container">
-        <PageTitle title="Giải thích cách dùng" lessonNumber={lessonNumber} />
+        <PageTitle title={t.usage.title} lessonNumber={lessonNumber} />
         <EmptyMessage
-          message={`Chưa có giải thích cho từ vựng bài ${lessonNumber}`}
+          message={`${t.usage.noData} ${lessonNumber}`}
         />
       </div>
     );
@@ -54,9 +58,9 @@ export default function UsagePage({ params }: PageProps) {
 
   return (
     <div className="usage-container">
-      <PageTitle title="Giải thích cách dùng" lessonNumber={lessonNumber} />
+      <PageTitle title={t.usage.title} lessonNumber={lessonNumber} />
       <p className="intro-text">
-        Dưới đây là cách sử dụng một số từ vựng quan trọng trong bài học:
+        {t.usage.intro}
       </p>
 
       <div className="explanations-list">

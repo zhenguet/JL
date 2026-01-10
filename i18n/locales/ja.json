@@ -1,0 +1,83 @@
+{
+  "common": {
+    "lesson": "課",
+    "loading": "読み込み中...",
+    "continue": "続ける",
+    "check": "確認",
+    "next": "次",
+    "prev": "前",
+    "shuffle": "シャッフル",
+    "correct": "正解",
+    "incorrect": "不正解",
+    "answer": "答え",
+    "submit": "提出",
+    "reset": "リセット",
+    "close": "閉じる"
+  },
+  "navigation": {
+    "vocabulary": "語彙",
+    "grammar": "文法",
+    "flashcard": "フラッシュカード",
+    "exercise": "練習",
+    "quiz": "クイズ",
+    "usage": "使い方の説明"
+  },
+  "flashcard": {
+    "title": "フラッシュカード",
+    "viewMeaning": "意味を見る",
+    "fillMeaning": "意味を入力",
+    "clickToView": "クリックして意味を見る",
+    "hideMeaning": "意味を隠す",
+    "enterMeaning": "意味を入力...",
+    "checked": "確認済み",
+    "noData": "レッスンの語彙データがありません"
+  },
+  "exercise": {
+    "title": "練習",
+    "fill": "単語を埋める",
+    "fillKanjiHiragana": "漢字/ひらがなを埋める",
+    "fillHiraganaFromKanji": "ひらがなを埋める（漢字+意味）",
+    "score": "スコア",
+    "streak": "連続",
+    "checking": "確認中...",
+    "correctAnswer": "答え",
+    "enterAnswer": "答えを入力...",
+    "correctPoints": "正解！+1点",
+    "wrongAnswer": "不正解。答え",
+    "practicedWords": "練習した単語",
+    "noData": "レッスンの語彙データがありません",
+    "generating": "新しい問題を生成中...",
+    "noExercise": "レッスンの練習がありません"
+  },
+  "vocabulary": {
+    "title": "語彙",
+    "kanji": "漢字",
+    "hiragana": "ひらがな/カタカナ",
+    "meaning": "意味",
+    "details": "詳細",
+    "expand": "詳細を見る",
+    "collapse": "折りたたむ",
+    "explanation": "説明",
+    "noData": "レッスンの語彙データがありません"
+  },
+  "grammar": {
+    "title": "文法",
+    "noData": "レッスンの文法データがありません"
+  },
+  "quiz": {
+    "title": "クイズ",
+    "result": "結果",
+    "noData": "レッスンのクイズデータがありません"
+  },
+  "usage": {
+    "title": "使い方の説明",
+    "intro": "以下は、このレッスンの重要な語彙の使い方の説明です：",
+    "noData": "レッスンの使い方の説明がありません"
+  },
+  "reading": {
+    "passage": "文章",
+    "questions": "質問",
+    "question": "問",
+    "submit": "提出"
+  }
+}

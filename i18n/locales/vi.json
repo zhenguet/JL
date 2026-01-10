@@ -1,0 +1,83 @@
+{
+  "common": {
+    "lesson": "Bài",
+    "loading": "Đang tải...",
+    "continue": "Tiếp tục",
+    "check": "Kiểm tra",
+    "next": "Sau",
+    "prev": "Trước",
+    "shuffle": "Xáo trộn",
+    "correct": "Chính xác",
+    "incorrect": "Sai",
+    "answer": "Đáp án",
+    "submit": "Nộp bài",
+    "reset": "Làm lại",
+    "close": "Đóng"
+  },
+  "navigation": {
+    "vocabulary": "Từ vựng",
+    "grammar": "Ngữ pháp",
+    "flashcard": "Flashcard",
+    "exercise": "Bài tập",
+    "quiz": "Kiểm tra",
+    "usage": "Giải thích cách dùng"
+  },
+  "flashcard": {
+    "title": "Flashcard",
+    "viewMeaning": "Xem nghĩa",
+    "fillMeaning": "Điền nghĩa",
+    "clickToView": "Click để xem nghĩa",
+    "hideMeaning": "Ẩn nghĩa",
+    "enterMeaning": "Nhập nghĩa...",
+    "checked": "Đã kiểm tra",
+    "noData": "Chưa có dữ liệu từ vựng cho bài"
+  },
+  "exercise": {
+    "title": "Bài tập",
+    "fill": "Điền từ",
+    "fillKanjiHiragana": "Điền Kanji/Hiragana",
+    "fillHiraganaFromKanji": "Điền chữ mềm (Kanji + nghĩa)",
+    "score": "Điểm",
+    "streak": "Streak",
+    "checking": "Đang kiểm tra...",
+    "correctAnswer": "Đáp án",
+    "enterAnswer": "Nhập câu trả lời...",
+    "correctPoints": "Chính xác! +1 điểm",
+    "wrongAnswer": "Sai rồi. Đáp án",
+    "practicedWords": "Từ đã làm",
+    "noData": "Chưa có dữ liệu từ vựng cho bài",
+    "generating": "Đang tạo câu hỏi mới...",
+    "noExercise": "Chưa có bài tập cho bài"
+  },
+  "vocabulary": {
+    "title": "Từ vựng",
+    "kanji": "Kanji",
+    "hiragana": "Hiragana/Katakana",
+    "meaning": "Nghĩa",
+    "details": "Chi tiết",
+    "expand": "Xem chi tiết",
+    "collapse": "Thu gọn",
+    "explanation": "Giải thích",
+    "noData": "Chưa có dữ liệu từ vựng cho bài"
+  },
+  "grammar": {
+    "title": "Ngữ pháp",
+    "noData": "Chưa có dữ liệu ngữ pháp cho bài"
+  },
+  "quiz": {
+    "title": "Kiểm tra",
+    "result": "Kết Quả",
+    "noData": "Chưa có dữ liệu quiz cho bài"
+  },
+  "usage": {
+    "title": "Giải thích cách dùng",
+    "intro": "Dưới đây là cách sử dụng một số từ vựng quan trọng trong bài học:",
+    "noData": "Chưa có giải thích cho từ vựng bài"
+  },
+  "reading": {
+    "passage": "Đoạn văn",
+    "questions": "Câu hỏi",
+    "question": "Câu",
+    "submit": "Nộp bài"
+  }
+}

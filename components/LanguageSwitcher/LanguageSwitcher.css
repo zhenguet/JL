@@ -1,0 +1,24 @@
+.language-switcher {
+  display: flex;
+  align-items: center;
+  width: 100%;
+}
+
+.language-select {
+  width: 100%;
+  font-size: 0.9rem;
+}
+
+.language-icon {
+  width: 24px;
+  height: 24px;
+  object-fit: contain;
+  flex-shrink: 0;
+}
+
+.language-option-icon {
+  width: 24px;
+  height: 24px;
+  object-fit: contain;
+  flex-shrink: 0;
+}

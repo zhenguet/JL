@@ -1,0 +1,83 @@
+{
+  "common": {
+    "lesson": "Lesson",
+    "loading": "Loading...",
+    "continue": "Continue",
+    "check": "Check",
+    "next": "Next",
+    "prev": "Previous",
+    "shuffle": "Shuffle",
+    "correct": "Correct",
+    "incorrect": "Incorrect",
+    "answer": "Answer",
+    "submit": "Submit",
+    "reset": "Reset",
+    "close": "Close"
+  },
+  "navigation": {
+    "vocabulary": "Vocabulary",
+    "grammar": "Grammar",
+    "flashcard": "Flashcard",
+    "exercise": "Exercise",
+    "quiz": "Quiz",
+    "usage": "Usage Explanation"
+  },
+  "flashcard": {
+    "title": "Flashcard",
+    "viewMeaning": "View Meaning",
+    "fillMeaning": "Fill Meaning",
+    "clickToView": "Click to view meaning",
+    "hideMeaning": "Hide Meaning",
+    "enterMeaning": "Enter meaning...",
+    "checked": "Checked",
+    "noData": "No vocabulary data for lesson"
+  },
+  "exercise": {
+    "title": "Exercise",
+    "fill": "Fill Word",
+    "fillKanjiHiragana": "Fill Kanji/Hiragana",
+    "fillHiraganaFromKanji": "Fill Hiragana (Kanji + meaning)",
+    "score": "Score",
+    "streak": "Streak",
+    "checking": "Checking...",
+    "correctAnswer": "Answer",
+    "enterAnswer": "Enter answer...",
+    "correctPoints": "Correct! +1 point",
+    "wrongAnswer": "Wrong. Answer",
+    "practicedWords": "Practiced Words",
+    "noData": "No vocabulary data for lesson",
+    "generating": "Generating new question...",
+    "noExercise": "No exercise for lesson"
+  },
+  "vocabulary": {
+    "title": "Vocabulary",
+    "kanji": "Kanji",
+    "hiragana": "Hiragana/Katakana",
+    "meaning": "Meaning",
+    "details": "Details",
+    "expand": "View Details",
+    "collapse": "Collapse",
+    "explanation": "Explanation",
+    "noData": "No vocabulary data for lesson"
+  },
+  "grammar": {
+    "title": "Grammar",
+    "noData": "No grammar data for lesson"
+  },
+  "quiz": {
+    "title": "Quiz",
+    "result": "Result",
+    "noData": "No quiz data for lesson"
+  },
+  "usage": {
+    "title": "Usage Explanation",
+    "intro": "Below are the usage explanations for some important vocabulary in this lesson:",
+    "noData": "No usage explanations for lesson"
+  },
+  "reading": {
+    "passage": "Passage",
+    "questions": "Questions",
+    "question": "Question",
+    "submit": "Submit"
+  }
+}

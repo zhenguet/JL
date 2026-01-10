@@ -1,6 +1,7 @@
 import type { Metadata } from 'next'
 import './globals.css'
 import ThemeRegistry from './theme/ThemeRegistry'
+import { I18nProvider } from '@/i18n/context'
 
 export const metadata: Metadata = {
   title: 'Minna no Nihongo - Ứng dụng học tiếng Nhật',
@@ -20,7 +21,9 @@ export default function RootLayout({
   return (
     <html lang="vi">
       <body>
-        <ThemeRegistry>{children}</ThemeRegistry>
+        <I18nProvider>
+          <ThemeRegistry>{children}</ThemeRegistry>
+        </I18nProvider>
       </body>
     </html>
   )
