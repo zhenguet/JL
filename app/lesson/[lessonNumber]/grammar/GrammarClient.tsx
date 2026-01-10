@@ -5,6 +5,7 @@ import { GrammarPoint } from '@/types/grammar'
 import { useState } from 'react'
 import React from 'react'
 import { EmptyMessage, PageTitle } from '@/components'
+import { useI18n } from '@/i18n/context'
 import './grammar.css'
 
 interface GrammarClientProps {
@@ -12,14 +13,15 @@ interface GrammarClientProps {
 }
 
 export default function GrammarClient({ lessonNumber }: GrammarClientProps) {
+  const { t } = useI18n()
   const grammar = grammarData[lessonNumber] || []
   const [expandedIds, setExpandedIds] = useState<Set<string>>(new Set())
 
   if (grammar.length === 0) {
     return (
       <div className="grammar-list">
-        <PageTitle title="Ngữ pháp" lessonNumber={lessonNumber} />
-        <EmptyMessage message={`Chưa có dữ liệu ngữ pháp cho bài ${lessonNumber}`} />
+        <PageTitle title={t.grammar.title} lessonNumber={lessonNumber} />
+        <EmptyMessage message={`${t.grammar.noData} ${lessonNumber}`} />
       </div>
     )
   }
@@ -39,20 +41,20 @@ export default function GrammarClient({ lessonNumber }: GrammarClientProps) {
   return (
     <div className="grammar-list">
       <PageTitle
-        title="Ngữ pháp"
+        title={t.grammar.title}
         lessonNumber={lessonNumber}
         count={grammar.length}
-        countLabel="điểm ngữ pháp"
+        countLabel={t.common.grammarPoint}
       />
 
       <div className="grammar-table-wrapper">
         <table className="grammar-table">
           <thead>
             <tr>
-              <th>Tiêu đề</th>
-              <th>Cấu trúc</th>
-              <th>Ví dụ</th>
-              <th>Chi tiết</th>
+              <th>{t.grammar.titleHeader}</th>
+              <th>{t.grammar.structure}</th>
+              <th>{t.grammar.example}</th>
+              <th>{t.grammar.details}</th>
             </tr>
           </thead>
           <tbody>
@@ -80,7 +82,7 @@ export default function GrammarClient({ lessonNumber }: GrammarClientProps) {
                       className="expand-btn"
                       onClick={() => toggleExpand(point.id)}
                     >
-                      {isExpanded ? 'Thu gọn' : 'Xem chi tiết'}
+                      {isExpanded ? t.grammar.collapse : t.grammar.viewDetails}
                     </button>
                   </td>
                 </tr>
@@ -89,12 +91,12 @@ export default function GrammarClient({ lessonNumber }: GrammarClientProps) {
                     <td colSpan={4} className="detail-content">
                       <div className="grammar-detail">
                         <div className="detail-section">
-                          <h4>Giải thích:</h4>
+                          <h4>{t.grammar.explanation}:</h4>
                           <p>{point.description}</p>
                         </div>
                         {point.examples.length > 0 && (
                           <div className="detail-section">
-                            <h4>Ví dụ:</h4>
+                            <h4>{t.grammar.examples}:</h4>
                             <ul className="example-list">
                               {point.examples.map((example, idx) => (
                                 <li key={idx} className="example-item">
@@ -108,7 +110,7 @@ export default function GrammarClient({ lessonNumber }: GrammarClientProps) {
                         )}
                         {point.notes && point.notes.length > 0 && (
                           <div className="detail-section">
-                            <h4>Lưu ý:</h4>
+                            <h4>{t.grammar.notes}:</h4>
                             <ul className="notes-list">
                               {point.notes.map((note, idx) => (
                                 <li key={idx}>{note}</li>

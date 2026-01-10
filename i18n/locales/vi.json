@@ -12,7 +12,10 @@
     "answer": "Đáp án",
     "submit": "Nộp bài",
     "reset": "Làm lại",
-    "close": "Đóng"
+    "close": "Đóng",
+    "total": "Tổng cộng",
+    "word": "từ",
+    "grammarPoint": "điểm ngữ pháp"
   },
   "navigation": {
     "vocabulary": "Từ vựng",
@@ -47,7 +50,22 @@
     "practicedWords": "Từ đã làm",
     "noData": "Chưa có dữ liệu từ vựng cho bài",
     "generating": "Đang tạo câu hỏi mới...",
-    "noExercise": "Chưa có bài tập cho bài"
+    "noExercise": "Chưa có bài tập cho bài",
+    "invalidType": "Loại bài tập không hợp lệ",
+    "typeNotFound": "Không tìm thấy loại bài tập",
+    "fillWordQuestion": "Điền từ còn thiếu",
+    "translateQuestion": "Dịch sang tiếng Việt",
+    "kanjiQuestion": "Kanji của",
+    "kanjiQuestionNoHiragana": "Kanji của từ này",
+    "correctKanjiHiragana": "Chính xác! Bạn có thể điền",
+    "answerCanBe": "Đáp án có thể là",
+    "orKanji": "hoặc",
+    "orHiragana": "hoặc",
+    "readingResult": "Đúng",
+    "readingQuestions": "câu",
+    "aiError": "AI lỗi (dùng local check)",
+    "correctHiraganaReading": "Đúng cách đọc hiragana.",
+    "correctReading": "Cách đọc đúng"
   },
   "vocabulary": {
     "title": "Từ vựng",
@@ -58,16 +76,41 @@
     "expand": "Xem chi tiết",
     "collapse": "Thu gọn",
     "explanation": "Giải thích",
-    "noData": "Chưa có dữ liệu từ vựng cho bài"
+    "noData": "Chưa có dữ liệu từ vựng cho bài",
+    "typeNoun": "Danh từ",
+    "typeVerb": "Động từ",
+    "typeAdjective": "Tính từ",
+    "typeAdverb": "Trạng từ",
+    "typeOther": "Khác"
   },
   "grammar": {
     "title": "Ngữ pháp",
-    "noData": "Chưa có dữ liệu ngữ pháp cho bài"
+    "noData": "Chưa có dữ liệu ngữ pháp cho bài",
+    "total": "Tổng cộng",
+    "point": "điểm ngữ pháp",
+    "titleHeader": "Tiêu đề",
+    "structure": "Cấu trúc",
+    "example": "Ví dụ",
+    "details": "Chi tiết",
+    "collapse": "Thu gọn",
+    "viewDetails": "Xem chi tiết",
+    "explanation": "Giải thích",
+    "examples": "Ví dụ",
+    "notes": "Lưu ý"
   },
   "quiz": {
     "title": "Kiểm tra",
     "result": "Kết Quả",
-    "noData": "Chưa có dữ liệu quiz cho bài"
+    "noData": "Chưa có dữ liệu quiz cho bài",
+    "loading": "Đang tải...",
+    "quizTitle": "Bài Tập Trắc Nghiệm",
+    "resultHeader": "Kết quả",
+    "showHiragana": "Hiện chữ mềm",
+    "hideHiragana": "Ẩn chữ mềm",
+    "questionList": "Danh sách câu hỏi",
+    "correct": "Đúng",
+    "incorrect": "Sai",
+    "shuffleTooltip": "Xáo trộn lại thứ tự câu hỏi và các lựa chọn"
   },
   "usage": {
     "title": "Giải thích cách dùng",
@@ -79,5 +122,9 @@
     "questions": "Câu hỏi",
     "question": "Câu",
     "submit": "Nộp bài"
+  },
+  "home": {
+    "selectLesson": "Chọn bài học để bắt đầu",
+    "lesson": "Bài"
   }
 }

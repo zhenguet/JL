@@ -15,6 +15,9 @@ export interface Translations {
     submit: string
     reset: string
     close: string
+    total: string
+    word: string
+    grammarPoint: string
   }
   navigation: {
     vocabulary: string
@@ -50,6 +53,21 @@ export interface Translations {
     noData: string
     generating: string
     noExercise: string
+    invalidType: string
+    typeNotFound: string
+    fillWordQuestion: string
+    translateQuestion: string
+    kanjiQuestion: string
+    kanjiQuestionNoHiragana: string
+    correctKanjiHiragana: string
+    answerCanBe: string
+    orKanji: string
+    orHiragana: string
+    readingResult: string
+    readingQuestions: string
+    aiError: string
+    correctHiraganaReading: string
+    correctReading: string
   }
   vocabulary: {
     title: string
@@ -61,15 +79,40 @@ export interface Translations {
     collapse: string
     explanation: string
     noData: string
+    typeNoun: string
+    typeVerb: string
+    typeAdjective: string
+    typeAdverb: string
+    typeOther: string
   }
   grammar: {
     title: string
     noData: string
+    total: string
+    point: string
+    titleHeader: string
+    structure: string
+    example: string
+    details: string
+    collapse: string
+    viewDetails: string
+    explanation: string
+    examples: string
+    notes: string
   }
   quiz: {
     title: string
     result: string
     noData: string
+    loading: string
+    quizTitle: string
+    resultHeader: string
+    showHiragana: string
+    hideHiragana: string
+    questionList: string
+    correct: string
+    incorrect: string
+    shuffleTooltip: string
   }
   usage: {
     title: string
@@ -81,5 +124,9 @@ export interface Translations {
     questions: string
     question: string
     submit: string
+  }
+  home: {
+    selectLesson: string
+    lesson: string
   }
 }

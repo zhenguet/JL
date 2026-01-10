@@ -12,7 +12,10 @@
     "answer": "Answer",
     "submit": "Submit",
     "reset": "Reset",
-    "close": "Close"
+    "close": "Close",
+    "total": "Total",
+    "word": "words",
+    "grammarPoint": "grammar points"
   },
   "navigation": {
     "vocabulary": "Vocabulary",
@@ -47,7 +50,22 @@
     "practicedWords": "Practiced Words",
     "noData": "No vocabulary data for lesson",
     "generating": "Generating new question...",
-    "noExercise": "No exercise for lesson"
+    "noExercise": "No exercise for lesson",
+    "invalidType": "Invalid exercise type",
+    "typeNotFound": "Exercise type not found",
+    "fillWordQuestion": "Fill in the missing word",
+    "translateQuestion": "Translate to Vietnamese",
+    "kanjiQuestion": "What is the Kanji of",
+    "kanjiQuestionNoHiragana": "What is the Kanji of this word",
+    "correctKanjiHiragana": "Correct! You can fill in",
+    "answerCanBe": "The answer can be",
+    "orKanji": "or",
+    "orHiragana": "or",
+    "readingResult": "Correct",
+    "readingQuestions": "questions",
+    "aiError": "AI error (using local check)",
+    "correctHiraganaReading": "Correct hiragana reading.",
+    "correctReading": "Correct reading"
   },
   "vocabulary": {
     "title": "Vocabulary",
@@ -62,12 +80,32 @@
   },
   "grammar": {
     "title": "Grammar",
-    "noData": "No grammar data for lesson"
+    "noData": "No grammar data for lesson",
+    "total": "Total",
+    "point": "grammar points",
+    "titleHeader": "Title",
+    "structure": "Structure",
+    "example": "Example",
+    "details": "Details",
+    "collapse": "Collapse",
+    "viewDetails": "View Details",
+    "explanation": "Explanation",
+    "examples": "Examples",
+    "notes": "Notes"
   },
   "quiz": {
     "title": "Quiz",
     "result": "Result",
-    "noData": "No quiz data for lesson"
+    "noData": "No quiz data for lesson",
+    "loading": "Loading...",
+    "quizTitle": "Quiz",
+    "resultHeader": "Result",
+    "showHiragana": "Show Hiragana",
+    "hideHiragana": "Hide Hiragana",
+    "questionList": "Question List",
+    "correct": "Correct",
+    "incorrect": "Incorrect",
+    "shuffleTooltip": "Shuffle question order and options"
   },
   "usage": {
     "title": "Usage Explanation",
@@ -79,5 +117,9 @@
     "questions": "Questions",
     "question": "Question",
     "submit": "Submit"
+  },
+  "home": {
+    "selectLesson": "Select a lesson to begin",
+    "lesson": "Lesson"
   }
 }

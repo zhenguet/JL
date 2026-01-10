@@ -54,46 +54,6 @@ function getRandomWord(
   return { word: randomWord, shouldReset };
 }
 
-function createFillExercise(word: VocabularyWord): FillExercise {
-  return {
-    id: `fill-${Date.now()}`,
-    type: 'fill',
-    question: `Điền từ còn thiếu: "${word.vi}" = ?`,
-    answer: word.hiragana,
-    hint: word.kanji,
-    kanji: word.kanji,
-  };
-}
-
-function createTranslateExercise(word: VocabularyWord): TranslateExercise {
-  const shouldShowHiragana = !word.kanji || word.kanji !== word.hiragana;
-  const hiraganaPart = shouldShowHiragana ? `"${word.hiragana}"` : '';
-  const kanjiPart = word.kanji ? `"${word.kanji}"` : '';
-  const question = shouldShowHiragana
-    ? `Dịch sang tiếng Việt: ${hiraganaPart}${word.kanji ? ` (${word.kanji})` : ''}`
-    : `Dịch sang tiếng Việt: ${kanjiPart}`;
-  return {
-    id: `translate-${Date.now()}`,
-    type: 'translate',
-    question,
-    answer: word.vi,
-    kanji: word.kanji,
-  };
-}
-
-function createKanjiExercise(word: VocabularyWord): KanjiExercise {
-  const shouldShowHiragana = !word.kanji || word.kanji !== word.hiragana;
-  const question = shouldShowHiragana
-    ? `Kanji của "${word.hiragana}" (${word.vi}) là gì?`
-    : `Kanji của từ này (${word.vi}) là gì?`;
-  return {
-    id: `kanji-${Date.now()}`,
-    type: 'kanji',
-    question,
-    answer: word.kanji!,
-    hiragana: word.hiragana,
-  };
-}
 
 function createFillKanjiHiraganaExercise(
   word: VocabularyWord
@@ -138,7 +98,8 @@ function cleanText(text: string, toLowerCase = false): string {
 
 function checkFillKanjiHiragana(
   exercise: FillKanjiHiraganaExercise,
-  userAnswer: string
+  userAnswer: string,
+  t: { exercise: { correctKanjiHiragana: string; answerCanBe: string; orKanji: string } }
 ): { correct: boolean; explanation: string } {
   const normalizedUserAnswer = cleanText(userAnswer);
   const normalizedKanji = cleanText(exercise.kanji);
@@ -149,23 +110,24 @@ function checkFillKanjiHiragana(
     normalizedUserAnswer === normalizedHiragana;
 
   const explanation = correct
-    ? `Chính xác! Bạn có thể điền "${exercise.kanji}" (kanji) hoặc "${exercise.hiragana}" (hiragana).`
-    : `Đáp án có thể là "${exercise.kanji}" (kanji) hoặc "${exercise.hiragana}" (hiragana).`;
+    ? `${t.exercise.correctKanjiHiragana} "${exercise.kanji}" (kanji) ${t.exercise.orKanji} "${exercise.hiragana}" (hiragana).`
+    : `${t.exercise.answerCanBe} "${exercise.kanji}" (kanji) ${t.exercise.orKanji} "${exercise.hiragana}" (hiragana).`;
 
   return { correct, explanation };
 }
 
 function checkFillHiraganaFromKanji(
   exercise: FillHiraganaFromKanjiExercise,
-  userAnswer: string
+  userAnswer: string,
+  t: { exercise: { correctHiraganaReading: string; correctReading: string } }
 ): { correct: boolean; explanation: string } {
   const normalizedUserAnswer = cleanText(userAnswer);
   const normalizedAnswer = cleanText(exercise.answer);
 
   const correct = normalizedUserAnswer === normalizedAnswer;
   const explanation = correct
-    ? 'Đúng cách đọc hiragana.'
-    : `Cách đọc đúng: ${exercise.answer}`;
+    ? t.exercise.correctHiraganaReading
+    : `${t.exercise.correctReading}: ${exercise.answer}`;
 
   return { correct, explanation };
 }
@@ -204,6 +166,31 @@ export default function ExerciseClient({ lessonNumber, exerciseType }: ExerciseC
       icon: '🖋️',
     },
   ];
+
+  const createFillExercise = (word: VocabularyWord): FillExercise => {
+    return {
+      id: `fill-${Date.now()}`,
+      type: 'fill',
+      question: `${t.exercise.fillWordQuestion}: "${word.vi}" = ?`,
+      answer: word.hiragana,
+      hint: word.kanji,
+      kanji: word.kanji,
+    };
+  };
+
+  const createKanjiExercise = (word: VocabularyWord): KanjiExercise => {
+    const shouldShowHiragana = !word.kanji || word.kanji !== word.hiragana;
+    const question = shouldShowHiragana
+      ? `${t.exercise.kanjiQuestion} "${word.hiragana}" (${word.vi}) là gì?`
+      : `${t.exercise.kanjiQuestionNoHiragana} (${word.vi}) là gì?`;
+    return {
+      id: `kanji-${Date.now()}`,
+      type: 'kanji',
+      question,
+      answer: word.kanji!,
+      hiragana: word.hiragana,
+    };
+  };
   const [currentExercise, setCurrentExercise] = useState<Exercise | null>(null);
   const [userAnswer, setUserAnswer] = useState('');
   const [selectedOptionIndex, setSelectedOptionIndex] = useState<number | null>(
@@ -407,12 +394,12 @@ export default function ExerciseClient({ lessonNumber, exerciseType }: ExerciseC
       explanation = currentExercise.explanation || '';
       usedMethod = 'local';
     } else if (isFillKanjiHiraganaExercise(currentExercise)) {
-      const result = checkFillKanjiHiragana(currentExercise, userAnswer);
+      const result = checkFillKanjiHiragana(currentExercise, userAnswer, t);
       correct = result.correct;
       explanation = result.explanation;
       usedMethod = 'local';
     } else if (isFillHiraganaFromKanjiExercise(currentExercise)) {
-      const result = checkFillHiraganaFromKanji(currentExercise, userAnswer);
+      const result = checkFillHiraganaFromKanji(currentExercise, userAnswer, t);
       correct = result.correct;
       explanation = result.explanation;
       usedMethod = 'local';
@@ -490,7 +477,7 @@ export default function ExerciseClient({ lessonNumber, exerciseType }: ExerciseC
     setScore((prev) => prev + correctCount);
     setIsCorrect(allCorrect);
     setCheckMethod('local');
-    setAiExplanation(`Đúng ${correctCount}/${totalQuestions} câu`);
+    setAiExplanation(`${t.exercise.readingResult} ${correctCount}/${totalQuestions} ${t.exercise.readingQuestions}`);
 
     if (allCorrect) {
       setStreak((prev) => prev + 1);
@@ -569,7 +556,10 @@ export default function ExerciseClient({ lessonNumber, exerciseType }: ExerciseC
       return currentExercise.options[currentExercise.correctIndex];
     }
     if (isFillKanjiHiraganaExercise(currentExercise)) {
-      return `${currentExercise.kanji} hoặc ${currentExercise.hiragana}`;
+      const shouldShowBoth = currentExercise.kanji && currentExercise.kanji !== currentExercise.hiragana;
+      return shouldShowBoth
+        ? `${currentExercise.kanji} ${t.exercise.orKanji} ${currentExercise.hiragana}`
+        : currentExercise.kanji || currentExercise.hiragana;
     }
     if (isFillHiraganaFromKanjiExercise(currentExercise)) {
       return currentExercise.answer;

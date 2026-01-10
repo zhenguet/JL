@@ -12,7 +12,10 @@
     "answer": "答え",
     "submit": "提出",
     "reset": "リセット",
-    "close": "閉じる"
+    "close": "閉じる",
+    "total": "合計",
+    "word": "語",
+    "grammarPoint": "文法ポイント"
   },
   "navigation": {
     "vocabulary": "語彙",
@@ -47,7 +50,22 @@
     "practicedWords": "練習した単語",
     "noData": "レッスンの語彙データがありません",
     "generating": "新しい問題を生成中...",
-    "noExercise": "レッスンの練習がありません"
+    "noExercise": "レッスンの練習がありません",
+    "invalidType": "無効な練習タイプ",
+    "typeNotFound": "練習タイプが見つかりません",
+    "fillWordQuestion": "不足している単語を埋める",
+    "translateQuestion": "ベトナム語に翻訳",
+    "kanjiQuestion": "の漢字は何ですか",
+    "kanjiQuestionNoHiragana": "この単語の漢字は何ですか",
+    "correctKanjiHiragana": "正解！入力できます",
+    "answerCanBe": "答えは",
+    "orKanji": "または",
+    "orHiragana": "または",
+    "readingResult": "正解",
+    "readingQuestions": "問",
+    "aiError": "AIエラー（ローカルチェックを使用）",
+    "correctHiraganaReading": "正しいひらがなの読み方。",
+    "correctReading": "正しい読み方"
   },
   "vocabulary": {
     "title": "語彙",
@@ -58,16 +76,41 @@
     "expand": "詳細を見る",
     "collapse": "折りたたむ",
     "explanation": "説明",
-    "noData": "レッスンの語彙データがありません"
+    "noData": "レッスンの語彙データがありません",
+    "typeNoun": "名詞",
+    "typeVerb": "動詞",
+    "typeAdjective": "形容詞",
+    "typeAdverb": "副詞",
+    "typeOther": "その他"
   },
   "grammar": {
     "title": "文法",
-    "noData": "レッスンの文法データがありません"
+    "noData": "レッスンの文法データがありません",
+    "total": "合計",
+    "point": "文法ポイント",
+    "titleHeader": "タイトル",
+    "structure": "構造",
+    "example": "例",
+    "details": "詳細",
+    "collapse": "折りたたむ",
+    "viewDetails": "詳細を見る",
+    "explanation": "説明",
+    "examples": "例",
+    "notes": "注意"
   },
   "quiz": {
     "title": "クイズ",
     "result": "結果",
-    "noData": "レッスンのクイズデータがありません"
+    "noData": "レッスンのクイズデータがありません",
+    "loading": "読み込み中...",
+    "quizTitle": "クイズ",
+    "resultHeader": "結果",
+    "showHiragana": "ひらがなを表示",
+    "hideHiragana": "ひらがなを非表示",
+    "questionList": "質問リスト",
+    "correct": "正解",
+    "incorrect": "不正解",
+    "shuffleTooltip": "質問と選択肢の順序をシャッフル"
   },
   "usage": {
     "title": "使い方の説明",
@@ -79,5 +122,9 @@
     "questions": "質問",
     "question": "問",
     "submit": "提出"
+  },
+  "home": {
+    "selectLesson": "レッスンを選択して開始",
+    "lesson": "課"
   }
 }

@@ -1,5 +1,6 @@
 import ExerciseClient from '../ExerciseClient';
 import { routeToExerciseType } from '@/utils/exerciseRoute';
+import ExerciseTypePageClient from './ExerciseTypePageClient';
 
 export function generateStaticParams() {
   const exerciseTypes = [
@@ -31,18 +32,6 @@ interface PageProps {
 }
 
 export default function ExerciseTypePage({ params }: PageProps) {
-  const lessonNumber = parseInt(params.lessonNumber, 10);
-  const exerciseType = routeToExerciseType(params.exerciseType);
-
-  if (!exerciseType) {
-    return (
-      <div>
-        <h2>Loại bài tập không hợp lệ</h2>
-        <p>Không tìm thấy loại bài tập: {params.exerciseType}</p>
-      </div>
-    );
-  }
-
-  return <ExerciseClient lessonNumber={lessonNumber} exerciseType={exerciseType} />;
+  return <ExerciseTypePageClient params={params} />;
 }
 

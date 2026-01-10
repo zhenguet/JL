@@ -14,11 +14,11 @@ interface VocabularyTableProps {
 export default function VocabularyTable({ words, showKanji = true }: VocabularyTableProps) {
   const { t } = useI18n()
   const typeLabels: Record<string, string> = {
-    noun: 'Danh từ',
-    verb: 'Động từ',
-    adjective: 'Tính từ',
-    adverb: 'Trạng từ',
-    other: 'Khác',
+    noun: t.vocabulary.typeNoun,
+    verb: t.vocabulary.typeVerb,
+    adjective: t.vocabulary.typeAdjective,
+    adverb: t.vocabulary.typeAdverb,
+    other: t.vocabulary.typeOther,
   }
   const [expandedIds, setExpandedIds] = useState<Set<string>>(new Set())
 
@@ -58,10 +58,10 @@ export default function VocabularyTable({ words, showKanji = true }: VocabularyT
             <table className="vocab-table">
               <thead>
                 <tr>
-                  <th>Kanji</th>
-                  <th>Hiragana/Katakana</th>
-                  <th>Nghĩa</th>
-                  <th>Chi tiết</th>
+                  <th>{t.vocabulary.kanji}</th>
+                  <th>{t.vocabulary.hiragana}</th>
+                  <th>{t.vocabulary.meaning}</th>
+                  <th>{t.vocabulary.details}</th>
                 </tr>
               </thead>
               <tbody>

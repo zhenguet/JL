@@ -2,6 +2,7 @@
 
 import { useMemo, useState } from 'react';
 import { QuizQuestion, ShuffledQuestion } from '@/types/quiz';
+import { useI18n } from '@/i18n/context';
 import './quiz.css';
 
 interface QuizProps {
@@ -88,6 +89,7 @@ export default function Quiz({
   title,
   shuffleOptions = true,
 }: QuizProps) {
+  const { t } = useI18n();
   const [shuffleKey, setShuffleKey] = useState(0);
   const [selectedAnswers, setSelectedAnswers] = useState<
     Record<number, number>
@@ -182,10 +184,10 @@ export default function Quiz({
     const isSelected = selectedAnswers[questionId] === optionIndex;
 
     if (isCorrect) {
-      return <span className="result-correct">✓ Đúng</span>;
+      return <span className="result-correct">✓ {t.quiz.correct}</span>;
     }
     if (isSelected && !isCorrect) {
-      return <span className="result-incorrect">✗ Sai</span>;
+      return <span className="result-incorrect">✗ {t.quiz.incorrect}</span>;
     }
     return null;
   };
@@ -224,7 +226,7 @@ export default function Quiz({
             {title && <h2 className="quiz-title">{title}</h2>}
             {shouldShowResultHeader && (
               <div className="quiz-result-header">
-                Kết quả: {result.correct} / {questions.length} ({' '}
+                {t.quiz.resultHeader}: {result.correct} / {questions.length} ({' '}
                 {result.percentage.toFixed(1)}% )
               </div>
             )}
@@ -235,9 +237,9 @@ export default function Quiz({
                 className={`btn-toggle-furigana ${
                   showFurigana ? 'active' : ''
                 }`}
-                title={showFurigana ? 'Ẩn chữ mềm' : 'Hiện chữ mềm'}
+                title={showFurigana ? t.quiz.hideHiragana : t.quiz.showHiragana}
               >
-                {showFurigana ? 'Ẩn chữ mềm' : 'Hiện chữ mềm'}
+                {showFurigana ? t.quiz.hideHiragana : t.quiz.showHiragana}
               </button>
             </div>
           </div>
@@ -328,28 +330,28 @@ export default function Quiz({
                 className="btn btn-danger"
                 disabled={Object.keys(selectedAnswers).length === 0}
               >
-                Kết Quả
+                {t.quiz.result}
               </button>
               <button
                 type="button"
                 onClick={handleReset}
                 className="btn btn-success"
               >
-                Làm Lại
+                {t.common.reset}
               </button>
               <button
                 type="button"
                 onClick={handleShuffle}
                 className="btn btn-secondary"
-                title="Xáo trộn lại thứ tự câu hỏi và các lựa chọn"
+                title={t.quiz.shuffleTooltip}
               >
-                Xáo Trộn
+                {t.common.shuffle}
               </button>
             </div>
           </div>
         </div>
         <aside className="quiz-summary-desktop">
-          <div className="quiz-summary-title">Danh sách câu hỏi</div>
+          <div className="quiz-summary-title">{t.quiz.questionList}</div>
           <div className="quiz-summary-grid">
             {shuffledQuestions.map((question, index) => {
               const status = getQuestionSummaryStatus(question);
