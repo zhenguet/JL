@@ -3,6 +3,7 @@
 import { useMemo, useState } from 'react';
 import { QuizQuestion, ShuffledQuestion } from '@/types/quiz';
 import { useI18n } from '@/i18n/context';
+import { Button } from '@/components';
 import './quiz.css';
 
 interface QuizProps {
@@ -231,16 +232,13 @@ export default function Quiz({
               </div>
             )}
             <div className="furigana-toggle">
-              <button
-                type="button"
+              <Button
+                variant={showFurigana ? 'primary' : 'secondary'}
                 onClick={() => setShowFurigana(!showFurigana)}
-                className={`btn-toggle-furigana ${
-                  showFurigana ? 'active' : ''
-                }`}
                 title={showFurigana ? t.quiz.hideHiragana : t.quiz.showHiragana}
               >
                 {showFurigana ? t.quiz.hideHiragana : t.quiz.showHiragana}
-              </button>
+              </Button>
             </div>
           </div>
           <form className="quiz-form">
@@ -324,29 +322,26 @@ export default function Quiz({
           </form>
           <div className="quiz-actions-wrapper">
             <div className="quiz-actions">
-              <button
-                type="button"
+              <Button
+                variant="danger"
                 onClick={handleCheckResult}
-                className="btn btn-danger"
                 disabled={Object.keys(selectedAnswers).length === 0}
               >
                 {t.quiz.result}
-              </button>
-              <button
-                type="button"
+              </Button>
+              <Button
+                variant="success"
                 onClick={handleReset}
-                className="btn btn-success"
               >
                 {t.common.reset}
-              </button>
-              <button
-                type="button"
+              </Button>
+              <Button
+                variant="secondary"
                 onClick={handleShuffle}
-                className="btn btn-secondary"
                 title={t.quiz.shuffleTooltip}
               >
                 {t.common.shuffle}
-              </button>
+              </Button>
             </div>
           </div>
         </div>
@@ -360,7 +355,6 @@ export default function Quiz({
                   key={question.id}
                   className={`quiz-summary-item quiz-summary-item-${status}`}
                   onClick={() => handleQuestionScroll(question.id)}
-                  style={{ cursor: 'pointer' }}
                 >
                   {index + 1}
                 </div>

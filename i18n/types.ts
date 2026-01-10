@@ -37,6 +37,7 @@ export interface Translations {
     enterMeaning: string
     checked: string
     noData: string
+    correctAnswer: string
   }
   exercise: {
     title: string

@@ -3,6 +3,7 @@
 import React, { useState } from 'react'
 import { VocabularyWord } from '@/types/vocabulary'
 import { useI18n } from '@/i18n/context'
+import { Button } from '@/components'
 import './VocabularyTable.css'
 
 interface VocabularyTableProps {
@@ -82,12 +83,12 @@ export default function VocabularyTable({ words, showKanji = true }: VocabularyT
                         <td className="meaning-cell">{word.vi}</td>
                         <td className="detail-cell">
                           {hasExplanation && (
-                            <button
-                              className="expand-btn"
+                            <Button
+                              variant="secondary"
                               onClick={() => toggleExpand(word.id)}
                             >
                               {isExpanded ? t.vocabulary.collapse : t.vocabulary.expand}
-                            </button>
+                            </Button>
                           )}
                         </td>
                       </tr>

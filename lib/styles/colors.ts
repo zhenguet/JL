@@ -64,4 +64,5 @@ export const colors = {
   shadowBlackMediumDark: 'rgba(0, 0, 0, 0.15)',
   shadowBlackDark: 'rgba(0, 0, 0, 0.2)',
   shadowBlackDarker: 'rgba(0, 0, 0, 0.3)',
+  shadowPrimaryHover: 'rgba(102, 126, 234, 0.4)',
 } as const

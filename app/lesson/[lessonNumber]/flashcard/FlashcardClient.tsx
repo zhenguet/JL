@@ -3,7 +3,7 @@
 import { useState, useEffect, useRef } from 'react'
 import { vocabularyData } from '@/data/vocabulary'
 import { VocabularyWord } from '@/types/vocabulary'
-import { EmptyMessage, PageTitle, ProgressBar } from '@/components'
+import { EmptyMessage, PageTitle, ProgressBar, Button } from '@/components'
 import { useI18n } from '@/i18n/context'
 import './flashcard.css'
 
@@ -169,22 +169,11 @@ export default function FlashcardClient({ lessonNumber }: FlashcardClientProps) 
 
   return (
     <div className="flashcard-container">
-      <div
-        ref={hiddenCardsRef}
-        style={{
-          position: 'absolute',
-          visibility: 'hidden',
-          pointerEvents: 'none',
-          top: '-9999px',
-          left: '-9999px',
-          width: '500px',
-          maxWidth: '100%',
-        }}
-      >
-        {shuffledWords.map((word, idx) => (
-          <div key={idx} className="hidden-card" style={{ marginBottom: '20px' }}>
-            <div className="card" style={{ position: 'relative', height: 'auto', minHeight: 'auto' }}>
-              <div className="card-front" style={{ position: 'relative', height: 'auto' }}>
+      <div ref={hiddenCardsRef} className="flashcard-hidden-container">
+        {shuffledWords.slice(0, 5).map((word, idx) => (
+          <div key={idx} className="hidden-card flashcard-hidden-card">
+            <div className="card">
+              <div className="card-front">
                 <div className="card-content">
                   {shouldShowHiragana(word) && (
                     <div className="word-hiragana">{word.hiragana}</div>
@@ -195,7 +184,7 @@ export default function FlashcardClient({ lessonNumber }: FlashcardClientProps) 
                   <div className="card-hint">{t.flashcard.clickToView}</div>
                 </div>
               </div>
-              <div className="card-back" style={{ position: 'relative', height: 'auto' }}>
+              <div className="card-back">
                 <div className="card-content">
                   <div className="word-meaning">{word.vi}</div>
                   <div className="word-type">{word.type}</div>
@@ -209,21 +198,21 @@ export default function FlashcardClient({ lessonNumber }: FlashcardClientProps) 
       <PageTitle title={t.flashcard.title} lessonNumber={lessonNumber} />
 
       <div className="flashcard-controls">
-        <button onClick={handleShuffle} className="btn btn-secondary">
+        <Button variant="secondary" onClick={handleShuffle}>
           {t.common.shuffle}
-        </button>
-        <button
+        </Button>
+        <Button
+          variant={practiceMode === 'view' ? 'primary' : 'secondary'}
           onClick={() => handleModeChange('view')}
-          className={`btn ${practiceMode === 'view' ? 'btn-primary' : 'btn-secondary'}`}
         >
           {t.flashcard.viewMeaning}
-        </button>
-        <button
+        </Button>
+        <Button
+          variant={practiceMode === 'fill' ? 'primary' : 'secondary'}
           onClick={() => handleModeChange('fill')}
-          className={`btn ${practiceMode === 'fill' ? 'btn-primary' : 'btn-secondary'}`}
         >
           {t.flashcard.fillMeaning}
-        </button>
+        </Button>
       </div>
 
       <ProgressBar
@@ -298,7 +287,7 @@ export default function FlashcardClient({ lessonNumber }: FlashcardClientProps) 
                   </div>
                   {showResult && !isCorrect && (
                     <div className="correct-answer-hint">
-                      Đáp án: {currentWord.vi}
+                      {t.flashcard.correctAnswer}: {currentWord.vi}
                     </div>
                   )}
                 </div>
@@ -309,25 +298,25 @@ export default function FlashcardClient({ lessonNumber }: FlashcardClientProps) 
       )}
 
       <div className="card-navigation">
-        <button onClick={handlePrev} className="btn btn-nav">
+        <Button variant="nav" onClick={handlePrev}>
           ← {t.common.prev}
-        </button>
+        </Button>
         {practiceMode === 'view' ? (
-          <button onClick={handleFlip} className="btn btn-primary">
+          <Button variant="primary" onClick={handleFlip}>
             {isFlipped ? t.flashcard.hideMeaning : t.flashcard.viewMeaning}
-          </button>
+          </Button>
         ) : (
-          <button
+          <Button
+            variant="primary"
             onClick={checkAnswer}
-            className="btn btn-primary"
             disabled={!userAnswer.trim() || showResult}
           >
             {showResult ? t.flashcard.checked : t.common.check}
-          </button>
+          </Button>
         )}
-        <button onClick={handleNext} className="btn btn-nav">
+        <Button variant="nav" onClick={handleNext}>
           {t.common.next} →
-        </button>
+        </Button>
       </div>
     </div>
   )

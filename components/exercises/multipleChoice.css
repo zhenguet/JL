@@ -48,7 +48,7 @@
   border-color: var(--color-primary-dark);
   border-width: 3px;
   background: var(--gradient-primary);
-  box-shadow: 0 6px 16px rgba(102, 126, 234, 0.4);
+  box-shadow: 0 6px 16px var(--shadow-primary-hover);
   transform: scale(1.02);
 }
 

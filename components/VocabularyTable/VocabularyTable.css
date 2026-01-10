@@ -65,7 +65,7 @@
 }
 
 .no-kanji {
-  color: #999;
+  color: var(--color-text-lightest);
   font-style: italic;
 }
 

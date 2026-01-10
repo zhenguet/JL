@@ -2,6 +2,7 @@
 
 import React, { useState } from 'react'
 import { useI18n } from '@/i18n/context'
+import { Button } from '@/components'
 import './AlphabetModal.css'
 
 interface AlphabetModalProps {
@@ -112,24 +113,30 @@ export default function AlphabetModal({ isOpen, onClose }: AlphabetModalProps) {
       <div className="alphabet-modal-content" onClick={(e) => e.stopPropagation()}>
         <div className="alphabet-modal-header">
           <h2>{t.alphabet.title}</h2>
-          <button className="alphabet-modal-close" onClick={onClose}>
+          <Button
+            variant="secondary"
+            onClick={onClose}
+            className="alphabet-modal-close"
+          >
             ×
-          </button>
+          </Button>
         </div>
 
         <div className="alphabet-tabs">
-          <button
-            className={`alphabet-tab ${activeTab === 'hiragana' ? 'active' : ''}`}
+          <Button
+            variant="secondary"
             onClick={() => setActiveTab('hiragana')}
+            className={`alphabet-tab ${activeTab === 'hiragana' ? 'active' : ''}`}
           >
             Hiragana
-          </button>
-          <button
-            className={`alphabet-tab ${activeTab === 'katakana' ? 'active' : ''}`}
+          </Button>
+          <Button
+            variant="secondary"
             onClick={() => setActiveTab('katakana')}
+            className={`alphabet-tab ${activeTab === 'katakana' ? 'active' : ''}`}
           >
             Katakana
-          </button>
+          </Button>
         </div>
 
         <div className="alphabet-content">

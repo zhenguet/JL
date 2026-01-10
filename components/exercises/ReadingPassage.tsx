@@ -1,6 +1,7 @@
 'use client';
 
 import { MultipleChoice } from '@/components/Exercises';
+import { Button } from '@/components';
 import { ReadingExercise } from '@/types/exercise';
 import { useState } from 'react';
 import { useI18n } from '@/i18n/context';
@@ -73,13 +74,13 @@ export default function ReadingPassage({
 
       {!showResult && (
         <div className="reading-actions">
-          <button
+          <Button
+            variant="submit"
             onClick={handleSubmit}
-            className="btn btn-submit"
             disabled={!allAnswered || disabled}
           >
             {t.reading.submit} ({selectedAnswers.filter(a => a !== null).length}/{exercise.questions.length})
-          </button>
+          </Button>
         </div>
       )}
     </div>

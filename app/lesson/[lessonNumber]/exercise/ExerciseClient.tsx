@@ -1,6 +1,6 @@
 'use client';
 
-import { EmptyMessage, PageTitle } from '@/components';
+import { EmptyMessage, PageTitle, Button } from '@/components';
 import { MultipleChoice, ReadingPassage } from '@/components/Exercises';
 import { getRandomGrammarExercise } from '@/data/grammarExercises';
 import { getRandomMultipleChoiceExercise } from '@/data/multipleChoiceExercises';
@@ -580,13 +580,21 @@ export default function ExerciseClient({ lessonNumber, exerciseType }: ExerciseC
 
       <div className="exercise-type-selector">
         {EXERCISE_TYPES.map(({ type, label, icon }) => (
-          <button
+          <Button
             key={type}
-            className={`type-btn ${exerciseType === type ? 'active' : ''}`}
+            variant={exerciseType === type ? 'primary' : 'secondary'}
             onClick={() => handleExerciseTypeChange(type)}
+            sx={{
+              border: exerciseType === type ? '2px solid transparent' : '2px solid var(--color-primary)',
+              background: exerciseType === type ? undefined : 'var(--color-bg-white)',
+              color: exerciseType === type ? undefined : 'var(--color-primary)',
+              '&:hover': {
+                background: exerciseType === type ? undefined : 'var(--color-bg-lighter)',
+              },
+            }}
           >
             {icon} {label}
-          </button>
+          </Button>
         ))}
       </div>
 
@@ -694,21 +702,21 @@ export default function ExerciseClient({ lessonNumber, exerciseType }: ExerciseC
 
           <div className="exercise-actions">
             {!showResult ? (
-              <button
+              <Button
+                variant="submit"
                 onClick={handleSubmit}
-                className="btn btn-submit"
                 disabled={isChecking}
               >
                 {isChecking ? t.exercise.checking : t.common.check}
-              </button>
+              </Button>
             ) : (
-              <button
+              <Button
+                variant="next"
                 onClick={handleNext}
-                className="btn btn-next"
                 ref={(btn) => btn?.focus()}
               >
                 {t.common.continue} ↵
-              </button>
+              </Button>
             )}
           </div>
         </div>

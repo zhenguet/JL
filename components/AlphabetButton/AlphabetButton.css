@@ -1,31 +1,18 @@
 .alphabet-floating-btn {
-  position: fixed;
-  bottom: 30px;
-  right: 30px;
-  width: 60px;
-  height: 60px;
-  border-radius: 50%;
-  background: var(--gradient-primary);
-  color: white;
-  border: none;
-  font-size: 2rem;
-  font-weight: 600;
-  cursor: pointer;
-  box-shadow: 0 4px 16px var(--shadow-primary);
-  transition: all 0.3s ease;
-  z-index: 999;
-  display: flex;
-  align-items: center;
-  justify-content: center;
+  position: fixed !important;
+  bottom: 20px !important;
+  right: 20px !important;
+  width: 60px !important;
+  height: 60px !important;
+  border-radius: 50% !important;
+  padding: 0 !important;
+  font-size: 1.5rem !important;
+  box-shadow: 0 4px 12px var(--shadow-primary) !important;
+  z-index: 1000 !important;
 }
 
 .alphabet-floating-btn:hover {
-  transform: translateY(-4px) scale(1.1);
-  box-shadow: 0 6px 20px var(--shadow-primary-dark);
-}
-
-.alphabet-floating-btn:active {
-  transform: translateY(-2px) scale(1.05);
+  transform: translateY(-2px) scale(1.05) !important;
 }
 
 @media (max-width: 768px) {

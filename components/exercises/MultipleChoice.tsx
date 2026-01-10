@@ -1,5 +1,6 @@
 'use client';
 
+import { Button } from '@/components';
 import './multipleChoice.css';
 
 interface MultipleChoiceProps {
@@ -53,11 +54,18 @@ export default function MultipleChoice({
       </div>
       <div className="mc-options">
         {options.map((option, index) => (
-          <button
+          <Button
             key={index}
+            variant="secondary"
             className={getOptionClass(index)}
             onClick={() => !disabled && onSelect(index)}
             disabled={disabled}
+            sx={{
+              width: '100%',
+              justifyContent: 'flex-start',
+              textAlign: 'left',
+              textTransform: 'none',
+            }}
           >
             <span className="mc-label">{labels[index]}</span>
             <span className="mc-text">{option}</span>
@@ -67,7 +75,7 @@ export default function MultipleChoice({
             {showResult && index === selectedIndex && index !== correctIndex && (
               <span className="mc-icon">✗</span>
             )}
-          </button>
+          </Button>
         ))}
       </div>
     </div>

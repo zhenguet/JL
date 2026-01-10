@@ -9,7 +9,7 @@
 }
 
 .intro-text {
-  color: #666;
+  color: var(--color-text-light);
   margin-bottom: 30px;
   font-size: 1.1rem;
   line-height: 1.6;
@@ -66,7 +66,7 @@
 }
 
 .explanation-content {
-  color: #444;
+  color: var(--color-text-medium);
 }
 
 .explanation-title {
@@ -101,7 +101,7 @@
 
 .empty-message {
   text-align: center;
-  color: #999;
+  color: var(--color-text-lightest);
   font-size: 1.2rem;
   padding: 40px;
 }

@@ -95,7 +95,7 @@
 .style-one {
   border: 0;
   height: 2px;
-  background: linear-gradient(to right, transparent, #ddd, transparent);
+  background: linear-gradient(to right, transparent, var(--color-border-lighter), transparent);
   margin: 30px 0;
 }
 
@@ -306,6 +306,7 @@
 }
 
 .quiz-summary-item {
+  cursor: pointer;
   width: 40px;
   height: 40px;
   border-radius: 8px;
@@ -314,7 +315,7 @@
   justify-content: center;
   font-weight: 600;
   font-size: 14px;
-  border: 1px solid #ddd;
+  border: 1px solid var(--color-border-lighter);
   background: var(--color-bg-white);
   color: var(--color-text-medium);
 }

@@ -1,7 +1,7 @@
 'use client'
 
 import { useState } from 'react'
-import { AlphabetModal } from '@/components'
+import { AlphabetModal, Button } from '@/components'
 import { useI18n } from '@/i18n/context'
 import './AlphabetButton.css'
 
@@ -11,13 +11,14 @@ export default function AlphabetButton() {
 
   return (
     <>
-      <button
-        className="alphabet-floating-btn"
+      <Button
+        variant="primary"
         onClick={() => setIsAlphabetModalOpen(true)}
         aria-label={t.alphabet.viewAlphabet}
+        className="alphabet-floating-btn"
       >
         あ
-      </button>
+      </Button>
 
       <AlphabetModal
         isOpen={isAlphabetModalOpen}

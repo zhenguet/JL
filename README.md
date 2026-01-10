@@ -55,6 +55,7 @@ lib/                    # Shared libraries
 
 components/             # React components
 ├── Exercises/          # Exercise components
+├── Button/             # Reusable button component (MUI-based)
 ├── AlphabetButton/     # Alphabet button
 ├── AlphabetModal/      # Alphabet modal
 ├── LanguageSwitcher/   # Language & theme switcher

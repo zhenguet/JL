@@ -83,6 +83,8 @@
   --shadow-black-dark: rgba(0, 0, 0, 0.2);
   --shadow-black-darker: rgba(0, 0, 0, 0.3);
 
+  --shadow-primary-hover: rgba(102, 126, 234, 0.4);
+
   --text-shadow-light: 2px 2px 4px rgba(0, 0, 0, 0.3);
 }
 
@@ -148,4 +150,6 @@
   --shadow-primary-darker: rgba(107, 163, 216, 0.3);
   --shadow-primary-purple: rgba(90, 143, 197, 0.3);
   --shadow-primary-purple-light: rgba(90, 143, 197, 0.4);
+
+  --shadow-primary-hover: rgba(102, 126, 234, 0.4);
 }

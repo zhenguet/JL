@@ -4,6 +4,7 @@ import { Quiz, QuizQuestion } from '@/components/Exercises';
 import { getRandomQuizData } from '@/data/quizData';
 import { useEffect, useState } from 'react';
 import { useI18n } from '@/i18n/context';
+import './QuizClient.css';
 
 interface QuizClientProps {
   lessonNumber: number;
@@ -21,7 +22,7 @@ export default function QuizClient({ lessonNumber }: QuizClientProps) {
 
   if (!isMounted) {
     return (
-      <div style={{ minHeight: '100vh', padding: '20px', display: 'flex', alignItems: 'center', justifyContent: 'center' }}>
+      <div className="quiz-loading-container">
         <div>{t.quiz.loading}</div>
       </div>
     );

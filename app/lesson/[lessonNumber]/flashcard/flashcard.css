@@ -1,5 +1,37 @@
 .flashcard-container {
   color: #1a1a1a;
+  min-height: auto;
+  height: auto;
+  overflow: visible;
+}
+
+.flashcard-hidden-container {
+  position: fixed;
+  visibility: hidden;
+  pointer-events: none;
+  top: 0;
+  left: 0;
+  width: 500px;
+  max-width: 100%;
+  height: 0;
+  overflow: hidden;
+  z-index: -1;
+}
+
+.flashcard-hidden-card {
+  margin-bottom: 20px;
+}
+
+.flashcard-hidden-card .card {
+  position: relative;
+  height: auto;
+  min-height: auto;
+}
+
+.flashcard-hidden-card .card-front,
+.flashcard-hidden-card .card-back {
+  position: relative;
+  height: auto;
 }
 
 .flashcard-container h2 {
@@ -220,7 +252,7 @@
 }
 
 .fill-result-icon.incorrect {
-  color: #f44336;
+  color: var(--color-danger);
 }
 
 .correct-answer-hint {
@@ -297,7 +329,7 @@
 
 .empty-message {
   text-align: center;
-  color: #999;
+  color: var(--color-text-lightest);
   font-size: 1.2rem;
   padding: 40px;
 }

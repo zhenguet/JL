@@ -58,13 +58,13 @@ export default function LanguageSwitcher() {
             },
           }}
           renderValue={(value) => (
-            <div style={{ display: 'flex', alignItems: 'center', gap: '10px', width: '100%' }}>
+            <div className="language-select-value">
               <img
                 src={localeIcons[value]}
                 alt={localeLabels[value]}
                 className="language-icon"
               />
-              <span style={{ fontWeight: 600, color: colors.primary }}>{localeLabels[value]}</span>
+              <span className="language-select-value-text">{localeLabels[value]}</span>
             </div>
           )}
         >
@@ -75,7 +75,7 @@ export default function LanguageSwitcher() {
                 alt={localeLabels[loc]}
                 className="language-option-icon"
               />
-              <span style={{ marginLeft: '10px', fontWeight: 500 }}>{localeLabels[loc]}</span>
+              <span className="language-option-text">{localeLabels[loc]}</span>
             </MenuItem>
           ))}
         </Select>

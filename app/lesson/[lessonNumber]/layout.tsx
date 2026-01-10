@@ -3,7 +3,7 @@
 import Link from 'next/link'
 import { usePathname } from 'next/navigation'
 import { ReactNode, useState } from 'react'
-import { AlphabetButton } from '@/components'
+import { AlphabetButton, Button } from '@/components'
 import LanguageSwitcher from '@/components/LanguageSwitcher/LanguageSwitcher'
 import { useI18n } from '@/i18n/context'
 import './lesson.css'
@@ -48,38 +48,37 @@ export default function LessonLayout({
 
   return (
     <div className={`lesson-page ${isMenuOpen ? 'menu-open' : ''}`}>
-      <button
-        type="button"
-        className="lesson-menu-toggle"
+      <Button
+        variant="secondary"
         onClick={() => setIsMenuOpen(!isMenuOpen)}
         aria-label="Toggle menu"
+        className="lesson-menu-toggle"
       >
         {isMenuOpen ? `✕ ${lessonNumber}` : '☰'}
-      </button>
+      </Button>
       {isMenuOpen && (
         <div className="lesson-menu-overlay" onClick={() => setIsMenuOpen(false)} />
       )}
       <aside className={`lesson-sidebar ${isMenuOpen ? 'open' : ''}`}>
         <div className="lesson-sidebar-header">
-          <div style={{ display: 'flex', alignItems: 'center', gap: '12px' }}>
-            <Link href="/" style={{ display: 'flex', alignItems: 'center' }}>
+          <div className="lesson-sidebar-header-logo-container">
+            <Link href="/" className="lesson-sidebar-header-logo-link">
               <img 
                 src="/JL/logo.png" 
                 alt="Home" 
                 className="lesson-logo"
-                style={{ width: '40px', height: '40px', cursor: 'pointer', objectFit: 'contain', borderRadius: '50%' }}
               />
             </Link>
             <h2 className="lesson-sidebar-title">{t.common.lesson} {lessonNumber}</h2>
           </div>
-          <button
-            type="button"
-            className="lesson-sidebar-close"
+          <Button
+            variant="secondary"
             onClick={() => setIsMenuOpen(false)}
             aria-label={t.common.close}
+            className="lesson-sidebar-close"
           >
             ✕
-          </button>
+          </Button>
         </div>
         <div className="lesson-sidebar-content">
           <nav className="lesson-sidebar-nav">
@@ -106,15 +105,16 @@ export default function LessonLayout({
               )
             })}
           </nav>
-          <div style={{ marginTop: 'auto', paddingTop: '20px' }}>
-            <div style={{ marginBottom: '15px', display: 'flex', justifyContent: 'center' }}>
+          <div className="lesson-sidebar-footer">
+            <div className="lesson-sidebar-language-container">
               <LanguageSwitcher />
             </div>
             <div className="lesson-sidebar-navigation">
               {prevLesson ? (
-                <Link
+                <Button
+                  variant="nav"
+                  component={Link}
                   href={getPathForLesson(prevLesson)}
-                  className="lesson-sidebar-nav-btn prev"
                   onClick={(e) => {
                     if (window.innerWidth <= 768) {
                       setIsMenuOpen(false)
@@ -122,14 +122,17 @@ export default function LessonLayout({
                   }}
                 >
                   ← {t.common.lesson} {prevLesson}
-                </Link>
+                </Button>
               ) : (
-                <span className="lesson-sidebar-nav-btn prev disabled">← {t.common.prev}</span>
+                <Button variant="nav" disabled>
+                  ← {t.common.prev}
+                </Button>
               )}
               {nextLesson ? (
-                <Link
+                <Button
+                  variant="nav"
+                  component={Link}
                   href={getPathForLesson(nextLesson)}
-                  className="lesson-sidebar-nav-btn next"
                   onClick={(e) => {
                     if (window.innerWidth <= 768) {
                       setIsMenuOpen(false)
@@ -137,9 +140,11 @@ export default function LessonLayout({
                   }}
                 >
                   {t.common.lesson} {nextLesson} →
-                </Link>
+                </Button>
               ) : (
-                <span className="lesson-sidebar-nav-btn next disabled">{t.common.next} →</span>
+                <Button variant="nav" disabled>
+                  {t.common.next} →
+                </Button>
               )}
             </div>
           </div>
@@ -148,37 +153,42 @@ export default function LessonLayout({
       <div className={`lesson-container ${isMenuOpen ? 'menu-open' : ''}`}>
         <div className="lesson-header-wrapper">
           <div className="lesson-header">
-            <div style={{ display: 'flex', alignItems: 'center', gap: '12px' }}>
-              <Link href="/" style={{ display: 'flex', alignItems: 'center' }}>
+            <div className="lesson-header-logo-container">
+              <Link href="/" className="lesson-header-logo-link">
                 <img 
                   src="/JL/logo.png" 
                   alt="Home" 
                   className="lesson-logo"
-                  style={{ width: '40px', height: '40px', cursor: 'pointer', objectFit: 'contain' }}
                 />
               </Link>
               <h1 className="lesson-title">{t.common.lesson} {lessonNumber}</h1>
             </div>
             <div className="lesson-navigation">
               {prevLesson ? (
-                <Link
+                <Button
+                  variant="nav"
+                  component={Link}
                   href={getPathForLesson(prevLesson)}
-                  className="nav-lesson-btn prev-lesson"
                 >
                   ← {t.common.lesson} {prevLesson}
-                </Link>
+                </Button>
               ) : (
-                <span className="nav-lesson-btn prev-lesson disabled">← {t.common.prev}</span>
+                <Button variant="nav" disabled>
+                  ← {t.common.prev}
+                </Button>
               )}
               {nextLesson ? (
-                <Link
+                <Button
+                  variant="nav"
+                  component={Link}
                   href={getPathForLesson(nextLesson)}
-                  className="nav-lesson-btn next-lesson"
                 >
                   {t.common.lesson} {nextLesson} →
-                </Link>
+                </Button>
               ) : (
-                <span className="nav-lesson-btn next-lesson disabled">{t.common.next} →</span>
+                <Button variant="nav" disabled>
+                  {t.common.next} →
+                </Button>
               )}
             </div>
           </div>

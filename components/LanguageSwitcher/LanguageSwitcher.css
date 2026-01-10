@@ -27,3 +27,20 @@
 .theme-toggle {
   flex-shrink: 0;
 }
+
+.language-select-value {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  width: 100%;
+}
+
+.language-select-value-text {
+  font-weight: 600;
+  color: var(--color-primary);
+}
+
+.language-option-text {
+  margin-left: 10px;
+  font-weight: 500;
+}

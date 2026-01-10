@@ -66,23 +66,21 @@
 }
 
 .alphabet-modal-close {
-  background: var(--color-white-overlay-20);
-  border: none;
-  color: white;
-  font-size: 2rem;
-  width: 40px;
-  height: 40px;
-  border-radius: 50%;
-  cursor: pointer;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  transition: background 0.2s ease;
-  line-height: 1;
+  min-width: auto !important;
+  width: 40px !important;
+  height: 40px !important;
+  padding: 0 !important;
+  font-size: 2rem !important;
+  line-height: 1 !important;
+  border-radius: 50% !important;
+  background: var(--color-white-overlay-20) !important;
+  color: white !important;
+  border: none !important;
 }
 
 .alphabet-modal-close:hover {
-  background: var(--color-white-overlay-30);
+  background: var(--color-white-overlay-30) !important;
+  transform: none !important;
 }
 
 .alphabet-tabs {
@@ -93,27 +91,32 @@
 }
 
 .alphabet-tab {
-  flex: 1;
-  padding: 16px;
-  border: none;
-  background: transparent;
-  font-size: 1.1rem;
-  font-weight: 600;
-  color: var(--color-text-light);
-  cursor: pointer;
-  transition: all 0.2s ease;
-  border-bottom: 3px solid transparent;
+  flex: 1 !important;
+  padding: 16px !important;
+  font-size: 1.1rem !important;
+  font-weight: 600 !important;
+  border: none !important;
+  border-radius: 0 !important;
+  background: transparent !important;
+  color: var(--color-text-light) !important;
+  border-bottom: 3px solid transparent !important;
 }
 
 .alphabet-tab:hover {
-  background: var(--color-bg-lighter);
-  color: var(--color-text-dark);
+  background: var(--color-bg-lighter) !important;
+  color: var(--color-text-dark) !important;
+  transform: none !important;
 }
 
 .alphabet-tab.active {
-  color: var(--color-primary);
-  border-bottom-color: var(--color-primary);
-  background: var(--color-bg-white);
+  color: var(--color-primary) !important;
+  border-bottom-color: var(--color-primary) !important;
+  background: var(--color-bg-white) !important;
+}
+
+.alphabet-tab.active:hover {
+  background: var(--color-bg-white) !important;
+  color: var(--color-primary) !important;
 }
 
 .alphabet-content {
@@ -162,7 +165,7 @@
   width: 100%;
   border-collapse: collapse;
   margin-bottom: 20px;
-  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+  box-shadow: 0 2px 8px var(--shadow-black-normal);
   border-radius: 8px;
   overflow: hidden;
 }

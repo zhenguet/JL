@@ -132,7 +132,7 @@
 
 .stat-label {
   font-size: 0.9rem;
-  color: #888;
+  color: var(--color-text-lighter);
   margin-bottom: 4px;
 }
 
@@ -365,7 +365,7 @@
 
 .empty-message {
   text-align: center;
-  color: #999;
+  color: var(--color-text-lightest);
   font-size: 1.2rem;
   padding: 40px;
 }

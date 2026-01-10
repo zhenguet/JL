@@ -4,7 +4,7 @@ import { grammarData } from '@/data/grammar'
 import { GrammarPoint } from '@/types/grammar'
 import { useState } from 'react'
 import React from 'react'
-import { EmptyMessage, PageTitle } from '@/components'
+import { EmptyMessage, PageTitle, Button } from '@/components'
 import { useI18n } from '@/i18n/context'
 import './grammar.css'
 
@@ -78,12 +78,12 @@ export default function GrammarClient({ lessonNumber }: GrammarClientProps) {
                     )}
                   </td>
                   <td className="detail-cell">
-                    <button
-                      className="expand-btn"
+                    <Button
+                      variant="secondary"
                       onClick={() => toggleExpand(point.id)}
                     >
                       {isExpanded ? t.grammar.collapse : t.grammar.viewDetails}
-                    </button>
+                    </Button>
                   </td>
                 </tr>
                 {isExpanded && (
