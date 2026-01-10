@@ -141,5 +141,6 @@ export interface Translations {
     basicTable: string
     combinedTable: string
     viewAlphabet: string
+    alphabet: string
   }
 }

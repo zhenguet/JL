@@ -5,6 +5,8 @@ import { vocabularyData } from '@/data/vocabulary'
 import { VocabularyWord } from '@/types/vocabulary'
 import { EmptyMessage, PageTitle, ProgressBar, Button } from '@/components'
 import { useI18n } from '@/i18n/context'
+import ChevronLeftIcon from '@mui/icons-material/ChevronLeft'
+import ChevronRightIcon from '@mui/icons-material/ChevronRight'
 import './flashcard.css'
 
 interface FlashcardClientProps {
@@ -195,12 +197,14 @@ export default function FlashcardClient({ lessonNumber }: FlashcardClientProps) 
         ))}
       </div>
 
-      <PageTitle title={t.flashcard.title} lessonNumber={lessonNumber} />
-
-      <div className="flashcard-controls">
-        <Button variant="secondary" onClick={handleShuffle}>
+      <div className="flashcard-header">
+        <PageTitle title={t.flashcard.title} lessonNumber={lessonNumber} />
+        <Button variant="secondary" onClick={handleShuffle} className="flashcard-shuffle-btn">
           {t.common.shuffle}
         </Button>
+      </div>
+
+      <div className="flashcard-controls">
         <Button
           variant={practiceMode === 'view' ? 'primary' : 'secondary'}
           onClick={() => handleModeChange('view')}
@@ -299,7 +303,7 @@ export default function FlashcardClient({ lessonNumber }: FlashcardClientProps) 
 
       <div className="card-navigation">
         <Button variant="nav" onClick={handlePrev}>
-          ← {t.common.prev}
+          <ChevronLeftIcon />
         </Button>
         {practiceMode === 'view' ? (
           <Button variant="primary" onClick={handleFlip}>
@@ -315,7 +319,7 @@ export default function FlashcardClient({ lessonNumber }: FlashcardClientProps) 
           </Button>
         )}
         <Button variant="nav" onClick={handleNext}>
-          {t.common.next} →
+          <ChevronRightIcon />
         </Button>
       </div>
     </div>

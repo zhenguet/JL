@@ -31,7 +31,7 @@ export default function QuizClient({ lessonNumber }: QuizClientProps) {
   return (
     <Quiz
       questions={questions}
-      title={`${t.quiz.quizTitle} - ${t.common.lesson} ${lessonNumber}`}
+      title={t.quiz.quizTitle}
       shuffleOptions={true}
     />
   );

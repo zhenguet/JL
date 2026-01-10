@@ -2,6 +2,7 @@
 
 import { EmptyMessage, PageTitle, Button } from '@/components';
 import { MultipleChoice, ReadingPassage } from '@/components/Exercises';
+import { Select, MenuItem, FormControl } from '@mui/material';
 import { getRandomGrammarExercise } from '@/data/grammarExercises';
 import { getRandomMultipleChoiceExercise } from '@/data/multipleChoiceExercises';
 import { getRandomReadingExercise } from '@/data/readingExercises';
@@ -32,7 +33,6 @@ interface ExerciseClientProps {
   exerciseType: ExerciseType;
 }
 
-
 const VOCABULARY_EXERCISE_TYPES: ExerciseType[] = [
   'fill',
   'fill-kanji-hiragana',
@@ -54,7 +54,6 @@ function getRandomWord(
   return { word: randomWord, shouldReset };
 }
 
-
 function createFillKanjiHiraganaExercise(
   word: VocabularyWord
 ): FillKanjiHiraganaExercise {
@@ -71,7 +70,6 @@ function createFillKanjiHiraganaExercise(
   };
 }
 
-
 function cleanText(text: string, toLowerCase = false): string {
   let cleaned = text
     .replace(/[~～]/g, '')
@@ -87,7 +85,13 @@ function cleanText(text: string, toLowerCase = false): string {
 function checkFillKanjiHiragana(
   exercise: FillKanjiHiraganaExercise,
   userAnswer: string,
-  t: { exercise: { correctKanjiHiragana: string; answerCanBe: string; orKanji: string } }
+  t: {
+    exercise: {
+      correctKanjiHiragana: string;
+      answerCanBe: string;
+      orKanji: string;
+    };
+  }
 ): { correct: boolean; explanation: string } {
   const normalizedUserAnswer = cleanText(userAnswer);
   const normalizedKanji = cleanText(exercise.kanji);
@@ -137,7 +141,10 @@ function checkTextAnswer(userAnswer: string, correctAnswer: string): boolean {
   return false;
 }
 
-export default function ExerciseClient({ lessonNumber, exerciseType }: ExerciseClientProps) {
+export default function ExerciseClient({
+  lessonNumber,
+  exerciseType,
+}: ExerciseClientProps) {
   const { t } = useI18n();
   const router = useRouter();
   const vocabulary = vocabularyData[lessonNumber] || [];
@@ -147,7 +154,11 @@ export default function ExerciseClient({ lessonNumber, exerciseType }: ExerciseC
     icon: string;
   }> = [
     { type: 'fill', label: t.exercise.fill, icon: '📝' },
-    { type: 'fill-kanji-hiragana', label: t.exercise.fillKanjiHiragana, icon: '✏️' },
+    {
+      type: 'fill-kanji-hiragana',
+      label: t.exercise.fillKanjiHiragana,
+      icon: '✏️',
+    },
     {
       type: 'fill-hiragana-from-kanji',
       label: t.exercise.fillHiraganaFromKanji,
@@ -180,7 +191,9 @@ export default function ExerciseClient({ lessonNumber, exerciseType }: ExerciseC
     };
   };
 
-  const createFillHiraganaFromKanjiExercise = (word: VocabularyWord): FillHiraganaFromKanjiExercise => {
+  const createFillHiraganaFromKanjiExercise = (
+    word: VocabularyWord
+  ): FillHiraganaFromKanjiExercise => {
     return {
       id: `fill-hiragana-from-kanji-${Date.now()}`,
       type: 'fill-hiragana-from-kanji',
@@ -476,7 +489,9 @@ export default function ExerciseClient({ lessonNumber, exerciseType }: ExerciseC
     setScore((prev) => prev + correctCount);
     setIsCorrect(allCorrect);
     setCheckMethod('local');
-    setAiExplanation(`${t.exercise.readingResult} ${correctCount}/${totalQuestions} ${t.exercise.readingQuestions}`);
+    setAiExplanation(
+      `${t.exercise.readingResult} ${correctCount}/${totalQuestions} ${t.exercise.readingQuestions}`
+    );
 
     if (allCorrect) {
       setStreak((prev) => prev + 1);
@@ -555,7 +570,9 @@ export default function ExerciseClient({ lessonNumber, exerciseType }: ExerciseC
       return currentExercise.options[currentExercise.correctIndex];
     }
     if (isFillKanjiHiraganaExercise(currentExercise)) {
-      const shouldShowBoth = currentExercise.kanji && currentExercise.kanji !== currentExercise.hiragana;
+      const shouldShowBoth =
+        currentExercise.kanji &&
+        currentExercise.kanji !== currentExercise.hiragana;
       return shouldShowBoth
         ? `${currentExercise.kanji} ${t.exercise.orKanji} ${currentExercise.hiragana}`
         : currentExercise.kanji || currentExercise.hiragana;
@@ -576,26 +593,49 @@ export default function ExerciseClient({ lessonNumber, exerciseType }: ExerciseC
 
   return (
     <div className="exercise-container">
-      <PageTitle title={t.exercise.title} lessonNumber={lessonNumber} />
+      <div className="exercise-header">
+        <PageTitle title={t.exercise.title} lessonNumber={lessonNumber} />
 
-      <div className="exercise-type-selector">
-        {EXERCISE_TYPES.map(({ type, label, icon }) => (
-          <Button
-            key={type}
-            variant={exerciseType === type ? 'primary' : 'secondary'}
-            onClick={() => handleExerciseTypeChange(type)}
-            sx={{
-              border: exerciseType === type ? '2px solid transparent' : '2px solid var(--color-primary)',
-              background: exerciseType === type ? undefined : 'var(--color-bg-white)',
-              color: exerciseType === type ? undefined : 'var(--color-primary)',
-              '&:hover': {
-                background: exerciseType === type ? undefined : 'var(--color-bg-lighter)',
-              },
-            }}
-          >
-            {icon} {label}
-          </Button>
-        ))}
+        <div className="exercise-type-selector">
+          <FormControl className="exercise-type-select-form">
+            <Select
+              value={exerciseType}
+              onChange={(e) =>
+                handleExerciseTypeChange(e.target.value as ExerciseType)
+              }
+              className="exercise-type-select"
+              variant="outlined"
+              renderValue={(value) => {
+                const selected = EXERCISE_TYPES.find((t) => t.type === value);
+                return selected ? (
+                  <span className="exercise-type-select-value">
+                    <span className="exercise-type-select-icon">
+                      {selected.icon}
+                    </span>
+                    <span className="exercise-type-select-label">
+                      {selected.label}
+                    </span>
+                  </span>
+                ) : (
+                  value
+                );
+              }}
+            >
+              {EXERCISE_TYPES.map(({ type, label, icon }) => (
+                <MenuItem
+                  key={type}
+                  value={type}
+                  className="exercise-type-select-item"
+                >
+                  <span className="exercise-type-select-item-icon">{icon}</span>
+                  <span className="exercise-type-select-item-label">
+                    {label}
+                  </span>
+                </MenuItem>
+              ))}
+            </Select>
+          </FormControl>
+        </div>
       </div>
 
       <div className="stats-bar">

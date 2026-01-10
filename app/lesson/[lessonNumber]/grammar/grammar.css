@@ -119,15 +119,15 @@
   padding: 0 !important;
 }
 
-.grammar-detail {
-  padding: 20px;
-  background: var(--color-bg-white);
-  border-left: 4px solid var(--color-primary);
-}
+  .grammar-detail {
+    padding: 15px;
+    background: var(--color-bg-white);
+    border-left: 4px solid var(--color-primary);
+  }
 
-.detail-section {
-  margin-bottom: 20px;
-}
+  .detail-section {
+    margin-bottom: 15px;
+  }
 
 .detail-section:last-child {
   margin-bottom: 0;
@@ -207,10 +207,10 @@
   }
 
   .grammar-table-wrapper {
-    margin-left: -16px;
-    margin-right: -16px;
-    padding-left: 16px;
-    padding-right: 16px;
+    margin-left: -8px;
+    margin-right: -8px;
+    padding-left: 8px;
+    padding-right: 8px;
   }
 
   .grammar-table {
@@ -220,7 +220,7 @@
 
   .grammar-table th,
   .grammar-table td {
-    padding: 8px;
+    padding: 5px;
   }
 
   .title-cell {
@@ -258,7 +258,7 @@
   }
 
   .grammar-detail {
-    padding: 15px;
+    padding: 10px;
   }
 
   .detail-section h4 {

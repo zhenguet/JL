@@ -39,9 +39,9 @@
   },
   "exercise": {
     "title": "Exercise",
-    "fill": "Fill Word",
-    "fillKanjiHiragana": "Fill Kanji/Hiragana",
-    "fillHiraganaFromKanji": "Fill Hiragana (Kanji + meaning)",
+    "fill": "Fill Hiragana",
+    "fillKanjiHiragana": "Fill Kanji",
+    "fillHiraganaFromKanji": "Read Kanji",
     "score": "Score",
     "streak": "Streak",
     "checking": "Checking...",
@@ -126,7 +126,8 @@
     "title": "Alphabet",
     "basicTable": "Basic Table",
     "combinedTable": "Combined Sounds",
-    "viewAlphabet": "View Alphabet"
+    "viewAlphabet": "View Alphabet",
+    "alphabet": "Alphabet"
   },
   "reading": {
     "passage": "Passage",

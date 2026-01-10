@@ -1,3 +1,11 @@
 .app-button {
   font-family: inherit;
 }
+
+@media (max-width: 768px) {
+  .app-button,
+  .app-button-submit,
+  .app-button-next {
+    padding: 8px 16px !important;
+  }
+}

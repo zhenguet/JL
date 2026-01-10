@@ -39,9 +39,9 @@
   },
   "exercise": {
     "title": "練習",
-    "fill": "単語を埋める",
-    "fillKanjiHiragana": "漢字/ひらがなを埋める",
-    "fillHiraganaFromKanji": "ひらがなを埋める（漢字+意味）",
+    "fill": "ひらがなを埋める",
+    "fillKanjiHiragana": "漢字を埋める",
+    "fillHiraganaFromKanji": "漢字を読む",
     "score": "スコア",
     "streak": "連続",
     "checking": "確認中...",
@@ -131,7 +131,8 @@
     "title": "文字表",
     "basicTable": "基本表",
     "combinedTable": "組み合わせ音",
-    "viewAlphabet": "文字表を見る"
+    "viewAlphabet": "文字表を見る",
+    "alphabet": "文字表"
   },
   "reading": {
     "passage": "文章",

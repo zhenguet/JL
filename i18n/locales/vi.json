@@ -21,27 +21,27 @@
     "home": "Trang chủ",
     "vocabulary": "Từ vựng",
     "grammar": "Ngữ pháp",
-    "flashcard": "Flashcard",
+    "flashcard": "Thẻ ghi nhớ",
     "exercise": "Bài tập",
     "quiz": "Kiểm tra",
     "usage": "Giải thích cách dùng"
   },
   "flashcard": {
-    "title": "Flashcard",
+    "title": "Thẻ ghi nhớ",
     "viewMeaning": "Xem nghĩa",
     "fillMeaning": "Điền nghĩa",
-    "clickToView": "Click để xem nghĩa",
+    "clickToView": "Nhấp để xem nghĩa",
     "hideMeaning": "Ẩn nghĩa",
     "enterMeaning": "Nhập nghĩa...",
     "checked": "Đã kiểm tra",
     "noData": "Chưa có dữ liệu từ vựng cho bài",
-    "correctAnswer": "Đáp án"
+    "correctAnswer": "Đáp án đúng"
   },
   "exercise": {
     "title": "Bài tập",
-    "fill": "Điền từ",
-    "fillKanjiHiragana": "Điền Kanji/Hiragana",
-    "fillHiraganaFromKanji": "Điền chữ mềm (Kanji + nghĩa)",
+    "fill": "Điền Hiragana",
+    "fillKanjiHiragana": "Điền Kanji",
+    "fillHiraganaFromKanji": "Đọc Kanji",
     "score": "Điểm",
     "streak": "Streak",
     "checking": "Đang kiểm tra...",
@@ -131,7 +131,8 @@
     "title": "Bảng chữ cái",
     "basicTable": "Bảng cơ bản",
     "combinedTable": "Âm ghép",
-    "viewAlphabet": "Xem bảng chữ cái"
+    "viewAlphabet": "Xem bảng chữ cái",
+    "alphabet": "Bảng chữ cái"
   },
   "reading": {
     "passage": "Đoạn văn",

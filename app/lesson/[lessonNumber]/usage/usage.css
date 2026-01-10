@@ -121,7 +121,16 @@
   }
 
   .explanation-card {
-    padding: 20px;
+    padding: 10px;
+  }
+
+  .explanation-header {
+    margin-bottom: 10px;
+    padding-bottom: 6px;
+  }
+
+  .explanations-list {
+    gap: 10px;
   }
 }
 
