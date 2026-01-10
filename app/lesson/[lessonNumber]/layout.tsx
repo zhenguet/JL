@@ -8,6 +8,8 @@ import { usePathname } from 'next/navigation';
 import { ReactNode, useEffect, useState } from 'react';
 import MenuIcon from '@mui/icons-material/Menu';
 import CloseIcon from '@mui/icons-material/Close';
+import ChevronLeftIcon from '@mui/icons-material/ChevronLeft';
+import ChevronRightIcon from '@mui/icons-material/ChevronRight';
 import './lesson.css';
 
 export default function LessonLayout({
@@ -157,49 +159,40 @@ export default function LessonLayout({
                 variant="nav"
                 component={Link}
                 href={getPathForLesson(prevLesson)}
-                className="lesson-sidebar-nav-btn"
+                className="lesson-sidebar-arrow-btn"
                 onClick={(e) => {
                   if (window.innerWidth <= 768) {
                     setIsMenuOpen(false);
                   }
                 }}
               >
-                <div className="nav-btn-content">
-                  <span className="nav-btn-arrow">←</span>
-                  <span className="nav-btn-label">{t.common.prev}</span>
-                </div>
+                <ChevronLeftIcon />
               </Button>
             ) : (
-              <Button variant="nav" disabled className="lesson-sidebar-nav-btn">
-                <div className="nav-btn-content">
-                  <span className="nav-btn-arrow">←</span>
-                  <span className="nav-btn-label">{t.common.prev}</span>
-                </div>
+              <Button variant="nav" disabled className="lesson-sidebar-arrow-btn">
+                <ChevronLeftIcon />
               </Button>
             )}
+            <Button variant="primary" disabled className="lesson-sidebar-current-lesson-btn">
+              {t.common.lesson} {lessonNumber}
+            </Button>
             {nextLesson ? (
               <Button
                 variant="nav"
                 component={Link}
                 href={getPathForLesson(nextLesson)}
-                className="lesson-sidebar-nav-btn"
+                className="lesson-sidebar-arrow-btn"
                 onClick={(e) => {
                   if (window.innerWidth <= 768) {
                     setIsMenuOpen(false);
                   }
                 }}
               >
-                <div className="nav-btn-content">
-                  <span className="nav-btn-label">{t.common.lesson}</span>
-                  <span className="nav-btn-number">{nextLesson} →</span>
-                </div>
+                <ChevronRightIcon />
               </Button>
             ) : (
-              <Button variant="nav" disabled className="lesson-sidebar-nav-btn">
-                <div className="nav-btn-content">
-                  <span className="nav-btn-label">{t.common.lesson}</span>
-                  <span className="nav-btn-number">{t.common.next} →</span>
-                </div>
+              <Button variant="nav" disabled className="lesson-sidebar-arrow-btn">
+                <ChevronRightIcon />
               </Button>
             )}
           </div>
