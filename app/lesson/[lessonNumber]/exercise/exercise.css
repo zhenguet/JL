@@ -36,7 +36,9 @@
 .type-btn.active {
   background: var(--gradient-primary);
   color: var(--color-white);
-  border-color: transparent;
+  border: 2px solid transparent;
+  box-shadow: 0 4px 16px var(--shadow-primary-dark);
+  transform: translateY(-2px);
 }
 
 .stats-bar {
@@ -214,7 +216,14 @@
   font-size: 1.2rem;
   border: 2px solid var(--color-border-light);
   border-radius: 8px;
+  background: var(--color-bg-white);
+  color: var(--color-text-dark);
   transition: border-color 0.3s ease;
+}
+
+.answer-input::placeholder {
+  color: var(--color-text-light);
+  opacity: 0.7;
 }
 
 .answer-input:focus {

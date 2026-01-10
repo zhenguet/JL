@@ -92,8 +92,8 @@
   --color-primary-light: #8BB5E3;
   --color-primary-lighter: #7AA8D6;
 
-  --gradient-primary: linear-gradient(135deg, #1A2332 0%, #1F2833 30%, #252E3A 60%, #2A3440 100%);
-  --gradient-primary-reverse: linear-gradient(135deg, #2A3440 0%, #252E3A 30%, #1F2833 60%, #1A2332 100%);
+  --gradient-primary: linear-gradient(135deg, #3A5A7A 0%, #4A6A8A 30%, #5A7A9A 60%, #6BA3D8 100%);
+  --gradient-primary-reverse: linear-gradient(135deg, #6BA3D8 0%, #5A7A9A 30%, #4A6A8A 60%, #3A5A7A 100%);
   --gradient-primary-horizontal: linear-gradient(90deg, #1A2332 0%, #1F2833 30%, #252E3A 60%, #2A3440 100%);
   --gradient-primary-transparent: linear-gradient(135deg, #1A233215 0%, #1F283315 30%, #252E3A15 60%, #2A344015 100%);
   --gradient-primary-sidebar: linear-gradient(135deg, rgba(30, 40, 55, 0.95) 0%, rgba(35, 45, 60, 0.95) 30%, rgba(40, 50, 65, 0.95) 60%, rgba(45, 55, 70, 0.95) 100%);
