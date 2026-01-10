@@ -60,7 +60,17 @@ export default function LessonLayout({
       )}
       <aside className={`lesson-sidebar ${isMenuOpen ? 'open' : ''}`}>
         <div className="lesson-sidebar-header">
-          <h2 className="lesson-sidebar-title">{t.common.lesson} {lessonNumber}</h2>
+          <div style={{ display: 'flex', alignItems: 'center', gap: '12px' }}>
+            <Link href="/" style={{ display: 'flex', alignItems: 'center' }}>
+              <img 
+                src="/JL/logo.png" 
+                alt="Home" 
+                className="lesson-logo"
+                style={{ width: '40px', height: '40px', cursor: 'pointer', objectFit: 'contain', borderRadius: '50%' }}
+              />
+            </Link>
+            <h2 className="lesson-sidebar-title">{t.common.lesson} {lessonNumber}</h2>
+          </div>
           <button
             type="button"
             className="lesson-sidebar-close"
@@ -135,7 +145,17 @@ export default function LessonLayout({
       <div className={`lesson-container ${isMenuOpen ? 'menu-open' : ''}`}>
         <div className="lesson-header-wrapper">
           <div className="lesson-header">
-            <h1 className="lesson-title">{t.common.lesson} {lessonNumber}</h1>
+            <div style={{ display: 'flex', alignItems: 'center', gap: '12px' }}>
+              <Link href="/" style={{ display: 'flex', alignItems: 'center' }}>
+                <img 
+                  src="/JL/logo.png" 
+                  alt="Home" 
+                  className="lesson-logo"
+                  style={{ width: '40px', height: '40px', cursor: 'pointer', objectFit: 'contain' }}
+                />
+              </Link>
+              <h1 className="lesson-title">{t.common.lesson} {lessonNumber}</h1>
+            </div>
             <div className="lesson-navigation">
               {prevLesson ? (
                 <Link

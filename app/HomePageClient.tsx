@@ -2,6 +2,7 @@
 
 import Link from 'next/link'
 import { AlphabetButton } from '@/components'
+import LanguageSwitcher from '@/components/LanguageSwitcher/LanguageSwitcher'
 import { useI18n } from '@/i18n/context'
 import './home.css'
 
@@ -12,6 +13,9 @@ export default function HomePageClient() {
 
   return (
     <div className="home-page">
+      <div className="home-language-switcher">
+        <LanguageSwitcher />
+      </div>
       <div className="home-container">
         <div className="logo-container">
           <img src="/JL/logo.png" alt="JL Logo" className="app-logo" />
