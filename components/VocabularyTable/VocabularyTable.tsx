@@ -66,6 +66,7 @@ export default function VocabularyTable({ words, showKanji = true }: VocabularyT
                 {typeWords.map((word, index) => {
                   const isExpanded = expandedIds.has(word.id)
                   const hasExplanation = word.explanation && word.explanation.content && word.explanation.content.length > 0
+                  const shouldShowHiragana = !word.kanji || word.kanji !== word.hiragana
 
                   return (
                     <React.Fragment key={word.id || index}>
@@ -73,7 +74,9 @@ export default function VocabularyTable({ words, showKanji = true }: VocabularyT
                         <td className="kanji-cell">
                           {word.kanji || <span className="no-kanji">-</span>}
                         </td>
-                        <td className="hiragana-cell">{word.hiragana}</td>
+                        <td className="hiragana-cell">
+                          {shouldShowHiragana ? word.hiragana : '-'}
+                        </td>
                         <td className="meaning-cell">{word.vi}</td>
                         <td className="detail-cell">
                           {hasExplanation && (

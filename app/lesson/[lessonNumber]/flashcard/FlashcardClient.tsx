@@ -15,10 +15,14 @@ export default function FlashcardClient({ lessonNumber }: FlashcardClientProps) 
   const [currentIndex, setCurrentIndex] = useState(0)
   const [isFlipped, setIsFlipped] = useState(false)
   const [shuffledWords, setShuffledWords] = useState<VocabularyWord[]>([])
-  const [showKanji, setShowKanji] = useState(true)
   const [cardHeight, setCardHeight] = useState<number>(400)
+  const [practiceMode, setPracticeMode] = useState<'view' | 'fill'>('view')
+  const [userAnswer, setUserAnswer] = useState('')
+  const [showResult, setShowResult] = useState(false)
+  const [isCorrect, setIsCorrect] = useState(false)
   const cardRef = useRef<HTMLDivElement>(null)
   const hiddenCardsRef = useRef<HTMLDivElement>(null)
+  const inputRef = useRef<HTMLInputElement>(null)
 
   useEffect(() => {
     if (vocabulary.length > 0) {
@@ -52,6 +56,9 @@ export default function FlashcardClient({ lessonNumber }: FlashcardClientProps) 
             }
           }
         })
+        if (practiceMode === 'fill') {
+          maxHeight = Math.max(maxHeight, 450)
+        }
         setCardHeight(maxHeight)
       }
     }
@@ -61,7 +68,13 @@ export default function FlashcardClient({ lessonNumber }: FlashcardClientProps) 
     }, 100)
 
     return () => clearTimeout(timeoutId)
-  }, [shuffledWords, showKanji])
+  }, [shuffledWords, practiceMode])
+
+  useEffect(() => {
+    if (practiceMode === 'fill' && inputRef.current && !showResult) {
+      inputRef.current.focus()
+    }
+  }, [currentIndex, practiceMode, showResult])
 
   if (vocabulary.length === 0) {
     return (
@@ -97,14 +110,24 @@ export default function FlashcardClient({ lessonNumber }: FlashcardClientProps) 
 
   const handleNext = () => {
     setIsFlipped(false)
+    setUserAnswer('')
+    setShowResult(false)
     setCurrentIndex((prev) => (prev + 1) % shuffledWords.length)
+    if (practiceMode === 'fill' && inputRef.current) {
+      inputRef.current.focus()
+    }
   }
 
   const handlePrev = () => {
     setIsFlipped(false)
+    setUserAnswer('')
+    setShowResult(false)
     setCurrentIndex(
       (prev) => (prev - 1 + shuffledWords.length) % shuffledWords.length
     )
+    if (practiceMode === 'fill' && inputRef.current) {
+      inputRef.current.focus()
+    }
   }
 
   const handleShuffle = () => {
@@ -112,6 +135,34 @@ export default function FlashcardClient({ lessonNumber }: FlashcardClientProps) 
     setShuffledWords(shuffled)
     setCurrentIndex(0)
     setIsFlipped(false)
+    setUserAnswer('')
+    setShowResult(false)
+  }
+
+  const normalizeAnswer = (answer: string): string => {
+    return answer.trim().toLowerCase().replace(/\s+/g, ' ')
+  }
+
+  const checkAnswer = () => {
+    const normalizedUserAnswer = normalizeAnswer(userAnswer)
+    const normalizedCorrectAnswer = normalizeAnswer(currentWord.vi)
+    const correct = normalizedUserAnswer === normalizedCorrectAnswer
+    setIsCorrect(correct)
+    setShowResult(true)
+  }
+
+  const handleModeChange = (mode: 'view' | 'fill') => {
+    setPracticeMode(mode)
+    setIsFlipped(false)
+    setUserAnswer('')
+    setShowResult(false)
+    if (mode === 'fill' && inputRef.current) {
+      setTimeout(() => inputRef.current?.focus(), 100)
+    }
+  }
+
+  const shouldShowHiragana = (word: VocabularyWord): boolean => {
+    return !word.kanji || word.kanji !== word.hiragana
   }
 
   return (
@@ -133,10 +184,12 @@ export default function FlashcardClient({ lessonNumber }: FlashcardClientProps) 
             <div className="card" style={{ position: 'relative', height: 'auto', minHeight: 'auto' }}>
               <div className="card-front" style={{ position: 'relative', height: 'auto' }}>
                 <div className="card-content">
-                  {showKanji && word.kanji ? (
+                  {shouldShowHiragana(word) && (
+                    <div className="word-hiragana">{word.hiragana}</div>
+                  )}
+                  {word.kanji ? (
                     <div className="word-kanji">{word.kanji}</div>
                   ) : null}
-                  <div className="word-hiragana">{word.hiragana}</div>
                   <div className="card-hint">Click để xem nghĩa</div>
                 </div>
               </div>
@@ -157,14 +210,18 @@ export default function FlashcardClient({ lessonNumber }: FlashcardClientProps) 
         <button onClick={handleShuffle} className="btn btn-secondary">
           Xáo trộn
         </button>
-        <label className="toggle-label">
-          <input
-            type="checkbox"
-            checked={showKanji}
-            onChange={(e) => setShowKanji(e.target.checked)}
-          />
-          Hiển thị Kanji
-        </label>
+        <button
+          onClick={() => handleModeChange('view')}
+          className={`btn ${practiceMode === 'view' ? 'btn-primary' : 'btn-secondary'}`}
+        >
+          Xem nghĩa
+        </button>
+        <button
+          onClick={() => handleModeChange('fill')}
+          className={`btn ${practiceMode === 'fill' ? 'btn-primary' : 'btn-secondary'}`}
+        >
+          Điền nghĩa
+        </button>
       </div>
 
       <ProgressBar
@@ -173,36 +230,99 @@ export default function FlashcardClient({ lessonNumber }: FlashcardClientProps) 
         className="flashcard-progress"
       />
 
-      <div className="card-wrapper" onClick={handleFlip} ref={cardRef}>
-        <div
-          className={`card ${isFlipped ? 'flipped' : ''}`}
-          style={{ height: `${cardHeight}px` }}
-        >
-          <div className="card-front">
-            <div className="card-content">
-              {showKanji && currentWord.kanji ? (
-                <div className="word-kanji">{currentWord.kanji}</div>
-              ) : null}
-              <div className="word-hiragana">{currentWord.hiragana}</div>
-              <div className="card-hint">Click để xem nghĩa</div>
+      {practiceMode === 'view' ? (
+        <div className="card-wrapper" onClick={handleFlip} ref={cardRef}>
+          <div
+            className={`card ${isFlipped ? 'flipped' : ''}`}
+            style={{ height: `${cardHeight}px` }}
+          >
+            <div className="card-front">
+              <div className="card-content">
+                {shouldShowHiragana(currentWord) && (
+                  <div className="word-hiragana">{currentWord.hiragana}</div>
+                )}
+                {currentWord.kanji ? (
+                  <div className="word-kanji">{currentWord.kanji}</div>
+                ) : null}
+                <div className="card-hint">Click để xem nghĩa</div>
+              </div>
             </div>
-          </div>
-          <div className="card-back">
-            <div className="card-content">
-              <div className="word-meaning">{currentWord.vi}</div>
-              <div className="word-type">{currentWord.type}</div>
+            <div className="card-back">
+              <div className="card-content">
+                <div className="word-meaning">{currentWord.vi}</div>
+                <div className="word-type">{currentWord.type}</div>
+              </div>
             </div>
           </div>
         </div>
-      </div>
+      ) : (
+        <div className="card-wrapper fill-mode" ref={cardRef}>
+          <div
+            className="card fill-card"
+            style={{ height: `${cardHeight}px` }}
+          >
+            <div className="card-front">
+              <div className="card-content">
+                {shouldShowHiragana(currentWord) && (
+                  <div className="word-hiragana">{currentWord.hiragana}</div>
+                )}
+                {currentWord.kanji ? (
+                  <div className="word-kanji">{currentWord.kanji}</div>
+                ) : null}
+                <div className="fill-input-container">
+                  <div className="fill-input-wrapper">
+                    <input
+                      ref={inputRef}
+                      type="text"
+                      value={userAnswer}
+                      onChange={(e) => {
+                        setUserAnswer(e.target.value)
+                        setShowResult(false)
+                      }}
+                      onKeyDown={(e) => {
+                        if (e.key === 'Enter' && !showResult) {
+                          checkAnswer()
+                        }
+                      }}
+                      placeholder="Nhập nghĩa..."
+                      className="fill-input"
+                      disabled={showResult}
+                    />
+                    {showResult && (
+                      <span className={`fill-result-icon ${isCorrect ? 'correct' : 'incorrect'}`}>
+                        {isCorrect ? '✓' : '✗'}
+                      </span>
+                    )}
+                  </div>
+                  {showResult && !isCorrect && (
+                    <div className="correct-answer-hint">
+                      Đáp án: {currentWord.vi}
+                    </div>
+                  )}
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      )}
 
       <div className="card-navigation">
         <button onClick={handlePrev} className="btn btn-nav">
           ← Trước
         </button>
-        <button onClick={handleFlip} className="btn btn-primary">
-          {isFlipped ? 'Ẩn nghĩa' : 'Xem nghĩa'}
-        </button>
+        {practiceMode === 'view' ? (
+          <button onClick={handleFlip} className="btn btn-primary">
+            {isFlipped ? 'Ẩn nghĩa' : 'Xem nghĩa'}
+          </button>
+        ) : (
+          <button
+            onClick={checkAnswer}
+            className="btn btn-primary"
+            disabled={!userAnswer.trim() || showResult}
+          >
+            {showResult ? 'Đã kiểm tra' : 'Kiểm tra'}
+          </button>
+        )}
         <button onClick={handleNext} className="btn btn-nav">
           Sau →
         </button>

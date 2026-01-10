@@ -26,11 +26,12 @@ export default function UsagePage({ params }: PageProps) {
   const wordsWithExplanation = vocabulary
     .filter((word) => word.explanation !== undefined)
     .map((word) => {
+      const shouldShowHiragana = !word.kanji || word.kanji !== word.hiragana;
+      const displayWord = word.kanji || word.hiragana;
+      const hiraganaPart = shouldShowHiragana ? ` (${word.hiragana})` : '';
       const title =
         word.explanation?.title ||
-        `${word.kanji || word.hiragana} (${word.hiragana}) - ${word.en} / ${
-          word.vi
-        }`;
+        `${displayWord}${hiraganaPart} - ${word.en} / ${word.vi}`;
       return {
         ...word,
         explanation: {
@@ -64,7 +65,9 @@ export default function UsagePage({ params }: PageProps) {
             <div className="explanation-header">
               <div className="word-display">
                 {word.kanji && <span className="word-kanji">{word.kanji}</span>}
-                <span className="word-hiragana">{word.hiragana}</span>
+                {(!word.kanji || word.kanji !== word.hiragana) && (
+                  <span className="word-hiragana">{word.hiragana}</span>
+                )}
                 <span className="word-meaning">({word.vi})</span>
               </div>
             </div>

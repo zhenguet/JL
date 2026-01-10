@@ -43,14 +43,12 @@ const EXERCISE_TYPES: Array<{
     label: 'Điền chữ mềm (Kanji + nghĩa)',
     icon: '🖋️',
   },
-  { type: 'translate', label: 'Dịch', icon: '🔄' },
 ];
 
 const VOCABULARY_EXERCISE_TYPES: ExerciseType[] = [
   'fill',
   'fill-kanji-hiragana',
   'fill-hiragana-from-kanji',
-  'translate',
   'kanji',
 ];
 
@@ -80,22 +78,30 @@ function createFillExercise(word: VocabularyWord): FillExercise {
 }
 
 function createTranslateExercise(word: VocabularyWord): TranslateExercise {
+  const shouldShowHiragana = !word.kanji || word.kanji !== word.hiragana;
+  const hiraganaPart = shouldShowHiragana ? `"${word.hiragana}"` : '';
+  const kanjiPart = word.kanji ? `"${word.kanji}"` : '';
+  const question = shouldShowHiragana
+    ? `Dịch sang tiếng Việt: ${hiraganaPart}${word.kanji ? ` (${word.kanji})` : ''}`
+    : `Dịch sang tiếng Việt: ${kanjiPart}`;
   return {
     id: `translate-${Date.now()}`,
     type: 'translate',
-    question: `Dịch sang tiếng Việt: "${word.hiragana}"${
-      word.kanji ? ` (${word.kanji})` : ''
-    }`,
+    question,
     answer: word.vi,
     kanji: word.kanji,
   };
 }
 
 function createKanjiExercise(word: VocabularyWord): KanjiExercise {
+  const shouldShowHiragana = !word.kanji || word.kanji !== word.hiragana;
+  const question = shouldShowHiragana
+    ? `Kanji của "${word.hiragana}" (${word.vi}) là gì?`
+    : `Kanji của từ này (${word.vi}) là gì?`;
   return {
     id: `kanji-${Date.now()}`,
     type: 'kanji',
-    question: `Kanji của "${word.hiragana}" (${word.vi}) là gì?`,
+    question,
     answer: word.kanji!,
     hiragana: word.hiragana,
   };
@@ -104,10 +110,14 @@ function createKanjiExercise(word: VocabularyWord): KanjiExercise {
 function createFillKanjiHiraganaExercise(
   word: VocabularyWord
 ): FillKanjiHiraganaExercise {
+  const shouldShowHiragana = !word.kanji || word.kanji !== word.hiragana;
+  const question = shouldShowHiragana
+    ? `${word.kanji}　（${word.hiragana}） = ? (${word.vi})`
+    : `${word.kanji} = ? (${word.vi})`;
   return {
     id: `fill-kanji-hiragana-${Date.now()}`,
     type: 'fill-kanji-hiragana',
-    question: `${word.kanji}　（${word.hiragana}） = ? (${word.vi})`,
+    question,
     kanji: word.kanji,
     hiragana: word.hiragana,
   };
@@ -270,8 +280,6 @@ export default function ExerciseClient({ lessonNumber, exerciseType }: ExerciseC
     switch (exerciseType) {
       case 'fill':
         return createFillExercise(word);
-      case 'translate':
-        return createTranslateExercise(word);
       case 'kanji':
         if (!word.kanji) {
           return generateVocabularyExercise();
