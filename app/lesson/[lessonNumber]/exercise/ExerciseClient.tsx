@@ -1,7 +1,7 @@
 'use client';
 
 import { EmptyMessage, PageTitle } from '@/components';
-import { MultipleChoice, ReadingPassage } from '@/components/exercises';
+import { MultipleChoice, ReadingPassage } from '@/components/Exercises';
 import { getRandomGrammarExercise } from '@/data/grammarExercises';
 import { getRandomMultipleChoiceExercise } from '@/data/multipleChoiceExercises';
 import { getRandomReadingExercise } from '@/data/readingExercises';

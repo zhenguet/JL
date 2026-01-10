@@ -1,6 +1,6 @@
 'use client';
 
-import { Quiz, QuizQuestion } from '@/components/exercises';
+import { Quiz, QuizQuestion } from '@/components/Exercises';
 import { getRandomQuizData } from '@/data/quizData';
 import { useEffect, useState } from 'react';
 import { useI18n } from '@/i18n/context';

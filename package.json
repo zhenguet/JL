@@ -6,7 +6,8 @@
     "build": "next build",
     "start": "next start -p 5000",
     "lint": "next lint",
-    "test": "node --test"
+    "test": "node --test",
+    "check-unused": "tsx scripts/remove-unused-consts.ts"
   },
   "dependencies": {
     "@emotion/react": "^11.11.1",

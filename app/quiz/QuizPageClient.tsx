@@ -1,6 +1,6 @@
 'use client'
 
-import { Quiz } from '@/components/exercises'
+import { Quiz } from '@/components/Exercises'
 import { sampleQuizData } from '@/data/quizData'
 import { useI18n } from '@/i18n/context'
 import { colors } from '@/lib/styles/colors'

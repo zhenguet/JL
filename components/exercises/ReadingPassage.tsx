@@ -1,6 +1,6 @@
 'use client';
 
-import { MultipleChoice } from '@/components/exercises';
+import { MultipleChoice } from '@/components/Exercises';
 import { ReadingExercise } from '@/types/exercise';
 import { useState } from 'react';
 import { useI18n } from '@/i18n/context';

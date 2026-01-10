@@ -54,7 +54,7 @@ lib/                    # Shared libraries
     └── exerciseRoute.ts # Exercise routing utilities
 
 components/             # React components
-├── exercises/          # Exercise components
+├── Exercises/          # Exercise components
 ├── AlphabetButton/     # Alphabet button
 ├── AlphabetModal/      # Alphabet modal
 ├── LanguageSwitcher/   # Language & theme switcher
