@@ -3,7 +3,7 @@
 }
 
 .flashcard-container h2 {
-  color: #667eea;
+  color: var(--color-primary);
   margin-bottom: 20px;
   font-size: 2rem;
 }
@@ -28,7 +28,7 @@
 .flashcard-progress .progress-bar {
   width: 100%;
   height: 8px;
-  background: #e0e0e0;
+  background: var(--color-border-light);
   border-radius: 4px;
   margin-bottom: 10px;
   overflow: hidden;
@@ -36,13 +36,13 @@
 
 .flashcard-progress .progress-fill {
   height: 100%;
-  background: linear-gradient(90deg, #667eea 0%, #764ba2 100%);
+  background: var(--gradient-primary-horizontal);
   transition: width 0.3s ease;
 }
 
 .flashcard-progress .progress-text {
   text-align: center;
-  color: #2a2a2a;
+  color: var(--color-text-dark);
   margin-bottom: 30px;
   font-weight: 600;
 }
@@ -77,7 +77,7 @@
   height: 100%;
   backface-visibility: hidden;
   border-radius: 16px;
-  box-shadow: 0 8px 32px rgba(0, 0, 0, 0.2);
+  box-shadow: 0 8px 32px var(--shadow-black-dark);
   display: flex;
   align-items: center;
   justify-content: center;
@@ -86,12 +86,12 @@
 }
 
 .card-front {
-  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+  background: var(--gradient-primary);
   color: white;
 }
 
 .card-back {
-  background: linear-gradient(135deg, #764ba2 0%, #667eea 100%);
+  background: var(--gradient-primary-reverse);
   color: white;
   transform: rotateY(180deg);
 }
@@ -112,7 +112,7 @@
   font-weight: 700;
   margin-bottom: 20px;
   margin-top: 0;
-  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.2);
+  text-shadow: 2px 2px 4px var(--shadow-black-dark);
   word-wrap: break-word;
   overflow-wrap: break-word;
   max-width: 100%;
@@ -132,7 +132,7 @@
   font-size: 2.5rem;
   font-weight: 600;
   margin-bottom: 15px;
-  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.2);
+  text-shadow: 2px 2px 4px var(--shadow-black-dark);
   word-wrap: break-word;
   overflow-wrap: break-word;
   max-width: 100%;
@@ -181,7 +181,7 @@
   width: 100%;
   padding: 16px 50px 16px 20px;
   font-size: 1.2rem;
-  border: 3px solid rgba(255, 255, 255, 0.5);
+  border: 3px solid var(--color-white-overlay-50);
   border-radius: 12px;
   background: rgba(255, 255, 255, 0.2);
   color: white;
@@ -191,14 +191,14 @@
 }
 
 .fill-input::placeholder {
-  color: rgba(255, 255, 255, 0.7);
+  color: var(--color-white-overlay-70);
 }
 
 .fill-input:focus {
   outline: none;
-  border-color: rgba(255, 255, 255, 0.9);
+  border-color: var(--color-white-overlay-90);
   background: rgba(255, 255, 255, 0.3);
-  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2);
+  box-shadow: 0 4px 12px var(--shadow-black-dark);
 }
 
 .fill-input:disabled {
@@ -216,7 +216,7 @@
 }
 
 .fill-result-icon.correct {
-  color: #4caf50;
+  color: var(--color-success);
 }
 
 .fill-result-icon.incorrect {
@@ -226,7 +226,7 @@
 .correct-answer-hint {
   font-size: 0.9rem;
   opacity: 0.9;
-  color: rgba(255, 255, 255, 0.9);
+  color: var(--color-white-overlay-90);
   text-align: center;
   margin-top: 5px;
   animation: fadeIn 0.2s ease;
@@ -266,32 +266,32 @@
 }
 
 .btn-primary {
-  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+  background: var(--gradient-primary);
   color: white;
 }
 
 .btn-primary:hover {
   transform: translateY(-2px);
-  box-shadow: 0 4px 12px rgba(102, 126, 234, 0.4);
+  box-shadow: 0 4px 12px var(--shadow-primary);
 }
 
 .btn-secondary {
-  background: #6c757d;
+  background: var(--color-secondary);
   color: white;
 }
 
 .btn-secondary:hover {
-  background: #5a6268;
+  background: var(--color-secondary-dark);
   transform: translateY(-2px);
 }
 
 .btn-nav {
-  background: #667eea;
+  background: var(--color-primary);
   color: white;
 }
 
 .btn-nav:hover {
-  background: #5568d3;
+  background: var(--color-primary-dark);
   transform: translateY(-2px);
 }
 

@@ -3,6 +3,7 @@
 import { useI18n } from '@/i18n/context'
 import { Locale, locales } from '@/i18n'
 import { Select, MenuItem, FormControl } from '@mui/material'
+import { colors } from '@/app/colors'
 import './LanguageSwitcher.css'
 
 const localeLabels: Record<Locale, string> = {
@@ -30,18 +31,18 @@ export default function LanguageSwitcher() {
           sx={{
             backgroundColor: 'white',
             borderRadius: '8px',
-            boxShadow: '0 2px 4px rgba(0, 0, 0, 0.1)',
+            boxShadow: `0 2px 4px ${colors.blackOverlay10}`,
             padding: '12px 16px',
             fontSize: '0.9rem',
             fontWeight: 600,
-            color: '#667eea',
+            color: colors.primary,
             '&:hover': {
-              backgroundColor: '#f8f9fa',
-              boxShadow: '0 4px 8px rgba(0, 0, 0, 0.15)',
+              backgroundColor: colors.bgLight,
+              boxShadow: `0 4px 8px ${colors.blackOverlay15}`,
             },
             '&.Mui-focused': {
               backgroundColor: 'white',
-              boxShadow: '0 4px 8px rgba(0, 0, 0, 0.15)',
+              boxShadow: `0 4px 8px ${colors.blackOverlay15}`,
             },
             '& .MuiOutlinedInput-notchedOutline': {
               border: 'none',
@@ -59,7 +60,7 @@ export default function LanguageSwitcher() {
                 alt={localeLabels[value]}
                 className="language-icon"
               />
-              <span style={{ fontWeight: 600, color: '#667eea' }}>{localeLabels[value]}</span>
+              <span style={{ fontWeight: 600, color: colors.primary }}>{localeLabels[value]}</span>
             </div>
           )}
         >

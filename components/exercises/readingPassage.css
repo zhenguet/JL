@@ -8,8 +8,8 @@
 }
 
 .passage-section {
-  background: linear-gradient(135deg, #f8f9ff 0%, #e8ebff 100%);
-  border: 2px solid #667eea;
+  background: linear-gradient(135deg, var(--color-bg-primary-light) 0%, var(--color-bg-primary-lighter) 100%);
+  border: 2px solid var(--color-primary);
   border-radius: 12px;
   padding: 20px;
 }
@@ -17,7 +17,7 @@
 .passage-title {
   font-size: 1.1rem;
   font-weight: 700;
-  color: #667eea;
+  color: var(--color-primary);
   margin-bottom: 16px;
   display: flex;
   align-items: center;
@@ -50,7 +50,7 @@
 .questions-title {
   font-size: 1.1rem;
   font-weight: 700;
-  color: #667eea;
+  color: var(--color-primary);
   display: flex;
   align-items: center;
   gap: 8px;
@@ -58,20 +58,20 @@
 
 .reading-question {
   background: white;
-  border: 2px solid #e0e0e0;
+  border: 2px solid var(--color-border-light);
   border-radius: 12px;
   padding: 20px;
   transition: all 0.3s ease;
 }
 
 .reading-question:hover {
-  border-color: #667eea;
-  box-shadow: 0 4px 12px rgba(102, 126, 234, 0.1);
+  border-color: var(--color-primary);
+  box-shadow: 0 4px 12px var(--shadow-primary-lighter);
 }
 
 .question-number {
   display: inline-block;
-  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+  background: var(--gradient-primary);
   color: white;
   padding: 6px 14px;
   border-radius: 20px;

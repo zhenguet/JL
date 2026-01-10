@@ -5,13 +5,13 @@
   width: 60px;
   height: 60px;
   border-radius: 50%;
-  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+  background: var(--gradient-primary);
   color: white;
   border: none;
   font-size: 2rem;
   font-weight: 600;
   cursor: pointer;
-  box-shadow: 0 4px 16px rgba(102, 126, 234, 0.4);
+  box-shadow: 0 4px 16px var(--shadow-primary);
   transition: all 0.3s ease;
   z-index: 999;
   display: flex;
@@ -21,7 +21,7 @@
 
 .alphabet-floating-btn:hover {
   transform: translateY(-4px) scale(1.1);
-  box-shadow: 0 6px 20px rgba(102, 126, 234, 0.6);
+  box-shadow: 0 6px 20px var(--shadow-primary-dark);
 }
 
 .alphabet-floating-btn:active {

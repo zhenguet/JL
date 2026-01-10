@@ -28,8 +28,8 @@
   height: 50px;
   object-fit: cover;
   border-radius: 50%;
-  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2);
-  border: 2px solid rgba(255, 255, 255, 0.8);
+  box-shadow: 0 4px 12px var(--shadow-black-dark);
+  border: 2px solid var(--color-white-overlay-80);
   transition: transform 0.3s ease;
 }
 
@@ -42,12 +42,12 @@
   color: white;
   font-size: 3rem;
   margin-bottom: 10px;
-  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3);
+  text-shadow: var(--text-shadow-light);
 }
 
 .subtitle {
   text-align: center;
-  color: rgba(255, 255, 255, 0.9);
+  color: var(--color-white-overlay-90);
   font-size: 1.2rem;
   margin-bottom: 30px;
 }
@@ -63,21 +63,21 @@
   align-items: center;
   justify-content: center;
   padding: 16px 32px;
-  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+  background: var(--gradient-primary);
   color: white;
   text-decoration: none;
   font-size: 1.2rem;
   font-weight: 700;
   border-radius: 12px;
-  box-shadow: 0 4px 12px rgba(102, 126, 234, 0.4);
+  box-shadow: 0 4px 12px var(--shadow-primary);
   transition: all 0.3s ease;
   border: 2px solid rgba(255, 255, 255, 0.2);
 }
 
 .quiz-button:hover {
   transform: translateY(-3px);
-  box-shadow: 0 8px 20px rgba(102, 126, 234, 0.6);
-  background: linear-gradient(135deg, #764ba2 0%, #667eea 100%);
+  box-shadow: 0 8px 20px var(--shadow-primary-dark);
+  background: var(--gradient-primary-reverse);
 }
 
 .level-section {
@@ -89,7 +89,7 @@
   color: white;
   font-size: 2rem;
   margin-bottom: 25px;
-  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3);
+  text-shadow: var(--text-shadow-light);
   font-weight: 700;
 }
 
@@ -105,7 +105,7 @@
   align-items: center;
   justify-content: center;
   padding: 20px;
-  background: rgba(255, 255, 255, 0.15);
+  background: var(--color-white-overlay-15);
   backdrop-filter: blur(10px);
   border-radius: 12px;
   color: white;
@@ -117,9 +117,9 @@
 }
 
 .lesson-card:hover {
-  background: rgba(255, 255, 255, 0.25);
+  background: var(--color-white-overlay-25);
   transform: translateY(-3px);
-  box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+  box-shadow: 0 8px 16px var(--shadow-black-dark);
 }
 
 @media (max-width: 768px) {

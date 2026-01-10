@@ -1,9 +1,9 @@
 .exercise-container {
-  color: #333;
+  color: var(--color-text-dark);
 }
 
 .exercise-container h2 {
-  color: #667eea;
+  color: var(--color-primary);
   margin-bottom: 20px;
   font-size: 2rem;
 }
@@ -18,9 +18,9 @@
 
 .type-btn {
   padding: 12px 24px;
-  border: 2px solid #667eea;
-  background: white;
-  color: #667eea;
+  border: 2px solid var(--color-primary);
+  background: var(--color-bg-white);
+  color: var(--color-primary);
   border-radius: 8px;
   cursor: pointer;
   font-weight: 600;
@@ -29,13 +29,13 @@
 }
 
 .type-btn:hover {
-  background: #f0f0f0;
+  background: var(--color-bg-lighter);
   transform: translateY(-2px);
 }
 
 .type-btn.active {
-  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
-  color: white;
+  background: var(--gradient-primary);
+  color: var(--color-white);
   border-color: transparent;
 }
 
@@ -50,18 +50,18 @@
   display: flex;
   flex-direction: column;
   align-items: center;
-  background: white;
+  background: var(--color-bg-white);
   padding: 10px 20px;
   border-radius: 12px;
-  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.05);
+  box-shadow: 0 2px 8px var(--shadow-black-light);
   min-width: 100px;
 }
 
 .practiced-words {
-  background: white;
+  background: var(--color-bg-white);
   border-radius: 12px;
   padding: 12px 16px;
-  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.05);
+  box-shadow: 0 2px 8px var(--shadow-black-light);
   margin: 16px 10px 20px;
   display: flex;
   flex-direction: column;
@@ -75,12 +75,12 @@
 }
 
 .practiced-word {
-  background: #f8f9ff;
-  border: 1px solid #e0e3ff;
+  background: var(--color-bg-primary-light);
+  border: 1px solid var(--color-border-primary-light);
   border-radius: 8px;
   padding: 10px 12px;
   font-size: 0.95rem;
-  color: #333;
+  color: var(--color-text-dark);
   display: flex;
   align-items: center;
   justify-content: space-between;
@@ -88,13 +88,13 @@
 }
 
 .practiced-word.correct {
-  background: #d4edda;
-  border-color: #c3e6cb;
+  background: var(--color-success-light);
+  border-color: var(--color-success-lighter);
 }
 
 .practiced-word.incorrect {
-  background: #f8d7da;
-  border-color: #f5c6cb;
+  background: var(--color-danger-light);
+  border-color: var(--color-danger-lighter);
 }
 
 .history-left {
@@ -114,18 +114,18 @@
 }
 
 .history-icon.correct {
-  color: #28a745;
+  color: var(--color-success);
 }
 
 .history-icon.incorrect {
-  color: #dc3545;
+  color: var(--color-danger);
 }
 
 .history-text {
   display: inline-flex;
   gap: 4px;
   flex-wrap: wrap;
-  color: #333;
+  color: var(--color-text-dark);
 }
 
 .stat-label {
@@ -135,25 +135,25 @@
 }
 
 .correct-count {
-  color: #28a745;
+  color: var(--color-success);
   font-weight: 700;
 }
 
 .incorrect-count {
-  color: #dc3545;
+  color: var(--color-danger);
   font-weight: 700;
 }
 
 .stat-value {
   font-size: 1.2rem;
   font-weight: 700;
-  color: #333;
+  color: var(--color-text-dark);
 }
 
 .progress-container {
   width: 100%;
   height: 8px;
-  background: #e0e0e0;
+  background: var(--color-border-light);
   border-radius: 4px;
   margin-bottom: 30px;
   overflow: hidden;
@@ -161,29 +161,29 @@
 
 .progress-bar {
   height: 100%;
-  background: linear-gradient(90deg, #667eea 0%, #764ba2 100%);
+  background: var(--gradient-primary-horizontal);
   transition: width 0.5s ease;
 }
 
 .exercise-card {
   max-width: 600px;
   margin: 0 auto;
-  background: white;
+  background: var(--color-bg-white);
   border-radius: 16px;
   padding: 40px;
-  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.1);
+  box-shadow: 0 10px 30px var(--shadow-black-normal);
   transition: all 0.3s ease;
   border: 2px solid transparent;
 }
 
 .card-correct {
-  border-color: #28a745;
-  box-shadow: 0 0 20px rgba(40, 167, 69, 0.2);
+  border-color: var(--color-success);
+  box-shadow: 0 0 20px var(--shadow-success);
 }
 
 .card-incorrect {
-  border-color: #dc3545;
-  box-shadow: 0 0 20px rgba(220, 53, 69, 0.2);
+  border-color: var(--color-danger);
+  box-shadow: 0 0 20px var(--shadow-danger);
   animation: shake 0.5s cubic-bezier(.36,.07,.19,.97) both;
 }
 
@@ -199,7 +199,7 @@
 }
 
 .exercise-question h3 {
-  color: #333;
+  color: var(--color-text-dark);
   font-size: 1.5rem;
   line-height: 1.6;
 }
@@ -212,18 +212,18 @@
   width: 100%;
   padding: 15px;
   font-size: 1.2rem;
-  border: 2px solid #e0e0e0;
+  border: 2px solid var(--color-border-light);
   border-radius: 8px;
   transition: border-color 0.3s ease;
 }
 
 .answer-input:focus {
   outline: none;
-  border-color: #667eea;
+  border-color: var(--color-primary);
 }
 
 .answer-input:disabled {
-  background: #f5f5f5;
+  background: var(--color-bg-lightest);
   cursor: not-allowed;
 }
 
@@ -240,15 +240,15 @@
 }
 
 .result-message.correct {
-  background: #d4edda;
-  color: #155724;
-  border: 2px solid #c3e6cb;
+  background: var(--color-success-light);
+  color: var(--color-success-text);
+  border: 2px solid var(--color-success-lighter);
 }
 
 .result-message.incorrect {
-  background: #f8d7da;
-  color: #721c24;
-  border: 2px solid #f5c6cb;
+  background: var(--color-danger-light);
+  color: var(--color-danger-text);
+  border: 2px solid var(--color-danger-lighter);
 }
 
 .result-content {
@@ -279,19 +279,19 @@
 }
 
 .check-badge.ai {
-  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
-  color: white;
+  background: var(--gradient-primary);
+  color: var(--color-white);
 }
 
 .check-badge.local {
-  background: #e0e0e0;
-  color: #666;
+  background: var(--color-border-light);
+  color: var(--color-text-light);
 }
 
 .ai-explanation {
   margin-top: 8px;
   padding: 10px;
-  background: rgba(255, 255, 255, 0.5);
+  background: var(--color-white-overlay-50);
   border-radius: 6px;
   font-size: 0.9rem;
   font-weight: normal;
@@ -299,7 +299,7 @@
 }
 
 .correct-answer-text {
-  color: #28a745;
+  color: var(--color-success);
   font-weight: 800;
   font-size: 1.1em;
 }
@@ -313,7 +313,7 @@
   font-size: 0.95rem;
   color: #555;
   font-style: italic;
-  background: rgba(255, 255, 255, 0.5);
+  background: var(--color-white-overlay-50);
   padding: 8px;
   border-radius: 6px;
 }
@@ -335,22 +335,22 @@
 }
 
 .btn-submit {
-  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
-  color: white;
+  background: var(--gradient-primary);
+  color: var(--color-white);
 }
 
 .btn-submit:hover {
   transform: translateY(-2px);
-  box-shadow: 0 4px 12px rgba(102, 126, 234, 0.4);
+  box-shadow: 0 4px 12px var(--shadow-primary);
 }
 
 .btn-next {
-  background: #28a745;
-  color: white;
+  background: var(--color-success);
+  color: var(--color-white);
 }
 
 .btn-next:hover {
-  background: #218838;
+  background: var(--color-success-dark);
   transform: translateY(-2px);
 }
 
@@ -378,22 +378,22 @@
 
 .ai-badge {
   display: inline-block;
-  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
-  color: white;
+  background: var(--gradient-primary);
+  color: var(--color-white);
   font-size: 0.7rem;
   padding: 2px 8px;
   border-radius: 12px;
   margin-left: 10px;
   vertical-align: middle;
   font-weight: bold;
-  box-shadow: 0 2px 4px rgba(118, 75, 162, 0.3);
+  box-shadow: 0 2px 4px var(--shadow-primary-purple);
 }
 
 .generating-indicator {
   display: flex;
   align-items: center;
   gap: 10px;
-  color: #667eea;
+  color: var(--color-primary);
   font-weight: 600;
   font-size: 1.1rem;
 }
@@ -413,7 +413,7 @@
   justify-content: center;
   align-items: center;
   min-height: 300px;
-  background: white;
+  background: var(--color-bg-white);
   border-radius: 16px;
-  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.1);
+  box-shadow: 0 10px 30px var(--shadow-black-normal);
 }
