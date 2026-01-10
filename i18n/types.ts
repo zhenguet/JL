@@ -20,6 +20,7 @@ export interface Translations {
     grammarPoint: string
   }
   navigation: {
+    home: string
     vocabulary: string
     grammar: string
     flashcard: string

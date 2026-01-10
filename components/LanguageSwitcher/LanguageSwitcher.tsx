@@ -2,8 +2,11 @@
 
 import { useI18n } from '@/i18n/context'
 import { Locale, locales } from '@/i18n'
-import { Select, MenuItem, FormControl } from '@mui/material'
+import { Select, MenuItem, FormControl, IconButton } from '@mui/material'
 import { colors } from '@/app/colors'
+import { useTheme } from '@/app/theme/context'
+import LightModeIcon from '@mui/icons-material/LightMode'
+import DarkModeIcon from '@mui/icons-material/DarkMode'
 import './LanguageSwitcher.css'
 
 const localeLabels: Record<Locale, string> = {
@@ -20,16 +23,17 @@ const localeIcons: Record<Locale, string> = {
 
 export default function LanguageSwitcher() {
   const { locale, setLocale } = useI18n()
+  const { theme, toggleTheme } = useTheme()
 
   return (
     <div className="language-switcher">
-      <FormControl sx={{ minWidth: '100%' }}>
+      <FormControl sx={{ flex: 1, minWidth: 0 }}>
         <Select
           value={locale}
           onChange={(e) => setLocale(e.target.value as Locale)}
           className="language-select"
           sx={{
-            backgroundColor: 'white',
+            backgroundColor: 'var(--color-bg-white)',
             borderRadius: '8px',
             boxShadow: `0 2px 4px ${colors.blackOverlay10}`,
             padding: '12px 16px',
@@ -41,7 +45,7 @@ export default function LanguageSwitcher() {
               boxShadow: `0 4px 8px ${colors.blackOverlay15}`,
             },
             '&.Mui-focused': {
-              backgroundColor: 'white',
+              backgroundColor: 'var(--color-bg-white)',
               boxShadow: `0 4px 8px ${colors.blackOverlay15}`,
             },
             '& .MuiOutlinedInput-notchedOutline': {
@@ -76,6 +80,25 @@ export default function LanguageSwitcher() {
           ))}
         </Select>
       </FormControl>
+      <IconButton
+        onClick={toggleTheme}
+        className="theme-toggle"
+        sx={{
+          backgroundColor: 'var(--color-bg-white)',
+          borderRadius: '8px',
+          boxShadow: `0 2px 4px ${colors.blackOverlay10}`,
+          padding: '12px',
+          color: colors.primary,
+          flexShrink: 0,
+          '&:hover': {
+            backgroundColor: colors.bgLight,
+            boxShadow: `0 4px 8px ${colors.blackOverlay15}`,
+          },
+        }}
+        aria-label="Toggle theme"
+      >
+        {theme === 'light' ? <DarkModeIcon /> : <LightModeIcon />}
+      </IconButton>
     </div>
   )
 }

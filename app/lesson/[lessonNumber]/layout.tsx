@@ -21,6 +21,7 @@ export default function LessonLayout({
   const { t } = useI18n()
 
   const menuItems = [
+    { path: '/', label: t.navigation.home, isHome: true },
     { path: 'vocabulary', label: t.navigation.vocabulary },
     { path: 'grammar', label: t.navigation.grammar },
     { path: 'flashcard', label: t.navigation.flashcard },
@@ -83,8 +84,10 @@ export default function LessonLayout({
         <div className="lesson-sidebar-content">
           <nav className="lesson-sidebar-nav">
             {menuItems.map((item) => {
-              const href = `/lesson/${lessonNumber}/${item.path}`
-              const isActive = item.path === 'exercise' 
+              const href = item.isHome ? item.path : `/lesson/${lessonNumber}/${item.path}`
+              const isActive = item.isHome 
+                ? pathname === '/'
+                : item.path === 'exercise' 
                 ? pathname.startsWith(href)
                 : pathname === href
               return (

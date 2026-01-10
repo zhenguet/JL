@@ -60,7 +60,7 @@
 .kanji-cell {
   font-size: 1.3rem;
   font-weight: 600;
-  color: #333;
+  color: var(--color-text-dark);
   min-width: 120px;
 }
 
@@ -71,12 +71,12 @@
 
 .hiragana-cell {
   font-size: 1.2rem;
-  color: #555;
+  color: var(--color-text-medium);
   min-width: 150px;
 }
 
 .meaning-cell {
-  color: #333;
+  color: var(--color-text-dark);
 }
 
 .detail-cell {
@@ -110,7 +110,7 @@
 
 .vocab-detail {
   padding: 20px;
-  background: white;
+  background: var(--color-bg-white);
   border-left: 4px solid var(--color-primary);
 }
 
@@ -134,7 +134,7 @@
   list-style-position: outside;
   padding-left: 20px;
   margin: 0;
-  color: #555;
+  color: var(--color-text-medium);
 }
 
 .explanation-list li {
@@ -150,7 +150,7 @@
 }
 
 .explanation-list li::marker {
-  color: #555;
+  color: var(--color-text-medium);
 }
 
 @media (max-width: 768px) {

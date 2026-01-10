@@ -10,7 +10,7 @@
 
 .mc-question h3 {
   font-size: 1.3rem;
-  color: #333;
+  color: var(--color-text-dark);
   font-weight: 600;
   line-height: 1.5;
 }
@@ -26,9 +26,10 @@
   align-items: center;
   gap: 12px;
   padding: 16px 20px;
-  border: 2px solid #ddd;
+  border: 2px solid var(--color-border-light);
   border-radius: 12px;
-  background: white;
+  background: var(--color-bg-white);
+  color: var(--color-text-dark);
   cursor: pointer;
   transition: all 0.3s ease;
   font-size: 1rem;
@@ -83,7 +84,7 @@
 }
 
 .mc-option.selected .mc-label {
-  background: white;
+  background: var(--color-bg-white);
   color: var(--color-primary);
   box-shadow: 0 2px 8px var(--shadow-black-dark);
 }
@@ -99,7 +100,7 @@
 .mc-text {
   flex: 1;
   font-weight: 500;
-  color: #333;
+  color: var(--color-text-dark);
   line-height: 1.5;
 }
 

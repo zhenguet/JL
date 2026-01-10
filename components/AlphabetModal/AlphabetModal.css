@@ -23,7 +23,7 @@
 }
 
 .alphabet-modal-content {
-  background: white;
+  background: var(--color-bg-white);
   border-radius: 16px;
   max-width: 900px;
   width: 100%;
@@ -99,7 +99,7 @@
   background: transparent;
   font-size: 1.1rem;
   font-weight: 600;
-  color: #666;
+  color: var(--color-text-light);
   cursor: pointer;
   transition: all 0.2s ease;
   border-bottom: 3px solid transparent;
@@ -107,13 +107,13 @@
 
 .alphabet-tab:hover {
   background: var(--color-bg-lighter);
-  color: #333;
+  color: var(--color-text-dark);
 }
 
 .alphabet-tab.active {
   color: var(--color-primary);
   border-bottom-color: var(--color-primary);
-  background: white;
+  background: var(--color-bg-white);
 }
 
 .alphabet-content {
@@ -200,20 +200,20 @@
 .alphabet-table .row-header {
   background: var(--color-bg-lighter);
   font-weight: 600;
-  color: #333;
+  color: var(--color-text-dark);
   min-width: 40px;
 }
 
 .char-kanji {
   font-size: 1.8rem;
   font-weight: 600;
-  color: #333;
+  color: var(--color-text-dark);
   margin-bottom: 4px;
 }
 
 .char-romaji {
   font-size: 0.85rem;
-  color: #666;
+  color: var(--color-text-light);
   font-style: italic;
 }
 
@@ -236,7 +236,7 @@
 
 .alphabet-footer p {
   margin: 0;
-  color: #666;
+  color: var(--color-text-light);
   font-size: 0.9rem;
   line-height: 1.6;
 }

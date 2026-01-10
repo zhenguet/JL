@@ -92,7 +92,7 @@
   height: 32px;
   border: none;
   border-radius: 6px;
-  background: rgba(255, 255, 255, 0.2);
+  background: var(--color-white-overlay-20);
   color: white;
   font-size: 20px;
   font-weight: bold;
@@ -117,7 +117,7 @@
 
 .lesson-sidebar-back {
   padding: 12px 20px;
-  background: white;
+  background: var(--color-bg-white);
   border-radius: 8px;
   color: var(--color-primary);
   text-decoration: none;
@@ -141,7 +141,7 @@
 
 .lesson-sidebar-item {
   padding: 14px 20px;
-  background: rgba(255, 255, 255, 0.2);
+  background: var(--color-white-overlay-20);
   border-radius: 8px;
   color: white;
   text-decoration: none;
@@ -156,7 +156,7 @@
 }
 
 .lesson-sidebar-item.active {
-  background: white;
+  background: var(--color-bg-white);
   color: var(--color-primary);
   box-shadow: 0 2px 4px var(--shadow-black-normal);
   font-weight: 600;
@@ -167,13 +167,13 @@
   gap: 10px;
   margin-top: auto;
   padding-top: 20px;
-  border-top: 2px solid rgba(255, 255, 255, 0.2);
+  border-top: 2px solid var(--color-white-overlay-20);
 }
 
 .lesson-sidebar-nav-btn {
   flex: 1;
   padding: 12px 16px;
-  background: white;
+  background: var(--color-bg-white);
   border-radius: 8px;
   color: var(--color-primary);
   text-decoration: none;
@@ -192,7 +192,7 @@
 
 .lesson-sidebar-nav-btn.disabled {
   background: var(--color-white-overlay-30);
-  color: rgba(255, 255, 255, 0.7);
+  color: var(--color-white-overlay-70);
   cursor: not-allowed;
   box-shadow: none;
 }
@@ -219,7 +219,7 @@
 
 .back-button {
   padding: 10px 20px;
-  background: white;
+  background: var(--color-bg-white);
   border-radius: 8px;
   color: var(--color-primary);
   text-decoration: none;
@@ -254,7 +254,7 @@
 
 .nav-lesson-btn {
   padding: 10px 16px;
-  background: white;
+  background: var(--color-bg-white);
   border-radius: 8px;
   color: var(--color-primary);
   text-decoration: none;
@@ -273,7 +273,7 @@
 
 .nav-lesson-btn.disabled {
   background: var(--color-white-overlay-30);
-  color: rgba(255, 255, 255, 0.7);
+  color: var(--color-white-overlay-70);
   cursor: not-allowed;
   box-shadow: none;
 }
@@ -288,7 +288,7 @@
 
 .nav-item {
   padding: 10px 20px;
-  background: rgba(255, 255, 255, 0.2);
+  background: var(--color-white-overlay-20);
   border-radius: 8px;
   color: white;
   text-decoration: none;
@@ -304,7 +304,7 @@
 }
 
 .nav-item.active {
-  background: white;
+  background: var(--color-bg-white);
   color: var(--color-primary);
   box-shadow: 0 2px 4px var(--shadow-black-normal);
 }

@@ -1,5 +1,5 @@
 .vocabulary-list {
-  color: #333;
+  color: var(--color-text-dark);
 }
 
 

@@ -99,7 +99,7 @@
 
 .history-left {
   font-weight: 600;
-  color: #222;
+  color: var(--color-text-dark);
 }
 
 .history-answer {
@@ -311,7 +311,7 @@
 .ai-explanation {
   margin-top: 8px;
   font-size: 0.95rem;
-  color: #555;
+  color: var(--color-text-medium);
   font-style: italic;
   background: var(--color-white-overlay-50);
   padding: 8px;

@@ -71,7 +71,7 @@
   border-radius: 12px;
   box-shadow: 0 4px 12px var(--shadow-primary);
   transition: all 0.3s ease;
-  border: 2px solid rgba(255, 255, 255, 0.2);
+  border: 2px solid var(--color-white-overlay-20);
 }
 
 .quiz-button:hover {
@@ -113,7 +113,7 @@
   font-size: 1.1rem;
   font-weight: 600;
   transition: all 0.3s ease;
-  border: 2px solid rgba(255, 255, 255, 0.2);
+  border: 2px solid var(--color-white-overlay-20);
 }
 
 .lesson-card:hover {

@@ -1,5 +1,5 @@
 .grammar-list {
-  color: #333;
+  color: var(--color-text-dark);
 }
 
 .grammar-table-wrapper {
@@ -51,7 +51,7 @@
 
 .title-cell {
   font-weight: 600;
-  color: #333;
+  color: var(--color-text-dark);
   min-width: 200px;
 }
 
@@ -63,7 +63,7 @@
   font-family: 'Courier New', monospace;
   font-size: 1.1rem;
   color: var(--color-danger);
-  background: #f8f9fa;
+  background: var(--color-bg-light);
   padding: 5px 10px;
   border-radius: 4px;
   white-space: pre-wrap;
@@ -81,13 +81,13 @@
 
 .example-preview .example-japanese {
   font-size: 1.2rem;
-  color: #333;
+  color: var(--color-text-dark);
   font-weight: 500;
 }
 
 .example-preview .example-vietnamese {
   font-size: 1rem;
-  color: #555;
+  color: var(--color-text-medium);
 }
 
 .detail-cell {
@@ -121,7 +121,7 @@
 
 .grammar-detail {
   padding: 20px;
-  background: white;
+  background: var(--color-bg-white);
   border-left: 4px solid var(--color-primary);
 }
 
@@ -141,7 +141,7 @@
 }
 
 .detail-section p {
-  color: #555;
+  color: var(--color-text-medium);
   font-size: 1.1rem;
   line-height: 1.6;
   margin: 0;
@@ -157,7 +157,7 @@
 }
 
 .example-item {
-  background: #f8f9fa;
+  background: var(--color-bg-light);
   padding: 12px;
   border-radius: 6px;
   border-left: 3px solid var(--color-success);
@@ -179,7 +179,7 @@
 
 .example-item .example-vietnamese {
   font-size: 1rem;
-  color: #555;
+  color: var(--color-text-medium);
 }
 
 .notes-list {

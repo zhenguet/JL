@@ -25,12 +25,12 @@
 }
 
 .passage-content {
-  background: white;
+  background: var(--color-bg-white);
   padding: 16px;
   border-radius: 8px;
   line-height: 1.8;
   font-size: 1.05rem;
-  color: #333;
+  color: var(--color-text-dark);
 }
 
 .passage-content p {
@@ -57,7 +57,7 @@
 }
 
 .reading-question {
-  background: white;
+  background: var(--color-bg-white);
   border: 2px solid var(--color-border-light);
   border-radius: 12px;
   padding: 20px;
