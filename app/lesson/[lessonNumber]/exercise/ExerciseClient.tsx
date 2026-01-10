@@ -23,7 +23,7 @@ import {
 } from '@/types/exercise';
 import { useEffect, useRef, useState } from 'react';
 import { useRouter } from 'next/navigation';
-import { exerciseTypeToRoute } from '@/utils/exerciseRoute';
+import { exerciseTypeToRoute } from '@/lib/utils/exerciseRoute';
 import { useI18n } from '@/i18n/context';
 import './exercise.css';
 

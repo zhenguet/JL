@@ -1,7 +1,7 @@
 'use client'
 
 import ExerciseClient from '../ExerciseClient'
-import { routeToExerciseType } from '@/utils/exerciseRoute'
+import { routeToExerciseType } from '@/lib/utils/exerciseRoute'
 import { useI18n } from '@/i18n/context'
 
 interface ExerciseTypePageClientProps {

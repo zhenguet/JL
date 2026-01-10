@@ -1,5 +1,5 @@
 import ExerciseClient from '../ExerciseClient';
-import { routeToExerciseType } from '@/utils/exerciseRoute';
+import { routeToExerciseType } from '@/lib/utils/exerciseRoute';
 import ExerciseTypePageClient from './ExerciseTypePageClient';
 
 export function generateStaticParams() {

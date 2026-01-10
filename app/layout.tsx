@@ -1,9 +1,9 @@
 import type { Metadata } from 'next'
-import './globals.css'
-import ThemeRegistry from './theme/ThemeRegistry'
+import '@/lib/styles/globals.css'
+import ThemeRegistry from '@/lib/styles/theme/ThemeRegistry'
 import { I18nProvider } from '@/i18n/context'
-import { ThemeProvider } from './theme/context'
-import { initThemeScript } from './theme/init-theme'
+import { ThemeProvider } from '@/lib/styles/theme/context'
+import { initThemeScript } from '@/lib/styles/theme/init-theme'
 
 export const metadata: Metadata = {
   title: 'Minna no Nihongo - Ứng dụng học tiếng Nhật',

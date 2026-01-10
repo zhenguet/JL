@@ -3,7 +3,7 @@
 import { Quiz } from '@/components/exercises'
 import { sampleQuizData } from '@/data/quizData'
 import { useI18n } from '@/i18n/context'
-import { colors } from '@/app/colors'
+import { colors } from '@/lib/styles/colors'
 
 export default function QuizPageClient() {
   const { t } = useI18n()
