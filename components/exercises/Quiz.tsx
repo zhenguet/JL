@@ -77,14 +77,21 @@ function buildShuffledQuestions(
     return {
       ...question,
       shuffledOptions,
-      shuffledCorrectAnswer: shuffledCorrectAnswer >= 0 ? shuffledCorrectAnswer : 0,
+      shuffledCorrectAnswer:
+        shuffledCorrectAnswer >= 0 ? shuffledCorrectAnswer : 0,
     };
   });
 }
 
-export default function Quiz({ questions, title, shuffleOptions = true }: QuizProps) {
+export default function Quiz({
+  questions,
+  title,
+  shuffleOptions = true,
+}: QuizProps) {
   const [shuffleKey, setShuffleKey] = useState(0);
-  const [selectedAnswers, setSelectedAnswers] = useState<Record<number, number>>({});
+  const [selectedAnswers, setSelectedAnswers] = useState<
+    Record<number, number>
+  >({});
   const [showResults, setShowResults] = useState(false);
   const [showAnswerKey, setShowAnswerKey] = useState(false);
   const [score, setScore] = useState<number | null>(null);
@@ -111,7 +118,8 @@ export default function Quiz({ questions, title, shuffleOptions = true }: QuizPr
     }, 0);
 
     const totalQuestions = shuffledQuestions.length;
-    const percentage = totalQuestions > 0 ? (correct / totalQuestions) * 100 : 0;
+    const percentage =
+      totalQuestions > 0 ? (correct / totalQuestions) * 100 : 0;
 
     return { correct, percentage };
   }, [selectedAnswers, shuffledQuestions]);
@@ -142,14 +150,6 @@ export default function Quiz({ questions, title, shuffleOptions = true }: QuizPr
     setShowAnswerKey(false);
     setScore(null);
     setShuffleKey((prev) => prev + 1);
-  };
-
-  const handleShowAnswerKey = () => {
-    if (score !== null && score >= 60) {
-      setShowAnswerKey(true);
-    } else {
-      alert('Bạn chỉ xem được đáp án khi làm đúng từ 60% trở lên');
-    }
   };
 
   const getOptionClass = (questionId: number, optionIndex: number) => {
@@ -224,14 +224,17 @@ export default function Quiz({ questions, title, shuffleOptions = true }: QuizPr
             {title && <h2 className="quiz-title">{title}</h2>}
             {shouldShowResultHeader && (
               <div className="quiz-result-header">
-                Kết quả: {result.correct} / {questions.length} ( {result.percentage.toFixed(1)}% )
+                Kết quả: {result.correct} / {questions.length} ({' '}
+                {result.percentage.toFixed(1)}% )
               </div>
             )}
             <div className="furigana-toggle">
               <button
                 type="button"
                 onClick={() => setShowFurigana(!showFurigana)}
-                className={`btn-toggle-furigana ${showFurigana ? 'active' : ''}`}
+                className={`btn-toggle-furigana ${
+                  showFurigana ? 'active' : ''
+                }`}
                 title={showFurigana ? 'Ẩn chữ mềm' : 'Hiện chữ mềm'}
               >
                 {showFurigana ? 'Ẩn chữ mềm' : 'Hiện chữ mềm'}
@@ -240,45 +243,76 @@ export default function Quiz({ questions, title, shuffleOptions = true }: QuizPr
           </div>
           <form className="quiz-form">
             {shuffledQuestions.map((shuffledQuestion, index) => (
-              <div key={shuffledQuestion.id} id={`question-${shuffledQuestion.id}`}>
+              <div
+                key={shuffledQuestion.id}
+                id={`question-${shuffledQuestion.id}`}
+              >
                 <hr className="style-one" />
                 <div className="tracnghiem">
                   <div className="question">
-                    <div className="bai_stt">問{String(index + 1).padStart(2, '0')}:</div>
+                    <div className="bai_stt">
+                      問{String(index + 1).padStart(2, '0')}:
+                    </div>
                     <span
                       className="question-text"
-                      dangerouslySetInnerHTML={{ __html: shuffledQuestion.question }}
+                      dangerouslySetInnerHTML={{
+                        __html: shuffledQuestion.question,
+                      }}
                     />
                   </div>
                   <table className="table_tracnghiem">
                     <tbody>
-                      {shuffledQuestion.shuffledOptions.map((option, optionIndex) => (
+                      {shuffledQuestion.shuffledOptions.map(
+                        (option, optionIndex) => (
                           <tr
                             key={optionIndex}
-                            className={`tr${shuffledQuestion.id * 10 + optionIndex + 1}`}
+                            className={`tr${
+                              shuffledQuestion.id * 10 + optionIndex + 1
+                            }`}
                           >
                             <td className="item1">
                               <input
-                                id={`answer_${shuffledQuestion.id}${optionIndex + 1}`}
+                                id={`answer_${shuffledQuestion.id}${
+                                  optionIndex + 1
+                                }`}
                                 type="radio"
                                 name={`answer[${shuffledQuestion.id}]`}
-                                checked={selectedAnswers[shuffledQuestion.id] === optionIndex}
-                                onChange={() => handleAnswerSelect(shuffledQuestion.id, optionIndex)}
+                                checked={
+                                  selectedAnswers[shuffledQuestion.id] ===
+                                  optionIndex
+                                }
+                                onChange={() =>
+                                  handleAnswerSelect(
+                                    shuffledQuestion.id,
+                                    optionIndex
+                                  )
+                                }
                                 disabled={showResults || showAnswerKey}
                               />
                               <label
-                                htmlFor={`answer_${shuffledQuestion.id}${optionIndex + 1}`}
-                                className={getOptionClass(shuffledQuestion.id, optionIndex)}
+                                htmlFor={`answer_${shuffledQuestion.id}${
+                                  optionIndex + 1
+                                }`}
+                                className={getOptionClass(
+                                  shuffledQuestion.id,
+                                  optionIndex
+                                )}
                               >
-                                <span className="option-label">{optionLabels[optionIndex]}.</span>
+                                <span className="option-label">
+                                  {optionLabels[optionIndex]}.
+                                </span>
                                 <span className="option-text">{option}</span>
                               </label>
                               <span className="result-indicator">
-                                {getQuestionResult(shuffledQuestion.id, optionIndex)}
+                                {getQuestionResult(
+                                  shuffledQuestion.id,
+                                  optionIndex
+                                )}
                               </span>
                             </td>
                           </tr>
-                      ))}
+                        )
+                      )}
                     </tbody>
                   </table>
                 </div>
@@ -296,16 +330,12 @@ export default function Quiz({ questions, title, shuffleOptions = true }: QuizPr
               >
                 Kết Quả
               </button>
-              <button type="button" onClick={handleReset} className="btn btn-success">
-                Làm Lại
-              </button>
               <button
                 type="button"
-                onClick={handleShowAnswerKey}
-                className="btn btn-primary"
-                title="Bạn chỉ xem được đáp án khi làm đúng từ 60% trở lên"
+                onClick={handleReset}
+                className="btn btn-success"
               >
-                Đáp Án
+                Làm Lại
               </button>
               <button
                 type="button"

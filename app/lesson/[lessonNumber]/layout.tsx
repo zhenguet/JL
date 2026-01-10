@@ -30,14 +30,15 @@ export default function LessonLayout({
   const nextLesson = currentLesson < 50 ? currentLesson + 1 : null
   
   const getPathForLesson = (lessonNum: number) => {
-    const pathParts = pathname.split('/')
-    const currentSection = pathParts[pathParts.length - 1]
-    const isExerciseRoute = pathParts[pathParts.length - 2] === 'exercise'
+    const pathParts = pathname.split('/').filter(part => part !== '')
+    const isExerciseRoute = pathParts.length >= 3 && pathParts[2] === 'exercise'
     
     if (isExerciseRoute) {
-      return `/lesson/${lessonNum}/exercise/${currentSection}`
+      const exerciseType = pathParts[3] || ''
+      return `/lesson/${lessonNum}/exercise/${exerciseType}`
     }
     
+    const currentSection = pathParts[2] || 'vocabulary'
     return `/lesson/${lessonNum}/${currentSection}`
   }
 
