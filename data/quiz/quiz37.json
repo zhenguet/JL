@@ -121,7 +121,7 @@
   },
   {
     "id": 11,
-    "question": "<b>科学者</b>",
+    "question": "<b><ruby>科<rp>（</rp><rt>か</rt><rp>）</rp></ruby><ruby>学<rp>（</rp><rt>がく</rt><rp>）</rp></ruby><ruby>者<rp>（</rp><rt>しゃ</rt><rp>）</rp></ruby></b>",
     "options": [
       "かがくしゃ",
       "けんちくか",
@@ -169,7 +169,7 @@
   },
   {
     "id": 15,
-    "question": "<b>警官</b>",
+    "question": "<b><ruby>警<rp>（</rp><rt>けい</rt><rp>）</rp></ruby><ruby>官<rp>（</rp><rt>かん</rt><rp>）</rp></ruby></b>",
     "options": [
       "けいかん",
       "せいき",
@@ -361,7 +361,7 @@
   },
   {
     "id": 31,
-    "question": "<b>世紀</b>",
+    "question": "<b><ruby>世<rp>（</rp><rt>せい</rt><rp>）</rp></ruby><ruby>紀<rp>（</rp><rt>き</rt><rp>）</rp></ruby></b>",
     "options": [
       "おこないます",
       "ざいりょう",
@@ -421,7 +421,7 @@
   },
   {
     "id": 36,
-    "question": "<b>彫刻</b>",
+    "question": "<b><ruby>彫<rp>（</rp><rt>ちょう</rt><rp>）</rp></ruby><ruby>刻<rp>（</rp><rt>こく</rt><rp>）</rp></ruby></b>",
     "options": [
       "そうおん",
       "ちょうこく",
@@ -433,7 +433,7 @@
   },
   {
     "id": 37,
-    "question": "<b>踏みます</b>",
+    "question": "<b><ruby>踏<rp>（</rp><rt>ふ</rt><rp>）</rp></ruby>みます</b>",
     "options": [
       "おこないます",
       "さそいます",
@@ -493,7 +493,7 @@
   },
   {
     "id": 42,
-    "question": "<b>建築家</b>",
+    "question": "<b><ruby>建<rp>（</rp><rt>けん</rt><rp>）</rp></ruby><ruby>築<rp>（</rp><rt>ちく</rt><rp>）</rp></ruby><ruby>家<rp>（</rp><rt>か</rt><rp>）</rp></ruby></b>",
     "options": [
       "けんちくか",
       "さそいます",
@@ -661,7 +661,7 @@
   },
   {
     "id": 56,
-    "question": "<b>鋼板</b>",
+    "question": "<b><ruby>鋼<rp>（</rp><rt>こう</rt><rp>）</rp></ruby><ruby>板<rp>（</rp><rt>ばん</rt><rp>）</rp></ruby></b>",
     "options": [
       "こうはん",
       "ねむります",
@@ -709,7 +709,7 @@
   },
   {
     "id": 60,
-    "question": "<b>検査します</b>",
+    "question": "<b><ruby>検<rp>（</rp><rt>けん</rt><rp>）</rp></ruby><ruby>査<rp>（</rp><rt>さ</rt><rp>）</rp></ruby>します</b>",
     "options": [
       "けんさします",
       "せいき",
@@ -721,7 +721,7 @@
   },
   {
     "id": 61,
-    "question": "<b>眠ります</b>",
+    "question": "<b><ruby>眠<rp>（</rp><rt>ねむ</rt><rp>）</rp></ruby>ります</b>",
     "options": [
       "せいさんします",
       "ねむります",
@@ -805,7 +805,7 @@
   },
   {
     "id": 68,
-    "question": "<b>約</b>",
+    "question": "<b><ruby>約<rp>（</rp><rt>やく</rt><rp>）</rp></ruby></b>",
     "options": [
       "はつめいします",
       "やく",
@@ -877,7 +877,7 @@
   },
   {
     "id": 74,
-    "question": "<b>起こします</b>",
+    "question": "<b><ruby>起<rp>（</rp><rt>お</rt><rp>）</rp></ruby>こします</b>",
     "options": [
       "おこします",
       "アクセス",

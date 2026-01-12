@@ -107,7 +107,7 @@
   },
   {
     "id": 10,
-    "question": "<b>吸います</b>",
+    "question": "<b><ruby>吸<rp>（</rp><rt>す</rt><rp>）</rp></ruby>います</b>",
     "options": [
       "あさごはん",
       "ええ",
@@ -191,7 +191,7 @@
   },
   {
     "id": 17,
-    "question": "<b>野菜</b>",
+    "question": "<b><ruby>野<rp>（</rp><rt>や</rt><rp>）</rp></ruby><ruby>菜<rp>（</rp><rt>さい</rt><rp>）</rp></ruby></b>",
     "options": [
       "あしたひまですか",
       "かきます",
@@ -517,7 +517,7 @@
   },
   {
     "id": 45,
-    "question": "<b>晩ご飯</b>",
+    "question": "<b><ruby>晩<rp>（</rp><rt>ばん</rt><rp>）</rp></ruby>ご<ruby>飯<rp>（</rp><rt>はん</rt><rp>）</rp></ruby></b>",
     "options": [
       "おおさかじょうこうえん",
       "ばんごはん",
@@ -569,7 +569,7 @@
   },
   {
     "id": 50,
-    "question": "<b>牛乳／ミルク</b>",
+    "question": "<b><ruby>牛<rp>（</rp><rt>ぎゅう</rt><rp>）</rp></ruby><ruby>乳<rp>（</rp><rt>にゅう</rt><rp>）</rp></ruby>／ミルク</b>",
     "options": [
       "ぎゅうにゅう／ミルク",
       "やさい",
@@ -761,7 +761,7 @@
   },
   {
     "id": 67,
-    "question": "<b>昼ご飯</b>",
+    "question": "<b><ruby>昼<rp>（</rp><rt>ひる</rt><rp>）</rp></ruby>ご<ruby>飯<rp>（</rp><rt>はん</rt><rp>）</rp></ruby></b>",
     "options": [
       "しゃしんをとります",
       "ひるごはん",
@@ -1043,7 +1043,7 @@
   },
   {
     "id": 91,
-    "question": "<b>吸います</b>",
+    "question": "<b><ruby>吸<rp>（</rp><rt>す</rt><rp>）</rp></ruby>います</b>",
     "options": [
       "おおさかじょうこうえん",
       "します",
@@ -1173,7 +1173,7 @@
   },
   {
     "id": 102,
-    "question": "<b>写真</b>",
+    "question": "<b><ruby>写<rp>（</rp><rt>しゃ</rt><rp>）</rp></ruby><ruby>真<rp>（</rp><rt>しん</rt><rp>）</rp></ruby></b>",
     "options": [
       "ええ",
       "しゃしん",
@@ -1801,7 +1801,7 @@
   },
   {
     "id": 155,
-    "question": "<b>映画</b>",
+    "question": "<b><ruby>映<rp>（</rp><rt>えい</rt><rp>）</rp></ruby><ruby>画<rp>（</rp><rt>が</rt><rp>）</rp></ruby></b>",
     "options": [
       "えいが",
       "こうちゃ",

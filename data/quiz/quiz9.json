@@ -47,7 +47,7 @@
   },
   {
     "id": 5,
-    "question": "<b>飲み物</b>",
+    "question": "<b><ruby>飲<rp>（</rp><rt>の</rt><rp>）</rp></ruby>み<ruby>物<rp>（</rp><rt>もの</rt><rp>）</rp></ruby></b>",
     "options": [
       "いっしょにいかがですか",
       "おなか",
@@ -165,7 +165,7 @@
   },
   {
     "id": 15,
-    "question": "<b>分かります</b>",
+    "question": "<b><ruby>分<rp>（</rp><rt>わ</rt><rp>）</rp></ruby>かります</b>",
     "options": [
       "かぜをひきます",
       "こまかいおかね",
@@ -177,7 +177,7 @@
   },
   {
     "id": 16,
-    "question": "<b>細かいお金</b>",
+    "question": "<b><ruby>細<rp>（</rp><rt>こま</rt><rp>）</rp></ruby>かいお<ruby>金<rp>（</rp><rt>かね</rt><rp>）</rp></ruby></b>",
     "options": [
       "あたま",
       "おなか",
@@ -315,7 +315,7 @@
   },
   {
     "id": 28,
-    "question": "<b>鶏肉</b>",
+    "question": "<b><ruby>鶏<rp>（</rp><rt>とり</rt><rp>）</rp></ruby><ruby>肉<rp>（</rp><rt>にく</rt><rp>）</rp></ruby></b>",
     "options": [
       "え",
       "とりにく",
@@ -423,7 +423,7 @@
   },
   {
     "id": 37,
-    "question": "<b>一緒にいかがですか</b>",
+    "question": "<b><ruby>一<rp>（</rp><rt>いっ</rt><rp>）</rp></ruby><ruby>緒<rp>（</rp><rt>しょ</rt><rp>）</rp></ruby>にいかがですか</b>",
     "options": [
       "いっしょにいかがですか",
       "くすり",
@@ -531,7 +531,7 @@
   },
   {
     "id": 46,
-    "question": "<b>ギターを弾きます</b>",
+    "question": "<b>ギターを<ruby>弾<rp>（</rp><rt>ひ</rt><rp>）</rp></ruby>きます</b>",
     "options": [
       "ぎゅうにく",
       "やきゅう",
@@ -603,7 +603,7 @@
   },
   {
     "id": 52,
-    "question": "<b>上手</b>",
+    "question": "<b><ruby>上<rp>（</rp><rt>じょう</rt><rp>）</rp></ruby><ruby>手<rp>（</rp><rt>ず</rt><rp>）</rp></ruby></b>",
     "options": [
       "あげて",
       "かんたん",
@@ -639,7 +639,7 @@
   },
   {
     "id": 55,
-    "question": "<b>絵</b>",
+    "question": "<b><ruby>絵<rp>（</rp><rt>え</rt><rp>）</rp></ruby></b>",
     "options": [
       "え",
       "ぎゅうにく",
@@ -651,7 +651,7 @@
   },
   {
     "id": 56,
-    "question": "<b>料理</b>",
+    "question": "<b><ruby>料<rp>（</rp><rt>りょう</rt><rp>）</rp></ruby><ruby>理<rp>（</rp><rt>り</rt><rp>）</rp></ruby></b>",
     "options": [
       "りょうが",
       "りょうし",
@@ -699,7 +699,7 @@
   },
   {
     "id": 60,
-    "question": "<b>薬</b>",
+    "question": "<b><ruby>薬<rp>（</rp><rt>くすり</rt><rp>）</rp></ruby></b>",
     "options": [
       "かぶき",
       "くすり",
@@ -853,7 +853,7 @@
   },
   {
     "id": 73,
-    "question": "<b>歌</b>",
+    "question": "<b><ruby>歌<rp>（</rp><rt>うた</rt><rp>）</rp></ruby></b>",
     "options": [
       "うた",
       "てがみ",
@@ -865,7 +865,7 @@
   },
   {
     "id": 74,
-    "question": "<b>また今度お願いします</b>",
+    "question": "<b>また<ruby>今<rp>（</rp><rt>こん</rt><rp>）</rp></ruby><ruby>度<rp>（</rp><rt>ど</rt><rp>）</rp></ruby>お<ruby>願<rp>（</rp><rt>ねが</rt><rp>）</rp></ruby>いします</b>",
     "options": [
       "ああ",
       "あたま",
@@ -901,7 +901,7 @@
   },
   {
     "id": 77,
-    "question": "<b>ローマ字</b>",
+    "question": "<b>ローマ<ruby>字<rp>（</rp><rt>じ</rt><rp>）</rp></ruby></b>",
     "options": [
       "りょうり",
       "クラシック",
@@ -949,7 +949,7 @@
   },
   {
     "id": 81,
-    "question": "<b>会社を休みます</b>",
+    "question": "<b><ruby>会<rp>（</rp><rt>かい</rt><rp>）</rp></ruby><ruby>社<rp>（</rp><rt>しゃ</rt><rp>）</rp></ruby>を<ruby>休<rp>（</rp><rt>やす</rt><rp>）</rp></ruby>みます</b>",
     "options": [
       "あります",
       "かいしゃをやすみます",
@@ -961,7 +961,7 @@
   },
   {
     "id": 82,
-    "question": "<b>鶏肉</b>",
+    "question": "<b><ruby>鶏<rp>（</rp><rt>とり</rt><rp>）</rp></ruby><ruby>肉<rp>（</rp><rt>にく</rt><rp>）</rp></ruby></b>",
     "options": [
       "いっしょにいかがですか",
       "とりにく",
@@ -985,7 +985,7 @@
   },
   {
     "id": 84,
-    "question": "<b>ローマ字</b>",
+    "question": "<b>ローマ<ruby>字<rp>（</rp><rt>じ</rt><rp>）</rp></ruby></b>",
     "options": [
       "え",
       "だめですか",
@@ -1045,7 +1045,7 @@
   },
   {
     "id": 89,
-    "question": "<b>頭</b>",
+    "question": "<b><ruby>頭<rp>（</rp><rt>あたま</rt><rp>）</rp></ruby></b>",
     "options": [
       "あたま",
       "おざわせいじ",
@@ -1093,7 +1093,7 @@
   },
   {
     "id": 93,
-    "question": "<b>嫌い</b>",
+    "question": "<b><ruby>嫌<rp>（</rp><rt>きら</rt><rp>）</rp></ruby>い</b>",
     "options": [
       "きらい",
       "ぎらい",
@@ -1127,7 +1127,7 @@
   },
   {
     "id": 96,
-    "question": "<b>少し</b>",
+    "question": "<b><ruby>少<rp>（</rp><rt>すこ</rt><rp>）</rp></ruby>し</b>",
     "options": [
       "たくさん",
       "すこし",
@@ -1139,7 +1139,7 @@
   },
   {
     "id": 97,
-    "question": "<b>漢字</b>",
+    "question": "<b><ruby>漢<rp>（</rp><rt>かん</rt><rp>）</rp></ruby><ruby>字<rp>（</rp><rt>じ</rt><rp>）</rp></ruby></b>",
     "options": [
       "かんし",
       "かんじ",
@@ -1259,7 +1259,7 @@
   },
   {
     "id": 107,
-    "question": "<b>休みます</b>",
+    "question": "<b><ruby>休<rp>（</rp><rt>やす</rt><rp>）</rp></ruby>みます</b>",
     "options": [
       "あたま",
       "ざんねんですね",
@@ -1271,7 +1271,7 @@
   },
   {
     "id": 108,
-    "question": "<b>野球</b>",
+    "question": "<b><ruby>野<rp>（</rp><rt>や</rt><rp>）</rp></ruby><ruby>球<rp>（</rp><rt>きゅう</rt><rp>）</rp></ruby></b>",
     "options": [
       "やきゅ",
       "やきゅう",
@@ -1447,7 +1447,7 @@
   },
   {
     "id": 123,
-    "question": "<b>頭</b>",
+    "question": "<b><ruby>頭<rp>（</rp><rt>あたま</rt><rp>）</rp></ruby></b>",
     "options": [
       "あたま",
       "じかん",

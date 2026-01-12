@@ -73,7 +73,7 @@
   },
   {
     "id": 7,
-    "question": "<b>暖房</b>",
+    "question": "<b><ruby>暖<rp>（</rp><rt>だん</rt><rp>）</rp></ruby><ruby>房<rp>（</rp><rt>ぼう</rt><rp>）</rp></ruby></b>",
     "options": [
       "あずけます",
       "だんぼう",
@@ -325,7 +325,7 @@
   },
   {
     "id": 28,
-    "question": "<b>落ちます</b>",
+    "question": "<b><ruby>落<rp>（</rp><rt>お</rt><rp>）</rp></ruby>ちます</b>",
     "options": [
       "おちます",
       "さちます",
@@ -481,7 +481,7 @@
   },
   {
     "id": 41,
-    "question": "<b>適当</b>",
+    "question": "<b><ruby>適<rp>（</rp><rt>てき</rt><rp>）</rp></ruby><ruby>当<rp>（</rp><rt>とう</rt><rp>）</rp></ruby></b>",
     "options": [
       "てきと",
       "てきとう",
@@ -493,7 +493,7 @@
   },
   {
     "id": 42,
-    "question": "<b>段ボール</b>",
+    "question": "<b><ruby>段<rp>（</rp><rt>だん</rt><rp>）</rp></ruby>ボール</b>",
     "options": [
       "だんボール",
       "とれます",
@@ -517,7 +517,7 @@
   },
   {
     "id": 44,
-    "question": "<b>亡くなります</b>",
+    "question": "<b><ruby>亡<rp>（</rp><rt>な</rt><rp>）</rp></ruby>くなります</b>",
     "options": [
       "いいおもいでになります",
       "なくなります",

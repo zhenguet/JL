@@ -61,7 +61,7 @@
   },
   {
     "id": 6,
-    "question": "<b>便利</b>",
+    "question": "<b><ruby>便<rp>（</rp><rt>べん</rt><rp>）</rp></ruby><ruby>利<rp>（</rp><rt>り</rt><rp>）</rp></ruby></b>",
     "options": [
       "へや",
       "へんか",
@@ -143,7 +143,7 @@
   },
   {
     "id": 13,
-    "question": "<b>生活</b>",
+    "question": "<b><ruby>生<rp>（</rp><rt>せい</rt><rp>）</rp></ruby><ruby>活<rp>（</rp><rt>かつ</rt><rp>）</rp></ruby></b>",
     "options": [
       "しけん",
       "せいかつ",
@@ -177,7 +177,7 @@
   },
   {
     "id": 16,
-    "question": "<b>宿題</b>",
+    "question": "<b><ruby>宿<rp>（</rp><rt>しゅく</rt><rp>）</rp></ruby><ruby>題<rp>（</rp><rt>だい</rt><rp>）</rp></ruby></b>",
     "options": [
       "いただきます",
       "しゅくだい",
@@ -379,7 +379,7 @@
   },
   {
     "id": 33,
-    "question": "<b>試験</b>",
+    "question": "<b><ruby>試<rp>（</rp><rt>し</rt><rp>）</rp></ruby><ruby>験<rp>（</rp><rt>けん</rt><rp>）</rp></ruby></b>",
     "options": [
       "さくら",
       "しけん",
@@ -401,7 +401,7 @@
   },
   {
     "id": 35,
-    "question": "<b>古い</b>",
+    "question": "<b><ruby>古<rp>（</rp><rt>ふる</rt><rp>）</rp></ruby>い</b>",
     "options": [
       "したしい",
       "ただしい",
@@ -425,7 +425,7 @@
   },
   {
     "id": 37,
-    "question": "<b>食べ物</b>",
+    "question": "<b><ruby>食<rp>（</rp><rt>た</rt><rp>）</rp></ruby>べ<ruby>物<rp>（</rp><rt>もの</rt><rp>）</rp></ruby></b>",
     "options": [
       "しけん",
       "しばらくですね",
@@ -437,7 +437,7 @@
   },
   {
     "id": 38,
-    "question": "<b>所</b>",
+    "question": "<b><ruby>所<rp>（</rp><rt>ところ</rt><rp>）</rp></ruby></b>",
     "options": [
       "いいえ、けっこうです",
       "ところ",
@@ -483,7 +483,7 @@
   },
   {
     "id": 42,
-    "question": "<b>山</b>",
+    "question": "<b><ruby>山<rp>（</rp><rt>やま</rt><rp>）</rp></ruby></b>",
     "options": [
       "はな",
       "またいらっしゃってください",
@@ -495,7 +495,7 @@
   },
   {
     "id": 43,
-    "question": "<b>車</b>",
+    "question": "<b><ruby>車<rp>（</rp><rt>くるま</rt><rp>）</rp></ruby></b>",
     "options": [
       "くるま",
       "そして",
@@ -555,7 +555,7 @@
   },
   {
     "id": 48,
-    "question": "<b>静か</b>",
+    "question": "<b><ruby>静<rp>（</rp><rt>しず</rt><rp>）</rp></ruby>か</b>",
     "options": [
       "あつか",
       "おだやか",
@@ -711,7 +711,7 @@
   },
   {
     "id": 61,
-    "question": "<b>忙しい</b>",
+    "question": "<b><ruby>忙<rp>（</rp><rt>いそが</rt><rp>）</rp></ruby>しい</b>",
     "options": [
       "いそがしい",
       "きしい",
@@ -735,7 +735,7 @@
   },
   {
     "id": 63,
-    "question": "<b>お仕事</b>",
+    "question": "<b>お<ruby>仕<rp>（</rp><rt>し</rt><rp>）</rp></ruby><ruby>事<rp>（</rp><rt>ごと</rt><rp>）</rp></ruby></b>",
     "options": [
       "おしごと",
       "しゅくだい",
@@ -759,7 +759,7 @@
   },
   {
     "id": 65,
-    "question": "<b>宿題</b>",
+    "question": "<b><ruby>宿<rp>（</rp><rt>しゅく</rt><rp>）</rp></ruby><ruby>題<rp>（</rp><rt>だい</rt><rp>）</rp></ruby></b>",
     "options": [
       "しゅくだい",
       "はな",
@@ -771,7 +771,7 @@
   },
   {
     "id": 66,
-    "question": "<b>所</b>",
+    "question": "<b><ruby>所<rp>（</rp><rt>ところ</rt><rp>）</rp></ruby></b>",
     "options": [
       "ごちそうさまでした",
       "そして",

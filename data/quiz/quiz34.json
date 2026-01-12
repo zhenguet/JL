@@ -85,7 +85,7 @@
   },
   {
     "id": 8,
-    "question": "<b>載せます</b>",
+    "question": "<b><ruby>載<rp>（</rp><rt>の</rt><rp>）</rp></ruby>せます</b>",
     "options": [
       "さどう",
       "にえます",
@@ -169,7 +169,7 @@
   },
   {
     "id": 15,
-    "question": "<b>4分の1</b>",
+    "question": "<b>4<ruby>分<rp>（</rp><rt>ぶん</rt><rp>）</rp></ruby>の1</b>",
     "options": [
       "おります",
       "こん",
@@ -205,7 +205,7 @@
   },
   {
     "id": 18,
-    "question": "<b>煮ます</b>",
+    "question": "<b><ruby>煮<rp>（</rp><rt>に</rt><rp>）</rp></ruby>ます</b>",
     "options": [
       "しょうゆ",
       "にます",
@@ -241,7 +241,7 @@
   },
   {
     "id": 21,
-    "question": "<b>違います</b>",
+    "question": "<b><ruby>違<rp>（</rp><rt>ちが</rt><rp>）</rp></ruby>います</b>",
     "options": [
       "ざいりょう",
       "せん",
@@ -277,7 +277,7 @@
   },
   {
     "id": 24,
-    "question": "<b>黄色</b>",
+    "question": "<b><ruby>黄<rp>（</rp><rt>き</rt><rp>）</rp></ruby><ruby>色<rp>（</rp><rt>いろ</rt><rp>）</rp></ruby></b>",
     "options": [
       "きいろ",
       "こん",
@@ -911,7 +911,7 @@
   },
   {
     "id": 77,
-    "question": "<b>磨きます</b>",
+    "question": "<b><ruby>磨<rp>（</rp><rt>みが</rt><rp>）</rp></ruby>きます</b>",
     "options": [
       "こん",
       "じゅんじょ",
@@ -947,7 +947,7 @@
   },
   {
     "id": 80,
-    "question": "<b>煮えます</b>",
+    "question": "<b><ruby>煮<rp>（</rp><rt>に</rt><rp>）</rp></ruby>えます</b>",
     "options": [
       "こん",
       "つきます",

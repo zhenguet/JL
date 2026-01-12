@@ -121,7 +121,7 @@
   },
   {
     "id": 11,
-    "question": "<b>頂きます</b>",
+    "question": "<b><ruby>頂<rp>（</rp><rt>いただ</rt><rp>）</rp></ruby>きます</b>",
     "options": [
       "いただきます",
       "かんしゃします",
@@ -493,7 +493,7 @@
   },
   {
     "id": 42,
-    "question": "<b>参ります</b>",
+    "question": "<b><ruby>参<rp>（</rp><rt>まい</rt><rp>）</rp></ruby>ります</b>",
     "options": [
       "いたします",
       "ぞんじます",
@@ -649,7 +649,7 @@
   },
   {
     "id": 55,
-    "question": "<b>撮ります</b>",
+    "question": "<b><ruby>撮<rp>（</rp><rt>と</rt><rp>）</rp></ruby>ります</b>",
     "options": [
       "こうがい",
       "とります",
@@ -853,7 +853,7 @@
   },
   {
     "id": 72,
-    "question": "<b>お礼</b>",
+    "question": "<b>お<ruby>礼<rp>（</rp><rt>れい</rt><rp>）</rp></ruby></b>",
     "options": [
       "おれい",
       "きりん",

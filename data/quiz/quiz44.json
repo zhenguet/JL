@@ -49,7 +49,7 @@
   },
   {
     "id": 5,
-    "question": "<b>量</b>",
+    "question": "<b><ruby>量<rp>（</rp><rt>りょう</rt><rp>）</rp></ruby></b>",
     "options": [
       "つきます",
       "なきます",
@@ -229,7 +229,7 @@
   },
   {
     "id": 20,
-    "question": "<b>箪笥</b>",
+    "question": "<b><ruby>箪<rp>（</rp><rt>たん</rt><rp>）</rp></ruby><ruby>笥<rp>（</rp><rt>す</rt><rp>）</rp></ruby></b>",
     "options": [
       "これでよろしいでしょうか",
       "たんす",
@@ -601,7 +601,7 @@
   },
   {
     "id": 51,
-    "question": "<b>表現</b>",
+    "question": "<b><ruby>表<rp>（</rp><rt>ひょう</rt><rp>）</rp></ruby><ruby>現<rp>（</rp><rt>げん</rt><rp>）</rp></ruby></b>",
     "options": [
       "すべります",
       "なみだ",
@@ -793,7 +793,7 @@
   },
   {
     "id": 67,
-    "question": "<b>起きます</b>",
+    "question": "<b><ruby>起<rp>（</rp><rt>お</rt><rp>）</rp></ruby>きます</b>",
     "options": [
       "おきます",
       "かわきます",
@@ -937,7 +937,7 @@
   },
   {
     "id": 79,
-    "question": "<b>表現</b>",
+    "question": "<b><ruby>表<rp>（</rp><rt>ひょう</rt><rp>）</rp></ruby><ruby>現<rp>（</rp><rt>げん</rt><rp>）</rp></ruby></b>",
     "options": [
       "おかず",
       "おきます",
@@ -985,7 +985,7 @@
   },
   {
     "id": 83,
-    "question": "<b>変わります</b>",
+    "question": "<b><ruby>変<rp>（</rp><rt>か</rt><rp>）</rp></ruby>わります</b>",
     "options": [
       "おかず",
       "かわきます",
@@ -1249,7 +1249,7 @@
   },
   {
     "id": 105,
-    "question": "<b>分かれます</b>",
+    "question": "<b><ruby>分<rp>（</rp><rt>わ</rt><rp>）</rp></ruby>かれます</b>",
     "options": [
       "うわぎ",
       "せんたくもの",

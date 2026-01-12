@@ -525,7 +525,7 @@
   },
   {
     "id": 46,
-    "question": "<b>消しゴム</b>",
+    "question": "<b><ruby>消<rp>（</rp><rt>け</rt><rp>）</rp></ruby>しゴム</b>",
     "options": [
       "けしゴム",
       "これから",
@@ -549,7 +549,7 @@
   },
   {
     "id": 48,
-    "question": "<b>箸</b>",
+    "question": "<b><ruby>箸<rp>（</rp><rt>はし</rt><rp>）</rp></ruby></b>",
     "options": [
       "おにいさん",
       "はし",
@@ -605,7 +605,7 @@
   },
   {
     "id": 53,
-    "question": "<b>消しゴム</b>",
+    "question": "<b><ruby>消<rp>（</rp><rt>け</rt><rp>）</rp></ruby>しゴム</b>",
     "options": [
       "きっぷ",
       "けしゴム",
@@ -789,7 +789,7 @@
   },
   {
     "id": 69,
-    "question": "<b>お土産</b>",
+    "question": "<b>お<ruby>土<rp>（</rp><rt>みや</rt><rp>）</rp></ruby><ruby>産<rp>（</rp><rt>げ</rt><rp>）</rp></ruby></b>",
     "options": [
       "おかゆ",
       "おげんき",
@@ -907,7 +907,7 @@
   },
   {
     "id": 79,
-    "question": "<b>お土産</b>",
+    "question": "<b>お<ruby>土<rp>（</rp><rt>みや</rt><rp>）</rp></ruby><ruby>産<rp>（</rp><rt>げ</rt><rp>）</rp></ruby></b>",
     "options": [
       "いもうと",
       "おたんじょうびおめでとうございます",
@@ -919,7 +919,7 @@
   },
   {
     "id": 80,
-    "question": "<b>母</b>",
+    "question": "<b><ruby>母<rp>（</rp><rt>はは</rt><rp>）</rp></ruby></b>",
     "options": [
       "かない",
       "はは",
@@ -1051,7 +1051,7 @@
   },
   {
     "id": 91,
-    "question": "<b>兄</b>",
+    "question": "<b><ruby>兄<rp>（</rp><rt>あに</rt><rp>）</rp></ruby></b>",
     "options": [
       "あに",
       "おたんじょうびおめでとうございます",
@@ -1205,7 +1205,7 @@
   },
   {
     "id": 104,
-    "question": "<b>紙</b>",
+    "question": "<b><ruby>紙<rp>（</rp><rt>かみ</rt><rp>）</rp></ruby></b>",
     "options": [
       "あね",
       "かみ",
@@ -1629,7 +1629,7 @@
   },
   {
     "id": 141,
-    "question": "<b>お母さん</b>",
+    "question": "<b>お<ruby>母<rp>（</rp><rt>かあ</rt><rp>）</rp></ruby>さん</b>",
     "options": [
       "おかあさん",
       "おかさん",

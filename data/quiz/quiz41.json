@@ -251,7 +251,7 @@
   },
   {
     "id": 23,
-    "question": "<b>頂きます</b>",
+    "question": "<b><ruby>頂<rp>（</rp><rt>いただ</rt><rp>）</rp></ruby>きます</b>",
     "options": [
       "いただきます",
       "くらします",
@@ -311,7 +311,7 @@
   },
   {
     "id": 28,
-    "question": "<b>お礼</b>",
+    "question": "<b>お<ruby>礼<rp>（</rp><rt>れい</rt><rp>）</rp></ruby></b>",
     "options": [
       "いじめます",
       "おじさん",
@@ -371,7 +371,7 @@
   },
   {
     "id": 33,
-    "question": "<b>煙</b>",
+    "question": "<b><ruby>煙<rp>（</rp><rt>けむり</rt><rp>）</rp></ruby></b>",
     "options": [
       "おこさん",
       "くらします",
@@ -533,7 +533,7 @@
   },
   {
     "id": 47,
-    "question": "<b>助けます</b>",
+    "question": "<b><ruby>助<rp>（</rp><rt>たす</rt><rp>）</rp></ruby>けます</b>",
     "options": [
       "たすけます",
       "むかしばなし",
@@ -753,7 +753,7 @@
   },
   {
     "id": 66,
-    "question": "<b>親切に</b>",
+    "question": "<b><ruby>親<rp>（</rp><rt>しん</rt><rp>）</rp></ruby><ruby>切<rp>（</rp><rt>せつ</rt><rp>）</rp></ruby>に</b>",
     "options": [
       "おととし",
       "おどり",
@@ -789,7 +789,7 @@
   },
   {
     "id": 69,
-    "question": "<b>絵はがき</b>",
+    "question": "<b><ruby>絵<rp>（</rp><rt>え</rt><rp>）</rp></ruby>はがき</b>",
     "options": [
       "えはがき",
       "おみまい",
@@ -1197,7 +1197,7 @@
   },
   {
     "id": 104,
-    "question": "<b>預かります</b>",
+    "question": "<b><ruby>預<rp>（</rp><rt>あず</rt><rp>）</rp></ruby>かります</b>",
     "options": [
       "あずかります",
       "おれい",
@@ -1209,7 +1209,7 @@
   },
   {
     "id": 105,
-    "question": "<b>預かります</b>",
+    "question": "<b><ruby>預<rp>（</rp><rt>あず</rt><rp>）</rp></ruby>かります</b>",
     "options": [
       "あずかります",
       "いじめます",
@@ -1475,7 +1475,7 @@
   },
   {
     "id": 128,
-    "question": "<b>祖父</b>",
+    "question": "<b><ruby>祖<rp>（</rp><rt>そ</rt><rp>）</rp></ruby><ruby>父<rp>（</rp><rt>ふ</rt><rp>）</rp></ruby></b>",
     "options": [
       "そふ",
       "たすけます",
@@ -1581,7 +1581,7 @@
   },
   {
     "id": 137,
-    "question": "<b>お礼</b>",
+    "question": "<b>お<ruby>礼<rp>（</rp><rt>れい</rt><rp>）</rp></ruby></b>",
     "options": [
       "えはがき",
       "おれい",
@@ -1649,7 +1649,7 @@
   },
   {
     "id": 143,
-    "question": "<b>下さいます</b>",
+    "question": "<b><ruby>下<rp>（</rp><rt>くだ</rt><rp>）</rp></ruby>さいます</b>",
     "options": [
       "あずかります",
       "おどり",
@@ -1709,7 +1709,7 @@
   },
   {
     "id": 148,
-    "question": "<b>煙</b>",
+    "question": "<b><ruby>煙<rp>（</rp><rt>けむり</rt><rp>）</rp></ruby></b>",
     "options": [
       "えはがき",
       "おしろ",
@@ -1903,7 +1903,7 @@
   },
   {
     "id": 165,
-    "question": "<b>踊り</b>",
+    "question": "<b><ruby>踊<rp>（</rp><rt>おど</rt><rp>）</rp></ruby>り</b>",
     "options": [
       "えはがき",
       "おどり",
@@ -1951,7 +1951,7 @@
   },
   {
     "id": 169,
-    "question": "<b>頂きます</b>",
+    "question": "<b><ruby>頂<rp>（</rp><rt>いただ</rt><rp>）</rp></ruby>きます</b>",
     "options": [
       "いただきます",
       "そぼ",

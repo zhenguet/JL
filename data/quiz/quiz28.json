@@ -349,7 +349,7 @@
   },
   {
     "id": 30,
-    "question": "<b>経験</b>",
+    "question": "<b><ruby>経<rp>（</rp><rt>けい</rt><rp>）</rp></ruby><ruby>験<rp>（</rp><rt>けん</rt><rp>）</rp></ruby></b>",
     "options": [
       "けいけん",
       "ちがいます",
@@ -385,7 +385,7 @@
   },
   {
     "id": 33,
-    "question": "<b>噛みます</b>",
+    "question": "<b><ruby>噛<rp>（</rp><rt>か</rt><rp>）</rp></ruby>みます</b>",
     "options": [
       "かみます",
       "けいけん",
@@ -841,7 +841,7 @@
   },
   {
     "id": 71,
-    "question": "<b>小説家</b>",
+    "question": "<b><ruby>小<rp>（</rp><rt>しょう</rt><rp>）</rp></ruby><ruby>説<rp>（</rp><rt>せつ</rt><rp>）</rp></ruby><ruby>家<rp>（</rp><rt>か</rt><rp>）</rp></ruby></b>",
     "options": [
       "かみます",
       "しゅうかん",
@@ -937,7 +937,7 @@
   },
   {
     "id": 79,
-    "question": "<b>味</b>",
+    "question": "<b><ruby>味<rp>（</rp><rt>あじ</rt><rp>）</rp></ruby></b>",
     "options": [
       "あじ",
       "おどります",
@@ -961,7 +961,7 @@
   },
   {
     "id": 81,
-    "question": "<b>経験</b>",
+    "question": "<b><ruby>経<rp>（</rp><rt>けい</rt><rp>）</rp></ruby><ruby>験<rp>（</rp><rt>けん</rt><rp>）</rp></ruby></b>",
     "options": [
       "けいけん",
       "けいげん",
@@ -1177,7 +1177,7 @@
   },
   {
     "id": 99,
-    "question": "<b>色</b>",
+    "question": "<b><ruby>色<rp>（</rp><rt>いろ</rt><rp>）</rp></ruby></b>",
     "options": [
       "いろ",
       "おどります",
@@ -1189,7 +1189,7 @@
   },
   {
     "id": 100,
-    "question": "<b>味</b>",
+    "question": "<b><ruby>味<rp>（</rp><rt>あじ</rt><rp>）</rp></ruby></b>",
     "options": [
       "あじ",
       "かしゅ",

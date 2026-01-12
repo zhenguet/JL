@@ -49,7 +49,7 @@
   },
   {
     "id": 5,
-    "question": "<b>歴史</b>",
+    "question": "<b><ruby>歴<rp>（</rp><rt>れき</rt><rp>）</rp></ruby><ruby>史<rp>（</rp><rt>し</rt><rp>）</rp></ruby></b>",
     "options": [
       "おいそがしいですか",
       "かまいません",
@@ -193,7 +193,7 @@
   },
   {
     "id": 17,
-    "question": "<b>文化</b>",
+    "question": "<b><ruby>文<rp>（</rp><rt>ぶん</rt><rp>）</rp></ruby><ruby>化<rp>（</rp><rt>か</rt><rp>）</rp></ruby></b>",
     "options": [
       "いいことですね",
       "おまたせしました",
@@ -277,7 +277,7 @@
   },
   {
     "id": 24,
-    "question": "<b>～世紀</b>",
+    "question": "<b>～<ruby>世<rp>（</rp><rt>せい</rt><rp>）</rp></ruby><ruby>紀<rp>（</rp><rt>き</rt><rp>）</rp></ruby></b>",
     "options": [
       "おろします",
       "とらえます",
@@ -517,7 +517,7 @@
   },
   {
     "id": 44,
-    "question": "<b>塾</b>",
+    "question": "<b><ruby>塾<rp>（</rp><rt>じゅく</rt><rp>）</rp></ruby></b>",
     "options": [
       "おしょうがつ",
       "じゅく",
@@ -541,7 +541,7 @@
   },
   {
     "id": 46,
-    "question": "<b>ご馳走</b>",
+    "question": "<b>ご<ruby>馳<rp>（</rp><rt>ち</rt><rp>）</rp></ruby><ruby>走<rp>（</rp><rt>そう</rt><rp>）</rp></ruby></b>",
     "options": [
       "かわりをします",
       "ごちそう",
@@ -589,7 +589,7 @@
   },
   {
     "id": 50,
-    "question": "<b>心</b>",
+    "question": "<b><ruby>心<rp>（</rp><rt>こころ</rt><rp>）</rp></ruby></b>",
     "options": [
       "きょうそうします",
       "こころ",
@@ -601,7 +601,7 @@
   },
   {
     "id": 51,
-    "question": "<b>久しぶり</b>",
+    "question": "<b><ruby>久<rp>（</rp><rt>ひさ</rt><rp>）</rp></ruby>しぶり</b>",
     "options": [
       "げい",
       "ごちそう",

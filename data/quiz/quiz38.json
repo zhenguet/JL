@@ -61,7 +61,7 @@
   },
   {
     "id": 6,
-    "question": "<b>計算します</b>",
+    "question": "<b><ruby>計<rp>（</rp><rt>けい</rt><rp>）</rp></ruby><ruby>算<rp>（</rp><rt>さん</rt><rp>）</rp></ruby>します</b>",
     "options": [
       "あかちゃん",
       "けいさんします",
@@ -313,7 +313,7 @@
   },
   {
     "id": 27,
-    "question": "<b>帰り</b>",
+    "question": "<b><ruby>帰<rp>（</rp><rt>かえ</rt><rp>）</rp></ruby>り</b>",
     "options": [
       "かえり",
       "けいさんします",
@@ -601,7 +601,7 @@
   },
   {
     "id": 51,
-    "question": "<b>お祝い</b>",
+    "question": "<b>お<ruby>祝<rp>（</rp><rt>いわ</rt><rp>）</rp></ruby>い</b>",
     "options": [
       "いれます",
       "うんどうします",
@@ -697,7 +697,7 @@
   },
   {
     "id": 59,
-    "question": "<b>切ります</b>",
+    "question": "<b><ruby>切<rp>（</rp><rt>き</rt><rp>）</rp></ruby>ります</b>",
     "options": [
       "きもちがわるい",
       "きります",
