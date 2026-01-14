@@ -1,1 +1,114 @@
-﻿[]
+﻿[
+  {
+    "id": "v-nagara",
+    "title": "V１ます ＋ ながら、V２ - Cách diễn đạt 2 hành động xảy ra đồng thời",
+    "description": "vừa (làm 1) vừa (làm 2). Dùng để diễn tả 2 hành động xảy ra đồng thời vào cùng một thời điểm. Trong đó, hành động thứ 2 là hành động chính, được nhấn mạnh hơn",
+    "structure": "V１ます ＋ ながら、V２",
+    "examples": [
+      {
+        "japanese": "私は 毎朝 コーヒーを 飲みながら 新聞を 読みます。",
+        "romaji": "Watashi wa maiasa koohii o nominagara shinbun o yomimasu.",
+        "vietnamese": "Hàng sáng tôi vừa uống cà phê vừa đọc báo."
+      },
+      {
+        "japanese": "彼は テレビを 見ながら ご飯を 食べています。",
+        "romaji": "Kare wa terebi o minagara gohan o tabete imasu.",
+        "vietnamese": "Anh ấy đang vừa ăn cơm vừa xem tivi."
+      },
+      {
+        "japanese": "学生の時、アルバイトをしながら 大学で 勉強しました。",
+        "romaji": "Gakusei no toki, arubaito o shinagara daigaku de benkyou shimashita.",
+        "vietnamese": "Hồi học sinh, tôi vừa làm thêm vừa đi học."
+      },
+      {
+        "japanese": "彼は 働きながら 大学に 通っています。",
+        "romaji": "Kare wa hatarakinagara daigaku ni kayotte imasu.",
+        "vietnamese": "Anh ấy vừa đi làm vừa đi học đại học."
+      }
+    ],
+    "notes": [
+      "Dùng để diễn tả 2 hành động xảy ra đồng thời vào cùng một thời điểm",
+      "Hành động thứ 2 là hành động chính, được nhấn mạnh hơn",
+      "Mẫu câu này không chỉ diễn tả 2 hành động xảy ra trong 1 thời gian ngắn mà còn diễn tả 2 hành động xảy ra đồng thời, liên tục trong 1 thời gian dài"
+    ]
+  },
+  {
+    "id": "v-te-iru-habit",
+    "title": "V ています - Động từ dạng tiếp diễn diễn tả 1 thói quen, 1 hành động thường lặp đi lặp lại nhiều lần",
+    "description": "Dùng để diễn tả 1 thói quen, 1 hành động có tính chất lặp đi lặp lại nhiều lần trong cuộc sống sinh hoạt hàng ngày. Hành động mang tính chất thói quen trong quá khứ thì được biểu thị bởi「V ていました」",
+    "structure": "V ています",
+    "examples": [
+      {
+        "japanese": "休みの日は スポーツを しています。",
+        "romaji": "Yasumi no hi wa supootsu o shite imasu.",
+        "vietnamese": "Ngày nghỉ tôi hay/thường chơi thể thao."
+      },
+      {
+        "japanese": "夜は いつも 日本語を 勉強しています。",
+        "romaji": "Yoru wa itsumo Nihongo o benkyou shite imasu.",
+        "vietnamese": "Buổi tối tôi hay/thường học tiếng Nhật."
+      },
+      {
+        "japanese": "ひまな時、 友達と 話したり、 本を 読んだり しています。",
+        "romaji": "Hima na toki, tomodachi to hanashitari, hon o yondari shite imasu.",
+        "vietnamese": "Những lúc rỗi rãi, tôi thường lúc thì trò chuyện với bạn bè, lúc thì đọc sách."
+      },
+      {
+        "japanese": "子供の時、 毎晩 8時に 寝ていました。",
+        "romaji": "Kodomo no toki, maiban hachiji ni nete imashita.",
+        "vietnamese": "Hồi còn bé tối nào tôi cũng vào lúc 8 giờ."
+      }
+    ],
+    "notes": [
+      "Ở bài 14: ý nghĩa hành động đang diễn ra tại thời điểm nói hoặc hành động diễn ra liên tục trong 1 thời gian dài",
+      "Ở bài 15: ý nghĩa diễn tả trạng thái, kết quả của hành động",
+      "Ở bài này: diễn tả 1 thói quen, 1 hành động có tính chất lặp đi lặp lại nhiều lần trong cuộc sống sinh hoạt hàng ngày",
+      "Hành động mang tính chất thói quen trong quá khứ thì được biểu thị bởi「V ていました」"
+    ]
+  },
+  {
+    "id": "shi-listing",
+    "title": "～し、～し、～ - Vừa thế này, lại thế kia nữa; vì thế này, và vì thế này nên…",
+    "description": "vừa thế này, lại thế kia nữa; vì thế này, và vì thế này nên…. し được dùng để liệt kê các nội dung khác nhau của một đề tài hoặc trình bày nhiều hơn một nguyên nhân, lý do (có thể nhiều hơn 2, nhưng thường chỉ liệt kê 2)",
+    "structure": "Thể thường し、 Thể thường し、～",
+    "examples": [
+      {
+        "japanese": "ミラーさんは 親切だし、 頭も いいし、 それに ハンサムです。",
+        "romaji": "Miraa-san wa shinsetsu da shi, atama mo ii shi, sore ni hansamu desu.",
+        "vietnamese": "Anh Miller vừa tốt bụng, vừa thông minh, hơn nữa lại đẹp trai."
+      },
+      {
+        "japanese": "ミラーさんは ピアノも 弾ける し、ダンスも できる し、 それに 歌も 歌えます。",
+        "romaji": "Miraa-san wa piano mo hikeru shi, dansu mo dekiru shi, sore ni uta mo utaemasu.",
+        "vietnamese": "Anh Miller vừa chơi được piano, vừa có thể khiêu vũ, hơn nữa cũng có thể hát."
+      },
+      {
+        "japanese": "きょうは 雨だし、お金も ないし、 （それで） 出かけません。",
+        "romaji": "Kyou wa ame da shi, okane mo nai shi, (sore de) dekakemasen.",
+        "vietnamese": "Hôm nay trời vừa mưa, hơn nữa không tiền nên tôi không đi ra ngoài."
+      },
+      {
+        "japanese": "この店は 食べ物も おいしいし、 値段も 安いし、 （それで） 人が 多いです。",
+        "romaji": "Kono mise wa tabemono mo oishii shi, nedan mo yasui shi, (sore de) hito ga ooi desu.",
+        "vietnamese": "Cửa hàng này đồ ăn, giá lại rẻ nên rất đông khách"
+      },
+      {
+        "japanese": "どうして この会社に 入ったんですか。",
+        "romaji": "Doushite kono kaisha ni haitta n desu ka.",
+        "vietnamese": "Tại sao bạn lại vào công ty này làm việc?"
+      },
+      {
+        "japanese": "残業も ないし、ボーナスも 多いですから。",
+        "romaji": "Zangyou mo nai shi, boonasu mo ooi desu kara.",
+        "vietnamese": "Vì không phải làm thêm giờ, và tiền thưởng lại nhiều."
+      }
+    ],
+    "notes": [
+      "し được dùng để liệt kê các nội dung khác nhau của một đề tài hoặc trình bày nhiều hơn một nguyên nhân, lý do",
+      "Trong mẫu câu này, ta dùng trợ từ「も」 để thay thế cho trợ từ「が」 hay「を」 với hàm ý nhấn mạnh vào các lý do đưa ra",
+      "a) vừa …vừa… hơn nữa - Có thể dùng mẫu câu này để miêu tả những nội dung khác nhau của một đề tài",
+      "b) Vì… và vì… nên… - Cấu trúc này cũng được dùng khi trình bày hơn một lý do hoặc nguyên nhân",
+      "c) Vì…, và vì… (ngoài ra còn có các nguyên nhân khác) - Cấu trúc này dùng để trả lời cho câu hỏi tại sao. Với ngụ ý: ngoài những nguyên nhân người ta nêu ra còn có thể có nhiều nguyên nhân khác nữa"
+    ]
+  }
+]

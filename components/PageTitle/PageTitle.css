@@ -1,11 +1,11 @@
 .page-title h2 {
-  color: #667eea;
+  color: var(--color-primary);
   margin-bottom: 10px;
   font-size: 2rem;
 }
 
 .count-text {
-  color: #666;
+  color: var(--color-text-light);
   margin-bottom: 30px;
   font-size: 1.1rem;
 }

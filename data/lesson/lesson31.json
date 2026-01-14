@@ -1,1 +1,954 @@
-﻿[]
+﻿[
+  {
+    "id": "toDecide",
+    "kanji": "決めます",
+    "hiragana": "きめます",
+    "en": "to decide",
+    "vi": "Quyết định",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm II",
+        "《決めます、決める、決めて》"
+      ]
+    }
+  },
+  {
+    "id": "toSummarize",
+    "kanji": "まとめます",
+    "hiragana": "まとめます",
+    "en": "to summarize",
+    "vi": "Tóm tắt, tổng hợp",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm II",
+        "《まとめます、まとめる、まとめて》"
+      ]
+    }
+  },
+  {
+    "id": "toBuild",
+    "kanji": "建てます",
+    "hiragana": "たてます",
+    "en": "to build",
+    "vi": "Xây dựng",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm II",
+        "《建てます、建てる、建てて》"
+      ]
+    }
+  },
+  {
+    "id": "toGoOut",
+    "kanji": "出ます",
+    "hiragana": "でます",
+    "en": "to go out",
+    "vi": "Ra",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm II",
+        "《出ます、出る、出て》",
+        "●「大学を～」 Tốt nghiệp đại học"
+      ]
+    }
+  },
+  {
+    "id": "toTakeBreak",
+    "kanji": "休憩",
+    "hiragana": "きゅうけい",
+    "en": "to take a break",
+    "vi": "Nghỉ giải lao",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm III",
+        "《します、する、して》"
+      ]
+    }
+  },
+  {
+    "id": "toConsult",
+    "kanji": "相談",
+    "hiragana": "そうだん",
+    "en": "to consult",
+    "vi": "Trao đổi, thảo luận",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm III",
+        "《します、する、して》"
+      ]
+    }
+  },
+  {
+    "id": "toDepart",
+    "kanji": "出発",
+    "hiragana": "しゅっぱつ",
+    "en": "to depart",
+    "vi": "Xuất phát, khởi hành",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm III",
+        "《します、する、して》"
+      ]
+    }
+  },
+  {
+    "id": "toGoOnBusinessTrip",
+    "kanji": "出張",
+    "hiragana": "しゅっちょう",
+    "en": "to go on business trip",
+    "vi": "Đi công tác",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm III",
+        "《します、する、して》"
+      ]
+    }
+  },
+  {
+    "id": "plan",
+    "kanji": "予定",
+    "hiragana": "よてい",
+    "en": "plan",
+    "vi": "Dự định",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "spring",
+    "kanji": "春",
+    "hiragana": "はる",
+    "en": "spring",
+    "vi": "Mùa xuân",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "summer",
+    "kanji": "夏",
+    "hiragana": "なつ",
+    "en": "summer",
+    "vi": "Mùa hè",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "autumn",
+    "kanji": "秋",
+    "hiragana": "あき",
+    "en": "autumn",
+    "vi": "Mùa thu",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "winter",
+    "kanji": "冬",
+    "hiragana": "ふゆ",
+    "en": "winter",
+    "vi": "Mùa đông",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "airport",
+    "kanji": "空港",
+    "hiragana": "くうこう",
+    "en": "airport",
+    "vi": "Sân bay, phi trường",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "countryside",
+    "kanji": "田舎",
+    "hiragana": "いなか",
+    "en": "countryside",
+    "vi": "Quê, nhà quê",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "father",
+    "kanji": "父",
+    "hiragana": "ちち",
+    "en": "father",
+    "vi": "Bố mình",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "mother",
+    "kanji": "母",
+    "hiragana": "はは",
+    "en": "mother",
+    "vi": "Mẹ mình",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "olderBrother",
+    "kanji": "兄",
+    "hiragana": "あに",
+    "en": "older brother",
+    "vi": "Anh trai mình",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "olderSister",
+    "kanji": "姉",
+    "hiragana": "あね",
+    "en": "older sister",
+    "vi": "Chị gái mình",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "president",
+    "kanji": "社長",
+    "hiragana": "しゃちょう",
+    "en": "president",
+    "vi": "Giám đốc",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "departmentHead",
+    "kanji": "部長",
+    "hiragana": "ぶちょう",
+    "en": "department head",
+    "vi": "Trưởng ban, trưởng phòng",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "sectionHead",
+    "kanji": "課長",
+    "hiragana": "かちょう",
+    "en": "section head",
+    "vi": "Trưởng khoa, chủ nhiệm",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "beginning",
+    "kanji": "初め",
+    "hiragana": "はじめ",
+    "en": "beginning",
+    "vi": "Lúc đầu, thời gian đầu",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "end",
+    "kanji": "終わり",
+    "hiragana": "おわり",
+    "en": "end",
+    "vi": "Lúc cuối, thời gian cuối",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "next",
+    "kanji": "今度の～",
+    "hiragana": "こんどの～",
+    "en": "next",
+    "vi": "～ tới",
+    "type": "other",
+    "explanation": {
+      "content": [
+        "Từ chỉ định",
+        "● こんどの日曜日 Chủ Nhật tới"
+      ]
+    }
+  },
+  {
+    "id": "soon",
+    "kanji": "もうすぐ",
+    "hiragana": "もうすぐ",
+    "en": "soon",
+    "vi": "Sắp",
+    "type": "adverb",
+    "explanation": {
+      "content": [
+        "Phó từ"
+      ]
+    }
+  },
+  {
+    "id": "slowly",
+    "kanji": "ゆっくり",
+    "hiragana": "ゆっくり",
+    "en": "slowly",
+    "vi": "Chậm, từ từ, thong thả",
+    "type": "adverb",
+    "explanation": {
+      "content": [
+        "Phó từ"
+      ]
+    }
+  },
+  {
+    "id": "hard",
+    "kanji": "一生懸命",
+    "hiragana": "いっしょうけんめい",
+    "en": "hard",
+    "vi": "Chăm chỉ, cần cù",
+    "type": "adverb",
+    "explanation": {
+      "content": [
+        "Phó từ"
+      ]
+    }
+  },
+  {
+    "id": "howNice",
+    "kanji": "いいなあ",
+    "hiragana": "いいなあ",
+    "en": "how nice",
+    "vi": "Hay quá nhỉ",
+    "type": "other",
+    "explanation": {
+      "content": [
+        "Thán từ"
+      ]
+    }
+  },
+  {
+    "id": "ifYouLike",
+    "kanji": "よかったら、～",
+    "hiragana": "よかったら、～",
+    "en": "if you like",
+    "vi": "Nếu được thì ～",
+    "type": "other",
+    "explanation": {
+      "content": [
+        "Cụm từ",
+        "● よかったら、いっしょにいきませんか Nếu được thì cùng đi nhé"
+      ]
+    }
+  },
+  {
+    "id": "what",
+    "kanji": "え",
+    "hiragana": "え",
+    "en": "what",
+    "vi": "Ủa!",
+    "type": "other",
+    "explanation": {
+      "content": [
+        "Thán từ"
+      ]
+    }
+  },
+  {
+    "id": "isItOk",
+    "kanji": "いいんですか",
+    "hiragana": "いいんですか",
+    "en": "is it ok",
+    "vi": "Có được không?",
+    "type": "other",
+    "explanation": {
+      "content": [
+        "Cụm từ"
+      ]
+    }
+  },
+  {
+    "id": "imLookingForwardTo",
+    "kanji": "楽しみにしています",
+    "hiragana": "たのしみにしています",
+    "en": "I'm looking forward to",
+    "vi": "Tôi rất chờ mong!",
+    "type": "other",
+    "explanation": {
+      "content": [
+        "Cụm từ"
+      ]
+    }
+  },
+  {
+    "id": "toStart",
+    "kanji": "始まります",
+    "hiragana": "はじまります",
+    "en": "to start",
+    "vi": "Bắt đầu",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm I",
+        "《始まります、始まる、始まって》",
+        "●「しきが～」 (Buổi lễ) bắt đầu"
+      ]
+    }
+  },
+  {
+    "id": "toContinue",
+    "kanji": "続けます",
+    "hiragana": "つづけます",
+    "en": "to continue",
+    "vi": "Tiếp tục",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm II",
+        "《続けます、続ける、続けて》"
+      ]
+    }
+  },
+  {
+    "id": "toFind",
+    "kanji": "見つけます",
+    "hiragana": "みつけます",
+    "en": "to find",
+    "vi": "Tìm thấy",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm II",
+        "《見つけます、見つける、見つけて》"
+      ]
+    }
+  },
+  {
+    "id": "toRemain",
+    "kanji": "残ります",
+    "hiragana": "のこります",
+    "en": "to remain",
+    "vi": "Ở lại, còn lại",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm I",
+        "《残ります、残る、残って》"
+      ]
+    }
+  },
+  {
+    "id": "toClose",
+    "kanji": "閉じます",
+    "hiragana": "とじます",
+    "en": "to close",
+    "vi": "Đóng, nhắm (mắt)",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm II",
+        "《閉じます、閉じる、閉じて》"
+      ]
+    }
+  },
+  {
+    "id": "toGather",
+    "kanji": "集まります",
+    "hiragana": "あつまります",
+    "en": "to gather",
+    "vi": "Tập trung",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm I",
+        "《集まります、集まる、集まって》"
+      ]
+    }
+  },
+  {
+    "id": "toReceive",
+    "kanji": "受けます",
+    "hiragana": "うけます",
+    "en": "to receive",
+    "vi": "Nhận",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm II",
+        "《受けます、受ける、受けて》",
+        "●「しけんを～」 Dự thi"
+      ]
+    }
+  },
+  {
+    "id": "toEnterSchool",
+    "kanji": "入学",
+    "hiragana": "にゅうがく",
+    "en": "to enter school",
+    "vi": "Nhập học",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm III",
+        "《します、する、して》",
+        "●「大学に～」 Vào đại học"
+      ]
+    }
+  },
+  {
+    "id": "toGraduate",
+    "kanji": "卒業",
+    "hiragana": "そつぎょう",
+    "en": "to graduate",
+    "vi": "Tốt nghiệp",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm III",
+        "《します、する、して》",
+        "●「大学を～」 Tốt nghiệp đại học"
+      ]
+    }
+  },
+  {
+    "id": "toAttend",
+    "kanji": "出席",
+    "hiragana": "しゅっせき",
+    "en": "to attend",
+    "vi": "Tham dự, có mặt",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm III",
+        "《します、する、して》",
+        "●「かいぎに～」 Đi họp"
+      ]
+    }
+  },
+  {
+    "id": "longHoliday",
+    "kanji": "連休",
+    "hiragana": "れんきゅう",
+    "en": "long holiday",
+    "vi": "Nghỉ dài ngày",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "composition",
+    "kanji": "作文",
+    "hiragana": "さくぶん",
+    "en": "composition",
+    "vi": "Bài luận, bài văn",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "exhibition",
+    "kanji": "展覧会",
+    "hiragana": "てんらんかい",
+    "en": "exhibition",
+    "vi": "Triển lãm",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "wedding",
+    "kanji": "結婚式",
+    "hiragana": "けっこんしき",
+    "en": "wedding",
+    "vi": "Đám cưới, lễ cưới",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "funeral",
+    "kanji": "お葬式",
+    "hiragana": "おそうしき",
+    "en": "funeral",
+    "vi": "Đám tang, lễ tang",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ",
+        "［お］葬式"
+      ]
+    }
+  },
+  {
+    "id": "ceremony",
+    "kanji": "式",
+    "hiragana": "しき",
+    "en": "ceremony",
+    "vi": "Lễ",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "headOffice",
+    "kanji": "本社",
+    "hiragana": "ほんしゃ",
+    "en": "head office",
+    "vi": "Công ty mẹ",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "branch",
+    "kanji": "支店",
+    "hiragana": "してん",
+    "en": "branch",
+    "vi": "Chi nhánh, công ty con",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "church",
+    "kanji": "教会",
+    "hiragana": "きょうかい",
+    "en": "church",
+    "vi": "Nhà thờ",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "graduateSchool",
+    "kanji": "大学院",
+    "hiragana": "だいがくいん",
+    "en": "graduate school",
+    "vi": "Cao học",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "zoo",
+    "kanji": "動物園",
+    "hiragana": "どうぶつえん",
+    "en": "zoo",
+    "vi": "Vườn bách thú",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "hotSpring",
+    "kanji": "温泉",
+    "hiragana": "おんせん",
+    "en": "hot spring",
+    "vi": "Suối nước nóng",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "customer",
+    "kanji": "お客",
+    "hiragana": "おきゃく",
+    "en": "customer",
+    "vi": "Khách",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ",
+        "お客［さん］"
+      ]
+    }
+  },
+  {
+    "id": "someone",
+    "kanji": "だれか",
+    "hiragana": "だれか",
+    "en": "someone",
+    "vi": "Ai đó",
+    "type": "other",
+    "explanation": {
+      "content": [
+        "Đại từ"
+      ]
+    }
+  },
+  {
+    "id": "direction",
+    "kanji": "～の方",
+    "hiragana": "～のほう",
+    "en": "direction",
+    "vi": "Phía",
+    "type": "other",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "allTheTime",
+    "kanji": "ずっと",
+    "hiragana": "ずっと",
+    "en": "all the time",
+    "vi": "Suốt, mãi",
+    "type": "adverb",
+    "explanation": {
+      "content": [
+        "Phó từ"
+      ]
+    }
+  },
+  {
+    "id": "perMonth",
+    "kanji": "月に",
+    "hiragana": "つきに",
+    "en": "per month",
+    "vi": "Mỗi tháng",
+    "type": "adverb",
+    "explanation": {
+      "content": [
+        "Phó từ"
+      ]
+    }
+  },
+  {
+    "id": "normal",
+    "kanji": "普通の",
+    "hiragana": "ふつうの",
+    "en": "normal",
+    "vi": "Bình thường",
+    "type": "adjective",
+    "explanation": {
+      "content": [
+        "Tính từ"
+      ]
+    }
+  },
+  {
+    "id": "internet",
+    "kanji": "インターネット",
+    "hiragana": "インターネット",
+    "en": "internet",
+    "vi": "Internet",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "boring",
+    "kanji": "嫌",
+    "hiragana": "いや",
+    "en": "boring",
+    "vi": "Chán, buồn tẻ",
+    "type": "adjective",
+    "explanation": {
+      "content": [
+        "Tính từ",
+        "［な］"
+      ]
+    }
+  },
+  {
+    "id": "sky",
+    "kanji": "空",
+    "hiragana": "そら",
+    "en": "sky",
+    "vi": "Bầu trời",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "city",
+    "kanji": "都会",
+    "hiragana": "とかい",
+    "en": "city",
+    "vi": "Thành thị",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "freely",
+    "kanji": "自由に",
+    "hiragana": "じゆうに",
+    "en": "freely",
+    "vi": "Tự do, 1 cách tự do",
+    "type": "adverb",
+    "explanation": {
+      "content": [
+        "Phó từ"
+      ]
+    }
+  },
+  {
+    "id": "allOverTheWorld",
+    "kanji": "世界中",
+    "hiragana": "せかいじゅう",
+    "en": "all over the world",
+    "vi": "Toàn thế giới",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "beautiful",
+    "kanji": "美しい",
+    "hiragana": "うつくしい",
+    "en": "beautiful",
+    "vi": "Xinh đẹp",
+    "type": "adjective",
+    "explanation": {
+      "content": [
+        "Tính từ"
+      ]
+    }
+  },
+  {
+    "id": "nature",
+    "kanji": "自然",
+    "hiragana": "しぜん",
+    "en": "nature",
+    "vi": "Thiên nhiên, tự nhiên",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "wonderfulness",
+    "kanji": "すばらしさ",
+    "hiragana": "すばらしさ",
+    "en": "wonderfulness",
+    "vi": "Sự tuyệt vời",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "toNotice",
+    "kanji": "気がつきます",
+    "hiragana": "きがつきます",
+    "en": "to notice",
+    "vi": "Để ý, quan tâm tới",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm I"
+      ]
+    }
+  }
+]

@@ -1,1 +1,117 @@
-﻿[]
+﻿[
+  {
+    "id": "sou-desu-hearsay",
+    "title": "そうです - (tôi) nghe nói là ~",
+    "description": "Dùng để truyền đạt những thông tin mà mình nghe thấy ở đâu đó đến người thứ 3 và không có nhận định của bạn. Để nhấn mạnh thêm sự chắc chắn của thông tin, có thể dẫn thêm nguồn gốc của thông tin đó với cụm từ 「～によると」",
+    "structure": "Thể thông thường + そうです",
+    "examples": [
+      {
+        "japanese": "天気予報によると、あしたは いい天気に なるそうです。",
+        "romaji": "Tenki yohou ni yoru to, ashita wa ii tenki ni naru sou desu.",
+        "vietnamese": "Theo như dự báo thời tiết thì nghe nói ngày mai thời tiết sẽ trở nên đẹp."
+      },
+      {
+        "japanese": "田中さんは 今年の１２月に ベトナムへ 来るそうです。",
+        "romaji": "Tanaka-san wa kotoshi no juunigatsu ni Betonamu e kuru sou desu.",
+        "vietnamese": "(Tôi) nghe nói là anh Tanaka sẽ đến Việt Nam vào tháng 12 năm nay."
+      },
+      {
+        "japanese": "東京は とても きれいだそうです。",
+        "romaji": "Toukyou wa totemo kirei da sou desu.",
+        "vietnamese": "(Tôi) nghe nói là Tokyo rất đẹp."
+      },
+      {
+        "japanese": "先生の話によると、彼女は みんなの前で 歌うのが 好きではないそうです。",
+        "romaji": "Sensei no hanashi ni yoru to, kanojo wa minna no mae de utau no ga suki dewa nai sou desu.",
+        "vietnamese": "Theo như câu chuyện của cô giáo thì nghe nói cô ấy không thích hát trước mọi người."
+      },
+      {
+        "japanese": "ラオさんの電話によると、アリさんは パスポートを なくしてしまったそうです。",
+        "romaji": "Rao-san no denwa ni yoru to, Ari-san wa pasupooto o nakushite shimatta sou desu.",
+        "vietnamese": "Theo như cuộc điện thoại của Rao thì Ari nghe nói đã làm mất hộ chiếu rồi."
+      },
+      {
+        "japanese": "雨が 降りそうです。",
+        "romaji": "Ame ga furisou desu.",
+        "vietnamese": "Có vẻ như trời sắp mưa."
+      },
+      {
+        "japanese": "雨が 降るそうです。",
+        "romaji": "Ame ga furu sou desu.",
+        "vietnamese": "Tôi nghe nói là trời sẽ mưa."
+      },
+      {
+        "japanese": "山本さんは アメリカへ 行くつもりだそうです。",
+        "romaji": "Yamamoto-san wa Amerika e iku tsumori da sou desu.",
+        "vietnamese": "Nghe nói anh Yamamoto dự định đi Mỹ."
+      },
+      {
+        "japanese": "リーさんは 中国へ 帰らないそうです。",
+        "romaji": "Rii-san wa Chuugoku e kaeranai sou desu.",
+        "vietnamese": "Nghe nói anh Lee không về Trung Quốc."
+      }
+    ],
+    "notes": [
+      "Ý nghĩa: (tôi) nghe nói là ~",
+      "Dùng để truyền đạt những thông tin mà mình nghe thấy ở đâu đó đến người thứ 3 và không có nhận định của bạn",
+      "Để nhấn mạnh thêm sự chắc chắn của thông tin, có thể dẫn thêm nguồn gốc của thông tin đó với cụm từ 「～によると」",
+      "Cách kết hợp: Thể thông thường + そうです",
+      "Động từ: Vる・Vない・Vた + そうです",
+      "Tính từ đuôi i: ～い・くない… + そうです",
+      "Tính từ đuôi na: ～だ・ではない… + そうです",
+      "Danh từ: ～だ・ではない… + そうです",
+      "Chú ý:",
+      "(1) Mẫu câu này khác cả về ý nghĩa và cách kết hợp so với mẫu câu 「そうです」 học ở bài 43",
+      "- Bài 43: 雨が降りそうです (Có vẻ như trời sắp mưa) - dự đoán, phán đoán dựa vào sự quan sát của bản thân",
+      "- Bài 47: 雨が降るそうです (Tôi nghe nói là trời sẽ mưa) - đơn thuần chỉ là truyền đạt, kể lại sự việc, thông tin mình đã nghe được",
+      "(2) Mẫu câu này không kết hợp với các cách nói sau: thể ý chí（しよう）, cấm đoán（するな）, mệnh lệnh（しろ）, suy đoán（するでしょう）, nhờ vả（してください、しないでください）",
+      "(3) Khi muốn thể hiện ý phủ định hay quá khứ với mẫu câu này, phần 「そうです」 không thay đổi, chỉ thay đổi thời của các động từ, danh từ, tính từ đi trước nó mà thôi",
+      "(4) Sự khác nhau giữa「～そうです」 và「～と言っていました」:",
+      "- 「～と言っていました」 chỉ dùng khi truyền đạt những thông tin mà mình trực tiếp nghe được từ người nói đó",
+      "- 「～そうです」 có thể dùng với trường hợp nghe từ những nguồn khác (không nhất thiết phải đúng là người đó nói)"
+    ]
+  },
+  {
+    "id": "you-desu",
+    "title": "ようです - Hình như là ～",
+    "description": "Dùng để diễn đạt những suy luận, phán đoán 1 cách trực quan, hoàn toàn dựa trên những cảm giác, cảm nhận (5 giác quan) của bản thân. Vì thế, những suy đoán đó có thể không chính xác",
+    "structure": "Thể thông thường + ようです",
+    "examples": [
+      {
+        "japanese": "彼は きょう とても いそがしいようです。",
+        "romaji": "Kare wa kyou totemo isogashii you desu.",
+        "vietnamese": "Hôm nay hình như anh ấy rất bận rộn."
+      },
+      {
+        "japanese": "きのう この道で 交通事故が 起こったようです。",
+        "romaji": "Kinou kono michi de koutsuu jiko ga okotta you desu.",
+        "vietnamese": "Hôm qua hình như đã xẩy ra tại nạn trên đường này."
+      },
+      {
+        "japanese": "部屋に 泥棒が 入ったようです。",
+        "romaji": "Heya ni dorobou ga haitta you desu.",
+        "vietnamese": "Hình như trộm đã vào phòng."
+      },
+      {
+        "japanese": "田中さんは とても 病気のようです。",
+        "romaji": "Tanaka-san wa totemo byouki no you desu.",
+        "vietnamese": "Hình như anh Tanaka ốm nặng."
+      },
+      {
+        "japanese": "先生は きょう ひまなようです。",
+        "romaji": "Sensei wa kyou hima na you desu.",
+        "vietnamese": "Hôm nay hình như thầy giáo rảnh."
+      }
+    ],
+    "notes": [
+      "Ý nghĩa: Hình như là ～",
+      "Dùng để diễn đạt những suy luận, phán đoán 1 cách trực quan, hoàn toàn dựa trên những cảm giác, cảm nhận (5 giác quan) của bản thân",
+      "Vì thế, những suy đoán đó có thể không chính xác",
+      "Cách kết hợp: Thể thông thường + ようです",
+      "Động từ: Vる・Vない・Vた + ようです",
+      "Tính từ đuôi i: ～い・くない… + ようです",
+      "Tính từ đuôi na: ～な・ではない… + ようです",
+      "Danh từ: ～の・ではない… + ようです"
+    ]
+  }
+]

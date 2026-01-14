@@ -1,1 +1,131 @@
-﻿[]
+﻿[
+  {
+    "id": "you-ni-purpose",
+    "title": "V る / V ない + ように - Để～",
+    "description": "Khi biểu hiện một hành động nào đó có mục đích ta dùng ように. Mệnh đề 1 chỉ mục đích, mệnh đề 2 chỉ hành động có chủ ý để đạt được mục đích ở mệnh đề 1 đưa ra",
+    "structure": "V る / V ない + ように、～",
+    "examples": [
+      {
+        "japanese": "新聞が 読めるように、漢字を 勉強します。",
+        "romaji": "Shinbun ga yomeru you ni, kanji o benkyou shimasu.",
+        "vietnamese": "Để đọc được báo, tôi học chữ Hán."
+      },
+      {
+        "japanese": "みんなが わかるように、大きな 声で 言います。",
+        "romaji": "Minna ga wakaru you ni, ookina koe de iimasu.",
+        "vietnamese": "Để mọi người nghe rõ, tôi nói to."
+      },
+      {
+        "japanese": "風を ひかないように、セーターを 着ます。",
+        "romaji": "Kaze o hikanai you ni, seetaa o kimasu.",
+        "vietnamese": "Để không bị cảm cúm, tôi mặc áo len."
+      }
+    ],
+    "notes": [
+      "Khi biểu hiện một hành động nào đó có mục đích ta dùng ように",
+      "Mệnh đề 1 chỉ mục đích, mệnh đề 2 chỉ hành động có chủ ý để đạt được mục đích ở mệnh đề 1 đưa ra",
+      "Động từ V る đứng trước ように trong mẫu câu này là động từ không bao hàm chủ ý mà là động từ thể khả năng, và những động từ như できる、わかる、みえる、きこえる、なる…"
+    ]
+  },
+  {
+    "id": "you-ni-narimashita",
+    "title": "V る + ように なりました - Biểu hiện sự biến đổi trạng thái",
+    "description": "Biểu hiện sự biến đổi trạng thái, từ không thể được thành có thể được",
+    "structure": "V る + ように なりました",
+    "examples": [
+      {
+        "japanese": "日本語が 話せるように なりました。",
+        "romaji": "Nihongo ga hanaseru you ni narimashita.",
+        "vietnamese": "Tôi đã có thể nói được tiếng Nhật."
+      },
+      {
+        "japanese": "はじめは 日本料理が あまり 食べられませんでしたが、今は 何でも 食べられるように なりました。",
+        "romaji": "Hajime wa nihon ryouri ga amari taberaremasen deshita ga, ima wa nan demo taberareru you ni narimashita.",
+        "vietnamese": "Lúc đầu tôi không thể ăn được đồ Nhật nhiều lắm nhưng bây giờ có thể ăn được mọi thứ."
+      },
+      {
+        "japanese": "漢字が 書けるように なりましたか。",
+        "romaji": "Kanji ga kakeru you ni narimashita ka.",
+        "vietnamese": "Bạn đã viết được chữ Hán chưa?"
+      },
+      {
+        "japanese": "いいえ、まだ 書けません。",
+        "romaji": "Iie, mada kakemasen.",
+        "vietnamese": "Chưa, tôi vẫn chưa viết được."
+      }
+    ],
+    "notes": [
+      "Biểu hiện sự biến đổi trạng thái, từ không thể được thành có thể được",
+      "Động từ V る đứng trước ように trong mẫu câu này là động từ thể khả năng và những động từ như できる、わかる、みえる、きこえる、なる…",
+      "Trong câu nghi vấn V るように なりましたか nếu trả lời bằng いいえ thì sẽ như sau: V るように なりましたか → いいえ、まだ V ません"
+    ]
+  },
+  {
+    "id": "you-ni-shite-kudasai",
+    "title": "V る / V ない + ように して ください - Hãy làm thế nào để～",
+    "description": "Yêu cầu, nhờ vả ai đó làm gì, làm đi làm lại nhiều lần, có tính chất liên tục lâu dài",
+    "structure": "V る / V ない + ように して ください",
+    "examples": [
+      {
+        "japanese": "必ず 時間を 守るように して ください。",
+        "romaji": "Kanarazu jikan o mamoru you ni shite kudasai.",
+        "vietnamese": "Hãy làm thế nào để chắc chắn giữ được thời gian."
+      },
+      {
+        "japanese": "この スイッチに 絶対に 触らないように して ください。",
+        "romaji": "Kono suicchi ni zettai ni sawaranai you ni shite kudasai.",
+        "vietnamese": "Hãy làm thế nào để tuyệt đối không chạm vào công tắc này."
+      }
+    ],
+    "notes": [
+      "Yêu cầu, nhờ vả ai đó làm gì, làm đi làm lại nhiều lần, có tính chất liên tục lâu dài",
+      "Hãy làm thế nào để～"
+    ]
+  },
+  {
+    "id": "ookina-chiisana",
+    "title": "大きな、小さな",
+    "description": "大きな và 大きい, 小さな và 小さい nghĩa giống nhau. Tuy nhiên hơi khác một chút là sau 大きな、小さな bắt buộc phải là một danh từ",
+    "structure": "大きな / 小さな + N",
+    "examples": [
+      {
+        "japanese": "あの かばんは 大きいです。",
+        "romaji": "Ano kaban wa ookii desu.",
+        "vietnamese": "Chiếc cặp kia to."
+      },
+      {
+        "japanese": "大きな かばん",
+        "romaji": "Ookina kaban",
+        "vietnamese": "chiếc cặp to"
+      },
+      {
+        "japanese": "小さな 声",
+        "romaji": "Chiisana koe",
+        "vietnamese": "giọng nói nhỏ"
+      }
+    ],
+    "notes": [
+      "大きな và 大きい, 小さな và 小さい nghĩa giống nhau",
+      "Sau 大きな、小さな bắt buộc phải là một danh từ",
+      "Không thể dùng 大きなです hoặc 小さなです một mình"
+    ]
+  },
+  {
+    "id": "kanari",
+    "title": "かなり - Khá, khá là",
+    "description": "Chỉ một sự việc nào đó \"vượt quá sự kỳ vọng thông thường\", biểu hiện một sự phán đoán khách quan",
+    "structure": "かなり + A / V",
+    "examples": [
+      {
+        "japanese": "今年の 夏は かなり 暑いですね。",
+        "romaji": "Kotoshi no natsu wa kanari atsui desu ne.",
+        "vietnamese": "Mùa hè năm nay khá nóng nhỉ."
+      }
+    ],
+    "notes": [
+      "Chỉ một sự việc nào đó \"vượt quá sự kỳ vọng thông thường\"",
+      "Biểu hiện một sự phán đoán khách quan",
+      "Nghĩa: khá, khá là"
+    ]
+  }
+]

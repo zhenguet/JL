@@ -1,0 +1,794 @@
+[
+  {
+    "id": 1,
+    "question": "<b>せいと</b>",
+    "options": [
+      "Học sinh",
+      "Kéo xuống, bê xuống",
+      "Tình trạng",
+      "Tết, năm mới"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 1
+  },
+  {
+    "id": 2,
+    "question": "<b>Chăm sóc</b>",
+    "options": [
+      "おしょうがつ",
+      "おまたせしました",
+      "せわをします",
+      "にゅうかん"
+    ],
+    "correctAnswer": 2,
+    "difficulty": 1
+  },
+  {
+    "id": 3,
+    "question": "<b>えんりょくなく</b>",
+    "options": [
+      "Gửi đến, đưa đến",
+      "Tình trạng",
+      "Tốt quá nhỉ.",
+      "Đừng làm khách, cứ tự nhiên"
+    ],
+    "correctAnswer": 3,
+    "difficulty": 1
+  },
+  {
+    "id": 4,
+    "question": "<b>スピード</b>",
+    "options": [
+      "Chúc mừng năm mới.",
+      "Tham dự, có mặt",
+      "Tốc độ",
+      "Đừng làm khách, cứ tự nhiên"
+    ],
+    "correctAnswer": 2,
+    "difficulty": 1
+  },
+  {
+    "id": 5,
+    "question": "<b><ruby>歴<rp>（</rp><rt>れき</rt><rp>）</rp></ruby><ruby>史<rp>（</rp><rt>し</rt><rp>）</rp></ruby></b>",
+    "options": [
+      "おいそがしいですか",
+      "かまいません",
+      "とどけます",
+      "れきし"
+    ],
+    "correctAnswer": 3,
+    "difficulty": 2
+  },
+  {
+    "id": 6,
+    "question": "<b>きょうそうします</b>",
+    "options": [
+      "Cạnh tranh, thi đua",
+      "Người",
+      "Vui vẻ",
+      "Đối với"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 1
+  },
+  {
+    "id": 7,
+    "question": "<b>おろします</b>",
+    "options": [
+      "Bơi lội",
+      "Học sinh",
+      "Kéo xuống, bê xuống",
+      "Thế kỉ~"
+    ],
+    "correctAnswer": 2,
+    "difficulty": 1
+  },
+  {
+    "id": 8,
+    "question": "<b>Thay cho, thay thế</b>",
+    "options": [
+      "えいぎょう",
+      "かわりをします",
+      "スピード",
+      "～せいき"
+    ],
+    "correctAnswer": 1,
+    "difficulty": 1
+  },
+  {
+    "id": 9,
+    "question": "<b>とらえます</b>",
+    "options": [
+      "Giữ, nắm, bắt",
+      "Kéo xuống, bê xuống",
+      "Lịch sử",
+      "Thay thế cho, đại diện cho (người)"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 1
+  },
+  {
+    "id": 10,
+    "question": "<b>Tốc độ</b>",
+    "options": [
+      "えいぎょう",
+      "げい",
+      "こころ",
+      "スピード"
+    ],
+    "correctAnswer": 3,
+    "difficulty": 1
+  },
+  {
+    "id": 11,
+    "question": "<b>いいことですね</b>",
+    "options": [
+      "Tình trạng",
+      "Tết, năm mới",
+      "Tốt quá nhỉ.",
+      "Tự mình"
+    ],
+    "correctAnswer": 2,
+    "difficulty": 1
+  },
+  {
+    "id": 12,
+    "question": "<b>Lịch sử</b>",
+    "options": [
+      "おいそがしいですか",
+      "おしょうがつ",
+      "おまたせしました",
+      "れきし"
+    ],
+    "correctAnswer": 3,
+    "difficulty": 1
+  },
+  {
+    "id": 13,
+    "question": "<b>スケジュール</b>",
+    "options": [
+      "Chăm sóc",
+      "Người",
+      "Thời khóa biểu, lịch trình",
+      "Xin lỗi đã để (ông, bà) đợi lâu."
+    ],
+    "correctAnswer": 2,
+    "difficulty": 1
+  },
+  {
+    "id": 14,
+    "question": "<b>Kéo xuống, bê xuống</b>",
+    "options": [
+      "あけましておめでとうございます",
+      "おろします",
+      "じぶん",
+      "すがた"
+    ],
+    "correctAnswer": 1,
+    "difficulty": 1
+  },
+  {
+    "id": 15,
+    "question": "<b>Tự mình</b>",
+    "options": [
+      "かわりに",
+      "かわりをします",
+      "じぶん",
+      "とどけます"
+    ],
+    "correctAnswer": 2,
+    "difficulty": 1
+  },
+  {
+    "id": 16,
+    "question": "<b>Thời khóa biểu, lịch trình</b>",
+    "options": [
+      "かまいません",
+      "せいと",
+      "ぶんか",
+      "スケジュール"
+    ],
+    "correctAnswer": 3,
+    "difficulty": 1
+  },
+  {
+    "id": 17,
+    "question": "<b><ruby>文<rp>（</rp><rt>ぶん</rt><rp>）</rp></ruby><ruby>化<rp>（</rp><rt>か</rt><rp>）</rp></ruby></b>",
+    "options": [
+      "いいことですね",
+      "おまたせしました",
+      "げい",
+      "ぶんか"
+    ],
+    "correctAnswer": 3,
+    "difficulty": 2
+  },
+  {
+    "id": 18,
+    "question": "<b>おしょうがつ</b>",
+    "options": [
+      "Thay cho, thay thế",
+      "Thay thế cho, đại diện cho (người)",
+      "Tình trạng",
+      "Tết, năm mới"
+    ],
+    "correctAnswer": 3,
+    "difficulty": 1
+  },
+  {
+    "id": 19,
+    "question": "<b>げい</b>",
+    "options": [
+      "Bữa ăn ngon",
+      "Cạnh tranh, thi đua",
+      "Gửi đến, đưa đến",
+      "Nghệ thuật"
+    ],
+    "correctAnswer": 3,
+    "difficulty": 1
+  },
+  {
+    "id": 20,
+    "question": "<b>にゅうかん</b>",
+    "options": [
+      "Cạnh tranh, thi đua",
+      "Cục quản lý xuất nhập cảnh",
+      "Học sinh",
+      "Nghệ thuật"
+    ],
+    "correctAnswer": 1,
+    "difficulty": 1
+  },
+  {
+    "id": 21,
+    "question": "<b>しゅっせきします</b>",
+    "options": [
+      "Bữa ăn ngon",
+      "Người",
+      "Tham dự, có mặt",
+      "Xin lỗi đã để (ông, bà) đợi lâu."
+    ],
+    "correctAnswer": 2,
+    "difficulty": 1
+  },
+  {
+    "id": 22,
+    "question": "<b><ruby>入<rp>（</rp><rt>はい</rt><rp>）</rp></ruby>管</b>",
+    "options": [
+      "いいことですね",
+      "げい",
+      "せいと",
+      "にゅうかん"
+    ],
+    "correctAnswer": 3,
+    "difficulty": 2
+  },
+  {
+    "id": 23,
+    "question": "<b>Tình trạng</b>",
+    "options": [
+      "おまたせしました",
+      "かわりに",
+      "ひさしぶり",
+      "ようす"
+    ],
+    "correctAnswer": 3,
+    "difficulty": 1
+  },
+  {
+    "id": 24,
+    "question": "<b>～<ruby>世<rp>（</rp><rt>せい</rt><rp>）</rp></ruby><ruby>紀<rp>（</rp><rt>き</rt><rp>）</rp></ruby></b>",
+    "options": [
+      "おろします",
+      "とらえます",
+      "スピード",
+      "～せいき"
+    ],
+    "correctAnswer": 3,
+    "difficulty": 2
+  },
+  {
+    "id": 25,
+    "question": "<b>れきし</b>",
+    "options": [
+      "Kéo xuống, bê xuống",
+      "Lịch sử",
+      "Tình trạng",
+      "Văn hóa"
+    ],
+    "correctAnswer": 1,
+    "difficulty": 1
+  },
+  {
+    "id": 26,
+    "question": "<b>Đừng làm khách, cứ tự nhiên</b>",
+    "options": [
+      "えんりょくなく",
+      "おろします",
+      "じぶん",
+      "スケジュール"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 1
+  },
+  {
+    "id": 27,
+    "question": "<b>あけましておめでとうございます</b>",
+    "options": [
+      "Chúc mừng năm mới.",
+      "Thời khóa biểu, lịch trình",
+      "Văn hóa",
+      "Xin lỗi đã để (ông, bà) đợi lâu."
+    ],
+    "correctAnswer": 0,
+    "difficulty": 1
+  },
+  {
+    "id": 28,
+    "question": "<b>Nghệ thuật</b>",
+    "options": [
+      "いいことですね",
+      "おしょうがつ",
+      "げい",
+      "すがた"
+    ],
+    "correctAnswer": 2,
+    "difficulty": 1
+  },
+  {
+    "id": 29,
+    "question": "<b>ぶんか</b>",
+    "options": [
+      "Bữa ăn ngon",
+      "Thế kỉ~",
+      "Vui vẻ",
+      "Văn hóa"
+    ],
+    "correctAnswer": 3,
+    "difficulty": 1
+  },
+  {
+    "id": 30,
+    "question": "<b>Tết, năm mới</b>",
+    "options": [
+      "おいそがしいですか",
+      "おしょうがつ",
+      "げい",
+      "～にとって"
+    ],
+    "correctAnswer": 1,
+    "difficulty": 1
+  },
+  {
+    "id": 31,
+    "question": "<b>とどけます</b>",
+    "options": [
+      "Gửi đến, đưa đến",
+      "Không sao",
+      "Lâu rồi",
+      "Đừng làm khách, cứ tự nhiên"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 1
+  },
+  {
+    "id": 32,
+    "question": "<b>Cạnh tranh, thi đua</b>",
+    "options": [
+      "かわりをします",
+      "きょうそうします",
+      "すいえい",
+      "とらえます"
+    ],
+    "correctAnswer": 1,
+    "difficulty": 1
+  },
+  {
+    "id": 33,
+    "question": "<b>ごちそう</b>",
+    "options": [
+      "Bữa ăn ngon",
+      "Kinh doanh",
+      "Nghệ thuật",
+      "Người"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 1
+  },
+  {
+    "id": 34,
+    "question": "<b>じゅく</b>",
+    "options": [
+      "Gửi đến, đưa đến",
+      "Người",
+      "Trường học thêm",
+      "Đừng làm khách, cứ tự nhiên"
+    ],
+    "correctAnswer": 2,
+    "difficulty": 1
+  },
+  {
+    "id": 35,
+    "question": "<b>Bơi lội</b>",
+    "options": [
+      "えんりょくなく",
+      "おろします",
+      "すいえい",
+      "ぶんか"
+    ],
+    "correctAnswer": 2,
+    "difficulty": 1
+  },
+  {
+    "id": 36,
+    "question": "<b>Chúc mừng năm mới.</b>",
+    "options": [
+      "あけましておめでとうございます",
+      "いいことですね",
+      "たのしみます",
+      "れきし"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 1
+  },
+  {
+    "id": 37,
+    "question": "<b>Đối với</b>",
+    "options": [
+      "おいそがしいですか",
+      "おろします",
+      "ようす",
+      "～にとって"
+    ],
+    "correctAnswer": 3,
+    "difficulty": 1
+  },
+  {
+    "id": 38,
+    "question": "<b>おまたせしました</b>",
+    "options": [
+      "Kéo xuống, bê xuống",
+      "Văn hóa",
+      "Xin lỗi đã để (ông, bà) đợi lâu.",
+      "Xiếc"
+    ],
+    "correctAnswer": 2,
+    "difficulty": 1
+  },
+  {
+    "id": 39,
+    "question": "<b>お<ruby>待<rp>（</rp><rt>ま</rt><rp>）</rp></ruby>たせしました</b>",
+    "options": [
+      "おいそがしいですか",
+      "おまたせしました",
+      "じゅく",
+      "～せいき"
+    ],
+    "correctAnswer": 1,
+    "difficulty": 2
+  },
+  {
+    "id": 40,
+    "question": "<b>おいそがしいですか</b>",
+    "options": [
+      "Anh (chị) có bận không ạ?",
+      "Bữa ăn ngon",
+      "Thay thế cho, đại diện cho (người)",
+      "Đừng làm khách, cứ tự nhiên"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 1
+  },
+  {
+    "id": 41,
+    "question": "<b>Xiếc</b>",
+    "options": [
+      "せいと",
+      "たのしみます",
+      "サーカス",
+      "スピード"
+    ],
+    "correctAnswer": 2,
+    "difficulty": 1
+  },
+  {
+    "id": 42,
+    "question": "<b>Lâu rồi</b>",
+    "options": [
+      "たのしみます",
+      "にゅうかん",
+      "ひさしぶり",
+      "～せいき"
+    ],
+    "correctAnswer": 2,
+    "difficulty": 1
+  },
+  {
+    "id": 43,
+    "question": "<b>Học sinh</b>",
+    "options": [
+      "おまたせしました",
+      "おろします",
+      "せいと",
+      "たのしみます"
+    ],
+    "correctAnswer": 2,
+    "difficulty": 1
+  },
+  {
+    "id": 44,
+    "question": "<b><ruby>塾<rp>（</rp><rt>じゅく</rt><rp>）</rp></ruby></b>",
+    "options": [
+      "おしょうがつ",
+      "じゅく",
+      "スピード",
+      "～にとって"
+    ],
+    "correctAnswer": 1,
+    "difficulty": 2
+  },
+  {
+    "id": 45,
+    "question": "<b>Văn hóa</b>",
+    "options": [
+      "しゅっせきします",
+      "すいえい",
+      "ぶんか",
+      "～せいき"
+    ],
+    "correctAnswer": 2,
+    "difficulty": 1
+  },
+  {
+    "id": 46,
+    "question": "<b>ご<ruby>馳<rp>（</rp><rt>ち</rt><rp>）</rp></ruby><ruby>走<rp>（</rp><rt>そう</rt><rp>）</rp></ruby></b>",
+    "options": [
+      "かわりをします",
+      "ごちそう",
+      "じぶん",
+      "～もの"
+    ],
+    "correctAnswer": 1,
+    "difficulty": 2
+  },
+  {
+    "id": 47,
+    "question": "<b>こころ</b>",
+    "options": [
+      "Giữ, nắm, bắt",
+      "Trái tim",
+      "Văn hóa",
+      "Đừng làm khách, cứ tự nhiên"
+    ],
+    "correctAnswer": 1,
+    "difficulty": 1
+  },
+  {
+    "id": 48,
+    "question": "<b>かわりに</b>",
+    "options": [
+      "Lâu rồi",
+      "Thay thế cho, đại diện cho (người)",
+      "Vui vẻ",
+      "Đối với"
+    ],
+    "correctAnswer": 1,
+    "difficulty": 1
+  },
+  {
+    "id": 49,
+    "question": "<b>せわをします</b>",
+    "options": [
+      "Bơi lội",
+      "Chăm sóc",
+      "Thay thế cho, đại diện cho (người)",
+      "Trường học thêm"
+    ],
+    "correctAnswer": 1,
+    "difficulty": 1
+  },
+  {
+    "id": 50,
+    "question": "<b><ruby>心<rp>（</rp><rt>こころ</rt><rp>）</rp></ruby></b>",
+    "options": [
+      "きょうそうします",
+      "こころ",
+      "すいえい",
+      "せわをします"
+    ],
+    "correctAnswer": 1,
+    "difficulty": 2
+  },
+  {
+    "id": 51,
+    "question": "<b><ruby>久<rp>（</rp><rt>ひさ</rt><rp>）</rp></ruby>しぶり</b>",
+    "options": [
+      "げい",
+      "ごちそう",
+      "せいと",
+      "ひさしぶり"
+    ],
+    "correctAnswer": 3,
+    "difficulty": 2
+  },
+  {
+    "id": 52,
+    "question": "<b>Xin lỗi đã để (ông, bà) đợi lâu.</b>",
+    "options": [
+      "おまたせしました",
+      "かまいません",
+      "きょうそうします",
+      "スピード"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 1
+  },
+  {
+    "id": 53,
+    "question": "<b>Hình dáng</b>",
+    "options": [
+      "げい",
+      "すがた",
+      "せわをします",
+      "とらえます"
+    ],
+    "correctAnswer": 1,
+    "difficulty": 1
+  },
+  {
+    "id": 54,
+    "question": "<b>Người</b>",
+    "options": [
+      "おいそがしいですか",
+      "おまたせしました",
+      "とらえます",
+      "～もの"
+    ],
+    "correctAnswer": 3,
+    "difficulty": 1
+  },
+  {
+    "id": 55,
+    "question": "<b>～にとって</b>",
+    "options": [
+      "Chăm sóc",
+      "Lâu rồi",
+      "Vui vẻ",
+      "Đối với"
+    ],
+    "correctAnswer": 3,
+    "difficulty": 1
+  },
+  {
+    "id": 56,
+    "question": "<b>Anh (chị) có bận không ạ?</b>",
+    "options": [
+      "おいそがしいですか",
+      "おしょうがつ",
+      "ようす",
+      "サーカス"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 1
+  },
+  {
+    "id": 57,
+    "question": "<b>ひさしぶり</b>",
+    "options": [
+      "Lâu rồi",
+      "Trái tim",
+      "Tết, năm mới",
+      "Tốc độ"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 1
+  },
+  {
+    "id": 58,
+    "question": "<b>Tham dự, có mặt</b>",
+    "options": [
+      "こころ",
+      "しゅっせきします",
+      "とらえます",
+      "～もの"
+    ],
+    "correctAnswer": 1,
+    "difficulty": 1
+  },
+  {
+    "id": 59,
+    "question": "<b>Vui vẻ</b>",
+    "options": [
+      "きょうそうします",
+      "じゅく",
+      "たのしみます",
+      "にゅうかん"
+    ],
+    "correctAnswer": 2,
+    "difficulty": 1
+  },
+  {
+    "id": 60,
+    "question": "<b>えいぎょう</b>",
+    "options": [
+      "Giữ, nắm, bắt",
+      "Kinh doanh",
+      "Thời khóa biểu, lịch trình",
+      "Tự mình"
+    ],
+    "correctAnswer": 1,
+    "difficulty": 1
+  },
+  {
+    "id": 61,
+    "question": "<b>かまいません</b>",
+    "options": [
+      "Gửi đến, đưa đến",
+      "Học sinh",
+      "Không sao",
+      "Tự mình"
+    ],
+    "correctAnswer": 2,
+    "difficulty": 1
+  },
+  {
+    "id": 62,
+    "question": "<b>サーカス</b>",
+    "options": [
+      "Lịch sử",
+      "Người",
+      "Vui vẻ",
+      "Xiếc"
+    ],
+    "correctAnswer": 3,
+    "difficulty": 1
+  },
+  {
+    "id": 63,
+    "question": "<b>Gửi đến, đưa đến</b>",
+    "options": [
+      "いいことですね",
+      "とどけます",
+      "れきし",
+      "～にとって"
+    ],
+    "correctAnswer": 1,
+    "difficulty": 1
+  },
+  {
+    "id": 64,
+    "question": "<b>すがた</b>",
+    "options": [
+      "Hình dáng",
+      "Tham dự, có mặt",
+      "Tốc độ",
+      "Tốt quá nhỉ."
+    ],
+    "correctAnswer": 0,
+    "difficulty": 1
+  },
+  {
+    "id": 65,
+    "question": "<b>Tốt quá nhỉ.</b>",
+    "options": [
+      "いいことですね",
+      "かわりをします",
+      "しゅっせきします",
+      "たのしみます"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 1
+  },
+  {
+    "id": 66,
+    "question": "<b>Bữa ăn ngon</b>",
+    "options": [
+      "えんりょくなく",
+      "ごちそう",
+      "すがた",
+      "～もの"
+    ],
+    "correctAnswer": 1,
+    "difficulty": 1
+  }
+]

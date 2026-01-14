@@ -1,1 +1,492 @@
-﻿[]
+﻿[
+  {
+    "id": "toDepart",
+    "kanji": "出ます",
+    "hiragana": "でます",
+    "en": "to depart",
+    "vi": "Khởi hành",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm II",
+        "《出ます、出る、出て》",
+        "●「でんしゃが～」 Xe điện khởi hành"
+      ]
+    }
+  },
+  {
+    "id": "toBeFound",
+    "kanji": "見つかります",
+    "hiragana": "みつかります",
+    "en": "to be found",
+    "vi": "Tìm thấy, tìm ra",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm I",
+        "《見つかります、見つかる、見つかって》",
+        "●「かぎが～」 Tìm thấy chìa khóa"
+      ]
+    }
+  },
+  {
+    "id": "toGetWet",
+    "kanji": "濡れます",
+    "hiragana": "ぬれます",
+    "en": "to get wet",
+    "vi": "Ướt",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm II",
+        "《濡れます、濡れる、濡れて》"
+      ]
+    }
+  },
+  {
+    "id": "toDry",
+    "kanji": "乾きます",
+    "hiragana": "かわきます",
+    "en": "to dry",
+    "vi": "Khô",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm I",
+        "《乾きます、乾く、乾って》"
+      ]
+    }
+  },
+  {
+    "id": "toPaint",
+    "kanji": "塗ります",
+    "hiragana": "ぬります",
+    "en": "to paint",
+    "vi": "Quét, sơn",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm I",
+        "《塗ります、塗る、塗って》"
+      ]
+    }
+  },
+  {
+    "id": "toEnter",
+    "kanji": "入ります",
+    "hiragana": "はいります",
+    "en": "to enter",
+    "vi": "Vào",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm I",
+        "《入ります、入る、入って》",
+        "●「かいしゃに～」 Vào công ty"
+      ]
+    }
+  },
+  {
+    "id": "toProgress",
+    "kanji": "進みます",
+    "hiragana": "すすみます",
+    "en": "to progress",
+    "vi": "Tiến triển, tiến lên",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm I",
+        "《進みます、進む、進んで》",
+        "●「じゅんびが～」 Việc chuẩn bị đang được triển khai"
+      ]
+    }
+  },
+  {
+    "id": "toHaveTrouble",
+    "kanji": "苦労します",
+    "hiragana": "くろうします",
+    "en": "to have trouble",
+    "vi": "Gặp khó khăn",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm III",
+        "《苦労します、苦労す、苦労して》",
+        "●「ことばに～」 Gặp khó khăn về ngôn ngữ"
+      ]
+    }
+  },
+  {
+    "id": "paint",
+    "kanji": "ペンキ",
+    "hiragana": "ペンキ",
+    "en": "paint",
+    "vi": "Sơn",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "just",
+    "kanji": "ちょうど",
+    "hiragana": "ちょうど",
+    "en": "just",
+    "vi": "Đúng lúc",
+    "type": "adverb",
+    "explanation": {
+      "content": [
+        "Phó từ"
+      ]
+    }
+  },
+  {
+    "id": "justNow",
+    "kanji": "たったいま",
+    "hiragana": "たったいま",
+    "en": "just now",
+    "vi": "Vừa mới",
+    "type": "adverb",
+    "explanation": {
+      "content": [
+        "Phó từ"
+      ]
+    }
+  },
+  {
+    "id": "more",
+    "kanji": "あと～",
+    "hiragana": "あと～",
+    "en": "more",
+    "vi": "Còn ~ nữa",
+    "type": "other",
+    "explanation": {
+      "content": [
+        "Hậu tố"
+      ]
+    }
+  },
+  {
+    "id": "veryHelpful",
+    "kanji": "たすかりました",
+    "hiragana": "たすかりました",
+    "en": "very helpful",
+    "vi": "Giúp tôi [rất] nhiều / Rất có ích cho tôi",
+    "type": "other",
+    "explanation": {
+      "content": [
+        "Câu nói",
+        "「とても」 たすかりました。"
+      ]
+    }
+  },
+  {
+    "id": "hadTrouble",
+    "kanji": "くろうしました",
+    "hiragana": "くろうしました",
+    "en": "had trouble",
+    "vi": "Đã gắng sức [để tổng kết bằng tiếng Nhật].",
+    "type": "other",
+    "explanation": {
+      "content": [
+        "Câu nói",
+        "「にほんごで まとめるのに」くろうしました。"
+      ]
+    }
+  },
+  {
+    "id": "toBake",
+    "kanji": "焼きます",
+    "hiragana": "やきます",
+    "en": "to bake",
+    "vi": "Nướng",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm I",
+        "《焼きます、焼く、焼いて》"
+      ]
+    }
+  },
+  {
+    "id": "toHandOver",
+    "kanji": "渡します",
+    "hiragana": "わたします",
+    "en": "to hand over",
+    "vi": "Trao tay, đưa cho",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm I",
+        "《渡します、渡す、渡して》"
+      ]
+    }
+  },
+  {
+    "id": "toHeadFor",
+    "kanji": "向かいます",
+    "hiragana": "むかいます",
+    "en": "to head for",
+    "vi": "Đi đến, hướng tới",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm I",
+        "《向かいます、向かう、向かって》"
+      ]
+    }
+  },
+  {
+    "id": "toObtain",
+    "kanji": "手に入ります",
+    "hiragana": "てにはいります",
+    "en": "to obtain",
+    "vi": "Có được, có trong tay",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm I",
+        "《手に入ります、手に入る、手に入って》",
+        "●「じょうほうが～」 Có được thông tin"
+      ]
+    }
+  },
+  {
+    "id": "toInput",
+    "kanji": "入力",
+    "hiragana": "にゅうりょく",
+    "en": "to input",
+    "vi": "Nhập vào, Input",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm III",
+        "《入力します、入力する、入力して》"
+      ]
+    }
+  },
+  {
+    "id": "homeDelivery",
+    "kanji": "宅配便",
+    "hiragana": "たくはいびん",
+    "en": "home delivery",
+    "vi": "Dịch vụ chuyển phát tận nhà",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "cause",
+    "kanji": "原因",
+    "hiragana": "げんいん",
+    "en": "cause",
+    "vi": "Nguyên nhân",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "injection",
+    "kanji": "注射",
+    "hiragana": "ちゅうしゃ",
+    "en": "injection",
+    "vi": "Tiêm",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "appetite",
+    "kanji": "食欲",
+    "hiragana": "しょくよく",
+    "en": "appetite",
+    "vi": "Cảm giác muốn ăn, sự thèm ăn",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "pamphlet",
+    "kanji": "パンフレット",
+    "hiragana": "パンフレット",
+    "en": "pamphlet",
+    "vi": "Sách giới thiệu",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "stereo",
+    "kanji": "ステレオ",
+    "hiragana": "ステレオ",
+    "en": "stereo",
+    "vi": "Âm thanh nổi",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "isNowOk",
+    "kanji": "いまいいでしょうか",
+    "hiragana": "いまいいでしょうか",
+    "en": "is now ok",
+    "vi": "Xin lỗi, bây giờ có làm phiền gì anh/chị không?",
+    "type": "other",
+    "explanation": {
+      "content": [
+        "Câu hỏi",
+        "いま いいでしょうか。"
+      ]
+    }
+  },
+  {
+    "id": "gasServiceCenter",
+    "kanji": "ガス・サービス・センター",
+    "hiragana": "ガス・サービス・センター",
+    "en": "gas service center",
+    "vi": "Trung tâm dịch vụ ga",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "gasRange",
+    "kanji": "ガスレンジ",
+    "hiragana": "ガスレンジ",
+    "en": "gas range",
+    "vi": "Bếp ga",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "condition",
+    "kanji": "具合",
+    "hiragana": "ぐあい",
+    "en": "condition",
+    "vi": "Tình trạng",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "whoIsThis",
+    "kanji": "どちらさまでしょうか",
+    "hiragana": "どちらさまでしょうか",
+    "en": "who is this",
+    "vi": "Xin cho hỏi ngài là ai ạ?",
+    "type": "other",
+    "explanation": {
+      "content": [
+        "Câu hỏi"
+      ]
+    }
+  },
+  {
+    "id": "knowledge",
+    "kanji": "知識",
+    "hiragana": "ちしき",
+    "en": "knowledge",
+    "vi": "Tri thức",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "treasureHouse",
+    "kanji": "宝庫",
+    "hiragana": "ほうこ",
+    "en": "treasure house",
+    "vi": "Kho chứa, kho tàng",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "system",
+    "kanji": "システム",
+    "hiragana": "システム",
+    "en": "system",
+    "vi": "Hệ thống",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "keyword",
+    "kanji": "キーワード",
+    "hiragana": "キーワード",
+    "en": "keyword",
+    "vi": "Từ khóa (từ quan trọng)",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "part",
+    "kanji": "一部分",
+    "hiragana": "いちぶぶん",
+    "en": "part",
+    "vi": "Một phần",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "second",
+    "kanji": "秒",
+    "hiragana": "びょう",
+    "en": "second",
+    "vi": "Giây",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  }
+]

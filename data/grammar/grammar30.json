@@ -1,1 +1,165 @@
-﻿[]
+﻿[
+  {
+    "id": "v-te-aru-state",
+    "title": "V てあります - Diễn tả trạng thái, kết quả hành động với tha động từ",
+    "description": "Mẫu câu「～てあります」 dùng để diễn tả trạng thái của sự vật như là kết quả của hành động được ai đó thực hiện trước đó với mục đích hay ý đồ gì đó. Mẫu câu này thường sử dụng tha động từ, tức là những động từ chỉ động tác của con người",
+    "structure": "N１ に N２ が V てあります / N２は N１に V てあります",
+    "examples": [
+      {
+        "japanese": "壁に 地図が はってあります。",
+        "romaji": "Kabe ni chizu ga hatte arimasu.",
+        "vietnamese": "Trên tường có dán bản đồ. (hàm ý là một ai đó đã dán bản đồ lên tường nhằm một mục đích nào đó và kết quả là trên tường hiện có bản đồ)"
+      },
+      {
+        "japanese": "教室に テレビが 置いてあります。",
+        "romaji": "Kyoushitsu ni terebi ga oite arimasu.",
+        "vietnamese": "Trong lớp học có đặt tivi. (hàm ý là một ai đó đã để cái tivi vào trong lớp học nhằm một mục đích nào đó và kết quả là trong lớp hiện có 1 cái tivi)"
+      },
+      {
+        "japanese": "これは 私の本です。 名前が書いてありますから。",
+        "romaji": "Kore wa watashi no hon desu. Namae ga kaite arimasu kara.",
+        "vietnamese": "Đây là quyển sách của tôi. Vì có ghi tên mà. (hàm ý là tôi đã ghi tên mình vào quyển sách nhằm mục đích không lẫn với của người khác và kết quả là trong quyển sách hiện có tên của tôi)"
+      },
+      {
+        "japanese": "地図は 壁に 張ってあります。",
+        "romaji": "Chizu wa kabe ni hatte arimasu.",
+        "vietnamese": "Bản đồ có dán ở trên tường."
+      },
+      {
+        "japanese": "パスポートは 引き出しの中に しまってあります。",
+        "romaji": "Pasupooto wa hikidashi no naka ni shimatte arimasu.",
+        "vietnamese": "Hộ chiếu được cất ở trong ngăn kéo"
+      },
+      {
+        "japanese": "窓が 閉まっています。",
+        "romaji": "Mado ga shimatte imasu.",
+        "vietnamese": "Cửa sổ (đang) đóng. (chỉ đơn thuần diễn tả trạng thái của cái cửa sổ là đóng)"
+      },
+      {
+        "japanese": "窓が 閉めてあります。",
+        "romaji": "Mado ga shimete arimasu.",
+        "vietnamese": "Cửa sổ (đang) được đóng. (ngụ ý rằng ai đó đã đóng cửa sổ với mục đích nào đó)"
+      }
+    ],
+    "notes": [
+      "Mẫu câu này dùng để diễn tả trạng thái của sự vật như là kết quả của hành động được ai đó thực hiện trước đó với mục đích hay ý đồ gì đó",
+      "Mẫu câu này thường sử dụng tha động từ, tức là những động từ chỉ động tác của con người",
+      "Thể hiện trạng thái của đồ vật sau khi xảy ra 1 việc gì đó và hiện giờ (thời điểm nói) kết quả của việc đó vẫn còn tồn tại và người nói nhìn thấy được",
+      "Đặt trọng tâm ý muốn nói ở hành động và mục đích thực hiện hành động đó",
+      "Về ý nghĩa thì không khác gì mẫu câu trên nhưng trọng tâm ý muốn nói trong mẫu câu này là ở vị trí tồn tại của kết quả nói đến",
+      "Cần phân biệt sự khác nhau giữa V てあります và V ています:",
+      "「V てあります」: Các động từ dùng trong mẫu câu này là tha động từ",
+      "「V ています」: Các động từ dùng trong mẫu câu này là tự động từ"
+    ]
+  },
+  {
+    "id": "v-te-oku-preparation",
+    "title": "V ておきます - (～まえに)、～V ておきます - Diễn tả 1 hành động cần làm trước để chuẩn bị",
+    "description": "(làm gì) trước (để chuẩn bị). Diễn tả 1 hành động cần làm trước để chuẩn bị cho 1 hành động khác xảy ra",
+    "structure": "（～まえに）、～V ておきます",
+    "examples": [
+      {
+        "japanese": "旅行の まえに、 切符を 買っておきます。",
+        "romaji": "Ryokou no mae ni, kippu o katte okimasu.",
+        "vietnamese": "Trước khi đi du lịch tôi sẽ mua vé trước."
+      },
+      {
+        "japanese": "パーティの まえに、 部屋を 掃除しておきます。",
+        "romaji": "Paatii no mae ni, heya o souji shite okimasu.",
+        "vietnamese": "Trước bước tiệc, tôi sẽ dọn dẹp phòng trước."
+      },
+      {
+        "japanese": "パーティの まえに、 料理を 作っておいたほうがいいです。",
+        "romaji": "Paatii no mae ni, ryouri o tsukutte oita hou ga ii desu.",
+        "vietnamese": "Trước bước tiệc, bạn nên chuẩn bị các món ăn trước."
+      }
+    ],
+    "notes": [
+      "Diễn tả 1 hành động cần làm trước để chuẩn bị cho 1 hành động khác xảy ra"
+    ]
+  },
+  {
+    "id": "v-te-oku-after",
+    "title": "V ておきます - （～たら、）～V ておきます - Diễn tả 1 hành động cần thiết phải làm sau khi 1 việc nào đó kết thúc",
+    "description": "(làm gì) tiếp theo (sau 1 hành động nào đó sẽ kết thúc). Diễn tả 1 hành động cần thiết phải làm sau khi 1 việc nào đó kết thúc",
+    "structure": "（～たら、）～V ておきます",
+    "examples": [
+      {
+        "japanese": "授業が 終わったら、 電気を 消しておきます。",
+        "romaji": "Jugyou ga owattara, denki o keshite okimasu.",
+        "vietnamese": "Khi kết thúc giờ học thì sẽ tắt điện."
+      },
+      {
+        "japanese": "パーティーが 終わったら、 部屋を 片付けておきます。",
+        "romaji": "Paatii ga owattara, heya o katadzukete okimasu.",
+        "vietnamese": "Khi bữa tiệc kết thúc thì sẽ dọn phòng."
+      },
+      {
+        "japanese": "練習が 終わったら、 道具を 元の所に しまっておいてください。",
+        "romaji": "Renshuu ga owattara, dougu o moto no tokoro ni shimatte oite kudasai.",
+        "vietnamese": "Khi buổi luyện tập kết thúc thì hãy cất đồ vào chỗ cũ nhé!."
+      }
+    ],
+    "notes": [
+      "Diễn tả 1 hành động cần thiết phải làm sau khi 1 việc nào đó kết thúc"
+    ]
+  },
+  {
+    "id": "v-te-oku-keep",
+    "title": "V ておきます - （そのまま）～V ておきます - Giữ nguyên trạng thái ban đầu",
+    "description": "(làm gì) giữ nguyên trạng thái ban đầu",
+    "structure": "（そのまま）～V ておきます",
+    "examples": [
+      {
+        "japanese": "まだ 使っていますから、そのままに しておいてください。",
+        "romaji": "Mada tsukatte imasu kara, sono mama ni shite oite kudasai.",
+        "vietnamese": "Vì tôi còn đang dùng nên cứ để nguyen như thế nhé!"
+      },
+      {
+        "japanese": "A：テレビを消してもいいですか。",
+        "romaji": "A: Terebi o keshite mo ii desu ka.",
+        "vietnamese": "Tôi tắt tivi có được không?"
+      },
+      {
+        "japanese": "B：もうすぐ ニュースの 時間ですから、 つけておいてください。",
+        "romaji": "B: Mousugu nyuusu no jikan desu kara, tsukete oite kudasai.",
+        "vietnamese": "Vì sắp đến giờ thời sự rồi nên cứ để bật như thế."
+      }
+    ],
+    "notes": [
+      "Giữ nguyên trạng thái ban đầu"
+    ]
+  },
+  {
+    "id": "mada-v-te-iru",
+    "title": "まだ V ています／V ていません - Cách diễn đạt 1 hành động vẫn đang tiếp diễn hoặc chưa hoàn thành",
+    "description": "vẫn đang… / vẫn chưa…. Diễn tả hành động hay trạng thái vẫn đang tiếp diễn thì dùng câu ở dạng khẳng định; còn diễn đạt ý vẫn chưa hoàn thành tại thời điểm hiện tại thì dùng câu phủ định",
+    "structure": "まだ V ています／V ていません",
+    "examples": [
+      {
+        "japanese": "まだ 雨が 降っています。",
+        "romaji": "Mada ame ga futte imasu.",
+        "vietnamese": "Trời vẫn đang mưa."
+      },
+      {
+        "japanese": "まだ 漢字を 覚えていません。",
+        "romaji": "Mada kanji o oboete imasen.",
+        "vietnamese": "Tôi vẫn chưa nhớ được chữ Hán."
+      },
+      {
+        "japanese": "彼は まだ 発表しています。",
+        "romaji": "Kare wa mada happyou shite imasu.",
+        "vietnamese": "Anh ấy vẫn đang phát biểu."
+      },
+      {
+        "japanese": "田中さんは まだ 来ていません。",
+        "romaji": "Tanaka-san wa mada kite imasen.",
+        "vietnamese": "Anh Tanaka vẫn chưa đến."
+      }
+    ],
+    "notes": [
+      "Diễn tả hành động hay trạng thái vẫn đang tiếp diễn thì dùng câu ở dạng khẳng định",
+      "Diễn đạt ý vẫn chưa hoàn thành tại thời điểm hiện tại thì dùng câu phủ định"
+    ]
+  }
+]

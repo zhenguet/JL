@@ -1,1 +1,113 @@
-﻿[]
+﻿[
+  {
+    "id": "v-te-iru-state",
+    "title": "V ています - Ý nghĩa mới, cách dùng mới của động từ dạng tiếp diễn → diễn tả trạng thái",
+    "description": "Mẫu câu này được dùng để diễn tả trạng thái của sự vật diễn ra ngay trước mắt và kết quả của nó hiện vẫn còn như thế. Các động từ dùng trong mẫu câu này là tự động từ, tức là các động từ chỉ trạng thái và hầu hết là diễn tả các hành động tức thời",
+    "structure": "N が V ています / N は V ています",
+    "examples": [
+      {
+        "japanese": "まどが 閉まっています。",
+        "romaji": "Mado ga shimatte imasu.",
+        "vietnamese": "Cửa sổ đóng (cửa sổ đang trong trạng thái đóng, có thể là do gió hoặc ai đó làm nó đóng lại)"
+      },
+      {
+        "japanese": "いすが 壊れています。",
+        "romaji": "Isu ga kowarete imasu.",
+        "vietnamese": "Cái ghế bị hỏng (cái ghế đang trong trạng thái hỏng, có thể là do ai đó làm hỏng)"
+      },
+      {
+        "japanese": "ふくろが 破れています。",
+        "romaji": "Fukuro ga yaburete imasu.",
+        "vietnamese": "Cái túi bị rách (cái túi đang trong trạng thái rách, có thể là do vướng vào đâu đó hoặc ai đó làm rách)"
+      },
+      {
+        "japanese": "窓のガラスが 割れていますから、 危ないです。",
+        "romaji": "Mado no garasu ga warete imasu kara, abunai desu.",
+        "vietnamese": "Kính cửa sổ bị vỡ nên rất nguy hiểm. (kính cửa sổ đang trong trạng thái vỡ, có thể là do ai đó ném đá… làm vỡ)"
+      },
+      {
+        "japanese": "今朝 道が 込んでいました。",
+        "romaji": "Kesa michi ga konde imashita.",
+        "vietnamese": "Sáng nay đường đông nghịt."
+      },
+      {
+        "japanese": "このいすは 壊れています。",
+        "romaji": "Kono isu wa kowarete imasu.",
+        "vietnamese": "Cái ghế này thì bị hỏng rồi"
+      },
+      {
+        "japanese": "その皿は 割れています。",
+        "romaji": "Sono sara wa warete imasu.",
+        "vietnamese": "Cái đĩa đó thì vỡ rồi"
+      },
+      {
+        "japanese": "あの皿は 汚れていますから、 洗ってください。",
+        "romaji": "Ano sara wa yogorete imasu kara, aratte kudasai.",
+        "vietnamese": "Cái đĩa kia thì bẩn quá, đem đi rửa đi."
+      }
+    ],
+    "notes": [
+      "Mẫu câu này được dùng để diễn tả trạng thái của sự vật diễn ra ngay trước mắt và kết quả của nó hiện vẫn còn như thế",
+      "Các động từ dùng trong mẫu câu này là tự động từ, tức là các động từ chỉ trạng thái và hầu hết là diễn tả các hành động tức thời",
+      "Ở bài 15 chúng ta đã học 「結婚しています」「住んでいます」「知っています」「持っています」 nhưng những biểu hiện này có chủ thể là con người. Bài này, chúng ta học cách thể hiện với chủ thể là những đồ vật mà chúng ta nhìn thấy",
+      "Khi diễn tả trạng thái xảy ra trong quá khứ, chúng ta dùng V ていました",
+      "Khi muốn đưa 1 sự vật, sự việc nào đó làm chủ đề của câu nói thì thay trợ từ「が」 bằng 「は」",
+      "Với cách nói này người ta thường sử dụng các đại từ chỉ định như「この」「その」「あの」 để chỉ rõ chủ thể được nhắc đến"
+    ]
+  },
+  {
+    "id": "v-te-shimau-completion",
+    "title": "V てしまいます - Diễn tả sự hoàn thành, hoàn tất 1 hành động",
+    "description": "(làm gì) hết / xong rồi. Mẫu câu này dùng để nhấn mạnh sự hoàn thành thật sự của hành động. Vì vậy đứng trước nó thường là các trạng từ như もう、ぜんぶ",
+    "structure": "V てしまいます / V てしまいました",
+    "examples": [
+      {
+        "japanese": "宿題は もう やってしまいました。",
+        "romaji": "Shukudai wa mou yatte shimaimashita.",
+        "vietnamese": "Bài tập thì tôi đã làm hết rồi."
+      },
+      {
+        "japanese": "お酒を 全部 飲んでしまいました。",
+        "romaji": "Osake o zenbu nonde shimaimashita.",
+        "vietnamese": "Tôi đã uống hết rượu rồi."
+      },
+      {
+        "japanese": "明日までに レポートを 書いてしまいます。",
+        "romaji": "Ashita made ni repooto o kaite shimasu.",
+        "vietnamese": "Đến ngày mai tôi sẽ viết xong báo cáo."
+      }
+    ],
+    "notes": [
+      "V てしまいました: Đã hoàn thành; Đã xong (1 hành động trong quá khứ)",
+      "V ていしまいます: Sẽ hoàn thành, sẽ xong (1 hành động trong tương lai)",
+      "Mẫu câu này dùng để nhấn mạnh sự hoàn thành thật sự của hành động",
+      "Vì vậy đứng trước nó thường là các trạng từ như もう、ぜんぶ"
+    ]
+  },
+  {
+    "id": "v-te-shimau-regret",
+    "title": "V てしまいました - Diễn tả sự nuối tiếc trước 1 hành động",
+    "description": "(làm gì) mất rồi. Mẫu câu này được dùng để biểu thị sự hối tiếc, tâm trạng biết lỗi của người nói trong một tình huống xấu",
+    "structure": "V てしまいました",
+    "examples": [
+      {
+        "japanese": "パスポートを 無くしてしまいました。",
+        "romaji": "Pasupooto o nakushite shimaimashita.",
+        "vietnamese": "Tôi làm mất hộ chiếu mất rồi."
+      },
+      {
+        "japanese": "電車に かばんを 忘れてしまいました。",
+        "romaji": "Densha ni kaban o wasurete shimaimashita.",
+        "vietnamese": "Tôi để quên cặp trên xe điện mất rồi."
+      },
+      {
+        "japanese": "スーパーで 財布を 落としてしまいました。",
+        "romaji": "Suupaa de saifu o otoshite shimaimashita.",
+        "vietnamese": "Tôi đánh rơi ví tại siêu thị mất rồi."
+      }
+    ],
+    "notes": [
+      "Mẫu câu này được dùng để biểu thị sự hối tiếc, tâm trạng biết lỗi của người nói trong một tình huống xấu"
+    ]
+  }
+]

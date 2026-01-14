@@ -1,0 +1,830 @@
+[
+  {
+    "id": 1,
+    "question": "<b>Chung cư</b>",
+    "options": [
+      "いず",
+      "しょうらい",
+      "クリーニング",
+      "マンション"
+    ],
+    "correctAnswer": 3,
+    "difficulty": 1
+  },
+  {
+    "id": 2,
+    "question": "<b><ruby>川<rp>（</rp><rt>かわ</rt><rp>）</rp></ruby></b>",
+    "options": [
+      "かわ",
+      "だいどころ",
+      "クリーニング",
+      "パーティールーム"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 2
+  },
+  {
+    "id": 3,
+    "question": "<b>なみ</b>",
+    "options": [
+      "声",
+      "波",
+      "皮",
+      "鳥"
+    ],
+    "correctAnswer": 1,
+    "difficulty": 1
+  },
+  {
+    "id": 4,
+    "question": "<b>しょうらい</b>",
+    "options": [
+      "Dụng cụ, đạo cụ",
+      "Máy bán hàng tự động",
+      "Tên địa danh",
+      "Tương lai"
+    ],
+    "correctAnswer": 3,
+    "difficulty": 1
+  },
+  {
+    "id": 5,
+    "question": "<b>うちます</b>",
+    "options": [
+      "Làm đồ mộc vào ngày chủ nhật",
+      "Nhà bếp",
+      "Nhân vật chính",
+      "Đánh (đánh bóng, đánh máy…)"
+    ],
+    "correctAnswer": 3,
+    "difficulty": 1
+  },
+  {
+    "id": 6,
+    "question": "<b>Gắn, bật…</b>",
+    "options": [
+      "あきはばら",
+      "こえ",
+      "つけます",
+      "どうぐ"
+    ],
+    "correctAnswer": 2,
+    "difficulty": 1
+  },
+  {
+    "id": 7,
+    "question": "<b>ペット</b>",
+    "options": [
+      "(có thể) nghe thấy",
+      "Con vật cưng",
+      "Máy bán hàng tự động",
+      "Sân bay Kansai"
+    ],
+    "correctAnswer": 1,
+    "difficulty": 1
+  },
+  {
+    "id": 8,
+    "question": "<b>ゆめ</b>",
+    "options": [
+      "Chạy",
+      "Giấc mơ",
+      "Ngày xưa, ngày trước",
+      "Rèm cửa"
+    ],
+    "correctAnswer": 1,
+    "difficulty": 1
+  },
+  {
+    "id": 9,
+    "question": "<b>ゆうがた</b>",
+    "options": [
+      "Bên cạnh",
+      "Chiều tối",
+      "Hình dạng",
+      "Tới (Nhật)"
+    ],
+    "correctAnswer": 1,
+    "difficulty": 1
+  },
+  {
+    "id": 10,
+    "question": "<b>ゆうべ</b>",
+    "options": [
+      "Bay",
+      "Máy bán hàng tự động",
+      "Nuôi",
+      "Tối qua"
+    ],
+    "correctAnswer": 3,
+    "difficulty": 1
+  },
+  {
+    "id": 11,
+    "question": "<b>Nhà bếp</b>",
+    "options": [
+      "しょうらい",
+      "じどうはんばいき",
+      "だいどころ",
+      "はしります"
+    ],
+    "correctAnswer": 2,
+    "difficulty": 1
+  },
+  {
+    "id": 12,
+    "question": "<b>Chạy</b>",
+    "options": [
+      "しゅじんこう",
+      "しょうらい",
+      "はしります",
+      "ゆめ"
+    ],
+    "correctAnswer": 2,
+    "difficulty": 1
+  },
+  {
+    "id": 13,
+    "question": "<b>Ban ngày</b>",
+    "options": [
+      "かわ",
+      "とびます",
+      "にちようだいく",
+      "ひるま"
+    ],
+    "correctAnswer": 3,
+    "difficulty": 1
+  },
+  {
+    "id": 14,
+    "question": "<b>Tên địa danh</b>",
+    "options": [
+      "いず",
+      "かたち",
+      "ゆうがた",
+      "～がわ"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 1
+  },
+  {
+    "id": 15,
+    "question": "<b>Ngày xưa, ngày trước</b>",
+    "options": [
+      "あきはばら",
+      "むかし",
+      "～ご",
+      "～め"
+    ],
+    "correctAnswer": 1,
+    "difficulty": 1
+  },
+  {
+    "id": 16,
+    "question": "<b>マンション</b>",
+    "options": [
+      "Chung cư",
+      "Giấc mơ",
+      "Mua bán qua mạng",
+      "Máy bán hàng tự động"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 1
+  },
+  {
+    "id": 17,
+    "question": "<b>かわ</b>",
+    "options": [
+      "Chạy",
+      "Hình dạng",
+      "Sông",
+      "Xây, xây dựng"
+    ],
+    "correctAnswer": 2,
+    "difficulty": 1
+  },
+  {
+    "id": 18,
+    "question": "<b>かいます (<ruby>飼<rp>（</rp><rt>か</rt><rp>）</rp></ruby>います)</b>",
+    "options": [
+      "(có thể) nghe thấy",
+      "(có thể) nhìn thấy",
+      "Bên, phía, hướng",
+      "Nuôi (thú)"
+    ],
+    "correctAnswer": 3,
+    "difficulty": 1
+  },
+  {
+    "id": 19,
+    "question": "<b><ruby>日曜大工<rp>（</rp><rt>にちようだいく</rt><rp>）</rp></ruby></b>",
+    "options": [
+      "じぶん",
+      "そら",
+      "にちようだいく",
+      "みえます"
+    ],
+    "correctAnswer": 2,
+    "difficulty": 1
+  },
+  {
+    "id": 20,
+    "question": "<b><ruby>聞<rp>（</rp><rt>きこ</rt><rp>）</rp></ruby>こえます</b>",
+    "options": [
+      "きこえます",
+      "つうしんはんばい",
+      "どうぐ",
+      "ペット"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 2
+  },
+  {
+    "id": 21,
+    "question": "<b>Tới (Nhật)</b>",
+    "options": [
+      "かいます",
+      "かたち",
+      "つきます",
+      "みえます"
+    ],
+    "correctAnswer": 2,
+    "difficulty": 1
+  },
+  {
+    "id": 22,
+    "question": "<b>はしります</b>",
+    "options": [
+      "Chiều qua",
+      "Chạy",
+      "Chữ",
+      "Thứ~"
+    ],
+    "correctAnswer": 1,
+    "difficulty": 1
+  },
+  {
+    "id": 23,
+    "question": "<b>Góc</b>",
+    "options": [
+      "かいます",
+      "かど",
+      "じどうはんばいき",
+      "つきます"
+    ],
+    "correctAnswer": 1,
+    "difficulty": 1
+  },
+  {
+    "id": 24,
+    "question": "<b>だいどころ</b>",
+    "options": [
+      "Ban ngày",
+      "Dụng cụ, đạo cụ",
+      "Nhà bếp",
+      "Rèm cửa"
+    ],
+    "correctAnswer": 2,
+    "difficulty": 1
+  },
+  {
+    "id": 25,
+    "question": "<b>Tên khu phố ở Tokyo</b>",
+    "options": [
+      "あきはばら",
+      "ひるま",
+      "ゆうべ",
+      "マンション"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 1
+  },
+  {
+    "id": 26,
+    "question": "<b>つけます</b>",
+    "options": [
+      "Bầu trời",
+      "Gắn, bật…",
+      "Nhà bếp",
+      "Tên khu phố ở Tokyo"
+    ],
+    "correctAnswer": 1,
+    "difficulty": 1
+  },
+  {
+    "id": 27,
+    "question": "<b>けしき</b>",
+    "options": [
+      "Bay",
+      "Cảnh, phong cảnh",
+      "Hoàn thành, làm xong",
+      "Mua bán qua mạng"
+    ],
+    "correctAnswer": 1,
+    "difficulty": 1
+  },
+  {
+    "id": 28,
+    "question": "<b>Hoàn thành, làm xong</b>",
+    "options": [
+      "きこえます",
+      "そら",
+      "できます",
+      "ゆうべ"
+    ],
+    "correctAnswer": 2,
+    "difficulty": 1
+  },
+  {
+    "id": 29,
+    "question": "<b>Rèm cửa</b>",
+    "options": [
+      "いず",
+      "つうしんはんばい",
+      "カーテン",
+      "～ご"
+    ],
+    "correctAnswer": 2,
+    "difficulty": 1
+  },
+  {
+    "id": 30,
+    "question": "<b>とびます</b>",
+    "options": [
+      "Bay",
+      "Rèm cửa",
+      "Sau~",
+      "Thứ~"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 1
+  },
+  {
+    "id": 31,
+    "question": "<b>Phía ~ (bờ, bên của vật thể)</b>",
+    "options": [
+      "じどうはんばいき",
+      "そば",
+      "だいどころ",
+      "～がわ"
+    ],
+    "correctAnswer": 3,
+    "difficulty": 1
+  },
+  {
+    "id": 32,
+    "question": "<b>にちようだいく</b>",
+    "options": [
+      "Bên cạnh",
+      "Hoàn thành, làm xong",
+      "Làm đồ mộc vào ngày chủ nhật",
+      "Tên khu phố ở Tokyo"
+    ],
+    "correctAnswer": 2,
+    "difficulty": 1
+  },
+  {
+    "id": 33,
+    "question": "<b>そうさ</b>",
+    "options": [
+      "Bên, phía, hướng",
+      "Rèm cửa",
+      "Thao tác, điều khiển (máy móc)",
+      "Xây, xây dựng"
+    ],
+    "correctAnswer": 2,
+    "difficulty": 1
+  },
+  {
+    "id": 34,
+    "question": "<b>Rượu whisky</b>",
+    "options": [
+      "うちます",
+      "たてます",
+      "つうしんはんばい",
+      "ウイスキー"
+    ],
+    "correctAnswer": 3,
+    "difficulty": 1
+  },
+  {
+    "id": 35,
+    "question": "<b>Thứ~</b>",
+    "options": [
+      "かわ",
+      "むこう",
+      "～がわ",
+      "～め"
+    ],
+    "correctAnswer": 3,
+    "difficulty": 1
+  },
+  {
+    "id": 36,
+    "question": "<b><ruby>波<rp>（</rp><rt>なみ</rt><rp>）</rp></ruby></b>",
+    "options": [
+      "うちます",
+      "どうぐ",
+      "なみ",
+      "クリーニング"
+    ],
+    "correctAnswer": 2,
+    "difficulty": 2
+  },
+  {
+    "id": 37,
+    "question": "<b>～め</b>",
+    "options": [
+      "Chung cư",
+      "Giọng, giọng nói",
+      "Hình dạng",
+      "Thứ~"
+    ],
+    "correctAnswer": 3,
+    "difficulty": 1
+  },
+  {
+    "id": 38,
+    "question": "<b>そば</b>",
+    "options": [
+      "Bên cạnh",
+      "Hoàn thành, làm xong",
+      "Thao tác, điều khiển",
+      "Tên khu phố ở Tokyo"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 1
+  },
+  {
+    "id": 39,
+    "question": "<b>Mở, khai trương</b>",
+    "options": [
+      "きこえます",
+      "じどうはんばいき",
+      "とびます",
+      "ひらきます"
+    ],
+    "correctAnswer": 3,
+    "difficulty": 1
+  },
+  {
+    "id": 40,
+    "question": "<b>Tối qua</b>",
+    "options": [
+      "うみ",
+      "にちようだいく",
+      "ゆうべ",
+      "ウイスキー"
+    ],
+    "correctAnswer": 2,
+    "difficulty": 1
+  },
+  {
+    "id": 41,
+    "question": "<b>Chữ</b>",
+    "options": [
+      "しょうらい",
+      "じ",
+      "そうさ",
+      "そば"
+    ],
+    "correctAnswer": 1,
+    "difficulty": 1
+  },
+  {
+    "id": 42,
+    "question": "<b>かんさいくうこう</b>",
+    "options": [
+      "Phía bên kia",
+      "Sân bay Kansai",
+      "Tương lai",
+      "Tự mình"
+    ],
+    "correctAnswer": 1,
+    "difficulty": 1
+  },
+  {
+    "id": 43,
+    "question": "<b>Tương lai</b>",
+    "options": [
+      "しょうらい",
+      "だいどころ",
+      "できます",
+      "とります"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 1
+  },
+  {
+    "id": 44,
+    "question": "<b>～ご</b>",
+    "options": [
+      "Giá sách",
+      "Giấc mơ",
+      "Sau~",
+      "Tối qua"
+    ],
+    "correctAnswer": 2,
+    "difficulty": 1
+  },
+  {
+    "id": 45,
+    "question": "<b>じぶん</b>",
+    "options": [
+      "Cảnh, phong cảnh",
+      "Góc",
+      "Tương lai",
+      "Tự mình"
+    ],
+    "correctAnswer": 3,
+    "difficulty": 1
+  },
+  {
+    "id": 46,
+    "question": "<b>Sân bay Kansai</b>",
+    "options": [
+      "いず",
+      "かんさいくうこう",
+      "とびます",
+      "みえます"
+    ],
+    "correctAnswer": 1,
+    "difficulty": 1
+  },
+  {
+    "id": 47,
+    "question": "<b>～しか</b>",
+    "options": [
+      "Chỉ (đi với dạng phủ định)",
+      "Hoàn thành, làm xong",
+      "Sóng, sóng biển",
+      "Xây, xây dựng"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 1
+  },
+  {
+    "id": 48,
+    "question": "<b><ruby>付<rp>（</rp><rt>つ</rt><rp>）</rp></ruby>けます</b>",
+    "options": [
+      "かんさいくうこう",
+      "つけます",
+      "ひらきます",
+      "ほんだな"
+    ],
+    "correctAnswer": 1,
+    "difficulty": 2
+  },
+  {
+    "id": 49,
+    "question": "<b>じ</b>",
+    "options": [
+      "(có thể) nhìn thấy",
+      "Chữ",
+      "Gắn, bật…",
+      "Thứ~"
+    ],
+    "correctAnswer": 1,
+    "difficulty": 1
+  },
+  {
+    "id": 50,
+    "question": "<b><ruby>景色<rp>（</rp><rt>けしき</rt><rp>）</rp></ruby></b>",
+    "options": [
+      "けしき",
+      "しゅじんこう",
+      "そば",
+      "むかし"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 2
+  },
+  {
+    "id": 51,
+    "question": "<b>うみ</b>",
+    "options": [
+      "Biển",
+      "Chung cư",
+      "Mua bán qua mạng",
+      "Rèm cửa"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 1
+  },
+  {
+    "id": 52,
+    "question": "<b>Chiều tối</b>",
+    "options": [
+      "たてます",
+      "どうぐ",
+      "ゆうがた",
+      "ペット"
+    ],
+    "correctAnswer": 2,
+    "difficulty": 1
+  },
+  {
+    "id": 53,
+    "question": "<b>パーティールーム</b>",
+    "options": [
+      "Chỉ (đi với dạng phủ định)",
+      "Phòng tổ chức tiệc",
+      "Thao tác, điều khiển",
+      "Tên địa danh"
+    ],
+    "correctAnswer": 1,
+    "difficulty": 1
+  },
+  {
+    "id": 54,
+    "question": "<b>こえ</b>",
+    "options": [
+      "Biển",
+      "Giọng, giọng nói",
+      "Máy bán hàng tự động",
+      "Tối qua"
+    ],
+    "correctAnswer": 1,
+    "difficulty": 1
+  },
+  {
+    "id": 55,
+    "question": "<b>ひらきます</b>",
+    "options": [
+      "(có thể) nghe thấy",
+      "Chữ",
+      "Lấy",
+      "Mở, khai trương"
+    ],
+    "correctAnswer": 3,
+    "difficulty": 1
+  },
+  {
+    "id": 56,
+    "question": "<b>たてます</b>",
+    "options": [
+      "Bay lên",
+      "Tạo ra",
+      "Xây dựng",
+      "Đi tắm"
+    ],
+    "correctAnswer": 2,
+    "difficulty": 1
+  },
+  {
+    "id": 57,
+    "question": "<b><ruby>夢<rp>（</rp><rt>ゆめ</rt><rp>）</rp></ruby></b>",
+    "options": [
+      "あきはばら",
+      "こえ",
+      "そら",
+      "ゆめ"
+    ],
+    "correctAnswer": 3,
+    "difficulty": 2
+  },
+  {
+    "id": 58,
+    "question": "<b>Chỉ (đi với dạng phủ định)</b>",
+    "options": [
+      "そら",
+      "ゆめ",
+      "ウイスキー",
+      "～しか"
+    ],
+    "correctAnswer": 3,
+    "difficulty": 1
+  },
+  {
+    "id": 59,
+    "question": "<b>きこえます</b>",
+    "options": [
+      "Bị bắt",
+      "Nghe thấy",
+      "Nhìn thấy",
+      "Sờ vào"
+    ],
+    "correctAnswer": 1,
+    "difficulty": 1
+  },
+  {
+    "id": 60,
+    "question": "<b>Dụng cụ, đạo cụ</b>",
+    "options": [
+      "どうぐ",
+      "ほんだな",
+      "マンション",
+      "～しか"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 1
+  },
+  {
+    "id": 61,
+    "question": "<b><ruby>見<rp>（</rp><rt>み</rt><rp>）</rp></ruby>えます</b>",
+    "options": [
+      "うちます",
+      "うみ",
+      "みえます",
+      "ウイスキー"
+    ],
+    "correctAnswer": 2,
+    "difficulty": 2
+  },
+  {
+    "id": 62,
+    "question": "<b>まんが</b>",
+    "options": [
+      "(có thể) nghe thấy",
+      "Chuyện tranh",
+      "Giá sách",
+      "Rèm cửa"
+    ],
+    "correctAnswer": 1,
+    "difficulty": 1
+  },
+  {
+    "id": 63,
+    "question": "<b>Giấc mơ</b>",
+    "options": [
+      "にちようだいく",
+      "ひるま",
+      "みえます",
+      "ゆめ"
+    ],
+    "correctAnswer": 3,
+    "difficulty": 1
+  },
+  {
+    "id": 64,
+    "question": "<b><ruby>海<rp>（</rp><rt>うみ</rt><rp>）</rp></ruby></b>",
+    "options": [
+      "いず",
+      "うみ",
+      "にちようだいく",
+      "ペット"
+    ],
+    "correctAnswer": 1,
+    "difficulty": 2
+  },
+  {
+    "id": 65,
+    "question": "<b>じどうはんばいき</b>",
+    "options": [
+      "Giọng, giọng nói",
+      "Gắn, bật…",
+      "Máy bán hàng tự động",
+      "Rượu whisky"
+    ],
+    "correctAnswer": 2,
+    "difficulty": 1
+  },
+  {
+    "id": 66,
+    "question": "<b>Đánh</b>",
+    "options": [
+      "うちます",
+      "だいどころ",
+      "つうしんはんばい",
+      "にちようだいく"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 1
+  },
+  {
+    "id": 67,
+    "question": "<b>そら</b>",
+    "options": [
+      "Bầu trời",
+      "Giọng, giọng nói",
+      "Nuôi",
+      "Rèm cửa"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 1
+  },
+  {
+    "id": 68,
+    "question": "<b><ruby>空<rp>（</rp><rt>そら</rt><rp>）</rp></ruby></b>",
+    "options": [
+      "かたち",
+      "そら",
+      "まんが",
+      "ウイスキー"
+    ],
+    "correctAnswer": 1,
+    "difficulty": 2
+  },
+  {
+    "id": 69,
+    "question": "<b><ruby>関西<ruby>空港<rp>（</rp><rt>くうこう</rt><rp>）</rp></ruby><rp>（</rp><rt>かんさいくうこう</rt><rp>）</rp></ruby></b>",
+    "options": [
+      "いず",
+      "かんさいくうこう",
+      "たてます",
+      "～がわ"
+    ],
+    "correctAnswer": 1,
+    "difficulty": 1
+  }
+]

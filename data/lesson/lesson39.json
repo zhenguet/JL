@@ -1,1 +1,625 @@
-﻿[]
+﻿[
+  {
+    "id": "toRemember",
+    "kanji": "思い出します",
+    "hiragana": "おもいだします",
+    "en": "to remember",
+    "vi": "Nhớ lại",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm I",
+        "《思い出します、思い出す、思い出して》"
+      ]
+    }
+  },
+  {
+    "id": "toFeelRelieved",
+    "kanji": "安心します",
+    "hiragana": "あんしんします",
+    "en": "to feel relieved",
+    "vi": "Yên tâm",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm III",
+        "《～する、～して》"
+      ]
+    }
+  },
+  {
+    "id": "toBeSurprised",
+    "kanji": "びっくりします",
+    "hiragana": "びっくりします",
+    "en": "to be surprised",
+    "vi": "Ngạc nhiên",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm III",
+        "《～する、～して》"
+      ]
+    }
+  },
+  {
+    "id": "toLaugh",
+    "kanji": "笑います",
+    "hiragana": "わらいます",
+    "en": "to laugh",
+    "vi": "Cười",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm I",
+        "《笑います、笑う、笑って》"
+      ]
+    }
+  },
+  {
+    "id": "toCry",
+    "kanji": "泣きます",
+    "hiragana": "なきます",
+    "en": "to cry",
+    "vi": "Khóc",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm I",
+        "《泣きます、泣く、泣いて》"
+      ]
+    }
+  },
+  {
+    "id": "toBurn",
+    "kanji": "焼けます",
+    "hiragana": "やけます",
+    "en": "to burn",
+    "vi": "Cháy",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm II",
+        "《焼けます、焼ける、焼けて》",
+        "●「家が～」 Cháy nhà"
+      ]
+    }
+  },
+  {
+    "id": "toFallDown",
+    "kanji": "倒れます",
+    "hiragana": "たおれます",
+    "en": "to fall down",
+    "vi": "Đổ",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm II",
+        "《倒れます、倒れる、倒れて》",
+        "●「木が～」 Cây đổ"
+      ]
+    }
+  },
+  {
+    "id": "toPass",
+    "kanji": "通ります",
+    "hiragana": "とおります",
+    "en": "to pass",
+    "vi": "Đi ngang qua",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm I",
+        "《通ります、通る、通って》",
+        "●「くるまが～」 Xe đi ngang qua"
+      ]
+    }
+  },
+  {
+    "id": "complicated",
+    "kanji": "複雑",
+    "hiragana": "ふくざつ",
+    "en": "complicated",
+    "vi": "Phức tạp",
+    "type": "adjective",
+    "explanation": {
+      "content": [
+        "Tính từ",
+        "［な］"
+      ]
+    }
+  },
+  {
+    "id": "noisy",
+    "kanji": "うるさい",
+    "hiragana": "うるさい",
+    "en": "noisy",
+    "vi": "ồn ào",
+    "type": "adjective",
+    "explanation": {
+      "content": [
+        "Tính từ",
+        "［い］"
+      ]
+    }
+  },
+  {
+    "id": "scary",
+    "kanji": "怖い",
+    "hiragana": "こわい",
+    "en": "scary",
+    "vi": "Sợ",
+    "type": "adjective",
+    "explanation": {
+      "content": [
+        "Tính từ",
+        "［い］"
+      ]
+    }
+  },
+  {
+    "id": "feelGood",
+    "kanji": "気分がいい",
+    "hiragana": "きぶんがいい",
+    "en": "feel good",
+    "vi": "Dễ chịu trong người",
+    "type": "other",
+    "explanation": {
+      "content": [
+        "Thành ngữ"
+      ]
+    }
+  },
+  {
+    "id": "feelBad",
+    "kanji": "気分が悪い",
+    "hiragana": "きぶんがわるい",
+    "en": "feel bad",
+    "vi": "Khó chịu trong người",
+    "type": "other",
+    "explanation": {
+      "content": [
+        "Thành ngữ"
+      ]
+    }
+  },
+  {
+    "id": "business",
+    "kanji": "用事",
+    "hiragana": "ようじ",
+    "en": "business",
+    "vi": "Có việc",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "accident",
+    "kanji": "事故",
+    "hiragana": "じこ",
+    "en": "accident",
+    "vi": "Tai nạn",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "earthquake",
+    "kanji": "地震",
+    "hiragana": "じしん",
+    "en": "earthquake",
+    "vi": "Động đất",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "fire",
+    "kanji": "火事",
+    "hiragana": "かじ",
+    "en": "fire",
+    "vi": "Cháy nhà, hỏa hoạn",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "typhoon",
+    "kanji": "台風",
+    "hiragana": "たいふう",
+    "en": "typhoon",
+    "vi": "Bão",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "construction",
+    "kanji": "工事",
+    "hiragana": "こうじ",
+    "en": "construction",
+    "vi": "Công trình xây dựng",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "underConstruction",
+    "kanji": "工事中",
+    "hiragana": "こうじちゅう",
+    "en": "under construction",
+    "vi": "Đang xây dựng",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "wedding",
+    "kanji": "結婚式",
+    "hiragana": "けっこんしき",
+    "en": "wedding",
+    "vi": "Đám cưới",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "actually",
+    "kanji": "実は",
+    "hiragana": "じつは",
+    "en": "actually",
+    "vi": "Thực ra thì…",
+    "type": "adverb",
+    "explanation": {
+      "content": [
+        "Phó từ"
+      ]
+    }
+  },
+  {
+    "id": "then",
+    "kanji": "それじゃ",
+    "hiragana": "それじゃ",
+    "en": "then",
+    "vi": "Thế thì",
+    "type": "other",
+    "explanation": {
+      "content": [
+        "Từ nối"
+      ]
+    }
+  },
+  {
+    "id": "areYouBusy",
+    "kanji": "おいそがしいですか",
+    "hiragana": "おいそがしいですか",
+    "en": "are you busy",
+    "vi": "Ông có bận không?",
+    "type": "other",
+    "explanation": {
+      "content": [
+        "Câu hỏi"
+      ]
+    }
+  },
+  {
+    "id": "iHaveAFavor",
+    "kanji": "おねがいがあるんです",
+    "hiragana": "ちょっとおねがいがあるんです",
+    "en": "I have a favor",
+    "vi": "Tôi có việc muốn nhờ ông chút.",
+    "type": "other",
+    "explanation": {
+      "content": [
+        "Câu nói",
+        "ちょっと おねがいが あるんです。"
+      ]
+    }
+  },
+  {
+    "id": "nothingCanBeDone",
+    "kanji": "しかたがありませんね",
+    "hiragana": "しかたがありませんね",
+    "en": "nothing can be done",
+    "vi": "Đành vậy thôi.",
+    "type": "other",
+    "explanation": {
+      "content": [
+        "Câu nói"
+      ]
+    }
+  },
+  {
+    "id": "imSorry",
+    "kanji": "もうしわけありません",
+    "hiragana": "もうしわけありません",
+    "en": "I'm sorry",
+    "vi": "Thành thật xin lỗi.",
+    "type": "other",
+    "explanation": {
+      "content": [
+        "Câu nói"
+      ]
+    }
+  },
+  {
+    "id": "toBeDisappointed",
+    "kanji": "がっかりします",
+    "hiragana": "がっかりします",
+    "en": "to be disappointed",
+    "vi": "Thất vọng",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm III",
+        "《～する、～して》"
+      ]
+    }
+  },
+  {
+    "id": "toBeLate",
+    "kanji": "遅刻します",
+    "hiragana": "ちこくします",
+    "en": "to be late",
+    "vi": "Muộn",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm III",
+        "《遅刻します、～する、～して》"
+      ]
+    }
+  },
+  {
+    "id": "toLeaveEarly",
+    "kanji": "早退します",
+    "hiragana": "そうたいします",
+    "en": "to leave early",
+    "vi": "Về sớm",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm III",
+        "《早退します、～する、～して》"
+      ]
+    }
+  },
+  {
+    "id": "toDivorce",
+    "kanji": "離婚します",
+    "hiragana": "りこんします",
+    "en": "to divorce",
+    "vi": "Ly hôn",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm III",
+        "《離婚します、～する、～して》"
+      ]
+    }
+  },
+  {
+    "id": "bothersome",
+    "kanji": "邪魔",
+    "hiragana": "じゃま",
+    "en": "bothersome",
+    "vi": "Phiền phức",
+    "type": "adjective",
+    "explanation": {
+      "content": [
+        "Tính từ",
+        "［な］"
+      ]
+    }
+  },
+  {
+    "id": "arrangedMarriage",
+    "kanji": "お見合い",
+    "hiragana": "おみあい",
+    "en": "arranged marriage",
+    "vi": "Mai mối",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "fee",
+    "kanji": "～代",
+    "hiragana": "～だい",
+    "en": "fee",
+    "vi": "Tiền, phí ~",
+    "type": "other",
+    "explanation": {
+      "content": [
+        "Hậu tố",
+        "●でんわだい 電話代 Tiền điện thoại"
+      ]
+    }
+  },
+  {
+    "id": "frontDesk",
+    "kanji": "フロント",
+    "hiragana": "フロント",
+    "en": "front desk",
+    "vi": "Phòng lễ tân",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "roomNumber",
+    "kanji": "～号室",
+    "hiragana": "～ごうしつ",
+    "en": "room number",
+    "vi": "Phòng số ~",
+    "type": "other",
+    "explanation": {
+      "content": [
+        "Hậu tố"
+      ]
+    }
+  },
+  {
+    "id": "sweat",
+    "kanji": "汗",
+    "hiragana": "あせ",
+    "en": "sweat",
+    "vi": "Mồ hôi",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "manyPeople",
+    "kanji": "大勢",
+    "hiragana": "おおぜい",
+    "en": "many people",
+    "vi": "Nhiều người",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "toVisit",
+    "kanji": "伺います",
+    "hiragana": "うかがいます",
+    "en": "to visit",
+    "vi": "Đến (lịch sự của いきます)",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm I",
+        "《伺います、伺う、伺って》"
+      ]
+    }
+  },
+  {
+    "id": "onTheWay",
+    "kanji": "途中で",
+    "hiragana": "とちゅうで",
+    "en": "on the way",
+    "vi": "Giữa chừng",
+    "type": "adverb",
+    "explanation": {
+      "content": [
+        "Phó từ"
+      ]
+    }
+  },
+  {
+    "id": "truck",
+    "kanji": "トラック",
+    "hiragana": "トラック",
+    "en": "truck",
+    "vi": "Xe tải",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "toCollide",
+    "kanji": "ぶつかります",
+    "hiragana": "ぶつかります",
+    "en": "to collide",
+    "vi": "Đâm, va chạm",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm I",
+        "《ぶつかります、ぶつかる、ぶつかって》"
+      ]
+    }
+  },
+  {
+    "id": "toLineUp",
+    "kanji": "並びます",
+    "hiragana": "ならびます",
+    "en": "to line up",
+    "vi": "Xếp hàng",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm I",
+        "《並びます、並ぶ、並んで》"
+      ]
+    }
+  },
+  {
+    "id": "westernClothes",
+    "kanji": "洋服",
+    "hiragana": "ようふく",
+    "en": "western clothes",
+    "vi": "Âu phục",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "toWesternize",
+    "kanji": "西洋化します",
+    "hiragana": "せいようかします",
+    "en": "to westernize",
+    "vi": "Âu hóa",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm III",
+        "《します、する、して》"
+      ]
+    }
+  },
+  {
+    "id": "comingOfAgeCeremony",
+    "kanji": "成人式",
+    "hiragana": "せいじんしき",
+    "en": "coming of age ceremony",
+    "vi": "Lễ trưởng thành",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  }
+]

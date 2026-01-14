@@ -1,1 +1,107 @@
-﻿[]
+﻿[
+  {
+    "id": "conditional-form",
+    "title": "Động từ thể điều kiện（条件形）",
+    "description": "Thể điều kiện dùng để diễn đạt điều kiện \"nếu…, nếu như…\" (giống ～と、～たら). Cách chia khác nhau tùy theo loại từ: động từ nhóm I, II, III; tính từ đuôi i; tính từ đuôi na và danh từ",
+    "structure": "V ば / Aい ければ / Aな/N なら + V2",
+    "examples": [
+      {
+        "japanese": "行く → いけば",
+        "romaji": "iku → ikeba",
+        "vietnamese": "đi → nếu đi"
+      },
+      {
+        "japanese": "急ぐ → いそげば",
+        "romaji": "isogu → isogeba",
+        "vietnamese": "vội → nếu vội"
+      },
+      {
+        "japanese": "調べる → しらべれば",
+        "romaji": "shiraberu → shirabereba",
+        "vietnamese": "kiểm tra → nếu kiểm tra"
+      },
+      {
+        "japanese": "来る → くれば",
+        "romaji": "kuru → kureba",
+        "vietnamese": "đến → nếu đến"
+      },
+      {
+        "japanese": "する → すれば",
+        "romaji": "suru → sureba",
+        "vietnamese": "làm → nếu làm"
+      },
+      {
+        "japanese": "やすい → やすければ",
+        "romaji": "yasui → yasukereba",
+        "vietnamese": "rẻ → nếu rẻ"
+      },
+      {
+        "japanese": "いい → よければ",
+        "romaji": "ii → yokereba",
+        "vietnamese": "tốt → nếu tốt"
+      },
+      {
+        "japanese": "かんたんなら",
+        "romaji": "kantan nara",
+        "vietnamese": "nếu đơn giản"
+      },
+      {
+        "japanese": "がくせいなら",
+        "romaji": "gakusei nara",
+        "vietnamese": "nếu là sinh viên"
+      },
+      {
+        "japanese": "この 説明書を よめば、使い方が わかります。",
+        "romaji": "Kono setsumeisho o yomeba, tsukaikata ga wakarimasu.",
+        "vietnamese": "Nếu đọc sách hướng dẫn này sẽ hiểu được cách sử dụng."
+      },
+      {
+        "japanese": "カタログを 見なければ、値段が わかりません。",
+        "romaji": "Katarogu o minakereba, nedan ga wakarimasen.",
+        "vietnamese": "Nếu không xem cuốn catalogue thì không biết được giá."
+      },
+      {
+        "japanese": "やすければ、この 車を 買います。",
+        "romaji": "Yasukereba, kono kuruma o kaimasu.",
+        "vietnamese": "Nếu rẻ sẽ mua chiếc ô tô này."
+      },
+      {
+        "japanese": "日曜日は ひまなら、広島へ 行きます。",
+        "romaji": "Nichiyoubi wa hima nara, Hiroshima e ikimasu.",
+        "vietnamese": "Nếu chủ nhật rỗi, tôi sẽ đi Hiroshima."
+      },
+      {
+        "japanese": "雨なら、うちで テレビを 見ます。",
+        "romaji": "Ame nara, uchi de terebi o mimasu.",
+        "vietnamese": "Nếu trời mưa sẽ ở nhà xem tivi."
+      },
+      {
+        "japanese": "何か 意見が あれば、どうぞ 言ってください。",
+        "romaji": "Nani ka iken ga areba, douzo itte kudasai.",
+        "vietnamese": "Nếu có ý kiến gì, xin hãy phát biểu."
+      },
+      {
+        "japanese": "あの店の テレビが 安ければ、買いましょう。",
+        "romaji": "Ano mise no terebi ga yasukereba, kaimashou.",
+        "vietnamese": "Nếu tivi của cửa hàng kia rẻ thì mua thôi"
+      },
+      {
+        "japanese": "この洗濯機は 音が 静かなら、買いたいです。",
+        "romaji": "Kono sentakuki wa oto ga shizuka nara, kaitai desu.",
+        "vietnamese": "Nếu tiếng động của cái máy giặt này êm thì tôi muốn mua."
+      }
+    ],
+    "notes": [
+      "Cách chia thể điều kiện:",
+      "Nhóm I: Chuyển đuôi「u」 sang「e」 + -ba (động từ dạng –masu thì bỏ -masu và đổi đuôi –i thành –e + ba)",
+      "Nhóm II: bỏ 「ru」 + -reba (động từ dạng –masu thì bỏ -masu và thêm –reba)",
+      "Nhóm III: 来る → くれば, する → すれば",
+      "Tính từ đuôi i: Bỏ い thêm ければ (いい → よければ)",
+      "Tính từ đuôi na và danh từ: bỏ な thêm なら (cũng có ならば nhưng なら được dùng nhiều hơn)",
+      "Thể phủ định: Động từ chuyển từ thể -nai và chia như 1 tính từ đuôi –i; Tính từ đuôi i chuyển sang thể phủ định (～くない) và chia như 1 tính từ đuôi –i; Tính từ đuôi na+ danh từ chuyển sang thể phủ định (～ではない／～じゃない) và chia như 1 tính từ đuôi –i",
+      "Diễn đạt điều kiện (hành động, trạng thái ở vế điều kiện) để dẫn đến 1 hành động, trạng thái ở vế sau (vế kết quả)",
+      "Khác với 「～と」, vế sau của thể điều kiện loại này có thể là những mẫu câu diễn đạt ý chí, mong muốn như: 「～Ｖてください」、「Ｖましょう」、「Ｖたいです」",
+      "Với 「なら」 thì có thêm cách sử dụng: giới hạn đề tài, câu chuyện được đề cập đến (chỉ trong phạm vi nội dung được nói đến thôi)"
+    ]
+  }
+]

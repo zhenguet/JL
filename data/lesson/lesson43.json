@@ -1,1 +1,481 @@
-﻿[]
+﻿[
+  {
+    "id": "toDie",
+    "kanji": "亡くなります",
+    "hiragana": "なくなります",
+    "en": "to die",
+    "vi": "Hết, mất, chết",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm I",
+        "《亡くなります、亡くなる、亡くなって》",
+        "●「ガソリンが～」 Hết xăng"
+      ]
+    }
+  },
+  {
+    "id": "toDeposit",
+    "kanji": "預けます",
+    "hiragana": "あずけます",
+    "en": "to deposit",
+    "vi": "Giao, gửi (ai đó giữ hộ)",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm II",
+        "《預けます、預ける、預けて》"
+      ]
+    }
+  },
+  {
+    "id": "toWelcome",
+    "kanji": "迎えます",
+    "hiragana": "むかえます",
+    "en": "to welcome",
+    "vi": "Đón",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm II",
+        "《迎えます、迎える、迎えて》"
+      ]
+    }
+  },
+  {
+    "id": "strong",
+    "kanji": "丈夫",
+    "hiragana": "じょうぶ",
+    "en": "strong",
+    "vi": "Bền, chắc, mạnh mẽ",
+    "type": "adjective",
+    "explanation": {
+      "content": [
+        "Tính từ",
+        "［な］"
+      ]
+    }
+  },
+  {
+    "id": "wonderful",
+    "kanji": "素晴らしい",
+    "hiragana": "すばらしい",
+    "en": "wonderful",
+    "vi": "Tuyệt vời",
+    "type": "adjective",
+    "explanation": {
+      "content": [
+        "Tính từ",
+        "［い］"
+      ]
+    }
+  },
+  {
+    "id": "cardboard",
+    "kanji": "段ボール",
+    "hiragana": "だんボール",
+    "en": "cardboard",
+    "vi": "Hộp giấy các tông",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "coinLocker",
+    "kanji": "コインロッカー",
+    "hiragana": "コインロッカー",
+    "en": "coin locker",
+    "vi": "Tủ gửi đồ (dùng tiền xu)",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "fire",
+    "kanji": "火",
+    "hiragana": "ひ",
+    "en": "fire",
+    "vi": "Lửa",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "gasoline",
+    "kanji": "ガソリン",
+    "hiragana": "ガソリン",
+    "en": "gasoline",
+    "vi": "Xăng",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "memory",
+    "kanji": "思い出",
+    "hiragana": "おもいで",
+    "en": "memory",
+    "vi": "Kỷ niệm",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "boat",
+    "kanji": "ボート",
+    "hiragana": "ボート",
+    "en": "boat",
+    "vi": "Thuyền",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "direction",
+    "kanji": "～のほう",
+    "hiragana": "～のほう",
+    "en": "direction",
+    "vi": "Phía ~",
+    "type": "other",
+    "explanation": {
+      "content": [
+        "Hậu tố"
+      ]
+    }
+  },
+  {
+    "id": "atAnyMoment",
+    "kanji": "今にも",
+    "hiragana": "いまにも",
+    "en": "at any moment",
+    "vi": "Ngay bây giờ",
+    "type": "adverb",
+    "explanation": {
+      "content": [
+        "Phó từ"
+      ]
+    }
+  },
+  {
+    "id": "withBackdrop",
+    "kanji": "をバックにして",
+    "hiragana": "をバックにして",
+    "en": "with backdrop",
+    "vi": "Chọn cảnh có (núi Phú sĩ) ở sau",
+    "type": "other",
+    "explanation": {
+      "content": [
+        "Thành ngữ",
+        "【ふじさん】をバックにして"
+      ]
+    }
+  },
+  {
+    "id": "reallyGladICame",
+    "kanji": "きてよかったです",
+    "hiragana": "きてよかったです",
+    "en": "really glad I came",
+    "vi": "Thật hài lòng khi đến đây.",
+    "type": "other",
+    "explanation": {
+      "content": [
+        "Câu nói",
+        "本当に きて よかったです。"
+      ]
+    }
+  },
+  {
+    "id": "willBecomeGoodMemory",
+    "kanji": "いい思い出になります",
+    "hiragana": "いいおもいでになります",
+    "en": "will become good memory",
+    "vi": "Đây sẽ là một kỷ niệm tốt đẹp.",
+    "type": "other",
+    "explanation": {
+      "content": [
+        "Câu nói",
+        "いい 思い出に なります。"
+      ]
+    }
+  },
+  {
+    "id": "toIncrease",
+    "kanji": "増えます",
+    "hiragana": "ふえます",
+    "en": "to increase",
+    "vi": "Tăng",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm II",
+        "《増えます、増える、増えて》",
+        "●「ゆしゅつが～」 「輸出が～」 Xuất khẩu tăng"
+      ]
+    }
+  },
+  {
+    "id": "toDecrease",
+    "kanji": "減ります",
+    "hiragana": "へります",
+    "en": "to decrease",
+    "vi": "Giảm",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm I",
+        "《減ります、減る、減って》",
+        "●「ゆしゅつが～」 Xuất khẩu giảm"
+      ]
+    }
+  },
+  {
+    "id": "toRise",
+    "kanji": "上がります",
+    "hiragana": "あがります",
+    "en": "to rise",
+    "vi": "Tăng lên",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm I",
+        "《上がります、上がる、上がって》",
+        "●「ねだんが～」 「値段が～」 Giá cả tăng lên",
+        "●「ひもが～」 「紐が～」 Dây đứt"
+      ]
+    }
+  },
+  {
+    "id": "toComeOff",
+    "kanji": "取れます",
+    "hiragana": "とれます",
+    "en": "to come off",
+    "vi": "Tuột",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm II",
+        "《取れます、取れる、取れて》",
+        "●「ボタンが～」 Tuột cúc áo"
+      ]
+    }
+  },
+  {
+    "id": "toFall",
+    "kanji": "落ちます",
+    "hiragana": "おちます",
+    "en": "to fall",
+    "vi": "Rơi",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm II",
+        "《落ちます、落ちる、落ちて》",
+        "●「にもつが～」 「荷物が～」 Rơi hành lý"
+      ]
+    }
+  },
+  {
+    "id": "strange",
+    "kanji": "変",
+    "hiragana": "へん",
+    "en": "strange",
+    "vi": "Kỳ lạ, không bình thường",
+    "type": "adjective",
+    "explanation": {
+      "content": [
+        "Tính từ",
+        "［な］"
+      ]
+    }
+  },
+  {
+    "id": "happy",
+    "kanji": "幸せ",
+    "hiragana": "しあわせ",
+    "en": "happy",
+    "vi": "Hạnh phúc",
+    "type": "adjective",
+    "explanation": {
+      "content": [
+        "Tính từ",
+        "［な］"
+      ]
+    }
+  },
+  {
+    "id": "boring",
+    "kanji": "つまらない",
+    "hiragana": "つまらない",
+    "en": "boring",
+    "vi": "Chán (không hay)",
+    "type": "adjective",
+    "explanation": {
+      "content": [
+        "Tính từ",
+        "［い］"
+      ]
+    }
+  },
+  {
+    "id": "heating",
+    "kanji": "暖房",
+    "hiragana": "だんぼう",
+    "en": "heating",
+    "vi": "Máy sưởi, Máy điều hòa ấm",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "airConditioning",
+    "kanji": "冷房",
+    "hiragana": "れいぼう",
+    "en": "air conditioning",
+    "vi": "Máy lạnh",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "sense",
+    "kanji": "センス",
+    "hiragana": "センス",
+    "en": "sense",
+    "vi": "Năng khiếu",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "wow",
+    "kanji": "わあ",
+    "hiragana": "わあ",
+    "en": "wow",
+    "vi": "Ồ! (từ cảm thán)",
+    "type": "other",
+    "explanation": {
+      "content": [
+        "Thán từ"
+      ]
+    }
+  },
+  {
+    "id": "member",
+    "kanji": "会員",
+    "hiragana": "かいいん",
+    "en": "member",
+    "vi": "Hội viên",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "appropriate",
+    "kanji": "適当",
+    "hiragana": "てきとう",
+    "en": "appropriate",
+    "vi": "Thích hợp",
+    "type": "adjective",
+    "explanation": {
+      "content": [
+        "Tính từ",
+        "［な］"
+      ]
+    }
+  },
+  {
+    "id": "age",
+    "kanji": "年齢",
+    "hiragana": "ねんれい",
+    "en": "age",
+    "vi": "Tuổi",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "income",
+    "kanji": "収入",
+    "hiragana": "しゅうにゅう",
+    "en": "income",
+    "vi": "Thu nhập",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "moreover",
+    "kanji": "その上",
+    "hiragana": "そのうえ",
+    "en": "moreover",
+    "vi": "Hơn nữa",
+    "type": "adverb",
+    "explanation": {
+      "content": [
+        "Phó từ"
+      ]
+    }
+  },
+  {
+    "id": "rose",
+    "kanji": "ばら",
+    "hiragana": "ばら",
+    "en": "rose",
+    "vi": "Hoa hồng",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "drive",
+    "kanji": "ドライブ",
+    "hiragana": "ドライブ",
+    "en": "drive",
+    "vi": "Lái xe, lái xe đi chơi",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  }
+]

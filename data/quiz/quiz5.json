@@ -1,0 +1,2080 @@
+[
+  {
+    "id": 1,
+    "question": "<b><ruby>行<rp>（</rp><rt>い</rt><rp>）</rp></ruby>きます</b>",
+    "options": [
+      "いきます",
+      "なんがつ",
+      "ふね",
+      "ほんや"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 2
+  },
+  {
+    "id": 2,
+    "question": "<b>cửa hàng cá</b>",
+    "options": [
+      "かぞく",
+      "きょねん",
+      "さかなや",
+      "ひとりで"
+    ],
+    "correctAnswer": 2,
+    "difficulty": 1
+  },
+  {
+    "id": 3,
+    "question": "<b>～ばんせん</b>",
+    "options": [
+      "bến tàu số ～, đường tàu số ～",
+      "tuần sau, tuần tới",
+      "tàu thủy",
+      "đi"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 1
+  },
+  {
+    "id": 4,
+    "question": "<b>A：ふねは　どこですか。<p>B：（　）です。</p></b>",
+    "options": [
+      "あそこ",
+      "ここ",
+      "そこ",
+      "どこ"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 2
+  },
+  {
+    "id": 5,
+    "question": "<b>おおさかじょう</b>",
+    "options": [
+      "Thành cổ Osaka, thành cổ nổi tiếng ở Osaka",
+      "sinh nhật, ngày sinh",
+      "trường học (nói chung)",
+      "tuần này"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 1
+  },
+  {
+    "id": 6,
+    "question": "<b>きゅうこう</b>",
+    "options": [
+      "ngày～, (～ ngày)",
+      "năm ngoái, năm trước",
+      "tháng này",
+      "tốc hành, tàu tốc hành"
+    ],
+    "correctAnswer": 3,
+    "difficulty": 1
+  },
+  {
+    "id": 7,
+    "question": "<b>A：はかたは　どこですか。<p>B：（　）です。</p></b>",
+    "options": [
+      "あそこ",
+      "ここ",
+      "そこ",
+      "どこ"
+    ],
+    "correctAnswer": 2,
+    "difficulty": 2
+  },
+  {
+    "id": 8,
+    "question": "<b>tháng này</b>",
+    "options": [
+      "いきます",
+      "おおさかじょう",
+      "こんげつ",
+      "たんじょうび"
+    ],
+    "correctAnswer": 2,
+    "difficulty": 1
+  },
+  {
+    "id": 9,
+    "question": "<b>A：これは　なんですか。<p>B：（　）は　ふしみです。</p></b>",
+    "options": [
+      "あれ",
+      "これ",
+      "それ",
+      "どれ"
+    ],
+    "correctAnswer": 1,
+    "difficulty": 2
+  },
+  {
+    "id": 10,
+    "question": "<b>甲<ruby>子<rp>（</rp><rt>こ</rt><rp>）</rp></ruby>園</b>",
+    "options": [
+      "こうしえん",
+      "じてんしゃ",
+      "スーパー",
+      "～ばんせん"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 2
+  },
+  {
+    "id": 11,
+    "question": "<b>らいねん</b>",
+    "options": [
+      "anh ấy (ngôi thứ ba số ít)",
+      "máy bay",
+      "năm sau, năm tới",
+      "xe buýt"
+    ],
+    "correctAnswer": 2,
+    "difficulty": 1
+  },
+  {
+    "id": 12,
+    "question": "<b>～ばんせん</b>",
+    "options": [
+      "Thị trấn Fushimi ở Kyoto",
+      "bến tàu số ～, đường tàu số ～",
+      "tuần trước",
+      "tàu điện"
+    ],
+    "correctAnswer": 1,
+    "difficulty": 1
+  },
+  {
+    "id": 13,
+    "question": "<b>ふしみ</b>",
+    "options": [
+      "Thị trấn Fushimi ở Kyoto",
+      "bạn, bạn bè",
+      "hiệu ~, cửa hàng ~",
+      "đi bộ (chỉ phương tiện, = on foot)"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 1
+  },
+  {
+    "id": 14,
+    "question": "<b>博<ruby>多<rp>（</rp><rt>おお</rt><rp>）</rp></ruby></b>",
+    "options": [
+      "かぞく",
+      "たんじょうび",
+      "ともだち",
+      "はかた"
+    ],
+    "correctAnswer": 3,
+    "difficulty": 2
+  },
+  {
+    "id": 15,
+    "question": "<b>ひとりで（１）　あるいて（２）いきます。</b><p><b>(1)</b></p>",
+    "options": [
+      "と",
+      "Ｘ"
+    ],
+    "correctAnswer": 1,
+    "difficulty": 1
+  },
+  {
+    "id": 16,
+    "question": "<b>A：<ruby>先<ruby>月<rp>（</rp><rt>つき</rt><rp>）</rp></ruby><rp>（</rp><rt>せんげつ</rt><rp>）</rp></ruby>の２５<ruby>日<rp>（</rp><rt>にち</rt><rp>）</rp></ruby>（１）<ruby>電車<rp>（</rp><rt>でんしゃ</rt><rp>）</rp></ruby>（２）カリナさん（３）うち（４）<ruby>行<rp>（</rp><rt>い</rt><rp>）</rp></ruby>きました。<p>B：<ruby>一<ruby>人<rp>（</rp><rt>ひと</rt><rp>）</rp></ruby><rp>（</rp><rt>ひとり</rt><rp>）</rp></ruby>で（５）<ruby>行<rp>（</rp><rt>い</rt><rp>）</rp></ruby>きましたか。</p><p>A：いいえ、<ruby>友達<rp>（</rp><rt>ともだち</rt><rp>）</rp></ruby>（６）<ruby>行<rp>（</rp><rt>い</rt><rp>）</rp></ruby>きました。</p></b><p><b>(6)</b></p>",
+    "options": [
+      "と",
+      "を"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 4
+  },
+  {
+    "id": 17,
+    "question": "<b>ふしみ</b>",
+    "options": [
+      "Thị trấn Fushimi ở Kyoto",
+      "Thị trấn Koshien gần Osaka",
+      "khi nào, lúc nào",
+      "tuần sau, tuần tới"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 1
+  },
+  {
+    "id": 18,
+    "question": "<b>A：こうしえんは　どちらですか。<p>B：（　）です。</p></b>",
+    "options": [
+      "あちら",
+      "こちら",
+      "そちら",
+      "どちら"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 2
+  },
+  {
+    "id": 19,
+    "question": "<b>A：ふねは　どちらですか。<p>B：（　）です。</p></b>",
+    "options": [
+      "あちら",
+      "こちら",
+      "そちら",
+      "どちら"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 2
+  },
+  {
+    "id": 20,
+    "question": "<b>A：えきは　どちらですか。<p>B：（　）です。</p></b>",
+    "options": [
+      "あちら",
+      "こちら",
+      "そちら",
+      "どちら"
+    ],
+    "correctAnswer": 1,
+    "difficulty": 2
+  },
+  {
+    "id": 21,
+    "question": "<b>A：<ruby>先<ruby>月<rp>（</rp><rt>つき</rt><rp>）</rp></ruby><rp>（</rp><rt>せんげつ</rt><rp>）</rp></ruby>の２５<ruby>日<rp>（</rp><rt>にち</rt><rp>）</rp></ruby>（１）<ruby>電車<rp>（</rp><rt>でんしゃ</rt><rp>）</rp></ruby>（２）カリナさん（３）うち（４）<ruby>行<rp>（</rp><rt>い</rt><rp>）</rp></ruby>きました。<p>B：<ruby>一<ruby>人<rp>（</rp><rt>ひと</rt><rp>）</rp></ruby><rp>（</rp><rt>ひとり</rt><rp>）</rp></ruby>で（５）<ruby>行<rp>（</rp><rt>い</rt><rp>）</rp></ruby>きましたか。</p><p>A：いいえ、<ruby>友達<rp>（</rp><rt>ともだち</rt><rp>）</rp></ruby>（６）<ruby>行<rp>（</rp><rt>い</rt><rp>）</rp></ruby>きました。</p></b><p><b>(3)</b></p>",
+    "options": [
+      "×",
+      "の"
+    ],
+    "correctAnswer": 1,
+    "difficulty": 4
+  },
+  {
+    "id": 22,
+    "question": "<b>こんげつ</b>",
+    "options": [
+      "gia đình",
+      "tháng này",
+      "đi",
+      "đến"
+    ],
+    "correctAnswer": 1,
+    "difficulty": 1
+  },
+  {
+    "id": 23,
+    "question": "<b>きゅうこう</b>",
+    "options": [
+      "anh ấy (ngôi thứ ba số ít)",
+      "tốc hành, tàu tốc hành",
+      "xe đạp",
+      "đi bộ (chỉ phương tiện, = on foot)"
+    ],
+    "correctAnswer": 1,
+    "difficulty": 1
+  },
+  {
+    "id": 24,
+    "question": "<b>A：いつ（１）にほんへ　いきましたか。<p>B：６がつ　２８にち（２）きました。</p></b><p><b>(1)</b></p>",
+    "options": [
+      "に",
+      "Ｘ"
+    ],
+    "correctAnswer": 1,
+    "difficulty": 2
+  },
+  {
+    "id": 25,
+    "question": "<b><ruby>来<rp>（</rp><rt>き</rt><rp>）</rp></ruby><ruby>月<rp>（</rp><rt>つき</rt><rp>）</rp></ruby></b>",
+    "options": [
+      "えき",
+      "ひこうき",
+      "らいげつ",
+      "らいねん"
+    ],
+    "correctAnswer": 2,
+    "difficulty": 2
+  },
+  {
+    "id": 26,
+    "question": "<b>A：これは　なんですか。<p>B：（　）は　ともだちです。</p></b>",
+    "options": [
+      "あれ",
+      "これ",
+      "それ",
+      "どれ"
+    ],
+    "correctAnswer": 1,
+    "difficulty": 2
+  },
+  {
+    "id": 27,
+    "question": "<b>きょうと（１）しんかんせん（２）いきます。</b><p><b>(1)</b></p>",
+    "options": [
+      "で",
+      "へ"
+    ],
+    "correctAnswer": 1,
+    "difficulty": 1
+  },
+  {
+    "id": 28,
+    "question": "<b>A：これは　なんですか。<p>B：（　）は　こんげつです。</p></b>",
+    "options": [
+      "あれ",
+      "これ",
+      "それ",
+      "どれ"
+    ],
+    "correctAnswer": 1,
+    "difficulty": 2
+  },
+  {
+    "id": 29,
+    "question": "<b><ruby>普<rp>（</rp><rt>ふ</rt><rp>）</rp></ruby><ruby>通<rp>（</rp><rt>つう</rt><rp>）</rp></ruby></b>",
+    "options": [
+      "かのじょ",
+      "でんしゃ",
+      "ふつう",
+      "ふね"
+    ],
+    "correctAnswer": 2,
+    "difficulty": 2
+  },
+  {
+    "id": 30,
+    "question": "<b>らいしゅう</b>",
+    "options": [
+      "Thành cổ Osaka, thành cổ nổi tiếng ở Osaka",
+      "tháng này",
+      "trường học (nói chung)",
+      "tuần sau, tuần tới"
+    ],
+    "correctAnswer": 3,
+    "difficulty": 1
+  },
+  {
+    "id": 31,
+    "question": "<b>A：ひこうきは　どちらですか。<p>B：（　）です。</p></b>",
+    "options": [
+      "あちら",
+      "こちら",
+      "そちら",
+      "どちら"
+    ],
+    "correctAnswer": 1,
+    "difficulty": 2
+  },
+  {
+    "id": 32,
+    "question": "<b>えき</b>",
+    "options": [
+      "cao tốc, tàu cao tốc",
+      "ga",
+      "ngày～, (～ ngày)",
+      "tháng trước"
+    ],
+    "correctAnswer": 1,
+    "difficulty": 1
+  },
+  {
+    "id": 33,
+    "question": "<b>かれ</b>",
+    "options": [
+      "Anh ấy, bạn trai",
+      "Bạn",
+      "Bọn chúng",
+      "Cô ấy, bạn gái"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 1
+  },
+  {
+    "id": 34,
+    "question": "<b>～にち</b>",
+    "options": [
+      "Thị trấn Hakata ở Kyushu",
+      "ngày～, (～ ngày)",
+      "người yêu",
+      "tốc hành, tàu tốc hành"
+    ],
+    "correctAnswer": 1,
+    "difficulty": 1
+  },
+  {
+    "id": 35,
+    "question": "<b>かぞく</b>",
+    "options": [
+      "Anh em trai",
+      "Chị em gái",
+      "Gia đình",
+      "Họ hàng"
+    ],
+    "correctAnswer": 2,
+    "difficulty": 1
+  },
+  {
+    "id": 36,
+    "question": "<b><ruby>新<rp>（</rp><rt>しん</rt><rp>）</rp></ruby><ruby>幹<rp>（</rp><rt>かん</rt><rp>）</rp></ruby><ruby>線<rp>（</rp><rt>せん</rt><rp>）</rp></ruby></b>",
+    "options": [
+      "しかせん",
+      "しかんせん",
+      "しんかせん",
+      "しんかんせん"
+    ],
+    "correctAnswer": 3,
+    "difficulty": 2
+  },
+  {
+    "id": 37,
+    "question": "<b>A：かれは　どこですか。<p>B：（　）です。</p></b>",
+    "options": [
+      "あそこ",
+      "ここ",
+      "そこ",
+      "どこ"
+    ],
+    "correctAnswer": 1,
+    "difficulty": 2
+  },
+  {
+    "id": 38,
+    "question": "<b>A：<ruby>先<ruby>月<rp>（</rp><rt>つき</rt><rp>）</rp></ruby><rp>（</rp><rt>せんげつ</rt><rp>）</rp></ruby>の２５<ruby>日<rp>（</rp><rt>にち</rt><rp>）</rp></ruby>（１）<ruby>電車<rp>（</rp><rt>でんしゃ</rt><rp>）</rp></ruby>（２）カリナさん（３）うち（４）<ruby>行<rp>（</rp><rt>い</rt><rp>）</rp></ruby>きました。<p>B：<ruby>一<ruby>人<rp>（</rp><rt>ひと</rt><rp>）</rp></ruby><rp>（</rp><rt>ひとり</rt><rp>）</rp></ruby>で（５）<ruby>行<rp>（</rp><rt>い</rt><rp>）</rp></ruby>きましたか。</p><p>A：いいえ、<ruby>友達<rp>（</rp><rt>ともだち</rt><rp>）</rp></ruby>（６）<ruby>行<rp>（</rp><rt>い</rt><rp>）</rp></ruby>きました。</p></b><p><b>(4)</b></p>",
+    "options": [
+      "に",
+      "へ"
+    ],
+    "correctAnswer": 1,
+    "difficulty": 4
+  },
+  {
+    "id": 39,
+    "question": "<b>ひこうき</b>",
+    "options": [
+      "máy bay",
+      "tháng～",
+      "tàu điện",
+      "xe đạp"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 1
+  },
+  {
+    "id": 40,
+    "question": "<b>đến</b>",
+    "options": [
+      "あるいて",
+      "きます",
+      "なんがつ",
+      "らいしゅう"
+    ],
+    "correctAnswer": 1,
+    "difficulty": 1
+  },
+  {
+    "id": 41,
+    "question": "<b>A：いつ（１）<ruby>日<ruby>本<rp>（</rp><rt>ほん</rt><rp>）</rp></ruby><rp>（</rp><rt>にほん</rt><rp>）</rp></ruby>（２）<ruby>来<rp>（</rp><rt>き</rt><rp>）</rp></ruby>ましたか。<p>B：３<ruby>月<rp>（</rp><rt>がつ</rt><rp>）</rp></ruby>２５<ruby>日<rp>（</rp><rt>にち</rt><rp>）</rp></ruby>（３）<ruby>来<rp>（</rp><rt>き</rt><rp>）</rp></ruby>ました。</p></b><p><b>(3)</b></p>",
+    "options": [
+      "に",
+      "へ"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 3
+  },
+  {
+    "id": 42,
+    "question": "<b>đi</b>",
+    "options": [
+      "あるいて",
+      "いきます",
+      "ふね",
+      "らいしゅう"
+    ],
+    "correctAnswer": 1,
+    "difficulty": 1
+  },
+  {
+    "id": 43,
+    "question": "<b><ruby>大阪城<rp>（</rp><rt>おおさかじょう</rt><rp>）</rp></ruby></b>",
+    "options": [
+      "おおさかじょう",
+      "きゅうこう",
+      "つぎのえき",
+      "～にち"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 2
+  },
+  {
+    "id": 44,
+    "question": "<b>Ga, nhà ga</b>",
+    "options": [
+      "えいき",
+      "えいきい",
+      "えき",
+      "えきいん"
+    ],
+    "correctAnswer": 2,
+    "difficulty": 1
+  },
+  {
+    "id": 45,
+    "question": "<b>năm～</b>",
+    "options": [
+      "さかなや",
+      "じてんしゃ",
+      "なんがつ",
+      "～ねん"
+    ],
+    "correctAnswer": 3,
+    "difficulty": 1
+  },
+  {
+    "id": 46,
+    "question": "<b>さかなや</b>",
+    "options": [
+      "cửa hàng cá",
+      "hiệu sách",
+      "năm sau, năm tới",
+      "taxi"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 1
+  },
+  {
+    "id": 47,
+    "question": "<b>じてんしゃ</b>",
+    "options": [
+      "白伝車",
+      "白転車",
+      "自伝車",
+      "自転車"
+    ],
+    "correctAnswer": 3,
+    "difficulty": 1
+  },
+  {
+    "id": 48,
+    "question": "<b>đi bộ (chỉ phương tiện, = on foot)</b>",
+    "options": [
+      "あるいて",
+      "つぎのえき",
+      "なんにち",
+      "バス"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 1
+  },
+  {
+    "id": 49,
+    "question": "<b>ことし</b>",
+    "options": [
+      "nhà máy",
+      "năm nay",
+      "tháng mấy",
+      "đến"
+    ],
+    "correctAnswer": 1,
+    "difficulty": 1
+  },
+  {
+    "id": 50,
+    "question": "<b><ruby>帰<rp>（</rp><rt>かえ</rt><rp>）</rp></ruby>ります</b>",
+    "options": [
+      "かえります",
+      "がえります",
+      "もどうります",
+      "もどります"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 2
+  },
+  {
+    "id": 51,
+    "question": "<b>A：（　）アメリカへ<ruby>行<rp>（</rp><rt>い</rt><rp>）</rp></ruby>きますか。<p>B：<ruby>来<ruby>月<rp>（</rp><rt>つき</rt><rp>）</rp></ruby><rp>（</rp><rt>らいげつ</rt><rp>）</rp></ruby><ruby>行<rp>（</rp><rt>い</rt><rp>）</rp></ruby>きます。</p></b>",
+    "options": [
+      "いくつ",
+      "いつ"
+    ],
+    "correctAnswer": 1,
+    "difficulty": 3
+  },
+  {
+    "id": 52,
+    "question": "<b>いきます</b>",
+    "options": [
+      "nhà máy",
+      "tháng sau, tháng tới",
+      "thông thường, tàu thường",
+      "đi"
+    ],
+    "correctAnswer": 3,
+    "difficulty": 1
+  },
+  {
+    "id": 53,
+    "question": "<b>～<ruby>屋<rp>（</rp><rt>や</rt><rp>）</rp></ruby></b>",
+    "options": [
+      "ともだち",
+      "なんがつ",
+      "～ねん",
+      "～や"
+    ],
+    "correctAnswer": 3,
+    "difficulty": 2
+  },
+  {
+    "id": 54,
+    "question": "<b>A：（　）くにへ　かえりますか。<p>B：らいげつ　かえります。</p></b>",
+    "options": [
+      "いつ",
+      "だれと"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 2
+  },
+  {
+    "id": 55,
+    "question": "<b>A：<ruby>先<ruby>月<rp>（</rp><rt>つき</rt><rp>）</rp></ruby><rp>（</rp><rt>せんげつ</rt><rp>）</rp></ruby>の２５<ruby>日<rp>（</rp><rt>にち</rt><rp>）</rp></ruby>（１）<ruby>電車<rp>（</rp><rt>でんしゃ</rt><rp>）</rp></ruby>（２）カリナさん（３）うち（４）<ruby>行<rp>（</rp><rt>い</rt><rp>）</rp></ruby>きました。<p>B：<ruby>一<ruby>人<rp>（</rp><rt>ひと</rt><rp>）</rp></ruby><rp>（</rp><rt>ひとり</rt><rp>）</rp></ruby>で（５）<ruby>行<rp>（</rp><rt>い</rt><rp>）</rp></ruby>きましたか。</p><p>A：いいえ、<ruby>友達<rp>（</rp><rt>ともだち</rt><rp>）</rp></ruby>（６）<ruby>行<rp>（</rp><rt>い</rt><rp>）</rp></ruby>きました。</p></b><p><b>(5)</b></p>",
+    "options": [
+      "×",
+      "は"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 4
+  },
+  {
+    "id": 56,
+    "question": "<b>せんげつ</b>",
+    "options": [
+      "bạn, bạn bè",
+      "taxi",
+      "tháng trước",
+      "tàu điện ngầm"
+    ],
+    "correctAnswer": 2,
+    "difficulty": 1
+  },
+  {
+    "id": 57,
+    "question": "<b><ruby>普<rp>（</rp><rt>ふ</rt><rp>）</rp></ruby><ruby>通<rp>（</rp><rt>つう</rt><rp>）</rp></ruby></b>",
+    "options": [
+      "ふうつ",
+      "ふうつう",
+      "ふつ",
+      "ふつう"
+    ],
+    "correctAnswer": 3,
+    "difficulty": 2
+  },
+  {
+    "id": 58,
+    "question": "<b>なんねん</b>",
+    "options": [
+      "Thị trấn Fushimi ở Kyoto",
+      "năm bao nhiêu? (bao nhiêu năm?)",
+      "tháng～",
+      "tàu Shinkansen"
+    ],
+    "correctAnswer": 1,
+    "difficulty": 1
+  },
+  {
+    "id": 59,
+    "question": "<b>バス</b>",
+    "options": [
+      "ngày～, (～ ngày)",
+      "năm ngoái, năm trước",
+      "tháng sau, tháng tới",
+      "xe buýt"
+    ],
+    "correctAnswer": 3,
+    "difficulty": 1
+  },
+  {
+    "id": 60,
+    "question": "<b>A：でんしゃは　どこですか。<p>B：（　）です。</p></b>",
+    "options": [
+      "あそこ",
+      "ここ",
+      "そこ",
+      "どこ"
+    ],
+    "correctAnswer": 1,
+    "difficulty": 2
+  },
+  {
+    "id": 61,
+    "question": "<b>tuần trước</b>",
+    "options": [
+      "いつ",
+      "きゅうこう",
+      "せんしゅう",
+      "～がつ"
+    ],
+    "correctAnswer": 2,
+    "difficulty": 1
+  },
+  {
+    "id": 62,
+    "question": "<b><ruby>電車<rp>（</rp><rt>でんしゃ</rt><rp>）</rp></ruby></b>",
+    "options": [
+      "こうじょう",
+      "でんしゃ",
+      "なんがつ",
+      "ふしみ"
+    ],
+    "correctAnswer": 1,
+    "difficulty": 2
+  },
+  {
+    "id": 63,
+    "question": "<b>ことし</b>",
+    "options": [
+      "Thị trấn Koshien gần Osaka",
+      "người",
+      "năm nay",
+      "tháng sau, tháng tới"
+    ],
+    "correctAnswer": 2,
+    "difficulty": 1
+  },
+  {
+    "id": 64,
+    "question": "<b>がっこう</b>",
+    "options": [
+      "Thành cổ Osaka, thành cổ nổi tiếng ở Osaka",
+      "khi nào, lúc nào",
+      "tháng mấy",
+      "trường học (nói chung)"
+    ],
+    "correctAnswer": 3,
+    "difficulty": 1
+  },
+  {
+    "id": 65,
+    "question": "<b>ひと</b>",
+    "options": [
+      "Cây cối",
+      "Người",
+      "Đồ vật",
+      "Động vật"
+    ],
+    "correctAnswer": 1,
+    "difficulty": 1
+  },
+  {
+    "id": 66,
+    "question": "<b>hiệu sách</b>",
+    "options": [
+      "きます",
+      "とっきゅう",
+      "なんねん",
+      "ほんや"
+    ],
+    "correctAnswer": 3,
+    "difficulty": 1
+  },
+  {
+    "id": 67,
+    "question": "<b>がっこう</b>",
+    "options": [
+      "大学",
+      "字校",
+      "学交",
+      "学校"
+    ],
+    "correctAnswer": 3,
+    "difficulty": 1
+  },
+  {
+    "id": 68,
+    "question": "<b>ふね</b>",
+    "options": [
+      "舩",
+      "般",
+      "舴",
+      "船"
+    ],
+    "correctAnswer": 3,
+    "difficulty": 1
+  },
+  {
+    "id": 69,
+    "question": "<b>じてんしゃ</b>",
+    "options": [
+      "máy bay",
+      "siêu thị",
+      "thông thường, tàu thường",
+      "xe đạp"
+    ],
+    "correctAnswer": 3,
+    "difficulty": 1
+  },
+  {
+    "id": 70,
+    "question": "<b>あるいて</b>",
+    "options": [
+      "書いて",
+      "歩いて",
+      "聞いて",
+      "買いて"
+    ],
+    "correctAnswer": 2,
+    "difficulty": 1
+  },
+  {
+    "id": 71,
+    "question": "<b>tháng mấy</b>",
+    "options": [
+      "なんがつ",
+      "ふしみ",
+      "タクシー",
+      "～ばんせん"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 1
+  },
+  {
+    "id": 72,
+    "question": "<b>こんげつ</b>",
+    "options": [
+      "khi nào, lúc nào",
+      "sinh nhật, ngày sinh",
+      "tháng này",
+      "thông thường, tàu thường"
+    ],
+    "correctAnswer": 2,
+    "difficulty": 1
+  },
+  {
+    "id": 73,
+    "question": "<b>びょういん</b>",
+    "options": [
+      "bệnh viện",
+      "năm nay",
+      "tuần sau, tuần tới",
+      "xe đạp"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 1
+  },
+  {
+    "id": 74,
+    "question": "<b>A：これは　なんですか。<p>B：（　）は　でんしゃです。</p></b>",
+    "options": [
+      "あれ",
+      "これ",
+      "それ",
+      "どれ"
+    ],
+    "correctAnswer": 1,
+    "difficulty": 2
+  },
+  {
+    "id": 75,
+    "question": "<b>せんげつ</b>",
+    "options": [
+      "ngày bao nhiêu? (bao nhiêu ngày?)",
+      "tháng trước",
+      "tuần này",
+      "về, trở về (về nhà, về quê, về nước…)"
+    ],
+    "correctAnswer": 1,
+    "difficulty": 1
+  },
+  {
+    "id": 76,
+    "question": "<b>A：おおさかじょうは　どちらですか。<p>B：（　）です。</p></b>",
+    "options": [
+      "あちら",
+      "こちら",
+      "そちら",
+      "どちら"
+    ],
+    "correctAnswer": 1,
+    "difficulty": 2
+  },
+  {
+    "id": 77,
+    "question": "<b>A：<ruby>先<ruby>月<rp>（</rp><rt>つき</rt><rp>）</rp></ruby><rp>（</rp><rt>せんげつ</rt><rp>）</rp></ruby>の２５<ruby>日<rp>（</rp><rt>にち</rt><rp>）</rp></ruby>（１）<ruby>電車<rp>（</rp><rt>でんしゃ</rt><rp>）</rp></ruby>（２）カリナさん（３）うち（４）<ruby>行<rp>（</rp><rt>い</rt><rp>）</rp></ruby>きました。<p>B：<ruby>一<ruby>人<rp>（</rp><rt>ひと</rt><rp>）</rp></ruby><rp>（</rp><rt>ひとり</rt><rp>）</rp></ruby>で（５）<ruby>行<rp>（</rp><rt>い</rt><rp>）</rp></ruby>きましたか。</p><p>A：いいえ、<ruby>友達<rp>（</rp><rt>ともだち</rt><rp>）</rp></ruby>（６）<ruby>行<rp>（</rp><rt>い</rt><rp>）</rp></ruby>きました。</p></b><p><b>(2)</b></p>",
+    "options": [
+      "で",
+      "に"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 4
+  },
+  {
+    "id": 78,
+    "question": "<b>tuần này</b>",
+    "options": [
+      "こんしゅう",
+      "でんしゃ",
+      "～がつ",
+      "～ばんせん"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 1
+  },
+  {
+    "id": 79,
+    "question": "<b>A：きのう　どこへ　いきましたか。<p>B：どこも（　）。</p></b>",
+    "options": [
+      "いきました",
+      "いきませんでした"
+    ],
+    "correctAnswer": 1,
+    "difficulty": 2
+  },
+  {
+    "id": 80,
+    "question": "<b>tuần này</b>",
+    "options": [
+      "こいびと",
+      "ことし",
+      "こんしゅう",
+      "はかた"
+    ],
+    "correctAnswer": 2,
+    "difficulty": 1
+  },
+  {
+    "id": 81,
+    "question": "<b>tháng sau, tháng tới</b>",
+    "options": [
+      "せんしゅう",
+      "なんがつ",
+      "らいげつ",
+      "らいねん"
+    ],
+    "correctAnswer": 2,
+    "difficulty": 1
+  },
+  {
+    "id": 82,
+    "question": "<b>～や</b>",
+    "options": [
+      "anh ấy (ngôi thứ ba số ít)",
+      "cô ấy (ngôi thứ ba số ít)",
+      "hiệu ~, cửa hàng ~",
+      "～tiếp theo"
+    ],
+    "correctAnswer": 2,
+    "difficulty": 1
+  },
+  {
+    "id": 83,
+    "question": "<b>xe buýt</b>",
+    "options": [
+      "こんげつ",
+      "でんしゃ",
+      "スーパー",
+      "バス"
+    ],
+    "correctAnswer": 3,
+    "difficulty": 1
+  },
+  {
+    "id": 84,
+    "question": "<b>ふつう</b>",
+    "options": [
+      "ngày bao nhiêu? (bao nhiêu ngày?)",
+      "nhà máy",
+      "năm nay",
+      "thông thường, tàu thường"
+    ],
+    "correctAnswer": 3,
+    "difficulty": 1
+  },
+  {
+    "id": 85,
+    "question": "<b>A：いつ（１）<ruby>日<ruby>本<rp>（</rp><rt>ほん</rt><rp>）</rp></ruby><rp>（</rp><rt>にほん</rt><rp>）</rp></ruby>（２）<ruby>来<rp>（</rp><rt>き</rt><rp>）</rp></ruby>ましたか。<p>B：３<ruby>月<rp>（</rp><rt>がつ</rt><rp>）</rp></ruby>２５<ruby>日<rp>（</rp><rt>にち</rt><rp>）</rp></ruby>（３）<ruby>来<rp>（</rp><rt>き</rt><rp>）</rp></ruby>ました。</p></b><p><b>(1)</b></p>",
+    "options": [
+      "×",
+      "に"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 3
+  },
+  {
+    "id": 86,
+    "question": "<b>でんしゃ</b>",
+    "options": [
+      "Máy bay",
+      "Tàu điện",
+      "Tàu điện ngầm",
+      "Điện thoại"
+    ],
+    "correctAnswer": 1,
+    "difficulty": 1
+  },
+  {
+    "id": 87,
+    "question": "<b>Bạn bè</b>",
+    "options": [
+      "ともたち",
+      "ともだち",
+      "どもたち",
+      "どもだち"
+    ],
+    "correctAnswer": 1,
+    "difficulty": 1
+  },
+  {
+    "id": 88,
+    "question": "<b>バス</b>",
+    "options": [
+      "bến tàu số ～, đường tàu số ～",
+      "năm sau, năm tới",
+      "tháng này",
+      "xe buýt"
+    ],
+    "correctAnswer": 3,
+    "difficulty": 1
+  },
+  {
+    "id": 89,
+    "question": "<b>A：ほんやは　どちらですか。<p>B：（　）です。</p></b>",
+    "options": [
+      "あちら",
+      "こちら",
+      "そちら",
+      "どちら"
+    ],
+    "correctAnswer": 1,
+    "difficulty": 2
+  },
+  {
+    "id": 90,
+    "question": "<b>A：これは　なんですか。<p>B：（　）は　かれです。</p></b>",
+    "options": [
+      "あれ",
+      "これ",
+      "それ",
+      "どれ"
+    ],
+    "correctAnswer": 1,
+    "difficulty": 2
+  },
+  {
+    "id": 91,
+    "question": "<b>ga</b>",
+    "options": [
+      "えき",
+      "きゅうこう",
+      "こいびと",
+      "らいしゅう"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 1
+  },
+  {
+    "id": 92,
+    "question": "<b>A：こんしゅうは　どちらですか。<p>B：（　）です。</p></b>",
+    "options": [
+      "あちら",
+      "こちら",
+      "そちら",
+      "どちら"
+    ],
+    "correctAnswer": 2,
+    "difficulty": 2
+  },
+  {
+    "id": 93,
+    "question": "<b>A：ひとは　どちらですか。<p>B：（　）です。</p></b>",
+    "options": [
+      "あちら",
+      "こちら",
+      "そちら",
+      "どちら"
+    ],
+    "correctAnswer": 2,
+    "difficulty": 2
+  },
+  {
+    "id": 94,
+    "question": "<b>かぞく</b>",
+    "options": [
+      "Thị trấn Koshien gần Osaka",
+      "gia đình",
+      "hiệu sách",
+      "tốc hành, tàu tốc hành"
+    ],
+    "correctAnswer": 1,
+    "difficulty": 1
+  },
+  {
+    "id": 95,
+    "question": "<b>地下鉄</b>",
+    "options": [
+      "ちかつ",
+      "ちかつう",
+      "ちかてっつ",
+      "ちかてつ"
+    ],
+    "correctAnswer": 3,
+    "difficulty": 2
+  },
+  {
+    "id": 96,
+    "question": "<b>tháng sau, tháng tới</b>",
+    "options": [
+      "いきます",
+      "かれ",
+      "らいげつ",
+      "～にち"
+    ],
+    "correctAnswer": 2,
+    "difficulty": 1
+  },
+  {
+    "id": 97,
+    "question": "<b>A：びょういんは　どこですか。<p>B：（　）です。</p></b>",
+    "options": [
+      "あそこ",
+      "ここ",
+      "そこ",
+      "どこ"
+    ],
+    "correctAnswer": 2,
+    "difficulty": 2
+  },
+  {
+    "id": 98,
+    "question": "<b>A：スーパーは　どちらですか。<p>B：（　）です。</p></b>",
+    "options": [
+      "あちら",
+      "こちら",
+      "そちら",
+      "どちら"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 2
+  },
+  {
+    "id": 99,
+    "question": "<b>A：<ruby>誕<ruby>生<rp>（</rp><rt>う</rt><rp>）</rp></ruby>日<rp>（</rp><rt>たんじょうび</rt><rp>）</rp></ruby>は（１）（２）ですか。<p>B：９<ruby>月<rp>（</rp><rt>がつ</rt><rp>）</rp></ruby>１５<ruby>日<rp>（</rp><rt>にち</rt><rp>）</rp></ruby>です。</p></b><p><b>(1)</b></p>",
+    "options": [
+      "何日",
+      "何月"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 3
+  },
+  {
+    "id": 100,
+    "question": "<b>つぎの～</b>",
+    "options": [
+      "tháng này",
+      "trường học (nói chung)",
+      "đi bộ (chỉ phương tiện, = on foot)",
+      "～tiếp theo"
+    ],
+    "correctAnswer": 3,
+    "difficulty": 1
+  },
+  {
+    "id": 101,
+    "question": "<b>きます</b>",
+    "options": [
+      "năm～",
+      "tháng trước",
+      "về, trở về (về nhà, về quê, về nước…)",
+      "đến"
+    ],
+    "correctAnswer": 3,
+    "difficulty": 1
+  },
+  {
+    "id": 102,
+    "question": "<b>こうじょう</b>",
+    "options": [
+      "bến tàu số ～, đường tàu số ～",
+      "hiệu sách",
+      "nhà máy",
+      "tháng mấy"
+    ],
+    "correctAnswer": 2,
+    "difficulty": 1
+  },
+  {
+    "id": 103,
+    "question": "<b>năm sau, năm tới</b>",
+    "options": [
+      "こうじょう",
+      "せんげつ",
+      "はかた",
+      "らいねん"
+    ],
+    "correctAnswer": 3,
+    "difficulty": 1
+  },
+  {
+    "id": 104,
+    "question": "<b>ひとりで（１）　あるいて（２）いきます。</b><p><b>(2)</b></p>",
+    "options": [
+      "で",
+      "Ｘ"
+    ],
+    "correctAnswer": 1,
+    "difficulty": 1
+  },
+  {
+    "id": 105,
+    "question": "<b>らいしゅう</b>",
+    "options": [
+      "khi nào, lúc nào",
+      "ngày bao nhiêu? (bao nhiêu ngày?)",
+      "tuần sau, tuần tới",
+      "xe buýt"
+    ],
+    "correctAnswer": 2,
+    "difficulty": 1
+  },
+  {
+    "id": 106,
+    "question": "<b>えき</b>",
+    "options": [
+      "ga",
+      "taxi",
+      "tuần này",
+      "đến"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 1
+  },
+  {
+    "id": 107,
+    "question": "<b>きょねん</b>",
+    "options": [
+      "bạn, bạn bè",
+      "người yêu",
+      "nhà máy",
+      "năm ngoái, năm trước"
+    ],
+    "correctAnswer": 3,
+    "difficulty": 1
+  },
+  {
+    "id": 108,
+    "question": "<b>こんしゅう</b>",
+    "options": [
+      "gia đình",
+      "tháng～",
+      "tuần này",
+      "tuần sau, tuần tới"
+    ],
+    "correctAnswer": 2,
+    "difficulty": 1
+  },
+  {
+    "id": 109,
+    "question": "<b>地下鉄</b>",
+    "options": [
+      "かれ",
+      "がっこう",
+      "ちかてつ",
+      "つぎの～"
+    ],
+    "correctAnswer": 2,
+    "difficulty": 2
+  },
+  {
+    "id": 110,
+    "question": "<b><ruby>来<rp>（</rp><rt>き</rt><rp>）</rp></ruby><ruby>月<rp>（</rp><rt>つき</rt><rp>）</rp></ruby></b>",
+    "options": [
+      "こいびと",
+      "こうしえん",
+      "ひと",
+      "らいげつ"
+    ],
+    "correctAnswer": 3,
+    "difficulty": 2
+  },
+  {
+    "id": 111,
+    "question": "<b>A：（　）で<ruby>行<rp>（</rp><rt>い</rt><rp>）</rp></ruby>きますか。<p>B：<ruby>電車<rp>（</rp><rt>でんしゃ</rt><rp>）</rp></ruby>で<ruby>行<rp>（</rp><rt>い</rt><rp>）</rp></ruby>きます。</p></b>",
+    "options": [
+      "どこ",
+      "何"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 3
+  },
+  {
+    "id": 112,
+    "question": "<b>びょういん</b>",
+    "options": [
+      "bạn, bạn bè",
+      "bệnh viện",
+      "cô ấy (ngôi thứ ba số ít)",
+      "nhà máy"
+    ],
+    "correctAnswer": 1,
+    "difficulty": 1
+  },
+  {
+    "id": 113,
+    "question": "<b>Xe đạp</b>",
+    "options": [
+      "してんしゃ",
+      "しでんしゃ",
+      "じてんしゃ",
+      "じでんしゃ"
+    ],
+    "correctAnswer": 2,
+    "difficulty": 1
+  },
+  {
+    "id": 114,
+    "question": "<b>タクシー</b>",
+    "options": [
+      "ngày～, (～ ngày)",
+      "năm bao nhiêu? (bao nhiêu năm?)",
+      "taxi",
+      "đi"
+    ],
+    "correctAnswer": 2,
+    "difficulty": 1
+  },
+  {
+    "id": 115,
+    "question": "<b>A：でんしゃは　どちらですか。<p>B：（　）です。</p></b>",
+    "options": [
+      "あちら",
+      "こちら",
+      "そちら",
+      "どちら"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 2
+  },
+  {
+    "id": 116,
+    "question": "<b>máy bay</b>",
+    "options": [
+      "あるいて",
+      "なんがつ",
+      "ひこうき",
+      "ふしみ"
+    ],
+    "correctAnswer": 2,
+    "difficulty": 1
+  },
+  {
+    "id": 117,
+    "question": "<b>きょうと（１）しんかんせん（２）いきます。</b><p><b>(2)</b></p>",
+    "options": [
+      "で",
+      "へ"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 1
+  },
+  {
+    "id": 118,
+    "question": "<b>～<ruby>屋<rp>（</rp><rt>や</rt><rp>）</rp></ruby></b>",
+    "options": [
+      "きます",
+      "ふね",
+      "ほんや",
+      "～や"
+    ],
+    "correctAnswer": 3,
+    "difficulty": 2
+  },
+  {
+    "id": 119,
+    "question": "<b>～<ruby>日<rp>（</rp><rt>ひ</rt><rp>）</rp></ruby></b>",
+    "options": [
+      "いつ",
+      "ちかてつ",
+      "らいしゅう",
+      "～にち"
+    ],
+    "correctAnswer": 3,
+    "difficulty": 2
+  },
+  {
+    "id": 120,
+    "question": "<b>A：これは　なんですか。<p>B：（　）は　とっきゅうです。</p></b>",
+    "options": [
+      "あれ",
+      "これ",
+      "それ",
+      "どれ"
+    ],
+    "correctAnswer": 1,
+    "difficulty": 2
+  },
+  {
+    "id": 121,
+    "question": "<b>năm sau, năm tới</b>",
+    "options": [
+      "かぞく",
+      "びょういん",
+      "らいねん",
+      "～がつ"
+    ],
+    "correctAnswer": 2,
+    "difficulty": 1
+  },
+  {
+    "id": 122,
+    "question": "<b>せんげつ</b>",
+    "options": [
+      "Thị trấn Hakata ở Kyushu",
+      "gia đình",
+      "nhà máy",
+      "tháng trước"
+    ],
+    "correctAnswer": 3,
+    "difficulty": 1
+  },
+  {
+    "id": 123,
+    "question": "<b><ruby>人<rp>（</rp><rt>ひと</rt><rp>）</rp></ruby></b>",
+    "options": [
+      "でんしゃ",
+      "なんがつ",
+      "ひと",
+      "ふね"
+    ],
+    "correctAnswer": 2,
+    "difficulty": 2
+  },
+  {
+    "id": 124,
+    "question": "<b>A：（　）と<ruby>行<rp>（</rp><rt>い</rt><rp>）</rp></ruby>きますか。<p>B：<ruby>友達<rp>（</rp><rt>ともだち</rt><rp>）</rp></ruby>と<ruby>行<rp>（</rp><rt>い</rt><rp>）</rp></ruby>きます。</p></b>",
+    "options": [
+      "だれ",
+      "どこ"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 3
+  },
+  {
+    "id": 125,
+    "question": "<b>博<ruby>多<rp>（</rp><rt>おお</rt><rp>）</rp></ruby></b>",
+    "options": [
+      "がっこう",
+      "せんげつ",
+      "はかた",
+      "ふつう"
+    ],
+    "correctAnswer": 2,
+    "difficulty": 2
+  },
+  {
+    "id": 126,
+    "question": "<b>こんげつ</b>",
+    "options": [
+      "gia đình",
+      "tháng này",
+      "tháng～",
+      "～tiếp theo"
+    ],
+    "correctAnswer": 1,
+    "difficulty": 1
+  },
+  {
+    "id": 127,
+    "question": "<b>năm sau, năm tới</b>",
+    "options": [
+      "いきます",
+      "こんげつ",
+      "しんかんせん",
+      "らいねん"
+    ],
+    "correctAnswer": 3,
+    "difficulty": 1
+  },
+  {
+    "id": 128,
+    "question": "<b>彼<ruby>女<rp>（</rp><rt>おんな</rt><rp>）</rp></ruby></b>",
+    "options": [
+      "あるいて",
+      "いつ",
+      "かのじょ",
+      "きます"
+    ],
+    "correctAnswer": 2,
+    "difficulty": 2
+  },
+  {
+    "id": 129,
+    "question": "<b>タクシー</b>",
+    "options": [
+      "khi nào, lúc nào",
+      "taxi",
+      "trường học (nói chung)",
+      "đi"
+    ],
+    "correctAnswer": 1,
+    "difficulty": 1
+  },
+  {
+    "id": 130,
+    "question": "<b>A：<ruby>誕<ruby>生<rp>（</rp><rt>う</rt><rp>）</rp></ruby>日<rp>（</rp><rt>たんじょうび</rt><rp>）</rp></ruby>は（１）（２）ですか。<p>B：９<ruby>月<rp>（</rp><rt>がつ</rt><rp>）</rp></ruby>１５<ruby>日<rp>（</rp><rt>にち</rt><rp>）</rp></ruby>です。</p></b><p><b>(2)</b></p>",
+    "options": [
+      "に",
+      "何日"
+    ],
+    "correctAnswer": 1,
+    "difficulty": 3
+  },
+  {
+    "id": 131,
+    "question": "<b>こいびと</b>",
+    "options": [
+      "cô ấy (ngôi thứ ba số ít)",
+      "cửa hàng cá",
+      "người yêu",
+      "tháng～"
+    ],
+    "correctAnswer": 2,
+    "difficulty": 1
+  },
+  {
+    "id": 132,
+    "question": "<b>飛<ruby>行<rp>（</rp><rt>い</rt><rp>）</rp></ruby>機</b>",
+    "options": [
+      "ひきょうき",
+      "ひきょき",
+      "ひこうき",
+      "ひこき"
+    ],
+    "correctAnswer": 2,
+    "difficulty": 2
+  },
+  {
+    "id": 133,
+    "question": "<b><ruby>学<rp>（</rp><rt>がっ</rt><rp>）</rp></ruby><ruby>校<rp>（</rp><rt>こう</rt><rp>）</rp></ruby></b>",
+    "options": [
+      "おおさかじょう",
+      "がっこう",
+      "ひこうき",
+      "ふつう"
+    ],
+    "correctAnswer": 1,
+    "difficulty": 2
+  },
+  {
+    "id": 134,
+    "question": "<b>あるいて</b>",
+    "options": [
+      "cô ấy (ngôi thứ ba số ít)",
+      "cửa hàng cá",
+      "tháng sau, tháng tới",
+      "đi bộ (chỉ phương tiện, = on foot)"
+    ],
+    "correctAnswer": 3,
+    "difficulty": 1
+  },
+  {
+    "id": 135,
+    "question": "<b>こんしゅう</b>",
+    "options": [
+      "sinh nhật, ngày sinh",
+      "tuần này",
+      "tuần trước",
+      "tàu thủy"
+    ],
+    "correctAnswer": 1,
+    "difficulty": 1
+  },
+  {
+    "id": 136,
+    "question": "<b><ruby>学<rp>（</rp><rt>がっ</rt><rp>）</rp></ruby><ruby>校<rp>（</rp><rt>こう</rt><rp>）</rp></ruby></b>",
+    "options": [
+      "いつ",
+      "がっこう",
+      "さかなや",
+      "とっきゅう"
+    ],
+    "correctAnswer": 1,
+    "difficulty": 2
+  },
+  {
+    "id": 137,
+    "question": "<b>らいげつ</b>",
+    "options": [
+      "Cuối tháng",
+      "Tháng sau",
+      "Tháng trước",
+      "Đầu tháng"
+    ],
+    "correctAnswer": 1,
+    "difficulty": 1
+  },
+  {
+    "id": 138,
+    "question": "<b>でんしゃ</b>",
+    "options": [
+      "cao tốc, tàu cao tốc",
+      "hiệu sách",
+      "tàu điện",
+      "về, trở về (về nhà, về quê, về nước…)"
+    ],
+    "correctAnswer": 2,
+    "difficulty": 1
+  },
+  {
+    "id": 139,
+    "question": "<b>なんがつ</b>",
+    "options": [
+      "cô ấy (ngôi thứ ba số ít)",
+      "hiệu sách",
+      "ngày bao nhiêu? (bao nhiêu ngày?)",
+      "tháng mấy"
+    ],
+    "correctAnswer": 3,
+    "difficulty": 1
+  },
+  {
+    "id": 140,
+    "question": "<b>A：これは　なんですか。<p>B：（　）は　～がつです。</p></b>",
+    "options": [
+      "あれ",
+      "これ",
+      "それ",
+      "どれ"
+    ],
+    "correctAnswer": 1,
+    "difficulty": 2
+  },
+  {
+    "id": 141,
+    "question": "<b>xe buýt</b>",
+    "options": [
+      "こいびと",
+      "こうしえん",
+      "ひとりで",
+      "バス"
+    ],
+    "correctAnswer": 3,
+    "difficulty": 1
+  },
+  {
+    "id": 142,
+    "question": "<b>A：タクシーは　どちらですか。<p>B：（　）です。</p></b>",
+    "options": [
+      "あちら",
+      "こちら",
+      "そちら",
+      "どちら"
+    ],
+    "correctAnswer": 2,
+    "difficulty": 2
+  },
+  {
+    "id": 143,
+    "question": "<b>バス</b>",
+    "options": [
+      "tuần trước",
+      "tàu thủy",
+      "xe buýt",
+      "đi bộ (chỉ phương tiện, = on foot)"
+    ],
+    "correctAnswer": 2,
+    "difficulty": 1
+  },
+  {
+    "id": 144,
+    "question": "<b>ひと</b>",
+    "options": [
+      "hiệu sách",
+      "người",
+      "xe buýt",
+      "xe đạp"
+    ],
+    "correctAnswer": 1,
+    "difficulty": 1
+  },
+  {
+    "id": 145,
+    "question": "<b>こんしゅう</b>",
+    "options": [
+      "今周",
+      "今週",
+      "来周",
+      "来週"
+    ],
+    "correctAnswer": 1,
+    "difficulty": 1
+  },
+  {
+    "id": 146,
+    "question": "<b>～にち</b>",
+    "options": [
+      "Thị trấn Hakata ở Kyushu",
+      "một mình",
+      "ngày～, (～ ngày)",
+      "tháng mấy"
+    ],
+    "correctAnswer": 2,
+    "difficulty": 1
+  },
+  {
+    "id": 147,
+    "question": "<b>A：いつ（１）<ruby>日<ruby>本<rp>（</rp><rt>ほん</rt><rp>）</rp></ruby><rp>（</rp><rt>にほん</rt><rp>）</rp></ruby>（２）<ruby>来<rp>（</rp><rt>き</rt><rp>）</rp></ruby>ましたか。<p>B：３<ruby>月<rp>（</rp><rt>がつ</rt><rp>）</rp></ruby>２５<ruby>日<rp>（</rp><rt>にち</rt><rp>）</rp></ruby>（３）<ruby>来<rp>（</rp><rt>き</rt><rp>）</rp></ruby>ました。</p></b><p><b>(2)</b></p>",
+    "options": [
+      "に",
+      "へ"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 3
+  },
+  {
+    "id": 148,
+    "question": "<b>A：さかなやは　どこですか。<p>B：（　）です。</p></b>",
+    "options": [
+      "あそこ",
+      "ここ",
+      "そこ",
+      "どこ"
+    ],
+    "correctAnswer": 1,
+    "difficulty": 2
+  },
+  {
+    "id": 149,
+    "question": "<b>A：こいびとは　どちらですか。<p>B：（　）です。</p></b>",
+    "options": [
+      "あちら",
+      "こちら",
+      "そちら",
+      "どちら"
+    ],
+    "correctAnswer": 1,
+    "difficulty": 2
+  },
+  {
+    "id": 150,
+    "question": "<b>nhà máy</b>",
+    "options": [
+      "いつ",
+      "こいびと",
+      "こうじょう",
+      "タクシー"
+    ],
+    "correctAnswer": 2,
+    "difficulty": 1
+  },
+  {
+    "id": 151,
+    "question": "<b>A：これは　なんですか。<p>B：（　）は　はかたです。</p></b>",
+    "options": [
+      "あれ",
+      "これ",
+      "それ",
+      "どれ"
+    ],
+    "correctAnswer": 1,
+    "difficulty": 2
+  },
+  {
+    "id": 152,
+    "question": "<b>ふね</b>",
+    "options": [
+      "ngày～, (～ ngày)",
+      "tàu Shinkansen",
+      "tàu thủy",
+      "～tiếp theo"
+    ],
+    "correctAnswer": 2,
+    "difficulty": 1
+  },
+  {
+    "id": 153,
+    "question": "<b>こいびと</b>",
+    "options": [
+      "Thị trấn Fushimi ở Kyoto",
+      "Thị trấn Koshien gần Osaka",
+      "cô ấy (ngôi thứ ba số ít)",
+      "người yêu"
+    ],
+    "correctAnswer": 3,
+    "difficulty": 1
+  },
+  {
+    "id": 154,
+    "question": "<b>Xe buýt</b>",
+    "options": [
+      "バス",
+      "バース",
+      "パス",
+      "パース"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 1
+  },
+  {
+    "id": 155,
+    "question": "<b>tháng sau, tháng tới</b>",
+    "options": [
+      "かぞく",
+      "きゅうこう",
+      "ふつう",
+      "らいげつ"
+    ],
+    "correctAnswer": 3,
+    "difficulty": 1
+  },
+  {
+    "id": 156,
+    "question": "<b>Đến</b>",
+    "options": [
+      "いきます",
+      "かえります",
+      "きます",
+      "まいりします"
+    ],
+    "correctAnswer": 2,
+    "difficulty": 1
+  },
+  {
+    "id": 157,
+    "question": "<b>こんげつ</b>",
+    "options": [
+      "năm bao nhiêu? (bao nhiêu năm?)",
+      "tháng này",
+      "tháng～",
+      "tàu thủy"
+    ],
+    "correctAnswer": 1,
+    "difficulty": 1
+  },
+  {
+    "id": 158,
+    "question": "<b>ふしみ</b>",
+    "options": [
+      "Thị trấn Fushimi ở Kyoto",
+      "gia đình",
+      "năm～",
+      "tàu điện"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 1
+  },
+  {
+    "id": 159,
+    "question": "<b>đi bộ (chỉ phương tiện, = on foot)</b>",
+    "options": [
+      "あるいて",
+      "がっこう",
+      "つぎのえき",
+      "らいねん"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 1
+  },
+  {
+    "id": 160,
+    "question": "<b>A：これは　なんですか。<p>B：（　）は　らいげつです。</p></b>",
+    "options": [
+      "あれ",
+      "これ",
+      "それ",
+      "どれ"
+    ],
+    "correctAnswer": 1,
+    "difficulty": 2
+  },
+  {
+    "id": 161,
+    "question": "<b>thông thường, tàu thường</b>",
+    "options": [
+      "せんげつ",
+      "つぎのえき",
+      "ひこうき",
+      "ふつう"
+    ],
+    "correctAnswer": 3,
+    "difficulty": 1
+  },
+  {
+    "id": 162,
+    "question": "<b>taxi</b>",
+    "options": [
+      "こいびと",
+      "じてんしゃ",
+      "タクシー",
+      "～や"
+    ],
+    "correctAnswer": 2,
+    "difficulty": 1
+  },
+  {
+    "id": 163,
+    "question": "<b>thông thường, tàu thường</b>",
+    "options": [
+      "とっきゅう",
+      "ふつう",
+      "～がつ",
+      "～にち"
+    ],
+    "correctAnswer": 1,
+    "difficulty": 1
+  },
+  {
+    "id": 164,
+    "question": "<b>xe buýt</b>",
+    "options": [
+      "かえります",
+      "こうしえん",
+      "たんじょうび",
+      "バス"
+    ],
+    "correctAnswer": 3,
+    "difficulty": 1
+  },
+  {
+    "id": 165,
+    "question": "<b>去<ruby>年<rp>（</rp><rt>とし</rt><rp>）</rp></ruby></b>",
+    "options": [
+      "きょねん",
+      "せんげつ",
+      "らいげつ",
+      "タクシー"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 2
+  },
+  {
+    "id": 166,
+    "question": "<b>A：<ruby>先<ruby>月<rp>（</rp><rt>つき</rt><rp>）</rp></ruby><rp>（</rp><rt>せんげつ</rt><rp>）</rp></ruby>の２５<ruby>日<rp>（</rp><rt>にち</rt><rp>）</rp></ruby>（１）<ruby>電車<rp>（</rp><rt>でんしゃ</rt><rp>）</rp></ruby>（２）カリナさん（３）うち（４）<ruby>行<rp>（</rp><rt>い</rt><rp>）</rp></ruby>きました。<p>B：<ruby>一<ruby>人<rp>（</rp><rt>ひと</rt><rp>）</rp></ruby><rp>（</rp><rt>ひとり</rt><rp>）</rp></ruby>で（５）<ruby>行<rp>（</rp><rt>い</rt><rp>）</rp></ruby>きましたか。</p><p>A：いいえ、<ruby>友達<rp>（</rp><rt>ともだち</rt><rp>）</rp></ruby>（６）<ruby>行<rp>（</rp><rt>い</rt><rp>）</rp></ruby>きました。</p></b><p><b>(1)</b></p>",
+    "options": [
+      "×",
+      "に"
+    ],
+    "correctAnswer": 1,
+    "difficulty": 4
+  },
+  {
+    "id": 167,
+    "question": "<b>A：さかなやは　どちらですか。<p>B：（　）です。</p></b>",
+    "options": [
+      "あちら",
+      "こちら",
+      "そちら",
+      "どちら"
+    ],
+    "correctAnswer": 2,
+    "difficulty": 2
+  },
+  {
+    "id": 168,
+    "question": "<b>Thị trấn Fushimi ở Kyoto</b>",
+    "options": [
+      "かれ",
+      "ともだち",
+      "ふしみ",
+      "ほんや"
+    ],
+    "correctAnswer": 2,
+    "difficulty": 1
+  },
+  {
+    "id": 169,
+    "question": "<b>博<ruby>多<rp>（</rp><rt>おお</rt><rp>）</rp></ruby></b>",
+    "options": [
+      "こうしえん",
+      "せんげつ",
+      "はかた",
+      "ひこうき"
+    ],
+    "correctAnswer": 2,
+    "difficulty": 2
+  },
+  {
+    "id": 170,
+    "question": "<b>A：ひとりでは　どちらですか。<p>B：（　）です。</p></b>",
+    "options": [
+      "あちら",
+      "こちら",
+      "そちら",
+      "どちら"
+    ],
+    "correctAnswer": 1,
+    "difficulty": 2
+  },
+  {
+    "id": 171,
+    "question": "<b>かのじょ</b>",
+    "options": [
+      "cô ấy (ngôi thứ ba số ít)",
+      "máy bay",
+      "tháng sau, tháng tới",
+      "thông thường, tàu thường"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 1
+  },
+  {
+    "id": 172,
+    "question": "<b>A：らいしゅうは　どちらですか。<p>B：（　）です。</p></b>",
+    "options": [
+      "あちら",
+      "こちら",
+      "そちら",
+      "どちら"
+    ],
+    "correctAnswer": 1,
+    "difficulty": 2
+  },
+  {
+    "id": 173,
+    "question": "<b>A：タクシーは　どこですか。<p>B：（　）です。</p></b>",
+    "options": [
+      "あそこ",
+      "ここ",
+      "そこ",
+      "どこ"
+    ],
+    "correctAnswer": 1,
+    "difficulty": 2
+  },
+  {
+    "id": 174,
+    "question": "<b>A：いつ（１）にほんへ　いきましたか。<p>B：６がつ　２８にち（２）きました。</p></b><p><b>(2)</b></p>",
+    "options": [
+      "で",
+      "に"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 2
+  },
+  {
+    "id": 175,
+    "question": "<b>A：（　）にほんへ　きましたか。<p>B：ひこうきで　きました。</p></b>",
+    "options": [
+      "だれと",
+      "なんで"
+    ],
+    "correctAnswer": 1,
+    "difficulty": 2
+  },
+  {
+    "id": 176,
+    "question": "<b>なんにち</b>",
+    "options": [
+      "Thành cổ Osaka, thành cổ nổi tiếng ở Osaka",
+      "ngày bao nhiêu? (bao nhiêu ngày?)",
+      "người",
+      "người yêu"
+    ],
+    "correctAnswer": 1,
+    "difficulty": 1
+  },
+  {
+    "id": 177,
+    "question": "<b>こんげつ</b>",
+    "options": [
+      "cửa hàng cá",
+      "máy bay",
+      "tháng này",
+      "đi"
+    ],
+    "correctAnswer": 2,
+    "difficulty": 1
+  }
+]

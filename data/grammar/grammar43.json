@@ -1,1 +1,141 @@
-﻿[]
+﻿[
+  {
+    "id": "v-sou-desu",
+    "title": "Vそうです - Sắp",
+    "description": "Dùng để diễn đạt tình trạng, trạng thái đang hiện hữu bề ngoài, nói lên 1 ấn tượng có được từ 1 hiện tượng mà mình nhìn thấy tận mắt hay giải thích về tình trạng sự vật, sự việc ngay trước khi nó thay đổi",
+    "structure": "Vます + そうです",
+    "examples": [
+      {
+        "japanese": "曇っていますね。雨が 降りそうです。",
+        "romaji": "Kumotte imasu ne. Ame ga furisou desu.",
+        "vietnamese": "Bầu trời nhiều mây quá. Trời sắp mưa."
+      },
+      {
+        "japanese": "もうすぐ 桜が 咲きそうです。",
+        "romaji": "Mou sugu sakura ga sakisou desu.",
+        "vietnamese": "Hoa sakura sắp nở."
+      },
+      {
+        "japanese": "これから 寒くなりそうです。",
+        "romaji": "Kore kara samuku narisou desu.",
+        "vietnamese": "Trời sắp lạnh."
+      },
+      {
+        "japanese": "今にも 荷物が 落ちそうです。",
+        "romaji": "Ima ni mo nimotsu ga ochisou desu.",
+        "vietnamese": "Hành lý sắp rơi."
+      },
+      {
+        "japanese": "煙が 少なくなりました。火事は 消えそうです。",
+        "romaji": "Kemuri ga sukunaku narimashita. Kaji wa kiesou desu.",
+        "vietnamese": "Khói ít đi rồi. Cơn hỏa hoạn sắp tắt."
+      }
+    ],
+    "notes": [
+      "Ý nghĩa: sắp",
+      "Dùng để diễn đạt tình trạng, trạng thái đang hiện hữu bề ngoài",
+      "Nói lên 1 ấn tượng có được từ 1 hiện tượng mà mình nhìn thấy tận mắt hay giải thích về tình trạng sự vật, sự việc ngay trước khi nó thay đổi",
+      "Cách chia: Vます + そうです",
+      "Diễn đạt sự suy đoán về tình trạng ngay trước khi có sự thay đổi"
+    ]
+  },
+  {
+    "id": "a-i-na-sou-desu",
+    "title": "Aいそうです / Naそうです - Có vẻ",
+    "description": "Dùng để diễn đạt những phán đoán, suy xét một cách trực tiếp khi nhìn thấy sự vật, sự việc nào đó. Có thể hiểu nôm na mẫu câu này là \"nhìn và nghĩ là, cho là nó như thế\"",
+    "structure": "Aいです → Aいそうです / Naです → Naそうです",
+    "examples": [
+      {
+        "japanese": "この 料理は おいしそうです。",
+        "romaji": "Kono ryouri wa oishisou desu.",
+        "vietnamese": "Món ăn này có vẻ ngon."
+      },
+      {
+        "japanese": "彼女は 忙しそうです。",
+        "romaji": "Kanojo wa isogashisou desu.",
+        "vietnamese": "Cô ấy có vẻ bận."
+      },
+      {
+        "japanese": "彼は 暇そうです。",
+        "romaji": "Kare wa himasou desu.",
+        "vietnamese": "Anh ấy có vẻ rảnh rỗi."
+      },
+      {
+        "japanese": "あのケーキは おいしくなさそうです。",
+        "romaji": "Ano keeki wa oishikunasasou desu.",
+        "vietnamese": "Cái bánh kia có vẻ không ngon."
+      },
+      {
+        "japanese": "このすいかは 中が 赤そうです。",
+        "romaji": "Kono suika wa naka ga akasou desu.",
+        "vietnamese": "Quả dưa hấu này bên trong có vẻ đỏ."
+      },
+      {
+        "japanese": "あなたは うれしそうです。",
+        "romaji": "Anata wa ureshisou desu.",
+        "vietnamese": "Bạn có vẻ vui."
+      },
+      {
+        "japanese": "かのじょは うれしそうです。",
+        "romaji": "Kanojo wa ureshisou desu.",
+        "vietnamese": "Cô ấy có vẻ vui."
+      }
+    ],
+    "notes": [
+      "Ý nghĩa: có vẻ",
+      "Dùng để diễn đạt những phán đoán, suy xét một cách trực tiếp khi nhìn thấy sự vật, sự việc nào đó",
+      "Có thể hiểu nôm na mẫu câu này là \"nhìn và nghĩ là, cho là nó như thế\"",
+      "Cách chia: Aいです → Aいそうです, Naです → Naそうです",
+      "Trường hợp đặc biệt: いいです → よさそうです, ないです → なさそうです",
+      "Không áp dụng cách nói này đối với những tính từ thể hiện trạng thái quá rõ ràng, nhìn thấy ngay bên ngoài…, ví dụ như: 「赤い、きれい、有名、かわいい」",
+      "Đối với các tính từ thể hiện tình cảm hoặc cảm giác của con người như「うれしい、さびしい、かなしい、いたい、気分が悪い、気分がいい」, vì chúng ta không thể diễn đạt, miêu tả một cách trực tiếp cảm giác, tình cảm, tâm trạng của người khác mà chỉ có thể suy đoán nên phải dùng「～そうです」",
+      "Mẫu câu 「～そうです」 này không kết hợp với danh từ",
+      "Sự khác nhau giữa 「～でしょう」 và「～そうです」:",
+      "「～でしょう」 biểu thị suy luận của người nói căn cứ vào một số thông tin nào đó",
+      "「～そうです」 biểu thị suy luận của người nói theo điều mà người nói quan sát được"
+    ]
+  },
+  {
+    "id": "v-te-kimasu",
+    "title": "Vて来ます - Làm gì đó (rồi sẽ trở lại)",
+    "description": "Biểu thị hành động đi đâu đó làm gì rồi sau đó quay lại. Điều cần chú ý ở mẫu câu này là với 1 câu nhưng bao hàm 3 hành động: (1) đi đâu đó → (2) làm gì đó → (3) quay trở lại",
+    "structure": "Vて来ます",
+    "examples": [
+      {
+        "japanese": "ちょっと たばこを 買って来ます。",
+        "romaji": "Chotto tabako o katte kimasu.",
+        "vietnamese": "Tôi đi mua thuốc lá một chút (rồi về)."
+      },
+      {
+        "japanese": "ちょっと 電話を かけて来ますから、ここで 待っていて ください。",
+        "romaji": "Chotto denwa o kakete kimasu kara, koko de matte ite kudasai.",
+        "vietnamese": "Vì tôi đi gọi điện một chút nên hãy chờ tôi ở đây."
+      },
+      {
+        "japanese": "教室に 時計を 忘れたので、ちょっと 取って来ます。",
+        "romaji": "Kyoushitsu ni tokei o wasureta no de, chotto totte kimasu.",
+        "vietnamese": "Vì quên đồng hồ ở lớp học nên tôi sẽ đi lấy."
+      },
+      {
+        "japanese": "スーパーで 牛乳を 買って来ます。",
+        "romaji": "Suupaa de gyuunyuu o katte kimasu.",
+        "vietnamese": "Tôi đi đến mua sữa ở siêu thị."
+      },
+      {
+        "japanese": "台所から コップを 取って来ます。",
+        "romaji": "Daidokoro kara koppu o totte kimasu.",
+        "vietnamese": "Tôi đi lấy cốc từ nhà bếp."
+      }
+    ],
+    "notes": [
+      "Ý nghĩa: làm gì đó (rồi sẽ trở lại)",
+      "Biểu thị hành động đi đâu đó làm gì rồi sau đó quay lại",
+      "Với 1 câu nhưng bao hàm 3 hành động: (1) đi đâu đó → (2) làm gì đó → (3) quay trở lại",
+      "Địa điểm đi đến và thực hiện hành động ở đó được thể hiện bằng trợ từ 「で」",
+      "Khi địa điểm đó là nơi lấy đi (hoặc di chuyển) một vật thì ta dùng trợ từ 「から」",
+      "So sánh với 「（場所）へＶに行く」:",
+      "「（場所）へＶに行く」 chỉ bao hàm 2 hành động: đi đâu đó → làm gì đó",
+      "「（場所）でＶて来る」 bao hàm 3 hành động: đi đâu đó → làm gì đó → quay trở lại"
+    ]
+  }
+]

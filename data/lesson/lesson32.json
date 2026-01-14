@@ -1,1 +1,809 @@
-﻿[]
+﻿[
+  {
+    "id": "toClearUp",
+    "kanji": "晴れます",
+    "hiragana": "はれます",
+    "en": "to clear up",
+    "vi": "Trời nắng, quang đãng",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm I",
+        "《晴れます、晴れる、晴れて》"
+      ]
+    }
+  },
+  {
+    "id": "toStop",
+    "kanji": "止みます",
+    "hiragana": "やみます",
+    "en": "to stop",
+    "vi": "Dừng, nghỉ",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm I",
+        "《止みます、止む、止んで》",
+        "●「雨が～」 Mưa tạnh"
+      ]
+    }
+  },
+  {
+    "id": "toEnter",
+    "kanji": "入ります",
+    "hiragana": "はいります",
+    "en": "to enter",
+    "vi": "Vào",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm I",
+        "《入ります、入る、入って》",
+        "●「おふろに～」 Tắm (bồn tắm)"
+      ]
+    }
+  },
+  {
+    "id": "toMeasure",
+    "kanji": "計ります",
+    "hiragana": "はかります",
+    "en": "to measure",
+    "vi": "Cân, đo (nhiệt độ, kích thước)",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm I",
+        "《計ります、計る、計って》"
+      ]
+    }
+  },
+  {
+    "id": "toApply",
+    "kanji": "つけます",
+    "hiragana": "つけます",
+    "en": "to apply",
+    "vi": "Thêm",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm II",
+        "《つけます、つける、つけて》",
+        "●「薬を～」 Bôi thuốc, thoa thuốc"
+      ]
+    }
+  },
+  {
+    "id": "toRise",
+    "kanji": "上がります",
+    "hiragana": "あがります",
+    "en": "to rise",
+    "vi": "Tăng, lên cao",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm I",
+        "《上がります、上がる、上がって》",
+        "●「ねつが～」 Sốt (lên cao)"
+      ]
+    }
+  },
+  {
+    "id": "toFall",
+    "kanji": "下がります",
+    "hiragana": "さがります",
+    "en": "to fall",
+    "vi": "Giảm, xuống",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm I",
+        "《下がります、下がる、下がって》",
+        "●「ねつが～」 Sốt (giảm xuống)"
+      ]
+    }
+  },
+  {
+    "id": "toRecover",
+    "kanji": "治ります",
+    "hiragana": "なおります",
+    "en": "to recover",
+    "vi": "Khỏi",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm I",
+        "《治ります、治る、治って》",
+        "●「病気～」 Khỏi ốm"
+      ]
+    }
+  },
+  {
+    "id": "toComeOut",
+    "kanji": "出ます",
+    "hiragana": "でます",
+    "en": "to come out",
+    "vi": "Ra",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm II",
+        "《出ます、出る、出て》",
+        "●「せきが～」 Ho"
+      ]
+    }
+  },
+  {
+    "id": "toGetInjured",
+    "kanji": "けがをします",
+    "hiragana": "けがをします",
+    "en": "to get injured",
+    "vi": "Làm",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm III",
+        "《する、して》"
+      ]
+    }
+  },
+  {
+    "id": "goodForHealth",
+    "kanji": "体にいい",
+    "hiragana": "からだにいい",
+    "en": "good for health",
+    "vi": "Có lợi cho sức khỏe",
+    "type": "adjective",
+    "explanation": {
+      "content": [
+        "Tính từ"
+      ]
+    }
+  },
+  {
+    "id": "badForHealth",
+    "kanji": "体に悪い",
+    "hiragana": "からだにわるい",
+    "en": "bad for health",
+    "vi": "Có hại cho sức khỏe",
+    "type": "adjective",
+    "explanation": {
+      "content": [
+        "Tính từ"
+      ]
+    }
+  },
+  {
+    "id": "cold",
+    "kanji": "風邪",
+    "hiragana": "かぜ",
+    "en": "cold",
+    "vi": "Bệnh cảm",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "fever",
+    "kanji": "熱",
+    "hiragana": "ねつ",
+    "en": "fever",
+    "vi": "Sốt",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "cough",
+    "kanji": "せき",
+    "hiragana": "せき",
+    "en": "cough",
+    "vi": "Ho",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "allergy",
+    "kanji": "アレルギー",
+    "hiragana": "アレルギー",
+    "en": "allergy",
+    "vi": "Dị ứng",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "injury",
+    "kanji": "けが",
+    "hiragana": "けが",
+    "en": "injury",
+    "vi": "Vết thương",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "burn",
+    "kanji": "やけど",
+    "hiragana": "やけど",
+    "en": "burn",
+    "vi": "Bỏng",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "throat",
+    "kanji": "のど",
+    "hiragana": "のど",
+    "en": "throat",
+    "vi": "Họng",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "engine",
+    "kanji": "エンジン",
+    "hiragana": "エンジン",
+    "en": "engine",
+    "vi": "Động cơ",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "motor",
+    "kanji": "モーター",
+    "hiragana": "モーター",
+    "en": "motor",
+    "vi": "Mô tơ",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "takeCare",
+    "kanji": "お大事に",
+    "hiragana": "おだいじに",
+    "en": "take care",
+    "vi": "Chúc (bạn) chóng khỏi bệnh",
+    "type": "other",
+    "explanation": {
+      "content": [
+        "Cụm từ"
+      ]
+    }
+  },
+  {
+    "id": "pleaseLieDown",
+    "kanji": "横になってください",
+    "hiragana": "よこになってください",
+    "en": "please lie down",
+    "vi": "Hãy nằm xuống",
+    "type": "other",
+    "explanation": {
+      "content": [
+        "Cụm từ"
+      ]
+    }
+  },
+  {
+    "id": "toReturn",
+    "kanji": "戻ります",
+    "hiragana": "もどります",
+    "en": "to return",
+    "vi": "Trở lại",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm I",
+        "《戻ります、戻る、戻って》"
+      ]
+    }
+  },
+  {
+    "id": "toCloudOver",
+    "kanji": "曇ります",
+    "hiragana": "くもります",
+    "en": "to cloud over",
+    "vi": "Trời nhiều mây",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm I",
+        "《曇ります、曇る、曇って》"
+      ]
+    }
+  },
+  {
+    "id": "toBlow",
+    "kanji": "吹きます",
+    "hiragana": "ふきます",
+    "en": "to blow",
+    "vi": "Thổi",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm I",
+        "《吹きます、吹く、吹いて》",
+        "●「かぜが～」 Gió thổi"
+      ]
+    }
+  },
+  {
+    "id": "toContinue",
+    "kanji": "続きます",
+    "hiragana": "つづきます",
+    "en": "to continue",
+    "vi": "Tiếp tục",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm I",
+        "《続きます、続く、続いて》",
+        "●「ねつが～」 Tiếp tục sốt"
+      ]
+    }
+  },
+  {
+    "id": "toCatch",
+    "kanji": "ひきます",
+    "hiragana": "ひきます",
+    "en": "to catch",
+    "vi": "Trúng",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm I",
+        "《ひきます、ひく、ひいて》",
+        "●「かぜを～」 Bị cảm"
+      ]
+    }
+  },
+  {
+    "id": "toCool",
+    "kanji": "冷やします",
+    "hiragana": "ひやします",
+    "en": "to cool",
+    "vi": "Làm lạnh",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm I",
+        "《冷やします、冷やす、冷やして》"
+      ]
+    }
+  },
+  {
+    "id": "toHit",
+    "kanji": "当たります",
+    "hiragana": "あたります",
+    "en": "to hit",
+    "vi": "Trúng",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm I",
+        "《当たります、当たる、当たって》",
+        "●「宝くじが～」"
+      ]
+    }
+  },
+  {
+    "id": "toHaveTrouble",
+    "kanji": "困ります",
+    "hiragana": "こまります",
+    "en": "to have trouble",
+    "vi": "Khổ, khó khăn",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm I",
+        "《困ります、困る、困って》"
+      ]
+    }
+  },
+  {
+    "id": "toExercise",
+    "kanji": "運動",
+    "hiragana": "うんどう",
+    "en": "to exercise",
+    "vi": "Tập thể dục",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm III",
+        "《します、する、して》"
+      ]
+    }
+  },
+  {
+    "id": "toSucceed",
+    "kanji": "成功",
+    "hiragana": "せいこう",
+    "en": "to succeed",
+    "vi": "Thành công",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm III",
+        "《します、する、して》"
+      ]
+    }
+  },
+  {
+    "id": "toFail",
+    "kanji": "失敗",
+    "hiragana": "しっぱい",
+    "en": "to fail",
+    "vi": "Thất bại",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm III",
+        "《します、する、して》",
+        "●「しけんに～」 Thi trượt"
+      ]
+    }
+  },
+  {
+    "id": "toPass",
+    "kanji": "合格",
+    "hiragana": "ごうかく",
+    "en": "to pass",
+    "vi": "Đỗ",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm III",
+        "《します、する、して》",
+        "●「しけんに～」 Thi đỗ"
+      ]
+    }
+  },
+  {
+    "id": "worried",
+    "kanji": "心配",
+    "hiragana": "しんぱい",
+    "en": "worried",
+    "vi": "Lo lắng",
+    "type": "adjective",
+    "explanation": {
+      "content": [
+        "Tính từ",
+        "［な］"
+      ]
+    }
+  },
+  {
+    "id": "sufficient",
+    "kanji": "十分",
+    "hiragana": "じゅうぶん",
+    "en": "sufficient",
+    "vi": "Đầy đủ",
+    "type": "adjective",
+    "explanation": {
+      "content": [
+        "Tính từ",
+        "［な］"
+      ]
+    }
+  },
+  {
+    "id": "funny",
+    "kanji": "おかしい",
+    "hiragana": "おかしい",
+    "en": "funny",
+    "vi": "Buồn cười",
+    "type": "adjective",
+    "explanation": {
+      "content": [
+        "Tính từ"
+      ]
+    }
+  },
+  {
+    "id": "noisy",
+    "kanji": "うるさい",
+    "hiragana": "うるさい",
+    "en": "noisy",
+    "vi": "Ồn ào",
+    "type": "adjective",
+    "explanation": {
+      "content": [
+        "Tính từ"
+      ]
+    }
+  },
+  {
+    "id": "influenza",
+    "kanji": "インフルエンザ",
+    "hiragana": "インフルエンザ",
+    "en": "influenza",
+    "vi": "Bệnh cúm gia cầm",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "sun",
+    "kanji": "太陽",
+    "hiragana": "たいよう",
+    "en": "sun",
+    "vi": "Mặt trời",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "star",
+    "kanji": "星",
+    "hiragana": "ほし",
+    "en": "star",
+    "vi": "Sao",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "waterSupply",
+    "kanji": "水道",
+    "hiragana": "すいどう",
+    "en": "water supply",
+    "vi": "Nước máy",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "team",
+    "kanji": "チーム",
+    "hiragana": "チーム",
+    "en": "team",
+    "vi": "Đội",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "tonight",
+    "kanji": "今夜",
+    "hiragana": "こんや",
+    "en": "tonight",
+    "vi": "Tối nay",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "likeThis",
+    "kanji": "こんなに",
+    "hiragana": "こんなに",
+    "en": "like this",
+    "vi": "Như thế này",
+    "type": "adverb",
+    "explanation": {
+      "content": [
+        "Phó từ"
+      ]
+    }
+  },
+  {
+    "id": "likeThat",
+    "kanji": "そんなに",
+    "hiragana": "そんなに",
+    "en": "like that",
+    "vi": "Như thế đó",
+    "type": "adverb",
+    "explanation": {
+      "content": [
+        "Phó từ"
+      ]
+    }
+  },
+  {
+    "id": "likeThatOverThere",
+    "kanji": "あんなに",
+    "hiragana": "あんなに",
+    "en": "like that over there",
+    "vi": "Như thế kia",
+    "type": "adverb",
+    "explanation": {
+      "content": [
+        "Phó từ"
+      ]
+    }
+  },
+  {
+    "id": "perhaps",
+    "kanji": "もしかしたら",
+    "hiragana": "もしかしたら",
+    "en": "perhaps",
+    "vi": "Có lẽ là",
+    "type": "adverb",
+    "explanation": {
+      "content": [
+        "Phó từ"
+      ]
+    }
+  },
+  {
+    "id": "thatsNotGood",
+    "kanji": "それはいけませんね",
+    "hiragana": "それはいけませんね",
+    "en": "that's not good",
+    "vi": "Thế thì không ổn rồi",
+    "type": "other",
+    "explanation": {
+      "content": [
+        "Cụm từ"
+      ]
+    }
+  },
+  {
+    "id": "olympics",
+    "kanji": "オリンピック",
+    "hiragana": "オリンピック",
+    "en": "olympics",
+    "vi": "Olympic",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "stomach",
+    "kanji": "胃",
+    "hiragana": "い",
+    "en": "stomach",
+    "vi": "Dạ dày",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "overwork",
+    "kanji": "働きすぎ",
+    "hiragana": "はたらきすぎ",
+    "en": "overwork",
+    "vi": "Làm việc quá nhiều",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "stress",
+    "kanji": "ストレス",
+    "hiragana": "ストレス",
+    "en": "stress",
+    "vi": "Stress",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "toOverdo",
+    "kanji": "無理をします",
+    "hiragana": "むりをします",
+    "en": "to overdo",
+    "vi": "Làm quá sức",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm III",
+        "《します、する、して》"
+      ]
+    }
+  },
+  {
+    "id": "toRelax",
+    "kanji": "ゆっくりします",
+    "hiragana": "ゆっくりします",
+    "en": "to relax",
+    "vi": "Nghỉ ngơi cho thoải mái",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm III",
+        "《します、する、して》"
+      ]
+    }
+  },
+  {
+    "id": "health",
+    "kanji": "健康",
+    "hiragana": "けんこう",
+    "en": "health",
+    "vi": "Sức khỏe",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "love",
+    "kanji": "恋愛",
+    "hiragana": "れんあい",
+    "en": "love",
+    "vi": "Tình yêu",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "rich",
+    "kanji": "お金持ち",
+    "hiragana": "おかねもち",
+    "en": "rich",
+    "vi": "Giàu có",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ",
+        "［お］金持ち"
+      ]
+    }
+  }
+]

@@ -1,1 +1,704 @@
-﻿[]
+﻿[
+  {
+    "id": "toCommute",
+    "kanji": "通います",
+    "hiragana": "かよいます",
+    "en": "to commute",
+    "vi": "Đi làm",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm I",
+        "《通います、通う、通って》",
+        "●「かいしゃに～」 Đi làm công ty"
+      ]
+    }
+  },
+  {
+    "id": "toWorkOvertime",
+    "kanji": "残業します",
+    "hiragana": "ざんぎょうします",
+    "en": "to work overtime",
+    "vi": "Làm thêm giờ",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm III",
+        "《残業します、～する、～して》"
+      ]
+    }
+  },
+  {
+    "id": "toExercise",
+    "kanji": "運動します",
+    "hiragana": "うんどうします",
+    "en": "to exercise",
+    "vi": "Tập thể dục thể thao",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm III",
+        "《運動します、～する、～して》"
+      ]
+    }
+  },
+  {
+    "id": "toAnswer",
+    "kanji": "答えます",
+    "hiragana": "こたえます",
+    "en": "to answer",
+    "vi": "Trả lời",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm II",
+        "《答えます、答える、答えて》",
+        "●「しつもんに～」 Trả lời câu hỏi"
+      ]
+    }
+  },
+  {
+    "id": "toCalculate",
+    "kanji": "計算します",
+    "hiragana": "けいさんします",
+    "en": "to calculate",
+    "vi": "Tính toán",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm III",
+        "《計算します、～する、～して》"
+      ]
+    }
+  },
+  {
+    "id": "toCollect",
+    "kanji": "集めます",
+    "hiragana": "あつめます",
+    "en": "to collect",
+    "vi": "Thu thập; sưu tầm",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm II",
+        "《集めます、集める、集めて》"
+      ]
+    }
+  },
+  {
+    "id": "toHandOver",
+    "kanji": "渡します",
+    "hiragana": "わたします",
+    "en": "to hand over",
+    "vi": "Đưa cho, trao cho",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm I",
+        "《渡します、渡す、渡して》"
+      ]
+    }
+  },
+  {
+    "id": "toLock",
+    "kanji": "掛けます",
+    "hiragana": "かけます",
+    "en": "to lock",
+    "vi": "Khóa",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm II",
+        "《掛けます、掛ける、掛けて》",
+        "●「かぎを～」 Khóa cửa"
+      ]
+    }
+  },
+  {
+    "id": "toBeBorn",
+    "kanji": "生まれます",
+    "hiragana": "うまれます",
+    "en": "to be born",
+    "vi": "Sinh, được sinh ra",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm II",
+        "《生まれます、生まれる、生まれて》",
+        "●「こどもが～」 Sinh con"
+      ]
+    }
+  },
+  {
+    "id": "toHold",
+    "kanji": "します",
+    "hiragana": "します",
+    "en": "to hold",
+    "vi": "Tổ chức",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm III",
+        "《する、して》",
+        "●「おいわいを～」 Tổ chức tiệc mừng"
+      ]
+    }
+  },
+  {
+    "id": "veryLike",
+    "kanji": "大好き",
+    "hiragana": "だいすき",
+    "en": "very like",
+    "vi": "Rất thích",
+    "type": "adjective",
+    "explanation": {
+      "content": [
+        "Tính từ",
+        "［な］"
+      ]
+    }
+  },
+  {
+    "id": "veryHate",
+    "kanji": "大嫌い",
+    "hiragana": "だいきらい",
+    "en": "very hate",
+    "vi": "Rất ghét",
+    "type": "adjective",
+    "explanation": {
+      "content": [
+        "Tính từ",
+        "［な］"
+      ]
+    }
+  },
+  {
+    "id": "wasteful",
+    "kanji": "無駄",
+    "hiragana": "むだ",
+    "en": "wasteful",
+    "vi": "Vô ích, lãng phí",
+    "type": "adjective",
+    "explanation": {
+      "content": [
+        "Tính từ",
+        "［な］"
+      ]
+    }
+  },
+  {
+    "id": "embarrassed",
+    "kanji": "恥ずかしい",
+    "hiragana": "はずかしい",
+    "en": "embarrassed",
+    "vi": "Xấu hổ",
+    "type": "adjective",
+    "explanation": {
+      "content": [
+        "Tính từ",
+        "［い］"
+      ]
+    }
+  },
+  {
+    "id": "feelGood",
+    "kanji": "気持ちがいい",
+    "hiragana": "きもちがいい",
+    "en": "feel good",
+    "vi": "Thấy dễ chịu",
+    "type": "other",
+    "explanation": {
+      "content": [
+        "Thành ngữ"
+      ]
+    }
+  },
+  {
+    "id": "feelBad",
+    "kanji": "気持ちが悪い",
+    "hiragana": "きもちがわるい",
+    "en": "feel bad",
+    "vi": "Thấy khó chịu",
+    "type": "other",
+    "explanation": {
+      "content": [
+        "Thành ngữ"
+      ]
+    }
+  },
+  {
+    "id": "celebration",
+    "kanji": "お祝い",
+    "hiragana": "おいわい",
+    "en": "celebration",
+    "vi": "Tiệc mừng",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "outbound",
+    "kanji": "行き",
+    "hiragana": "いき",
+    "en": "outbound",
+    "vi": "Chuyến đi",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "return",
+    "kanji": "帰り",
+    "hiragana": "かえり",
+    "en": "return",
+    "vi": "Chuyến về",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "rushHour",
+    "kanji": "ラッシュ",
+    "hiragana": "ラッシュ",
+    "en": "rush hour",
+    "vi": "Giờ cao điểm",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "notReally",
+    "kanji": "それほどでもありません",
+    "hiragana": "それほどでもありません",
+    "en": "not really",
+    "vi": "Không có gì.",
+    "type": "other",
+    "explanation": {
+      "content": [
+        "Câu nói"
+      ]
+    }
+  },
+  {
+    "id": "dontWasteTime",
+    "kanji": "むだにしませんね",
+    "hiragana": "むだにしませんね",
+    "en": "don't waste time",
+    "vi": "Không uổng phí (thời gian) nhỉ?",
+    "type": "other",
+    "explanation": {
+      "content": [
+        "Câu nói",
+        "「じかん」を むだに しませんね。"
+      ]
+    }
+  },
+  {
+    "id": "howAboutOneMore",
+    "kanji": "もういっぱいどうですか",
+    "hiragana": "もういっぱいどうですか",
+    "en": "how about one more",
+    "vi": "Uống một ly nữa nhé!",
+    "type": "other",
+    "explanation": {
+      "content": [
+        "Câu nói",
+        "もう いっぱい どうですか。"
+      ]
+    }
+  },
+  {
+    "id": "imFine",
+    "kanji": "もうけっこうです",
+    "hiragana": "もうけっこうです",
+    "en": "I'm fine",
+    "vi": "Thôi tôi đủ rồi.",
+    "type": "other",
+    "explanation": {
+      "content": [
+        "Câu nói"
+      ]
+    }
+  },
+  {
+    "id": "toRaise",
+    "kanji": "育てます",
+    "hiragana": "そだてます",
+    "en": "to raise",
+    "vi": "Chăm sóc",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm II",
+        "《育てます、育てる、育てて》"
+      ]
+    }
+  },
+  {
+    "id": "toDie",
+    "kanji": "無くなります",
+    "hiragana": "なくなります",
+    "en": "to die",
+    "vi": "Chết, mất",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm I",
+        "《無くなります、無くなる、無くなって》"
+      ]
+    }
+  },
+  {
+    "id": "toBeHospitalized",
+    "kanji": "入院します",
+    "hiragana": "にゅういんします",
+    "en": "to be hospitalized",
+    "vi": "Nhập viện",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm III",
+        "《入院します、～する、～して》"
+      ]
+    }
+  },
+  {
+    "id": "toBeDischarged",
+    "kanji": "退院します",
+    "hiragana": "たいいんします",
+    "en": "to be discharged",
+    "vi": "Ra viện",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm III",
+        "《退院します、～する、～して》"
+      ]
+    }
+  },
+  {
+    "id": "toPutIn",
+    "kanji": "入れます",
+    "hiragana": "いれます",
+    "en": "to put in",
+    "vi": "Cho vào, bỏ vào",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm II",
+        "《入れます、入れる、入れて》",
+        "●「でんげんを～」 Bật máy"
+      ]
+    }
+  },
+  {
+    "id": "toCut",
+    "kanji": "切ります",
+    "hiragana": "きります",
+    "en": "to cut",
+    "vi": "Cắt",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm I",
+        "《切ります、切る、切って》",
+        "●「でんげんを～」 Tắt máy"
+      ]
+    }
+  },
+  {
+    "id": "baby",
+    "kanji": "赤ちゃん",
+    "hiragana": "あかちゃん",
+    "en": "baby",
+    "vi": "Trẻ sơ sinh, em bé",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "coast",
+    "kanji": "海岸",
+    "hiragana": "かいがん",
+    "en": "coast",
+    "vi": "Bờ biển",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "lie",
+    "kanji": "うそ",
+    "hiragana": "うそ",
+    "en": "lie",
+    "vi": "Nói dối",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "powerSupply",
+    "kanji": "電源",
+    "hiragana": "でんげん",
+    "en": "power supply",
+    "vi": "Nguồn điện",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "madeIn",
+    "kanji": "～製",
+    "hiragana": "～せい",
+    "en": "made in",
+    "vi": "Hàng của ～",
+    "type": "other",
+    "explanation": {
+      "content": [
+        "Hậu tố"
+      ]
+    }
+  },
+  {
+    "id": "ohNo",
+    "kanji": "いけない",
+    "hiragana": "いけない",
+    "en": "oh no",
+    "vi": "Ôi, chết rồi!",
+    "type": "other",
+    "explanation": {
+      "content": [
+        "Thán từ",
+        "「あ」いけない。"
+      ]
+    }
+  },
+  {
+    "id": "properly",
+    "kanji": "きちんと",
+    "hiragana": "きちんと",
+    "en": "properly",
+    "vi": "Cẩn thận",
+    "type": "adverb",
+    "explanation": {
+      "content": [
+        "Phó từ"
+      ]
+    }
+  },
+  {
+    "id": "toOrganize",
+    "kanji": "整理します",
+    "hiragana": "せいりします",
+    "en": "to organize",
+    "vi": "Sắp xếp",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm III",
+        "《整理します、～する、～して》"
+      ]
+    }
+  },
+  {
+    "id": "bookCalled",
+    "kanji": "～という本",
+    "hiragana": "～というほん",
+    "en": "book called",
+    "vi": "Cuốn sách tên ~",
+    "type": "other",
+    "explanation": {
+      "content": [
+        "Thành ngữ"
+      ]
+    }
+  },
+  {
+    "id": "counterForBooks",
+    "kanji": "～冊",
+    "hiragana": "～さつ",
+    "en": "counter for books",
+    "vi": "~ quyển, cuốn (số đếm)",
+    "type": "other",
+    "explanation": {
+      "content": [
+        "Hậu tố đếm"
+      ]
+    }
+  },
+  {
+    "id": "seal",
+    "kanji": "判子",
+    "hiragana": "はんこ",
+    "en": "seal",
+    "vi": "Con dấu",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "toPress",
+    "kanji": "押します",
+    "hiragana": "おします",
+    "en": "to press",
+    "vi": "Ấn, đóng",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm I",
+        "《押します、押す、押して》",
+        "●「はんこを～」 Đóng dấu"
+      ]
+    }
+  },
+  {
+    "id": "twins",
+    "kanji": "双子",
+    "hiragana": "ふたご",
+    "en": "twins",
+    "vi": "Sinh đôi",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "fifthGrade",
+    "kanji": "5年生",
+    "hiragana": "ごねんせい",
+    "en": "fifth grade",
+    "vi": "Học sinh năm thứ 5",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "toResemble",
+    "kanji": "にています",
+    "hiragana": "にています",
+    "en": "to resemble",
+    "vi": "Giống",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm II",
+        "《にています、にている、にていて》"
+      ]
+    }
+  },
+  {
+    "id": "personality",
+    "kanji": "性格",
+    "hiragana": "せいかく",
+    "en": "personality",
+    "vi": "Tính cách",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "gentle",
+    "kanji": "大人しい",
+    "hiragana": "おとなしい",
+    "en": "gentle",
+    "vi": "Hiền lành, nhã nhặn",
+    "type": "adjective",
+    "explanation": {
+      "content": [
+        "Tính từ",
+        "［い］"
+      ]
+    }
+  },
+  {
+    "id": "toTakeCare",
+    "kanji": "せわをします",
+    "hiragana": "せわをします",
+    "en": "to take care",
+    "vi": "Chăm sóc",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm III",
+        "《します、する、して》"
+      ]
+    }
+  },
+  {
+    "id": "timePasses",
+    "kanji": "じかんがたちます",
+    "hiragana": "じかんがたちます",
+    "en": "time passes",
+    "vi": "Thời gian trôi",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm I",
+        "《たちます、たつ、たって》"
+      ]
+    }
+  },
+  {
+    "id": "toQuarrel",
+    "kanji": "けんかします",
+    "hiragana": "けんかします",
+    "en": "to quarrel",
+    "vi": "Cãi nhau, đánh nhau",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm III",
+        "《～する、～して》"
+      ]
+    }
+  },
+  {
+    "id": "strange",
+    "kanji": "不思議",
+    "hiragana": "ふしぎ",
+    "en": "strange",
+    "vi": "Kỳ lạ",
+    "type": "adjective",
+    "explanation": {
+      "content": [
+        "Tính từ",
+        "［な］"
+      ]
+    }
+  }
+]

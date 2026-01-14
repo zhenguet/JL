@@ -1,0 +1,542 @@
+[
+  {
+    "id": 1,
+    "question": "<b>nhà sản xuất</b>",
+    "options": [
+      "うまれます",
+      "かけます",
+      "もってきます",
+      "メーカー"
+    ],
+    "correctAnswer": 3,
+    "difficulty": 1
+  },
+  {
+    "id": 2,
+    "question": "<b>うーん</b>",
+    "options": [
+      "mũ bảo hiểm, mũ an toàn",
+      "phòng kiểu nhật",
+      "để tôi xem đã",
+      "đội [mũ]"
+    ],
+    "correctAnswer": 2,
+    "difficulty": 1
+  },
+  {
+    "id": 3,
+    "question": "<b>mang đến</b>",
+    "options": [
+      "もっていきます",
+      "もってきます",
+      "かけます",
+      "かぶります"
+    ],
+    "correctAnswer": 1,
+    "difficulty": 1
+  },
+  {
+    "id": 4,
+    "question": "<b>đi [giày], mặc [quần]</b>",
+    "options": [
+      "くつ／くつした／ずぼんをはきます",
+      "はきます",
+      "ふく",
+      "ぶひん"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 1
+  },
+  {
+    "id": 5,
+    "question": "<b>かぶります</b>",
+    "options": [
+      "bộ com lê",
+      "mang đi",
+      "mặc [áo sơ mi…]",
+      "đội [mũ]"
+    ],
+    "correctAnswer": 3,
+    "difficulty": 1
+  },
+  {
+    "id": 6,
+    "question": "<b>mũ</b>",
+    "options": [
+      "はきます",
+      "ぼうし",
+      "やくそく",
+      "ヘルメット"
+    ],
+    "correctAnswer": 1,
+    "difficulty": 1
+  },
+  {
+    "id": 7,
+    "question": "<b>おつかれさまでした</b>",
+    "options": [
+      "cảm ơn nhé. anh về nhé. (dùng khi người khác làm việc cho mình xong. hoặc khi người cùng làm trong cơ quan về sớm hơn mình thì nói câu này để chào.)",
+      "mũ bảo hiểm, mũ an toàn",
+      "mặc áo sơ mi",
+      "được sinh ra"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 1
+  },
+  {
+    "id": 8,
+    "question": "<b>được sinh ra</b>",
+    "options": [
+      "うまれます",
+      "ばんりのちょうじょう",
+      "もっていきます",
+      "もってきます"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 1
+  },
+  {
+    "id": 9,
+    "question": "<b>đội mũ</b>",
+    "options": [
+      "きます",
+      "ばんりのちょうじょう",
+      "ぼうし",
+      "ぼうしをかぶります"
+    ],
+    "correctAnswer": 3,
+    "difficulty": 1
+  },
+  {
+    "id": 10,
+    "question": "<b>bộ com lê</b>",
+    "options": [
+      "うまれます",
+      "おしいれ",
+      "アパート",
+      "スーツ"
+    ],
+    "correctAnswer": 3,
+    "difficulty": 1
+  },
+  {
+    "id": 11,
+    "question": "<b>ふく</b>",
+    "options": [
+      "mang đến",
+      "mũ",
+      "mũ bảo hiểm, mũ an toàn",
+      "áo, quần áo"
+    ],
+    "correctAnswer": 3,
+    "difficulty": 1
+  },
+  {
+    "id": 12,
+    "question": "<b>áo, quần áo</b>",
+    "options": [
+      "おつかれさまでした",
+      "ふく",
+      "ぶひん",
+      "レジャーはくしょ"
+    ],
+    "correctAnswer": 1,
+    "difficulty": 1
+  },
+  {
+    "id": 13,
+    "question": "<b>シャツ／コートをきます</b>",
+    "options": [
+      "kính",
+      "mặc áo sơ mi / áo khoác",
+      "áo choàng ngoài, áo măng tô",
+      "đi giày"
+    ],
+    "correctAnswer": 1,
+    "difficulty": 1
+  },
+  {
+    "id": 14,
+    "question": "<b>パリ</b>",
+    "options": [
+      "Paris",
+      "chăn",
+      "mang đến",
+      "xin phép tôi về trước (dùng khi về sớm hơn người khác)"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 1
+  },
+  {
+    "id": 15,
+    "question": "<b>コート</b>",
+    "options": [
+      "phòng kiểu nhật",
+      "áo choàng ngoài, áo măng tô",
+      "áo, quần áo",
+      "đội mũ"
+    ],
+    "correctAnswer": 1,
+    "difficulty": 1
+  },
+  {
+    "id": 16,
+    "question": "<b>セーター</b>",
+    "options": [
+      "kính",
+      "phòng kiểu nhật",
+      "áo choàng ngoài, áo măng tô",
+      "áo len"
+    ],
+    "correctAnswer": 3,
+    "difficulty": 1
+  },
+  {
+    "id": 17,
+    "question": "<b>mũ bảo hiểm, mũ an toàn</b>",
+    "options": [
+      "ぼうし",
+      "もってきます",
+      "やちん",
+      "ヘルメット"
+    ],
+    "correctAnswer": 3,
+    "difficulty": 1
+  },
+  {
+    "id": 18,
+    "question": "<b>めがね</b>",
+    "options": [
+      "kính",
+      "tiền thuê nhà",
+      "đeo kính",
+      "đội mũ"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 1
+  },
+  {
+    "id": 19,
+    "question": "<b>nhà bếp kiêm phòng ăn</b>",
+    "options": [
+      "おしいれ",
+      "もってきます",
+      "ダイニングキッチン",
+      "メーカー"
+    ],
+    "correctAnswer": 2,
+    "difficulty": 1
+  },
+  {
+    "id": 20,
+    "question": "<b>cảm ơn nhé. anh về nhé. (dùng khi người khác làm việc cho mình xong. hoặc khi người cùng làm trong cơ quan về sớm hơn mình thì nói câu này để chào.)</b>",
+    "options": [
+      "おつかれさまでした",
+      "シャツ／コートをきます",
+      "スーツ",
+      "ヘルメット"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 3
+  },
+  {
+    "id": 21,
+    "question": "<b>phụ tùng, linh kiện</b>",
+    "options": [
+      "おつかれさまでした",
+      "ぶひん",
+      "ぼうしをかぶります",
+      "パリ"
+    ],
+    "correctAnswer": 1,
+    "difficulty": 1
+  },
+  {
+    "id": 22,
+    "question": "<b>đi giày</b>",
+    "options": [
+      "うまれます",
+      "くつ／くつした／ずぼんをはきます",
+      "はきます",
+      "シャツ／コートをきます"
+    ],
+    "correctAnswer": 1,
+    "difficulty": 1
+  },
+  {
+    "id": 23,
+    "question": "<b>áo choàng ngoài, áo măng tô</b>",
+    "options": [
+      "かぶります",
+      "アパート",
+      "コート",
+      "シャツ／コートをきます"
+    ],
+    "correctAnswer": 2,
+    "difficulty": 1
+  },
+  {
+    "id": 24,
+    "question": "<b>đội [mũ]</b>",
+    "options": [
+      "かぶります",
+      "ぶひん",
+      "パリ",
+      "ヘルメット"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 1
+  },
+  {
+    "id": 25,
+    "question": "<b>Vạn lý trường thành</b>",
+    "options": [
+      "うーん",
+      "きます",
+      "ばんりのちょうじょう",
+      "やちん"
+    ],
+    "correctAnswer": 2,
+    "difficulty": 1
+  },
+  {
+    "id": 26,
+    "question": "<b>mang đi</b>",
+    "options": [
+      "うまれます",
+      "おさきにしつれいします",
+      "もっていきます",
+      "ヘルメット"
+    ],
+    "correctAnswer": 2,
+    "difficulty": 1
+  },
+  {
+    "id": 27,
+    "question": "<b>うまれます</b>",
+    "options": [
+      "lời hứa, hẹn",
+      "xin phép tôi về trước (dùng khi về sớm hơn người khác)",
+      "đi giày",
+      "được sinh ra"
+    ],
+    "correctAnswer": 3,
+    "difficulty": 1
+  },
+  {
+    "id": 28,
+    "question": "<b>めがねをかけます</b>",
+    "options": [
+      "mang đến",
+      "nhà sản xuất",
+      "đeo kính",
+      "đi giày"
+    ],
+    "correctAnswer": 2,
+    "difficulty": 1
+  },
+  {
+    "id": 29,
+    "question": "<b>kính</b>",
+    "options": [
+      "おしいれ",
+      "めがね",
+      "シャツ／コートをきます",
+      "レジャーはくしょ"
+    ],
+    "correctAnswer": 1,
+    "difficulty": 1
+  },
+  {
+    "id": 30,
+    "question": "<b>sách trắng giải trí</b>",
+    "options": [
+      "うーん",
+      "くつ／くつした／ずぼんをはきます",
+      "ふく",
+      "レジャーはくしょ"
+    ],
+    "correctAnswer": 3,
+    "difficulty": 1
+  },
+  {
+    "id": 31,
+    "question": "<b>はきます</b>",
+    "options": [
+      "Mang giày / mang tất / mặc quần",
+      "Mặc áo",
+      "Đeo kính",
+      "Đội mũ"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 1
+  },
+  {
+    "id": 32,
+    "question": "<b>やちん</b>",
+    "options": [
+      "Paris",
+      "sách trắng giải trí",
+      "tiền thuê nhà",
+      "để tôi xem đã"
+    ],
+    "correctAnswer": 2,
+    "difficulty": 1
+  },
+  {
+    "id": 33,
+    "question": "<b>レジャーはくしょ</b>",
+    "options": [
+      "cảm ơn nhé. anh về nhé. (dùng khi người khác làm việc cho mình xong. hoặc khi người cùng làm trong cơ quan về sớm hơn mình thì nói câu này để chào.)",
+      "lời hứa, hẹn",
+      "sách trắng giải trí",
+      "xin phép tôi về trước (dùng khi về sớm hơn người khác)"
+    ],
+    "correctAnswer": 2,
+    "difficulty": 1
+  },
+  {
+    "id": 34,
+    "question": "<b>phòng kiểu nhật</b>",
+    "options": [
+      "かけます",
+      "ふとん",
+      "やくそく",
+      "わしつ"
+    ],
+    "correctAnswer": 3,
+    "difficulty": 1
+  },
+  {
+    "id": 35,
+    "question": "<b>ぼうしをかぶります</b>",
+    "options": [
+      "nhà bếp kiêm phòng ăn",
+      "phòng kiểu nhật",
+      "được sinh ra",
+      "đội mũ"
+    ],
+    "correctAnswer": 3,
+    "difficulty": 1
+  },
+  {
+    "id": 36,
+    "question": "<b>アパート</b>",
+    "options": [
+      "chung cư",
+      "mang đi",
+      "áo len",
+      "được sinh ra"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 1
+  },
+  {
+    "id": 37,
+    "question": "<b>きます</b>",
+    "options": [
+      "cảm ơn nhé. anh về nhé. (dùng khi người khác làm việc cho mình xong. hoặc khi người cùng làm trong cơ quan về sớm hơn mình thì nói câu này để chào.)",
+      "mặc [áo sơ mi…]",
+      "áo choàng ngoài, áo măng tô",
+      "đi [giày], mặc [quần]"
+    ],
+    "correctAnswer": 1,
+    "difficulty": 1
+  },
+  {
+    "id": 38,
+    "question": "<b>ダイニングキッチン</b>",
+    "options": [
+      "chăn",
+      "nhà bếp kiêm phòng ăn",
+      "đeo kính",
+      "đi giày"
+    ],
+    "correctAnswer": 1,
+    "difficulty": 1
+  },
+  {
+    "id": 39,
+    "question": "<b>đeo [kính]</b>",
+    "options": [
+      "かけます",
+      "ふく",
+      "もっていきます",
+      "メーカー"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 1
+  },
+  {
+    "id": 40,
+    "question": "<b>またこんどおねがいします</b>",
+    "options": [
+      "Vạn lý trường thành",
+      "phụ tùng, linh kiện",
+      "xin phép tôi về trước (dùng khi về sớm hơn người khác)",
+      "xin để lần khác (cách từ chối gián tiếp)"
+    ],
+    "correctAnswer": 3,
+    "difficulty": 1
+  },
+  {
+    "id": 41,
+    "question": "<b>メーカー</b>",
+    "options": [
+      "bộ com lê",
+      "kính",
+      "mũ bảo hiểm, mũ an toàn",
+      "nhà sản xuất"
+    ],
+    "correctAnswer": 3,
+    "difficulty": 1
+  },
+  {
+    "id": 42,
+    "question": "<b>おさきにしつれいします</b>",
+    "options": [
+      "xin phép tôi về trước (dùng khi về sớm hơn người khác)",
+      "xin để lần khác (cách từ chối gián tiếp)",
+      "cảm ơn nhé. anh về nhé. (dùng khi người khác làm việc cho mình xong. hoặc khi người cùng làm trong cơ quan về sớm hơn mình thì nói câu này để chào.)",
+      "được sinh ra"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 1
+  },
+  {
+    "id": 43,
+    "question": "<b>おしいれ</b>",
+    "options": [
+      "tủ đựng quần áo kiểu Nhật",
+      "phòng kiểu nhật",
+      "chăn",
+      "chung cư"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 1
+  },
+  {
+    "id": 44,
+    "question": "<b>ふとん</b>",
+    "options": [
+      "chăn",
+      "phòng kiểu nhật",
+      "tủ đựng quần áo kiểu Nhật",
+      "nhà bếp kiêm phòng ăn"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 1
+  },
+  {
+    "id": 45,
+    "question": "<b>やくそく</b>",
+    "options": [
+      "lời hứa, hẹn",
+      "tiền thuê nhà",
+      "Paris",
+      "Vạn lý trường thành"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 1
+  }
+]

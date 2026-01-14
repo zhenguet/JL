@@ -1,15 +1,15 @@
 .usage-container {
-  color: #333;
+  color: var(--color-text-dark);
 }
 
 .usage-container h2 {
-  color: #667eea;
+  color: var(--color-primary);
   margin-bottom: 15px;
   font-size: 2rem;
 }
 
 .intro-text {
-  color: #666;
+  color: var(--color-text-light);
   margin-bottom: 30px;
   font-size: 1.1rem;
   line-height: 1.6;
@@ -22,23 +22,23 @@
 }
 
 .explanation-card {
-  background: #f8f9fa;
+  background: var(--color-bg-light);
   border-radius: 12px;
   padding: 25px;
-  border-left: 4px solid #667eea;
-  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+  border-left: 4px solid var(--color-primary);
+  box-shadow: 0 2px 8px var(--shadow-black-normal);
   transition: transform 0.2s ease, box-shadow 0.2s ease;
 }
 
 .explanation-card:hover {
   transform: translateY(-2px);
-  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+  box-shadow: 0 4px 12px var(--shadow-black-medium-dark);
 }
 
 .explanation-header {
   margin-bottom: 20px;
   padding-bottom: 15px;
-  border-bottom: 2px solid #e0e0e0;
+  border-bottom: 2px solid var(--color-border-light);
 }
 
 .word-display {
@@ -51,26 +51,26 @@
 .word-kanji {
   font-size: 1.8rem;
   font-weight: 700;
-  color: #333;
+  color: var(--color-text-dark);
 }
 
 .word-hiragana {
   font-size: 1.4rem;
-  color: #555;
+  color: var(--color-text-medium);
 }
 
 .word-meaning {
   font-size: 1.2rem;
-  color: #667eea;
+  color: var(--color-primary);
   font-weight: 600;
 }
 
 .explanation-content {
-  color: #444;
+  color: var(--color-text-medium);
 }
 
 .explanation-title {
-  color: #764ba2;
+  color: var(--color-primary);
   font-size: 1.3rem;
   margin-bottom: 15px;
   font-weight: 600;
@@ -87,21 +87,21 @@
   padding-left: 25px;
   position: relative;
   line-height: 1.8;
-  color: #555;
+  color: var(--color-text-medium);
 }
 
 .explanation-list li::before {
   content: '•';
   position: absolute;
   left: 0;
-  color: #667eea;
+  color: var(--color-primary);
   font-size: 1.5rem;
   line-height: 1.2;
 }
 
 .empty-message {
   text-align: center;
-  color: #999;
+  color: var(--color-text-lightest);
   font-size: 1.2rem;
   padding: 40px;
 }
@@ -121,7 +121,16 @@
   }
 
   .explanation-card {
-    padding: 20px;
+    padding: 10px;
+  }
+
+  .explanation-header {
+    margin-bottom: 10px;
+    padding-bottom: 6px;
+  }
+
+  .explanations-list {
+    gap: 10px;
   }
 }
 

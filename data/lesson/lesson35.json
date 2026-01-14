@@ -1,1 +1,795 @@
-﻿[]
+﻿[
+  {
+    "id": "toComeWith",
+    "kanji": "付きます",
+    "hiragana": "つきます",
+    "en": "to come with",
+    "vi": "Kèm theo",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm I",
+        "《付きます、付く、付いて》",
+        "●「リモコンが～」 Điều khiển từ xa được kèm theo"
+      ]
+    }
+  },
+  {
+    "id": "toSellWell",
+    "kanji": "売れます",
+    "hiragana": "うれます",
+    "en": "to sell well",
+    "vi": "Bán chạy",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm II",
+        "《売れます、売れる、売れて》",
+        "●「本が～」 Sách bán chạy"
+      ]
+    }
+  },
+  {
+    "id": "reservation",
+    "kanji": "予約",
+    "hiragana": "よやく",
+    "en": "reservation",
+    "vi": "Đặt trước, hẹn trước",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm III",
+        "《します、する、して》"
+      ]
+    }
+  },
+  {
+    "id": "delivery",
+    "kanji": "配達",
+    "hiragana": "はいたつ",
+    "en": "delivery",
+    "vi": "Giao hàng, phân phối (tận nhà)",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm III",
+        "《します、する、して》"
+      ]
+    }
+  },
+  {
+    "id": "impossible",
+    "kanji": "無理",
+    "hiragana": "むり",
+    "en": "impossible",
+    "vi": "Vô lý, không thể được",
+    "type": "adjective",
+    "explanation": {
+      "content": [
+        "Tính từ",
+        "［な］"
+      ]
+    }
+  },
+  {
+    "id": "battery",
+    "kanji": "電池",
+    "hiragana": "でんち",
+    "en": "battery",
+    "vi": "Pin",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "flash",
+    "kanji": "フラッシュ",
+    "hiragana": "フラッシュ",
+    "en": "flash",
+    "vi": "Đèn flash, đèn nháy",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "knob",
+    "kanji": "つまみ",
+    "hiragana": "つまみ",
+    "en": "knob",
+    "vi": "Quả nắm",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "lid",
+    "kanji": "蓋",
+    "hiragana": "ふた",
+    "en": "lid",
+    "vi": "Cái nắp",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "personalComputer",
+    "kanji": "パソコン",
+    "hiragana": "パソコン",
+    "en": "personal computer",
+    "vi": "Máy tính cá nhân",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "catalog",
+    "kanji": "カタログ",
+    "hiragana": "カタログ",
+    "en": "catalog",
+    "vi": "Bảng danh mục các mặt hàng",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "kind",
+    "kanji": "種類",
+    "hiragana": "しゅるい",
+    "en": "kind",
+    "vi": "Chủng loại",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "type",
+    "kanji": "タイプ",
+    "hiragana": "タイプ",
+    "en": "type",
+    "vi": "Kiểu mẫu",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "remoteControl",
+    "kanji": "リモコン",
+    "hiragana": "リモコン",
+    "en": "remote control",
+    "vi": "Bộ điều khiển từ xa",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "timer",
+    "kanji": "タイマー",
+    "hiragana": "タイマー",
+    "en": "timer",
+    "vi": "Đồng hồ định giờ",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "moreThan",
+    "kanji": "～以上",
+    "hiragana": "～いじょう",
+    "en": "more than",
+    "vi": "~ trở lên, hơn~",
+    "type": "other",
+    "explanation": {
+      "content": [
+        "Hậu tố"
+      ]
+    }
+  },
+  {
+    "id": "lessThan",
+    "kanji": "～以下",
+    "hiragana": "～いか",
+    "en": "less than",
+    "vi": "~ trở xuống, dưới ~",
+    "type": "other",
+    "explanation": {
+      "content": [
+        "Hậu tố"
+      ]
+    }
+  },
+  {
+    "id": "weHaveVarious",
+    "kanji": "ございます",
+    "hiragana": "ございます",
+    "en": "we have various",
+    "vi": "Dạ thưa có (nhiều loại)",
+    "type": "other",
+    "explanation": {
+      "content": [
+        "Kính ngữ",
+        "【いろいろ】ございます.",
+        "(kính ngữ của あります)"
+      ]
+    }
+  },
+  {
+    "id": "wontItBecomeCheaper",
+    "kanji": "なりませんか",
+    "hiragana": "なりませんか",
+    "en": "won't it become cheaper",
+    "vi": "Không rẻ hơn được à?",
+    "type": "other",
+    "explanation": {
+      "content": [
+        "Câu hỏi",
+        "やすく なりませんか"
+      ]
+    }
+  },
+  {
+    "id": "no",
+    "kanji": "いや",
+    "hiragana": "いや",
+    "en": "no",
+    "vi": "Không phải",
+    "type": "other",
+    "explanation": {
+      "content": [
+        "Từ phủ định"
+      ]
+    }
+  },
+  {
+    "id": "couldYouPleaseDeliver",
+    "kanji": "おねがいできませんか",
+    "hiragana": "おねがいできませんか",
+    "en": "could you please deliver",
+    "vi": "Có thể [giao hàng tận nhà] được không?",
+    "type": "other",
+    "explanation": {
+      "content": [
+        "Câu hỏi lịch sự",
+        "【はいたつ】を おねがいできませんか。"
+      ]
+    }
+  },
+  {
+    "id": "certainly",
+    "kanji": "かしこまりました",
+    "hiragana": "かしこまりました",
+    "en": "certainly",
+    "vi": "Vâng được ạ / Tôi hiểu rồi ạ.",
+    "type": "other",
+    "explanation": {
+      "content": [
+        "Kính ngữ",
+        "(kính ngữ)"
+      ]
+    }
+  },
+  {
+    "id": "toBloom",
+    "kanji": "咲きます",
+    "hiragana": "さきます",
+    "en": "to bloom",
+    "vi": "Nở",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm I",
+        "《咲きます、咲く、咲いて》",
+        "●「花が～」 Hoa nở"
+      ]
+    }
+  },
+  {
+    "id": "toChange",
+    "kanji": "変わります",
+    "hiragana": "かわります",
+    "en": "to change",
+    "vi": "Thay đổi",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm I",
+        "《変わります、変わる、変わって》",
+        "●「色が～」 Đổi màu"
+      ]
+    }
+  },
+  {
+    "id": "toHaveTrouble",
+    "kanji": "困ります",
+    "hiragana": "こまります",
+    "en": "to have trouble",
+    "vi": "Khó khăn",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm I",
+        "《困ります、困る、困って》"
+      ]
+    }
+  },
+  {
+    "id": "toMark",
+    "kanji": "つけます",
+    "hiragana": "つけます",
+    "en": "to mark",
+    "vi": "Đánh dấu",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm II",
+        "《つけます、つける、つけて》",
+        "●「まるを～」 Đánh dấu tròn"
+      ]
+    }
+  },
+  {
+    "id": "toPickUp",
+    "kanji": "拾います",
+    "hiragana": "ひろいます",
+    "en": "to pick up",
+    "vi": "Nhặt",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm I",
+        "《拾います、拾う、拾って》"
+      ]
+    }
+  },
+  {
+    "id": "easy",
+    "kanji": "楽",
+    "hiragana": "らく",
+    "en": "easy",
+    "vi": "Thoải mái, dễ dàng",
+    "type": "adjective",
+    "explanation": {
+      "content": [
+        "Tính từ",
+        "［な］"
+      ]
+    }
+  },
+  {
+    "id": "correct",
+    "kanji": "正しい",
+    "hiragana": "ただしい",
+    "en": "correct",
+    "vi": "Đúng, chính xác",
+    "type": "adjective",
+    "explanation": {
+      "content": [
+        "Tính từ",
+        "［い］"
+      ]
+    }
+  },
+  {
+    "id": "rare",
+    "kanji": "珍しい",
+    "hiragana": "めずらしい",
+    "en": "rare",
+    "vi": "Hiếm",
+    "type": "adjective",
+    "explanation": {
+      "content": [
+        "Tính từ",
+        "［い］"
+      ]
+    }
+  },
+  {
+    "id": "overThere",
+    "kanji": "向こう",
+    "hiragana": "むこう",
+    "en": "over there",
+    "vi": "Phía bên kia",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "island",
+    "kanji": "島",
+    "hiragana": "しま",
+    "en": "island",
+    "vi": "Đảo",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "port",
+    "kanji": "港",
+    "hiragana": "みなと",
+    "en": "port",
+    "vi": "Cảng",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "neighborhood",
+    "kanji": "近所",
+    "hiragana": "きんじょ",
+    "en": "neighborhood",
+    "vi": "Vùng lân cận",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "rooftop",
+    "kanji": "屋上",
+    "hiragana": "おくじょう",
+    "en": "rooftop",
+    "vi": "Sân thượng",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "overseas",
+    "kanji": "海外",
+    "hiragana": "かいがい",
+    "en": "overseas",
+    "vi": "Hải ngoại",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "mountainClimbing",
+    "kanji": "山登り",
+    "hiragana": "やまのぼり",
+    "en": "mountain climbing",
+    "vi": "Leo núi",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "hiking",
+    "kanji": "ハイキング",
+    "hiragana": "ハイキング",
+    "en": "hiking",
+    "vi": "Đi dã ngoại",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "opportunity",
+    "kanji": "機会",
+    "hiragana": "きかい",
+    "en": "opportunity",
+    "vi": "Cơ hội",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "permission",
+    "kanji": "許可",
+    "hiragana": "きょか",
+    "en": "permission",
+    "vi": "Cho phép",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "circle",
+    "kanji": "丸",
+    "hiragana": "まる",
+    "en": "circle",
+    "vi": "Dấu tròn",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "operation",
+    "kanji": "操作",
+    "hiragana": "そうさ",
+    "en": "operation",
+    "vi": "Thao tác",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "method",
+    "kanji": "方法",
+    "hiragana": "ほうほう",
+    "en": "method",
+    "vi": "Phương pháp",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "equipment",
+    "kanji": "設備",
+    "hiragana": "せつび",
+    "en": "equipment",
+    "vi": "Thiết bị",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "curtain",
+    "kanji": "カーテン",
+    "hiragana": "カーテン",
+    "en": "curtain",
+    "vi": "Rèm cửa",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "leaf",
+    "kanji": "葉",
+    "hiragana": "は",
+    "en": "leaf",
+    "vi": "Lá cây",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "song",
+    "kanji": "曲",
+    "hiragana": "きょく",
+    "en": "song",
+    "vi": "Ca khúc",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "pleasure",
+    "kanji": "楽しみ",
+    "hiragana": "たのしみ",
+    "en": "pleasure",
+    "vi": "Niềm hân hoan, vui sướng",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "more",
+    "kanji": "もっと",
+    "hiragana": "もっと",
+    "en": "more",
+    "vi": "Hơn nữa",
+    "type": "adverb",
+    "explanation": {
+      "content": [
+        "Phó từ"
+      ]
+    }
+  },
+  {
+    "id": "first",
+    "kanji": "始めに",
+    "hiragana": "はじめに",
+    "en": "first",
+    "vi": "Đầu tiên",
+    "type": "adverb",
+    "explanation": {
+      "content": [
+        "Phó từ"
+      ]
+    }
+  },
+  {
+    "id": "thisIsTheEnd",
+    "kanji": "おわります",
+    "hiragana": "おわります",
+    "en": "this is the end",
+    "vi": "Kết thúc ở đây",
+    "type": "other",
+    "explanation": {
+      "content": [
+        "Câu nói",
+        "これで おわります。"
+      ]
+    }
+  },
+  {
+    "id": "ifSo",
+    "kanji": "それなら",
+    "hiragana": "それなら",
+    "en": "if so",
+    "vi": "Nếu vậy thì",
+    "type": "other",
+    "explanation": {
+      "content": [
+        "Từ nối"
+      ]
+    }
+  },
+  {
+    "id": "nightBus",
+    "kanji": "夜行バス",
+    "hiragana": "やこうバス",
+    "en": "night bus",
+    "vi": "Xe buýt đêm",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "travelAgency",
+    "kanji": "旅行者",
+    "hiragana": "りょこうしゃ",
+    "en": "travel agency",
+    "vi": "Công ty du lịch",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "detailed",
+    "kanji": "詳しい",
+    "hiragana": "くわしい",
+    "en": "detailed",
+    "vi": "Rõ, tường tận",
+    "type": "adjective",
+    "explanation": {
+      "content": [
+        "Tính từ",
+        "［い］"
+      ]
+    }
+  },
+  {
+    "id": "skiResort",
+    "kanji": "スキーじょう",
+    "hiragana": "スキーじょう",
+    "en": "ski resort",
+    "vi": "Bãi trượt tuyết",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "vermilion",
+    "kanji": "朱",
+    "hiragana": "しゅ",
+    "en": "vermilion",
+    "vi": "Màu son",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "proverb",
+    "kanji": "ことわざ",
+    "hiragana": "ことわざ",
+    "en": "proverb",
+    "vi": "Thành ngữ",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "necessary",
+    "kanji": "必要",
+    "hiragana": "ひつよう",
+    "en": "necessary",
+    "vi": "Cần thiết",
+    "type": "adjective",
+    "explanation": {
+      "content": [
+        "Tính từ",
+        "［な］"
+      ]
+    }
+  }
+]

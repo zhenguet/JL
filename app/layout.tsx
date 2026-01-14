@@ -1,10 +1,18 @@
 import type { Metadata } from 'next'
-import './globals.css'
-import ThemeRegistry from './theme/ThemeRegistry'
+import '@/lib/styles/globals.css'
+import ThemeRegistry from '@/lib/styles/theme/ThemeRegistry'
+import { I18nProvider } from '@/i18n/context'
+import { ThemeProvider } from '@/lib/styles/theme/context'
+import { initThemeScript } from '@/lib/styles/theme/init-theme'
 
 export const metadata: Metadata = {
   title: 'Minna no Nihongo - Ứng dụng học tiếng Nhật',
   description: 'Học từ vựng Minna no Nihongo với flashcard và bài tập',
+  icons: {
+    icon: '/JL/logo.png',
+    shortcut: '/JL/logo.png',
+    apple: '/JL/logo.png',
+  },
 }
 
 export default function RootLayout({
@@ -13,9 +21,14 @@ export default function RootLayout({
   children: React.ReactNode
 }) {
   return (
-    <html lang="vi">
+    <html lang="vi" suppressHydrationWarning>
       <body>
-        <ThemeRegistry>{children}</ThemeRegistry>
+        <script dangerouslySetInnerHTML={{ __html: initThemeScript }} />
+        <ThemeProvider>
+          <I18nProvider>
+            <ThemeRegistry>{children}</ThemeRegistry>
+          </I18nProvider>
+        </ThemeProvider>
       </body>
     </html>
   )

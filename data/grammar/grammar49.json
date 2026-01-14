@@ -1,1 +1,231 @@
-﻿[]
+﻿[
+  {
+    "id": "sonkeigo-o-go",
+    "title": "Dùng tiền tố 「お」 và「ご」 - Tôn kính ngữ",
+    "description": "Tiền tố 「お」 và「ご」 được sử dụng rất nhiều trong câu kính ngữ. Chữ 御 (NGỰ) với tư cách là tiền tố được thêm vào phía trước các loại từ (danh từ, tính từ, phó từ). Về nguyên tắc, 「お」 sẽ đi với những từ thuần Nhật (和語) và「ご」 sẽ ghép với những từ gốc Hán (漢語)",
+    "structure": "お + 和語 / ご + 漢語",
+    "examples": [
+      {
+        "japanese": "お洗濯する",
+        "romaji": "o sentaku suru",
+        "vietnamese": "giặt (kính ngữ)"
+      },
+      {
+        "japanese": "お掃除する",
+        "romaji": "o souji suru",
+        "vietnamese": "quét dọn (kính ngữ)"
+      },
+      {
+        "japanese": "お邪魔する",
+        "romaji": "o jama suru",
+        "vietnamese": "làm phiền (kính ngữ)"
+      }
+    ],
+    "notes": [
+      "Tiền tố 「お」 và「ご」 được sử dụng rất nhiều trong câu kính ngữ",
+      "Chữ 御 (NGỰ) với tư cách là tiền tố được thêm vào phía trước các loại từ (danh từ, tính từ, phó từ)",
+      "Về nguyên tắc, 「お」 sẽ đi với những từ thuần Nhật (和語) và「ご」 sẽ ghép với những từ gốc Hán (漢語)",
+      "Tuy nhiên trong tiếng Nhật hàng ngày vẫn có những từ là gốc Hán nhưng vẫn đi với tiền tố 「お」. Ví dụ như: お洗濯する、お掃除する、お邪魔する"
+    ]
+  },
+  {
+    "id": "sonkeigo-passive",
+    "title": "Sử dụng động từ THỂ BỊ ĐỘNG - Tôn kính ngữ",
+    "description": "Về hình thức, động từ thể hiện kính ngữ kiểu này có cách chia giống hệt động từ dạng bị động. Hầu hết tất cả các động từ đều có thể áp dụng được trừ động từ dạng khả năng (可能形) và một số động từ như: できます、わかります、いります",
+    "structure": "V（ら）れます",
+    "examples": [
+      {
+        "japanese": "社長は さっき 出かけられました。",
+        "romaji": "Shachou wa sakki dekakeraremashita.",
+        "vietnamese": "Giám đốc đã đi ra ngoài lúc nãy rồi ạ."
+      },
+      {
+        "japanese": "酒を やめられたんですか。",
+        "romaji": "Sake o yamerareta n desu ka.",
+        "vietnamese": "Anh đã bỏ rượu rồi ạ?"
+      },
+      {
+        "japanese": "いつ ベトナムに 来られましたか。",
+        "romaji": "Itsu Betonamu ni koraremashita ka.",
+        "vietnamese": "Ngài đến Việt Nam lúc nào thế ạ?"
+      },
+      {
+        "japanese": "会長は 今アメリカへ 出張されています。",
+        "romaji": "Kaichou wa ima Amerika e shucchou sarete imasu.",
+        "vietnamese": "Chủ tịch đang đi công tác Mỹ"
+      }
+    ],
+    "notes": [
+      "Ý nghĩa: thể hiện sự kính trọng",
+      "Về hình thức, động từ thể hiện kính ngữ kiểu này có cách chia giống hệt động từ dạng bị động",
+      "Hầu hết tất cả các động từ đều có thể áp dụng được trừ động từ dạng khả năng (可能形) và một số động từ như: できます、わかります、いります",
+      "Cả nam và nữ đều sử dụng được nhưng nam giới thường sử dụng nhiều hơn",
+      "Kiểu thể hiện này cũng hay được dùng trong văn viết",
+      "Tôn kính ngữ không sử dụng khi nói về hành động của người nói nên đối với câu hỏi sử dụng tôn kính ngữ thì khi trả lời không sử dụng tôn kính ngữ với hành động của mình"
+    ]
+  },
+  {
+    "id": "sonkeigo-o-v-masu-ni-narimasu",
+    "title": "おVます になります - Tôn kính ngữ",
+    "description": "Đây là cách thể hiện rất mềm dẻo, có mức độ tôn kính cao hơn cả trường hợp sử dụng động từ dạng bị động. Cả nam và nữ đều dùng được nhưng nữ giới thường sử dụng nhiều hơn. Không áp dụng với động từ nhóm 3 và động từ 1 âm tiết như: 見ます、寝ます、います…",
+    "structure": "おVます になります",
+    "examples": [
+      {
+        "japanese": "社長は お帰りに なりました。",
+        "romaji": "Shachou wa o kaeri ni narimashita.",
+        "vietnamese": "Giám đốc đã về rồi ạ."
+      },
+      {
+        "japanese": "新聞を お読みに なりますか。",
+        "romaji": "Shinbun o o yomi ni narimasu ka.",
+        "vietnamese": "Ngài/Bạn có đọc báo không ạ?"
+      },
+      {
+        "japanese": "部長は 加藤さんを お呼びに なりました。",
+        "romaji": "Buchou wa Kato-san o o yobi ni narimashita.",
+        "vietnamese": "Trưởng phòng đã gọi chị Kato"
+      },
+      {
+        "japanese": "A: 今晩 何時に 山本さんに お会いに なりますか。 B: ６時１５分過ぎに 会います。",
+        "romaji": "A: Konban nanji ni Yamamoto-san ni o ai ni narimasu ka. B: Rokuji juugofun sugi ni aimasu.",
+        "vietnamese": "A: Tối nay mấy giờ ngài sẽ gặp chị Yamamoto? B: Tôi sẽ gặp lúc 6 giờ 15"
+      }
+    ],
+    "notes": [
+      "Ý nghĩa: thể hiện sự tôn kính, kính trọng (mức độ cao nhất)",
+      "Đây là cách thể hiện rất mềm dẻo, có mức độ tôn kính cao hơn cả trường hợp sử dụng động từ dạng bị động",
+      "Cả nam và nữ đều dùng được nhưng nữ giới thường sử dụng nhiều hơn",
+      "Không áp dụng với động từ nhóm 3 và động từ 1 âm tiết như: 見ます、寝ます、います…",
+      "Tôn kính ngữ không sử dụng khi nói về hành động của người nói nên đối với câu hỏi sử dụng tôn kính ngữ thì khi trả lời không sử dụng tôn kính ngữ với hành động của mình"
+    ]
+  },
+  {
+    "id": "sonkeigo-special-verbs",
+    "title": "Tôn kính ngữ đặc biệt",
+    "description": "Các động từ có dạng tôn kính ngữ đặc biệt, không tuân theo quy tắc thông thường",
+    "structure": "Tôn kính ngữ đặc biệt",
+    "examples": [
+      {
+        "japanese": "いきます → いらっしゃいます",
+        "romaji": "ikimasu → irasshaimasu",
+        "vietnamese": "đi → đi (tôn kính)"
+      },
+      {
+        "japanese": "きます → いらっしゃいます / みえます",
+        "romaji": "kimasu → irasshaimasu / miemasu",
+        "vietnamese": "đến → đến (tôn kính)"
+      },
+      {
+        "japanese": "います → いらっしゃいます",
+        "romaji": "imasu → irasshaimasu",
+        "vietnamese": "ở → ở (tôn kính)"
+      },
+      {
+        "japanese": "たべます → めしあがります",
+        "romaji": "tabemasu → meshiagarimasu",
+        "vietnamese": "ăn → ăn (tôn kính)"
+      },
+      {
+        "japanese": "のみます → めしあがります",
+        "romaji": "nomimasu → meshiagarimasu",
+        "vietnamese": "uống → uống (tôn kính)"
+      },
+      {
+        "japanese": "します → なさいます",
+        "romaji": "shimasu → nasaimasu",
+        "vietnamese": "làm → làm (tôn kính)"
+      },
+      {
+        "japanese": "いいます → おっしゃいます",
+        "romaji": "iimasu → osshaimasu",
+        "vietnamese": "nói → nói (tôn kính)"
+      },
+      {
+        "japanese": "しっています → ごぞんじです",
+        "romaji": "shitte imasu → gozonji desu",
+        "vietnamese": "biết → biết (tôn kính)"
+      },
+      {
+        "japanese": "ねます → おやすみになります",
+        "romaji": "nemasu → oyasumi ni narimasu",
+        "vietnamese": "ngủ → ngủ (tôn kính)"
+      },
+      {
+        "japanese": "みます → ごらんになります",
+        "romaji": "mimasu → goran ni narimasu",
+        "vietnamese": "xem → xem (tôn kính)"
+      },
+      {
+        "japanese": "（Vて）くれます → （Vて）くださいます",
+        "romaji": "(V te) kuremasu → (V te) kudasaimasu",
+        "vietnamese": "cho → cho (tôn kính)"
+      }
+    ],
+    "notes": [
+      "Các động từ có dạng tôn kính ngữ đặc biệt, không tuân theo quy tắc thông thường",
+      "Xem BẢNG KÍNH NGỮ ĐẶC BIỆT của động từ để biết chi tiết",
+      "Một số ví dụ: いきます → いらっしゃいます, たべます → めしあがります, いいます → おっしゃいます"
+    ]
+  },
+  {
+    "id": "sonkeigo-nouns-adjectives",
+    "title": "Tôn kính ngữ của Danh từ & Tính từ",
+    "description": "Ở cấp độ đơn vị danh từ, ngoài những kính ngữ đặc biệt đã liệt kê ở trên, có thể dùng tiếp đầu ngữ 「お」 và「ご」 để tạo thành kính ngữ. Tuy nhiên, cũng có danh từ không thể ghép 「お」 hay 「ご」",
+    "structure": "お + 和語 / ご + 漢語",
+    "examples": [
+      {
+        "japanese": "わかい → おわかい",
+        "romaji": "wakai → o wakai",
+        "vietnamese": "trẻ → trẻ (tôn kính)"
+      },
+      {
+        "japanese": "いそがしい → おいそがしい",
+        "romaji": "isogashii → o isogashii",
+        "vietnamese": "bận → bận (tôn kính)"
+      },
+      {
+        "japanese": "じょうず（な） → おじょうず（な）",
+        "romaji": "jouzu (na) → o jouzu (na)",
+        "vietnamese": "giỏi → giỏi (tôn kính)"
+      },
+      {
+        "japanese": "ていねい（な） → ごていねい（な）",
+        "romaji": "teinei (na) → go teinei (na)",
+        "vietnamese": "lịch sự → lịch sự (tôn kính)"
+      },
+      {
+        "japanese": "お呼びです = 呼んでいます",
+        "romaji": "o yobi desu = yonde imasu",
+        "vietnamese": "đang gọi"
+      },
+      {
+        "japanese": "お見えです = 来ます／来ています／来ました",
+        "romaji": "o mie desu = kimasu / kite imasu / kimashita",
+        "vietnamese": "đang đến / đã đến"
+      },
+      {
+        "japanese": "おいでです = 行きます／来ます／います",
+        "romaji": "o ide desu = ikimasu / kimasu / imasu",
+        "vietnamese": "đi / đến / ở"
+      },
+      {
+        "japanese": "待ってください = お待ちください",
+        "romaji": "matte kudasai = o machi kudasai",
+        "vietnamese": "xin hãy đợi"
+      },
+      {
+        "japanese": "入ってください = お入りください",
+        "romaji": "haitte kudasai = o hairi kudasai",
+        "vietnamese": "xin mời vào"
+      }
+    ],
+    "notes": [
+      "Ở cấp độ đơn vị danh từ, ngoài những kính ngữ đặc biệt đã liệt kê ở trên, có thể dùng tiếp đầu ngữ 「お」 và「ご」 để tạo thành kính ngữ",
+      "Tuy nhiên, cũng có danh từ không thể ghép 「お」 hay 「ご」. Ví dụ: ×お会社",
+      "Một số danh từ chỉ chức danh như 部長、先生、社長…bản thân nó đã bao hàm ý tôn kính nên không cần thêm「さん」",
+      "Với những danh từ chưa bao hàm ý kính trọng thì có thể thêm 「さん（さま）」 để tăng thêm ý lịch sự",
+      "Cách nói lịch sự của 「～てください」: おVますください",
+      "Một số cách nói đặc biệt: お呼びです = 呼んでいます, お見えです = 来ます／来ています／来ました, おいでです = 行きます／来ます／います"
+    ]
+  }
+]

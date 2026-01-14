@@ -1,0 +1,662 @@
+[
+  {
+    "id": 1,
+    "question": "<b>くち</b>",
+    "options": [
+      "Asia/Châu Á",
+      "Huế",
+      "miệng",
+      "ấn, đẩy"
+    ],
+    "correctAnswer": 2,
+    "difficulty": 1
+  },
+  {
+    "id": 2,
+    "question": "<b>thay, đổi (tàu điện…)</b>",
+    "options": [
+      "あし",
+      "だいがくをでます",
+      "のりかえます",
+      "アジア"
+    ],
+    "correctAnswer": 2,
+    "difficulty": 1
+  },
+  {
+    "id": 3,
+    "question": "<b>ăn cơm, ăn uống</b>",
+    "options": [
+      "あんしょうばんごう",
+      "くち",
+      "しょくじします",
+      "でんしゃにのります"
+    ],
+    "correctAnswer": 2,
+    "difficulty": 1
+  },
+  {
+    "id": 4,
+    "question": "<b>Mắt</b>",
+    "options": [
+      "て",
+      "は",
+      "みみ",
+      "め"
+    ],
+    "correctAnswer": 3,
+    "difficulty": 1
+  },
+  {
+    "id": 5,
+    "question": "<b>しょくじします</b>",
+    "options": [
+      "chân",
+      "lên tàu điện",
+      "~ nào",
+      "ăn cơm, ăn uống"
+    ],
+    "correctAnswer": 3,
+    "difficulty": 1
+  },
+  {
+    "id": 6,
+    "question": "<b><ruby>確認<rp>（</rp><rt>かくにん</rt><rp>）</rp></ruby></b>",
+    "options": [
+      "あんしょうばんごう",
+      "おします",
+      "かくにん",
+      "りゅうがくせい"
+    ],
+    "correctAnswer": 2,
+    "difficulty": 2
+  },
+  {
+    "id": 7,
+    "question": "<b>~ nào</b>",
+    "options": [
+      "おひきだしですか",
+      "だします",
+      "どの",
+      "アジア"
+    ],
+    "correctAnswer": 2,
+    "difficulty": 1
+  },
+  {
+    "id": 8,
+    "question": "<b>miệng</b>",
+    "options": [
+      "あし",
+      "おります",
+      "くち",
+      "フエ"
+    ],
+    "correctAnswer": 2,
+    "difficulty": 1
+  },
+  {
+    "id": 9,
+    "question": "<b>ra trường</b>",
+    "options": [
+      "だいがくをでます",
+      "どうやって",
+      "は",
+      "バンドン"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 1
+  },
+  {
+    "id": 10,
+    "question": "<b>ハンバーグ</b>",
+    "options": [
+      "bít tết Hamburg / thịt bò băm viên (hamburg steak)",
+      "lên, đi [tàu điện]",
+      "màu xanh lá cây",
+      "vào (trường)"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 1
+  },
+  {
+    "id": 11,
+    "question": "<b>かみ</b>",
+    "options": [
+      "Bandung (Indonesia)",
+      "Franken (Đức)",
+      "màu xanh lá cây",
+      "tóc"
+    ],
+    "correctAnswer": 3,
+    "difficulty": 1
+  },
+  {
+    "id": 12,
+    "question": "<b>ジョギング</b>",
+    "options": [
+      "Bơi lội",
+      "Chạy bộ",
+      "Dạo bộ",
+      "Leo núi"
+    ],
+    "correctAnswer": 1,
+    "difficulty": 1
+  },
+  {
+    "id": 13,
+    "question": "<b>おてら</b>",
+    "options": [
+      "Chùa",
+      "Miếu",
+      "Nhà thờ",
+      "Đền"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 1
+  },
+  {
+    "id": 14,
+    "question": "<b>アジア</b>",
+    "options": [
+      "Asia/Châu Á",
+      "cái gì cũng được. thế nào cũng được",
+      "gần, khoảng chừng (về thời gian)",
+      "sự xác nhận (danh từ)"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 1
+  },
+  {
+    "id": 15,
+    "question": "<b>いれます</b>",
+    "options": [
+      "cho vào, lồng vào",
+      "Lấy ra",
+      "Quét",
+      "Thúc giục"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 1
+  },
+  {
+    "id": 16,
+    "question": "<b>はな</b>",
+    "options": [
+      "(ngài) rút tiền ạ?",
+      "mũi",
+      "thân thể",
+      "ấn, đẩy"
+    ],
+    "correctAnswer": 1,
+    "difficulty": 1
+  },
+  {
+    "id": 17,
+    "question": "<b><ruby>金額<rp>（</rp><rt>きんがく</rt><rp>）</rp></ruby></b>",
+    "options": [
+      "あるきます",
+      "きんがく",
+      "はな",
+      "め"
+    ],
+    "correctAnswer": 1,
+    "difficulty": 2
+  },
+  {
+    "id": 18,
+    "question": "<b>どの</b>",
+    "options": [
+      "lên tàu điện",
+      "ra trường",
+      "xuống khỏi tàu điện",
+      "~ nào"
+    ],
+    "correctAnswer": 3,
+    "difficulty": 1
+  },
+  {
+    "id": 19,
+    "question": "<b><ruby>神社<rp>（</rp><rt>じんじゃ</rt><rp>）</rp></ruby></b>",
+    "options": [
+      "あらいます",
+      "じんじゃ",
+      "りゅうがくせい",
+      "キャッシュカード"
+    ],
+    "correctAnswer": 1,
+    "difficulty": 2
+  },
+  {
+    "id": 20,
+    "question": "<b>lấy ra, đưa ra, nộp (báo cáo)</b>",
+    "options": [
+      "かいしゃをやめます",
+      "だします",
+      "なんにしますか",
+      "のります"
+    ],
+    "correctAnswer": 1,
+    "difficulty": 1
+  },
+  {
+    "id": 21,
+    "question": "<b>あし</b>",
+    "options": [
+      "Franken (Đức)",
+      "chân",
+      "chùa",
+      "thôi việc"
+    ],
+    "correctAnswer": 1,
+    "difficulty": 1
+  },
+  {
+    "id": 22,
+    "question": "<b>nút, cúc áo</b>",
+    "options": [
+      "からだ",
+      "なんにしますか",
+      "ジョギング",
+      "ボタン"
+    ],
+    "correctAnswer": 3,
+    "difficulty": 1
+  },
+  {
+    "id": 23,
+    "question": "<b>số tiền</b>",
+    "options": [
+      "おひきだしですか",
+      "きんがく",
+      "アジア",
+      "バンドン"
+    ],
+    "correctAnswer": 1,
+    "difficulty": 1
+  },
+  {
+    "id": 24,
+    "question": "<b>かいしゃをやめます</b>",
+    "options": [
+      "thôi việc",
+      "tóc",
+      "việc chạy bộ (danh từ)",
+      "vào đại học"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 1
+  },
+  {
+    "id": 25,
+    "question": "<b>ấn, đẩy</b>",
+    "options": [
+      "おします",
+      "おります",
+      "て",
+      "どうやって"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 1
+  },
+  {
+    "id": 26,
+    "question": "<b>なんにしますか</b>",
+    "options": [
+      "Veracruz (Mexico)",
+      "bạn muốn (ăn, uống) gì?",
+      "chạy bộ",
+      "số tiền"
+    ],
+    "correctAnswer": 1,
+    "difficulty": 1
+  },
+  {
+    "id": 27,
+    "question": "<b>lên, đi [tàu điện]</b>",
+    "options": [
+      "て",
+      "のります",
+      "やめます",
+      "フエ"
+    ],
+    "correctAnswer": 1,
+    "difficulty": 1
+  },
+  {
+    "id": 28,
+    "question": "<b>おなか</b>",
+    "options": [
+      "bụng",
+      "cái gì cũng được. thế nào cũng được",
+      "nút, cúc áo",
+      "sự xác nhận (danh từ)"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 1
+  },
+  {
+    "id": 29,
+    "question": "<b>rửa, tắm rửa, giặt</b>",
+    "options": [
+      "あらいます",
+      "いれます",
+      "だいがくをでます",
+      "ハンバーグ"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 1
+  },
+  {
+    "id": 30,
+    "question": "<b>cái gì cũng được. thế nào cũng được</b>",
+    "options": [
+      "おなか",
+      "なんでもいいです",
+      "のります",
+      "みみ"
+    ],
+    "correctAnswer": 1,
+    "difficulty": 1
+  },
+  {
+    "id": 31,
+    "question": "<b>フランケン</b>",
+    "options": [
+      "Franken (Đức)",
+      "màu xanh lá cây",
+      "tay",
+      "ấn, đẩy"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 1
+  },
+  {
+    "id": 32,
+    "question": "<b>あらいます</b>",
+    "options": [
+      "bụng",
+      "gần, khoảng chừng (về thời gian)",
+      "rửa, tắm rửa, giặt",
+      "vào đại học"
+    ],
+    "correctAnswer": 2,
+    "difficulty": 1
+  },
+  {
+    "id": 33,
+    "question": "<b>chạy bộ</b>",
+    "options": [
+      "かくにん",
+      "かみ",
+      "だいがくをでます",
+      "ジョギングをします"
+    ],
+    "correctAnswer": 3,
+    "difficulty": 1
+  },
+  {
+    "id": 34,
+    "question": "<b>tắm [bằng vòi hoa sen], giội nước, tưới nước</b>",
+    "options": [
+      "あびます",
+      "かお",
+      "でんしゃにのります",
+      "ボタン"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 1
+  },
+  {
+    "id": 35,
+    "question": "<b>じんじゃ</b>",
+    "options": [
+      "bụng",
+      "dịch vụ",
+      "miệng",
+      "đền"
+    ],
+    "correctAnswer": 3,
+    "difficulty": 1
+  },
+  {
+    "id": 36,
+    "question": "<b>シャワーをあびます</b>",
+    "options": [
+      "dịch vụ",
+      "tắm vòi tắm hoa sen",
+      "việc chạy bộ (danh từ)",
+      "xuống khỏi tàu điện"
+    ],
+    "correctAnswer": 1,
+    "difficulty": 1
+  },
+  {
+    "id": 37,
+    "question": "<b>みどり</b>",
+    "options": [
+      "Veracruz (Mexico)",
+      "màu xanh lá cây",
+      "rửa, tắm rửa, giặt",
+      "vào đại học"
+    ],
+    "correctAnswer": 1,
+    "difficulty": 1
+  },
+  {
+    "id": 38,
+    "question": "<b>みみ</b>",
+    "options": [
+      "chùa",
+      "mặt",
+      "tai",
+      "~ nào"
+    ],
+    "correctAnswer": 2,
+    "difficulty": 1
+  },
+  {
+    "id": 39,
+    "question": "<b>Asia/Châu Á</b>",
+    "options": [
+      "くち",
+      "なんにしますか",
+      "アジア",
+      "キャッシュカード"
+    ],
+    "correctAnswer": 2,
+    "difficulty": 1
+  },
+  {
+    "id": 40,
+    "question": "<b>りゅうがくせい</b>",
+    "options": [
+      "Di dân",
+      "Du học",
+      "Du học sinh",
+      "Người du lịch"
+    ],
+    "correctAnswer": 2,
+    "difficulty": 1
+  },
+  {
+    "id": 41,
+    "question": "<b>ボタン</b>",
+    "options": [
+      "Veracruz (Mexico)",
+      "làm thế nào",
+      "nút, cúc áo",
+      "rửa, tắm rửa, giặt"
+    ],
+    "correctAnswer": 2,
+    "difficulty": 1
+  },
+  {
+    "id": 42,
+    "question": "<b>あんしょうばんごう</b>",
+    "options": [
+      "cho vào, lồng vào",
+      "mã Pin",
+      "mắt",
+      "tắm [bằng vòi hoa sen], giội nước, tưới nước"
+    ],
+    "correctAnswer": 1,
+    "difficulty": 1
+  },
+  {
+    "id": 43,
+    "question": "<b>はいります</b>",
+    "options": [
+      "(ngài) rút tiền ạ?",
+      "nghỉ, thôi (việc)",
+      "tóc",
+      "vào (trường)"
+    ],
+    "correctAnswer": 3,
+    "difficulty": 1
+  },
+  {
+    "id": 44,
+    "question": "<b>おります</b>",
+    "options": [
+      "thay, đổi (tàu điện…)",
+      "việc chạy bộ (danh từ)",
+      "xuống [khỏi tàu điện]",
+      "đi bộ, bước đi"
+    ],
+    "correctAnswer": 2,
+    "difficulty": 1
+  },
+  {
+    "id": 45,
+    "question": "<b>のります</b>",
+    "options": [
+      "cho vào, lồng vào",
+      "lên, đi [tàu điện]",
+      "thân thể",
+      "vào đại học"
+    ],
+    "correctAnswer": 1,
+    "difficulty": 1
+  },
+  {
+    "id": 46,
+    "question": "<b>でんしゃにのります</b>",
+    "options": [
+      "Franken (Đức)",
+      "chùa",
+      "không tôi vẫn còn kém lắm (cách nói khiêm tốn)",
+      "lên tàu điện"
+    ],
+    "correctAnswer": 3,
+    "difficulty": 1
+  },
+  {
+    "id": 47,
+    "question": "<b>きんがく</b>",
+    "options": [
+      "bạn muốn (ăn, uống) gì?",
+      "chùa",
+      "rửa, tắm rửa, giặt",
+      "số tiền"
+    ],
+    "correctAnswer": 3,
+    "difficulty": 1
+  },
+  {
+    "id": 48,
+    "question": "<b>やめます</b>",
+    "options": [
+      "chùa",
+      "mũi",
+      "nghỉ, thôi (việc)",
+      "à… (khi ngừng để suy nghĩ và nói tiếp)"
+    ],
+    "correctAnswer": 2,
+    "difficulty": 1
+  },
+  {
+    "id": 49,
+    "question": "<b>からだ</b>",
+    "options": [
+      "thân thể",
+      "mặt",
+      "mũi",
+      "tay"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 1
+  },
+  {
+    "id": 50,
+    "question": "<b>かお</b>",
+    "options": [
+      "thân thể",
+      "mặt",
+      "mũi",
+      "tay"
+    ],
+    "correctAnswer": 1,
+    "difficulty": 1
+  },
+  {
+    "id": 51,
+    "question": "<b>て</b>",
+    "options": [
+      "thân thể",
+      "mặt",
+      "mũi",
+      "tay"
+    ],
+    "correctAnswer": 3,
+    "difficulty": 1
+  },
+  {
+    "id": 52,
+    "question": "<b>どうやって</b>",
+    "options": [
+      "làm thế nào",
+      "~ nào",
+      "cái gì cũng được. thế nào cũng được",
+      "số tiền"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 1
+  },
+  {
+    "id": 53,
+    "question": "<b>キャッシュカード</b>",
+    "options": [
+      "thẻ ATM",
+      "mã Pin",
+      "số tiền",
+      "sự xác nhận (danh từ)"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 1
+  },
+  {
+    "id": 54,
+    "question": "<b>おひきだしですか</b>",
+    "options": [
+      "(ngài) rút tiền ạ?",
+      "bạn muốn (ăn, uống) gì?",
+      "làm thế nào",
+      "~ nào"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 1
+  },
+  {
+    "id": 55,
+    "question": "<b>あるきます</b>",
+    "options": [
+      "đi bộ, bước đi",
+      "lên, đi [tàu điện]",
+      "xuống [khỏi tàu điện]",
+      "thay, đổi (tàu điện…)"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 1
+  }
+]

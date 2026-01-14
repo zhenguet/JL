@@ -1,1 +1,125 @@
-﻿[]
+﻿[
+  {
+    "id": "v-ta-hou-ga-ii",
+    "title": "V た/V ない ＋ ほうが いいです - Cách diễn đạt lời khuyên",
+    "description": "nên làm gì / không nên làm gì. Dùng để khuyên ai đó làm gì / không làm gì thì tốt cho họ",
+    "structure": "V た/V ない ＋ ほうが いいです",
+    "examples": [
+      {
+        "japanese": "毎日 運動した ほうが いいです。",
+        "romaji": "Mainichi undou shita hou ga ii desu.",
+        "vietnamese": "Hàng ngày nên vận động."
+      },
+      {
+        "japanese": "熱が あるんです。",
+        "romaji": "Netsu ga aru n desu.",
+        "vietnamese": "Tôi bị sốt."
+      },
+      {
+        "japanese": "...じゃ、お風呂に 入らないほうが いいですよ。",
+        "romaji": "...Ja, ofuro ni hairanai hou ga ii desu yo.",
+        "vietnamese": "Vậy thì, không nên tắm."
+      },
+      {
+        "japanese": "日本の お寺が 見たいんですが......。",
+        "romaji": "Nihon no otera ga mitai n desu ga......",
+        "vietnamese": "Tôi muốn đi thăm chùa của Nhật."
+      },
+      {
+        "japanese": "...じゃ、 京都へ 行ったら いいですよ。",
+        "romaji": "...Ja, Kyouto e ittara ii desu yo.",
+        "vietnamese": "Vậy thì đi Kyoto được đấy."
+      }
+    ],
+    "notes": [
+      "Dùng để khuyên ai đó làm gì / không làm gì thì tốt cho họ",
+      "Trợ từ よ thường được thêm vào ở cuối câu",
+      "Tùy từng tình huống mẫu câu này nghe có vẻ như bạn đang áp đặt ý kiến của bạn cho người nghe. Vì vậy, cần xem xét văn cảnh trước khi sử dụng",
+      "Sự khác nhau giữa ～た ほうが いい và ～たら いい：",
+      "～たら いい diễn tả tình huống mà là một lời gợi ý đơn giản được đưa ra",
+      "～た ほうが いい chỉ so sánh và lựa chọn 2 vật"
+    ]
+  },
+  {
+    "id": "v-ru-deshou",
+    "title": "V る/A い/A な/N ＋ でしょう - Cách diễn đạt sự suy đoán, phỏng đoán (1)",
+    "description": "có lẽ là…. Biểu thị suy luận của người nói căn cứ vào một số thông tin nào đó. Nó thường được sử dụng chung với phó từ như たぶん (có lẽ) hay きっと (nhất định). Khi sử dụng câu hỏi, người nói muốn biết suy luận của người nghe",
+    "structure": "V る/A い/A な/N ＋ でしょう",
+    "examples": [
+      {
+        "japanese": "明日は 雨が 降るでしょう。",
+        "romaji": "Ashita wa ame ga furu deshou.",
+        "vietnamese": "Có lẽ ngày mai trời sẽ mưa."
+      },
+      {
+        "japanese": "大雨ですから、 タワポンさんは 来ないでしょう。",
+        "romaji": "Ooame desu kara, Tawapon-san wa konai deshou.",
+        "vietnamese": "Trời mưa to nên có lẽ anh Tawapon sẽ không tới"
+      },
+      {
+        "japanese": "彼は 道を よく 知っていますから、たぶん 大丈夫でしょう。",
+        "romaji": "Kare wa michi o yoku shitte imasu kara, tabun daijoubu deshou.",
+        "vietnamese": "Anh ấy biết đường rất rõ nên có lẽ sẽ ổn thôi."
+      },
+      {
+        "japanese": "あしたの 朝は 寒いでしょう。",
+        "romaji": "Ashita no asa wa samui deshou.",
+        "vietnamese": "Sáng mai có lẽ sẽ lạnh"
+      }
+    ],
+    "notes": [
+      "Biểu thị suy luận của người nói căn cứ vào một số thông tin nào đó",
+      "Thường được sử dụng chung với phó từ như たぶん (có lẽ) hay きっと (nhất định)",
+      "Khi sử dụng câu hỏi, người nói muốn biết suy luận của người nghe",
+      "Diễn đạt sự việc có thể xảy ra ở mức 70 – 80%"
+    ]
+  },
+  {
+    "id": "v-ru-kamoshirenai",
+    "title": "V る/A い/A な/N ＋ かもしれません - Cách diễn đạt sự suy đoán, phỏng đoán (2)",
+    "description": "có lẽ là… cũng không biết chừng. Cũng biểu thị sự phỏng đoán của người nói nhưng khả năng xảy ra thấp hơn. Nếu でしょう diễn đạt sự việc có thể xảy ra ở mức 70 – 80% thì mẫu câu này chỉ áp dụng cho những hành động mà khả năng xảy ra tương đối thấp, chỉ khoảng 50%",
+    "structure": "V る/A い/A な/N ＋ かもしれません",
+    "examples": [
+      {
+        "japanese": "午後から 雪が 降る かもしれません。",
+        "romaji": "Gogo kara yuki ga furu kamoshiremasen.",
+        "vietnamese": "Tuyết có thể sẽ rơi vào buổi chiều cũng nên."
+      },
+      {
+        "japanese": "約束の時間に 間に合わない かもしれません。",
+        "romaji": "Yakusoku no jikan ni maniawanai kamoshiremasen.",
+        "vietnamese": "Chúng ta có lẽ sẽ không kịp giờ hẹn cũng không biết chừng."
+      },
+      {
+        "japanese": "山田さんは まだ 来ていませんね。 病気かもしれません。",
+        "romaji": "Yamada-san wa mada kite imasen ne. Byouki kamoshiremasen.",
+        "vietnamese": "Anh Yamada vẫn chưa đến nhỉ. Có lẽ là ốm cũng nên"
+      }
+    ],
+    "notes": [
+      "Cũng biểu thị sự phỏng đoán của người nói nhưng khả năng xảy ra thấp hơn",
+      "Nếu でしょう diễn đạt sự việc có thể xảy ra ở mức 70 – 80% thì mẫu câu này chỉ áp dụng cho những hành động mà khả năng xảy ra tương đối thấp, chỉ khoảng 50%"
+    ]
+  },
+  {
+    "id": "de-limit",
+    "title": "～ で - Chỉ giới hạn giá / thời gian / số lượng",
+    "description": "で được thêm sau số từ để chỉ giới hạn giá / thời gian / số lượng… cần thiết cho một tình huống, hành động hay sự kiện được tiến hành",
+    "structure": "～ で",
+    "examples": [
+      {
+        "japanese": "駅まで ３０分で 行けますか。",
+        "romaji": "Eki made sanjuu pun de ikemasu ka.",
+        "vietnamese": "Có thể đi đến nhà ga trong vòng 30 phút không?"
+      },
+      {
+        "japanese": "３万円で ビデオが 買えますか。",
+        "romaji": "San man en de bideo ga kaemasu ka.",
+        "vietnamese": "3 vạn yên có thể mua đầu video không?"
+      }
+    ],
+    "notes": [
+      "で được thêm sau số từ để chỉ giới hạn giá / thời gian / số lượng… cần thiết cho một tình huống, hành động hay sự kiện được tiến hành"
+    ]
+  }
+]

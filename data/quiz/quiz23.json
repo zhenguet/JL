@@ -1,0 +1,290 @@
+[
+  {
+    "id": 1,
+    "question": "<b>không ổn, phiền, khó khăn</b>",
+    "options": [
+      "こまります",
+      "でます",
+      "まがります",
+      "わたります"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 1
+  },
+  {
+    "id": 2,
+    "question": "<b>サイズ</b>",
+    "options": [
+      "Cỡ",
+      "Hạng mục",
+      "Loại",
+      "Thể loại"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 1
+  },
+  {
+    "id": 3,
+    "question": "<b>ききます</b>",
+    "options": [
+      "góc, góc đường",
+      "hỏi",
+      "rẽ, quẹo",
+      "điều chỉnh"
+    ],
+    "correctAnswer": 1,
+    "difficulty": 1
+  },
+  {
+    "id": 4,
+    "question": "<b>まわします</b>",
+    "options": [
+      "chuyển đi, chuyển nhà",
+      "quay, vặn, xoay",
+      "sang, qua",
+      "đẩy, ép, ấn"
+    ],
+    "correctAnswer": 1,
+    "difficulty": 1
+  },
+  {
+    "id": 5,
+    "question": "<b>しょうがつ</b>",
+    "options": [
+      "Ngày giao thừa",
+      "Ngày đầu năm",
+      "Tết (Nhật Bản)",
+      "Tết Tây"
+    ],
+    "correctAnswer": 1,
+    "difficulty": 1
+  },
+  {
+    "id": 6,
+    "question": "<b>うごきます</b>",
+    "options": [
+      "[máy] hoạt động / chạy",
+      "sang, qua",
+      "vé ra",
+      "điểm đỗ xe, bãi đỗ xe"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 1
+  },
+  {
+    "id": 7,
+    "question": "<b><ruby>曲<rp>（</rp><rt>まが</rt><rp>）</rp></ruby>がります</b>",
+    "options": [
+      "きっぷがでます",
+      "こうさてん",
+      "まがります",
+      "まわします"
+    ],
+    "correctAnswer": 2,
+    "difficulty": 2
+  },
+  {
+    "id": 8,
+    "question": "<b>まがります</b>",
+    "options": [
+      "gắng sức, cố gắng",
+      "rẽ, quẹo",
+      "tiền lẻ",
+      "tờ một nghìn Yên"
+    ],
+    "correctAnswer": 1,
+    "difficulty": 1
+  },
+  {
+    "id": 9,
+    "question": "<b>きっぷがでます</b>",
+    "options": [
+      "gắng sức, cố gắng",
+      "hỏi",
+      "vé ra",
+      "điểm đỗ xe, bãi đỗ xe"
+    ],
+    "correctAnswer": 2,
+    "difficulty": 1
+  },
+  {
+    "id": 10,
+    "question": "<b>ひきます</b>",
+    "options": [
+      "[máy] chạy, vận hành",
+      "chạy, vận hành",
+      "kéo, lôi",
+      "không ổn, phiền, khó khăn"
+    ],
+    "correctAnswer": 2,
+    "difficulty": 1
+  },
+  {
+    "id": 11,
+    "question": "<b>ちょうせつ（します、する、して）</b>",
+    "options": [
+      "góc, góc đường",
+      "hỏi",
+      "tiền lẻ",
+      "điều chỉnh"
+    ],
+    "correctAnswer": 3,
+    "difficulty": 1
+  },
+  {
+    "id": 12,
+    "question": "<b>ボタン</b>",
+    "options": [
+      "nút, cúc, khuy",
+      "sang, qua",
+      "tờ một nghìn Yên",
+      "đường"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 1
+  },
+  {
+    "id": 13,
+    "question": "<b>こしょう（します、する、して）</b>",
+    "options": [
+      "[máy] ngừng, dừng lại",
+      "hỏng hóc, trục trặc",
+      "thứ ~ (thứ tự)",
+      "điều chỉnh"
+    ],
+    "correctAnswer": 1,
+    "difficulty": 1
+  },
+  {
+    "id": 14,
+    "question": "<b>でます</b>",
+    "options": [
+      "chạy, vận hành",
+      "ra, chạy ra",
+      "rẽ, quẹo phải",
+      "thứ ~ (thứ tự)"
+    ],
+    "correctAnswer": 1,
+    "difficulty": 1
+  },
+  {
+    "id": 15,
+    "question": "<b>～め</b>",
+    "options": [
+      "thứ ~ (thứ tự)",
+      "đèn giao thông",
+      "đường",
+      "đẩy, ép, ấn"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 1
+  },
+  {
+    "id": 16,
+    "question": "<b>がんばります</b>",
+    "options": [
+      "cầu",
+      "gắng sức, cố gắng",
+      "không ổn, phiền, khó khăn",
+      "vé ra"
+    ],
+    "correctAnswer": 1,
+    "difficulty": 1
+  },
+  {
+    "id": 17,
+    "question": "<b>こまったな</b>",
+    "options": [
+      "Chết rồi, gay thật!",
+      "quay, vặn, xoay",
+      "điểm đỗ xe, bãi đỗ xe",
+      "đẩy, ép, ấn"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 1
+  },
+  {
+    "id": 18,
+    "question": "<b>こうさてん</b>",
+    "options": [
+      "交差店",
+      "交差点",
+      "校差伝",
+      "高差点"
+    ],
+    "correctAnswer": 1,
+    "difficulty": 1
+  },
+  {
+    "id": 19,
+    "question": "<b><ruby>交差点<rp>（</rp><rt>こうさてん</rt><rp>）</rp></ruby></b>",
+    "options": [
+      "うごきます",
+      "がんばります",
+      "こうさてん",
+      "ボタン"
+    ],
+    "correctAnswer": 2,
+    "difficulty": 2
+  },
+  {
+    "id": 20,
+    "question": "<b><ruby>回<rp>（</rp><rt>まわ</rt><rp>）</rp></ruby>します</b>",
+    "options": [
+      "こわします",
+      "ならします",
+      "はきします",
+      "まわします"
+    ],
+    "correctAnswer": 3,
+    "difficulty": 2
+  },
+  {
+    "id": 21,
+    "question": "<b>こしょう</b>",
+    "options": [
+      "事境",
+      "故境",
+      "故障",
+      "被障"
+    ],
+    "correctAnswer": 2,
+    "difficulty": 1
+  },
+  {
+    "id": 22,
+    "question": "<b>～<ruby>目<rp>（</rp><rt>め</rt><rp>）</rp></ruby></b>",
+    "options": [
+      "がんばります",
+      "こまったな",
+      "まがります",
+      "～め"
+    ],
+    "correctAnswer": 3,
+    "difficulty": 2
+  },
+  {
+    "id": 23,
+    "question": "<b><ruby>止<rp>（</rp><rt>と</rt><rp>）</rp></ruby>まります</b>",
+    "options": [
+      "こうさてん",
+      "こしょう（します、する、して）",
+      "とまります",
+      "ひっこし（します、する、して）"
+    ],
+    "correctAnswer": 2,
+    "difficulty": 2
+  },
+  {
+    "id": 24,
+    "question": "<b>はし</b>",
+    "options": [
+      "橋",
+      "腕",
+      "頭",
+      "額"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 1
+  }
+]

@@ -1,1 +1,158 @@
-﻿[]
+﻿[
+  {
+    "id": "v-te-cause",
+    "title": "V て / V なくて / A くて / A で - Câu chỉ nguyên nhân, lý do",
+    "description": "Những thể văn ở trên được sử dụng để chỉ nguyên nhân, lý do. Trong mẫu câu này, mệnh đề trước của câu chỉ nguyên nhân và mệnh đề sau chỉ kết quả xảy ra bởi nguyên nhân đó. Khác với ~から mà chúng ta đã học ở bài 9, mẫu câu này có nhiều hạn chế",
+    "structure": "V て / V なくて / A くて / A で、～",
+    "examples": [
+      {
+        "japanese": "ニュースを聞いて、びっくりしました。",
+        "romaji": "Nyusu o kiite, bikkuri shimashita.",
+        "vietnamese": "Tôi đã ngạc nhiên khi nghe tin."
+      },
+      {
+        "japanese": "暑くて、寝られませんでした。",
+        "romaji": "Atsukute, neraremasen deshita.",
+        "vietnamese": "Không thể ngủ được vì trời nóng."
+      },
+      {
+        "japanese": "土曜日は 都合が悪くて、いけません。",
+        "romaji": "Doyoubi wa tsugou ga warukute, ikemasen.",
+        "vietnamese": "Tôi không thể đi được vì thứ 7 bận rồi."
+      },
+      {
+        "japanese": "話が複雑で、あまりわかりませんでした。",
+        "romaji": "Hanashi ga fukuzatsu de, amari wakarimasen deshita.",
+        "vietnamese": "Tôi không hiểu lắm vì câu chuyện phức tạp."
+      },
+      {
+        "japanese": "じこがあって、バスが 遅れてしまいました。",
+        "romaji": "Jiko ga atte, basu ga okurete shimaimashita.",
+        "vietnamese": "Vì có tai nạn nên xe buýt đã đến muộn."
+      },
+      {
+        "japanese": "授業に遅れて、先生にしかられました。",
+        "romaji": "Jugyou ni okurete, sensei ni shikararemashita.",
+        "vietnamese": "Vì đến muộn giờ học nên tôi bị thầy giáo mắng."
+      },
+      {
+        "japanese": "あぶないですから、きかいに触らないで ください。",
+        "romaji": "Abunai desu kara, kikai ni sawaranaide kudasai.",
+        "vietnamese": "Vì nguy hiểm, xin đừng sờ vào máy."
+      },
+      {
+        "japanese": "あぶなくて、きかいに 触らないで ください。",
+        "romaji": "Abunakute, kikai ni sawaranaide kudasai.",
+        "vietnamese": "(không đúng)"
+      },
+      {
+        "japanese": "あした 会議が ありますから、今日 準備しなければ なりません。",
+        "romaji": "Ashita kaigi ga arimasu kara, kyou junbi shinakereba narimasen.",
+        "vietnamese": "Vì ngày mai có cuộc họp nên hôm nay phải chuẩn bị."
+      },
+      {
+        "japanese": "あした 会議が あって、今日 準備しなければなりません。",
+        "romaji": "Ashita kaigi ga atte, kyou junbi shinakereba narimasen.",
+        "vietnamese": "(không đúng)"
+      }
+    ],
+    "notes": [
+      "Những thể văn ở trên được sử dụng để chỉ nguyên nhân, lý do",
+      "Mệnh đề trước của câu chỉ nguyên nhân và mệnh đề sau chỉ kết quả xảy ra bởi nguyên nhân đó",
+      "Khác với ~から, mẫu câu này có nhiều hạn chế",
+      "Mệnh đề sau thường là những từ không bao hàm ý chí:",
+      "- Tính từ, động từ biểu hiện cảm xúc: びっくりする、安心する、困る、さびしい、残念だ...",
+      "- わからない và thể phủ định của động từ khả năng: いけない、のめない、食べられない...",
+      "- Tình huống trong quá khứ",
+      "Ở mẫu câu này, mệnh đề sau không thể là sự biểu hiện hàm chứa chủ ý (ý hướng, mệnh lệnh, rủ rê, yêu cầu). Khi mệnh đề sau có nội dung bao hàm chủ ý thì mệnh đề trước không sử dụng thể て, thay vào đó dùng thể văn から",
+      "Trong mẫu câu này, mệnh đề trước và mệnh đề sau của câu có sự liên hệ trước sau về mặt thời gian. Nghĩa là sự việc của mệnh đề trước có trước, sự việc của mệnh đề sau có sau"
+    ]
+  },
+  {
+    "id": "n-de-cause",
+    "title": "N で - Trợ từ で chỉ nguyên nhân",
+    "description": "Trợ từ で nhiều khi chỉ nguyên nhân, trong trường hợp này danh từ được sử dụng thường là các từ có đủ sức gây nên một kết quả nào đó như: じこ(tai nạn), じしん (động đất), かじ (hỏa hoạn)...",
+    "structure": "N で",
+    "examples": [
+      {
+        "japanese": "じこで 電車が とまりました。",
+        "romaji": "Jiko de densha ga tomarimashita.",
+        "vietnamese": "Tai nạn khiến xe điện ngừng chạy."
+      },
+      {
+        "japanese": "ゆきで 新幹線が 遅れました。",
+        "romaji": "Yuki de shinkansen ga okuremashita.",
+        "vietnamese": "Tuyết rơi khiến tàu Shinkansen bị trễ."
+      },
+      {
+        "japanese": "病気で 明日 会社を 休みたいです。",
+        "romaji": "Byouki de ashita kaisha o yasumitai desu.",
+        "vietnamese": "(không đúng)"
+      }
+    ],
+    "notes": [
+      "Trợ từ で nhiều khi chỉ nguyên nhân",
+      "Danh từ được sử dụng thường là các từ có đủ sức gây nên một kết quả nào đó như: じこ(tai nạn), じしん (động đất), かじ (hỏa hoạn)...",
+      "Không sử dụng khi phần mệnh đề sau có hàm chứa chủ ý"
+    ]
+  },
+  {
+    "id": "no-de-cause",
+    "title": "～ので - Chỉ nguyên nhân, lý do (khách quan)",
+    "description": "Giống như ~から mà chúng ta đã học ở bài số 9, ～ので chỉ nguyên nhân, lý do. ～から nhấn mạnh nguyên nhân, lý do một cách chủ quan, trong khi ～ので là cách biểu hiện trình bày một cách khách quan về liên hệ giữa nguyên nhân và kết quả theo diễn biến tự nhiên",
+    "structure": "Thể thông thường + ので、～",
+    "examples": [
+      {
+        "japanese": "気分が悪いので、先に 帰っても いいですか。",
+        "romaji": "Kibun ga warui no de, saki ni kaette mo ii desu ka.",
+        "vietnamese": "Vì trong người cảm thấy khó chịu nên tôi có thể về trước được không ạ?"
+      },
+      {
+        "japanese": "バスが なかなか 来なかったので、大学に遅れました。",
+        "romaji": "Basu ga nakanaka konakatta no de, daigaku ni okuremashita.",
+        "vietnamese": "Vì xe buýt mãi không đến nên tôi bị đi học muộn."
+      },
+      {
+        "japanese": "レポートを 書かなければなりませんので、今日は はやく 帰ります。",
+        "romaji": "Repooto o kakanakereba narimasen no de, kyou wa hayaku kaerimasu.",
+        "vietnamese": "Vì phải viết báo cáo, nên hôm nay tôi sẽ về sớm"
+      },
+      {
+        "japanese": "この荷物は じゃまなので、かたづけろう。",
+        "romaji": "Kono nimotsu wa jama na no de, katadzukerou.",
+        "vietnamese": "(không đúng)"
+      }
+    ],
+    "notes": [
+      "Giống như ~から, ～ので chỉ nguyên nhân, lý do",
+      "～から nhấn mạnh nguyên nhân, lý do một cách chủ quan",
+      "～ので là cách biểu hiện trình bày một cách khách quan về liên hệ giữa nguyên nhân và kết quả theo diễn biến tự nhiên",
+      "Sử dụng ～ので để làm cho sự chủ quan của người nói nhẹ nhàng đi khiến người nghe không có cảm tưởng bị ép buộc",
+      "Thường được sử dụng để trình bày một cách nhẹ nhàng về lý do khi xin phép",
+      "Vì là sự biểu hiện nhẹ nhàng, mang tính khách quan nên không sử dụng thể mệnh lệnh, thể cấm đoán ở mệnh đề sau",
+      "～ので đi theo thể thông thường, khi muốn biểu hiện một cách lịch sự, lễ phép hơn thì đặt nó đứng sau thể lịch sự"
+    ]
+  },
+  {
+    "id": "kimochi-ga-ii-vs-kibun-ga-ii",
+    "title": "Phân biệt 気持ちがいい và 気分がいい",
+    "description": "Các biểu hiện này có ý nghĩa khác nhau, vì vậy hãy chú ý trong cách sử dụng",
+    "structure": "気持ちがいい / 気分がいい",
+    "examples": [
+      {
+        "japanese": "今日は天気がよくて、気持ちがいいです。",
+        "romaji": "Kyou wa tenki ga yokute, kimochi ga ii desu.",
+        "vietnamese": "Hôm nay trời đẹp khiến tôi cảm thấy sảng khoái."
+      },
+      {
+        "japanese": "薬を飲んで、熱が下がったので、気分がいいです。",
+        "romaji": "Kusuri o nonde, netsu ga sagatta no de, kibun ga ii desu.",
+        "vietnamese": "Uống thuốc vào, cơn sốt giảm xuống khiến tôi cảm thấy khỏe."
+      }
+    ],
+    "notes": [
+      "気持ちがいい được sử dụng khi người nói cảm thấy thoải mái, sảng khoái do sự kích thích ngoại cảnh",
+      "気分がいい được sử dụng khi người nói cảm thấy thoải mái, sảng khoái từ nội tâm phát ra như sảng khoái về tâm lý, sinh lý"
+    ]
+  }
+]

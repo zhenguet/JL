@@ -1,0 +1,418 @@
+[
+  {
+    "id": 1,
+    "question": "<b>ひと</b>",
+    "options": [
+      "Giờ",
+      "Ngày",
+      "Người",
+      "Năm"
+    ],
+    "correctAnswer": 2,
+    "difficulty": 1
+  },
+  {
+    "id": 2,
+    "question": "<b>おいくつ</b>",
+    "options": [
+      "Bao nhiêu",
+      "Bao nhiêu tuổi (lịch sự)",
+      "Bao nhiêu tuổi (thông thường)",
+      "Mấy giờ"
+    ],
+    "correctAnswer": 1,
+    "difficulty": 1
+  },
+  {
+    "id": 3,
+    "question": "<b>かいわ</b>",
+    "options": [
+      "Học tập",
+      "Hội thoại",
+      "Làm việc",
+      "Nghỉ ngơi"
+    ],
+    "correctAnswer": 1,
+    "difficulty": 1
+  },
+  {
+    "id": 4,
+    "question": "<b>Các bạn</b>",
+    "options": [
+      "あなた",
+      "あなたがた",
+      "みなさん",
+      "わたしたち"
+    ],
+    "correctAnswer": 2,
+    "difficulty": 1
+  },
+  {
+    "id": 5,
+    "question": "<b>かいしゃいん</b>",
+    "options": [
+      "Giáo viên",
+      "Học sinh",
+      "Nhân viên công ty (nghề nghiệp)",
+      "Nhân viên công ty cụ thể"
+    ],
+    "correctAnswer": 2,
+    "difficulty": 1
+  },
+  {
+    "id": 6,
+    "question": "<b>イギリス</b>",
+    "options": [
+      "Anh",
+      "Mỹ",
+      "Pháp",
+      "Đức"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 1
+  },
+  {
+    "id": 7,
+    "question": "<b>しゃいん</b>",
+    "options": [
+      "Giáo viên",
+      "Học sinh",
+      "Nhân viên công ty (nghề nghiệp)",
+      "Nhân viên công ty cụ thể"
+    ],
+    "correctAnswer": 3,
+    "difficulty": 1
+  },
+  {
+    "id": 8,
+    "question": "<b>マレーシア</b>",
+    "options": [
+      "Indonesia",
+      "Malaysia",
+      "Philippines",
+      "Singapore"
+    ],
+    "correctAnswer": 1,
+    "difficulty": 1
+  },
+  {
+    "id": 9,
+    "question": "<b>あなたがた</b>",
+    "options": [
+      "Bạn (số ít)",
+      "Chúng tôi",
+      "Các bạn (số nhiều)",
+      "Tôi"
+    ],
+    "correctAnswer": 2,
+    "difficulty": 1
+  },
+  {
+    "id": 10,
+    "question": "<b>いいえ</b>",
+    "options": [
+      "Có thể",
+      "Không",
+      "Không biết",
+      "Vâng, dạ"
+    ],
+    "correctAnswer": 1,
+    "difficulty": 1
+  },
+  {
+    "id": 11,
+    "question": "<b>ベトナム</b>",
+    "options": [
+      "Hàn Quốc",
+      "Thái Lan",
+      "Trung Quốc",
+      "Việt Nam"
+    ],
+    "correctAnswer": 3,
+    "difficulty": 1
+  },
+  {
+    "id": 12,
+    "question": "<b>わたしたち</b>",
+    "options": [
+      "Bạn",
+      "Chúng tôi",
+      "Họ",
+      "Tôi"
+    ],
+    "correctAnswer": 1,
+    "difficulty": 1
+  },
+  {
+    "id": 13,
+    "question": "<b>はじめまして</b>",
+    "options": [
+      "Cảm ơn",
+      "Tạm biệt",
+      "Xin chào (hàng ngày)",
+      "Xin chào (lần đầu gặp)"
+    ],
+    "correctAnswer": 3,
+    "difficulty": 1
+  },
+  {
+    "id": 14,
+    "question": "<b>フィリピン</b>",
+    "options": [
+      "Indonesia",
+      "Malaysia",
+      "Philippines",
+      "Thái Lan"
+    ],
+    "correctAnswer": 2,
+    "difficulty": 1
+  },
+  {
+    "id": 15,
+    "question": "<b>インドネシア</b>",
+    "options": [
+      "Indonesia",
+      "Malaysia",
+      "Philippines",
+      "Thái Lan"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 1
+  },
+  {
+    "id": 16,
+    "question": "<b>どなた</b>",
+    "options": [
+      "Ai (lịch sự)",
+      "Ai (thông thường)",
+      "Cái gì",
+      "Ở đâu"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 1
+  },
+  {
+    "id": 17,
+    "question": "<b>あのひと</b>",
+    "options": [
+      "Người kia",
+      "Người này",
+      "Người đó",
+      "Người ấy (gần)"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 1
+  },
+  {
+    "id": 18,
+    "question": "<b>がくせい</b>",
+    "options": [
+      "Giáo viên",
+      "Học sinh",
+      "Nghiên cứu sinh",
+      "Nha sĩ"
+    ],
+    "correctAnswer": 1,
+    "difficulty": 1
+  },
+  {
+    "id": 19,
+    "question": "<b>けんしゅうせい</b>",
+    "options": [
+      "Học sinh",
+      "Nghiên cứu sinh",
+      "Sinh viên",
+      "Tu nghiệp sinh"
+    ],
+    "correctAnswer": 3,
+    "difficulty": 1
+  },
+  {
+    "id": 20,
+    "question": "<b>だいがく</b>",
+    "options": [
+      "Mẫu giáo",
+      "Tiểu học",
+      "Trung học",
+      "Đại học"
+    ],
+    "correctAnswer": 3,
+    "difficulty": 1
+  },
+  {
+    "id": 21,
+    "question": "<b>Người (lịch sự)</b>",
+    "options": [
+      "かた",
+      "ひと"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 1
+  },
+  {
+    "id": 22,
+    "question": "<b>でんき</b>",
+    "options": [
+      "Máy tính",
+      "Tivi",
+      "Điện",
+      "Điện thoại"
+    ],
+    "correctAnswer": 2,
+    "difficulty": 1
+  },
+  {
+    "id": 23,
+    "question": "<b>わたし</b>",
+    "options": [
+      "Bạn",
+      "Chúng ta",
+      "Chúng tôi",
+      "Tôi"
+    ],
+    "correctAnswer": 3,
+    "difficulty": 1
+  },
+  {
+    "id": 24,
+    "question": "<b>しつれいですが</b>",
+    "options": [
+      "Cảm ơn",
+      "Tạm biệt",
+      "Xin chào",
+      "Xin lỗi (khi bắt đầu hỏi)"
+    ],
+    "correctAnswer": 3,
+    "difficulty": 1
+  },
+  {
+    "id": 25,
+    "question": "<b>だれ</b>",
+    "options": [
+      "Ai (lịch sự)",
+      "Ai (thông thường)",
+      "Cái gì",
+      "Ở đâu"
+    ],
+    "correctAnswer": 1,
+    "difficulty": 1
+  },
+  {
+    "id": 26,
+    "question": "<b>フランス</b>",
+    "options": [
+      "Anh",
+      "Mỹ",
+      "Pháp",
+      "Đức"
+    ],
+    "correctAnswer": 2,
+    "difficulty": 1
+  },
+  {
+    "id": 27,
+    "question": "<b>ブラジル</b>",
+    "options": [
+      "Anh",
+      "Brazil",
+      "Pháp",
+      "Đức"
+    ],
+    "correctAnswer": 1,
+    "difficulty": 1
+  },
+  {
+    "id": 28,
+    "question": "<b>かた</b>",
+    "options": [
+      "Người (lịch sự)",
+      "Người (thông thường)",
+      "Phương hướng",
+      "Vị trí"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 1
+  },
+  {
+    "id": 29,
+    "question": "<b>あのかた</b>",
+    "options": [
+      "Vị kia (lịch sự)",
+      "Vị này",
+      "Vị đó",
+      "Vị ấy (gần)"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 1
+  },
+  {
+    "id": 30,
+    "question": "<b>Chúng tôi</b>",
+    "options": [
+      "あなた",
+      "あなたがた",
+      "わたし",
+      "わたしたち"
+    ],
+    "correctAnswer": 3,
+    "difficulty": 1
+  },
+  {
+    "id": 31,
+    "question": "<b>みなさん</b>",
+    "options": [
+      "Bạn",
+      "Chúng tôi",
+      "Mọi người",
+      "Tôi"
+    ],
+    "correctAnswer": 2,
+    "difficulty": 1
+  },
+  {
+    "id": 32,
+    "question": "<b>Hội thoại</b>",
+    "options": [
+      "かいわ",
+      "びょういん"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 1
+  },
+  {
+    "id": 33,
+    "question": "<b>せんせい</b>",
+    "options": [
+      "Bác sĩ",
+      "Công nhân",
+      "Sinh viên",
+      "Thầy/ Cô"
+    ],
+    "correctAnswer": 3,
+    "difficulty": 1
+  },
+  {
+    "id": 34,
+    "question": "<b>はい</b>",
+    "options": [
+      "Có thể",
+      "Không",
+      "Không biết",
+      "Vâng, dạ"
+    ],
+    "correctAnswer": 3,
+    "difficulty": 1
+  },
+  {
+    "id": 35,
+    "question": "<b>ドイツ</b>",
+    "options": [
+      "Anh",
+      "Mỹ",
+      "Pháp",
+      "Đức"
+    ],
+    "correctAnswer": 3,
+    "difficulty": 1
+  }
+]

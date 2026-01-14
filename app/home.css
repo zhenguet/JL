@@ -1,6 +1,7 @@
 .home-page {
   min-height: 100vh;
   padding: 40px 20px;
+  position: relative;
 }
 
 .home-container {
@@ -8,19 +9,75 @@
   margin: 0 auto;
 }
 
+.logo-container {
+  position: absolute;
+  top: 20px;
+  left: 20px;
+  z-index: 10;
+}
+
+.home-language-switcher {
+  position: absolute;
+  top: 20px;
+  right: 20px;
+  z-index: 10;
+}
+
+.app-logo {
+  width: 50px;
+  height: 50px;
+  object-fit: cover;
+  border-radius: 50%;
+  box-shadow: 0 4px 12px var(--shadow-black-dark);
+  border: 2px solid var(--color-white-overlay-80);
+  transition: transform 0.3s ease;
+}
+
+.app-logo:hover {
+  transform: scale(1.1);
+}
+
 .home-page h1 {
   text-align: center;
   color: white;
   font-size: 3rem;
   margin-bottom: 10px;
-  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3);
+  text-shadow: var(--text-shadow-light);
 }
 
 .subtitle {
   text-align: center;
-  color: rgba(255, 255, 255, 0.9);
+  color: var(--color-white-overlay-90);
   font-size: 1.2rem;
+  margin-bottom: 30px;
+}
+
+.quiz-section {
+  display: flex;
+  justify-content: center;
   margin-bottom: 40px;
+}
+
+.quiz-button {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  padding: 16px 32px;
+  background: var(--gradient-primary);
+  color: white;
+  text-decoration: none;
+  font-size: 1.2rem;
+  font-weight: 700;
+  border-radius: 12px;
+  box-shadow: 0 4px 12px var(--shadow-primary);
+  transition: all 0.3s ease;
+  border: 2px solid var(--color-white-overlay-20);
+}
+
+.quiz-button:hover {
+  transform: translateY(-3px);
+  box-shadow: 0 8px 20px var(--shadow-primary-dark);
+  background: var(--gradient-primary-reverse);
 }
 
 .level-section {
@@ -32,7 +89,7 @@
   color: white;
   font-size: 2rem;
   margin-bottom: 25px;
-  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3);
+  text-shadow: var(--text-shadow-light);
   font-weight: 700;
 }
 
@@ -48,7 +105,7 @@
   align-items: center;
   justify-content: center;
   padding: 20px;
-  background: rgba(255, 255, 255, 0.15);
+  background: var(--color-white-overlay-15);
   backdrop-filter: blur(10px);
   border-radius: 12px;
   color: white;
@@ -56,13 +113,13 @@
   font-size: 1.1rem;
   font-weight: 600;
   transition: all 0.3s ease;
-  border: 2px solid rgba(255, 255, 255, 0.2);
+  border: 2px solid var(--color-white-overlay-20);
 }
 
 .lesson-card:hover {
-  background: rgba(255, 255, 255, 0.25);
+  background: var(--color-white-overlay-25);
   transform: translateY(-3px);
-  box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+  box-shadow: 0 8px 16px var(--shadow-black-dark);
 }
 
 @media (max-width: 768px) {
@@ -80,4 +137,3 @@
     font-size: 2rem;
   }
 }
-

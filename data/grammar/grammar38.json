@@ -1,1 +1,241 @@
-﻿[]
+﻿[
+  {
+    "id": "v-ru-no-wa-a",
+    "title": "V る＋ のは ＋ A です - Danh từ hóa động từ với trợ từ は",
+    "description": "Thêm trợ từ の sau động từ ở thể thông thường thì có thể danh từ hóa câu hay nhóm từ có chứa động từ đó. Câu hay nhóm từ được danh từ hóa có thể làm chủ ngữ hoặc tân ngữ",
+    "structure": "V る＋ のは ＋ A です",
+    "examples": [
+      {
+        "japanese": "サッカーは おもしろいです。",
+        "romaji": "Sakkaa wa omoshiroi desu.",
+        "vietnamese": "Bóng đá thì thú vị."
+      },
+      {
+        "japanese": "サッカーを するのは おもしろいです。",
+        "romaji": "Sakkaa o suru no wa omoshiroi desu.",
+        "vietnamese": "Chơi bóng đá thì thú vị."
+      },
+      {
+        "japanese": "サッカーを 見るのは おもしろいです。",
+        "romaji": "Sakkaa o miru no wa omoshiroi desu.",
+        "vietnamese": "Xem bóng đá thì thú vị."
+      }
+    ],
+    "notes": [
+      "Thêm trợ từ の sau động từ ở thể thông thường thì có thể danh từ hóa câu hay nhóm từ có chứa động từ đó",
+      "Câu hay nhóm từ được danh từ hóa có thể làm chủ ngữ hoặc tân ngữ",
+      "Các tính từ thường được sử dụng trong mẫu câu này gồm: たのしい、おもしろい、むずかしい、やさしい、はずかしい、きもちがいい、きけん［な］、たいへん［な］…"
+    ]
+  },
+  {
+    "id": "v-ru-no-ga-a",
+    "title": "V る＋ のが ＋ A です - Danh từ hóa động từ với trợ từ が",
+    "description": "Thêm trợ từ の sau động từ ở thể thông thường để danh từ hóa, dùng với trợ từ が trong câu tính từ",
+    "structure": "V る＋ のが ＋ A です",
+    "examples": [
+      {
+        "japanese": "私は 花が 好きです。",
+        "romaji": "Watashi wa hana ga suki desu.",
+        "vietnamese": "Tôi thích hoa."
+      },
+      {
+        "japanese": "私は 花を育てるのが すきです。",
+        "romaji": "Watashi wa hana o sodateru no ga suki desu.",
+        "vietnamese": "Tôi thích việc trồng hoa."
+      },
+      {
+        "japanese": "あの人は タイプが はやいです。",
+        "romaji": "Ano hito wa taipu ga hayai desu.",
+        "vietnamese": "Người đó đánh máy nhanh"
+      },
+      {
+        "japanese": "あの人は タイプを うつのが はやいです。",
+        "romaji": "Ano hito wa taipu o utsu no ga hayai desu.",
+        "vietnamese": "Người đó làm việc đánh máy thì nhanh."
+      }
+    ],
+    "notes": [
+      "Thêm trợ từ の sau động từ ở thể thông thường để danh từ hóa",
+      "Dùng với trợ từ が trong câu tính từ",
+      "Các tính từ thường được sử dụng trong mẫu câu này gồm: すき［な］、きらい［な］、じょうず［な］、へた［な］、はやい、おそい…"
+    ]
+  },
+  {
+    "id": "v-ru-no-wo-verb",
+    "title": "V る＋ のを ＋ V - Danh từ hóa động từ làm tân ngữ",
+    "description": "Thêm trợ từ の sau động từ ở thể thông thường để danh từ hóa, làm tân ngữ cho động từ khác",
+    "structure": "V る＋ のを ＋ V",
+    "examples": [
+      {
+        "japanese": "電話番号を 忘れました。",
+        "romaji": "Denwa bangou o wasuremashita.",
+        "vietnamese": "Tôi đã quên số điện thoại"
+      },
+      {
+        "japanese": "電話をかけるのを 忘れました。",
+        "romaji": "Denwa o kakeru no o wasuremashita.",
+        "vietnamese": "Tôi đã quên mất việc gọi điện thoại."
+      },
+      {
+        "japanese": "あの人の 名前を 忘れました。",
+        "romaji": "Ano hito no namae o wasuremashita.",
+        "vietnamese": "Tôi đã quên mất tên của người kia."
+      },
+      {
+        "japanese": "レポートに 名前を かくのを 忘れました。",
+        "romaji": "Repooto ni namae o kaku no o wasuremashita.",
+        "vietnamese": "Tôi đã quên viết tên vào bản báo cáo."
+      }
+    ],
+    "notes": [
+      "Thêm trợ từ の sau động từ ở thể thông thường để danh từ hóa, làm tân ngữ cho động từ khác",
+      "Mang hàm ý là \"đáng lý ra phải làm gì đó nhưng lại quên mất việc đó\"",
+      "Ví dụ: 電話をかけるのを忘れました mang hàm ý \"đáng lý ra phải gọi điện nhưng lại quên mất việc đó\""
+    ]
+  },
+  {
+    "id": "v-ru-no-wo-shitte-iru",
+    "title": "V る＋ のを ＋ 知っていますか - Bạn có biết việc… không?",
+    "description": "Dùng để hỏi người nghe có biết một sự việc, sự kiện nào đó không. Trong mẫu câu này, trợ từ は đi với chủ ngữ trong mệnh đề phụ được đổi thành が",
+    "structure": "Thể thông thường + のを 知っていますか",
+    "examples": [
+      {
+        "japanese": "FPT大学の電話番号を 知っていますか。",
+        "romaji": "FPT daigaku no denwa bangou o shitte imasu ka.",
+        "vietnamese": "Bạn có biết số điện thoại của trường đại học FPT không?"
+      },
+      {
+        "japanese": "セーターの近くで 火事があったのを 知っていますか。",
+        "romaji": "Seetaa no chikaku de kaji ga atta no o shitte imasu ka.",
+        "vietnamese": "Bạn có biết đã xảy ra đám cháy ở gần Trung tâm không?"
+      },
+      {
+        "japanese": "先週 木村さんは 結婚しました。",
+        "romaji": "Senshuu Kimura-san wa kekkon shimashita.",
+        "vietnamese": "Tuần trước chị Kimura đã kết hôn."
+      },
+      {
+        "japanese": "先週 木村さんが 結婚したのを 知っていますか。",
+        "romaji": "Senshuu Kimura-san ga kekkon shita no o shitte imasu ka.",
+        "vietnamese": "Bạn có biết việc tuần trước chị Kimura đã kết hôn không?"
+      },
+      {
+        "japanese": "Q: FPT大学の電話番号を 知っていますか。 A: いいえ、しりません。",
+        "romaji": "Q: FPT daigaku no denwa bangou o shitte imasu ka. A: Iie, shirimasen.",
+        "vietnamese": "Q: Bạn có biết số điện thoại của trường đại học FPT không? A: Không, tôi không biết."
+      },
+      {
+        "japanese": "Q: 先週 木村さんが 結婚したのを 知っていますか。 A: いいえ、しりませんでした。",
+        "romaji": "Q: Senshuu Kimura-san ga kekkon shita no o shitte imasu ka. A: Iie, shirimasen deshita.",
+        "vietnamese": "Q: Bạn có biết việc tuần trước cô Kimura đã kết hôn không? A: Không, tôi đã không biết."
+      }
+    ],
+    "notes": [
+      "Dùng để hỏi người nghe có biết một sự việc, sự kiện nào đó không",
+      "Trong mẫu câu này, trợ từ は đi với chủ ngữ trong mệnh đề phụ được đổi thành が",
+      "Phân biệt しりません và しりませんでした:",
+      "しりません: dùng khi người nghe chưa biết thông tin, và không nhận được thông tin gì từ câu hỏi",
+      "しりませんでした: dùng khi người nghe đã nhận được thông tin từ câu hỏi"
+    ]
+  },
+  {
+    "id": "v-ru-no-wa-n",
+    "title": "V る＋ のは N です - Thay thế danh từ bằng trợ từ の",
+    "description": "Dùng khi ta muốn thay thế danh từ chỉ người, vật, nơi chốn… bằng trợ từ の, sau đó đưa nó làm chủ đề của câu",
+    "structure": "Thể thông thường + のは N です",
+    "examples": [
+      {
+        "japanese": "娘は 北海道の 小さい町で 生まれました。",
+        "romaji": "Musume wa Hokkaido no chiisai machi de umaremashita.",
+        "vietnamese": "Con gái tôi được sinh ra tại một thành phố nhỏ ở Hokkaido."
+      },
+      {
+        "japanese": "娘が 生まれたのは 北海道の 小さい町です。",
+        "romaji": "Musume ga umareta no wa Hokkaido no chiisai machi desu.",
+        "vietnamese": "Nơi con gái tôi được sinh ra là một thành phố nhỏ ở Hokkaido."
+      },
+      {
+        "japanese": "12月は 1年で 一番 忙しいです。",
+        "romaji": "Juuni gatsu wa ichi nen de ichiban isogashii desu.",
+        "vietnamese": "Tháng 12 là tháng bận nhất trong một năm."
+      },
+      {
+        "japanese": "1年で 一番 忙しいのは 12月です。",
+        "romaji": "Ichi nen de ichiban isogashii no wa juuni gatsu desu.",
+        "vietnamese": "Thời gian bận nhất trong một năm là tháng 12."
+      }
+    ],
+    "notes": [
+      "Dùng khi ta muốn thay thế danh từ chỉ người, vật, nơi chốn… bằng trợ từ の",
+      "Sau đó đưa nó làm chủ đề của câu",
+      "Ví dụ: \"nơi mà con gái tôi đã được sinh ra\" và \"tháng bận rộn nhất trong một năm\" được đưa lên làm chủ đề, sau đó người nói đưa ra thông tin liên quan ở vế sau"
+    ]
+  },
+  {
+    "id": "no-vs-koto",
+    "title": "Phân biệt の và こと",
+    "description": "Giống như trợ từ の, trợ từ こと cũng được sử dụng như là một cách để danh từ hóa động từ. Tuy nhiên, có nhiều mẫu câu trong đó こと được sử dụng nhưng の thì không",
+    "structure": "V る＋ こと / V る＋ の",
+    "examples": [
+      {
+        "japanese": "リーさんは 日本語を 話すことが できます。",
+        "romaji": "Rii-san wa nihongo o hanasu koto ga dekimasu.",
+        "vietnamese": "Anh Lee nói được tiếng Nhật"
+      },
+      {
+        "japanese": "リーさんは 日本語を 話すのが できます",
+        "romaji": "Rii-san wa nihongo o hanasu no ga dekimasu",
+        "vietnamese": "(không đúng)"
+      },
+      {
+        "japanese": "私のしゅみは 映画を 見ることです。",
+        "romaji": "Watashi no shumi wa eiga o miru koto desu.",
+        "vietnamese": "Sở thích của tôi là xem phim."
+      },
+      {
+        "japanese": "私のしゅみは 映画を 見るのです。",
+        "romaji": "Watashi no shumi wa eiga o miru no desu.",
+        "vietnamese": "(không đúng)"
+      },
+      {
+        "japanese": "日本料理を 食べたことが あります。",
+        "romaji": "Nihon ryouri o tabeta koto ga arimasu.",
+        "vietnamese": "Tôi đã từng ăn món ăn Nhật."
+      },
+      {
+        "japanese": "日本料理を 食べたのが あります。",
+        "romaji": "Nihon ryouri o tabeta no ga arimasu.",
+        "vietnamese": "(không đúng)"
+      }
+    ],
+    "notes": [
+      "Giống như trợ từ の, trợ từ こと cũng được sử dụng như là một cách để danh từ hóa động từ",
+      "Tuy nhiên, có nhiều mẫu câu trong đó こと được sử dụng nhưng の thì không",
+      "Các mẫu câu chỉ dùng こと: ～ことができます, ～ことです (sở thích), ～たことがあります"
+    ]
+  },
+  {
+    "id": "masu-form-noun",
+    "title": "Thể ます của động từ làm danh từ",
+    "description": "Thể ます của một số động từ có thể được sử dụng làm danh từ. Khi thể ます của động từ được sử dụng làm danh từ thì nó không biểu thị hành động của nó mà chỉ có ý về thời điểm hoặc địa điểm",
+    "structure": "V ます (bỏ ます) làm danh từ",
+    "examples": [
+      {
+        "japanese": "行きは 道がこんでいましたが、帰りは すいています。",
+        "romaji": "Iki wa michi ga konde imashita ga, kaeri wa suite imasu.",
+        "vietnamese": "Lúc đi thì đường đông nhưng lúc về thì vắng."
+      },
+      {
+        "japanese": "会社の帰りに 買い物に 行きました。",
+        "romaji": "Kaisha no kaeri ni kaimono ni ikimashita.",
+        "vietnamese": "Trên đường từ công ty về nhà tôi đã đi mua đồ."
+      }
+    ],
+    "notes": [
+      "Thể ます của một số động từ có thể được sử dụng làm danh từ",
+      "Khi thể ます của động từ được sử dụng làm danh từ thì nó không biểu thị hành động của nó",
+      "いき và かえり trong ví dụ chỉ có ý là \"lúc đi\", \"lúc về\"",
+      "かえり trong ví dụ có ý là trên đường về"
+    ]
+  }
+]

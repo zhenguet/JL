@@ -1,1 +1,157 @@
-﻿[]
+﻿[
+  {
+    "id": "ka-embedded-question",
+    "title": "～か - Trợ từ nghi vấn (câu hỏi nhúng)",
+    "description": "Trợ từ ～か là trợ từ nghi vấn đã học thường được đặt cuối câu nghi vấn. Bài này học cách sử dụng câu hỏi với từ để hỏi được sử dụng như một thành phần trong câu",
+    "structure": "Thể thông thường + か、～",
+    "examples": [
+      {
+        "japanese": "A: 会議は 何時に 終わりますか。 B: 分かりません。",
+        "romaji": "A: Kaigi wa nanji ni owarimasu ka. B: Wakarimasen.",
+        "vietnamese": "A: Mấy giờ thì cuộc họp kết thúc? B: Tôi không biết."
+      },
+      {
+        "japanese": "会議は 何時に 終わるか、分かりません。",
+        "romaji": "Kaigi wa nanji ni owaru ka, wakarimasen.",
+        "vietnamese": "Không biết mấy giờ thì cuộc họp kết thúc."
+      },
+      {
+        "japanese": "どうしたら いいか、考えてください。",
+        "romaji": "Dou shitara ii ka, kangaete kudasai.",
+        "vietnamese": "Hãy suy nghĩ xem nên làm thế nào thì tốt."
+      },
+      {
+        "japanese": "神戸は どんな町か、しりません。",
+        "romaji": "Kobe wa donna machi ka, shirimasen.",
+        "vietnamese": "Không biết Kobe là thành phố như thế nào."
+      },
+      {
+        "japanese": "はこの中身は なにか、調べてください。",
+        "romaji": "Hako no nakami wa nanika, shirabete kudasai.",
+        "vietnamese": "Hãy kiểm tra xem trong hộp có cái gì."
+      },
+      {
+        "japanese": "のどがかわきましたから、なにか 飲みたいですね。",
+        "romaji": "Nodo ga kawakimashita kara, nanika nomitai desu ne.",
+        "vietnamese": "Vì khát nước nên muốn uống cái gì đó quá nhỉ."
+      },
+      {
+        "japanese": "おてあらいは どこか、わかりません。",
+        "romaji": "Otearai wa dokoka, wakarimasen.",
+        "vietnamese": "Không biết nhà vệ sinh ở đâu."
+      },
+      {
+        "japanese": "今日は いい天気ですね。どこか 行きますか。",
+        "romaji": "Kyou wa ii tenki desu ne. Dokoka ikimasu ka.",
+        "vietnamese": "Hôm nay trời đẹp quá. Bạn có đi đâu đó không?"
+      }
+    ],
+    "notes": [
+      "Trợ từ ～か là trợ từ nghi vấn đã học thường được đặt cuối câu nghi vấn",
+      "Bài này học cách sử dụng câu hỏi với từ để hỏi được sử dụng như một thành phần trong câu",
+      "Cách dùng: Thể thông thường + か、～",
+      "Với danh từ: dùng な thay vì だ trước か",
+      "Chú ý sự khác nhau giữa なにか trong ví dụ (1) và (1'):",
+      "- (1) なにか: \"cái gì\" trong câu hỏi nhúng",
+      "- (1') なにか: \"cái gì đó\" (something) dùng như danh từ",
+      "Chú ý sự khác nhau giữa どこか trong ví dụ (2) và (2'):",
+      "- (2) どこか: \"ở đâu\" trong câu hỏi nhúng",
+      "- (2') どこか: \"đâu đó\" (somewhere) dùng như danh từ"
+    ]
+  },
+  {
+    "id": "ka-dou-ka",
+    "title": "～かどうか - Có ~ hay không",
+    "description": "～かどうか được sử dụng khi một câu văn nghi vấn không có từ nghi vấn trong thành phần câu. A かどうか có nghĩa là \"là A, hay không phải là A\"",
+    "structure": "Thể thông thường + かどうか、～",
+    "examples": [
+      {
+        "japanese": "リーさんは 来ますか + 分かりません。",
+        "romaji": "Rii-san wa kimasu ka + wakarimasen.",
+        "vietnamese": "Ông Lee có đến không? + không biết"
+      },
+      {
+        "japanese": "リーさんは 来るかどうか、分かりません。",
+        "romaji": "Rii-san wa kuru ka dou ka, wakarimasen.",
+        "vietnamese": "Không biết ông Lee có đến không."
+      },
+      {
+        "japanese": "まちがいが ありませんか + しらべてください。",
+        "romaji": "Machigai ga arimasen ka + shirabete kudasai.",
+        "vietnamese": "Có lỗi sai không? + hãy kiểm tra"
+      },
+      {
+        "japanese": "まちがいが ないかどうか、しらべてください。",
+        "romaji": "Machigai ga nai ka dou ka, shirabete kudasai.",
+        "vietnamese": "Hãy kiểm tra xem có lỗi sai không."
+      }
+    ],
+    "notes": [
+      "～かどうか được sử dụng khi một câu văn nghi vấn không có từ nghi vấn trong thành phần câu",
+      "Cách dùng: Giống như trường hợp của ～か、～, mệnh đề trước かどうか",
+      "A かどうか có nghĩa là \"là A, hay không phải là A\"",
+      "Ví dụ (1) có nghĩa là \"Ông Lee có thể đến và có thể không\"",
+      "Lưu ý: Trong ví dụ 2, người ta không dùng \"まちがいが あるかどうか\" mà dùng \"まちがいが ないかどうか\" vì người nói hy vọng rằng không có sự nhầm lẫn nào"
+    ]
+  },
+  {
+    "id": "v-te-mimasu",
+    "title": "V て みます - Thử làm việc gì đó",
+    "description": "Mẫu câu diễn đạt ai đó muốn thử làm việc gì để xem kết quả thế nào. Trong mẫu câu này động từ đứng trước みます chia ở thể て. Vì みます nguyên thủy là một động từ nên cũng chia như các động từ khác",
+    "structure": "V て みます",
+    "examples": [
+      {
+        "japanese": "日本の お酒を飲んでみたいです。",
+        "romaji": "Nihon no osake o nonde mitai desu.",
+        "vietnamese": "Tôi muốn uống thử rượu của Nhật"
+      },
+      {
+        "japanese": "ちょっとこの店に 入ってみよう。",
+        "romaji": "Chotto kono mise ni haitte miyou.",
+        "vietnamese": "Chúng ta hãy thử vào quán này một chút đi."
+      },
+      {
+        "japanese": "このズボンに 入ってみても いいですか。",
+        "romaji": "Kono zubon ni haitte mite mo ii desu ka.",
+        "vietnamese": "Tôi có thể mặc thử chiếc quần này không?"
+      }
+    ],
+    "notes": [
+      "Mẫu câu diễn đạt ai đó muốn thử làm việc gì để xem kết quả thế nào",
+      "Trong mẫu câu này động từ đứng trước みます chia ở thể て",
+      "Vì みます nguyên thủy là một động từ nên cũng chia như các động từ khác"
+    ]
+  },
+  {
+    "id": "a-i-to-a-sa",
+    "title": "A い → A さ - Biến tính từ đuôi い thành danh từ trừu tượng",
+    "description": "Ta có thể biến một tính từ đuôi い sang danh từ trừu tượng miêu tả tính chất, trạng thái bằng cách đổi đuôi い thành さ",
+    "structure": "A い → A さ",
+    "examples": [
+      {
+        "japanese": "高い → 高さ",
+        "romaji": "takai → takasa",
+        "vietnamese": "cao → độ cao"
+      },
+      {
+        "japanese": "新しい → 新しさ",
+        "romaji": "atarashii → atarashisa",
+        "vietnamese": "mới → sự mới, cái mới"
+      },
+      {
+        "japanese": "いい → よさ",
+        "romaji": "ii → yosa",
+        "vietnamese": "tốt → cái tốt"
+      },
+      {
+        "japanese": "山の高さは どうやって はかるか、知っていますか。",
+        "romaji": "Yama no takasa wa dou yatte hakaru ka, shitte imasu ka.",
+        "vietnamese": "Bạn có biết làm thế nào để đo được độ cao của núi không?"
+      }
+    ],
+    "notes": [
+      "Ta có thể biến một tính từ đuôi い sang danh từ trừu tượng miêu tả tính chất, trạng thái bằng cách đổi đuôi い thành さ",
+      "Đặc biệt: いい (tốt) → よさ (cái tốt)"
+    ]
+  }
+]

@@ -1,1 +1,682 @@
-﻿[]
+﻿[
+  {
+    "id": "toBlow",
+    "kanji": "吹きます",
+    "hiragana": "ふきます",
+    "en": "to blow",
+    "vi": "Thổi",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm I",
+        "《吹きます、吹く、吹いて》",
+        "●「かぜが～」 Gió thổi"
+      ]
+    }
+  },
+  {
+    "id": "toExtend",
+    "kanji": "伸びます",
+    "hiragana": "のびます",
+    "en": "to extend",
+    "vi": "Kéo dài",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm II",
+        "《伸びます、伸びる、伸びて》",
+        "●「じっしゅうが～」 Thực tập kéo dài"
+      ]
+    }
+  },
+  {
+    "id": "toBeHospitalized",
+    "kanji": "入院",
+    "hiragana": "にゅういん",
+    "en": "to be hospitalized",
+    "vi": "Nhập viện, nằm viện",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm III",
+        "《入院します、入院する、入院して》"
+      ]
+    }
+  },
+  {
+    "id": "toKnock",
+    "kanji": "ノックします",
+    "hiragana": "ノックします",
+    "en": "to knock",
+    "vi": "Gõ cửa",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm III"
+      ]
+    }
+  },
+  {
+    "id": "toGather",
+    "kanji": "集まります",
+    "hiragana": "あつまります",
+    "en": "to gather",
+    "vi": "Tập hợp, tập trung",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm I",
+        "《集まります、集まる、集まって》",
+        "●「ひとが～」 Mọi người tập trung lại"
+      ]
+    }
+  },
+  {
+    "id": "toBurn",
+    "kanji": "燃えます",
+    "hiragana": "もえます",
+    "en": "to burn",
+    "vi": "Cháy",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm II",
+        "《燃えます、燃える、燃えて》",
+        "●「かみが～」 「切符が～」 Giấy cháy"
+      ]
+    }
+  },
+  {
+    "id": "toRing",
+    "kanji": "掛かります",
+    "hiragana": "かかります",
+    "en": "to ring",
+    "vi": "Có [điện thoại]",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm I",
+        "《掛かります、掛かる、掛かって》",
+        "●「でんわが～」 Có điện thoại"
+      ]
+    }
+  },
+  {
+    "id": "toHave",
+    "kanji": "します",
+    "hiragana": "します",
+    "en": "to have",
+    "vi": "Có",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm III",
+        "《します、する、して》",
+        "●「においが～」 Có mùi",
+        "●「あじが～」 Có vị",
+        "●「おとが～」 Có tiếng động",
+        "●「こえが～」 Có giọng nói"
+      ]
+    }
+  },
+  {
+    "id": "strange",
+    "kanji": "変",
+    "hiragana": "へん",
+    "en": "strange",
+    "vi": "Kì lạ, kì quái",
+    "type": "adjective",
+    "explanation": {
+      "content": [
+        "Tính từ",
+        "［な］"
+      ]
+    }
+  },
+  {
+    "id": "humid",
+    "kanji": "蒸し暑い",
+    "hiragana": "むしあつい",
+    "en": "humid",
+    "vi": "Oi bức, oi ả",
+    "type": "adjective",
+    "explanation": {
+      "content": [
+        "Tính từ",
+        "［い］"
+      ]
+    }
+  },
+  {
+    "id": "road",
+    "kanji": "道路",
+    "hiragana": "どうろ",
+    "en": "road",
+    "vi": "Đường xá",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "highway",
+    "kanji": "高速道路",
+    "hiragana": "こうそくどうろ",
+    "en": "highway",
+    "vi": "Đường cao tốc",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "patrolCar",
+    "kanji": "パトカー",
+    "hiragana": "パトカー",
+    "en": "patrol car",
+    "vi": "Xe cảnh sát",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "halfYear",
+    "kanji": "半年",
+    "hiragana": "はんとし",
+    "en": "half year",
+    "vi": "Nửa năm",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "seems",
+    "kanji": "どうも",
+    "hiragana": "どうも",
+    "en": "seems",
+    "vi": "Hình như, có vẻ như là",
+    "type": "adverb",
+    "explanation": {
+      "content": [
+        "Phó từ"
+      ]
+    }
+  },
+  {
+    "id": "nextTime",
+    "kanji": "今度",
+    "hiragana": "こんど",
+    "en": "next time",
+    "vi": "Lần tới",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "manyTimes",
+    "kanji": "何度も",
+    "hiragana": "なんども",
+    "en": "many times",
+    "vi": "Nhiều lần",
+    "type": "adverb",
+    "explanation": {
+      "content": [
+        "Phó từ"
+      ]
+    }
+  },
+  {
+    "id": "accordingTo",
+    "kanji": "～によると",
+    "hiragana": "～によると",
+    "en": "according to",
+    "vi": "Theo như ~",
+    "type": "other",
+    "explanation": {
+      "content": [
+        "Thành ngữ"
+      ]
+    }
+  },
+  {
+    "id": "worrying",
+    "kanji": "心配ですね",
+    "hiragana": "しんぱいですね",
+    "en": "worrying",
+    "vi": "Lo quá nhỉ.",
+    "type": "other",
+    "explanation": {
+      "content": [
+        "Câu nói"
+      ]
+    }
+  },
+  {
+    "id": "toSeparate",
+    "kanji": "分かれます",
+    "hiragana": "わかれます",
+    "en": "to separate",
+    "vi": "Tách ra, tản ra",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm II",
+        "《分かれます、分かれる、分かれて》",
+        "●「ひとが～」 Mọi người tản ra"
+      ]
+    }
+  },
+  {
+    "id": "toLiveLong",
+    "kanji": "長生きします",
+    "hiragana": "ながいきします",
+    "en": "to live long",
+    "vi": "Sống lâu",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm III",
+        "《長生きします、長生きする、長生きして》"
+      ]
+    }
+  },
+  {
+    "id": "toRaise",
+    "kanji": "差します",
+    "hiragana": "さします",
+    "en": "to raise",
+    "vi": "Giương",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm I",
+        "《差します、差す、差して》",
+        "●「かさを～」 Giương ô"
+      ]
+    }
+  },
+  {
+    "id": "toGetEngaged",
+    "kanji": "婚約します",
+    "hiragana": "こんやくします",
+    "en": "to get engaged",
+    "vi": "Đính hôn",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm III",
+        "《婚約します、婚約する、婚約して》"
+      ]
+    }
+  },
+  {
+    "id": "toGetToKnow",
+    "kanji": "知り合います",
+    "hiragana": "しりあいます",
+    "en": "to get to know",
+    "vi": "Quen biết",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm I",
+        "《知り合います、知り合う、知り合って》"
+      ]
+    }
+  },
+  {
+    "id": "toCompare",
+    "kanji": "比べます",
+    "hiragana": "くらべます",
+    "en": "to compare",
+    "vi": "So sánh",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm II",
+        "《比べます、比べる、比べて》",
+        "●「だんせいと～」 So với nam giới"
+      ]
+    }
+  },
+  {
+    "id": "toPutOnMakeup",
+    "kanji": "化粧",
+    "hiragana": "けしょう",
+    "en": "to put on makeup",
+    "vi": "Trang điểm",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm III",
+        "《化粧します、する、して》"
+      ]
+    }
+  },
+  {
+    "id": "cosmetics",
+    "kanji": "化粧品",
+    "hiragana": "けしょうひん",
+    "en": "cosmetics",
+    "vi": "Mỹ phẩm",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "terrible",
+    "kanji": "酷い",
+    "hiragana": "ひどい",
+    "en": "terrible",
+    "vi": "Khủng khiếp, tồi tệ",
+    "type": "adjective",
+    "explanation": {
+      "content": [
+        "Tính từ",
+        "［い］"
+      ]
+    }
+  },
+  {
+    "id": "scary",
+    "kanji": "怖い",
+    "hiragana": "こわい",
+    "en": "scary",
+    "vi": "Sợ, đáng sợ",
+    "type": "adjective",
+    "explanation": {
+      "content": [
+        "Tính từ",
+        "［い］"
+      ]
+    }
+  },
+  {
+    "id": "announcement",
+    "kanji": "発表",
+    "hiragana": "はっぴょう",
+    "en": "announcement",
+    "vi": "Phát biểu, công bố",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "experiment",
+    "kanji": "実験",
+    "hiragana": "じっけん",
+    "en": "experiment",
+    "vi": "Thực nghiệm, thí nghiệm",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "population",
+    "kanji": "人口",
+    "hiragana": "じんこう",
+    "en": "population",
+    "vi": "Dân số",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "science",
+    "kanji": "科学",
+    "hiragana": "かがく",
+    "en": "science",
+    "vi": "Khoa học",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "medicine",
+    "kanji": "医学",
+    "hiragana": "いがく",
+    "en": "medicine",
+    "vi": "Y học",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "literature",
+    "kanji": "文学",
+    "hiragana": "ぶんがく",
+    "en": "literature",
+    "vi": "Văn học",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "ambulance",
+    "kanji": "救急車",
+    "hiragana": "きゅうきゅうしゃ",
+    "en": "ambulance",
+    "vi": "Xe cấp cứu",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "approval",
+    "kanji": "賛成",
+    "hiragana": "さんせい",
+    "en": "approval",
+    "vi": "Tán thành",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "opposition",
+    "kanji": "反対",
+    "hiragana": "はんたい",
+    "en": "opposition",
+    "vi": "Phản đối",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "male",
+    "kanji": "男性",
+    "hiragana": "だんせい",
+    "en": "male",
+    "vi": "Nam giới",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "female",
+    "kanji": "女性",
+    "hiragana": "じょせい",
+    "en": "female",
+    "vi": "Nữ giới",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "bali",
+    "kanji": "バリ島",
+    "hiragana": "バリとう",
+    "en": "Bali",
+    "vi": "Đảo Bali",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "iran",
+    "kanji": "イラン",
+    "hiragana": "イラン",
+    "en": "Iran",
+    "vi": "Iran",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "california",
+    "kanji": "カリフォルニア",
+    "hiragana": "カリフォルニア",
+    "en": "California",
+    "vi": "California",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "guam",
+    "kanji": "グアム",
+    "hiragana": "グアム",
+    "en": "Guam",
+    "vi": "Guam",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "partner",
+    "kanji": "相手",
+    "hiragana": "あいて",
+    "en": "partner",
+    "vi": "Đối phương, đối tượng",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "averageLifespan",
+    "kanji": "平均寿命",
+    "hiragana": "へいきんじゅみょう",
+    "en": "average lifespan",
+    "vi": "Tuổi thọ trung bình",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "doctor",
+    "kanji": "博士",
+    "hiragana": "はかせ",
+    "en": "doctor",
+    "vi": "Tiến sĩ",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "brain",
+    "kanji": "脳",
+    "hiragana": "のう",
+    "en": "brain",
+    "vi": "Não",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "hormone",
+    "kanji": "ホルモン",
+    "hiragana": "ホルモン",
+    "en": "hormone",
+    "vi": "Hoóc môn",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "investigation",
+    "kanji": "調べ",
+    "hiragana": "しらべ",
+    "en": "investigation",
+    "vi": "Cuộc điều tra",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  }
+]

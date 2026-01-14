@@ -1,0 +1,984 @@
+[
+  {
+    "id": 1,
+    "question": "<b>Sai lầm, khác biệt</b>",
+    "options": [
+      "きいろ",
+      "ちがいます",
+      "みがきます",
+      "～こ"
+    ],
+    "correctAnswer": 1,
+    "difficulty": 1
+  },
+  {
+    "id": 2,
+    "question": "<b>Sơ đồ, đồ thị</b>",
+    "options": [
+      "ず",
+      "みがきます",
+      "ゆうべ",
+      "スポーツクラブ"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 1
+  },
+  {
+    "id": 3,
+    "question": "<b>Nước sốt</b>",
+    "options": [
+      "ず",
+      "なべ",
+      "シートベルト",
+      "ソース"
+    ],
+    "correctAnswer": 3,
+    "difficulty": 1
+  },
+  {
+    "id": 4,
+    "question": "<b>Chấm</b>",
+    "options": [
+      "ざいりょう",
+      "てん",
+      "にえます",
+      "もんだい"
+    ],
+    "correctAnswer": 1,
+    "difficulty": 1
+  },
+  {
+    "id": 5,
+    "question": "<b>[như thế này] được không?</b>",
+    "options": [
+      "いいですか",
+      "うまくいきましたね",
+      "こん",
+      "ミーティング"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 1
+  },
+  {
+    "id": 6,
+    "question": "<b>のせます</b>",
+    "options": [
+      "Chất lên, chồng lên, đặt lên",
+      "Cài vào",
+      "Nấu",
+      "Nồi"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 1
+  },
+  {
+    "id": 7,
+    "question": "<b>せつめいしょ</b>",
+    "options": [
+      "Biểu đồ",
+      "Mẫu, kiểu",
+      "Sách giải thích",
+      "Vội vàng"
+    ],
+    "correctAnswer": 2,
+    "difficulty": 1
+  },
+  {
+    "id": 8,
+    "question": "<b><ruby>載<rp>（</rp><rt>の</rt><rp>）</rp></ruby>せます</b>",
+    "options": [
+      "さどう",
+      "にえます",
+      "のせます",
+      "～か、～"
+    ],
+    "correctAnswer": 2,
+    "difficulty": 2
+  },
+  {
+    "id": 9,
+    "question": "<b>~ hoặc~</b>",
+    "options": [
+      "てん",
+      "にます",
+      "よんぶんのいち",
+      "～か、～"
+    ],
+    "correctAnswer": 3,
+    "difficulty": 1
+  },
+  {
+    "id": 10,
+    "question": "<b>Gia vị</b>",
+    "options": [
+      "いいですか",
+      "かぐ",
+      "ちょうみりょう",
+      "スポーツクラブ"
+    ],
+    "correctAnswer": 2,
+    "difficulty": 1
+  },
+  {
+    "id": 11,
+    "question": "<b>せん</b>",
+    "options": [
+      "Gia vị",
+      "Tháo, nới lỏng ra",
+      "Tuyến, đường dây",
+      "Đinh ốc, vít"
+    ],
+    "correctAnswer": 2,
+    "difficulty": 1
+  },
+  {
+    "id": 12,
+    "question": "<b>ず</b>",
+    "options": [
+      "Cài vào",
+      "Sơ đồ, đồ thị",
+      "Tháo, nới lỏng ra",
+      "Đinh ốc, vít"
+    ],
+    "correctAnswer": 1,
+    "difficulty": 1
+  },
+  {
+    "id": 13,
+    "question": "<b>Bẻ, gập, gấp</b>",
+    "options": [
+      "おります",
+      "こん",
+      "じゅんじょ",
+      "ぶんかい"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 1
+  },
+  {
+    "id": 14,
+    "question": "<b>さどう</b>",
+    "options": [
+      "Dẫu mũi tên",
+      "Sách giải thích",
+      "Trà đạo",
+      "Điệu nhảy lễ hội Bon"
+    ],
+    "correctAnswer": 2,
+    "difficulty": 1
+  },
+  {
+    "id": 15,
+    "question": "<b>4<ruby>分<rp>（</rp><rt>ぶん</rt><rp>）</rp></ruby>の1</b>",
+    "options": [
+      "おります",
+      "こん",
+      "みがきます",
+      "よんぶんのいち"
+    ],
+    "correctAnswer": 3,
+    "difficulty": 2
+  },
+  {
+    "id": 16,
+    "question": "<b>Anh làm tốt lắm rồi</b>",
+    "options": [
+      "うまくいきましたね",
+      "おやこどんぶり",
+      "さどう",
+      "～か、～"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 1
+  },
+  {
+    "id": 17,
+    "question": "<b>～こ</b>",
+    "options": [
+      "Anh làm tốt lắm rồi",
+      "Màu xanh tím than",
+      "Món ăn Oyakodonburi",
+      "~ quả"
+    ],
+    "correctAnswer": 3,
+    "difficulty": 1
+  },
+  {
+    "id": 18,
+    "question": "<b><ruby>煮<rp>（</rp><rt>に</rt><rp>）</rp></ruby>ます</b>",
+    "options": [
+      "しょうゆ",
+      "にます",
+      "シートベルト",
+      "ソース"
+    ],
+    "correctAnswer": 1,
+    "difficulty": 2
+  },
+  {
+    "id": 19,
+    "question": "<b>ばんごう</b>",
+    "options": [
+      "Nồi",
+      "Số",
+      "Tháo rời ra",
+      "Xì dầu"
+    ],
+    "correctAnswer": 1,
+    "difficulty": 1
+  },
+  {
+    "id": 20,
+    "question": "<b>はめます</b>",
+    "options": [
+      "Anh làm tốt lắm rồi",
+      "Cài vào",
+      "Màu xanh tím than",
+      "Đồ nội thất"
+    ],
+    "correctAnswer": 1,
+    "difficulty": 1
+  },
+  {
+    "id": 21,
+    "question": "<b><ruby>違<rp>（</rp><rt>ちが</rt><rp>）</rp></ruby>います</b>",
+    "options": [
+      "ざいりょう",
+      "せん",
+      "ちがいます",
+      "パッキング"
+    ],
+    "correctAnswer": 2,
+    "difficulty": 2
+  },
+  {
+    "id": 22,
+    "question": "<b>Tối qua, đêm qua</b>",
+    "options": [
+      "とりつけます",
+      "ばんごう",
+      "ゆうべ",
+      "ソース"
+    ],
+    "correctAnswer": 2,
+    "difficulty": 1
+  },
+  {
+    "id": 23,
+    "question": "<b>nước xốt</b>",
+    "options": [
+      "グラム",
+      "シートベルト",
+      "スポーツクラブ",
+      "ソース"
+    ],
+    "correctAnswer": 3,
+    "difficulty": 1
+  },
+  {
+    "id": 24,
+    "question": "<b><ruby>黄<rp>（</rp><rt>き</rt><rp>）</rp></ruby><ruby>色<rp>（</rp><rt>いろ</rt><rp>）</rp></ruby></b>",
+    "options": [
+      "きいろ",
+      "こん",
+      "にます",
+      "パッキング"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 2
+  },
+  {
+    "id": 25,
+    "question": "<b>おやこどんぶり</b>",
+    "options": [
+      "Chấm, điểm",
+      "Món ăn Oyakodonburi",
+      "Vặn lại, đóng lại",
+      "Xì dầu"
+    ],
+    "correctAnswer": 1,
+    "difficulty": 1
+  },
+  {
+    "id": 26,
+    "question": "<b>Vội vàng</b>",
+    "options": [
+      "あわてます",
+      "にえます",
+      "シートベルト",
+      "スポーツクラブ"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 1
+  },
+  {
+    "id": 27,
+    "question": "<b>Màu nâu</b>",
+    "options": [
+      "くみたてます",
+      "さどう",
+      "ちゃいろ",
+      "ばんごう"
+    ],
+    "correctAnswer": 2,
+    "difficulty": 1
+  },
+  {
+    "id": 28,
+    "question": "<b>ボルト</b>",
+    "options": [
+      "Bu long",
+      "Chương trình",
+      "Món ăn Oyakodonburi",
+      "Sai lầm, khác biệt"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 1
+  },
+  {
+    "id": 29,
+    "question": "<b>さっきわたしが（　）とおりにやってください。</b>",
+    "options": [
+      "説明した",
+      "説明する"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 1
+  },
+  {
+    "id": 30,
+    "question": "<b>Chương trình</b>",
+    "options": [
+      "こん",
+      "ず",
+      "せん",
+      "プログラム"
+    ],
+    "correctAnswer": 3,
+    "difficulty": 1
+  },
+  {
+    "id": 31,
+    "question": "<b>おります</b>",
+    "options": [
+      "Bẻ, gập, gấp",
+      "Chải, cọ",
+      "Nấu",
+      "Tháo rời ra"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 1
+  },
+  {
+    "id": 32,
+    "question": "<b>プログラム</b>",
+    "options": [
+      "Biểu đồ",
+      "Chương trình",
+      "Hỏi",
+      "Nước sốt"
+    ],
+    "correctAnswer": 1,
+    "difficulty": 1
+  },
+  {
+    "id": 33,
+    "question": "<b>ちがいます</b>",
+    "options": [
+      "Chất lên, chồng lên, đặt lên",
+      "Màu nâu",
+      "Sai lầm, khác biệt",
+      "Xì dầu"
+    ],
+    "correctAnswer": 2,
+    "difficulty": 1
+  },
+  {
+    "id": 34,
+    "question": "<b>ざいりょう</b>",
+    "options": [
+      "料材",
+      "料理",
+      "材料",
+      "理料"
+    ],
+    "correctAnswer": 2,
+    "difficulty": 1
+  },
+  {
+    "id": 35,
+    "question": "<b>Nấu</b>",
+    "options": [
+      "たまねぎ",
+      "にます",
+      "ぶんかい",
+      "やじるし"
+    ],
+    "correctAnswer": 1,
+    "difficulty": 1
+  },
+  {
+    "id": 36,
+    "question": "<b>Dây an toàn</b>",
+    "options": [
+      "ちょうみりょう",
+      "ねじ",
+      "のせます",
+      "シートベルト"
+    ],
+    "correctAnswer": 3,
+    "difficulty": 1
+  },
+  {
+    "id": 37,
+    "question": "<b>バレーボール</b>",
+    "options": [
+      "Bóng chuyền",
+      "Chất lên, chồng lên, đặt lên",
+      "Món ăn Oyakodonburi",
+      "Vặn lại, đóng lại"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 1
+  },
+  {
+    "id": 38,
+    "question": "<b>Biểu đồ</b>",
+    "options": [
+      "せつめいしょ",
+      "ひょう",
+      "もんだい",
+      "キー"
+    ],
+    "correctAnswer": 1,
+    "difficulty": 1
+  },
+  {
+    "id": 39,
+    "question": "<b>しょうゆ</b>",
+    "options": [
+      "Lắp ráp",
+      "Tuyến, đường dây",
+      "Xì dầu",
+      "Đinh ốc, vít"
+    ],
+    "correctAnswer": 2,
+    "difficulty": 1
+  },
+  {
+    "id": 40,
+    "question": "<b>Đinh ốc, vít</b>",
+    "options": [
+      "おります",
+      "ず",
+      "なべ",
+      "ねじ"
+    ],
+    "correctAnswer": 3,
+    "difficulty": 1
+  },
+  {
+    "id": 41,
+    "question": "<b>Chấm, điểm</b>",
+    "options": [
+      "おやこどんぶり",
+      "せつめいしょ",
+      "てん",
+      "バレーボール"
+    ],
+    "correctAnswer": 2,
+    "difficulty": 1
+  },
+  {
+    "id": 42,
+    "question": "<b>パッキング</b>",
+    "options": [
+      "Bao bì",
+      "Gắn vào",
+      "Màu xanh tím than",
+      "Số"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 1
+  },
+  {
+    "id": 43,
+    "question": "<b>ソース</b>",
+    "options": [
+      "Chấm, điểm",
+      "Nước sốt",
+      "Số",
+      "~ gram"
+    ],
+    "correctAnswer": 1,
+    "difficulty": 1
+  },
+  {
+    "id": 44,
+    "question": "<b>Điệu nhảy lễ hội Bon</b>",
+    "options": [
+      "くみたてます",
+      "にます",
+      "ぼんおどり",
+      "ボルト"
+    ],
+    "correctAnswer": 2,
+    "difficulty": 1
+  },
+  {
+    "id": 45,
+    "question": "<b>Đồ nội thất</b>",
+    "options": [
+      "うまくいきましたね",
+      "おやこどんぶり",
+      "かぐ",
+      "てん"
+    ],
+    "correctAnswer": 2,
+    "difficulty": 1
+  },
+  {
+    "id": 46,
+    "question": "<b>Cài vào</b>",
+    "options": [
+      "なべ",
+      "はめます",
+      "やじるし",
+      "ミーティング"
+    ],
+    "correctAnswer": 1,
+    "difficulty": 1
+  },
+  {
+    "id": 47,
+    "question": "<b>こん</b>",
+    "options": [
+      "Lắp ráp",
+      "Màu xanh tím than",
+      "Nấu",
+      "Vặn lại, đóng lại"
+    ],
+    "correctAnswer": 1,
+    "difficulty": 1
+  },
+  {
+    "id": 48,
+    "question": "<b>ゆうべ</b>",
+    "options": [
+      "Chất lên, chồng lên, đặt lên",
+      "Nồi",
+      "Thứ tự, tuần tự",
+      "Tối qua, đêm qua"
+    ],
+    "correctAnswer": 3,
+    "difficulty": 1
+  },
+  {
+    "id": 49,
+    "question": "<b>シートベルト</b>",
+    "options": [
+      "Bu long",
+      "Chấm",
+      "Dây an toàn",
+      "~ hoặc~"
+    ],
+    "correctAnswer": 2,
+    "difficulty": 1
+  },
+  {
+    "id": 50,
+    "question": "<b>ぼんおどり</b>",
+    "options": [
+      "Anh làm tốt lắm rồi",
+      "Lắp ráp",
+      "Sách giải thích",
+      "Điệu nhảy lễ hội Bon"
+    ],
+    "correctAnswer": 3,
+    "difficulty": 1
+  },
+  {
+    "id": 51,
+    "question": "<b>Bóng chuyền</b>",
+    "options": [
+      "はめます",
+      "ひょう",
+      "バレーボール",
+      "ミーティング"
+    ],
+    "correctAnswer": 2,
+    "difficulty": 1
+  },
+  {
+    "id": 52,
+    "question": "<b>とりつけます</b>",
+    "options": [
+      "Anh làm tốt lắm rồi",
+      "Cài vào",
+      "Gắn vào",
+      "Tuyến, đường dây"
+    ],
+    "correctAnswer": 2,
+    "difficulty": 1
+  },
+  {
+    "id": 53,
+    "question": "<b>Nồi</b>",
+    "options": [
+      "あわてます",
+      "ず",
+      "なべ",
+      "みがきます"
+    ],
+    "correctAnswer": 2,
+    "difficulty": 1
+  },
+  {
+    "id": 54,
+    "question": "<b>ミーティング</b>",
+    "options": [
+      "Bao bì",
+      "Buổi họp",
+      "Sách giải thích",
+      "[như thế này] được không?"
+    ],
+    "correctAnswer": 1,
+    "difficulty": 1
+  },
+  {
+    "id": 55,
+    "question": "<b>たまねぎ</b>",
+    "options": [
+      "Buổi họp",
+      "Hành tây",
+      "Số",
+      "~ phần"
+    ],
+    "correctAnswer": 1,
+    "difficulty": 1
+  },
+  {
+    "id": 56,
+    "question": "<b>Xì dầu</b>",
+    "options": [
+      "しょうゆ",
+      "つきます",
+      "ゆうべ",
+      "～グラム"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 1
+  },
+  {
+    "id": 57,
+    "question": "<b>きいろ</b>",
+    "options": [
+      "Chấm, điểm",
+      "Màu vàng",
+      "Một phần tư (1/4)",
+      "Sai lầm, khác biệt"
+    ],
+    "correctAnswer": 1,
+    "difficulty": 1
+  },
+  {
+    "id": 58,
+    "question": "<b>~ gram</b>",
+    "options": [
+      "きいろ",
+      "こん",
+      "プログラム",
+      "～グラム"
+    ],
+    "correctAnswer": 3,
+    "difficulty": 1
+  },
+  {
+    "id": 59,
+    "question": "<b>ちょうみりょう</b>",
+    "options": [
+      "Chín",
+      "Chất lên, chồng lên, đặt lên",
+      "Câu lạc bộ thể thao",
+      "Gia vị"
+    ],
+    "correctAnswer": 3,
+    "difficulty": 1
+  },
+  {
+    "id": 60,
+    "question": "<b>Chất lên, chồng lên, đặt lên</b>",
+    "options": [
+      "しょうゆ",
+      "じゅんじょ",
+      "のせます",
+      "ぶんかい"
+    ],
+    "correctAnswer": 2,
+    "difficulty": 1
+  },
+  {
+    "id": 61,
+    "question": "<b>Bu long</b>",
+    "options": [
+      "ゆるめます",
+      "ボルト",
+      "ミーティング",
+      "～グラム"
+    ],
+    "correctAnswer": 1,
+    "difficulty": 1
+  },
+  {
+    "id": 62,
+    "question": "<b>Bao bì</b>",
+    "options": [
+      "スポーツクラブ",
+      "バレーボール",
+      "パッキング",
+      "ミーティング"
+    ],
+    "correctAnswer": 2,
+    "difficulty": 1
+  },
+  {
+    "id": 63,
+    "question": "<b>Tháo rời ra</b>",
+    "options": [
+      "ちがいます",
+      "ぶんかい",
+      "ゆるめます",
+      "シートベルト"
+    ],
+    "correctAnswer": 1,
+    "difficulty": 1
+  },
+  {
+    "id": 64,
+    "question": "<b>Nguyên liệu</b>",
+    "options": [
+      "うまくいきましたね",
+      "ざいりょう",
+      "たまねぎ",
+      "にます"
+    ],
+    "correctAnswer": 1,
+    "difficulty": 1
+  },
+  {
+    "id": 65,
+    "question": "<b>Chải, cọ</b>",
+    "options": [
+      "ざいりょう",
+      "しょうゆ",
+      "ねじ",
+      "みがきます"
+    ],
+    "correctAnswer": 3,
+    "difficulty": 1
+  },
+  {
+    "id": 66,
+    "question": "<b>Vặn lại, đóng lại</b>",
+    "options": [
+      "しめます",
+      "たまねぎ",
+      "ねじ",
+      "ボルト"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 1
+  },
+  {
+    "id": 67,
+    "question": "<b>じゅんじょ</b>",
+    "options": [
+      "Hành tây",
+      "Món ăn Oyakodonburi",
+      "Thứ tự, tuần tự",
+      "Vặn lại, đóng lại"
+    ],
+    "correctAnswer": 2,
+    "difficulty": 1
+  },
+  {
+    "id": 68,
+    "question": "<b><ruby>調<rp>（</rp><rt>しら</rt><rp>）</rp></ruby>味料</b>",
+    "options": [
+      "ちょうみりょ",
+      "ちょうみりょう",
+      "ちょみりょ",
+      "ちょみりょう"
+    ],
+    "correctAnswer": 1,
+    "difficulty": 2
+  },
+  {
+    "id": 69,
+    "question": "<b>～か、～</b>",
+    "options": [
+      "Màu nâu",
+      "Nguyên liệu",
+      "~ gram",
+      "~ hoặc~"
+    ],
+    "correctAnswer": 3,
+    "difficulty": 1
+  },
+  {
+    "id": 70,
+    "question": "<b>やじるし</b>",
+    "options": [
+      "刷印",
+      "印刷",
+      "印矢",
+      "矢印"
+    ],
+    "correctAnswer": 3,
+    "difficulty": 1
+  },
+  {
+    "id": 71,
+    "question": "<b>なべ</b>",
+    "options": [
+      "Cái nồi",
+      "Cái ghế",
+      "Cái muỗng",
+      "Cái vá"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 1
+  },
+  {
+    "id": 72,
+    "question": "<b>Màu vàng</b>",
+    "options": [
+      "きいろ",
+      "しょうゆ",
+      "たまねぎ",
+      "ねじ"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 1
+  },
+  {
+    "id": 73,
+    "question": "<b>キー</b>",
+    "options": [
+      "Bẻ, gập, gấp",
+      "Chìa khóa",
+      "Chấm",
+      "Sơ đồ, đồ thị"
+    ],
+    "correctAnswer": 1,
+    "difficulty": 1
+  },
+  {
+    "id": 74,
+    "question": "<b>うまくいきましたね</b>",
+    "options": [
+      "Anh làm tốt lắm rồi",
+      "Buổi họp",
+      "Cài vào",
+      "~ quả"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 1
+  },
+  {
+    "id": 75,
+    "question": "<b>みがきます</b>",
+    "options": [
+      "Chải, cọ",
+      "Nước sốt",
+      "~ hoặc~",
+      "~ quả"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 1
+  },
+  {
+    "id": 76,
+    "question": "<b>Màu xanh tím than</b>",
+    "options": [
+      "こん",
+      "てん",
+      "みがきます",
+      "スポーツクラブ"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 1
+  },
+  {
+    "id": 77,
+    "question": "<b><ruby>磨<rp>（</rp><rt>みが</rt><rp>）</rp></ruby>きます</b>",
+    "options": [
+      "こん",
+      "じゅんじょ",
+      "てん",
+      "みがきます"
+    ],
+    "correctAnswer": 3,
+    "difficulty": 2
+  },
+  {
+    "id": 78,
+    "question": "<b>～グラム</b>",
+    "options": [
+      "Bao bì",
+      "Gia vị",
+      "Tuyến, đường dây",
+      "~ gram"
+    ],
+    "correctAnswer": 3,
+    "difficulty": 1
+  },
+  {
+    "id": 79,
+    "question": "<b>てん</b>",
+    "options": [
+      "Chấm, điểm",
+      "Dẫu mũi tên",
+      "Sai lầm, khác biệt",
+      "~ hoặc~"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 1
+  },
+  {
+    "id": 80,
+    "question": "<b><ruby>煮<rp>（</rp><rt>に</rt><rp>）</rp></ruby>えます</b>",
+    "options": [
+      "こん",
+      "つきます",
+      "にえます",
+      "ゆるめます"
+    ],
+    "correctAnswer": 2,
+    "difficulty": 2
+  },
+  {
+    "id": 81,
+    "question": "<b>サンプル</b>",
+    "options": [
+      "Câu lạc bộ thể thao",
+      "Hành tây",
+      "Mẫu, kiểu",
+      "Điệu nhảy lễ hội Bon"
+    ],
+    "correctAnswer": 2,
+    "difficulty": 1
+  },
+  {
+    "id": 82,
+    "question": "<b>Trà đạo</b>",
+    "options": [
+      "さどう",
+      "しつもん",
+      "てん",
+      "～こ"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 1
+  }
+]

@@ -1,17 +1,15 @@
 export interface GrammarPoint {
-  id: string
-  title: string
-  description: string
-  structure: string
+  id: string;
+  title: string;
+  description: string;
+  structure: string;
   examples: {
-    japanese: string
-    romaji: string
-    vietnamese: string
-  }[]
-  notes?: string[]
+    japanese: string;
+    romaji: string;
+    vietnamese: string;
+  }[];
+  notes?: string[];
 }
 
-export type GrammarData = {
-  [key: number]: GrammarPoint[]
-}
+export type GrammarData = Record<number, GrammarPoint[]>;
 

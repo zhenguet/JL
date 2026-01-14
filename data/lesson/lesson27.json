@@ -1,1 +1,819 @@
-﻿[]
+﻿[
+  {
+    "id": "toHit",
+    "kanji": "打ちます",
+    "hiragana": "うちます",
+    "en": "to hit",
+    "vi": "Đánh",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm I",
+        "《打ちます、打つ、打って》"
+      ]
+    }
+  },
+  {
+    "id": "canSee",
+    "kanji": "見えます",
+    "hiragana": "みえます",
+    "en": "can see",
+    "vi": "(có thể) nhìn thấy",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm II",
+        "《見えます、見える、見えて》",
+        "●「やま／うみが～」 Có thể nhìn thấy núi/biển"
+      ]
+    }
+  },
+  {
+    "id": "canHear",
+    "kanji": "聞こえます",
+    "hiragana": "きこえます",
+    "en": "can hear",
+    "vi": "(có thể) nghe thấy",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm II",
+        "《聞こえます、聞こえる、聞こえて》",
+        "●「おと／おんがくが～」 Có thể nghe thấy tiếng động/âm nhạc"
+      ]
+    }
+  },
+  {
+    "id": "toComplete",
+    "kanji": "できます",
+    "hiragana": "できます",
+    "en": "to complete",
+    "vi": "Hoàn thành, làm xong",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm II",
+        "●「くうこう／こうじょうが～」 Hoàn thành sân bay/nhà máy"
+      ]
+    }
+  },
+  {
+    "id": "toArrive",
+    "kanji": "着きます",
+    "hiragana": "つきます",
+    "en": "to arrive",
+    "vi": "Tới (Nhật)",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm I",
+        "●「日本に～」"
+      ]
+    }
+  },
+  {
+    "id": "toOperate",
+    "kanji": "操作",
+    "hiragana": "そうさ",
+    "en": "to operate",
+    "vi": "Thao tác, điều khiển",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm III",
+        "《します、する、して》"
+      ]
+    }
+  },
+  {
+    "id": "voice",
+    "kanji": "声",
+    "hiragana": "こえ",
+    "en": "voice",
+    "vi": "Giọng, giọng nói",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "river",
+    "kanji": "川",
+    "hiragana": "かわ",
+    "en": "river",
+    "vi": "Sông",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "sea",
+    "kanji": "海",
+    "hiragana": "うみ",
+    "en": "sea",
+    "vi": "Biển",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "character",
+    "kanji": "字",
+    "hiragana": "じ",
+    "en": "character",
+    "vi": "Chữ",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "evening",
+    "kanji": "夕方",
+    "hiragana": "ゆうがた",
+    "en": "evening",
+    "vi": "Chiều qua",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "lastEvening",
+    "kanji": "夕べ",
+    "hiragana": "ゆうべ",
+    "en": "last evening",
+    "vi": "Tối qua",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "whiskey",
+    "kanji": "ウイスキー",
+    "hiragana": "ウイスキー",
+    "en": "whiskey",
+    "vi": "Rượu uýt ki",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "cleaning",
+    "kanji": "クリーニング",
+    "hiragana": "クリーニング",
+    "en": "cleaning",
+    "vi": "Cửa hàng giặt là",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "curtain",
+    "kanji": "カーテン",
+    "hiragana": "カーテン",
+    "en": "curtain",
+    "vi": "Rèm cửa",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "ordinalNumber",
+    "kanji": "～め",
+    "hiragana": "～め",
+    "en": "ordinal number",
+    "vi": "Thứ~",
+    "type": "other",
+    "explanation": {
+      "content": [
+        "Hậu tố chỉ thứ tự"
+      ]
+    }
+  },
+  {
+    "id": "overThere",
+    "kanji": "むこう",
+    "hiragana": "むこう",
+    "en": "over there",
+    "vi": "Phía bên kia",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "beside",
+    "kanji": "そば",
+    "hiragana": "そば",
+    "en": "beside",
+    "vi": "Bên cạnh",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "side",
+    "kanji": "～側",
+    "hiragana": "～がわ",
+    "en": "side",
+    "vi": "Bên, phía, hướng",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "corner",
+    "kanji": "角",
+    "hiragana": "かど",
+    "en": "corner",
+    "vi": "Góc",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "skillfully",
+    "kanji": "上手に",
+    "hiragana": "じょうずに",
+    "en": "skillfully",
+    "vi": "Giỏi",
+    "type": "adverb",
+    "explanation": {
+      "content": [
+        "Phó từ"
+      ]
+    }
+  },
+  {
+    "id": "notEasily",
+    "kanji": "なかなか",
+    "hiragana": "なかなか",
+    "en": "not easily",
+    "vi": "Mãi mà không (Dùng thể phủ định)",
+    "type": "adverb",
+    "explanation": {
+      "content": [
+        "Phó từ"
+      ]
+    }
+  },
+  {
+    "id": "clearly",
+    "kanji": "はっきり",
+    "hiragana": "はっきり",
+    "en": "clearly",
+    "vi": "Rõ ràng",
+    "type": "adverb",
+    "explanation": {
+      "content": [
+        "Phó từ"
+      ]
+    }
+  },
+  {
+    "id": "anywhere",
+    "kanji": "どこでも",
+    "hiragana": "どこでも",
+    "en": "anywhere",
+    "vi": "Nơi nào cũng",
+    "type": "adverb",
+    "explanation": {
+      "content": [
+        "Phó từ"
+      ]
+    }
+  },
+  {
+    "id": "only",
+    "kanji": "～しか",
+    "hiragana": "～しか",
+    "en": "only",
+    "vi": "Chỉ (đi với dạng phủ định)",
+    "type": "other",
+    "explanation": {
+      "content": [
+        "Trợ từ",
+        "● 日本語しかわかりません (Tôi) chỉ biết tiếng Nhật"
+      ]
+    }
+  },
+  {
+    "id": "toKeep",
+    "kanji": "飼います",
+    "hiragana": "かいます",
+    "en": "to keep",
+    "vi": "Nuôi",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm I",
+        "《飼います、飼う、飼って》"
+      ]
+    }
+  },
+  {
+    "id": "toRun",
+    "kanji": "走ります",
+    "hiragana": "はしります",
+    "en": "to run",
+    "vi": "Chạy",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm I",
+        "《走ります、走る、走って》",
+        "●「道を～」 Chạy trên đường"
+      ]
+    }
+  },
+  {
+    "id": "toTake",
+    "kanji": "取ります",
+    "hiragana": "とります",
+    "en": "to take",
+    "vi": "Lấy",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm I",
+        "《取ります、取る、取って》",
+        "●「休み／きょかを～」 Xin nghỉ/phép"
+      ]
+    }
+  },
+  {
+    "id": "toOpen",
+    "kanji": "開きます",
+    "hiragana": "ひらきます",
+    "en": "to open",
+    "vi": "Mở, khai trương",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm I",
+        "《開きます、開く、開いて》",
+        "●「コースを～」 Mở khóa học"
+      ]
+    }
+  },
+  {
+    "id": "toFly",
+    "kanji": "飛びます",
+    "hiragana": "とびます",
+    "en": "to fly",
+    "vi": "Bay",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm II",
+        "《飛びます、飛ぶ、飛んで》"
+      ]
+    }
+  },
+  {
+    "id": "toBuild",
+    "kanji": "建てます",
+    "hiragana": "たてます",
+    "en": "to build",
+    "vi": "Xây, xây dựng",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm II",
+        "《建てます、建てる、建てて》"
+      ]
+    }
+  },
+  {
+    "id": "toAttach",
+    "kanji": "付けます",
+    "hiragana": "つけます",
+    "en": "to attach",
+    "vi": "Gắn, bật…",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm II",
+        "《付けます、付ける、付けて》"
+      ]
+    }
+  },
+  {
+    "id": "pet",
+    "kanji": "ペット",
+    "hiragana": "ペット",
+    "en": "pet",
+    "vi": "Con vật cưng",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "wave",
+    "kanji": "波",
+    "hiragana": "なみ",
+    "en": "wave",
+    "vi": "Sóng, sóng biển",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "scenery",
+    "kanji": "景色",
+    "hiragana": "けしき",
+    "en": "scenery",
+    "vi": "Cảnh, phong cảnh",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "daytime",
+    "kanji": "昼間",
+    "hiragana": "ひるま",
+    "en": "daytime",
+    "vi": "Ban ngày",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "longAgo",
+    "kanji": "昔",
+    "hiragana": "むかし",
+    "en": "long ago",
+    "vi": "Ngày xưa, ngày trước",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "tool",
+    "kanji": "道具",
+    "hiragana": "どうぐ",
+    "en": "tool",
+    "vi": "Dụng cụ, đạo cụ",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "vendingMachine",
+    "kanji": "自動販売機",
+    "hiragana": "じどうはんばいき",
+    "en": "vending machine",
+    "vi": "Máy bán hàng tự động",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "onlineShopping",
+    "kanji": "通信販売",
+    "hiragana": "つうしんはんばい",
+    "en": "online shopping",
+    "vi": "Mua bán qua mạng",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "kitchen",
+    "kanji": "台所",
+    "hiragana": "だいどころ",
+    "en": "kitchen",
+    "vi": "Nhà bếp",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "apartment",
+    "kanji": "マンション",
+    "hiragana": "マンション",
+    "en": "apartment",
+    "vi": "Chung cư",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "partyRoom",
+    "kanji": "パーティールーム",
+    "hiragana": "パーティールーム",
+    "en": "party room",
+    "vi": "Phòng tổ chức tiệc",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "after",
+    "kanji": "～後",
+    "hiragana": "～ご",
+    "en": "after",
+    "vi": "Sau~",
+    "type": "other",
+    "explanation": {
+      "content": [
+        "Hậu tố",
+        "● ２０年後 にじゅうねんご 20 năm sau"
+      ]
+    }
+  },
+  {
+    "id": "almost",
+    "kanji": "ほとんど",
+    "hiragana": "ほとんど",
+    "en": "almost",
+    "vi": "Hầu như, gần như",
+    "type": "adverb",
+    "explanation": {
+      "content": [
+        "Phó từ"
+      ]
+    }
+  },
+  {
+    "id": "kansaiAirport",
+    "kanji": "関西空港",
+    "hiragana": "かんさいくうこう",
+    "en": "Kansai Airport",
+    "vi": "Sân bay Kansai",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ",
+        "＊かんさいくうこう"
+      ]
+    }
+  },
+  {
+    "id": "akihabara",
+    "kanji": "秋葉原",
+    "hiragana": "あきはばら",
+    "en": "Akihabara",
+    "vi": "Tên khu phố ở Tokyo",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ",
+        "＊あきはばら"
+      ]
+    }
+  },
+  {
+    "id": "izu",
+    "kanji": "伊豆",
+    "hiragana": "いず",
+    "en": "Izu",
+    "vi": "Tên địa danh",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ",
+        "＊いず"
+      ]
+    }
+  },
+  {
+    "id": "sundayCarpentry",
+    "kanji": "日曜大工",
+    "hiragana": "にちようだいく",
+    "en": "Sunday carpentry",
+    "vi": "Làm đồ mộc vào ngày chủ nhật",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "bookshelf",
+    "kanji": "本棚",
+    "hiragana": "ほんだな",
+    "en": "bookshelf",
+    "vi": "Giá sách",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "dream",
+    "kanji": "夢",
+    "hiragana": "ゆめ",
+    "en": "dream",
+    "vi": "Giấc mơ",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "wonderful",
+    "kanji": "すばらしい",
+    "hiragana": "すばらしい",
+    "en": "wonderful",
+    "vi": "Tuyệt vời, xuất sắc",
+    "type": "adjective",
+    "explanation": {
+      "content": [
+        "Tính từ"
+      ]
+    }
+  },
+  {
+    "id": "mysterious",
+    "kanji": "不思議",
+    "hiragana": "ふしぎ",
+    "en": "mysterious",
+    "vi": "Thần kì, bí ẩn",
+    "type": "adjective",
+    "explanation": {
+      "content": [
+        "Tính từ",
+        "「な」"
+      ]
+    }
+  },
+  {
+    "id": "freely",
+    "kanji": "自由に",
+    "hiragana": "じゆうに",
+    "en": "freely",
+    "vi": "Tự do, tùy ý",
+    "type": "adverb",
+    "explanation": {
+      "content": [
+        "Phó từ"
+      ]
+    }
+  },
+  {
+    "id": "manga",
+    "kanji": "漫画",
+    "hiragana": "まんが",
+    "en": "manga",
+    "vi": "Chuyện tranh",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "protagonist",
+    "kanji": "主人公",
+    "hiragana": "しゅじんこう",
+    "en": "protagonist",
+    "vi": "Nhân vật chính",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "shape",
+    "kanji": "形",
+    "hiragana": "かたち",
+    "en": "shape",
+    "vi": "Hình dạng",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "forExample",
+    "kanji": "例えば",
+    "hiragana": "たとえば",
+    "en": "for example",
+    "vi": "Ví dụ như là…",
+    "type": "adverb",
+    "explanation": {
+      "content": [
+        "Phó từ"
+      ]
+    }
+  },
+  {
+    "id": "sky",
+    "kanji": "空",
+    "hiragana": "そら",
+    "en": "sky",
+    "vi": "Bầu trời",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "oneself",
+    "kanji": "自分",
+    "hiragana": "じぶん",
+    "en": "oneself",
+    "vi": "Tự mình",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "future",
+    "kanji": "将来",
+    "hiragana": "しょうらい",
+    "en": "future",
+    "vi": "Tương lai",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  }
+]

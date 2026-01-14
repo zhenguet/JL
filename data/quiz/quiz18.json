@@ -1,0 +1,1544 @@
+[
+  {
+    "id": 1,
+    "question": "<b>うたいます</b>",
+    "options": [
+      "歌います",
+      "歌たいます",
+      "音います",
+      "音たいます"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 1
+  },
+  {
+    "id": 2,
+    "question": "<b>tôi còn phải cố gắng [tập] hơn nữa</b>",
+    "options": [
+      "こくさい",
+      "はじめます",
+      "ぼくじょう",
+      "もっと「れんしゅうし」ないと…"
+    ],
+    "correctAnswer": 3,
+    "difficulty": 1
+  },
+  {
+    "id": 3,
+    "question": "<b>げんきん</b>",
+    "options": [
+      "現員",
+      "現金",
+      "現銀",
+      "見銀"
+    ],
+    "correctAnswer": 1,
+    "difficulty": 1
+  },
+  {
+    "id": 4,
+    "question": "<b>かえます</b>",
+    "options": [
+      "hát",
+      "sở thích",
+      "trao đổi, đổi",
+      "trượt tuyết"
+    ],
+    "correctAnswer": 2,
+    "difficulty": 1
+  },
+  {
+    "id": 5,
+    "question": "<b><ruby>換<rp>（</rp><rt>か</rt><rp>）</rp></ruby>えます</b>",
+    "options": [
+      "おいのり「～をします」",
+      "かえます",
+      "もっと「れんしゅうし」ないと…",
+      "よやくします"
+    ],
+    "correctAnswer": 1,
+    "difficulty": 2
+  },
+  {
+    "id": 6,
+    "question": "<b>なおします</b>",
+    "options": [
+      "sửa, chữa",
+      "thật á! (dùng khi biểu lộ sự ngạc nhiên)",
+      "trượt tuyết",
+      "động vật"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 1
+  },
+  {
+    "id": 7,
+    "question": "<b>mét</b>",
+    "options": [
+      "あらいます",
+      "おいのり",
+      "なおします",
+      "メートル"
+    ],
+    "correctAnswer": 3,
+    "difficulty": 1
+  },
+  {
+    "id": 8,
+    "question": "<b><ruby>社<ruby>長<rp>（</rp><rt>なが</rt><rp>）</rp></ruby><rp>（</rp><rt>しゃちょう</rt><rp>）</rp></ruby></b>",
+    "options": [
+      "おいのり「～をします」",
+      "およぎます",
+      "しゃちょう",
+      "しゅみ"
+    ],
+    "correctAnswer": 2,
+    "difficulty": 2
+  },
+  {
+    "id": 9,
+    "question": "<b>chơi [đàn pianô]</b>",
+    "options": [
+      "しゅみ",
+      "すてます",
+      "ひきます",
+      "まだまだだめです"
+    ],
+    "correctAnswer": 2,
+    "difficulty": 1
+  },
+  {
+    "id": 10,
+    "question": "<b><ruby>大丈夫<rp>（</rp><rt>だいじょうぶ</rt><rp>）</rp></ruby>です</b>",
+    "options": [
+      "こくさい",
+      "しゃちょう",
+      "だいじょうぶです",
+      "にっき"
+    ],
+    "correctAnswer": 2,
+    "difficulty": 2
+  },
+  {
+    "id": 11,
+    "question": "<b>trưởng bộ phận, trưởng ban</b>",
+    "options": [
+      "うたいます",
+      "うんてんします",
+      "かちょう",
+      "だいじょうぶです"
+    ],
+    "correctAnswer": 2,
+    "difficulty": 1
+  },
+  {
+    "id": 12,
+    "question": "<b>A：これは　なんですか。<p>B：（　）は　ぶちょうです。</p></b>",
+    "options": [
+      "あれ",
+      "これ",
+      "それ",
+      "どれ"
+    ],
+    "correctAnswer": 1,
+    "difficulty": 2
+  },
+  {
+    "id": 13,
+    "question": "<b>かえます</b>",
+    "options": [
+      "Biến dạng",
+      "Biến hoá",
+      "Khai thác",
+      "Đổi"
+    ],
+    "correctAnswer": 3,
+    "difficulty": 1
+  },
+  {
+    "id": 14,
+    "question": "<b>nhật ký</b>",
+    "options": [
+      "およぎます",
+      "にっき",
+      "はじめます",
+      "ぼくじょう"
+    ],
+    "correctAnswer": 1,
+    "difficulty": 1
+  },
+  {
+    "id": 15,
+    "question": "<b>chơi đàn piano</b>",
+    "options": [
+      "こくさい",
+      "ひきます",
+      "ほんとうですか",
+      "ピアノをひきます"
+    ],
+    "correctAnswer": 3,
+    "difficulty": 1
+  },
+  {
+    "id": 16,
+    "question": "<b>どうぶつ</b>",
+    "options": [
+      "Viện bảo tàng",
+      "Động tác",
+      "Động từ",
+      "Động vật"
+    ],
+    "correctAnswer": 3,
+    "difficulty": 1
+  },
+  {
+    "id": 17,
+    "question": "<b>なおします</b>",
+    "options": [
+      "sửa, chữa",
+      "sự cầu chúc",
+      "thật á! (dùng khi biểu lộ sự ngạc nhiên)",
+      "vứt đi, bỏ đi"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 1
+  },
+  {
+    "id": 18,
+    "question": "<b><ruby>課<ruby>長<rp>（</rp><rt>なが</rt><rp>）</rp></ruby><rp>（</rp><rt>かちょう</rt><rp>）</rp></ruby></b>",
+    "options": [
+      "およぎます",
+      "かちょう",
+      "だいじょうぶです",
+      "ビートルズ"
+    ],
+    "correctAnswer": 1,
+    "difficulty": 2
+  },
+  {
+    "id": 19,
+    "question": "<b>かちょう</b>",
+    "options": [
+      "hát",
+      "thật á! (dùng khi biểu lộ sự ngạc nhiên)",
+      "trưởng bộ phận, trưởng ban",
+      "trưởng phòng"
+    ],
+    "correctAnswer": 2,
+    "difficulty": 1
+  },
+  {
+    "id": 20,
+    "question": "<b>れんしゅうします</b>",
+    "options": [
+      "lái (xe), điều khiển",
+      "tập, luyện tập",
+      "vứt đi, bỏ đi",
+      "đặt chỗ, đặt trước"
+    ],
+    "correctAnswer": 1,
+    "difficulty": 1
+  },
+  {
+    "id": 21,
+    "question": "<b>メートル</b>",
+    "options": [
+      "Centimet",
+      "Hét ta",
+      "Mét",
+      "Tấn"
+    ],
+    "correctAnswer": 2,
+    "difficulty": 1
+  },
+  {
+    "id": 22,
+    "question": "<b>không hề gì. không sao đâu</b>",
+    "options": [
+      "うんてんします",
+      "おいのり「～をします」",
+      "だいじょうぶです",
+      "よやくします"
+    ],
+    "correctAnswer": 2,
+    "difficulty": 1
+  },
+  {
+    "id": 23,
+    "question": "<b>giám đốc, chủ tịch</b>",
+    "options": [
+      "およぎます",
+      "こしょう",
+      "しゃちょう",
+      "ビートルズ"
+    ],
+    "correctAnswer": 2,
+    "difficulty": 1
+  },
+  {
+    "id": 24,
+    "question": "<b>げんきん</b>",
+    "options": [
+      "chơi [đàn pianô]",
+      "thật sao?",
+      "tiền mặt",
+      "động vật"
+    ],
+    "correctAnswer": 2,
+    "difficulty": 1
+  },
+  {
+    "id": 25,
+    "question": "<b>ban nhạc The Beatles</b>",
+    "options": [
+      "げんきん",
+      "しゃちょう",
+      "それはおもしろいね",
+      "ビートルズ"
+    ],
+    "correctAnswer": 3,
+    "difficulty": 1
+  },
+  {
+    "id": 26,
+    "question": "<b>もっと「れんしゅうし」ないと…</b>",
+    "options": [
+      "trượt tuyết",
+      "tôi còn phải cố gắng [tập] hơn nữa",
+      "vứt đi, bỏ đi",
+      "động vật"
+    ],
+    "correctAnswer": 1,
+    "difficulty": 1
+  },
+  {
+    "id": 27,
+    "question": "<b>おいのり「～をします」</b>",
+    "options": [
+      "[cầu chúc]",
+      "hỏng hóc, trục trặc",
+      "tôi còn phải cố gắng [tập] hơn nữa",
+      "động vật"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 1
+  },
+  {
+    "id": 28,
+    "question": "<b>Đặt chỗ trước</b>",
+    "options": [
+      "ようやくします",
+      "よっやくします",
+      "よやくうします",
+      "よやくします"
+    ],
+    "correctAnswer": 3,
+    "difficulty": 1
+  },
+  {
+    "id": 29,
+    "question": "<b>まだまだだめです</b>",
+    "options": [
+      "bơi",
+      "có thể, được, có khả năng",
+      "nhật ký",
+      "vẫn còn chưa được (câu nói khiêm tốn)"
+    ],
+    "correctAnswer": 3,
+    "difficulty": 1
+  },
+  {
+    "id": 30,
+    "question": "<b>かえます</b>",
+    "options": [
+      "giám đốc, chủ tịch",
+      "không hề gì. không sao đâu",
+      "sửa, chữa",
+      "trao đổi, đổi"
+    ],
+    "correctAnswer": 3,
+    "difficulty": 1
+  },
+  {
+    "id": 31,
+    "question": "<b>わたしの<ruby>趣味<rp>（</rp><rt>しゅみ</rt><rp>）</rp></ruby>は（　）。</b>",
+    "options": [
+      "ピアノを弾くことができます",
+      "ピアノを弾くことです"
+    ],
+    "correctAnswer": 1,
+    "difficulty": 2
+  },
+  {
+    "id": 32,
+    "question": "<b>bơi</b>",
+    "options": [
+      "およぎます",
+      "こしょう",
+      "それはおもしろいね",
+      "よやくします"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 1
+  },
+  {
+    "id": 33,
+    "question": "<b>よやくします</b>",
+    "options": [
+      "hỏng hóc, trục trặc",
+      "thật á! (dùng khi biểu lộ sự ngạc nhiên)",
+      "trượt tuyết",
+      "đặt chỗ, đặt trước"
+    ],
+    "correctAnswer": 3,
+    "difficulty": 1
+  },
+  {
+    "id": 34,
+    "question": "<b><ruby>泳<rp>（</rp><rt>およ</rt><rp>）</rp></ruby>ぎます</b>",
+    "options": [
+      "およぎます",
+      "かえます",
+      "こしょう",
+      "よやくします"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 2
+  },
+  {
+    "id": 35,
+    "question": "<b>それはおもしろいね</b>",
+    "options": [
+      "thật sao?",
+      "vứt đi, bỏ đi",
+      "ôi hay quá nhỉ!",
+      "đặt chỗ, đặt trước"
+    ],
+    "correctAnswer": 2,
+    "difficulty": 1
+  },
+  {
+    "id": 36,
+    "question": "<b>できます</b>",
+    "options": [
+      "chơi đàn piano",
+      "có thể, được, có khả năng",
+      "hát",
+      "vẫn còn chưa được (câu nói khiêm tốn)"
+    ],
+    "correctAnswer": 1,
+    "difficulty": 1
+  },
+  {
+    "id": 37,
+    "question": "<b>tiền mặt</b>",
+    "options": [
+      "げんきん",
+      "こしょう",
+      "できます",
+      "まだまだだめです"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 1
+  },
+  {
+    "id": 38,
+    "question": "<b>ひきます</b>",
+    "options": [
+      "ban nhạc The Beatles",
+      "chơi [đàn pianô]",
+      "hát",
+      "nhật ký"
+    ],
+    "correctAnswer": 1,
+    "difficulty": 1
+  },
+  {
+    "id": 39,
+    "question": "<b>だいじょうぶです</b>",
+    "options": [
+      "không hề gì. không sao đâu",
+      "sự cầu chúc",
+      "tiền mặt",
+      "tập trung, tập hợp"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 1
+  },
+  {
+    "id": 40,
+    "question": "<b>vứt đi, bỏ đi</b>",
+    "options": [
+      "かえます",
+      "すてます",
+      "ぶちょう",
+      "スキー"
+    ],
+    "correctAnswer": 1,
+    "difficulty": 1
+  },
+  {
+    "id": 41,
+    "question": "<b>げんきん</b>",
+    "options": [
+      "ban nhạc The Beatles",
+      "tiền mặt",
+      "trao đổi, đổi",
+      "đặt chỗ, đặt trước"
+    ],
+    "correctAnswer": 1,
+    "difficulty": 1
+  },
+  {
+    "id": 42,
+    "question": "<b>もっと「<ruby>練習<rp>（</rp><rt>れんしゅう</rt><rp>）</rp></ruby>し」ないと…</b>",
+    "options": [
+      "うたいます",
+      "げんきん",
+      "へえ",
+      "もっと「れんしゅうし」ないと…"
+    ],
+    "correctAnswer": 3,
+    "difficulty": 2
+  },
+  {
+    "id": 43,
+    "question": "<b>Lái</b>",
+    "options": [
+      "うごきます",
+      "うごびます",
+      "うんてんします",
+      "うんどうします"
+    ],
+    "correctAnswer": 2,
+    "difficulty": 1
+  },
+  {
+    "id": 44,
+    "question": "<b>もっと「れんしゅうし」ないと…</b>",
+    "options": [
+      "giám đốc, chủ tịch",
+      "hát",
+      "trại nuôi gia súc",
+      "tôi còn phải cố gắng [tập] hơn nữa"
+    ],
+    "correctAnswer": 3,
+    "difficulty": 1
+  },
+  {
+    "id": 45,
+    "question": "<b>ビートルズ</b>",
+    "options": [
+      "ban nhạc The Beatles",
+      "sở thích",
+      "thật á! (dùng khi biểu lộ sự ngạc nhiên)",
+      "trao đổi, đổi"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 1
+  },
+  {
+    "id": 46,
+    "question": "<b>ほんとうですか</b>",
+    "options": [
+      "thật sao?",
+      "thật á! (dùng khi biểu lộ sự ngạc nhiên)",
+      "trưởng bộ phận, trưởng ban",
+      "trưởng phòng"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 1
+  },
+  {
+    "id": 47,
+    "question": "<b><ruby>部<ruby>長<rp>（</rp><rt>なが</rt><rp>）</rp></ruby><rp>（</rp><rt>ぶちょう</rt><rp>）</rp></ruby></b>",
+    "options": [
+      "おいのり「～をします」",
+      "こしょう",
+      "ぶちょう",
+      "まだまだだめです"
+    ],
+    "correctAnswer": 2,
+    "difficulty": 2
+  },
+  {
+    "id": 48,
+    "question": "<b>hát</b>",
+    "options": [
+      "うたいます",
+      "こくさい",
+      "まだまだだめです",
+      "ピアノをひきます"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 1
+  },
+  {
+    "id": 49,
+    "question": "<b>tôi còn phải cố gắng [tập] hơn nữa</b>",
+    "options": [
+      "うんてんします",
+      "それはおもしろいね",
+      "ほんとうですか",
+      "もっと「れんしゅうし」ないと…"
+    ],
+    "correctAnswer": 3,
+    "difficulty": 1
+  },
+  {
+    "id": 50,
+    "question": "<b><ruby>牧<ruby>場<rp>（</rp><rt>ば</rt><rp>）</rp></ruby><rp>（</rp><rt>ぼくじょう</rt><rp>）</rp></ruby></b>",
+    "options": [
+      "しゃちょう",
+      "それはおもしろいね",
+      "ぶちょう",
+      "ぼくじょう"
+    ],
+    "correctAnswer": 3,
+    "difficulty": 2
+  },
+  {
+    "id": 51,
+    "question": "<b>Rửa</b>",
+    "options": [
+      "あらいます",
+      "はらいます",
+      "ふります",
+      "わらいます"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 1
+  },
+  {
+    "id": 52,
+    "question": "<b>trao đổi, đổi</b>",
+    "options": [
+      "あらいます",
+      "かえます",
+      "げんきん",
+      "はじめます"
+    ],
+    "correctAnswer": 1,
+    "difficulty": 1
+  },
+  {
+    "id": 53,
+    "question": "<b>Vứt, bỏ đi</b>",
+    "options": [
+      "すてます",
+      "すべります",
+      "すれます",
+      "ひろいます"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 1
+  },
+  {
+    "id": 54,
+    "question": "<b>mét</b>",
+    "options": [
+      "こしょう",
+      "しゃちょう",
+      "まだまだだめです",
+      "メートル"
+    ],
+    "correctAnswer": 3,
+    "difficulty": 1
+  },
+  {
+    "id": 55,
+    "question": "<b>ぼくじょう</b>",
+    "options": [
+      "rửa, giặt",
+      "sự cầu chúc",
+      "trại nuôi gia súc",
+      "tập trung, tập hợp"
+    ],
+    "correctAnswer": 2,
+    "difficulty": 1
+  },
+  {
+    "id": 56,
+    "question": "<b>trưởng bộ phận, trưởng ban</b>",
+    "options": [
+      "うたいます",
+      "かちょう",
+      "げんきん",
+      "それはおもしろいね"
+    ],
+    "correctAnswer": 1,
+    "difficulty": 1
+  },
+  {
+    "id": 57,
+    "question": "<b>スキー</b>",
+    "options": [
+      "chơi [đàn pianô]",
+      "trượt tuyết",
+      "tôi còn phải cố gắng [tập] hơn nữa",
+      "ôi hay quá nhỉ!"
+    ],
+    "correctAnswer": 1,
+    "difficulty": 1
+  },
+  {
+    "id": 58,
+    "question": "<b>できます</b>",
+    "options": [
+      "Bán",
+      "Có thể",
+      "Làm việc",
+      "Phải"
+    ],
+    "correctAnswer": 1,
+    "difficulty": 1
+  },
+  {
+    "id": 59,
+    "question": "<b>ぶちょう</b>",
+    "options": [
+      "chơi đàn piano",
+      "trưởng phòng",
+      "trượt tuyết",
+      "tập trung, tập hợp"
+    ],
+    "correctAnswer": 1,
+    "difficulty": 1
+  },
+  {
+    "id": 60,
+    "question": "<b>およぎます</b>",
+    "options": [
+      "bơi",
+      "hỏng hóc, trục trặc",
+      "nhật ký",
+      "trưởng phòng"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 1
+  },
+  {
+    "id": 61,
+    "question": "<b>[cầu chúc]</b>",
+    "options": [
+      "おいのり「～をします」",
+      "かえます",
+      "ぶちょう",
+      "れんしゅうします"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 1
+  },
+  {
+    "id": 62,
+    "question": "<b>もっと「れんしゅうし」ないと…</b>",
+    "options": [
+      "ban nhạc The Beatles",
+      "tiền mặt",
+      "tôi còn phải cố gắng [tập] hơn nữa",
+      "động vật"
+    ],
+    "correctAnswer": 2,
+    "difficulty": 1
+  },
+  {
+    "id": 63,
+    "question": "<b>あつめます</b>",
+    "options": [
+      "bơi",
+      "chơi [đàn pianô]",
+      "tiền mặt",
+      "tập trung, tập hợp"
+    ],
+    "correctAnswer": 3,
+    "difficulty": 1
+  },
+  {
+    "id": 64,
+    "question": "<b>あらいます</b>",
+    "options": [
+      "rửa, giặt",
+      "trưởng phòng",
+      "trượt tuyết",
+      "vẫn còn chưa được (câu nói khiêm tốn)"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 1
+  },
+  {
+    "id": 65,
+    "question": "<b><ruby>牧<ruby>場<rp>（</rp><rt>ば</rt><rp>）</rp></ruby><rp>（</rp><rt>ぼくじょう</rt><rp>）</rp></ruby></b>",
+    "options": [
+      "ほうじょ",
+      "ほくじょ",
+      "ほくじょう",
+      "ぼくじょう"
+    ],
+    "correctAnswer": 3,
+    "difficulty": 2
+  },
+  {
+    "id": 66,
+    "question": "<b>bắt đầu</b>",
+    "options": [
+      "それはおもしろいね",
+      "なおします",
+      "はじめます",
+      "ビートルズ"
+    ],
+    "correctAnswer": 2,
+    "difficulty": 1
+  },
+  {
+    "id": 67,
+    "question": "<b>あつめます</b>",
+    "options": [
+      "数めます",
+      "準めます",
+      "育めます",
+      "集めます"
+    ],
+    "correctAnswer": 3,
+    "difficulty": 1
+  },
+  {
+    "id": 68,
+    "question": "<b>chơi [đàn pianô]</b>",
+    "options": [
+      "あつめます",
+      "おいのり「～をします」",
+      "それはおもしろいね",
+      "ひきます"
+    ],
+    "correctAnswer": 3,
+    "difficulty": 1
+  },
+  {
+    "id": 69,
+    "question": "<b>thật á! (dùng khi biểu lộ sự ngạc nhiên)</b>",
+    "options": [
+      "にっき",
+      "はじめます",
+      "ひきます",
+      "へえ"
+    ],
+    "correctAnswer": 3,
+    "difficulty": 1
+  },
+  {
+    "id": 70,
+    "question": "<b>quốc tế</b>",
+    "options": [
+      "あつめます",
+      "こくさい",
+      "はじめます",
+      "ぼくじょう"
+    ],
+    "correctAnswer": 1,
+    "difficulty": 1
+  },
+  {
+    "id": 71,
+    "question": "<b><ruby>日記<rp>（</rp><rt>にっき</rt><rp>）</rp></ruby></b>",
+    "options": [
+      "せいき",
+      "せっき",
+      "にくき",
+      "にっき"
+    ],
+    "correctAnswer": 3,
+    "difficulty": 2
+  },
+  {
+    "id": 72,
+    "question": "<b>ピアノ</b>",
+    "options": [
+      "Đàn Piano",
+      "Đàn bầu",
+      "Đàn gita",
+      "Đàn organ"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 1
+  },
+  {
+    "id": 73,
+    "question": "<b>A：おいのり「～をします」は　どちらですか。<p>B：（　）です。</p></b>",
+    "options": [
+      "あちら",
+      "こちら",
+      "そちら",
+      "どちら"
+    ],
+    "correctAnswer": 1,
+    "difficulty": 2
+  },
+  {
+    "id": 74,
+    "question": "<b><ruby>国際<rp>（</rp><rt>こくさい</rt><rp>）</rp></ruby></b>",
+    "options": [
+      "こうくさい",
+      "こうさい",
+      "こくさい",
+      "こっさい"
+    ],
+    "correctAnswer": 2,
+    "difficulty": 2
+  },
+  {
+    "id": 75,
+    "question": "<b>thật á! (dùng khi biểu lộ sự ngạc nhiên)</b>",
+    "options": [
+      "しゃちょう",
+      "できます",
+      "へえ",
+      "れんしゅうします"
+    ],
+    "correctAnswer": 2,
+    "difficulty": 1
+  },
+  {
+    "id": 76,
+    "question": "<b>まだまだだめです</b>",
+    "options": [
+      "mét",
+      "trao đổi, đổi",
+      "trại nuôi gia súc",
+      "vẫn còn chưa được (câu nói khiêm tốn)"
+    ],
+    "correctAnswer": 3,
+    "difficulty": 1
+  },
+  {
+    "id": 77,
+    "question": "<b>ほんとうですか</b>",
+    "options": [
+      "giám đốc, chủ tịch",
+      "thật sao?",
+      "trượt tuyết",
+      "động vật"
+    ],
+    "correctAnswer": 1,
+    "difficulty": 1
+  },
+  {
+    "id": 78,
+    "question": "<b>mét</b>",
+    "options": [
+      "へえ",
+      "ぼくじょう",
+      "ビートルズ",
+      "メートル"
+    ],
+    "correctAnswer": 3,
+    "difficulty": 1
+  },
+  {
+    "id": 79,
+    "question": "<b>おいのり</b>",
+    "options": [
+      "hát",
+      "sự cầu chúc",
+      "thật á! (dùng khi biểu lộ sự ngạc nhiên)",
+      "động vật"
+    ],
+    "correctAnswer": 1,
+    "difficulty": 1
+  },
+  {
+    "id": 80,
+    "question": "<b>A：できますは　どこですか。<p>B：（　）です。</p></b>",
+    "options": [
+      "あそこ",
+      "ここ",
+      "そこ",
+      "どこ"
+    ],
+    "correctAnswer": 1,
+    "difficulty": 2
+  },
+  {
+    "id": 81,
+    "question": "<b>スキー</b>",
+    "options": [
+      "[cầu chúc]",
+      "giám đốc, chủ tịch",
+      "trượt tuyết",
+      "vứt đi, bỏ đi"
+    ],
+    "correctAnswer": 2,
+    "difficulty": 1
+  },
+  {
+    "id": 82,
+    "question": "<b>それはおもしろいね</b>",
+    "options": [
+      "chơi [đàn pianô]",
+      "trao đổi, đổi",
+      "vứt đi, bỏ đi",
+      "ôi hay quá nhỉ!"
+    ],
+    "correctAnswer": 3,
+    "difficulty": 1
+  },
+  {
+    "id": 83,
+    "question": "<b>chơi đàn piano</b>",
+    "options": [
+      "あつめます",
+      "あらいます",
+      "もっと「れんしゅうし」ないと…",
+      "ピアノをひきます"
+    ],
+    "correctAnswer": 3,
+    "difficulty": 1
+  },
+  {
+    "id": 84,
+    "question": "<b>ぼくじょう</b>",
+    "options": [
+      "chơi [đàn pianô]",
+      "quốc tế",
+      "trại nuôi gia súc",
+      "tập, luyện tập"
+    ],
+    "correctAnswer": 2,
+    "difficulty": 1
+  },
+  {
+    "id": 85,
+    "question": "<b>ban nhạc The Beatles</b>",
+    "options": [
+      "かちょう",
+      "すてます",
+      "ほんとうですか",
+      "ビートルズ"
+    ],
+    "correctAnswer": 3,
+    "difficulty": 1
+  },
+  {
+    "id": 86,
+    "question": "<b><ruby>故障<rp>（</rp><rt>こしょう</rt><rp>）</rp></ruby></b>",
+    "options": [
+      "こしょう",
+      "できます",
+      "ぶちょう",
+      "よやくします"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 2
+  },
+  {
+    "id": 87,
+    "question": "<b>mét</b>",
+    "options": [
+      "かえます",
+      "よやくします",
+      "ビートルズ",
+      "メートル"
+    ],
+    "correctAnswer": 3,
+    "difficulty": 1
+  },
+  {
+    "id": 88,
+    "question": "<b>giám đốc, chủ tịch</b>",
+    "options": [
+      "おいのり「～をします」",
+      "しゃちょう",
+      "だいじょうぶです",
+      "よやくします"
+    ],
+    "correctAnswer": 1,
+    "difficulty": 1
+  },
+  {
+    "id": 89,
+    "question": "<b>うんてんします</b>",
+    "options": [
+      "không hề gì. không sao đâu",
+      "lái (xe), điều khiển",
+      "sửa, chữa",
+      "trại nuôi gia súc"
+    ],
+    "correctAnswer": 1,
+    "difficulty": 1
+  },
+  {
+    "id": 90,
+    "question": "<b>しゅみ</b>",
+    "options": [
+      "không hề gì. không sao đâu",
+      "rửa, giặt",
+      "sở thích",
+      "trại nuôi gia súc"
+    ],
+    "correctAnswer": 2,
+    "difficulty": 1
+  },
+  {
+    "id": 91,
+    "question": "<b>おいのり「～をします」</b>",
+    "options": [
+      "[cầu chúc]",
+      "ban nhạc The Beatles",
+      "bắt đầu",
+      "động vật"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 1
+  },
+  {
+    "id": 92,
+    "question": "<b>おいのり「～をします」</b>",
+    "options": [
+      "[cầu chúc]",
+      "lái (xe), điều khiển",
+      "trưởng phòng",
+      "vẫn còn chưa được (câu nói khiêm tốn)"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 1
+  },
+  {
+    "id": 93,
+    "question": "<b><ruby>現<ruby>金<rp>（</rp><rt>きん</rt><rp>）</rp></ruby><rp>（</rp><rt>げんきん</rt><rp>）</rp></ruby>（　）<ruby>払<rp>（</rp><rt>はら</rt><rp>）</rp></ruby>ってください。</b>",
+    "options": [
+      "で",
+      "に"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 2
+  },
+  {
+    "id": 94,
+    "question": "<b><ruby>練習<rp>（</rp><rt>れんしゅう</rt><rp>）</rp></ruby>します</b>",
+    "options": [
+      "およぎます",
+      "こくさい",
+      "ほんとうですか",
+      "れんしゅうします"
+    ],
+    "correctAnswer": 3,
+    "difficulty": 2
+  },
+  {
+    "id": 95,
+    "question": "<b>おいのり「～をします」</b>",
+    "options": [
+      "[cầu chúc]",
+      "bơi",
+      "trưởng phòng",
+      "đặt chỗ, đặt trước"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 1
+  },
+  {
+    "id": 96,
+    "question": "<b>しゅみ</b>",
+    "options": [
+      "興味",
+      "興末",
+      "趣味",
+      "趣末"
+    ],
+    "correctAnswer": 2,
+    "difficulty": 1
+  },
+  {
+    "id": 97,
+    "question": "<b>スキー</b>",
+    "options": [
+      "sở thích",
+      "tiền mặt",
+      "trưởng phòng",
+      "trượt tuyết"
+    ],
+    "correctAnswer": 3,
+    "difficulty": 1
+  },
+  {
+    "id": 98,
+    "question": "<b>A：うたいますは　どこですか。<p>B：（　）です。</p></b>",
+    "options": [
+      "あそこ",
+      "ここ",
+      "そこ",
+      "どこ"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 2
+  },
+  {
+    "id": 99,
+    "question": "<b>わたし（１）<ruby>趣味<rp>（</rp><rt>しゅみ</rt><rp>）</rp></ruby>（２）<ruby>花<rp>（</rp><rt>はな</rt><rp>）</rp></ruby>（３）<ruby>写真<rp>（</rp><rt>しゃしん</rt><rp>）</rp></ruby>（４）<ruby>撮<rp>（</rp><rt>と</rt><rp>）</rp></ruby>ることです。</b><p><b>(4)</b></p>",
+    "options": [
+      "が",
+      "を"
+    ],
+    "correctAnswer": 1,
+    "difficulty": 3
+  },
+  {
+    "id": 100,
+    "question": "<b>おいのり</b>",
+    "options": [
+      "sự cầu chúc",
+      "trao đổi, đổi",
+      "vẫn còn chưa được (câu nói khiêm tốn)",
+      "ôi hay quá nhỉ!"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 1
+  },
+  {
+    "id": 101,
+    "question": "<b><ruby>趣味<rp>（</rp><rt>しゅみ</rt><rp>）</rp></ruby></b>",
+    "options": [
+      "かえます",
+      "しゅみ",
+      "ぶちょう",
+      "ビートルズ"
+    ],
+    "correctAnswer": 1,
+    "difficulty": 2
+  },
+  {
+    "id": 102,
+    "question": "<b>A：これは　なんですか。<p>B：（　）は　かちょうです。</p></b>",
+    "options": [
+      "あれ",
+      "これ",
+      "それ",
+      "どれ"
+    ],
+    "correctAnswer": 1,
+    "difficulty": 2
+  },
+  {
+    "id": 103,
+    "question": "<b>しゅみ</b>",
+    "options": [
+      "sở thích",
+      "sửa, chữa",
+      "sự cầu chúc",
+      "vẫn còn chưa được (câu nói khiêm tốn)"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 1
+  },
+  {
+    "id": 104,
+    "question": "<b>しゃちょう</b>",
+    "options": [
+      "chơi đàn piano",
+      "giám đốc, chủ tịch",
+      "thật sao?",
+      "ôi hay quá nhỉ!"
+    ],
+    "correctAnswer": 1,
+    "difficulty": 1
+  },
+  {
+    "id": 105,
+    "question": "<b>quốc tế</b>",
+    "options": [
+      "かえます",
+      "こくさい",
+      "だいじょうぶです",
+      "メートル"
+    ],
+    "correctAnswer": 1,
+    "difficulty": 1
+  },
+  {
+    "id": 106,
+    "question": "<b>すてます</b>",
+    "options": [
+      "chơi [đàn pianô]",
+      "sở thích",
+      "vứt đi, bỏ đi",
+      "đặt chỗ, đặt trước"
+    ],
+    "correctAnswer": 2,
+    "difficulty": 1
+  },
+  {
+    "id": 107,
+    "question": "<b>どうぶつ</b>",
+    "options": [
+      "bắt đầu",
+      "sự cầu chúc",
+      "trượt tuyết",
+      "động vật"
+    ],
+    "correctAnswer": 3,
+    "difficulty": 1
+  },
+  {
+    "id": 108,
+    "question": "<b>[cầu chúc]</b>",
+    "options": [
+      "あらいます",
+      "おいのり「～をします」",
+      "こくさい",
+      "よやくします"
+    ],
+    "correctAnswer": 1,
+    "difficulty": 1
+  },
+  {
+    "id": 109,
+    "question": "<b>ぶちょう</b>",
+    "options": [
+      "[cầu chúc]",
+      "ban nhạc The Beatles",
+      "hát",
+      "trưởng phòng"
+    ],
+    "correctAnswer": 3,
+    "difficulty": 1
+  },
+  {
+    "id": 110,
+    "question": "<b>vẫn còn chưa được (câu nói khiêm tốn)</b>",
+    "options": [
+      "こしょう",
+      "しゃちょう",
+      "なおします",
+      "まだまだだめです"
+    ],
+    "correctAnswer": 3,
+    "difficulty": 1
+  },
+  {
+    "id": 111,
+    "question": "<b><ruby>換<rp>（</rp><rt>か</rt><rp>）</rp></ruby>えます</b>",
+    "options": [
+      "かえます",
+      "こくさい",
+      "ぼくじょう",
+      "ピアノをひきます"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 2
+  },
+  {
+    "id": 112,
+    "question": "<b>sửa, chữa</b>",
+    "options": [
+      "なおします",
+      "まだまだだめです",
+      "ビートルズ",
+      "メートル"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 1
+  },
+  {
+    "id": 113,
+    "question": "<b>おいのり</b>",
+    "options": [
+      "ban nhạc The Beatles",
+      "sự cầu chúc",
+      "vẫn còn chưa được (câu nói khiêm tốn)",
+      "vứt đi, bỏ đi"
+    ],
+    "correctAnswer": 1,
+    "difficulty": 1
+  },
+  {
+    "id": 114,
+    "question": "<b>không hề gì. không sao đâu</b>",
+    "options": [
+      "かちょう",
+      "だいじょうぶです",
+      "にっき",
+      "ぼくじょう"
+    ],
+    "correctAnswer": 1,
+    "difficulty": 1
+  },
+  {
+    "id": 115,
+    "question": "<b>giám đốc, chủ tịch</b>",
+    "options": [
+      "しゃちょう",
+      "しゅみ",
+      "すてます",
+      "ビートルズ"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 1
+  },
+  {
+    "id": 116,
+    "question": "<b>まだまだだめです</b>",
+    "options": [
+      "trao đổi, đổi",
+      "trưởng bộ phận, trưởng ban",
+      "tập trung, tập hợp",
+      "vẫn còn chưa được (câu nói khiêm tốn)"
+    ],
+    "correctAnswer": 3,
+    "difficulty": 1
+  },
+  {
+    "id": 117,
+    "question": "<b>しゅみ</b>",
+    "options": [
+      "bơi",
+      "bắt đầu",
+      "sở thích",
+      "tiền mặt"
+    ],
+    "correctAnswer": 2,
+    "difficulty": 1
+  },
+  {
+    "id": 118,
+    "question": "<b>うんてんします</b>",
+    "options": [
+      "chơi [đàn pianô]",
+      "chơi đàn piano",
+      "không hề gì. không sao đâu",
+      "lái (xe), điều khiển"
+    ],
+    "correctAnswer": 3,
+    "difficulty": 1
+  },
+  {
+    "id": 119,
+    "question": "<b>よやくします</b>",
+    "options": [
+      "chơi [đàn pianô]",
+      "mét",
+      "sửa, chữa",
+      "đặt chỗ, đặt trước"
+    ],
+    "correctAnswer": 3,
+    "difficulty": 1
+  },
+  {
+    "id": 120,
+    "question": "<b>かえます</b>",
+    "options": [
+      "[cầu chúc]",
+      "hát",
+      "trao đổi, đổi",
+      "tập trung, tập hợp"
+    ],
+    "correctAnswer": 2,
+    "difficulty": 1
+  },
+  {
+    "id": 121,
+    "question": "<b>なおします</b>",
+    "options": [
+      "chơi đàn piano",
+      "giám đốc, chủ tịch",
+      "sở thích",
+      "sửa, chữa"
+    ],
+    "correctAnswer": 3,
+    "difficulty": 1
+  },
+  {
+    "id": 122,
+    "question": "<b>ban nhạc The Beatles</b>",
+    "options": [
+      "およぎます",
+      "にっき",
+      "ビートルズ",
+      "ピアノをひきます"
+    ],
+    "correctAnswer": 2,
+    "difficulty": 1
+  },
+  {
+    "id": 123,
+    "question": "<b>それはおもしろいね</b>",
+    "options": [
+      "quốc tế",
+      "rửa, giặt",
+      "trưởng phòng",
+      "ôi hay quá nhỉ!"
+    ],
+    "correctAnswer": 3,
+    "difficulty": 1
+  },
+  {
+    "id": 124,
+    "question": "<b>Giám đốc</b>",
+    "options": [
+      "かちょう",
+      "しゃちょう",
+      "ぶちょう",
+      "ぷちょう"
+    ],
+    "correctAnswer": 1,
+    "difficulty": 1
+  },
+  {
+    "id": 125,
+    "question": "<b>trưởng bộ phận, trưởng ban</b>",
+    "options": [
+      "うんてんします",
+      "おいのり",
+      "かちょう",
+      "ぶちょう"
+    ],
+    "correctAnswer": 2,
+    "difficulty": 1
+  },
+  {
+    "id": 126,
+    "question": "<b>động vật</b>",
+    "options": [
+      "どうぶつ",
+      "にっき",
+      "まだまだだめです",
+      "ピアノをひきます"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 1
+  },
+  {
+    "id": 127,
+    "question": "<b>trượt tuyết</b>",
+    "options": [
+      "うんてんします",
+      "それはおもしろいね",
+      "だいじょうぶです",
+      "スキー"
+    ],
+    "correctAnswer": 3,
+    "difficulty": 1
+  },
+  {
+    "id": 128,
+    "question": "<b>lái (xe), điều khiển</b>",
+    "options": [
+      "うんてんします",
+      "かえます",
+      "だいじょうぶです",
+      "もっと「れんしゅうし」ないと…"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 1
+  },
+  {
+    "id": 129,
+    "question": "<b>こしょう</b>",
+    "options": [
+      "hỏng hóc, trục trặc",
+      "rửa, giặt",
+      "tập trung, tập hợp",
+      "vẫn còn chưa được (câu nói khiêm tốn)"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 1
+  }
+]

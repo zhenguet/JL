@@ -1,3 +1,5 @@
+import './ProgressBar.css'
+
 interface ProgressBarProps {
   current: number
   total: number

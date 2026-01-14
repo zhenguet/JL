@@ -1,0 +1,113 @@
+/* Reading Passage Component Styles */
+
+.reading-passage-container {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+}
+
+.passage-section {
+  background: linear-gradient(135deg, var(--color-bg-primary-light) 0%, var(--color-bg-primary-lighter) 100%);
+  border: 2px solid var(--color-primary);
+  border-radius: 12px;
+  padding: 20px;
+}
+
+.passage-title {
+  font-size: 1.1rem;
+  font-weight: 700;
+  color: var(--color-primary);
+  margin-bottom: 16px;
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.passage-content {
+  background: var(--color-bg-white);
+  padding: 16px;
+  border-radius: 8px;
+  line-height: 1.8;
+  font-size: 1.05rem;
+  color: var(--color-text-dark);
+}
+
+.passage-content p {
+  margin-bottom: 12px;
+}
+
+.passage-content p:last-child {
+  margin-bottom: 0;
+}
+
+.questions-section {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+
+.questions-title {
+  font-size: 1.1rem;
+  font-weight: 700;
+  color: var(--color-primary);
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.reading-question {
+  background: var(--color-bg-white);
+  border: 2px solid var(--color-border-light);
+  border-radius: 12px;
+  padding: 20px;
+  transition: all 0.3s ease;
+}
+
+.reading-question:hover {
+  border-color: var(--color-primary);
+  box-shadow: 0 4px 12px var(--shadow-primary-lighter);
+}
+
+.question-number {
+  display: inline-block;
+  background: var(--gradient-primary);
+  color: white;
+  padding: 6px 14px;
+  border-radius: 20px;
+  font-size: 0.9rem;
+  font-weight: 600;
+  margin-bottom: 12px;
+}
+
+.reading-actions {
+  display: flex;
+  justify-content: center;
+  padding-top: 12px;
+}
+
+.reading-actions .btn {
+  min-width: 200px;
+  font-size: 1.1rem;
+  padding: 14px 28px;
+}
+
+/* Responsive */
+@media (max-width: 768px) {
+  .passage-section {
+    padding: 16px;
+  }
+
+  .passage-content {
+    padding: 12px;
+    font-size: 1rem;
+  }
+
+  .reading-question {
+    padding: 16px;
+  }
+
+  .reading-actions .btn {
+    min-width: 100%;
+  }
+}

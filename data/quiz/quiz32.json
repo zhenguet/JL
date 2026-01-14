@@ -1,0 +1,602 @@
+[
+  {
+    "id": 1,
+    "question": "<b>くもります</b>",
+    "options": [
+      "Bệnh cảm",
+      "Dạ dày",
+      "Làm việc quá nhiều",
+      "Trời nhiều mây"
+    ],
+    "correctAnswer": 3,
+    "difficulty": 1
+  },
+  {
+    "id": 2,
+    "question": "<b>ひやします</b>",
+    "options": [
+      "Bệnh cúm gia cầm",
+      "Chúc (bạn) chóng khỏi bệnh",
+      "Làm lạnh",
+      "Tình yêu"
+    ],
+    "correctAnswer": 2,
+    "difficulty": 1
+  },
+  {
+    "id": 3,
+    "question": "<b>けがをします</b>",
+    "options": [
+      "Bị thương",
+      "Làm việc quá nhiều",
+      "Vết thương",
+      "Trời nắng, quang đãng"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 1
+  },
+  {
+    "id": 4,
+    "question": "<b>Ra</b>",
+    "options": [
+      "おかねもち",
+      "かぜ",
+      "でます",
+      "れんあい"
+    ],
+    "correctAnswer": 2,
+    "difficulty": 1
+  },
+  {
+    "id": 5,
+    "question": "<b>つづきます</b>",
+    "options": [
+      "Olympic",
+      "Stress",
+      "Tiếp tục",
+      "Động cơ"
+    ],
+    "correctAnswer": 2,
+    "difficulty": 1
+  },
+  {
+    "id": 6,
+    "question": "<b>Sốt</b>",
+    "options": [
+      "こまります",
+      "ねつ",
+      "はたらきすぎ",
+      "やみます"
+    ],
+    "correctAnswer": 1,
+    "difficulty": 1
+  },
+  {
+    "id": 7,
+    "question": "<b>たいよう</b>",
+    "options": [
+      "Dừng, nghỉ",
+      "Mặt trời",
+      "Vào",
+      "Đội"
+    ],
+    "correctAnswer": 1,
+    "difficulty": 1
+  },
+  {
+    "id": 8,
+    "question": "<b>うんどう</b>",
+    "options": [
+      "Nước máy",
+      "Thành công",
+      "Tập thể dục",
+      "Đỗ"
+    ],
+    "correctAnswer": 2,
+    "difficulty": 1
+  },
+  {
+    "id": 9,
+    "question": "<b>やみます</b>",
+    "options": [
+      "Bỏng",
+      "Dừng, nghỉ",
+      "Tập thể dục",
+      "Đội"
+    ],
+    "correctAnswer": 1,
+    "difficulty": 1
+  },
+  {
+    "id": 10,
+    "question": "<b>Trở lại</b>",
+    "options": [
+      "それはいけませんね",
+      "つけます",
+      "つづきます",
+      "もどります"
+    ],
+    "correctAnswer": 3,
+    "difficulty": 1
+  },
+  {
+    "id": 11,
+    "question": "<b>つづきます</b>",
+    "options": [
+      "Leo núi",
+      "Ngừng lại",
+      "Tiến lên",
+      "Tiếp tục"
+    ],
+    "correctAnswer": 3,
+    "difficulty": 1
+  },
+  {
+    "id": 12,
+    "question": "<b>Tăng, lên cao</b>",
+    "options": [
+      "あがります",
+      "おかねもち",
+      "おだいじに",
+      "モーター"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 1
+  },
+  {
+    "id": 13,
+    "question": "<b>よこになってください</b>",
+    "options": [
+      "Hãy nằm xuống",
+      "Họng",
+      "Ra",
+      "Sao"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 1
+  },
+  {
+    "id": 14,
+    "question": "<b>せいこう</b>",
+    "options": [
+      "Khổ, khó khăn",
+      "Mặt trời",
+      "Thành công",
+      "Trúng"
+    ],
+    "correctAnswer": 2,
+    "difficulty": 1
+  },
+  {
+    "id": 15,
+    "question": "<b>アレルギー</b>",
+    "options": [
+      "Cân, đo (nhiệt độ, kích thước)",
+      "Dị ứng",
+      "Làm lạnh",
+      "Sao"
+    ],
+    "correctAnswer": 1,
+    "difficulty": 1
+  },
+  {
+    "id": 16,
+    "question": "<b>あたります</b>",
+    "options": [
+      "Sao",
+      "Trúng",
+      "Tình yêu",
+      "Đỗ"
+    ],
+    "correctAnswer": 1,
+    "difficulty": 1
+  },
+  {
+    "id": 17,
+    "question": "<b>はたらきすぎ</b>",
+    "options": [
+      "Làm việc quá nhiều",
+      "Thổi",
+      "Vào",
+      "Đỗ"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 1
+  },
+  {
+    "id": 18,
+    "question": "<b>Trời nắng, quang đãng</b>",
+    "options": [
+      "あがります",
+      "あたります",
+      "はたらきすぎ",
+      "はれます"
+    ],
+    "correctAnswer": 3,
+    "difficulty": 1
+  },
+  {
+    "id": 19,
+    "question": "<b>Tập thể dục</b>",
+    "options": [
+      "うんどう",
+      "さがります",
+      "はいります",
+      "オリンピック"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 1
+  },
+  {
+    "id": 20,
+    "question": "<b>むりをします</b>",
+    "options": [
+      "Họng",
+      "Làm quá sức",
+      "Làm việc quá nhiều",
+      "Mô tơ"
+    ],
+    "correctAnswer": 1,
+    "difficulty": 1
+  },
+  {
+    "id": 21,
+    "question": "<b>こまります</b>",
+    "options": [
+      "Bệnh cúm gia cầm",
+      "Họng",
+      "Khổ, khó khăn",
+      "Olympic"
+    ],
+    "correctAnswer": 2,
+    "difficulty": 1
+  },
+  {
+    "id": 22,
+    "question": "<b>れんあい</b>",
+    "options": [
+      "Bỏng",
+      "Thất bại",
+      "Tình yêu",
+      "Đội"
+    ],
+    "correctAnswer": 2,
+    "difficulty": 1
+  },
+  {
+    "id": 23,
+    "question": "<b>あたります</b>",
+    "options": [
+      "Chúc (bạn) chóng khỏi bệnh",
+      "Ho",
+      "Trúng",
+      "Tăng, lên cao"
+    ],
+    "correctAnswer": 2,
+    "difficulty": 1
+  },
+  {
+    "id": 24,
+    "question": "<b>ストレス</b>",
+    "options": [
+      "Làm",
+      "Sao",
+      "Stress",
+      "Trúng"
+    ],
+    "correctAnswer": 2,
+    "difficulty": 1
+  },
+  {
+    "id": 25,
+    "question": "<b>Dị ứng</b>",
+    "options": [
+      "のど",
+      "はたらきすぎ",
+      "アレルギー",
+      "モーター"
+    ],
+    "correctAnswer": 2,
+    "difficulty": 1
+  },
+  {
+    "id": 26,
+    "question": "<b>Làm quá sức</b>",
+    "options": [
+      "たいよう",
+      "むりをします",
+      "もどります",
+      "オリンピック"
+    ],
+    "correctAnswer": 1,
+    "difficulty": 1
+  },
+  {
+    "id": 27,
+    "question": "<b>Tối nay</b>",
+    "options": [
+      "おかねもち",
+      "けが",
+      "こんや",
+      "せき"
+    ],
+    "correctAnswer": 2,
+    "difficulty": 1
+  },
+  {
+    "id": 28,
+    "question": "<b>もどります</b>",
+    "options": [
+      "Bỏng",
+      "Dừng, nghỉ",
+      "Trở lại",
+      "Vào"
+    ],
+    "correctAnswer": 2,
+    "difficulty": 1
+  },
+  {
+    "id": 29,
+    "question": "<b>ふきます</b>",
+    "options": [
+      "Giảm, xuống",
+      "Làm",
+      "Thất bại",
+      "Thổi"
+    ],
+    "correctAnswer": 3,
+    "difficulty": 1
+  },
+  {
+    "id": 30,
+    "question": "<b>A：これは　なんですか。<p>B：（　）は　のどです。</p></b>",
+    "options": [
+      "あれ",
+      "これ",
+      "それ",
+      "どれ"
+    ],
+    "correctAnswer": 1,
+    "difficulty": 2
+  },
+  {
+    "id": 31,
+    "question": "<b>Hãy nằm xuống</b>",
+    "options": [
+      "しっぱい",
+      "それはいけませんね",
+      "よこになってください",
+      "インフルエンザ"
+    ],
+    "correctAnswer": 2,
+    "difficulty": 1
+  },
+  {
+    "id": 32,
+    "question": "<b>すいどう</b>",
+    "options": [
+      "Dạ dày",
+      "Nước máy",
+      "Thổi",
+      "Đỗ"
+    ],
+    "correctAnswer": 1,
+    "difficulty": 1
+  },
+  {
+    "id": 33,
+    "question": "<b>Mặt trời</b>",
+    "options": [
+      "こんや",
+      "たいよう",
+      "ふきます",
+      "チーム"
+    ],
+    "correctAnswer": 1,
+    "difficulty": 1
+  },
+  {
+    "id": 34,
+    "question": "<b>ストレス</b>",
+    "options": [
+      "Bệnh cảm",
+      "Nghỉ ngơi cho thoải mái",
+      "Stress",
+      "Thêm"
+    ],
+    "correctAnswer": 2,
+    "difficulty": 1
+  },
+  {
+    "id": 35,
+    "question": "<b>A：胃は　どこですか。<p>B：（　）です。</p></b>",
+    "options": [
+      "あそこ",
+      "ここ",
+      "そこ",
+      "どこ"
+    ],
+    "correctAnswer": 1,
+    "difficulty": 2
+  },
+  {
+    "id": 36,
+    "question": "<b>Mô tơ</b>",
+    "options": [
+      "はたらきすぎ",
+      "はれます",
+      "やみます",
+      "モーター"
+    ],
+    "correctAnswer": 3,
+    "difficulty": 1
+  },
+  {
+    "id": 37,
+    "question": "<b><ruby>出<rp>（</rp><rt>だ</rt><rp>）</rp></ruby>ます</b>",
+    "options": [
+      "でます",
+      "もどります",
+      "よこになってください",
+      "エンジン"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 2
+  },
+  {
+    "id": 38,
+    "question": "<b>けんこう</b>",
+    "options": [
+      "Dạ dày",
+      "Khổ, khó khăn",
+      "Sức khỏe",
+      "Trời nhiều mây"
+    ],
+    "correctAnswer": 2,
+    "difficulty": 1
+  },
+  {
+    "id": 39,
+    "question": "<b>あたります</b>",
+    "options": [
+      "Cân, đo (nhiệt độ, kích thước)",
+      "Thất bại",
+      "Trúng",
+      "Trời nắng, quang đãng"
+    ],
+    "correctAnswer": 2,
+    "difficulty": 1
+  },
+  {
+    "id": 40,
+    "question": "<b>A：せきは　どこですか。<p>B：（　）です。</p></b>",
+    "options": [
+      "あそこ",
+      "ここ",
+      "そこ",
+      "どこ"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 2
+  },
+  {
+    "id": 41,
+    "question": "<b>けんこう</b>",
+    "options": [
+      "Nghỉ ngơi cho thoải mái",
+      "Olympic",
+      "Sức khỏe",
+      "Đội"
+    ],
+    "correctAnswer": 2,
+    "difficulty": 1
+  },
+  {
+    "id": 42,
+    "question": "<b>Thế thì không ổn rồi</b>",
+    "options": [
+      "くもります",
+      "それはいけませんね",
+      "ねつ",
+      "ゆっくりします"
+    ],
+    "correctAnswer": 1,
+    "difficulty": 1
+  },
+  {
+    "id": 43,
+    "question": "<b>ストレス</b>",
+    "options": [
+      "Giảm, xuống",
+      "Khổ, khó khăn",
+      "Olympic",
+      "Stress"
+    ],
+    "correctAnswer": 3,
+    "difficulty": 1
+  },
+  {
+    "id": 44,
+    "question": "<b>オリンピック</b>",
+    "options": [
+      "Ho",
+      "Olympic",
+      "Sao",
+      "Sức khỏe"
+    ],
+    "correctAnswer": 1,
+    "difficulty": 1
+  },
+  {
+    "id": 45,
+    "question": "<b>Bệnh cảm</b>",
+    "options": [
+      "かぜ",
+      "それはいけませんね",
+      "れんあい",
+      "チーム"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 1
+  },
+  {
+    "id": 46,
+    "question": "<b>それはいけませんね</b>",
+    "options": [
+      "Dạ dày",
+      "Nghỉ ngơi cho thoải mái",
+      "Thế thì không ổn rồi",
+      "Tăng, lên cao"
+    ],
+    "correctAnswer": 2,
+    "difficulty": 1
+  },
+  {
+    "id": 47,
+    "question": "<b>うんどう</b>",
+    "options": [
+      "Làm",
+      "Olympic",
+      "Thất bại",
+      "Tập thể dục"
+    ],
+    "correctAnswer": 3,
+    "difficulty": 1
+  },
+  {
+    "id": 48,
+    "question": "<b>Khỏi</b>",
+    "options": [
+      "しっぱい",
+      "せき",
+      "なおります",
+      "ストレス"
+    ],
+    "correctAnswer": 2,
+    "difficulty": 1
+  },
+  {
+    "id": 49,
+    "question": "<b>うんどう</b>",
+    "options": [
+      "Bỏng",
+      "Dị ứng",
+      "Tập thể dục",
+      "Đội"
+    ],
+    "correctAnswer": 2,
+    "difficulty": 1
+  },
+  {
+    "id": 50,
+    "question": "<b>けが</b>",
+    "options": [
+      "Mặt trời",
+      "Ra",
+      "Thế thì không ổn rồi",
+      "Vết thương"
+    ],
+    "correctAnswer": 3,
+    "difficulty": 1
+  }
+]
