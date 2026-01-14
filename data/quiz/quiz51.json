@@ -166,5 +166,317 @@
     ],
     "correctAnswer": 2,
     "difficulty": 1
+  },
+  {
+    "id": 15,
+    "question": "<b><ruby>正座<rp>（</rp><rt>せいざ</rt><rp>）</rp></ruby></b>",
+    "options": [
+      "Ngồi trên ghế",
+      "Kiểu ngồi chính thống của người Nhật",
+      "Ngồi xổm",
+      "Ngồi bệt"
+    ],
+    "correctAnswer": 1,
+    "difficulty": 1
+  },
+  {
+    "id": 16,
+    "question": "<b><ruby>作家<rp>（</rp><rt>さっか</rt><rp>）</rp></ruby></b>",
+    "options": [
+      "Nhà văn, tác giả",
+      "Họa sĩ",
+      "Nhạc sĩ",
+      "Diễn viên"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 1
+  },
+  {
+    "id": 17,
+    "question": "<b>留守中</b>",
+    "options": [
+      "Khi có nhà",
+      "Trong khi vắng nhà",
+      "Khi ngủ",
+      "Khi làm việc"
+    ],
+    "correctAnswer": 1,
+    "difficulty": 1
+  },
+  {
+    "id": 18,
+    "question": "<b><ruby>欠点<rp>（</rp><rt>けってん</rt><rp>）</rp></ruby></b>",
+    "options": [
+      "Ưu điểm",
+      "Khiếm khuyết, khuyết điểm",
+      "Điểm số",
+      "Điểm đến"
+    ],
+    "correctAnswer": 1,
+    "difficulty": 1
+  },
+  {
+    "id": 19,
+    "question": "<b><ruby>断<rp>（</rp><rt>ことわ</rt><rp>）</rp></ruby>る</b>",
+    "options": [
+      "Chấp nhận",
+      "Từ chối",
+      "Mời",
+      "Đồng ý"
+    ],
+    "correctAnswer": 1,
+    "difficulty": 1
+  },
+  {
+    "id": 20,
+    "question": "<b><ruby>引き受<rp>（</rp><rt>ひきう</rt><rp>）</rp></ruby>ける</b>",
+    "options": [
+      "Từ chối",
+      "Nhận",
+      "Trả lại",
+      "Cho mượn"
+    ],
+    "correctAnswer": 1,
+    "difficulty": 1
+  },
+  {
+    "id": 21,
+    "question": "<p>「ちょっとペンを貸してもらえませんか。」</p><p>Câu này có nghĩa là gì?</p>",
+    "options": [
+      "Bạn có thể cho tôi mượn cây bút một chút được không?",
+      "Bạn có bút không?",
+      "Bút của bạn ở đâu?",
+      "Bạn đã trả bút chưa?"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 2
+  },
+  {
+    "id": 22,
+    "question": "<p>「あの病院はホテルのようだ。」</p><p>Câu này sử dụng mẫu ngữ pháp nào?</p>",
+    "options": [
+      "～てもらえませんか",
+      "～のようだ",
+      "～こと",
+      "～という"
+    ],
+    "correctAnswer": 1,
+    "difficulty": 2
+  },
+  {
+    "id": 23,
+    "question": "<p>「朝早く起きることは健康にいい。」</p><p>Trong câu này, 「こと」có chức năng gì?</p>",
+    "options": [
+      "Chuyển động từ thành danh từ",
+      "Chỉ thời gian",
+      "Chỉ địa điểm",
+      "Chỉ cách thức"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 2
+  },
+  {
+    "id": 24,
+    "question": "<p>「1月1日を元日と言います。」</p><p>Mẫu câu này dùng để làm gì?</p>",
+    "options": [
+      "Hỏi cách gọi tên",
+      "Nói cách gọi tên của một vật hoặc sự kiện",
+      "Từ chối",
+      "Xin phép"
+    ],
+    "correctAnswer": 1,
+    "difficulty": 2
+  },
+  {
+    "id": 25,
+    "question": "<p>「夏目漱石という小説家を知っていますか。」</p><p>「という」trong câu này có nghĩa là gì?</p>",
+    "options": [
+      "Nói rằng",
+      "Dẫn ra tên của một sự vật hoặc nhân vật",
+      "Hỏi",
+      "Từ chối"
+    ],
+    "correctAnswer": 1,
+    "difficulty": 2
+  },
+  {
+    "id": 26,
+    "question": "<p>「世界中どこにいても家族のことを忘れません。」</p><p>Câu này có nghĩa là gì?</p>",
+    "options": [
+      "Dù ở đâu trên thế giới đi nữa thì tôi cũng không quên gia đình mình",
+      "Tôi sẽ quên gia đình khi đi du lịch",
+      "Gia đình tôi sống trên thế giới",
+      "Tôi không biết gia đình ở đâu"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 2
+  },
+  {
+    "id": 27,
+    "question": "<p>「これはペンじゃなくて、チョコレートです。」</p><p>Mẫu câu 「じゃなくて」dùng để làm gì?</p>",
+    "options": [
+      "Phủ định N1 và đưa ra N2 thay thế",
+      "Đồng ý",
+      "Hỏi",
+      "Cảm ơn"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 2
+  },
+  {
+    "id": 28,
+    "question": "<p>「3時の飛行機に乗らなければなりません。それで、わたしは急いでいるのです。」</p><p>「のです」trong câu này biểu thị điều gì?</p>",
+    "options": [
+      "Phán đoán dựa trên kết quả phát sinh từ một lý do",
+      "Từ chối",
+      "Hỏi",
+      "Mời"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 2
+  },
+  {
+    "id": 29,
+    "question": "<p>「コピー機の使い方を教えていただけませんか。」</p><p>Câu này sử dụng cách nói nhờ vả nào?</p>",
+    "options": [
+      "～てもらえませんか",
+      "～ていただけませんか",
+      "～てください",
+      "～てもいい"
+    ],
+    "correctAnswer": 1,
+    "difficulty": 2
+  },
+  {
+    "id": 30,
+    "question": "<p>「正月に神社やお寺に行くことを初詣と言う。」</p><p>Trong câu này, 「初詣」là gì?</p>",
+    "options": [
+      "Tên của một món ăn",
+      "Tên gọi của việc đi lễ ở đền thờ hoặc chùa vào dịp năm mới",
+      "Tên của một lễ hội",
+      "Tên của một thành phố"
+    ],
+    "correctAnswer": 1,
+    "difficulty": 2
+  },
+  {
+    "id": 31,
+    "question": "<p>「畳の部屋を和室と言います。」</p><p>「和室」là gì?</p>",
+    "options": [
+      "Phòng kiểu Nhật",
+      "Phòng kiểu Tây",
+      "Phòng bếp",
+      "Phòng ngủ"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 1
+  },
+  {
+    "id": 32,
+    "question": "<p>「どんなに高くても買いたいです。」</p><p>Câu này có nghĩa là gì?</p>",
+    "options": [
+      "Dù có đắt thế nào đi nữa tôi cũng muốn mua",
+      "Tôi không muốn mua vì đắt",
+      "Tôi sẽ mua khi rẻ hơn",
+      "Tôi không biết giá"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 2
+  },
+  {
+    "id": 33,
+    "question": "<b><ruby>［お］住<rp>（</rp><rt>す</rt><rp>）</rp></ruby>まい</b>",
+    "options": [
+      "Nơi ở (kính ngữ)",
+      "Nhà vệ sinh",
+      "Phòng khách",
+      "Cửa hàng"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 2
+  },
+  {
+    "id": 34,
+    "question": "<p>「申し訳ございませんが、子供を預かっていただけないでしょうか。」</p><p>Câu này sử dụng cách nói nào?</p>",
+    "options": [
+      "Cách nói tạo ấn tượng mềm mại, lịch sự hơn ～ていただけませんか",
+      "Cách nói thông thường",
+      "Cách nói suồng sã",
+      "Cách nói từ chối"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 2
+  },
+  {
+    "id": 35,
+    "question": "<b><ruby>目上<rp>（</rp><rt>めうえ</rt><rp>）</rp></ruby></b>",
+    "options": [
+      "Người dưới",
+      "Người trên, người ở vai trên",
+      "Bạn bè",
+      "Người lạ"
+    ],
+    "correctAnswer": 1,
+    "difficulty": 1
+  },
+  {
+    "id": 36,
+    "question": "<p>「田中さんは踊ることが好きです。」</p><p>Trong câu này, 「こと」có chức năng gì?</p>",
+    "options": [
+      "Chuyển động từ thành danh từ",
+      "Chỉ thời gian",
+      "Chỉ địa điểm",
+      "Chỉ cách thức"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 2
+  },
+  {
+    "id": 37,
+    "question": "<b><ruby>表現<rp>（</rp><rt>ひょうげん</rt><rp>）</rp></ruby></b>",
+    "options": [
+      "Biểu hiện, cách diễn đạt",
+      "Bài tập",
+      "Bài kiểm tra",
+      "Bài học"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 1
+  },
+  {
+    "id": 38,
+    "question": "<b><ruby>聞<rp>（</rp><rt>き</rt><rp>）</rp></ruby>き取る</b>",
+    "options": [
+      "Nghe hiểu",
+      "Nghe nhạc",
+      "Nghe điện thoại",
+      "Nghe radio"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 1
+  },
+  {
+    "id": 39,
+    "question": "<p>「優勝することを目指しています。」</p><p>Câu này có nghĩa là gì?</p>",
+    "options": [
+      "Tôi đang hướng đến chiến thắng",
+      "Tôi đã thắng",
+      "Tôi sẽ thua",
+      "Tôi không muốn thắng"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 2
+  },
+  {
+    "id": 40,
+    "question": "<b><ruby>伝統的<rp>（</rp><rt>でんとうてき</rt><rp>）</rp></ruby>［な］</b>",
+    "options": [
+      "Hiện đại",
+      "Mang tính truyền thống",
+      "Tương lai",
+      "Quá khứ"
+    ],
+    "correctAnswer": 1,
+    "difficulty": 1
   }
 ]
