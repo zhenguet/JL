@@ -73,7 +73,7 @@
   },
   {
     "id": 7,
-    "question": "<b>みずうみ</b>",
+    "question": "<b><ruby>湖<rp>（</rp><rt>みずうみ</rt><rp>）</rp></ruby></b>",
     "options": [
       "Sông",
       "Biển",
@@ -97,7 +97,7 @@
   },
   {
     "id": 9,
-    "question": "<b>いのち</b>",
+    "question": "<b><ruby>命<rp>（</rp><rt>いのち</rt><rp>）</rp></ruby></b>",
     "options": [
       "Cuộc sống sinh hoạt",
       "Tuổi tác",
@@ -121,7 +121,7 @@
   },
   {
     "id": 11,
-    "question": "<b>はつもうで</b>",
+    "question": "<b><ruby>初詣で<rp>（</rp><rt>はつもうで</rt><rp>）</rp></ruby></b>",
     "options": [
       "Lần đầu đi làm",
       "Tục lệ thăm đền/chùa đầu năm",
@@ -133,7 +133,7 @@
   },
   {
     "id": 12,
-    "question": "<b>たたみ</b>",
+    "question": "<b><ruby>畳<rp>（</rp><rt>たたみ</rt><rp>）</rp></ruby></b>",
     "options": [
       "Chiếu Tatami",
       "Đệm ngồi",
@@ -145,7 +145,7 @@
   },
   {
     "id": 13,
-    "question": "<b>ざぶとん</b>",
+    "question": "<b><ruby>座布団<rp>（</rp><rt>ざぶとん</rt><rp>）</rp></ruby></b>",
     "options": [
       "Chiếu Tatami",
       "Miếng lót ngồi hình vuông",
@@ -157,7 +157,7 @@
   },
   {
     "id": 14,
-    "question": "<b>ゆか</b>",
+    "question": "<b><ruby>床<rp>（</rp><rt>ゆか</rt><rp>）</rp></ruby></b>",
     "options": [
       "Trần nhà",
       "Cửa sổ",
@@ -193,7 +193,7 @@
   },
   {
     "id": 17,
-    "question": "<b>留守中</b>",
+    "question": "<b><ruby>留守<rp>（</rp><rt>るす</rt><rp>）</rp></ruby><ruby>中<rp>（</rp><rt>ちゅう</rt><rp>）</rp></ruby></b>",
     "options": [
       "Khi có nhà",
       "Trong khi vắng nhà",
