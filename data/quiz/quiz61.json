@@ -1,1 +1,482 @@
-﻿[]
+[
+  {
+    "id": 1,
+    "question": "<b><ruby>企業<rp>（</rp><rt>きぎょう</rt><rp>）</rp></ruby></b> có nghĩa là gì?",
+    "options": [
+      "cá nhân",
+      "doanh nghiệp, công ty",
+      "tổ chức phi lợi nhuận",
+      "cửa hàng nhỏ"
+    ],
+    "correctAnswer": 1,
+    "difficulty": 1
+  },
+  {
+    "id": 2,
+    "question": "<b><ruby>方言<rp>（</rp><rt>ほうげん</rt><rp>）</rp></ruby></b> là gì?",
+    "options": [
+      "tiếng chuẩn",
+      "tiếng nước ngoài",
+      "tiếng địa phương, phương ngữ",
+      "ngôn ngữ viết"
+    ],
+    "correctAnswer": 2,
+    "difficulty": 1
+  },
+  {
+    "id": 3,
+    "question": "<b><ruby>普及<rp>（</rp><rt>ふきゅう</rt><rp>）</rp></ruby>する</b> dùng trong trường hợp nào?",
+    "options": [
+      "khi công nghệ được phổ cập, lan rộng",
+      "khi sản phẩm bị hủy bỏ",
+      "khi giá tăng cao",
+      "khi doanh nghiệp phá sản"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 1
+  },
+  {
+    "id": 4,
+    "question": "<b><ruby>大家族<rp>（</rp><rt>だいかぞく</rt><rp>）</rp></ruby></b> là:",
+    "options": [
+      "gia đình nhỏ",
+      "gia đình đông thành viên",
+      "gia đình đơn thân",
+      "gia đình hạt nhân"
+    ],
+    "correctAnswer": 1,
+    "difficulty": 1
+  },
+  {
+    "id": 5,
+    "question": "<b><ruby>個人<rp>（</rp><rt>こじん</rt><rp>）</rp></ruby></b> có nghĩa là gì?",
+    "options": [
+      "tập thể",
+      "cá nhân",
+      "gia đình",
+      "doanh nghiệp"
+    ],
+    "correctAnswer": 1,
+    "difficulty": 1
+  },
+  {
+    "id": 6,
+    "question": "<b><ruby>入学式<rp>（</rp><rt>にゅうがくしき</rt><rp>）</rp></ruby></b> là:",
+    "options": [
+      "lễ tốt nghiệp",
+      "lễ nhập học",
+      "lễ kết hôn",
+      "lễ khai trương"
+    ],
+    "correctAnswer": 1,
+    "difficulty": 1
+  },
+  {
+    "id": 7,
+    "question": "<b><ruby>派手<rp>（</rp><rt>はで</rt><rp>）</rp></ruby>[な]</b> đối nghĩa với tính từ nào sau đây?",
+    "options": [
+      "明るい[な]",
+      "地味[な]",
+      "静か[な]",
+      "元気[な]"
+    ],
+    "correctAnswer": 1,
+    "difficulty": 2
+  },
+  {
+    "id": 8,
+    "question": "<b><ruby>地味<rp>（</rp><rt>じみ</rt><rp>）</rp></ruby>[な]</b> diễn tả:",
+    "options": [
+      "sặc sỡ",
+      "giản dị",
+      "ồn ào",
+      "hào nhoáng"
+    ],
+    "correctAnswer": 1,
+    "difficulty": 1
+  },
+  {
+    "id": 9,
+    "question": "<b><ruby>車<rp>（</rp><rt>くるま</rt><rp>）</rp></ruby>いす</b> là:",
+    "options": [
+      "xe đạp",
+      "xe lăn",
+      "xe hơi",
+      "xe buýt"
+    ],
+    "correctAnswer": 1,
+    "difficulty": 1
+  },
+  {
+    "id": 10,
+    "question": "<b><ruby>寄付<rp>（</rp><rt>きふ</rt><rp>）</rp></ruby>する</b> nghĩa là gì?",
+    "options": [
+      "mua bán",
+      "vay mượn",
+      "quyên tặng, quyên góp",
+      "thanh toán"
+    ],
+    "correctAnswer": 2,
+    "difficulty": 1
+  },
+  {
+    "id": 11,
+    "question": "<b><ruby>原爆<rp>（</rp><rt>げんばく</rt><rp>）</rp></ruby></b> chỉ:",
+    "options": [
+      "bom thông thường",
+      "bom nguyên tử, bom hạt nhân",
+      "bom khói",
+      "bom nước"
+    ],
+    "correctAnswer": 1,
+    "difficulty": 1
+  },
+  {
+    "id": 12,
+    "question": "<b><ruby>恐<rp>（</rp><rt>おそ</rt><rp>）</rp></ruby>ろしさ</b> nghĩa là:",
+    "options": [
+      "sự thú vị",
+      "sự bất tiện",
+      "sự khủng khiếp",
+      "sự tuyệt vời"
+    ],
+    "correctAnswer": 2,
+    "difficulty": 1
+  },
+  {
+    "id": 13,
+    "question": "<b><ruby>自宅<rp>（</rp><rt>じたく</rt><rp>）</rp></ruby></b> là:",
+    "options": [
+      "nhà của bạn",
+      "nhà mình",
+      "văn phòng",
+      "nhà nghỉ"
+    ],
+    "correctAnswer": 1,
+    "difficulty": 1
+  },
+  {
+    "id": 14,
+    "question": "<b><ruby>落<rp>（</rp><rt>お</rt><rp>）</rp></ruby>ち着く</b> dùng để diễn tả trạng thái nào?",
+    "options": [
+      "hoảng hốt",
+      "bình tĩnh",
+      "giận dữ",
+      "phấn khích"
+    ],
+    "correctAnswer": 1,
+    "difficulty": 1
+  },
+  {
+    "id": 15,
+    "question": "<b><ruby>探検<rp>（</rp><rt>たんけん</rt><rp>）</rp></ruby></b> là:",
+    "options": [
+      "tham quan",
+      "thám hiểm",
+      "du học",
+      "công tác"
+    ],
+    "correctAnswer": 1,
+    "difficulty": 1
+  },
+  {
+    "id": 16,
+    "question": "<b><ruby>世界遺産<rp>（</rp><rt>せかいいさん</rt><rp>）</rp></ruby></b> chỉ:",
+    "options": [
+      "di tích trong nước",
+      "di sản thế giới",
+      "bảo tàng",
+      "thành phố du lịch"
+    ],
+    "correctAnswer": 1,
+    "difficulty": 1
+  },
+  {
+    "id": 17,
+    "question": "<b><ruby>流氷<rp>（</rp><rt>りゅうひょう</rt><rp>）</rp></ruby></b> là:",
+    "options": [
+      "băng trôi, tảng băng trôi",
+      "băng đá trong tủ lạnh",
+      "băng tuyết trên núi",
+      "sông băng"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 1
+  },
+  {
+    "id": 18,
+    "question": "<b><ruby>観光地<rp>（</rp><rt>かんこうち</rt><rp>）</rp></ruby></b> là:",
+    "options": [
+      "khu dân cư",
+      "khu công nghiệp",
+      "điểm du lịch",
+      "khu mua sắm"
+    ],
+    "correctAnswer": 2,
+    "difficulty": 1
+  },
+  {
+    "id": 19,
+    "question": "<b><ruby>観光案内<rp>（</rp><rt>かんこうあんない</rt><rp>）</rp></ruby></b> nghĩa là:",
+    "options": [
+      "hướng dẫn du lịch, thông tin du lịch",
+      "bản đồ giao thông",
+      "hướng dẫn sử dụng",
+      "thông tin việc làm"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 1
+  },
+  {
+    "id": 20,
+    "question": "<b><ruby>農作物<rp>（</rp><rt>のうさくぶつ</rt><rp>）</rp></ruby></b> chỉ:",
+    "options": [
+      "sản phẩm thủ công",
+      "cây trồng, nông sản",
+      "thủy sản",
+      "sản phẩm công nghiệp"
+    ],
+    "correctAnswer": 1,
+    "difficulty": 1
+  },
+  {
+    "id": 21,
+    "question": "<b>「だんだん春らしくなってきました。」</b><br/>Mẫu「～てきました」trong câu này diễn tả điều gì?",
+    "options": [
+      "sự thay đổi cho đến hiện tại",
+      "sự thay đổi trong tương lai",
+      "một thói quen",
+      "một trạng thái tạm thời"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 2
+  },
+  {
+    "id": 22,
+    "question": "<b>「これからは、日本で働く外国人が増えていくでしょう。」</b><br/>「増えていく」nhấn mạnh:",
+    "options": [
+      "tình trạng ở quá khứ",
+      "quá trình tăng dần trong tương lai",
+      "sự lặp lại trong quá khứ",
+      "sự hoàn thành trong hiện tại"
+    ],
+    "correctAnswer": 1,
+    "difficulty": 2
+  },
+  {
+    "id": 23,
+    "question": "<b>「世界中で海外旅行をする人がますます増えていくだろう。」</b><br/>Từ nào chỉ mức độ tăng dần?",
+    "options": [
+      "今後",
+      "ますます",
+      "いかにも",
+      "やっぱり"
+    ],
+    "correctAnswer": 1,
+    "difficulty": 1
+  },
+  {
+    "id": 24,
+    "question": "<b>「仕事が忙しくて、長い間ふるさとに帰っていない。」</b><br/>Mẫu「～ていない」ở đây diễn tả:",
+    "options": [
+      "thói quen",
+      "trạng thái chưa làm việc đó kéo dài đến hiện tại",
+      "hành động đang diễn ra",
+      "kế hoạch tương lai"
+    ],
+    "correctAnswer": 1,
+    "difficulty": 2
+  },
+  {
+    "id": 25,
+    "question": "<b>「薬を飲んで、今日は早く寝たら？」</b><br/>Mẫu「Vたら？」ở đây dùng để:",
+    "options": [
+      "ra lệnh",
+      "cấm đoán",
+      "gợi ý, khuyên nhủ",
+      "tường thuật"
+    ],
+    "correctAnswer": 2,
+    "difficulty": 2
+  },
+  {
+    "id": 26,
+    "question": "<b>A：最近疲れているみたいだね。<br/>B：うん。<ruby>温泉<rp>（</rp><rt>おんせん</rt><rp>）</rp></ruby>にでも行ったらどう？</b><br/>Ý nghĩa của「～たらどう？」trong câu trên là:",
+    "options": [
+      "phê phán đối phương",
+      "đề nghị nhẹ nhàng một lựa chọn",
+      "đưa ra mệnh lệnh mạnh",
+      "từ chối lời đề nghị"
+    ],
+    "correctAnswer": 1,
+    "difficulty": 2
+  },
+  {
+    "id": 27,
+    "question": "<b>「インターネットで調べてみたらどうですか。」</b><br/>Câu nào tương đương về nghĩa?",
+    "options": [
+      "インターネットで調べてはいけません。",
+      "インターネットで調べなさい。",
+      "インターネットで調べてみるのはどうですか。",
+      "インターネットで調べなくてもいいです。"
+    ],
+    "correctAnswer": 2,
+    "difficulty": 2
+  },
+  {
+    "id": 28,
+    "question": "<b>「漢字は見て覚えるより書いて覚えるほうが忘れにくいと思います。」</b><br/>Theo câu này, cách học nào tốt hơn?",
+    "options": [
+      "chỉ nhìn để nhớ",
+      "chỉ nghe để nhớ",
+      "vừa nhìn vừa nghe",
+      "viết để nhớ"
+    ],
+    "correctAnswer": 3,
+    "difficulty": 2
+  },
+  {
+    "id": 29,
+    "question": "<b>「パーティーの料理は少ないより多いほうがいいです。」</b><br/>Mẫu so sánh được dùng là:",
+    "options": [
+      "～より～たい",
+      "～より～ほうがいい",
+      "～ほど～ない",
+      "～がいちばん～"
+    ],
+    "correctAnswer": 1,
+    "difficulty": 2
+  },
+  {
+    "id": 30,
+    "question": "<b>「アメリカの大学は入るより出るほうがずっと大変だと聞きました。」</b><br/>Câu này có nghĩa là:",
+    "options": [
+      "Thi vào đại học Mỹ khó hơn tốt nghiệp.",
+      "Thi vào và tốt nghiệp đều khó như nhau.",
+      "Tốt nghiệp đại học Mỹ khó hơn thi vào nhiều.",
+      "Cả thi vào và tốt nghiệp đều dễ."
+    ],
+    "correctAnswer": 2,
+    "difficulty": 2
+  },
+  {
+    "id": 31,
+    "question": "<b>「山本さんの家はいかにも日本の家らしい家です。」</b><br/>Mẫu「Nの家らしい家」thể hiện điều gì?",
+    "options": [
+      "ngôi nhà không giống nhà Nhật",
+      "ngôi nhà mang đặc trưng điển hình của nhà Nhật",
+      "ngôi nhà hiện đại kiểu Âu",
+      "ngôi nhà cũ nát"
+    ],
+    "correctAnswer": 1,
+    "difficulty": 2
+  },
+  {
+    "id": 32,
+    "question": "<b>「春らしい色のバックですね。」</b><br/>「春らしい色」gợi đến ý nào?",
+    "options": [
+      "màu tối, nặng nề",
+      "màu trầm, ít nổi bật",
+      "màu sáng, tươi tắn",
+      "màu đen trắng"
+    ],
+    "correctAnswer": 2,
+    "difficulty": 1
+  },
+  {
+    "id": 33,
+    "question": "<b>「文句を言うのはあなたらしくない。」</b><br/>Câu này có ý gì?",
+    "options": [
+      "Anh thường hay than phiền.",
+      "Việc than phiền không giống tính cách bình thường của anh.",
+      "Anh nên than phiền nhiều hơn.",
+      "Anh không bao giờ than phiền."
+    ],
+    "correctAnswer": 1,
+    "difficulty": 2
+  },
+  {
+    "id": 34,
+    "question": "<b>「新聞によると、昨日の朝中国で大きい地震があったらしい。」</b><br/>「らしい」ở đây biểu thị:",
+    "options": [
+      "trải nghiệm trực tiếp của người nói",
+      "truyền đạt thông tin đã nghe/đọc được",
+      "ý chí của người nói",
+      "mệnh lệnh"
+    ],
+    "correctAnswer": 1,
+    "difficulty": 2
+  },
+  {
+    "id": 35,
+    "question": "<b>「地震のときは、あわてずに落ち着いて行動してください。」</b><br/>Mẫu「Vずに」ở đây tương đương với:",
+    "options": [
+      "Vないで",
+      "Vなくて",
+      "Vないかもしれない",
+      "Vないだろう"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 2
+  },
+  {
+    "id": 36,
+    "question": "<b>「辞書を使わずに新聞を読めるようになりたい。」</b><br/>Câu này mang ý nghĩa nào?",
+    "options": [
+      "Muốn đọc báo nhưng không muốn dùng từ điển.",
+      "Muốn có thể đọc báo mà không cần dùng từ điển.",
+      "Không muốn đọc báo nữa.",
+      "Không dùng từ điển cũng không đọc báo."
+    ],
+    "correctAnswer": 1,
+    "difficulty": 2
+  },
+  {
+    "id": 37,
+    "question": "<b>「会社へ行かずにパソコンを使って自宅で仕事をする人が増えている。」</b><br/>Câu này nói về xu hướng nào?",
+    "options": [
+      "làm thêm ngoài giờ",
+      "làm việc tại nhà (remote work)",
+      "nghỉ việc hàng loạt",
+      "tăng ca nhiều hơn"
+    ],
+    "correctAnswer": 1,
+    "difficulty": 2
+  },
+  {
+    "id": 38,
+    "question": "<b>「子供の熱が一日中下がらず、心配しました。」</b><br/>「下がらず」biểu thị:",
+    "options": [
+      "nhiệt độ tăng lên",
+      "nhiệt độ không giảm",
+      "nhiệt độ lúc tăng lúc giảm",
+      "nhiệt độ giảm nhanh"
+    ],
+    "correctAnswer": 1,
+    "difficulty": 1
+  },
+  {
+    "id": 39,
+    "question": "<b>「アキックスのシューズは硬すぎず、軟らかすぎず、はきやすいです。」</b><br/>Câu này khen đôi giày như thế nào?",
+    "options": [
+      "quá cứng",
+      "quá mềm",
+      "cân bằng, vừa phải nên dễ đi",
+      "rất khó đi"
+    ],
+    "correctAnswer": 2,
+    "difficulty": 2
+  },
+  {
+    "id": 40,
+    "question": "<b>「これなんかいかがでしょうか。」</b><br/>Chức năng của「なんか」trong câu này là gì?",
+    "options": [
+      "hạ thấp giá trị",
+      "đề xuất nhẹ nhàng một lựa chọn trong số nhiều khả năng",
+      "phủ định đề xuất",
+      "nhấn mạnh bắt buộc phải chọn"
+    ],
+    "correctAnswer": 1,
+    "difficulty": 2
+  }
+]

@@ -1,1 +1,362 @@
-﻿[]
+[
+  {
+    "id": 1,
+    "question": "<b>「<ruby>歓迎会<rp>（</rp><rt>かんげいかい</rt><rp>）</rp></ruby>」</b> có nghĩa là gì?",
+    "options": [
+      "tiệc chia tay",
+      "buổi giao lưu",
+      "tiệc chào đón",
+      "buổi biểu diễn âm nhạc"
+    ],
+    "correctAnswer": 2,
+    "difficulty": 1
+  },
+  {
+    "id": 2,
+    "question": "<b>「<ruby>送別会<rp>（</rp><rt>そうべつかい</rt><rp>）</rp></ruby>」</b> là:",
+    "options": [
+      "tiệc chào đón",
+      "tiệc chia tay",
+      "hội lưu học sinh",
+      "buổi nói chuyện"
+    ],
+    "correctAnswer": 1,
+    "difficulty": 1
+  },
+  {
+    "id": 3,
+    "question": "<b>「<ruby>招待状<rp>（</rp><rt>しょうたいじょう</rt><rp>）</rp></ruby>」</b> dùng để chỉ:",
+    "options": [
+      "thư mời",
+      "phiếu điều tra",
+      "hóa đơn",
+      "bảng điểm"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 1
+  },
+  {
+    "id": 4,
+    "question": "<b>「<ruby>折り紙<rp>（</rp><rt>おりがみ</rt><rp>）</rp></ruby>」</b> là:",
+    "options": [
+      "truyện cười",
+      "nghệ thuật gấp giấy",
+      "phim hoạt hình",
+      "kịch nói"
+    ],
+    "correctAnswer": 1,
+    "difficulty": 1
+  },
+  {
+    "id": 5,
+    "question": "<b>「<ruby>夫婦<rp>（</rp><rt>ふうふ</rt><rp>）</rp></ruby>」</b> có nghĩa là:",
+    "options": [
+      "bố mẹ",
+      "anh em",
+      "vợ chồng",
+      "đồng nghiệp"
+    ],
+    "correctAnswer": 2,
+    "difficulty": 1
+  },
+  {
+    "id": 6,
+    "question": "<b>「<ruby>悪口<rp>（</rp><rt>わるぐち</rt><rp>）</rp></ruby>」</b> là:",
+    "options": [
+      "lời khen",
+      "sự nói xấu",
+      "sự xin lỗi",
+      "sự chúc mừng"
+    ],
+    "correctAnswer": 1,
+    "difficulty": 1
+  },
+  {
+    "id": 7,
+    "question": "<b><ruby>点数<rp>（</rp><rt>てんすう</rt><rp>）</rp></ruby></b> dùng để chỉ:",
+    "options": [
+      "số phòng",
+      "điểm số",
+      "số điện thoại",
+      "số lần"
+    ],
+    "correctAnswer": 1,
+    "difficulty": 1
+  },
+  {
+    "id": 8,
+    "question": "<b>「<ruby>喜ぶ<rp>（</rp><rt>よろこぶ</rt><rp>）</rp></ruby>」</b> gần nghĩa với:",
+    "options": [
+      "buồn",
+      "giận",
+      "lo lắng",
+      "vui, vui sướng"
+    ],
+    "correctAnswer": 3,
+    "difficulty": 1
+  },
+  {
+    "id": 9,
+    "question": "<b>「<ruby>遠慮する<rp>（</rp><rt>えんりょする</rt><rp>）</rp></ruby>」</b> trong ngữ cảnh lời mời thường là:",
+    "options": [
+      "đồng ý",
+      "hỏi lại",
+      "xin từ chối",
+      "khuyên nhủ"
+    ],
+    "correctAnswer": 2,
+    "difficulty": 1
+  },
+  {
+    "id": 10,
+    "question": "<b>「<ruby>紅葉<rp>（</rp><rt>こうよう</rt><rp>）</rp></ruby>」</b> là:",
+    "options": [
+      "hoa anh đào",
+      "lá phong đỏ",
+      "cỏ xanh",
+      "tuyết rơi"
+    ],
+    "correctAnswer": 1,
+    "difficulty": 1
+  },
+  {
+    "id": 11,
+    "question": "Hãy chọn cách đọc đúng cho từ <b><ruby>交流会<rp>（</rp><rt>　</rt><rp>）</rp></ruby></b>.",
+    "options": [
+      "こうりゅうかい",
+      "こりゅうかい",
+      "こうれいかい",
+      "こうりょうかい"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 2
+  },
+  {
+    "id": 12,
+    "question": "Hãy chọn cách đọc đúng cho từ <b><ruby>登山<rp>（</rp><rt>　</rt><rp>）</rp></ruby></b>.",
+    "options": [
+      "とうざん",
+      "とざん",
+      "とやま",
+      "とうやま"
+    ],
+    "correctAnswer": 1,
+    "difficulty": 2
+  },
+  {
+    "id": 13,
+    "question": "Hãy chọn cách đọc đúng cho từ <b><ruby>講演<rp>（</rp><rt>　</rt><rp>）</rp></ruby></b>.",
+    "options": [
+      "こうえん",
+      "こうおん",
+      "こえん",
+      "こおん"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 2
+  },
+  {
+    "id": 14,
+    "question": "Hãy chọn cách đọc đúng cho từ <b><ruby>医学部<rp>（</rp><rt>　</rt><rp>）</rp></ruby></b>.",
+    "options": [
+      "いがくぶ",
+      "いがぶ",
+      "いかくぶ",
+      "いかぶ"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 2
+  },
+  {
+    "id": 15,
+    "question": "<b>A：今度、<ruby>交流会<rp>（</rp><rt>こうりゅうかい</rt><rp>）</rp></ruby>を開くんですが。<br>B：そうですか。ぼくたちも（　）もらえませんか。</b>",
+    "options": [
+      "招待して",
+      "招待させて",
+      "参加して",
+      "遠慮して"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 2
+  },
+  {
+    "id": 16,
+    "question": "<b>この薬は一日２回飲まなくてはならない。</b><p>Câu trên dùng mẫu:</p>",
+    "options": [
+      "～なくてもかまわない",
+      "～なくてはならない",
+      "～だけでいい",
+      "…かな"
+    ],
+    "correctAnswer": 1,
+    "difficulty": 2
+  },
+  {
+    "id": 17,
+    "question": "<b>熱が下がったら、薬を飲まなくてもかまわない。</b><p>Nội dung đúng là:</p>",
+    "options": [
+      "vẫn phải uống thuốc",
+      "không được uống thuốc",
+      "không cần uống thuốc cũng được",
+      "không được hạ sốt"
+    ],
+    "correctAnswer": 2,
+    "difficulty": 2
+  },
+  {
+    "id": 18,
+    "question": "<b>この紙に名前を（　）だけでいいんです。</b>",
+    "options": [
+      "書いて",
+      "書く",
+      "書かない",
+      "書かれて"
+    ],
+    "correctAnswer": 1,
+    "difficulty": 2
+  },
+  {
+    "id": 19,
+    "question": "<b>「Vる＋だけでいい」</b> dùng khi nào?",
+    "options": [
+      "khi muốn nói chỉ cần làm V là đủ",
+      "khi bắt buộc phải làm V nhiều lần",
+      "khi cấm không được làm V",
+      "khi nghi ngờ việc làm V"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 2
+  },
+  {
+    "id": 20,
+    "question": "<b>「…かな」</b> thường được dùng để:",
+    "options": [
+      "ra lệnh mạnh mẽ",
+      "hỏi ý kiến một cách mềm mại, suy nghĩ một mình",
+      "xác nhận điều chắc chắn",
+      "từ chối lời mời"
+    ],
+    "correctAnswer": 1,
+    "difficulty": 2
+  },
+  {
+    "id": 21,
+    "question": "<b>お父さんの誕生日のプレゼントは何がいい（　）。</b>",
+    "options": [
+      "かな",
+      "かも",
+      "かしら",
+      "けど"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 2
+  },
+  {
+    "id": 22,
+    "question": "<b>手伝ってくれないかな。</b><p>Câu này thể hiện ý:</p>",
+    "options": [
+      "mệnh lệnh mạnh",
+      "lời than phiền",
+      "mong người nghe giúp một cách nhẹ nhàng",
+      "từ chối giúp đỡ"
+    ],
+    "correctAnswer": 2,
+    "difficulty": 2
+  },
+  {
+    "id": 23,
+    "question": "<b>わたしの絵なんかみんなに見せないでください。</b><p>「なんか」 ở đây thể hiện:</p>",
+    "options": [
+      "xem nhẹ, khiêm tốn",
+      "khen ngợi",
+      "ngạc nhiên",
+      "tức giận"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 2
+  },
+  {
+    "id": 24,
+    "question": "<b>お金なんかいらないわ。あなたと一緒にいるだけでいいの。</b><p>Nội dung gần nghĩa nhất là:</p>",
+    "options": [
+      "tiền rất quan trọng",
+      "chỉ cần tiền là đủ",
+      "tiền không quan trọng lắm",
+      "không muốn ở cùng đối phương"
+    ],
+    "correctAnswer": 2,
+    "difficulty": 2
+  },
+  {
+    "id": 25,
+    "question": "<b>あの人が医者になるなんて信じられない。</b><p>「なんて」 ở đây thể hiện:</p>",
+    "options": [
+      "khiêm tốn",
+      "xem nhẹ hoặc ngạc nhiên",
+      "xác nhận chắc chắn",
+      "lời mời"
+    ],
+    "correctAnswer": 1,
+    "difficulty": 2
+  },
+  {
+    "id": 26,
+    "question": "<b>映画のラストシーンは、観客を泣か（　）。</b>",
+    "options": [
+      "せられる",
+      "される",
+      "せる",
+      "させられる"
+    ],
+    "correctAnswer": 2,
+    "difficulty": 2
+  },
+  {
+    "id": 27,
+    "question": "<b>テストで１００点を取って、母をびっくり（　）。</b>",
+    "options": [
+      "する",
+      "させた",
+      "される",
+      "させられた"
+    ],
+    "correctAnswer": 1,
+    "difficulty": 2
+  },
+  {
+    "id": 28,
+    "question": "<b>子どもが書いた作文はすばらしく、先生は感心（　）。</b>",
+    "options": [
+      "させる",
+      "している",
+      "させられた",
+      "していた"
+    ],
+    "correctAnswer": 2,
+    "difficulty": 2
+  },
+  {
+    "id": 29,
+    "question": "<b>山に登る（　）、秋の<ruby>紅葉<rp>（</rp><rt>こうよう</rt><rp>）</rp></ruby>がきれいですよ。</b>",
+    "options": [
+      "から",
+      "ので",
+      "なら",
+      "まで"
+    ],
+    "correctAnswer": 2,
+    "difficulty": 2
+  },
+  {
+    "id": 30,
+    "question": "<b>A：<ruby>音楽会<rp>（</rp><rt>おんがくかい</rt><rp>）</rp></ruby>に行きたいんですが。<br>B：（　）なら、このチケットがいいですよ。</b>",
+    "options": [
+      "講演",
+      "音楽会",
+      "登山",
+      "紅葉"
+    ],
+    "correctAnswer": 1,
+    "difficulty": 2
+  }
+]

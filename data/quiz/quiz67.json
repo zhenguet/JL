@@ -1,1 +1,362 @@
-﻿[]
+[
+  {
+    "id": 1,
+    "question": "<p><ruby>暦<rp>(</rp><rt>こよみ</rt><rp>)</rp></ruby>のベトナム語の意味はどれですか。</p>",
+    "options": [
+      "lịch",
+      "địa lý",
+      "bản đồ",
+      "kế hoạch"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 1
+  },
+  {
+    "id": 2,
+    "question": "<p><ruby>太陽暦<rp>(</rp><rt>たいようれき</rt><rp>)</rp></ruby>はどのような暦ですか。</p>",
+    "options": [
+      "lịch dựa trên Mặt Trời",
+      "lịch dựa trên Mặt Trăng",
+      "lịch cổ không dùng nữa",
+      "lịch chỉ dùng cho lễ hội"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 1
+  },
+  {
+    "id": 3,
+    "question": "<p><ruby>太陰暦<rp>(</rp><rt>たいいんれき</rt><rp>)</rp></ruby>の意味として正しいものはどれですか。</p>",
+    "options": [
+      "âm lịch",
+      "dương lịch",
+      "lịch âm dương",
+      "lịch năm nhuận"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 1
+  },
+  {
+    "id": 4,
+    "question": "<p><ruby>太陰太陽暦<rp>(</rp><rt>たいいんたいようれき</rt><rp>)</rp></ruby>の説明として最も近いものはどれですか。</p>",
+    "options": [
+      "lịch âm dương",
+      "lịch chỉ theo Mặt Trời",
+      "lịch chỉ theo Mặt Trăng",
+      "lịch chỉ dùng cho nông nghiệp"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 1
+  },
+  {
+    "id": 5,
+    "question": "<p><ruby>新暦<rp>(</rp><rt>しんれき</rt><rp>)</rp></ruby>はふつうどの暦をさしますか。</p>",
+    "options": [
+      "dương lịch hiện nay",
+      "âm lịch cũ",
+      "lịch âm dương",
+      "lịch của phương Tây cổ đại"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 1
+  },
+  {
+    "id": 6,
+    "question": "<p><ruby>旧暦<rp>(</rp><rt>きゅうれき</rt><rp>)</rp></ruby>のベトナム語の意味はどれですか。</p>",
+    "options": [
+      "lịch âm, lịch cũ",
+      "lịch mới",
+      "lịch mùa vụ",
+      "lịch tài chính"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 1
+  },
+  {
+    "id": 7,
+    "question": "<p><ruby>閏年<rp>(</rp><rt>うるうどし</rt><rp>)</rp></ruby>はどんな年ですか。</p>",
+    "options": [
+      "năm nhuận",
+      "năm đầu tiên",
+      "năm tài chính",
+      "năm có lễ hội lớn"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 1
+  },
+  {
+    "id": 8,
+    "question": "<p><ruby>改暦<rp>(</rp><rt>かいれき</rt><rp>)</rp></ruby>の意味として正しいものはどれですか。</p>",
+    "options": [
+      "thay đổi lịch",
+      "mua lịch mới",
+      "xé lịch cũ",
+      "viết lịch tay"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 1
+  },
+  {
+    "id": 9,
+    "question": "<p><ruby>睦月<rp>(</rp><rt>むつき</rt><rp>)</rp></ruby>は何をさしますか。</p>",
+    "options": [
+      "tên gọi tháng 1 âm lịch",
+      "tên gọi tháng 3 âm lịch",
+      "tên gọi tháng 8 âm lịch",
+      "tên gọi tháng 9 âm lịch"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 1
+  },
+  {
+    "id": 10,
+    "question": "<p>「tên gọi tháng 3 âm lịch」を日本語で何と言いますか。</p>",
+    "options": [
+      "<ruby>如月<rp>(</rp><rt>きさらぎ</rt><rp>)</rp></ruby>",
+      "<ruby>弥生<rp>(</rp><rt>やよい</rt><rp>)</rp></ruby>",
+      "<ruby>葉月<rp>(</rp><rt>はづき</rt><rp>)</rp></ruby>",
+      "<ruby>長月<rp>(</rp><rt>ながつき</rt><rp>)</rp></ruby>"
+    ],
+    "correctAnswer": 1,
+    "difficulty": 1
+  },
+  {
+    "id": 11,
+    "question": "<p><ruby>葉月<rp>(</rp><rt>はづき</rt><rp>)</rp></ruby>のベトナム語の意味はどれですか。</p>",
+    "options": [
+      "tên gọi tháng 8 âm lịch",
+      "tên gọi tháng 2 âm lịch",
+      "tên gọi tháng 1 âm lịch",
+      "tên gọi tháng 9 âm lịch"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 1
+  },
+  {
+    "id": 12,
+    "question": "<p><ruby>長月<rp>(</rp><rt>ながつき</rt><rp>)</rp></ruby>は何月を指しますか。</p>",
+    "options": [
+      "tháng 9 âm lịch",
+      "tháng 1 âm lịch",
+      "tháng 3 âm lịch",
+      "tháng 8 âm lịch"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 1
+  },
+  {
+    "id": 13,
+    "question": "<p><ruby>行事<rp>(</rp><rt>ぎょうじ</rt><rp>)</rp></ruby>の意味はどれですか。</p>",
+    "options": [
+      "sự kiện, lễ hội",
+      "cuộc họp",
+      "đề án",
+      "bản kế hoạch"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 1
+  },
+  {
+    "id": 14,
+    "question": "<p><ruby>ひな祭り<rp>(</rp><rt>ひなまつり</rt><rp>)</rp></ruby>はどんな行事ですか。</p>",
+    "options": [
+      "lễ hội búp bê",
+      "lễ hội mùa thu",
+      "lễ hội pháo hoa",
+      "lễ hội dành cho bé trai"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 1
+  },
+  {
+    "id": 15,
+    "question": "<p><ruby>ひな人形<rp>(</rp><rt>ひなにんぎょう</rt><rp>)</rp></ruby>の説明として正しいものはどれですか。</p>",
+    "options": [
+      "búp bê trưng bày trong Lễ hội búp bê",
+      "búp bê chiến binh samurai",
+      "búp bê dùng trong lễ hội dành cho bé trai",
+      "búp bê truyền thống Okinawa"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 1
+  },
+  {
+    "id": 16,
+    "question": "<p><ruby>端午の節句<rp>(</rp><rt>たんごのせっく</rt><rp>)</rp></ruby>はどんな行事ですか。</p>",
+    "options": [
+      "lễ hội dành cho bé trai",
+      "lễ hội dành cho bé gái",
+      "lễ hội mùa thu",
+      "lễ hội mùa đông"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 1
+  },
+  {
+    "id": 17,
+    "question": "<p><ruby>鯉のぼり<rp>(</rp><rt>こいのぼり</rt><rp>)</rp></ruby>は何ですか。</p>",
+    "options": [
+      "cờ cá chép",
+      "cá chép kho",
+      "bức tranh cá chép",
+      "đền thờ cá chép"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 1
+  },
+  {
+    "id": 18,
+    "question": "<p><ruby>伝説<rp>(</rp><rt>でんせつ</rt><rp>)</rp></ruby>のベトナム語として一番近いものはどれですか。</p>",
+    "options": [
+      "truyền thuyết",
+      "bài phát biểu",
+      "tác giả",
+      "thể chế"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 1
+  },
+  {
+    "id": 19,
+    "question": "<p><ruby>困難<rp>(</rp><rt>こんなん</rt><rp>)</rp></ruby>の意味はどれですか。</p>",
+    "options": [
+      "khó khăn",
+      "dễ dàng",
+      "giàu có",
+      "bận rộn"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 1
+  },
+  {
+    "id": 20,
+    "question": "<p><ruby>都道府県<rp>(</rp><rt>とどうふけん</rt><rp>)</rp></ruby>は何をさしますか。</p>",
+    "options": [
+      "các tỉnh thành của Nhật Bản",
+      "các nước trên thế giới",
+      "các quận trong một thành phố",
+      "các trường đại học"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 1
+  },
+  {
+    "id": 21,
+    "question": "<p>つぎの文の（　）に入れるのに最もよいものはどれですか。<br/>「日本は４７の<ruby>都道府県<rp>(</rp><rt>とどうふけん</rt><rp>)</rp></ruby>（　）なっている。」</p>",
+    "options": [
+      "から",
+      "に",
+      "で",
+      "まで"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 2
+  },
+  {
+    "id": 22,
+    "question": "<p>文型「XはYからなる」の説明として正しいものはどれですか。</p>",
+    "options": [
+      "Y là bộ phận cấu thành X",
+      "X là bộ phận cấu thành Y",
+      "X và Y không liên quan",
+      "Y xảy ra sau X"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 2
+  },
+  {
+    "id": 23,
+    "question": "<p>つぎの文の（　）に入る最も適当なものはどれですか。<br/>「<ruby>北海道<rp>(</rp><rt>ほっかいどう</rt><rp>)</rp></ruby>のお土産（　）、クッキーやチョコレートなどが有名である。」</p>",
+    "options": [
+      "としては",
+      "にしては",
+      "からには",
+      "ことから"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 2
+  },
+  {
+    "id": 24,
+    "question": "<p>文型「N＋としては」の意味として一番近いものはどれですか。</p>",
+    "options": [
+      "với tư cách là N",
+      "do N nên nhất định",
+      "chỉ vì N nên không",
+      "nếu là N thì càng ngày càng"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 2
+  },
+  {
+    "id": 25,
+    "question": "<p>「教育<ruby>上<rp>(</rp><rt>じょう</rt><rp>)</rp></ruby>」の「上」と同じ使い方をしているのはどれですか。</p>",
+    "options": [
+      "会社の<ruby>経営上<rp>(</rp><rt>けいえいじょう</rt><rp>)</rp></ruby>、社員を増やすことは難しい。",
+      "山の上に<ruby>雪<rp>(</rp><rt>ゆき</rt><rp>)</rp></ruby>が積もっている。",
+      "机の上に<ruby>本<rp>(</rp><rt>ほん</rt><rp>)</rp></ruby>を置く。",
+      "橋の上を<ruby>歩く<rp>(</rp><rt>あるく</rt><rp>)</rp></ruby>。"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 2
+  },
+  {
+    "id": 26,
+    "question": "<p>つぎの文の（　）に入るのに最もよいものはどれですか。<br/>「この会社は、工場を海外に移したこと（　）、コストを下げるのに成功した。」</p>",
+    "options": [
+      "により",
+      "としては",
+      "ことから",
+      "にしては"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 2
+  },
+  {
+    "id": 27,
+    "question": "<p>文型「～ことから」の説明として正しいものはどれですか。</p>",
+    "options": [
+      "nội dung trước là lý do, nguyên nhân",
+      "nội dung trước là mục đích",
+      "nội dung trước là điều kiện giả định",
+      "nội dung trước là mệnh lệnh"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 2
+  },
+  {
+    "id": 28,
+    "question": "<p>つぎの文の（　）に入るのはどれですか。<br/>「熱が３９度もある。今日は大事な会議があるが、休ま（　）。」</p>",
+    "options": [
+      "ざるを得ない",
+      "ことから",
+      "にしては",
+      "としては"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 2
+  },
+  {
+    "id": 29,
+    "question": "<p>文型「VてはじめてY」が表す意味として最も近いものはどれですか。</p>",
+    "options": [
+      "sau khi V thì cuối cùng mới Y",
+      "vì V nên chắc chắn Y đã xảy ra",
+      "nếu không V thì vẫn Y",
+      "khi V thì lúc nào cũng Y một cách tự nhiên"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 2
+  },
+  {
+    "id": 30,
+    "question": "<p>つぎの会話の（　）に入るのに最も自然なものはどれですか。<br/>Ａ：<ruby>優太<rp>(</rp><rt>ゆうた</rt><rp>)</rp></ruby>、そんなところに立ってたら<ruby>邪魔<rp>(</rp><rt>じゃま</rt><rp>)</rp></ruby>になる（　）。こっちへいらっしゃい。<br/>Ｂ：はい。</p>",
+    "options": [
+      "でしょ",
+      "としては",
+      "ことから",
+      "により"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 2
+  }
+]

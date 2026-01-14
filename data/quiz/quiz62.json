@@ -1,1 +1,362 @@
-﻿[]
+[
+  {
+    "id": 1,
+    "question": "<b>「<ruby>演奏会<rp>（</rp><rt>えんそうかい</rt><rp>）</rp></ruby>」</b> có nghĩa là gì?",
+    "options": [
+      "buổi biểu diễn, buổi trình diễn",
+      "buổi tọa đàm",
+      "buổi họp",
+      "buổi triển lãm"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 1
+  },
+  {
+    "id": 2,
+    "question": "<b>「<ruby>報告書<rp>（</rp><rt>ほうこくしょ</rt><rp>）</rp></ruby>」</b> là:",
+    "options": [
+      "bản dự báo",
+      "bản báo cáo",
+      "bản ghi nhớ",
+      "bản thông báo"
+    ],
+    "correctAnswer": 1,
+    "difficulty": 1
+  },
+  {
+    "id": 3,
+    "question": "<b>「<ruby>犯人<rp>（</rp><rt>はんにん</rt><rp>）</rp></ruby>」</b> dùng để chỉ:",
+    "options": [
+      "nhân chứng",
+      "nạn nhân",
+      "hung thủ, kẻ tội phạm",
+      "cảnh sát"
+    ],
+    "correctAnswer": 2,
+    "difficulty": 1
+  },
+  {
+    "id": 4,
+    "question": "<b>「<ruby>作業<rp>（</rp><rt>さぎょう</rt><rp>）</rp></ruby>」</b> là:",
+    "options": [
+      "nghỉ ngơi",
+      "công việc, thao tác",
+      "kỳ nghỉ",
+      "tiền thưởng"
+    ],
+    "correctAnswer": 1,
+    "difficulty": 1
+  },
+  {
+    "id": 5,
+    "question": "<b>「<ruby>家事<rp>（</rp><rt>かじ</rt><rp>）</rp></ruby>」</b> gần nghĩa với:",
+    "options": [
+      "việc học",
+      "công việc công ty",
+      "việc nhà",
+      "việc tình nguyện"
+    ],
+    "correctAnswer": 2,
+    "difficulty": 1
+  },
+  {
+    "id": 6,
+    "question": "<b>「<ruby>風邪薬<rp>（</rp><rt>かぜぐすり</rt><rp>）</rp></ruby>」</b> là:",
+    "options": [
+      "thuốc ho",
+      "thuốc cảm",
+      "thuốc đau đầu",
+      "thuốc ngủ"
+    ],
+    "correctAnswer": 1,
+    "difficulty": 1
+  },
+  {
+    "id": 7,
+    "question": "<b>「<ruby>苦情<rp>（</rp><rt>くじょう</rt><rp>）</rp></ruby>」</b> có nghĩa là:",
+    "options": [
+      "lời khen",
+      "lời phàn nàn",
+      "lời mời",
+      "lời xin lỗi"
+    ],
+    "correctAnswer": 1,
+    "difficulty": 1
+  },
+  {
+    "id": 8,
+    "question": "<b>「<ruby>迷惑<rp>（</rp><rt>めいわく</rt><rp>）</rp></ruby>」</b> gần nghĩa với:",
+    "options": [
+      "tiện lợi",
+      "vất vả",
+      "phiền toái, phiền hà",
+      "an toàn"
+    ],
+    "correctAnswer": 2,
+    "difficulty": 1
+  },
+  {
+    "id": 9,
+    "question": "<b>「<ruby>都会<rp>（</rp><rt>とかい</rt><rp>）</rp></ruby>」</b> là:",
+    "options": [
+      "nông thôn",
+      "đô thị, thành thị",
+      "ngoại ô",
+      "thị trấn nhỏ"
+    ],
+    "correctAnswer": 1,
+    "difficulty": 1
+  },
+  {
+    "id": 10,
+    "question": "<b>「<ruby>住宅地<rp>（</rp><rt>じゅうたくち</rt><rp>）</rp></ruby>」</b> dùng để chỉ:",
+    "options": [
+      "khu công nghiệp",
+      "khu thương mại",
+      "khu dân cư",
+      "khu du lịch"
+    ],
+    "correctAnswer": 2,
+    "difficulty": 1
+  },
+  {
+    "id": 11,
+    "question": "Hãy chọn cách đọc đúng cho từ <b><ruby>蛍光灯<rp>（</rp><rt>　</rt><rp>）</rp></ruby></b>.",
+    "options": [
+      "けいこうとう",
+      "けいことう",
+      "けこうとう",
+      "けいこうと"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 2
+  },
+  {
+    "id": 12,
+    "question": "Hãy chọn cách đọc đúng cho từ <b><ruby>目覚まし時計<rp>（</rp><rt>　</rt><rp>）</rp></ruby></b>.",
+    "options": [
+      "めざましどけい",
+      "めざまじどけい",
+      "めさましどけい",
+      "めざましじけい"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 2
+  },
+  {
+    "id": 13,
+    "question": "Hãy chọn cách đọc đúng cho từ <b><ruby>温暖<rp>（</rp><rt>　</rt><rp>）</rp></ruby>[な]</b>.",
+    "options": [
+      "おんだん",
+      "おんたん",
+      "おだん",
+      "おんなん"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 2
+  },
+  {
+    "id": 14,
+    "question": "Hãy chọn cách đọc đúng cho từ <b><ruby>近所づきあい<rp>（</rp><rt>　</rt><rp>）</rp></ruby></b>.",
+    "options": [
+      "きんじょつきあい",
+      "きんじょづきあい",
+      "きんじょうつきあい",
+      "きんじょうづきあい"
+    ],
+    "correctAnswer": 1,
+    "difficulty": 2
+  },
+  {
+    "id": 15,
+    "question": "<b>バイクに乗ろうとしたら、雨がひどく降ってきた（　）、出かけるのをやめました。</b>",
+    "options": [
+      "おかげで",
+      "せいで",
+      "ものだから",
+      "みたいで"
+    ],
+    "correctAnswer": 2,
+    "difficulty": 2
+  },
+  {
+    "id": 16,
+    "question": "<b>とても安かった（　）、つい買いすぎてしまいました。</b>",
+    "options": [
+      "おかげで",
+      "せいで",
+      "ものだから",
+      "みたいで"
+    ],
+    "correctAnswer": 2,
+    "difficulty": 2
+  },
+  {
+    "id": 17,
+    "question": "<b>駅の近くなので、家の前にバイクを止められて（　）。</b>",
+    "options": [
+      "うれしいです",
+      "困っています",
+      "安心しました",
+      "喜びました"
+    ],
+    "correctAnswer": 1,
+    "difficulty": 2
+  },
+  {
+    "id": 18,
+    "question": "<b>「駅の近くなので、家の前にバイクを止められて、困っています。」</b><p>Câu trên dùng mẫu:</p>",
+    "options": [
+      "～（ら）れる (bị động gián tiếp - nội động từ)",
+      "～（さ）せられる",
+      "～（ら）れる (bị động gián tiếp - ngoại động từ)",
+      "～っぱなし"
+    ],
+    "correctAnswer": 2,
+    "difficulty": 2
+  },
+  {
+    "id": 19,
+    "question": "<b>服が脱ぎっぱなしだ。</b><p>Ý đúng với「～っぱなし」là:</p>",
+    "options": [
+      "trạng thái đã kết thúc",
+      "trạng thái tiếp tục kéo dài không mong muốn",
+      "trạng thái đã được dọn dẹp",
+      "trạng thái dự định trong tương lai"
+    ],
+    "correctAnswer": 1,
+    "difficulty": 2
+  },
+  {
+    "id": 20,
+    "question": "<b>窓を開け（　）で寝てしまいました。</b>",
+    "options": [
+      "きり",
+      "ながら",
+      "っぱなし",
+      "まま"
+    ],
+    "correctAnswer": 2,
+    "difficulty": 2
+  },
+  {
+    "id": 21,
+    "question": "<b>今年の夏は涼しかった（　）、エアコンがあまり売れなかった。</b>",
+    "options": [
+      "おかげで",
+      "せいで",
+      "ものだから",
+      "みたいで"
+    ],
+    "correctAnswer": 1,
+    "difficulty": 2
+  },
+  {
+    "id": 22,
+    "question": "<b>先生が手伝ってくださった（　）、報告書を時間までに出すことができました。</b>",
+    "options": [
+      "おかげで",
+      "せいで",
+      "ものだから",
+      "せいだ"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 2
+  },
+  {
+    "id": 23,
+    "question": "<b>電気が消えているね。隣の部屋は留守（　）。</b>",
+    "options": [
+      "おかげだ",
+      "せいだ",
+      "みたいだ",
+      "ものだ"
+    ],
+    "correctAnswer": 2,
+    "difficulty": 2
+  },
+  {
+    "id": 24,
+    "question": "<b>田中さんは風邪薬を飲んでいる（　）、とても眠そうですね。</b>",
+    "options": [
+      "おかげで",
+      "みたいで",
+      "せいで",
+      "ものだから"
+    ],
+    "correctAnswer": 2,
+    "difficulty": 2
+  },
+  {
+    "id": 25,
+    "question": "<b>この町はどちらかと言えば、静かな（　）。</b>",
+    "options": [
+      "みたいです",
+      "せいです",
+      "ほうです",
+      "ままです"
+    ],
+    "correctAnswer": 2,
+    "difficulty": 2
+  },
+  {
+    "id": 26,
+    "question": "<b>食事しながらお酒を飲みますか。<br>…そうですね。どちらかと言えば、飲む（　）ですね。</b>",
+    "options": [
+      "ほう",
+      "せい",
+      "もの",
+      "まま"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 2
+  },
+  {
+    "id": 27,
+    "question": "<b>どうか大きい事故が起き（　）ように。</b>",
+    "options": [
+      "ない",
+      "なかった",
+      "なく",
+      "ありません"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 2
+  },
+  {
+    "id": 28,
+    "question": "<b>先生もどうぞ風邪をひかれ（　）ように。</b>",
+    "options": [
+      "ます",
+      "ません",
+      "ない",
+      "なかった"
+    ],
+    "correctAnswer": 1,
+    "difficulty": 2
+  },
+  {
+    "id": 29,
+    "question": "<b>休みの日は、DVDを見たり、本を読んだり（　）。</b>",
+    "options": [
+      "するようだ",
+      "している",
+      "したままだ",
+      "される"
+    ],
+    "correctAnswer": 1,
+    "difficulty": 2
+  },
+  {
+    "id": 30,
+    "question": "<b>この店のメニューは多くて、甘かったり辛かったり（　）。</b>",
+    "options": [
+      "します",
+      "なる",
+      "ある",
+      "みせる"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 2
+  }
+]

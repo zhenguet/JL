@@ -1,1 +1,482 @@
-﻿[]
+[
+  {
+    "id": 1,
+    "question": "<b><ruby>一期一会<rp>（</rp><rt>いちごいちえ</rt><rp>）</rp></ruby></b> có nghĩa là gì?",
+    "options": [
+      "cuộc gặp gỡ hằng ngày",
+      "gặp một lần để nhớ nhau mãi mãi",
+      "gặp lại nhiều lần trong đời",
+      "gặp gỡ tình cờ, không quan trọng"
+    ],
+    "correctAnswer": 1,
+    "difficulty": 1
+  },
+  {
+    "id": 2,
+    "question": "<b><ruby>学<rp>（</rp><rt>まな</rt><rp>）</rp></ruby>ぶ</b> có nghĩa gần nhất với đáp án nào?",
+    "options": [
+      "chơi",
+      "làm việc",
+      "học",
+      "nghỉ ngơi"
+    ],
+    "correctAnswer": 2,
+    "difficulty": 1
+  },
+  {
+    "id": 3,
+    "question": "<b><ruby>一生<rp>（</rp><rt>いっしょう</rt><rp>）</rp></ruby></b> dùng để chỉ điều gì?",
+    "options": [
+      "một ngày",
+      "một tuần",
+      "một năm",
+      "suốt cuộc đời"
+    ],
+    "correctAnswer": 3,
+    "difficulty": 1
+  },
+  {
+    "id": 4,
+    "question": "<b><ruby>店員<rp>（</rp><rt>てんいん</rt><rp>）</rp></ruby></b> là ai?",
+    "options": [
+      "khách hàng",
+      "nhân viên cửa hàng",
+      "giám đốc",
+      "bảo vệ"
+    ],
+    "correctAnswer": 1,
+    "difficulty": 1
+  },
+  {
+    "id": 5,
+    "question": "<b><ruby>就職<rp>（</rp><rt>しゅうしょく</rt><rp>）</rp></ruby>する</b> có nghĩa là gì?",
+    "options": [
+      "nghỉ việc",
+      "xin việc, tìm được việc",
+      "chuyển việc",
+      "làm thêm"
+    ],
+    "correctAnswer": 1,
+    "difficulty": 1
+  },
+  {
+    "id": 6,
+    "question": "<b><ruby>うがい</ruby></b> là hành động nào?",
+    "options": [
+      "rửa tay",
+      "rửa mặt",
+      "súc miệng",
+      "đánh răng"
+    ],
+    "correctAnswer": 2,
+    "difficulty": 1
+  },
+  {
+    "id": 7,
+    "question": "<b>ビタミンCを<ruby>取<rp>（</rp><rt>と</rt><rp>）</rp></ruby>る</b> nghĩa là gì?",
+    "options": [
+      "bỏ vitamin C",
+      "uống / bổ sung vitamin C",
+      "đọc về vitamin C",
+      "bán vitamin C"
+    ],
+    "correctAnswer": 1,
+    "difficulty": 1
+  },
+  {
+    "id": 8,
+    "question": "<b><ruby>太鼓<rp>（</rp><rt>たいこ</rt><rp>）</rp></ruby></b> là gì?",
+    "options": [
+      "trống",
+      "chuông",
+      "kèn",
+      "đàn"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 1
+  },
+  {
+    "id": 9,
+    "question": "<b><ruby>着陸<rp>（</rp><rt>ちゃくりく</rt><rp>）</rp></ruby>する</b> thường dùng với phương tiện nào?",
+    "options": [
+      "xe đạp",
+      "tàu điện",
+      "máy bay",
+      "ô tô"
+    ],
+    "correctAnswer": 2,
+    "difficulty": 1
+  },
+  {
+    "id": 10,
+    "question": "<b><ruby>費用<rp>（</rp><rt>ひよう</rt><rp>）</rp></ruby></b> có nghĩa là gì?",
+    "options": [
+      "kế hoạch",
+      "thời gian",
+      "chi phí",
+      "kết quả"
+    ],
+    "correctAnswer": 2,
+    "difficulty": 1
+  },
+  {
+    "id": 11,
+    "question": "<b><ruby>交渉<rp>（</rp><rt>こうしょう</rt><rp>）</rp></ruby>する</b> nghĩa là gì?",
+    "options": [
+      "bàn bạc, thương thảo",
+      "chào hỏi",
+      "giới thiệu",
+      "tạm biệt"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 1
+  },
+  {
+    "id": 12,
+    "question": "<b><ruby>延期<rp>（</rp><rt>えんき</rt><rp>）</rp></ruby>する</b> là:",
+    "options": [
+      "hủy bỏ",
+      "hoãn lại",
+      "tiến hành sớm hơn",
+      "kéo dài mãi mãi"
+    ],
+    "correctAnswer": 1,
+    "difficulty": 1
+  },
+  {
+    "id": 13,
+    "question": "<b><ruby>担当者<rp>（</rp><rt>たんとうしゃ</rt><rp>）</rp></ruby></b> là người như thế nào?",
+    "options": [
+      "người dự họp",
+      "người phụ trách",
+      "khách mời",
+      "thư ký"
+    ],
+    "correctAnswer": 1,
+    "difficulty": 1
+  },
+  {
+    "id": 14,
+    "question": "<b><ruby>記者<rp>（</rp><rt>きしゃ</rt><rp>）</rp></ruby>会見<rp>（</rp><rt>かいけん</rt><rp>）</rp></ruby></b> là:",
+    "options": [
+      "buổi họp báo",
+      "buổi hòa nhạc",
+      "buổi liên hoan",
+      "buổi họp lớp"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 1
+  },
+  {
+    "id": 15,
+    "question": "<b><ruby>世<rp>（</rp><rt>よ</rt><rp>）</rp></ruby>の中</b> có nghĩa là gì?",
+    "options": [
+      "trong nhà",
+      "thế giới, xã hội",
+      "trên núi",
+      "dưới biển"
+    ],
+    "correctAnswer": 1,
+    "difficulty": 1
+  },
+  {
+    "id": 16,
+    "question": "<b><ruby>想像<rp>（</rp><rt>そうぞう</rt><rp>）</rp></ruby>する</b> nghĩa là:",
+    "options": [
+      "tưởng tượng",
+      "tính toán",
+      "phân tích",
+      "giải thích"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 1
+  },
+  {
+    "id": 17,
+    "question": "<b><ruby>具体的<rp>（</rp><rt>ぐたいてき</rt><rp>）</rp></ruby>[な]</b> trái nghĩa với từ nào?",
+    "options": [
+      "現実的[な]",
+      "抽象的[な]",
+      "積極的[な]",
+      "消極的[な]"
+    ],
+    "correctAnswer": 1,
+    "difficulty": 2
+  },
+  {
+    "id": 18,
+    "question": "<b><ruby>理想<rp>（</rp><rt>りそう</rt><rp>）</rp></ruby></b> là:",
+    "options": [
+      "thực tế",
+      "lý tưởng",
+      "kỳ vọng thấp",
+      "dự đoán"
+    ],
+    "correctAnswer": 1,
+    "difficulty": 1
+  },
+  {
+    "id": 19,
+    "question": "<b><ruby>現在<rp>（</rp><rt>げんざい</rt><rp>）</rp></ruby></b> nghĩa là gì?",
+    "options": [
+      "quá khứ",
+      "tương lai",
+      "hiện tại",
+      "một lúc nào đó"
+    ],
+    "correctAnswer": 2,
+    "difficulty": 1
+  },
+  {
+    "id": 20,
+    "question": "<b><ruby>暗<rp>（</rp><rt>くら</rt><rp>）</rp></ruby>い[<ruby>気持<rp>（</rp><rt>きも</rt><rp>）</rp></ruby>ちが～]</b> diễn tả tâm trạng như thế nào?",
+    "options": [
+      "vui vẻ",
+      "u ám, buồn rầu",
+      "hào hứng",
+      "hồi hộp"
+    ],
+    "correctAnswer": 1,
+    "difficulty": 1
+  },
+  {
+    "id": 21,
+    "question": "<b>「<ruby>田中<rp>（</rp><rt>たなか</rt><rp>）</rp></ruby>さんは昨日何て言っていましたか。」</b><br/>Trong câu này, 「何て」 tương đương với cách nói lịch sự nào?",
+    "options": [
+      "何と",
+      "何に",
+      "何が",
+      "何を"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 2
+  },
+  {
+    "id": 22,
+    "question": "<b>「今日は休むって言っていました。」</b><br/>Mẫu ngữ pháp được dùng là:",
+    "options": [
+      "～と　言っていました",
+      "～という　言っていました",
+      "～って　言っていました",
+      "～て　言っていました（chỉ thể て của động từ）"
+    ],
+    "correctAnswer": 2,
+    "difficulty": 2
+  },
+  {
+    "id": 23,
+    "question": "<b>「この漢字は何って読むんですか。」</b><br/>Ý của câu hỏi là gì?",
+    "options": [
+      "Chữ Hán này viết như thế nào?",
+      "Chữ Hán này nghĩa là gì?",
+      "Chữ Hán này dùng ở đâu?",
+      "Chữ Hán này đọc như thế nào?"
+    ],
+    "correctAnswer": 3,
+    "difficulty": 2
+  },
+  {
+    "id": 24,
+    "question": "<b>「<ruby>函館<rp>（</rp><rt>はこだて</rt><rp>）</rp></ruby>って、どんな町？」</b><br/>Chức năng của「って」ở đây là gì?",
+    "options": [
+      "trích dẫn, hỏi về X",
+      "diễn tả lý do",
+      "so sánh",
+      "nhấn mạnh chủ ngữ"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 2
+  },
+  {
+    "id": 25,
+    "question": "<b>「メンタルトレーニングっておもしろい！」</b><br/>Câu này có thể hiểu là:",
+    "options": [
+      "Tôi không biết \"rèn luyện tinh thần\" là gì.",
+      "Cái gọi là \"rèn luyện tinh thần\" thật thú vị.",
+      "Tôi không thích rèn luyện tinh thần.",
+      "Rèn luyện tinh thần rất khó."
+    ],
+    "correctAnswer": 1,
+    "difficulty": 1
+  },
+  {
+    "id": 26,
+    "question": "<b>「卒業後は就職するつもりです。」</b><br/>Ý nghĩa đúng nhất:",
+    "options": [
+      "Sau khi tốt nghiệp, chắc sẽ đi du học.",
+      "Sau khi tốt nghiệp, có ý định xin việc.",
+      "Sau khi tốt nghiệp, không nghĩ gì cả.",
+      "Sau khi tốt nghiệp, buộc phải đi làm."
+    ],
+    "correctAnswer": 1,
+    "difficulty": 2
+  },
+  {
+    "id": 27,
+    "question": "<b>「大学院に行くつもりはありません。」</b><br/>Mẫu「Vつもりはない」biểu thị:",
+    "options": [
+      "không thể làm V",
+      "không có ý định làm V",
+      "không biết có làm V hay không",
+      "chắc chắn sẽ làm V"
+    ],
+    "correctAnswer": 1,
+    "difficulty": 2
+  },
+  {
+    "id": 28,
+    "question": "<b>A：1週間くらい休みを取ったらどうですか。<br/>B：いえ、そのつもりはありません。</b><br/>Câu trả lời của B thể hiện thái độ như thế nào?",
+    "options": [
+      "Phủ định nhẹ nhàng ý kiến của A.",
+      "Đồng ý ngay với A.",
+      "Phủ định khá mạnh ý kiến của A.",
+      "Không nghe thấy A nói gì."
+    ],
+    "correctAnswer": 2,
+    "difficulty": 2
+  },
+  {
+    "id": 29,
+    "question": "<b>「電話するつもりでしたが、忘れてしまいました。」</b><br/>Mẫu「～つもりでしたが、…」dùng để:",
+    "options": [
+      "nói về dự định đã thực hiện xong",
+      "nói về dự định đã thay đổi, không thực hiện",
+      "nói về thói quen hiện tại",
+      "nói về khả năng trong tương lai"
+    ],
+    "correctAnswer": 1,
+    "difficulty": 2
+  },
+  {
+    "id": 30,
+    "question": "<b>「パーティーには行かないつもりでしたが、おもしろそうなので行くことにしました。」</b><br/>Câu này thể hiện điều gì?",
+    "options": [
+      "Ban đầu không định đi nhưng đã đổi ý đi.",
+      "Ban đầu định đi nhưng đã hủy.",
+      "Không hứng thú với buổi tiệc.",
+      "Bị bắt buộc phải đi."
+    ],
+    "correctAnswer": 0,
+    "difficulty": 2
+  },
+  {
+    "id": 31,
+    "question": "<b>「かぎがかかっていませんでしたよ。」「すみません、かけたつもりでした。」</b><br/>Ý nghĩa của「かけたつもりでした」là:",
+    "options": [
+      "thực tế đã khóa và nghĩ là khóa",
+      "thực tế chưa khóa nhưng cứ tưởng là mình đã khóa",
+      "không định khóa cửa",
+      "cố tình để mở cửa"
+    ],
+    "correctAnswer": 1,
+    "difficulty": 2
+  },
+  {
+    "id": 32,
+    "question": "<b>「わたしは一生懸命やっているつもりです。」</b><br/>Từ「つもり」trong câu này thể hiện:",
+    "options": [
+      "sự chắc chắn của người nói",
+      "sự đánh giá khách quan của người khác",
+      "cảm giác chủ quan \"cho rằng là như vậy\"",
+      "sự bắt buộc từ người khác"
+    ],
+    "correctAnswer": 2,
+    "difficulty": 2
+  },
+  {
+    "id": 33,
+    "question": "<b>「弟はいつもコンピューターゲームをしてばかりいる。」</b><br/>Mẫu「Vてばかりいる」thường mang sắc thái gì?",
+    "options": [
+      "khen ngợi",
+      "mô tả trung lập",
+      "chê trách / bất mãn",
+      "ngạc nhiên tích cực"
+    ],
+    "correctAnswer": 2,
+    "difficulty": 2
+  },
+  {
+    "id": 34,
+    "question": "<b>「そんなに甘いものばかり食べていたら、歯が悪くなりますよ。」</b><br/>Ý nào đúng?",
+    "options": [
+      "Khuyên nên ăn nhiều đồ ngọt hơn.",
+      "Cảnh báo nếu chỉ ăn đồ ngọt thì răng sẽ xấu đi.",
+      "Khen răng rất khỏe.",
+      "Nói rằng răng đã hỏng rồi."
+    ],
+    "correctAnswer": 1,
+    "difficulty": 2
+  },
+  {
+    "id": 35,
+    "question": "<b>「テニスとか水泳とかを始めてみるといいですよ。」</b><br/>Chức năng của「とか…とか」ở đây là gì?",
+    "options": [
+      "liệt kê toàn bộ",
+      "liệt kê vài ví dụ tiêu biểu",
+      "nối hai vế trái nghĩa",
+      "diễn tả nguyên nhân"
+    ],
+    "correctAnswer": 1,
+    "difficulty": 2
+  },
+  {
+    "id": 36,
+    "question": "<b>「子どものとき、母に『勉強しろ』とか『たくさん食べなさい』とかよく言われました。」</b><br/>Câu này nói về điều gì?",
+    "options": [
+      "Mẹ ít khi nói gì.",
+      "Thường được mẹ nói nhiều điều như \"học đi\", \"ăn nhiều vào\".",
+      "Mẹ cấm không cho học.",
+      "Mẹ luôn im lặng."
+    ],
+    "correctAnswer": 1,
+    "difficulty": 1
+  },
+  {
+    "id": 37,
+    "question": "<b>「暗くなって、星が見えてきた。」</b><br/>Mẫu「見えてきた」thể hiện điều gì?",
+    "options": [
+      "sao luôn luôn ở đó",
+      "sao dần dần xuất hiện và giờ có thể nhìn thấy",
+      "sao biến mất",
+      "sao di chuyển về phía người nói"
+    ],
+    "correctAnswer": 1,
+    "difficulty": 2
+  },
+  {
+    "id": 38,
+    "question": "<b>「隣の家からいいにおいがしてきた。」</b><br/>Ý nghĩa gần nhất là:",
+    "options": [
+      "Mùi thơm dần dần bay tới từ nhà bên.",
+      "Mùi thơm biến mất ở nhà bên.",
+      "Nhà bên hết mùi thơm.",
+      "Không ngửi thấy gì."
+    ],
+    "correctAnswer": 0,
+    "difficulty": 2
+  },
+  {
+    "id": 39,
+    "question": "<b>「兄が旅行から帰ってきた。」</b><br/>Ở đây「帰ってきた」nhấn mạnh hướng di chuyển như thế nào?",
+    "options": [
+      "rời xa người nói",
+      "hướng về phía người nói / nơi người nói đang ở",
+      "không rõ hướng",
+      "đi lòng vòng rồi quay lại"
+    ],
+    "correctAnswer": 1,
+    "difficulty": 2
+  },
+  {
+    "id": 40,
+    "question": "<b>「授業のあと、学生たちはうちへ帰っていった。」</b><br/>「帰っていった」khác với「帰ってきた」ở điểm nào?",
+    "options": [
+      "hướng đi khỏi chỗ người nói",
+      "lịch sự hơn",
+      "quá khứ xa hơn",
+      "không có sự khác biệt"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 2
+  }
+]

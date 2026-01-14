@@ -1,1 +1,842 @@
-﻿[]
+[
+  {
+    "id": 1,
+    "question": "<b>ふく［ガラスを～］</b>",
+    "options": [
+      "lau, chùi [cửa kính]",
+      "bảo vệ [trái đất]",
+      "phơi (quần áo)",
+      "kẻ [một đường]"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 1
+  },
+  {
+    "id": 2,
+    "question": "<b><ruby>結果<rp>（</rp><rt>けっか</rt><rp>）</rp></ruby></b>",
+    "options": [
+      "kết quả",
+      "bài báo",
+      "sự kiện, vụ án",
+      "khu vực"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 1
+  },
+  {
+    "id": 3,
+    "question": "<b><ruby>外来語<rp>（</rp><rt>がいらいご</rt><rp>）</rp></ruby></b>",
+    "options": [
+      "bài văn",
+      "từ ngoại lai",
+      "môi trường",
+      "dinh dưỡng"
+    ],
+    "correctAnswer": 1,
+    "difficulty": 1
+  },
+  {
+    "id": 4,
+    "question": "<b><ruby>守<rp>（</rp><rt>まも</rt><rp>）</rp></ruby>る［地球を～］</b>",
+    "options": [
+      "bảo vệ [trái đất]",
+      "chia, phân loại [rác]",
+      "nói [dối]",
+      "cướp đi, đoạt"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 1
+  },
+  {
+    "id": 5,
+    "question": "<b><ruby>外来語<rp>（</rp><rt>がいらいご</rt><rp>）</rp></ruby>というのは日本語になった外国語のことだ。</b>",
+    "options": [
+      "“Ngoại ngữ” là tiếng Nhật đã trở thành tiếng nước ngoài.",
+      "“Từ ngoại lai” là tiếng ngoại quốc đã trở thành tiếng Nhật.",
+      "“Từ ngoại lai” là tiếng Nhật thuần túy.",
+      "“Ngoại ngữ” là ngôn ngữ dùng ở nước ngoài."
+    ],
+    "correctAnswer": 1,
+    "difficulty": 2
+  },
+  {
+    "id": 6,
+    "question": "<b>ソフトウェア</b>",
+    "options": [
+      "phần mềm",
+      "phần cứng",
+      "bản sắc",
+      "chính sách"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 1
+  },
+  {
+    "id": 7,
+    "question": "<b>メール</b>",
+    "options": [
+      "đường bưu điện, bưu phẩm",
+      "email, thư điện tử",
+      "địa chỉ email",
+      "địa chỉ"
+    ],
+    "correctAnswer": 1,
+    "difficulty": 1
+  },
+  {
+    "id": 8,
+    "question": "<b><ruby>郵便<rp>（</rp><rt>ゆうびん</rt><rp>）</rp></ruby></b>",
+    "options": [
+      "đường bưu điện, bưu phẩm",
+      "email, thư điện tử",
+      "cuộc thi rô bốt",
+      "ngày nghỉ"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 1
+  },
+  {
+    "id": 9,
+    "question": "<b><ruby>栄養<rp>（</rp><rt>えいよう</rt><rp>）</rp></ruby></b>",
+    "options": [
+      "dinh dưỡng",
+      "năng lượng",
+      "cân bằng",
+      "tỷ lệ phần trăm"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 1
+  },
+  {
+    "id": 10,
+    "question": "<b>カロリー</b>",
+    "options": [
+      "cơm",
+      "calori",
+      "nước cam",
+      "gạo"
+    ],
+    "correctAnswer": 1,
+    "difficulty": 1
+  },
+  {
+    "id": 11,
+    "question": "<b>エコ</b>",
+    "options": [
+      "bản sắc",
+      "sinh thái, quan tâm đến môi trường",
+      "cuộc hẹn",
+      "bài thuyết trình"
+    ],
+    "correctAnswer": 1,
+    "difficulty": 1
+  },
+  {
+    "id": 12,
+    "question": "<b><ruby>環境<rp>（</rp><rt>かんきょう</rt><rp>）</rp></ruby></b>",
+    "options": [
+      "môi trường",
+      "khu vực",
+      "trường hợp",
+      "bạn thân"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 1
+  },
+  {
+    "id": 13,
+    "question": "<b>うわさ</b>",
+    "options": [
+      "tin đồn, lời đồn",
+      "bài báo",
+      "bài văn",
+      "chính sách"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 1
+  },
+  {
+    "id": 14,
+    "question": "<b><ruby>学習<rp>（</rp><rt>がくしゅう</rt><rp>）</rp></ruby>する</b>",
+    "options": [
+      "học tập",
+      "so sánh",
+      "phân loại",
+      "kẻ [một đường]"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 1
+  },
+  {
+    "id": 15,
+    "question": "<b><ruby>記事<rp>（</rp><rt>きじ</rt><rp>）</rp></ruby></b>",
+    "options": [
+      "bài báo (trên một tờ báo, tạp chí, v.v.)",
+      "bài văn",
+      "kết quả",
+      "cuộc thi rô bốt"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 1
+  },
+  {
+    "id": 16,
+    "question": "<b><ruby>分<rp>（</rp><rt>わ</rt><rp>）</rp></ruby>ける［ごみを～］</b>",
+    "options": [
+      "chia, phân loại [rác]",
+      "cướp đi, đoạt",
+      "phơi (quần áo)",
+      "bảo vệ [trái đất]"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 1
+  },
+  {
+    "id": 17,
+    "question": "<b><ruby>奪<rp>（</rp><rt>うば</rt><rp>）</rp></ruby>う</b>",
+    "options": [
+      "so sánh",
+      "cướp đi, đoạt",
+      "nói [dối]",
+      "phơi (quần áo)"
+    ],
+    "correctAnswer": 1,
+    "difficulty": 1
+  },
+  {
+    "id": 18,
+    "question": "<b><ruby>干<rp>（</rp><rt>ほ</rt><rp>）</rp></ruby>す</b>",
+    "options": [
+      "phơi",
+      "lau, chùi",
+      "kẻ [một đường]",
+      "đeo vào [cánh tay]"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 1
+  },
+  {
+    "id": 19,
+    "question": "<b>～<ruby>以外<rp>（</rp><rt>いがい</rt><rp>）</rp></ruby></b>",
+    "options": [
+      "trường hợp",
+      "bản thân, chính (mình)",
+      "ngoài ra, ngoại trừ",
+      "bình thường"
+    ],
+    "correctAnswer": 2,
+    "difficulty": 2
+  },
+  {
+    "id": 20,
+    "question": "<b>つく［うそを～］</b>",
+    "options": [
+      "nói [dối]",
+      "cướp đi, đoạt",
+      "bảo vệ",
+      "phân loại"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 1
+  },
+  {
+    "id": 21,
+    "question": "<b>ロボット</b>",
+    "options": [
+      "robot",
+      "cuộc thi rô bốt",
+      "bản sắc",
+      "chính sách"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 1
+  },
+  {
+    "id": 22,
+    "question": "<b><ruby>本物<rp>（</rp><rt>ほんもの</rt><rp>）</rp></ruby></b>",
+    "options": [
+      "hàng giả",
+      "đồ thật",
+      "bản sắc",
+      "chính sách"
+    ],
+    "correctAnswer": 1,
+    "difficulty": 1
+  },
+  {
+    "id": 23,
+    "question": "<b>飛ぶ［空を～］</b>",
+    "options": [
+      "bay [trên trời]",
+      "học tập",
+      "kẻ [một đường]",
+      "lau [cửa kính]"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 1
+  },
+  {
+    "id": 24,
+    "question": "<b>パジャマ</b>",
+    "options": [
+      "bộ đồ ngủ",
+      "đồ thể thao",
+      "áo khoác",
+      "đồ lót"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 1
+  },
+  {
+    "id": 25,
+    "question": "<b><ruby>四角<rp>（</rp><rt>しかく</rt><rp>）</rp></ruby>い</b>",
+    "options": [
+      "tròn",
+      "vuông",
+      "tam giác",
+      "dài"
+    ],
+    "correctAnswer": 1,
+    "difficulty": 1
+  },
+  {
+    "id": 26,
+    "question": "<b><ruby>腕<rp>（</rp><rt>うで</rt><rp>）</rp></ruby></b>",
+    "options": [
+      "chân",
+      "tay",
+      "đầu",
+      "lưng"
+    ],
+    "correctAnswer": 1,
+    "difficulty": 1
+  },
+  {
+    "id": 27,
+    "question": "<b>つける［腕に～］</b>",
+    "options": [
+      "cởi ra",
+      "đeo vào [cánh tay]",
+      "ném đi",
+      "mở ra"
+    ],
+    "correctAnswer": 1,
+    "difficulty": 1
+  },
+  {
+    "id": 28,
+    "question": "<b>ふるさと</b>",
+    "options": [
+      "thủ đô",
+      "quê hương",
+      "trung tâm thành phố",
+      "nước ngoài"
+    ],
+    "correctAnswer": 1,
+    "difficulty": 1
+  },
+  {
+    "id": 29,
+    "question": "<b><ruby>話<rp>（</rp><rt>はな</rt><rp>）</rp></ruby>しかける</b>",
+    "options": [
+      "nói với, bắt chuyện",
+      "cướp đi",
+      "phơi",
+      "so sánh"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 1
+  },
+  {
+    "id": 30,
+    "question": "<b><ruby>不在連絡票<rp>（</rp><rt>ふざいれんらくひょう</rt><rp>）</rp></ruby></b>",
+    "options": [
+      "giấy báo đã ghé chuyển hàng đến nhưng người nhận vắng nhà",
+      "giấy báo mất nước",
+      "hóa đơn tiền điện",
+      "giấy báo kết quả"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 2
+  },
+  {
+    "id": 31,
+    "question": "<b>～<ruby>宅<rp>（</rp><rt>たく</rt><rp>）</rp></ruby></b>",
+    "options": [
+      "trường hợp",
+      "nhà (hậu tố)",
+      "bản thân",
+      "sự cần thiết"
+    ],
+    "correctAnswer": 1,
+    "difficulty": 2
+  },
+  {
+    "id": 32,
+    "question": "<b><ruby>休日<rp>（</rp><rt>きゅうじつ</rt><rp>）</rp></ruby></b>",
+    "options": [
+      "ngày thường",
+      "ngày nghỉ",
+      "ngày làm thêm",
+      "ngày học"
+    ],
+    "correctAnswer": 1,
+    "difficulty": 1
+  },
+  {
+    "id": 33,
+    "question": "<b><ruby>断水<rp>（</rp><rt>だんすい</rt><rp>）</rp></ruby></b>",
+    "options": [
+      "mất nước",
+      "mất điện",
+      "thi công",
+      "bão"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 1
+  },
+  {
+    "id": 34,
+    "question": "<b>リモコン</b>",
+    "options": [
+      "cái điều khiển từ xa",
+      "robot",
+      "bản sắc",
+      "bưu phẩm"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 1
+  },
+  {
+    "id": 35,
+    "question": "<b>ロボコン</b>",
+    "options": [
+      "robot",
+      "cuộc thi rô bốt",
+      "bản sắc",
+      "bài báo"
+    ],
+    "correctAnswer": 1,
+    "difficulty": 1
+  },
+  {
+    "id": 36,
+    "question": "<b><ruby>苦手<rp>（</rp><rt>にがて</rt><rp>）</rp></ruby>［な］</b>",
+    "options": [
+      "giỏi",
+      "kém, không giỏi",
+      "chính xác",
+      "cân bằng"
+    ],
+    "correctAnswer": 1,
+    "difficulty": 1
+  },
+  {
+    "id": 37,
+    "question": "<b><ruby>紛<rp>（</rp><rt>まぎ</rt><rp>）</rp></ruby>らわしい</b>",
+    "options": [
+      "rõ ràng",
+      "không rõ ràng, gây bối rối",
+      "chính xác",
+      "bình thường"
+    ],
+    "correctAnswer": 1,
+    "difficulty": 2
+  },
+  {
+    "id": 38,
+    "question": "<b><ruby>正確<rp>（</rp><rt>せいかく</rt><rp>）</rp></ruby>［な］</b>",
+    "options": [
+      "chính xác",
+      "khoảng chừng",
+      "bình thường",
+      "quan trọng"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 1
+  },
+  {
+    "id": 39,
+    "question": "<b>バランス</b>",
+    "options": [
+      "kết quả",
+      "cân bằng",
+      "dinh dưỡng",
+      "tỷ lệ phần trăm"
+    ],
+    "correctAnswer": 1,
+    "difficulty": 1
+  },
+  {
+    "id": 40,
+    "question": "<b>引く［線を～］</b>",
+    "options": [
+      "kẻ [một đường]",
+      "lau [cửa kính]",
+      "bảo vệ [trái đất]",
+      "phân loại [rác]"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 1
+  },
+  {
+    "id": 41,
+    "question": "<b><ruby>文章<rp>（</rp><rt>ぶんしょう</rt><rp>）</rp></ruby></b>",
+    "options": [
+      "bài báo",
+      "bài văn",
+      "kết quả",
+      "trường hợp"
+    ],
+    "correctAnswer": 1,
+    "difficulty": 1
+  },
+  {
+    "id": 42,
+    "question": "<b><ruby>比<rp>（</rp><rt>くら</rt><rp>）</rp></ruby>べる</b>",
+    "options": [
+      "học tập",
+      "so sánh",
+      "phơi",
+      "cướp đi"
+    ],
+    "correctAnswer": 1,
+    "difficulty": 1
+  },
+  {
+    "id": 43,
+    "question": "<b><ruby>宇宙人<rp>（</rp><rt>うちゅうじん</rt><rp>）</rp></ruby></b>",
+    "options": [
+      "phi hành gia",
+      "người ngoài hành tinh",
+      "nhà khoa học",
+      "phi công"
+    ],
+    "correctAnswer": 1,
+    "difficulty": 1
+  },
+  {
+    "id": 44,
+    "question": "<b><ruby>必要<rp>（</rp><rt>ひつよう</rt><rp>）</rp></ruby></b>",
+    "options": [
+      "sự cần thiết",
+      "sự bất cần thiết",
+      "sự cấm đoán",
+      "sự cho phép"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 1
+  },
+  {
+    "id": 45,
+    "question": "<b><ruby>場合<rp>（</rp><rt>ばあい</rt><rp>）</rp></ruby></b>",
+    "options": [
+      "trường hợp",
+      "kết quả",
+      "khu vực",
+      "bài báo"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 1
+  },
+  {
+    "id": 46,
+    "question": "<b><ruby>友人<rp>（</rp><rt>ゆうじん</rt><rp>）</rp></ruby></b>",
+    "options": [
+      "bạn thân",
+      "người quen",
+      "đồng nghiệp",
+      "người lạ"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 1
+  },
+  {
+    "id": 47,
+    "question": "<b>メールアドレス</b>",
+    "options": [
+      "địa chỉ email",
+      "địa chỉ nhà",
+      "địa chỉ công ty",
+      "địa chỉ IP"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 1
+  },
+  {
+    "id": 48,
+    "question": "<b>プレゼン</b>",
+    "options": [
+      "bản sắc",
+      "bài thuyết trình",
+      "bài văn",
+      "bài báo"
+    ],
+    "correctAnswer": 1,
+    "difficulty": 1
+  },
+  {
+    "id": 49,
+    "question": "<b>コンプライアンス</b>",
+    "options": [
+      "sự tuân thủ luật, làm đúng luật",
+      "sự cần thiết",
+      "bản sắc",
+      "chính sách"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 2
+  },
+  {
+    "id": 50,
+    "question": "<b>「<ruby>禁煙<rp>（</rp><rt>きんえん</rt><rp>）</rp></ruby>」というのはたばこを吸ってはいけないということです。</b>",
+    "options": [
+      "“Cấm hút thuốc” có nghĩa là phải hút thuốc.",
+      "“Cấm hút thuốc” có nghĩa là không được hút thuốc.",
+      "“Cấm hút thuốc” có nghĩa là được hút ít.",
+      "“Cấm hút thuốc” có nghĩa là chỉ hút ngoài trời."
+    ],
+    "correctAnswer": 1,
+    "difficulty": 2
+  },
+  {
+    "id": 51,
+    "question": "<b><ruby>薬<rp>（</rp><rt>くすり</rt><rp>）</rp></ruby>を飲んだら、元気になりました。</b><p>Câu này diễn tả ý gì?</p>",
+    "options": [
+      "Trước khi uống thuốc tôi đã khỏe.",
+      "Vì uống thuốc nên sau đó tôi khỏe hơn.",
+      "Nếu uống thuốc thì có lẽ sẽ khỏe.",
+      "Uống thuốc nhưng vẫn không khỏe."
+    ],
+    "correctAnswer": 1,
+    "difficulty": 2
+  },
+  {
+    "id": 52,
+    "question": "<b><ruby>カーテン<rp>（</rp><rt>カーテン</rt><rp>）</rp></ruby>を変えたら、<ruby>部屋<rp>（</rp><rt>へや</rt><rp>）</rp></ruby>が明るくなった。</b><p>Ý nghĩa của「～たら、～た」trong câu trên là gì?</p>",
+    "options": [
+      "Khi thử thay rèm thì có thể sẽ sáng hơn.",
+      "Sau khi thay rèm, kết quả là phòng sáng hơn.",
+      "Vì phòng sáng nên đã thay rèm.",
+      "Nếu thay rèm thì sẽ tối đi."
+    ],
+    "correctAnswer": 1,
+    "difficulty": 2
+  },
+  {
+    "id": 53,
+    "question": "<b><ruby>財布<rp>（</rp><rt>さいふ</rt><rp>）</rp></ruby>の中を見たら、お金が（　）。</b>",
+    "options": [
+      "あった",
+      "なくなっていた",
+      "ふえた",
+      "おちていた"
+    ],
+    "correctAnswer": 1,
+    "difficulty": 2
+  },
+  {
+    "id": 54,
+    "question": "<b>「３Kというのは<ruby>汚<rp>（</rp><rt>きたな</rt><rp>）</rp></ruby>い、きつい、<ruby>危険<rp>（</rp><rt>きけん</rt><rp>）</rp></ruby>な仕事のことだ。」</b><p>Theo câu này, ３K nghĩa là gì?</p>",
+    "options": [
+      "Công việc lương cao.",
+      "Công việc an toàn, sạch sẽ.",
+      "Công việc bẩn thỉu, vất vả và nguy hiểm.",
+      "Công việc sử dụng máy tính."
+    ],
+    "correctAnswer": 2,
+    "difficulty": 2
+  },
+  {
+    "id": 55,
+    "question": "<b><ruby>PC<rp>（</rp><rt>ピーシー</rt><rp>）</rp></ruby>というのはパソコンのことです。</b><p>Từ nào đang được giải thích bằng mẫu「～というのは～のことだ」?</p>",
+    "options": [
+      "というのは",
+      "パソコン",
+      "PC",
+      "こと"
+    ],
+    "correctAnswer": 2,
+    "difficulty": 2
+  },
+  {
+    "id": 56,
+    "question": "<b>「<ruby>外来語<rp>（</rp><rt>がいらいご</rt><rp>）</rp></ruby>というのは、日本語になった外国語のことだ。」</b><p>Từ「<ruby>外来語<rp>（</rp><rt>がいらいご</rt><rp>）</rp></ruby>」được giải thích như thế nào?</p>",
+    "options": [
+      "Là tiếng Nhật cổ.",
+      "Là tiếng nước ngoài chưa dùng trong tiếng Nhật.",
+      "Là tiếng Nhật dùng ở nước ngoài.",
+      "Là từ ngoại quốc đã trở thành tiếng Nhật."
+    ],
+    "correctAnswer": 3,
+    "difficulty": 1
+  },
+  {
+    "id": 57,
+    "question": "<b><ruby>禁煙<rp>（</rp><rt>きんえん</rt><rp>）</rp></ruby>というのは、たばこを吸ってはいけないということです。</b><p>Câu nào tương đương về nghĩa?</p>",
+    "options": [
+      "たばこを吸ってもいいということです。",
+      "たばこを少しだけ吸ってもいいということです。",
+      "たばこを吸わないほうがいいということです。",
+      "たばこを吸うことが<ruby>禁止<rp>（</rp><rt>きんし</rt><rp>）</rp></ruby>されているということです。"
+    ],
+    "correctAnswer": 3,
+    "difficulty": 2
+  },
+  {
+    "id": 58,
+    "question": "<b><ruby>田中<rp>（</rp><rt>たなか</rt><rp>）</rp></ruby>さんがもうすぐ会社をやめるといううわさを聞きました。</b><p>Phần được gạch chân ngữ pháp là:</p>",
+    "options": [
+      "というのは",
+      "といううわさ",
+      "を聞きました",
+      "がもうすぐ"
+    ],
+    "correctAnswer": 1,
+    "difficulty": 2
+  },
+  {
+    "id": 59,
+    "question": "<b>ごみを分けて出すという<ruby>規則<rp>（</rp><rt>きそく</rt><rp>）</rp></ruby>はなかなか<ruby>守<rp>（</rp><rt>まも</rt><rp>）</rp></ruby>られていません。</b><p>Từ nào có cách đọc là「きそく」?</p>",
+    "options": [
+      "規則",
+      "規自",
+      "則自",
+      "則約"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 2
+  },
+  {
+    "id": 60,
+    "question": "<b><ruby>学生<rp>（</rp><rt>がくせい</rt><rp>）</rp></ruby>に図書館で物を食べないように注意しました。</b><p>Chọn ý đúng về mẫu「Vないように注意する」.</p>",
+    "options": [
+      "Ra lệnh trực tiếp phải làm gì.",
+      "Nhắc nhở để ai đó đừng làm V.",
+      "Miêu tả thói quen hằng ngày.",
+      "Thể hiện khả năng có thể làm được."
+    ],
+    "correctAnswer": 1,
+    "difficulty": 2
+  },
+  {
+    "id": 61,
+    "question": "<b>この仕事を今日中にやるように頼まれました。</b><p>Câu này có nghĩa là gì?</p>",
+    "options": [
+      "Tôi đã yêu cầu người khác làm công việc này hôm nay.",
+      "Tôi được yêu cầu hoàn thành công việc này trong hôm nay.",
+      "Tôi đã quyết định tự làm công việc này hôm nay.",
+      "Tôi đã làm xong công việc này hôm nay."
+    ],
+    "correctAnswer": 1,
+    "difficulty": 2
+  },
+  {
+    "id": 62,
+    "question": "<b><ruby>先生<rp>（</rp><rt>せんせい</rt><rp>）</rp></ruby>に明日までにレポートを出すように言われました。</b><p>Người nào yêu cầu nộp báo cáo?</p>",
+    "options": [
+      "Tôi yêu cầu giáo viên.",
+      "Giáo viên yêu cầu tôi.",
+      "Bạn bè yêu cầu tôi.",
+      "Tôi yêu cầu bạn bè."
+    ],
+    "correctAnswer": 1,
+    "difficulty": 2
+  },
+  {
+    "id": 63,
+    "question": "<b>子どもたちに早く寝るように言いました。</b><p>Câu này gần nghĩa với câu nào?</p>",
+    "options": [
+      "「早く寝なさい」と言いました。",
+      "「早く寝てもいいです」と言いました。",
+      "「早く寝なくてもいいです」と言いました。",
+      "「早く寝ることができません」と言いました。"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 2
+  },
+  {
+    "id": 64,
+    "question": "<b>このお酒、ジュースみたいだね。</b><p>Ý nào đúng với「ジュースみたいだ」?</p>",
+    "options": [
+      "Giống như không có vị gì.",
+      "Giống như nước hoa quả, ngọt và dễ uống.",
+      "Giống như thuốc, rất đắng.",
+      "Giống như nước, không có mùi."
+    ],
+    "correctAnswer": 1,
+    "difficulty": 1
+  },
+  {
+    "id": 65,
+    "question": "<b>夫は、カレーみたいな簡単な料理しか作れません。</b><p>Câu này nói về khả năng nấu ăn của chồng như thế nào?</p>",
+    "options": [
+      "Không nấu được món gì.",
+      "Chỉ nấu được toàn món khó.",
+      "Chỉ nấu được những món đơn giản như cà ri.",
+      "Có thể nấu mọi món ăn."
+    ],
+    "correctAnswer": 2,
+    "difficulty": 1
+  },
+  {
+    "id": 66,
+    "question": "<b>子どものころから鳥みたいに空を飛びたいと思っていた。</b><p>「鳥みたいに」biểu thị ý gì?</p>",
+    "options": [
+      "Muốn bay cao hơn chim.",
+      "Muốn bay tự do như chim.",
+      "Muốn bắt chim.",
+      "Muốn nuôi chim."
+    ],
+    "correctAnswer": 1,
+    "difficulty": 1
+  },
+  {
+    "id": 67,
+    "question": "<b>お忙しいところ、すみません。ちょっとお願いがあるんですが。</b><p>Cách nói「お忙しいところ」thích hợp trong tình huống nào?</p>",
+    "options": [
+      "Khi biết đối phương đang bận nhưng vẫn nhờ vả.",
+      "Khi giới thiệu bản thân lần đầu.",
+      "Khi than phiền với bạn bè thân.",
+      "Khi cảm ơn sau bữa ăn."
+    ],
+    "correctAnswer": 0,
+    "difficulty": 2
+  },
+  {
+    "id": 68,
+    "question": "<b>お休みのところ、手伝ってくださって、ありがとうございました。</b><p>Câu này dùng để làm gì?</p>",
+    "options": [
+      "Xin lỗi vì đã không giúp đỡ.",
+      "Cảm ơn vì đã giúp dù đang nghỉ ngơi.",
+      "Từ chối giúp đỡ người khác.",
+      "Đề nghị nghỉ phép."
+    ],
+    "correctAnswer": 1,
+    "difficulty": 2
+  },
+  {
+    "id": 69,
+    "question": "<b><ruby>外来語<rp>（</rp><rt>がいらいご</rt><rp>）</rp></ruby>の<ruby>例<rp>（</rp><rt>れい</rt><rp>）</rp></ruby>として、どれが<ruby>適当<rp>（</rp><rt>てきとう</rt><rp>）</rp></ruby>ですか。</b>",
+    "options": [
+      "山",
+      "川",
+      "カロリー",
+      "町"
+    ],
+    "correctAnswer": 2,
+    "difficulty": 1
+  },
+  {
+    "id": 70,
+    "question": "<b>「日本語を<ruby>学習<rp>（</rp><rt>がくしゅう</rt><rp>）</rp></ruby>する外国人が<ruby>増<rp>（</rp><rt>ふ</rt><rp>）</rp></ruby>えているという<ruby>記事<rp>（</rp><rt>きじ</rt><rp>）</rp></ruby>を読みました。」</b><p>Câu này nói điều gì?</p>",
+    "options": [
+      "Số người nước ngoài học tiếng Nhật đang giảm.",
+      "Không có người nước ngoài nào học tiếng Nhật.",
+      "Đã đọc bài báo nói số người nước ngoài học tiếng Nhật đang tăng.",
+      "Đã viết bài báo về người nước ngoài học tiếng Nhật."
+    ],
+    "correctAnswer": 2,
+    "difficulty": 2
+  }
+]

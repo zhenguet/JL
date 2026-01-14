@@ -1,1 +1,362 @@
-﻿[]
+[
+  {
+    "id": 1,
+    "question": "<b><ruby>ロボットコンテスト</ruby></b> là gì?",
+    "options": [
+      "cuộc thi viết về rô-bốt",
+      "cuộc thi chế tạo rô-bốt",
+      "cuộc thi vẽ rô-bốt",
+      "cuộc thi ảnh về rô-bốt"
+    ],
+    "correctAnswer": 1,
+    "difficulty": 1
+  },
+  {
+    "id": 2,
+    "question": "<b><ruby>ものづくり</ruby></b> dùng để chỉ điều gì?",
+    "options": [
+      "việc mua sắm",
+      "chế tạo, sản xuất",
+      "vận chuyển hàng hóa",
+      "tiêu thụ sản phẩm"
+    ],
+    "correctAnswer": 1,
+    "difficulty": 1
+  },
+  {
+    "id": 3,
+    "question": "<b><ruby>人<rp>（</rp><rt>ひと</rt><rp>）</rp></ruby>づくり</b> có nghĩa là:",
+    "options": [
+      "sản xuất hàng hóa",
+      "phát triển con người, phát triển nguồn nhân lực",
+      "xây dựng nhà cửa",
+      "tổ chức sự kiện"
+    ],
+    "correctAnswer": 1,
+    "difficulty": 1
+  },
+  {
+    "id": 4,
+    "question": "<b><ruby>評価<rp>（</rp><rt>ひょうか</rt><rp>）</rp></ruby>する</b> là:",
+    "options": [
+      "chê bai",
+      "quảng bá",
+      "đánh giá",
+      "phê bình"
+    ],
+    "correctAnswer": 2,
+    "difficulty": 1
+  },
+  {
+    "id": 5,
+    "question": "<b><ruby>提言<rp>（</rp><rt>ていげん</rt><rp>）</rp></ruby>する</b> gần nghĩa với:",
+    "options": [
+      "khuyên nhủ, đề nghị",
+      "phản đối",
+      "than phiền",
+      "báo cáo"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 1
+  },
+  {
+    "id": 6,
+    "question": "<b><ruby>的確<rp>（</rp><rt>てきかく</rt><rp>）</rp></ruby>[な]</b> dùng để khen điều gì?",
+    "options": [
+      "mơ hồ",
+      "rõ ràng, thích đáng",
+      "vui nhộn",
+      "đơn giản"
+    ],
+    "correctAnswer": 1,
+    "difficulty": 1
+  },
+  {
+    "id": 7,
+    "question": "<b><ruby>把握<rp>（</rp><rt>はあく</rt><rp>）</rp></ruby>する</b> nghĩa là:",
+    "options": [
+      "quên đi",
+      "nắm rõ",
+      "ghi chép",
+      "truyền đạt"
+    ],
+    "correctAnswer": 1,
+    "difficulty": 1
+  },
+  {
+    "id": 8,
+    "question": "<b><ruby>介護<rp>（</rp><rt>かいご</rt><rp>）</rp></ruby>ロボット</b> là rô-bốt dùng để:",
+    "options": [
+      "chơi với trẻ em",
+      "dọn dẹp nhà cửa",
+      "chăm sóc điều dưỡng",
+      "lái xe"
+    ],
+    "correctAnswer": 2,
+    "difficulty": 1
+  },
+  {
+    "id": 9,
+    "question": "<b><ruby>再利用<rp>（</rp><rt>さいりよう</rt><rp>）</rp></ruby>する</b> nghĩa là:",
+    "options": [
+      "vứt bỏ",
+      "tái sử dụng",
+      "sửa chữa",
+      "thay thế"
+    ],
+    "correctAnswer": 1,
+    "difficulty": 1
+  },
+  {
+    "id": 10,
+    "question": "Cách đọc đúng của kanji <b><ruby>達成<rp>（</rp><rt>　</rt><rp>）</rp></ruby></b> là gì?",
+    "options": [
+      "たつせい",
+      "たっせい",
+      "だっせい",
+      "だつせい"
+    ],
+    "correctAnswer": 1,
+    "difficulty": 1
+  },
+  {
+    "id": 11,
+    "question": "<b><ruby>達成<rp>（</rp><rt>たっせい</rt><rp>）</rp></ruby>感</b> dùng để chỉ:",
+    "options": [
+      "cảm giác thất bại",
+      "cảm giác đạt được thành quả",
+      "cảm giác lo lắng",
+      "cảm giác mệt mỏi"
+    ],
+    "correctAnswer": 1,
+    "difficulty": 1
+  },
+  {
+    "id": 12,
+    "question": "<b><ruby>活用<rp>（</rp><rt>かつよう</rt><rp>）</rp></ruby>する</b> gần nghĩa với:",
+    "options": [
+      "bỏ qua",
+      "tận dụng, khai thác",
+      "ngừng sử dụng",
+      "cất giữ"
+    ],
+    "correctAnswer": 1,
+    "difficulty": 1
+  },
+  {
+    "id": 13,
+    "question": "<b><ruby>節約<rp>（</rp><rt>せつやく</rt><rp>）</rp></ruby>する</b> nghĩa là gì?",
+    "options": [
+      "tiết kiệm",
+      "tiêu xài",
+      "vay mượn",
+      "đầu tư"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 1
+  },
+  {
+    "id": 14,
+    "question": "<b><ruby>部品<rp>（</rp><rt>ぶひん</rt><rp>）</rp></ruby></b> chỉ:",
+    "options": [
+      "sản phẩm hoàn chỉnh",
+      "linh kiện",
+      "bản vẽ thiết kế",
+      "dây điện"
+    ],
+    "correctAnswer": 1,
+    "difficulty": 1
+  },
+  {
+    "id": 15,
+    "question": "<b><ruby>車輪<rp>（</rp><rt>しゃりん</rt><rp>）</rp></ruby></b> là:",
+    "options": [
+      "lốp xe",
+      "bánh xe",
+      "trục xe",
+      "phanh xe"
+    ],
+    "correctAnswer": 1,
+    "difficulty": 1
+  },
+  {
+    "id": 16,
+    "question": "Mẫu nào dùng đúng với <b>～を対象に</b>?",
+    "options": [
+      "<b>子供を対象にしてゲームを作った。</b>",
+      "<b>子供が対象にゲームを作った。</b>",
+      "<b>子供は対象にゲームを作った。</b>",
+      "<b>子供と対象にしてゲームを作った。</b>"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 2
+  },
+  {
+    "id": 17,
+    "question": "Chọn câu đúng với mẫu <b>N を対象に</b>:<br/><br/>“Đã tiến hành khảo sát với đối tượng là sinh viên.”",
+    "options": [
+      "<b>学生を対象に調査した。</b>",
+      "<b>学生が対象に調査した。</b>",
+      "<b>学生と対象に調査した。</b>",
+      "<b>学生に対象を調査した。</b>"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 2
+  },
+  {
+    "id": 18,
+    "question": "Chọn câu dùng đúng mẫu <b>～ばかりではなく</b>:",
+    "options": [
+      "<b>このロボットは子供ばかりではなく、大人にも人気がある。</b>",
+      "<b>このロボットは子供だけではなくて、大人も人気がある。</b>",
+      "<b>このロボットは子供ばかりでなくて、大人が人気がある。</b>",
+      "<b>このロボットは子供だけばかりではなく、大人にも人気だ。</b>"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 2
+  },
+  {
+    "id": 19,
+    "question": "<b>「難しい練習を通じて、技術だけでなく、どんな困難にも負けない心が養われたと思います。」</b><br/>Trong câu này, cụm <b><ruby>練習<rp>（</rp><rt>れんしゅう</rt><rp>）</rp></ruby>を通じて</b> tương đương với ý nào?",
+    "options": [
+      "vì luyện tập nên...",
+      "bằng việc luyện tập nên...",
+      "sau khi luyện tập thì...",
+      "nếu luyện tập thì..."
+    ],
+    "correctAnswer": 1,
+    "difficulty": 2
+  },
+  {
+    "id": 20,
+    "question": "Chọn câu dùng đúng mẫu <b>N を通じて</b>:",
+    "options": [
+      "<b>ロボコンを通じて、多くの友達と出会った。</b>",
+      "<b>ロボコンが通じて、多くの友達と出会った。</b>",
+      "<b>ロボコンを通じ、多くの友達と出会う。</b>",
+      "<b>ロボコンに通じて、多くの友達と出会った。</b>"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 2
+  },
+  {
+    "id": 21,
+    "question": "Chọn câu đúng với mẫu <b>A から B にかけて</b>:<br/><br/>“Từ tối nay đến sáng mai, bão sẽ đổ bộ.”",
+    "options": [
+      "<b>今夜から明日にかけて、台風が上陸する見込みだ。</b>",
+      "<b>今夜に明日からかけて、台風が上陸する見込みだ。</b>",
+      "<b>今夜から明日まで、台風が上陸している。</b>",
+      "<b>今夜から明日に、台風が上陸かけている。</b>"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 2
+  },
+  {
+    "id": 22,
+    "question": "Chọn câu dùng đúng mẫu <b>～はともかく</b>:<br/><br/>“Không bàn đến hình thức, nội dung báo cáo này rất tốt.”",
+    "options": [
+      "<b>見た目はともかく、このレポートの内容はとてもいい。</b>",
+      "<b>見た目はともかくて、このレポートの内容はとてもいい。</b>",
+      "<b>見た目がともかく、このレポートの内容はとてもいい。</b>",
+      "<b>見た目ともかく、このレポートの内容はとてもいい。</b>"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 2
+  },
+  {
+    "id": 23,
+    "question": "Chọn câu dùng đúng mẫu <b>～ためには</b>:",
+    "options": [
+      "<b>ロボコンで優勝するためには、よいチームワークが必要だ。</b>",
+      "<b>ロボコンで優勝ためには、よいチームワークが必要だ。</b>",
+      "<b>ロボコンで優勝するためで、よいチームワークが必要だ。</b>",
+      "<b>ロボコンで優勝ためで、よいチームワークが必要だ。</b>"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 2
+  },
+  {
+    "id": 24,
+    "question": "Chọn câu dùng <b>決して～ない</b> để thể hiện sự phủ định mạnh:<br/><br/>“Hoàn toàn không phải là trò chơi vô ích.”",
+    "options": [
+      "<b>決してこのゲームは無用ではない。</b>",
+      "<b>このゲームは決して無用です。</b>",
+      "<b>このゲームは決して無用ではない。</b>",
+      "<b>決してこのゲームは無用だ。</b>"
+    ],
+    "correctAnswer": 2,
+    "difficulty": 2
+  },
+  {
+    "id": 25,
+    "question": "Câu nào dùng <b>決して～ない</b> đúng với nghĩa “Hoàn toàn không hiếm”?",
+    "options": [
+      "<b>こういう失敗は決してめずらしくない。</b>",
+      "<b>こういう失敗は決してめずらしい。</b>",
+      "<b>こういう失敗はめずらしく決してない。</b>",
+      "<b>こういう失敗はめずらしくは決してない。</b>"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 2
+  },
+  {
+    "id": 26,
+    "question": "Chọn câu dùng đúng mẫu <b>N にほかならない</b>:<br/><br/>“Thành công này chính là kết quả của nỗ lực.”",
+    "options": [
+      "<b>この成功は努力の結果にほかならない。</b>",
+      "<b>この成功は努力の結果ではないにほかならない。</b>",
+      "<b>この成功は努力にほかならない結果だ。</b>",
+      "<b>この成功は努力の結果ほかならない。</b>"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 2
+  },
+  {
+    "id": 27,
+    "question": "Chọn câu đúng với mẫu <b>～からにほかならない</b>:<br/><br/>“Việc cô ấy tiếp tục chế tạo rô-bốt không gì khác là vì yêu thích ものづくり.”",
+    "options": [
+      "<b>彼女がロボットの製作を続けるのは、ものづくりが好きだからにほかならない。</b>",
+      "<b>彼女がロボットの製作を続けるのは、ものづくりが好きにほかならないからだ。</b>",
+      "<b>彼女がロボットの製作を続けるのは、ものづくりの好きだからにほかならない。</b>",
+      "<b>彼女がロボットの製作を続けるのは、ものづくりだからにほかならない。</b>"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 2
+  },
+  {
+    "id": 28,
+    "question": "<b>A：</b> この部活に入るかどうか、まだ迷っています。<br/><b>B：</b> （　）ロボコンを通じて、いい経験になると思うよ。<br/><br/>Chọn cách nối tự nhiên nhất:",
+    "options": [
+      "ばかりでなく、",
+      "ともかく、",
+      "を対象に、",
+      "を通じて、"
+    ],
+    "correctAnswer": 1,
+    "difficulty": 2
+  },
+  {
+    "id": 29,
+    "question": "Chọn cách dùng đúng của <b>～から～にかけて</b>:<br/><br/>“Từ đầu tháng 4 đến đầu tháng 5, hoa anh đào nở trên khắp quần đảo Nhật Bản.”",
+    "options": [
+      "<b>４月の初めから５月の初めにかけて、日本列島で桜が咲く。</b>",
+      "<b>４月の初めから５月の初めをかけて、日本列島で桜が咲く。</b>",
+      "<b>４月の初めから５月の初めまで、日本列島にかけて桜が咲く。</b>",
+      "<b>４月の初めで５月の初めにかけて、日本列島で桜が咲く。</b>"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 2
+  },
+  {
+    "id": 30,
+    "question": "Chọn câu dùng đúng <b>～を通じて</b> với <ruby>部活動<rp>（</rp><rt>ぶかつどう</rt><rp>）</rp></ruby>:<br/><br/>“Qua hoạt động câu lạc bộ, tôi học được tinh thần hợp tác.”",
+    "options": [
+      "<b>部活動を通じて、協力する心を学んだ。</b>",
+      "<b>部活動を通じ、協力する心が学んだ。</b>",
+      "<b>部活動が通じて、協力する心を学んだ。</b>",
+      "<b>部活動と通じて、協力する心を学んだ。</b>"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 2
+  }
+]

@@ -1,1 +1,362 @@
-﻿[]
+[
+  {
+    "id": 1,
+    "question": "<b><ruby>敬語<rt>けいご</rt></ruby>の意味はどれですか。</b>",
+    "options": [
+      "từ tượng thanh",
+      "thành ngữ",
+      "kính ngữ",
+      "từ chỉ màu sắc"
+    ],
+    "correctAnswer": 2,
+    "difficulty": 1
+  },
+  {
+    "id": 2,
+    "question": "<b><ruby>感想文<rt>かんそうぶん</rt></ruby>はどんな文章ですか。</b>",
+    "options": [
+      "bài văn trình bày cảm tưởng",
+      "bài văn miêu tả thời tiết",
+      "bài văn giới thiệu bản thân",
+      "bài văn xin việc"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 1
+  },
+  {
+    "id": 3,
+    "question": "<b><ruby>運動場<rt>うんどうじょう</rt></ruby>はどれですか。</b>",
+    "options": [
+      "phòng học",
+      "sân vận động, sân tập thể dục",
+      "thư viện",
+      "nhà ăn"
+    ],
+    "correctAnswer": 1,
+    "difficulty": 1
+  },
+  {
+    "id": 4,
+    "question": "<b><ruby>世紀<rt>せいき</rt></ruby>の意味として正しいものはどれですか。</b>",
+    "options": [
+      "thế kỉ",
+      "thời đại Heisei",
+      "tuần lễ",
+      "tháng"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 1
+  },
+  {
+    "id": 5,
+    "question": "<b><ruby>人々<rt>ひとびと</rt></ruby>に一番近い意味はどれですか。</b>",
+    "options": [
+      "một người",
+      "trẻ con",
+      "mọi người",
+      "bạn bè thân"
+    ],
+    "correctAnswer": 2,
+    "difficulty": 1
+  },
+  {
+    "id": 6,
+    "question": "<b><ruby>能力<rt>のうりょく</rt></ruby>が高い人はどんな人ですか。</b>",
+    "options": [
+      "người có năng lực",
+      "người nhiều bạn",
+      "người nhiều tiền",
+      "người cao tuổi"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 1
+  },
+  {
+    "id": 7,
+    "question": "<b><ruby>朝礼<rt>ちょうれい</rt></ruby>はいつ行われることが多いですか。</b>",
+    "options": [
+      "buổi sáng",
+      "buổi trưa",
+      "buổi chiều",
+      "trước khi ngủ"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 1
+  },
+  {
+    "id": 8,
+    "question": "<b><ruby>校歌<rt>こうか</rt></ruby>とは何ですか。</b>",
+    "options": [
+      "bài hát thiếu nhi",
+      "bài hát truyền thống của trường",
+      "bài quốc ca",
+      "bài hát quảng cáo"
+    ],
+    "correctAnswer": 1,
+    "difficulty": 1
+  },
+  {
+    "id": 9,
+    "question": "<b><ruby>検査する<rt>けんさする</rt></ruby>と近い意味のものはどれですか。</b>",
+    "options": [
+      "nghỉ ngơi",
+      "kiểm tra",
+      "thay thế",
+      "giới thiệu"
+    ],
+    "correctAnswer": 1,
+    "difficulty": 1
+  },
+  {
+    "id": 10,
+    "question": "<b><ruby>平和<rt>へいわ</rt></ruby>な世界とはどんな世界ですか。</b>",
+    "options": [
+      "chiến tranh nhiều",
+      "ít người",
+      "hoà bình",
+      "rất bận rộn"
+    ],
+    "correctAnswer": 2,
+    "difficulty": 1
+  },
+  {
+    "id": 11,
+    "question": "<b><ruby>願う<rt>ねがう</rt></ruby>の意味として正しいものはどれですか。</b>",
+    "options": [
+      "cười",
+      "giận dữ",
+      "mong muốn, cầu mong",
+      "phàn nàn"
+    ],
+    "correctAnswer": 2,
+    "difficulty": 1
+  },
+  {
+    "id": 12,
+    "question": "<b><ruby>性格<rt>せいかく</rt></ruby>がいい人はどんな人ですか。</b>",
+    "options": [
+      "người tính cách tốt",
+      "người giàu có",
+      "người nói nhanh",
+      "người cao"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 1
+  },
+  {
+    "id": 13,
+    "question": "<b><ruby>人気者<rt>にんきもの</rt></ruby>の説明として正しいものはどれですか。</b>",
+    "options": [
+      "người hay nghỉ học",
+      "người được nhiều người yêu thích",
+      "người hay đến muộn",
+      "người sống một mình"
+    ],
+    "correctAnswer": 1,
+    "difficulty": 1
+  },
+  {
+    "id": 14,
+    "question": "<b><ruby>深<rt>ふか</rt></ruby>い<ruby>湖<rt>みずうみ</rt></ruby>の意味として正しいものはどれですか。</b>",
+    "options": [
+      "hồ nông",
+      "hồ sâu",
+      "hồ nhỏ",
+      "hồ bẩn"
+    ],
+    "correctAnswer": 1,
+    "difficulty": 1
+  },
+  {
+    "id": 15,
+    "question": "<b><ruby>苦<rt>くる</rt></ruby>しい<ruby>生活<rt>せいかつ</rt></ruby>はどれですか。</b>",
+    "options": [
+      "cuộc sống vất vả, khó khăn",
+      "cuộc sống vui vẻ",
+      "cuộc sống nhàn rỗi",
+      "cuộc sống khỏe mạnh"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 1
+  },
+  {
+    "id": 16,
+    "question": "<b>「こちら」「そちら」「あちら」「どちら」の中で、<u>người nói</u> ở gần đồ vật sẽ dùng từ nào?</b>",
+    "options": [
+      "こちら",
+      "そちら",
+      "あちら",
+      "どちら"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 1
+  },
+  {
+    "id": 17,
+    "question": "<b>「こちら」「そちら」「あちら」「どちら」の中で、<u>người nghe</u> ở gần đồ vật sẽ dùng từ nào?</b>",
+    "options": [
+      "こちら",
+      "そちら",
+      "あちら",
+      "どちら"
+    ],
+    "correctAnswer": 1,
+    "difficulty": 1
+  },
+  {
+    "id": 18,
+    "question": "<b>「これ」「それ」「あれ」「どれ」の中で、 cả người nói lẫn người nghe đều xa đồ vật. Nên dùng từ nào?</b>",
+    "options": [
+      "これ",
+      "それ",
+      "あれ",
+      "どれ"
+    ],
+    "correctAnswer": 2,
+    "difficulty": 1
+  },
+  {
+    "id": 19,
+    "question": "<b>A：<ruby>田中<rt>たなか</rt></ruby>さんの<ruby>辞書<rt>じしょ</rt></ruby>はどれですか。<br>B：＿＿＿＿。</b>",
+    "options": [
+      "これです。",
+      "あれです。",
+      "どれですか。",
+      "こちらですか。"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 2
+  },
+  {
+    "id": 20,
+    "question": "<b>A：すみません、<ruby>市役所<rt>しやくしょ</rt></ruby>はこちらですか。<br>B：いいえ、＿＿＿＿です。</b>",
+    "options": [
+      "こちら",
+      "そちら",
+      "あちら",
+      "どちら"
+    ],
+    "correctAnswer": 2,
+    "difficulty": 2
+  },
+  {
+    "id": 21,
+    "question": "<b>Điền vào chỗ trống: 「<ruby>校歌<rt>こうか</rt></ruby>を＿＿＿＿」</b>",
+    "options": [
+      "お<ruby>読み<rt>よみ</rt></ruby>になります",
+      "お<ruby>書き<rt>かき</rt></ruby>します",
+      "<ruby>覚<rt>おぼ</rt></ruby>えさせられます",
+      "<ruby>食<rt>た</rt></ruby>べさせます"
+    ],
+    "correctAnswer": 2,
+    "difficulty": 2
+  },
+  {
+    "id": 22,
+    "question": "<b>Trong kính ngữ, cách nói lịch sự của 「<ruby>行<rt>い</rt></ruby>きます」 là gì?</b>",
+    "options": [
+      "<ruby>行<rt>い</rt></ruby>かせます",
+      "<ruby>行<rt>い</rt></ruby>ってしまいます",
+      "<ruby>参<rt>まい</rt></ruby>ります",
+      "<ruby>行<rt>い</rt></ruby>きになりました"
+    ],
+    "correctAnswer": 2,
+    "difficulty": 2
+  },
+  {
+    "id": 23,
+    "question": "<b>Trong khiêm nhường ngữ, cách nói của 「<ruby>会<rt>あ</rt></ruby>います」 là gì?</b>",
+    "options": [
+      "<ruby>お会<rt>あ</rt></ruby>いします",
+      "<ruby>会<rt>あ</rt></ruby>いになりました",
+      "<ruby>会<rt>あ</rt></ruby>われます",
+      "<ruby>会<rt>あ</rt></ruby>っていらっしゃいます"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 2
+  },
+  {
+    "id": 24,
+    "question": "<b>Điền kính ngữ thích hợp: 「<ruby>部長<rt>ぶちょう</rt></ruby>はもう＿＿＿＿か。」</b>",
+    "options": [
+      "<ruby>来<rt>き</rt></ruby>られました",
+      "<ruby>来<rt>き</rt></ruby>ました",
+      "<ruby>来<rt>く</rt></ruby>ださいます",
+      "<ruby>来<rt>き</rt></ruby>させます"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 2
+  },
+  {
+    "id": 25,
+    "question": "<b>Điền khiêm nhường ngữ thích hợp: 「あとでこちらからお<ruby>電話<rt>でんわ</rt></ruby>＿＿＿＿。」</b>",
+    "options": [
+      "なさいます",
+      "いたします",
+      "してくださいます",
+      "されます"
+    ],
+    "correctAnswer": 1,
+    "difficulty": 2
+  },
+  {
+    "id": 26,
+    "question": "<b>A：<ruby>会議<rt>かいぎ</rt></ruby>が<ruby>終<rt>お</rt></ruby>わりましたら、こちらからお<ruby>電話<rt>でんわ</rt></ruby>させていただきます。<br>B：＿＿＿＿。</b>",
+    "options": [
+      "いいえ、けっこうです。",
+      "お<ruby>願<rt>ねが</rt></ruby>いします。",
+      "そうですか。こちらから<ruby>電話<rt>でんわ</rt></ruby>します。",
+      "<ruby>会議<rt>かいぎ</rt></ruby>はありません。"
+    ],
+    "correctAnswer": 1,
+    "difficulty": 2
+  },
+  {
+    "id": 27,
+    "question": "<b>A：<ruby>敬語<rt>けいご</rt></ruby>が<ruby>難<rt>むずか</rt></ruby>しくて、＿＿＿＿。<br>B：じゃあ、いっしょに<ruby>練習<rt>れんしゅう</rt></ruby>しましょう。</b>",
+    "options": [
+      "<ruby>文<rt>ぶん</rt></ruby>を<ruby>書<rt>か</rt></ruby>きます",
+      "<ruby>話<rt>はな</rt></ruby>したいです",
+      "<ruby>何<rt>なに</rt></ruby>を<ruby>言<rt>い</rt></ruby>えばいいか<ruby>分<rt>わ</rt></ruby>かりません",
+      "<ruby>聞<rt>き</rt></ruby>きます"
+    ],
+    "correctAnswer": 2,
+    "difficulty": 2
+  },
+  {
+    "id": 28,
+    "question": "<b>Cách đọc đúng của 「<ruby>検査<rt>？</rt></ruby>」 là gì?</b>",
+    "options": [
+      "けんざ",
+      "けんさ",
+      "けさ",
+      "けっさ"
+    ],
+    "correctAnswer": 1,
+    "difficulty": 2
+  },
+  {
+    "id": 29,
+    "question": "<b>Cách đọc đúng của 「<ruby>性格<rt>？</rt></ruby>」 là gì?</b>",
+    "options": [
+      "せいがく",
+      "しょうかく",
+      "せいかく",
+      "せっかく"
+    ],
+    "correctAnswer": 2,
+    "difficulty": 2
+  },
+  {
+    "id": 30,
+    "question": "<b>Cách đọc đúng của 「<ruby>人気者<rt>？</rt></ruby>」 là gì?</b>",
+    "options": [
+      "にんきしゃ",
+      "にんきもの",
+      "にんきひと",
+      "じんきもの"
+    ],
+    "correctAnswer": 1,
+    "difficulty": 2
+  }
+]

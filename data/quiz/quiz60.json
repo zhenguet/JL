@@ -1,1 +1,422 @@
-﻿[]
+[
+  {
+    "id": 1,
+    "question": "<p><ruby>もうける<rp>(</rp><rt>お金をもうける</rt><rp>)</rp></ruby>のベトナム語の意味はどれですか。</p>",
+    "options": [
+      "kiếm [tiền]",
+      "bắt gặp, nhìn thấy",
+      "phủ định",
+      "bỏ phiếu, bầu"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 1
+  },
+  {
+    "id": 2,
+    "question": "<p><ruby>宝くじ<rp>(</rp><rt>たからくじ</rt><rp>)</rp></ruby>に<ruby>当たる<rp>(</rp><rt>あたる</rt><rp>)</rp></ruby>と、ふつうどうなりますか。</p>",
+    "options": [
+      "お金をもうける",
+      "電源が入る",
+      "計画を立てる",
+      "ヒューマンエラーがふえる"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 1
+  },
+  {
+    "id": 3,
+    "question": "<p>「<ruby>計画<rp>(</rp><rt>けいかく</rt><rp>)</rp></ruby>」の意味として一番近いものはどれですか。</p>",
+    "options": [
+      "kế hoạch",
+      "kí ức, trí nhớ",
+      "sự hiểu lầm",
+      "sự cố"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 1
+  },
+  {
+    "id": 4,
+    "question": "<p><ruby>奇数<rp>(</rp><rt>きすう</rt><rp>)</rp></ruby>と<ruby>偶数<rp>(</rp><rt>ぐうすう</rt><rp>)</rp></ruby>について正しい説明はどれですか。</p>",
+    "options": [
+      "奇数は「1,3,5...」で、偶数は「2,4,6...」である",
+      "奇数は「2,4,6...」で、偶数は「1,3,5...」である",
+      "奇数も偶数も「1,2,3...」全部である",
+      "奇数も偶数も数学と関係がない"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 2
+  },
+  {
+    "id": 5,
+    "question": "<p>「<ruby>見かける<rp>(</rp><rt>みかける</rt><rp>)</rp></ruby>」の意味として一番近いベトナム語はどれですか。</p>",
+    "options": [
+      "bắt gặp, nhìn thấy",
+      "ngạc nhiên",
+      "phẫu thuật",
+      "hoàn thành"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 1
+  },
+  {
+    "id": 6,
+    "question": "<p>「<ruby>心理学者<rp>(</rp><rt>しんりがくしゃ</rt><rp>)</rp></ruby>」はどんな人ですか。</p>",
+    "options": [
+      "nhà tâm lý học",
+      "bệnh nhân",
+      "kẻ nói dối",
+      "người hay hoảng hốt"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 1
+  },
+  {
+    "id": 7,
+    "question": "<p>「<ruby>お互いに<rp>(</rp><rt>おたがいに</rt><rp>)</rp></ruby>」に一番近い意味はどれですか。</p>",
+    "options": [
+      "lẫn nhau",
+      "thực tế",
+      "mặt khác",
+      "đúng giờ"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 1
+  },
+  {
+    "id": 8,
+    "question": "<p>つぎのうち、<b>Vます＋出す</b>の使い方として<b>正しい文</b>はどれですか。</p>",
+    "options": [
+      "子供が急に笑い出した。",
+      "子供が急に笑う出す。",
+      "子供が急に笑った出す。",
+      "子供が急に笑いでした。"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 1
+  },
+  {
+    "id": 9,
+    "question": "<p>つぎのうち、<b>…はずだ</b>を使った<b>自然な文</b>はどれですか。</p>",
+    "options": [
+      "時間通りに出れば、7時に駅に着くはずだ。",
+      "時間通りに出れば、7時に駅に着くことがある。",
+      "時間通りに出れば、7時に駅に着く出す。",
+      "時間通りに出れば、7時に駅に着く換える。"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 2
+  },
+  {
+    "id": 10,
+    "question": "<p>「<ruby>否定する<rp>(</rp><rt>ひていする</rt><rp>)</rp></ruby>」の意味はどれですか。</p>",
+    "options": [
+      "phủ định",
+      "bỏ phiếu, bầu",
+      "gợi ý, đầu mối",
+      "thay đổi bằng cách làm V"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 1
+  },
+  {
+    "id": 11,
+    "question": "<p>「<ruby>ヒューマンエラー<rp>(</rp><rt>ヒューマンエラー</rt><rp>)</rp></ruby>」の説明として一番近いものはどれですか。</p>",
+    "options": [
+      "lỗi chủ quan, lỗi do con người",
+      "lỗi của máy in",
+      "lỗi của cỗ máy thời gian",
+      "lỗi của World Cup"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 2
+  },
+  {
+    "id": 12,
+    "question": "<p><ruby>電話<rp>(</rp><rt>でんわ</rt><rp>)</rp></ruby>について、<b>つうじる</b>を使った正しい文はどれですか。</p>",
+    "options": [
+      "この部屋では、携帯電話がめったに通じないことがある。",
+      "この部屋では、携帯電話がめったに通じることを出す。",
+      "この部屋では、携帯電話がめったに通じ合うことだ。",
+      "この部屋では、携帯電話がめったに通じ換えることだ。"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 2
+  },
+  {
+    "id": 13,
+    "question": "<p>「<ruby>抽選<rp>(</rp><rt>ちゅうせん</rt><rp>)</rp></ruby>」に一番近い意味はどれですか。</p>",
+    "options": [
+      "rút thăm, sổ xố",
+      "sự hiểu lầm",
+      "sự cố",
+      "lỗi bất cẩn"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 1
+  },
+  {
+    "id": 14,
+    "question": "<p>つぎの文の（　）に入れるのに一番よいものはどれですか。<br/>「今日は休みだから、<ruby>世界大会<rp>(</rp><rt>ワールドカップ</rt><rp>)</rp></ruby>の試合をテレビで見る（　）だ。」</p>",
+    "options": [
+      "はず",
+      "結果",
+      "型",
+      "一方"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 2
+  },
+  {
+    "id": 15,
+    "question": "<p>「<ruby>うっかり<rp>(</rp><rt>うっかり</rt><rp>)</rp></ruby>」の使い方として最も自然な文はどれですか。</p>",
+    "options": [
+      "うっかりミスでプリンターの電源を切ってしまった。",
+      "うっかりミスでプリンターの電源を換えることになる。",
+      "うっかりミスでプリンターの電源を完成するはずだ。",
+      "うっかりミスでプリンターの電源を助け合った。"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 2
+  },
+  {
+    "id": 16,
+    "question": "<p>「<ruby>マニュアル<rp>(</rp><rt>マニュアル</rt><rp>)</rp></ruby>」の意味はどれですか。</p>",
+    "options": [
+      "sách hướng dẫn",
+      "danh sách kiểm tra",
+      "đồ đánh rơi",
+      "nhà kho, kho chứa đồ"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 1
+  },
+  {
+    "id": 17,
+    "question": "<p><b>ことがある／こともある</b>の使い方として最も自然な文はどれですか。</p>",
+    "options": [
+      "このエレベータは古いから、ときどき止まることがある。",
+      "このエレベータは古いから、ときどき止まるはずだない。",
+      "このエレベータは古いから、ときどき止まる出す。",
+      "このエレベータは古いから、ときどき止まる換える。"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 2
+  },
+  {
+    "id": 18,
+    "question": "<p>「<ruby>誤解<rp>(</rp><rt>ごかい</rt><rp>)</rp></ruby>」の意味はどれですか。</p>",
+    "options": [
+      "sự hiểu lầm",
+      "kí ức, trí nhớ",
+      "sự cố",
+      "lỗi bất cẩn"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 1
+  },
+  {
+    "id": 19,
+    "question": "<p>「<ruby>記憶<rp>(</rp><rt>きおく</rt><rp>)</rp></ruby>」の意味はどれですか。</p>",
+    "options": [
+      "kí ức, trí nhớ",
+      "sự hiểu lầm",
+      "sự cố",
+      "lỗi bất cẩn"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 1
+  },
+  {
+    "id": 20,
+    "question": "<p>つぎのうち、<b>…はずがない</b>を使った<b>正しい文</b>はどれですか。</p>",
+    "options": [
+      "あんなに練習したんだから、今日の試合は負けるはずがない。",
+      "あんなに練習したんだから、今日の試合は負けるはずだ。",
+      "あんなに練習したんだから、今日の試合は負けることがある。",
+      "あんなに練習したんだから、今日の試合は負ける出す。"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 2
+  },
+  {
+    "id": 21,
+    "question": "<p>「<ruby>チェックリスト<rp>(</rp><rt>チェックリスト</rt><rp>)</rp></ruby>」の意味はどれですか。</p>",
+    "options": [
+      "danh sách kiểm tra",
+      "sách hướng dẫn",
+      "gợi ý, đầu mối",
+      "kế hoạch"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 1
+  },
+  {
+    "id": 22,
+    "question": "<p>「<ruby>手がかり<rp>(</rp><rt>てがかり</rt><rp>)</rp></ruby>」の意味はどれですか。</p>",
+    "options": [
+      "gợi ý, đầu mối",
+      "danh sách kiểm tra",
+      "sự hiểu lầm",
+      "kí ức, trí nhớ"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 1
+  },
+  {
+    "id": 23,
+    "question": "<p>つぎのうち、<b>～た結果</b>の使い方として<b>正しい文</b>はどれですか。</p>",
+    "options": [
+      "調査した結果、この町の人口が減ってきていることがわかりました。",
+      "調査する結果、この町の人口が減ってきていることがわかりました。",
+      "調査したはず、この町の人口が減ってきていることがわかりました。",
+      "調査した出す、この町の人口が減ってきていることがわかりました。"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 2
+  },
+  {
+    "id": 24,
+    "question": "<p>「<ruby>出来事<rp>(</rp><rt>できごと</rt><rp>)</rp></ruby>」の意味はどれですか。</p>",
+    "options": [
+      "sự cố",
+      "kế hoạch",
+      "sự hiểu lầm",
+      "kí ức, trí nhớ"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 1
+  },
+  {
+    "id": 25,
+    "question": "<p>つぎのうち、<b>Vます＋始める</b>の使い方として<b>正しい文</b>はどれですか。</p>",
+    "options": [
+      "4歳のとき、ピアノを習い始めました。",
+      "4歳のとき、ピアノを習う始めました。",
+      "4歳のとき、ピアノを習った始めました。",
+      "4歳のとき、ピアノを習いでした。"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 1
+  },
+  {
+    "id": 26,
+    "question": "<p>「<ruby>不注意<rp>(</rp><rt>ふちゅうい</rt><rp>)</rp></ruby>」の意味はどれですか。</p>",
+    "options": [
+      "không chú ý, bất cẩn",
+      "lỗi bất cẩn",
+      "sự hiểu lầm",
+      "gợi ý, đầu mối"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 1
+  },
+  {
+    "id": 27,
+    "question": "<p>つぎのうち、<b>…はずだった</b>を使った<b>自然な文</b>はどれですか。</p>",
+    "options": [
+      "旅行に行くはずだった。しかし、病気で行けなくなった。",
+      "旅行に行くはずだ。しかし、病気で行けなくなった。",
+      "旅行に行くことがある。しかし、病気で行けなくなった。",
+      "旅行に行く出す。しかし、病気で行けなくなった。"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 2
+  },
+  {
+    "id": 28,
+    "question": "<p>「<ruby>引き起こす<rp>(</rp><rt>ひきおこす</rt><rp>)</rp></ruby>」の意味はどれですか。</p>",
+    "options": [
+      "gây ra",
+      "hoàn thành",
+      "dẫn đến sự cố",
+      "phạm, mắc lỗi"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 1
+  },
+  {
+    "id": 29,
+    "question": "<p>つぎのうち、<b>Vます＋合う</b>の使い方として<b>正しい文</b>はどれですか。</p>",
+    "options": [
+      "困ったときこそ助け合うことが大切だ。",
+      "困ったときこそ助ける合うことが大切だ。",
+      "困ったときこそ助けた合うことが大切だ。",
+      "困ったときこそ助け合うはずがない。"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 2
+  },
+  {
+    "id": 30,
+    "question": "<p>「<ruby>倉庫<rp>(</rp><rt>そうこ</rt><rp>)</rp></ruby>」の意味はどれですか。</p>",
+    "options": [
+      "nhà kho, kho chứa đồ",
+      "sách hướng dẫn",
+      "danh sách kiểm tra",
+      "đồ đánh rơi"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 1
+  },
+  {
+    "id": 31,
+    "question": "<p>つぎのうち、<b>Vます＋換える</b>の使い方として<b>正しい文</b>はどれですか。</p>",
+    "options": [
+      "電車からバスに乗り換えた。",
+      "電車からバスに乗る換えた。",
+      "電車からバスに乗った換えた。",
+      "電車からバスに乗り換えるはずだ。"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 2
+  },
+  {
+    "id": 32,
+    "question": "<p>「<ruby>てっきり<rp>(</rp><rt>てっきり</rt><rp>)</rp></ruby>」の意味はどれですか。</p>",
+    "options": [
+      "chắc chắn, đinh ninh",
+      "hiếm khi",
+      "bất cẩn",
+      "mặt khác"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 1
+  },
+  {
+    "id": 33,
+    "question": "<p>つぎのうち、<b>…ということになる</b>を使った<b>自然な文</b>はどれですか。</p>",
+    "options": [
+      "申し込む学生が10人以上にならなければ、この旅行は中止ということになる。",
+      "申し込む学生が10人以上にならなければ、この旅行は中止のはずだ。",
+      "申し込む学生が10人以上にならなければ、この旅行は中止することがある。",
+      "申し込む学生が10人以上にならなければ、この旅行は中止する出す。"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 2
+  },
+  {
+    "id": 34,
+    "question": "<p>「<ruby>親しい<rp>(</rp><rt>したしい</rt><rp>)</rp></ruby>」の意味はどれですか。</p>",
+    "options": [
+      "thân thiết, gần gũi",
+      "ngạc nhiên",
+      "tức giận, cáu",
+      "bất cẩn"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 1
+  },
+  {
+    "id": 35,
+    "question": "<p>「<ruby>驚く<rp>(</rp><rt>おどろく</rt><rp>)</rp></ruby>」の意味はどれですか。</p>",
+    "options": [
+      "ngạc nhiên",
+      "tức giận, cáu",
+      "thân thiết, gần gũi",
+      "bất cẩn"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 1
+  }
+]

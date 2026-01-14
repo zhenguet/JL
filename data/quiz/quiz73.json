@@ -1,1 +1,302 @@
-﻿[]
+[
+  {
+    "id": 1,
+    "question": "<b><ruby>地球市民<rp>（</rp><rt>ちきゅうしみん</rt><rp>）</rp></ruby></b> có nghĩa là gì?",
+    "options": [
+      "công dân thành phố",
+      "công dân toàn cầu",
+      "công dân nông thôn",
+      "công dân tương lai"
+    ],
+    "correctAnswer": 1,
+    "difficulty": 1
+  },
+  {
+    "id": 2,
+    "question": "<b><ruby>大気汚染<rp>（</rp><rt>たいきおせん</rt><rp>）</rp></ruby></b> là:",
+    "options": [
+      "ô nhiễm nước",
+      "ô nhiễm đất",
+      "ô nhiễm không khí",
+      "ô nhiễm tiếng ồn"
+    ],
+    "correctAnswer": 2,
+    "difficulty": 1
+  },
+  {
+    "id": 3,
+    "question": "<b><ruby>熱帯雨林<rp>（</rp><rt>ねったいうりん</rt><rp>）</rp></ruby></b> chỉ:",
+    "options": [
+      "rừng ôn đới",
+      "rừng nguyên sinh",
+      "rừng nhiệt đới",
+      "rừng lá kim"
+    ],
+    "correctAnswer": 2,
+    "difficulty": 1
+  },
+  {
+    "id": 4,
+    "question": "<b><ruby>絶滅<rp>（</rp><rt>ぜつめつ</rt><rp>）</rp></ruby></b> dùng để nói về:",
+    "options": [
+      "tăng trưởng",
+      "tuyệt chủng, diệt vong",
+      "bảo tồn",
+      "di cư"
+    ],
+    "correctAnswer": 1,
+    "difficulty": 1
+  },
+  {
+    "id": 5,
+    "question": "<b><ruby>コモンズ<rp>（</rp><rt>コモンズ</rt><rp>）</rp></ruby></b> là:",
+    "options": [
+      "đất sở hữu riêng",
+      "tài nguyên đất đai thuộc sở hữu chung",
+      "đất bỏ hoang",
+      "đất canh tác"
+    ],
+    "correctAnswer": 1,
+    "difficulty": 1
+  },
+  {
+    "id": 6,
+    "question": "Hãy chọn cách đọc đúng cho từ <b><ruby>酸性雨<rp>（</rp><rt>　</rt><rp>）</rp></ruby></b>.",
+    "options": [
+      "さんせいう",
+      "さんせいあめ",
+      "さんせいゆ",
+      "さんしょうう"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 2
+  },
+  {
+    "id": 7,
+    "question": "Hãy chọn cách đọc đúng cho từ <b><ruby>牧草<rp>（</rp><rt>　</rt><rp>）</rp></ruby></b>.",
+    "options": [
+      "まくそう",
+      "ぼくそう",
+      "ぼくぞう",
+      "まきそう"
+    ],
+    "correctAnswer": 1,
+    "difficulty": 2
+  },
+  {
+    "id": 8,
+    "question": "<b><ruby>仕組み<rp>（</rp><rt>しくみ</rt><rp>）</rp></ruby></b> gần nghĩa với:",
+    "options": [
+      "kết quả",
+      "cơ chế",
+      "tốc độ",
+      "vị trí"
+    ],
+    "correctAnswer": 1,
+    "difficulty": 1
+  },
+  {
+    "id": 9,
+    "question": "<b><ruby>教訓<rp>（</rp><rt>きょうくん</rt><rp>）</rp></ruby></b> là:",
+    "options": [
+      "bài học",
+      "thí nghiệm",
+      "kết luận",
+      "bằng chứng"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 1
+  },
+  {
+    "id": 10,
+    "question": "<b><ruby>自然科学<rp>（</rp><rt>しぜんかがく</rt><rp>）</rp></ruby></b> và <b><ruby>人文科学<rp>（</rp><rt>じんぶんかがく</rt><rp>）</rp></ruby></b> lần lượt là:",
+    "options": [
+      "khoa học tự nhiên / khoa học nhân văn",
+      "khoa học xã hội / khoa học tự nhiên",
+      "khoa học máy tính / khoa học môi trường",
+      "khoa học nhân văn / khoa học tự nhiên"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 2
+  },
+  {
+    "id": 11,
+    "question": "<b><ruby>に及ぶ<rp>（</rp><rt>におよぶ</rt><rp>）</rp></ruby></b> được dùng khi:",
+    "options": [
+      "giới hạn phạm vi",
+      "so sánh hai vật",
+      "trạng thái lan tới một phạm vi nào đó",
+      "diễn tả mục đích"
+    ],
+    "correctAnswer": 2,
+    "difficulty": 2
+  },
+  {
+    "id": 12,
+    "question": "<b>２００４年の<ruby>津波<rp>（</rp><rt>つなみ</rt><rp>）</rp></ruby>の<ruby>被害<rp>（</rp><rt>ひがい</rt><rp>）</rp></ruby>はインドネシアからインドの<ruby>海岸<rp>（</rp><rt>かいがん</rt><rp>）</rp></ruby>（　）及んだ。</b>",
+    "options": [
+      "を",
+      "に",
+      "から",
+      "まで"
+    ],
+    "correctAnswer": 3,
+    "difficulty": 2
+  },
+  {
+    "id": 13,
+    "question": "<b>「可能性がある」</b> diễn tả:",
+    "options": [
+      "nghĩa vụ chắc chắn phải làm",
+      "điều đã xảy ra trong quá khứ",
+      "khả năng có thể xảy ra",
+      "sự so sánh hai sự vật"
+    ],
+    "correctAnswer": 2,
+    "difficulty": 2
+  },
+  {
+    "id": 14,
+    "question": "<b>このまま<ruby>大気汚染<rp>（</rp><rt>たいきおせん</rt><rp>）</rp></ruby>が<ruby>進<rp>（</rp><rt>すす</rt><rp>）</rp></ruby>むと、多くの<ruby>生物<rp>（</rp><rt>せいぶつ</rt><rp>）</rp></ruby>が<ruby>絶滅<rp>（</rp><rt>ぜつめつ</rt><rp>）</rp></ruby>する（　）。</b>",
+    "options": [
+      "上である",
+      "可能性がある",
+      "おそれがない",
+      "までもない"
+    ],
+    "correctAnswer": 1,
+    "difficulty": 2
+  },
+  {
+    "id": 15,
+    "question": "<b>「おそれがある」</b> thường dùng khi nói về:",
+    "options": [
+      "kết quả tốt đẹp",
+      "thói quen tích cực",
+      "nguy cơ, khả năng xảy ra điều không hay",
+      "ước mơ trong tương lai"
+    ],
+    "correctAnswer": 2,
+    "difficulty": 2
+  },
+  {
+    "id": 16,
+    "question": "<b><ruby>台風<rp>（</rp><rt>たいふう</rt><rp>）</rp></ruby>がこのまま<ruby>接近<rp>（</rp><rt>せっきん</rt><rp>）</rp></ruby>すると、<ruby>洪水<rp>（</rp><rt>こうずい</rt><rp>）</rp></ruby>が<ruby>起<rp>（</rp><rt>お</rt><rp>）</rp></ruby>こる（　）。</b>",
+    "options": [
+      "おそれがある",
+      "に違いない",
+      "までもない",
+      "に及ぶ"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 2
+  },
+  {
+    "id": 17,
+    "question": "<b><ruby>環境問題<rp>（</rp><rt>かんきょうもんだい</rt><rp>）</rp></ruby>を<ruby>理解<rp>（</rp><rt>りかい</rt><rp>）</rp></ruby>する（　）、<ruby>自然科学<rp>（</rp><rt>しぜんかがく</rt><rp>）</rp></ruby>と<ruby>人文科学<rp>（</rp><rt>じんぶんかがく</rt><rp>）</rp></ruby>の<ruby>知識<rp>（</rp><rt>ちしき</rt><rp>）</rp></ruby>が<ruby>不可欠<rp>（</rp><rt>ふかけつ</rt><rp>）</rp></ruby>だ。</b>",
+    "options": [
+      "までもない",
+      "上で",
+      "につれて",
+      "をきっかけに"
+    ],
+    "correctAnswer": 1,
+    "difficulty": 2
+  },
+  {
+    "id": 18,
+    "question": "<b>「Vた＋上で」</b> được dùng với ý nghĩa nào sau đây?",
+    "options": [
+      "sau khi làm V thì làm hành động tiếp theo",
+      "trước khi làm V cần chuẩn bị",
+      "không cần làm V cũng được",
+      "đồng thời làm V và hành động sau"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 2
+  },
+  {
+    "id": 19,
+    "question": "<b><ruby>社会科<rp>（</rp><rt>しゃかいか</rt><rp>）</rp></ruby>でこの<ruby>物語<rp>（</rp><rt>ものがたり</rt><rp>）</rp></ruby>を<ruby>読<rp>（</rp><rt>よ</rt><rp>）</rp></ruby>んだ（　）、<ruby>環境<rp>（</rp><rt>かんきょう</rt><rp>）</rp></ruby>に<ruby>興味<rp>（</rp><rt>きょうみ</rt><rp>）</rp></ruby>を<ruby>持<rp>（</rp><rt>も</rt><rp>）</rp></ruby>つようになりました。</b>",
+    "options": [
+      "に比べて",
+      "をはじめ",
+      "をきっかけに",
+      "ことに"
+    ],
+    "correctAnswer": 2,
+    "difficulty": 2
+  },
+  {
+    "id": 20,
+    "question": "<b><ruby>小学生<rp>（</rp><rt>しょうがくせい</rt><rp>）</rp></ruby>のころ<ruby>地球温暖化<rp>（</rp><rt>ちきゅうおんだんか</rt><rp>）</rp></ruby>の<ruby>ニュース<rp>（</rp><rt>ニュース</rt><rp>）</rp></ruby>を<ruby>見<rp>（</rp><rt>み</rt><rp>）</rp></ruby>たこと（　）きっかけで、<ruby>環境問題<rp>（</rp><rt>かんきょうもんだい</rt><rp>）</rp></ruby>について<ruby>勉強<rp>（</rp><rt>べんきょう</rt><rp>）</rp></ruby>しはじめた。</b>",
+    "options": [
+      "が",
+      "を",
+      "に",
+      "へ"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 2
+  },
+  {
+    "id": 21,
+    "question": "<b><ruby>カラオケ<rp>（</rp><rt>カラオケ</rt><rp>）</rp></ruby>（　）、ジュードー、ニンジャなど、<ruby>世界共通語<rp>（</rp><rt>せかいきょうつうご</rt><rp>）</rp></ruby>になった<ruby>日本語<rp>（</rp><rt>にほんご</rt><rp>）</rp></ruby>はたくさんある。</b>",
+    "options": [
+      "につれて",
+      "をはじめ",
+      "に及ぶ",
+      "ことに"
+    ],
+    "correctAnswer": 1,
+    "difficulty": 2
+  },
+  {
+    "id": 22,
+    "question": "<b>「N＋をはじめ」</b> mang ý nghĩa:",
+    "options": [
+      "chỉ có N mà thôi",
+      "N là ví dụ cuối cùng",
+      "đưa N làm ví dụ tiêu biểu đầu tiên trong một nhóm",
+      "so sánh N với các yếu tố khác"
+    ],
+    "correctAnswer": 2,
+    "difficulty": 2
+  },
+  {
+    "id": 23,
+    "question": "<b>この<ruby>グラフ<rp>（</rp><rt>グラフ</rt><rp>）</rp></ruby>を<ruby>見<rp>（</rp><rt>み</rt><rp>）</rp></ruby>ると、<ruby>時間<rp>（</rp><rt>じかん</rt><rp>）</rp></ruby>がたつ（　）エネルギーの<ruby>消費量<rp>（</rp><rt>しょうひりょう</rt><rp>）</rp></ruby>が<ruby>増<rp>（</rp><rt>ふ</rt><rp>）</rp></ruby>えていることがわかる。</b>",
+    "options": [
+      "につれて",
+      "に比べて",
+      "上で",
+      "までもない"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 2
+  },
+  {
+    "id": 24,
+    "question": "<b><ruby>面白<rp>（</rp><rt>おもしろ</rt><rp>）</rp></ruby>いことに、<ruby>遠<rp>（</rp><rt>とお</rt><rp>）</rp></ruby>く<ruby>離<rp>（</rp><rt>はな</rt><rp>）</rp></ruby>れた<ruby>国々<rp>（</rp><rt>くにぐに</rt><rp>）</rp></ruby>で<ruby>同<rp>（</rp><rt>おな</rt><rp>）</rp></ruby>じような<ruby>環境問題<rp>（</rp><rt>かんきょうもんだい</rt><rp>）</rp></ruby>が<ruby>起<rp>（</rp><rt>お</rt><rp>）</rp></ruby>きている。</b><p>Câu trên dùng mẫu:</p>",
+    "options": [
+      "ことに",
+      "をきっかけに",
+      "に及んで",
+      "までもない"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 2
+  },
+  {
+    "id": 25,
+    "question": "<b><ruby>驚<rp>（</rp><rt>おどろ</rt><rp>）</rp></ruby>いたことに、<ruby>故郷<rp>（</rp><rt>こきょう</rt><rp>）</rp></ruby>の<ruby>海洋<rp>（</rp><rt>かいよう</rt><rp>）</rp></ruby>の<ruby>現状<rp>（</rp><rt>げんじょう</rt><rp>）</rp></ruby>は<ruby>昔<rp>（</rp><rt>むかし</rt><rp>）</rp></ruby>と<ruby>大<rp>（</rp><rt>おお</rt><rp>）</rp></ruby>きく<ruby>変<rp>（</rp><rt>か</rt><rp>）</rp></ruby>わっていた。</b><p>Ở đây「ことに」 thể hiện:</p>",
+    "options": [
+      "thời điểm xảy ra",
+      "nguyên nhân",
+      "cảm xúc, đánh giá của người nói",
+      "kết quả đương nhiên"
+    ],
+    "correctAnswer": 2,
+    "difficulty": 2
+  }
+]

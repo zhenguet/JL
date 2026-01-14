@@ -1,1 +1,362 @@
-﻿[]
+[
+  {
+    "id": 1,
+    "question": "<b><ruby>テレビアニメ<rp>（</rp><rt>テレビアニメ</rt><rp>）</rp></ruby></b> có nghĩa là gì?",
+    "options": [
+      "phim hoạt hình truyền hình",
+      "phim tài liệu",
+      "chương trình tin tức",
+      "chương trình thực tế"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 1
+  },
+  {
+    "id": 2,
+    "question": "<b><ruby>解説文<rp>（</rp><rt>かいせつぶん</rt><rp>）</rp></ruby></b> là loại văn bản như thế nào?",
+    "options": [
+      "văn miêu tả",
+      "văn kể chuyện",
+      "văn nghị luận",
+      "văn giải thích, lời diễn giải"
+    ],
+    "correctAnswer": 3,
+    "difficulty": 1
+  },
+  {
+    "id": 3,
+    "question": "<b><ruby>謎<rp>（</rp><rt>なぞ</rt><rp>）</rp></ruby></b> có nghĩa gần nhất với đáp án nào?",
+    "options": [
+      "câu trả lời",
+      "điều bí ẩn",
+      "lời hứa",
+      "mật khẩu"
+    ],
+    "correctAnswer": 1,
+    "difficulty": 1
+  },
+  {
+    "id": 4,
+    "question": "<b><ruby>美女<rp>（</rp><rt>びじょ</rt><rp>）</rp></ruby></b> dùng để chỉ:",
+    "options": [
+      "mỹ nam",
+      "mỹ nữ, người con gái đẹp",
+      "cô giáo",
+      "diễn viên kịch"
+    ],
+    "correctAnswer": 1,
+    "difficulty": 1
+  },
+  {
+    "id": 5,
+    "question": "<b><ruby>旅<rp>（</rp><rt>たび</rt><rp>）</rp></ruby></b> là:",
+    "options": [
+      "chuyến đi, cuộc hành trình",
+      "ngày lễ",
+      "ngày nghỉ",
+      "công tác"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 1
+  },
+  {
+    "id": 6,
+    "question": "<b><ruby>物事<rp>（</rp><rt>ものごと</rt><rp>）</rp></ruby></b> có nghĩa là gì?",
+    "options": [
+      "đồ vật",
+      "sự việc, mọi chuyện",
+      "thông tin",
+      "sản phẩm"
+    ],
+    "correctAnswer": 1,
+    "difficulty": 1
+  },
+  {
+    "id": 7,
+    "question": "<b><ruby>番組<rp>（</rp><rt>ばんぐみ</rt><rp>）</rp></ruby></b> là:",
+    "options": [
+      "tập phim",
+      "kịch bản",
+      "chương trình (TV, radio)",
+      "tiêu đề"
+    ],
+    "correctAnswer": 2,
+    "difficulty": 1
+  },
+  {
+    "id": 8,
+    "question": "<b><ruby>週刊誌<rp>（</rp><rt>しゅうかんし</rt><rp>）</rp></ruby></b> chỉ loại ấn phẩm nào?",
+    "options": [
+      "báo ra hàng tuần, tuần san",
+      "báo ra hàng tháng",
+      "sách giáo khoa",
+      "từ điển"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 1
+  },
+  {
+    "id": 9,
+    "question": "<b><ruby>単行本<rp>（</rp><rt>たんこうぼん</rt><rp>）</rp></ruby></b> có nghĩa gần nhất là:",
+    "options": [
+      "bộ truyện nhiều tập",
+      "sách phát hành đơn lẻ không theo bộ",
+      "sách tham khảo",
+      "tạp chí khoa học"
+    ],
+    "correctAnswer": 1,
+    "difficulty": 1
+  },
+  {
+    "id": 10,
+    "question": "<b><ruby>ヒット作品<rp>（</rp><rt>ヒットさくひん</rt><rp>）</rp></ruby></b> là:",
+    "options": [
+      "tác phẩm mới xuất bản",
+      "tác phẩm hit, tác phẩm được quan tâm hàng đầu",
+      "tác phẩm chưa hoàn thành",
+      "tác phẩm bị cấm phát hành"
+    ],
+    "correctAnswer": 1,
+    "difficulty": 1
+  },
+  {
+    "id": 11,
+    "question": "Hãy chọn cách đọc đúng của từ sau: <b><ruby>放映<rp>（</rp><rt>　</rt><rp>）</rp></ruby></b>",
+    "options": [
+      "ほうえい",
+      "ほうえん",
+      "ぼうえい",
+      "ほうえ"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 2
+  },
+  {
+    "id": 12,
+    "question": "Hãy chọn cách đọc đúng của từ sau: <b><ruby>作品<rp>（</rp><rt>　</rt><rp>）</rp></ruby></b>",
+    "options": [
+      "さくひん",
+      "さっぴん",
+      "さくぶん",
+      "さっぷん"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 2
+  },
+  {
+    "id": 13,
+    "question": "Hãy chọn cách đọc đúng của từ sau: <b><ruby>競争原理<rp>（</rp><rt>　</rt><rp>）</rp></ruby></b>",
+    "options": [
+      "きょうしょうげんり",
+      "けいそうげんり",
+      "きょうそうげんり",
+      "きょうそうげんに"
+    ],
+    "correctAnswer": 2,
+    "difficulty": 2
+  },
+  {
+    "id": 14,
+    "question": "Hãy chọn cách đọc đúng của từ sau: <b><ruby>巨大<rp>（</rp><rt>　</rt><rp>）</rp></ruby>[な]</b>",
+    "options": [
+      "きょだい",
+      "こだい",
+      "きょうだい",
+      "きだい"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 2
+  },
+  {
+    "id": 15,
+    "question": "<b>「～<ruby>際<rp>（</rp><rt>さい</rt><rp>）</rp></ruby>」</b> được dùng gần nghĩa nhất với cấu trúc nào sau đây?",
+    "options": [
+      "～とき (khi)",
+      "～ので (vì)",
+      "～なら (nếu)",
+      "～まで (cho đến khi)"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 2
+  },
+  {
+    "id": 16,
+    "question": "<b>Chọn câu dùng đúng mẫu 「N + 際」:</b>",
+    "options": [
+      "<ruby>外出<rp>（</rp><rt>がいしゅつ</rt><rp>）</rp></ruby>の際、フロントに鍵を預けてください。",
+      "<ruby>外出<rp>（</rp><rt>がいしゅつ</rt><rp>）</rp></ruby>に際、フロントに鍵を預けてください。",
+      "<ruby>外出<rp>（</rp><rt>がいしゅつ</rt><rp>）</rp></ruby>の際に、フロントに鍵です。",
+      "<ruby>外出<rp>（</rp><rt>がいしゅつ</rt><rp>）</rp></ruby>際、フロントは鍵を預けてください。"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 2
+  },
+  {
+    "id": 17,
+    "question": "<b>Chọn câu dùng đúng mẫu 「N1、N2といったN」:</b>",
+    "options": [
+      "テレビアニメやマンガといったインターテイメントが人気だ。",
+      "テレビアニメとインターテイメントといったマンガが人気だ。",
+      "インターテイメントといったテレビアニメが人気だ。",
+      "テレビアニメといったやマンガが人気だ。"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 2
+  },
+  {
+    "id": 18,
+    "question": "<b>「LEDライト、スマホといった<ruby>商品<rp>（</rp><rt>しょうひん</rt><rp>）</rp></ruby>」</b> diễn tả điều gì?",
+    "options": [
+      "liệt kê toàn bộ mọi loại sản phẩm",
+      "nêu vài ví dụ tiêu biểu về sản phẩm",
+      "định nghĩa sản phẩm",
+      "phản bác ý kiến về sản phẩm"
+    ],
+    "correctAnswer": 1,
+    "difficulty": 2
+  },
+  {
+    "id": 19,
+    "question": "<b>Chọn câu dùng đúng mẫu 「N + にわたって」 (phạm vi rộng):</b>",
+    "options": [
+      "<ruby>何年<rp>（</rp><rt>なんねん</rt><rp>）</rp></ruby>にわたって、このアニメシリーズは放映されている。",
+      "<ruby>何年<rp>（</rp><rt>なんねん</rt><rp>）</rp></ruby>でわたって、このアニメシリーズは放映されている。",
+      "<ruby>何年<rp>（</rp><rt>なんねん</rt><rp>）</rp></ruby>にとって、このアニメシリーズは放映されている。",
+      "<ruby>何年<rp>（</rp><rt>なんねん</rt><rp>）</rp></ruby>において、このアニメシリーズは放映されている。"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 2
+  },
+  {
+    "id": 20,
+    "question": "<b>「にわたって」 được dùng trong trường hợp nào sau đây?</b>",
+    "options": [
+      "thời gian rất dài hoặc không gian rất rộng",
+      "thời gian rất ngắn",
+      "chỉ một điểm thời gian",
+      "chỉ một vị trí cụ thể"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 2
+  },
+  {
+    "id": 21,
+    "question": "<b>Chọn câu dùng đúng mẫu 「～うちに」:</b>",
+    "options": [
+      "アニメを何度も見ているうちに、日本語の<ruby>表現<rp>（</rp><rt>ひょうげん</rt><rp>）</rp></ruby>が分かるようになった。",
+      "アニメを何度も見たうちに、日本語の表現が分かるようになった。",
+      "アニメを何度もうちに見て、日本語の表現が分かるようになった。",
+      "アニメを何度もうちになって、日本語の表現が分かるようになった。"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 2
+  },
+  {
+    "id": 22,
+    "question": "<b>Ý nghĩa phù hợp nhất của 「Vているうちに」 là gì?</b>",
+    "options": [
+      "trong khi đang lặp đi lặp lại hành động V, kết quả mới xuất hiện một cách tự nhiên",
+      "ngay sau khi làm V một lần thì kết quả xuất hiện",
+      "vì đã làm V nên phải chịu hậu quả",
+      "dù làm V nhưng kết quả không thay đổi"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 2
+  },
+  {
+    "id": 23,
+    "question": "<b>Chọn câu dùng đúng mẫu 「N + にとって」:</b>",
+    "options": [
+      "このマンガは子どもにとって<ruby>難<rp>（</rp><rt>むずか</rt><rp>）</rp></ruby>しいです。",
+      "このマンガは子どもでとって難しいです。",
+      "このマンガは子どもについて難しいです。",
+      "このマンガは子どもから難しいです。"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 2
+  },
+  {
+    "id": 24,
+    "question": "<b>「にとって」 diễn tả ý nào sau đây?</b>",
+    "options": [
+      "xét từ lập trường của ~ thì X là Y",
+      "vì ~ nên X là Y",
+      "mặc dù ~ nhưng X là Y",
+      "giống như ~ thì X là Y"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 2
+  },
+  {
+    "id": 25,
+    "question": "<b>「とは」 trong câu sau mang chức năng gì?<br/>「『マンガ』とは<ruby>漫画<rp>（</rp><rt>まんが</rt><rp>）</rp></ruby>のことだ。」</b>",
+    "options": [
+      "đưa ra ví dụ",
+      "giải thích, định nghĩa",
+      "so sánh",
+      "phủ định"
+    ],
+    "correctAnswer": 1,
+    "difficulty": 2
+  },
+  {
+    "id": 26,
+    "question": "<b>Chọn câu dùng đúng mẫu 「N + において」:</b>",
+    "options": [
+      "日本のアニメは世界において高く<ruby>評価<rp>（</rp><rt>ひょうか</rt><rp>）</rp></ruby>されている。",
+      "日本のアニメは世界でおいて高く評価されている。",
+      "日本のアニメは世界にとって高く評価されている。",
+      "日本のアニメは世界について高く評価されている。"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 2
+  },
+  {
+    "id": 27,
+    "question": "<b>「において」 là hình thức lịch sự của trợ từ nào?</b>",
+    "options": [
+      "に",
+      "で",
+      "から",
+      "まで"
+    ],
+    "correctAnswer": 1,
+    "difficulty": 2
+  },
+  {
+    "id": 28,
+    "question": "<b>Chọn câu dùng đúng mẫu 「わけだ」 để suy luận kết luận:</b>",
+    "options": [
+      "このマンガは３０年間シリーズが続いている。<br>とても<ruby>人気<rp>（</rp><rt>にんき</rt><rp>）</rp></ruby>があるわけだ。",
+      "このマンガは３０年間シリーズが続いている。人気があるわけではない。",
+      "このマンガは３０年間シリーズが続いている。人気があるわけじゃないだろうか。",
+      "このマンガは３０年間シリーズが続いている。人気があるのではないか。"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 2
+  },
+  {
+    "id": 29,
+    "question": "<b>「のではないだろうか」 diễn tả sắc thái nào?</b>",
+    "options": [
+      "khẳng định mạnh mẽ",
+      "phỏng đoán, nêu ý kiến một cách thận trọng",
+      "ra lệnh",
+      "xin phép lịch sự"
+    ],
+    "correctAnswer": 1,
+    "difficulty": 2
+  },
+  {
+    "id": 30,
+    "question": "<b>Chọn câu dùng đúng mẫu 「っけ」 (xác nhận lại ký ức):</b>",
+    "options": [
+      "このアニメ、<ruby>何曜日<rp>（</rp><rt>なんようび</rt><rp>）</rp></ruby>に放映されるんだっけ？",
+      "このアニメ、何曜日に放映されるわけだっけ？",
+      "このアニメ、何曜日に放映されるにおいて？",
+      "このアニメ、何曜日に放映されるのではないだろうか？"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 2
+  }
+]
