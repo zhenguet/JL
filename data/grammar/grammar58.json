@@ -1,0 +1,257 @@
+[
+  {
+    "id": "aida-during",
+    "title": "～あいだ、… - Trong khi, trong suốt",
+    "description": "「Xあいだ、Y」biểu thị rằng ở trạng thái mà cả X và Y diễn ra trong một thời gian nhất định, thì khi X đang tiếp diễn, Y cũng đồng thời diễn ra.",
+    "structure": "Vている / Nの + あいだ",
+    "examples": [
+      {
+        "japanese": "電車に乗っているあいだ、本を読んでいた。",
+        "romaji": "Densha ni notte iru aida, hon o yonde ita.",
+        "vietnamese": "Khi đi trên tàu điện, tôi đã đọc sách."
+      },
+      {
+        "japanese": "夏休みのあいだ、ずっと国に帰っていた。",
+        "romaji": "Natsuyasumi no aida, zutto kuni ni kaette ita.",
+        "vietnamese": "Trong suốt kỳ nghỉ hè, tôi đã về nước."
+      },
+      {
+        "japanese": "子供が眠っているあいだ、わたしはビデオを見ていた。",
+        "romaji": "Kodomo ga nemutte iru aida, watashi wa bideo o mite ita.",
+        "vietnamese": "Tôi xem video trong khi thằng con tôi ngủ."
+      }
+    ],
+    "notes": [
+      "Dùng để diễn tả hai hành động diễn ra đồng thời trong một khoảng thời gian",
+      "X là hành động hoặc trạng thái đang tiếp diễn",
+      "Y là hành động diễn ra trong suốt thời gian X đang tiếp diễn",
+      "Có thể dùng với Vている hoặc Nの"
+    ]
+  },
+  {
+    "id": "aida-ni-during",
+    "title": "～あいだに、… - Trong khi (một sự việc xảy ra)",
+    "description": "「Xあいだに、Y」biểu thị rằng một sự việc khác là Y đã xảy ra khi X đang tiếp diễn.",
+    "structure": "Vている / Nの + あいだに",
+    "examples": [
+      {
+        "japanese": "食事に出かけているあいだに、部屋に泥棒が入った。",
+        "romaji": "Shokuji ni dekakete iru aida ni, heya ni dorobou ga haitta.",
+        "vietnamese": "Khi tôi đang đi ra ngoài ăn thì kẻ trộm đã đột nhập vào phòng tôi."
+      },
+      {
+        "japanese": "旅行のあいだに、アパートに泥棒が入った。",
+        "romaji": "Ryokou no aida ni, apaato ni dorobou ga haitta.",
+        "vietnamese": "Khi chúng tôi đang đi du lịch thì kẻ trộm đã đột nhập vào căn hộ của chúng tôi."
+      },
+      {
+        "japanese": "母が出かけているあいだに、わたしたちは母の誕生日パーティーの準備をした。",
+        "romaji": "Haha ga dekakete iru aida ni, watashitachi wa haha no tanjoubi paatii no junbi o shita.",
+        "vietnamese": "Chúng tôi đã chuẩn bị tiệc sinh nhật cho mẹ trong lúc mẹ đi ra ngoài."
+      }
+    ],
+    "notes": [
+      "Dùng để diễn tả một sự việc Y xảy ra trong khoảng thời gian X đang tiếp diễn",
+      "Y là sự việc xảy ra một lần, không phải hành động tiếp diễn",
+      "Khác với ～あいだ: ～あいだに diễn tả sự việc xảy ra một lần, ～あいだ diễn tả hành động tiếp diễn"
+    ]
+  },
+  {
+    "id": "made-until",
+    "title": "～まで、… - Cho đến khi",
+    "description": "Trong mẫu「X まで Y」thì X biểu thị thời hạn cuối của Y, và Y biểu thị hành động đang tiếp diễn hoặc trạng thái.",
+    "structure": "N / Vる + まで",
+    "examples": [
+      {
+        "japanese": "3時までここにいます。",
+        "romaji": "San-ji made koko ni imasu.",
+        "vietnamese": "Tôi sẽ ở đây đến 3 giờ."
+      },
+      {
+        "japanese": "先生が来るまで、ここで待っていましょう。",
+        "romaji": "Sensei ga kuru made, koko de matte imashou.",
+        "vietnamese": "Chúng ta hãy chờ ở đây cho đến khi thầy đến."
+      },
+      {
+        "japanese": "子供が寝るまで、本を読んでやります。",
+        "romaji": "Kodomo ga neru made, hon o yonde yarimasu.",
+        "vietnamese": "Tôi đã đọc sách cho con đến khi nó ngủ."
+      }
+    ],
+    "notes": [
+      "Dùng để diễn tả hành động hoặc trạng thái tiếp diễn cho đến thời điểm X",
+      "Y là hành động đang tiếp diễn hoặc trạng thái",
+      "X có thể là thời gian hoặc một sự việc"
+    ]
+  },
+  {
+    "id": "made-ni-by",
+    "title": "～までに、… - Trước khi, trước lúc",
+    "description": "Trong mẫu「X までに Y」thì X cũng chỉ thời hạn, nhưng Y thì không phải là hành động đang tiếp diễn hoặc trạng thái mà là sự việc xảy ra một lần. Nó thể hiện rằng Y xảy ra trước X.",
+    "structure": "N / Vる + までに",
+    "examples": [
+      {
+        "japanese": "3時までに帰ります。",
+        "romaji": "San-ji made ni kaerimasu.",
+        "vietnamese": "Tôi sẽ về trước 3 giờ."
+      },
+      {
+        "japanese": "先生が来るまでに、掃除を終わらせた。",
+        "romaji": "Sensei ga kuru made ni, souji o owaraseta.",
+        "vietnamese": "Tôi đã dọn sạch trước khi thầy đến."
+      },
+      {
+        "japanese": "息子が帰って来るまでに、食事を用意しておきます。",
+        "romaji": "Musuko ga kaette kuru made ni, shokuji o youi shite okimasu.",
+        "vietnamese": "Tôi chuẩn bị sẵn bữa ăn trước khi con trai tôi trở về."
+      }
+    ],
+    "notes": [
+      "Dùng để diễn tả sự việc Y xảy ra trước thời điểm X",
+      "Y là sự việc xảy ra một lần, không phải hành động tiếp diễn",
+      "Khác với ～まで: ～までに diễn tả sự việc xảy ra một lần, ～まで diễn tả hành động tiếp diễn"
+    ]
+  },
+  {
+    "id": "ta-modifier",
+    "title": "～た～ - Động từ thể た làm bổ nghĩa cho danh từ",
+    "description": "Thể ている biểu thị trạng thái kết quả của một hành động hay một sự thay đổi đã diễn ra, khi dùng làm bổ nghĩa cho danh từ thì có thể chuyển thành thể た.",
+    "structure": "Vた + N",
+    "examples": [
+      {
+        "japanese": "眼鏡をかけた田中さん",
+        "romaji": "Megane o kaketa Tanaka-san",
+        "vietnamese": "Anh Tanaka, người đeo kính"
+      },
+      {
+        "japanese": "曲がった線",
+        "romaji": "Magatta sen",
+        "vietnamese": "Đường cong"
+      },
+      {
+        "japanese": "白いシャツを着て、眼鏡をかけた男の人は山田さんです。",
+        "romaji": "Shiroi shatsu o kite, megane o kaketa otoko no hito wa Yamada-san desu.",
+        "vietnamese": "Người đàn ông mặc áo sơ mi trắng và đeo kính là anh Yamada."
+      }
+    ],
+    "notes": [
+      "Dùng để diễn tả trạng thái kết quả của một hành động",
+      "Chỉ dùng với thể ている biểu thị trạng thái kết quả, không dùng với thể ている biểu thị hành động đang diễn ra",
+      "Khi chuyển từ ている sang た, nghĩa có thể thay đổi nếu ている biểu thị hành động đang diễn ra"
+    ]
+  },
+  {
+    "id": "ni-yotte-by",
+    "title": "～によって… - Tùy theo, tùy vào",
+    "description": "Mẫu「XによってY」biểu thị rằng tùy vào kiểu X mà Y sẽ thay đổi đa dạng khác nhau. Vị ngữ ở Y thường là các từ「違う」(khác nhau),「変わる」(thay đổi)「さまざまさ」(đa dạng), v.v..",
+    "structure": "N + によって",
+    "examples": [
+      {
+        "japanese": "好きな食べ物は人によって違う。",
+        "romaji": "Suki na tabemono wa hito ni yotte chigau.",
+        "vietnamese": "Mỗi người sẽ có món ăn yêu thích khác nhau."
+      },
+      {
+        "japanese": "季節によって景色が変わる。",
+        "romaji": "Kisetsu ni yotte keshiki ga kawaru.",
+        "vietnamese": "Cảnh sắc thay đổi khác nhau theo mùa."
+      },
+      {
+        "japanese": "文化や習慣は国によって違います。",
+        "romaji": "Bunka ya shuukan wa kuni ni yotte chigaimasu.",
+        "vietnamese": "Văn hóa và phong tục tập quán khác nhau tùy từng quốc gia."
+      }
+    ],
+    "notes": [
+      "Dùng để diễn tả sự thay đổi đa dạng tùy theo X",
+      "Vị ngữ thường là các từ như 違う, 変わる, さまざま",
+      "X là yếu tố ảnh hưởng đến sự thay đổi của Y"
+    ]
+  },
+  {
+    "id": "ta-mama-as-is",
+    "title": "～たまま、… ・ ～のまま、… - Cứ để nguyên, giữ nguyên trạng thái",
+    "description": "Mẫu「V たまま Y／N のまま Y」biểu thị việc thực hiện Y ở trạng thái sau khi V đã xảy ra, hoặc thực hiện Y trong trạng thái N. Mẫu này được dùng trong trường hợp ở trạng thái đó thì Y thường sẽ không xảy ra.",
+    "structure": "Vた / Nの + まま",
+    "examples": [
+      {
+        "japanese": "眼鏡をかけたまま、おふろに入った。",
+        "romaji": "Megane o kaketa mama, ofuro ni haitta.",
+        "vietnamese": "Tôi đã vào bồn tắm mà đeo nguyên kính."
+      },
+      {
+        "japanese": "靴をはいたまま、部屋に入らないでください。",
+        "romaji": "Kutsu o haita mama, heya ni hairanaide kudasai.",
+        "vietnamese": "Đừng vào phòng khi vẫn mang giày."
+      },
+      {
+        "japanese": "電気をつけたまま、寝てしまいました。",
+        "romaji": "Denki o tsuketa mama, nete shimaimashita.",
+        "vietnamese": "Tôi cứ để điện thế và ngủ mất."
+      }
+    ],
+    "notes": [
+      "Dùng để diễn tả hành động Y được thực hiện trong trạng thái không thay đổi",
+      "Thường dùng trong trường hợp trạng thái đó không bình thường hoặc không mong muốn",
+      "Có thể dùng với Vた hoặc Nの"
+    ]
+  },
+  {
+    "id": "kara-da-because",
+    "title": "…からだ - Vì, do (giải thích lý do)",
+    "description": "Đây là cách nói biểu thị nguyên nhân hoặc lý do của một sự việc nào đó. Nó được dùng để trả lời khi bị hỏi lý do, và「から」đi cùng thể thông thường.",
+    "structure": "Câu (thể thông thường) + からだ",
+    "examples": [
+      {
+        "japanese": "どうして医者になりたいんですか。...医者は人を助けるすばらしい仕事からです。",
+        "romaji": "Doushite isha ni naritai n desu ka. ...Isha wa hito o tasukeru subarashii shigoto kara desu.",
+        "vietnamese": "Tại sao anh lại muốn trở thành bác sĩ? Bởi vì bác sĩ là một công việc tuyệt vời giúp được người khác."
+      },
+      {
+        "japanese": "仕事を辞めたのはなぜですか。...大学院に入って、もっと専門的な勉強をしたかったからです。",
+        "romaji": "Shigoto o yameta no wa naze desu ka. ...Daigakuin ni haitte, motto senmonteki na benkyou o shitakatta kara desu.",
+        "vietnamese": "Tại sao anh lại nghỉ việc? Vì tôi muốn lên cao học và học chuyên sâu hơn nữa."
+      },
+      {
+        "japanese": "急にドアが開いたのは、だれかがボタンを押したからだ。",
+        "romaji": "Kyuu ni doa ga aita no wa, dareka ga botan o oshita kara da.",
+        "vietnamese": "Việc cửa đột nhiên mở là do ai đã bấm nút."
+      }
+    ],
+    "notes": [
+      "Dùng để giải thích lý do, nguyên nhân của một sự việc",
+      "Được dùng để trả lời khi bị hỏi lý do",
+      "「から」đi cùng thể thông thường",
+      "Có thể dùng dạng「...(thể thông thường) ＋ のは、..(thể thông thường)＋ からだ」để nói kết quả trước, nguyên nhân sau",
+      "Khác với ～ので: ～ので không có cách dùng này, không thể nói「...のでだ／...のでです」"
+    ]
+  },
+  {
+    "id": "kami-me-katachi-wo-shiteiru",
+    "title": "髪／目／形をしている - Có tóc/mắt/hình dạng",
+    "description": "Đây là cách nói biểu thị đặc trưng ngoại hình của người hoặc vật thể.",
+    "structure": "髪／目／形 + をしている",
+    "examples": [
+      {
+        "japanese": "リンリンちゃんは長い髪をしています。",
+        "romaji": "Rinrin-chan wa nagai kami o shite imasu.",
+        "vietnamese": "Bé Rin-Rin có mái tóc dài."
+      },
+      {
+        "japanese": "この人形は大きい目をしています。",
+        "romaji": "Kono ningyou wa ookii me o shite imasu.",
+        "vietnamese": "Con búp bê này có đôi mắt to."
+      },
+      {
+        "japanese": "このパンは帽子みたいな形をしている。",
+        "romaji": "Kono pan wa boushi mitai na katachi o shite iru.",
+        "vietnamese": "Chiếc bánh mỳ này có hình dạng như cái mũ."
+      }
+    ],
+    "notes": [
+      "Dùng để diễn tả đặc trưng ngoại hình của người hoặc vật thể",
+      "Thường dùng với 髪 (tóc), 目 (mắt), 形 (hình dạng)",
+      "Có thể dùng với các tính từ mô tả đặc trưng"
+    ]
+  }
+]

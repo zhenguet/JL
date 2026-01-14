@@ -1,0 +1,1128 @@
+[
+  {
+    "id": "kensa",
+    "kanji": "検査する",
+    "hiragana": "けんさする",
+    "en": "",
+    "vi": "kiểm tra",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ",
+        "Ví dụ: 検査する"
+      ]
+    }
+  },
+  {
+    "id": "asu",
+    "kanji": "明日",
+    "hiragana": "あす",
+    "en": "",
+    "vi": "ngày mai",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ",
+        "Ví dụ: 明日"
+      ]
+    }
+  },
+  {
+    "id": "nouryoku",
+    "kanji": "能力",
+    "hiragana": "のうりょく",
+    "en": "",
+    "vi": "năng lực",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ năng lực",
+        "Ví dụ: 能力がある (Có năng lực)"
+      ]
+    }
+  },
+  {
+    "id": "bazaar",
+    "kanji": "バザー",
+    "hiragana": "バザー",
+    "en": "",
+    "vi": "chợ bán hàng cũ",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ chợ bán hàng cũ",
+        "Ví dụ: バザーで 買う (Mua ở chợ bán hàng cũ)"
+      ]
+    }
+  },
+  {
+    "id": "mask",
+    "kanji": "マスク",
+    "hiragana": "マスク",
+    "en": "",
+    "vi": "khẩu trang, mặt nạ",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ khẩu trang",
+        "Ví dụ: マスクを つける (Đeo khẩu trang)"
+      ]
+    }
+  },
+  {
+    "id": "suitcase",
+    "kanji": "スーツケース",
+    "hiragana": "スーツケース",
+    "en": "",
+    "vi": "va li",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ va li",
+        "Ví dụ: スーツケースを 持つ (Mang va li)"
+      ]
+    }
+  },
+  {
+    "id": "megasameru",
+    "kanji": "目が覚める",
+    "hiragana": "めがさめる",
+    "en": "",
+    "vi": "tỉnh giấc",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ",
+        "Ví dụ: 目が覚める"
+      ]
+    }
+  },
+  {
+    "id": "chourei",
+    "kanji": "朝礼",
+    "hiragana": "ちょうれい",
+    "en": "",
+    "vi": "lễ tập trung buổi sáng, giao ban công việc buổi sáng (ở công ty, trường học, v.v.)",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ",
+        "Ví dụ: 朝礼"
+      ]
+    }
+  },
+  {
+    "id": "kouka",
+    "kanji": "校歌",
+    "hiragana": "こうか",
+    "en": "",
+    "vi": "bài hát truyền thống của trường",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ",
+        "Ví dụ: 校歌"
+      ]
+    }
+  },
+  {
+    "id": "keigo",
+    "kanji": "敬語",
+    "hiragana": "けいご",
+    "en": "",
+    "vi": "kính ngữ",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ",
+        "Ví dụ: 敬語"
+      ]
+    }
+  },
+  {
+    "id": "kansoubun",
+    "kanji": "感想文",
+    "hiragana": "かんそうぶん",
+    "en": "",
+    "vi": "bài văn trình bày cảm tưởng (như về một cuốn sách đã đọc)",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ",
+        "Ví dụ: 感想文"
+      ]
+    }
+  },
+  {
+    "id": "undoujou",
+    "kanji": "運動場",
+    "hiragana": "うんどうじょう",
+    "en": "",
+    "vi": "sân tập thể dục thể thao, sân vận động",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ sân tập thể dục",
+        "Ví dụ: 運動場で 運動する (Tập thể dục ở sân vận động)"
+      ]
+    }
+  },
+  {
+    "id": "itazura",
+    "kanji": "いたずら",
+    "hiragana": "いたずら",
+    "en": "",
+    "vi": "nghịch ngợm",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ sự nghịch ngợm",
+        "Ví dụ: いたずらを する (Nghịch ngợm)"
+      ]
+    }
+  },
+  {
+    "id": "utsukushii",
+    "kanji": "美しい",
+    "hiragana": "うつくしい",
+    "en": "",
+    "vi": "đẹp",
+    "type": "adjective",
+    "explanation": {
+      "content": [
+        "Tính từ",
+        "Ví dụ: 美しい"
+      ]
+    }
+  },
+  {
+    "id": "seiki",
+    "kanji": "世紀",
+    "hiragana": "せいき",
+    "en": "",
+    "vi": "thế kỉ",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ",
+        "Ví dụ: 世紀"
+      ]
+    }
+  },
+  {
+    "id": "heiwana",
+    "kanji": "平和",
+    "hiragana": "へいわ",
+    "en": "",
+    "vi": "hoà bình",
+    "type": "adjective",
+    "explanation": {
+      "content": [
+        "Tính từ",
+        "Ví dụ: 平和"
+      ]
+    }
+  },
+  {
+    "id": "hitobito",
+    "kanji": "人々",
+    "hiragana": "ひとびと",
+    "en": "",
+    "vi": "mọi người",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ",
+        "Ví dụ: 人々"
+      ]
+    }
+  },
+  {
+    "id": "negau",
+    "kanji": "願う",
+    "hiragana": "ねがう",
+    "en": "",
+    "vi": "mong muốn, cầu mong",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ",
+        "Ví dụ: 願う"
+      ]
+    }
+  },
+  {
+    "id": "bun",
+    "kanji": "文",
+    "hiragana": "ぶん",
+    "en": "",
+    "vi": "câu, kiểu câu",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ",
+        "Ví dụ: 文"
+      ]
+    }
+  },
+  {
+    "id": "kakikaeru",
+    "kanji": "書き換える",
+    "hiragana": "かきかえる",
+    "en": "",
+    "vi": "viết lại thành",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ",
+        "Ví dụ: 書き換える"
+      ]
+    }
+  },
+  {
+    "id": "awaseru",
+    "kanji": "合わせる",
+    "hiragana": "あわせる",
+    "en": "",
+    "vi": "kết hợp, ghép lại",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ",
+        "Ví dụ: 合わせる"
+      ]
+    }
+  },
+  {
+    "id": "motomoto",
+    "kanji": "もともと",
+    "hiragana": "もともと",
+    "en": "",
+    "vi": "vốn, vốn dĩ",
+    "type": "adverb",
+    "explanation": {
+      "content": [
+        "Trạng từ chỉ từ ban đầu",
+        "Ví dụ: もともと 好きだった (Vốn đã thích)"
+      ]
+    }
+  },
+  {
+    "id": "wakamono",
+    "kanji": "若者",
+    "hiragana": "わかもの",
+    "en": "",
+    "vi": "người trẻ tuổi",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ",
+        "Ví dụ: 若者"
+      ]
+    }
+  },
+  {
+    "id": "ko",
+    "kanji": "湖",
+    "hiragana": "こ",
+    "en": "",
+    "vi": "hồ~",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ",
+        "Ví dụ: 湖"
+      ]
+    }
+  },
+  {
+    "id": "fukai",
+    "kanji": "深い",
+    "hiragana": "ふかい",
+    "en": "",
+    "vi": "sâu",
+    "type": "adjective",
+    "explanation": {
+      "content": [
+        "Tính từ",
+        "Ví dụ: 深い"
+      ]
+    }
+  },
+  {
+    "id": "samazama",
+    "kanji": "さまざま",
+    "hiragana": "さまざま",
+    "en": "",
+    "vi": "nhiều, đa dạng",
+    "type": "adjective",
+    "explanation": {
+      "content": [
+        "Tính từ đuôi na chỉ sự đa dạng",
+        "Ví dụ: さまざまな 人 (Nhiều người khác nhau)"
+      ]
+    }
+  },
+  {
+    "id": "kurushii",
+    "kanji": "苦しい",
+    "hiragana": "くるしい",
+    "en": "",
+    "vi": "vất vả, khó khăn [cuộc sống]",
+    "type": "adjective",
+    "explanation": {
+      "content": [
+        "Tính từ đuôi i chỉ sự vất vả",
+        "Ví dụ: 生活が 苦しい (Cuộc sống vất vả)"
+      ]
+    }
+  },
+  {
+    "id": "seikaku",
+    "kanji": "性格",
+    "hiragana": "せいかく",
+    "en": "",
+    "vi": "tính cách",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ tính cách",
+        "Ví dụ: 性格が いい (Tính cách tốt)"
+      ]
+    }
+  },
+  {
+    "id": "ninkimono",
+    "kanji": "人気者",
+    "hiragana": "にんきもの",
+    "en": "",
+    "vi": "người được yêu thích, người được hâm mộ",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ",
+        "Ví dụ: 人気者"
+      ]
+    }
+  },
+  {
+    "id": "ooku",
+    "kanji": "多く",
+    "hiragana": "おおく",
+    "en": "",
+    "vi": "nhiều",
+    "type": "adverb",
+    "explanation": {
+      "content": [
+        "Trạng từ chỉ số lượng nhiều",
+        "Ví dụ: 多くの 人 (Nhiều người)"
+      ]
+    }
+  },
+  {
+    "id": "fuanna",
+    "kanji": "不安",
+    "hiragana": "ふあん",
+    "en": "",
+    "vi": "bất an, lo lắng",
+    "type": "adjective",
+    "explanation": {
+      "content": [
+        "Tính từ",
+        "Ví dụ: 不安"
+      ]
+    }
+  },
+  {
+    "id": "deru-seihin",
+    "kanji": "出る",
+    "hiragana": "でる",
+    "en": "",
+    "vi": "[sản phẩm] ra thị trường, được bày bán",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm II",
+        "《出ます、出る、出て》",
+        "Ví dụ: 製品が 出る (Sản phẩm ra thị trường)"
+      ]
+    }
+  },
+  {
+    "id": "kaminari",
+    "kanji": "雷",
+    "hiragana": "かみなり",
+    "en": "",
+    "vi": "sấm sét",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ",
+        "Ví dụ: 雷"
+      ]
+    }
+  },
+  {
+    "id": "uchi",
+    "kanji": "うち",
+    "hiragana": "うち",
+    "en": "",
+    "vi": "chúng tôi (cf.  うちの子ども : con chúng tôi)",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ chúng tôi, gia đình",
+        "Ví dụ: うちの 子ども (Con chúng tôi)"
+      ]
+    }
+  },
+  {
+    "id": "zannenna",
+    "kanji": "残念",
+    "hiragana": "ざんねん",
+    "en": "",
+    "vi": "đáng tiếc",
+    "type": "adjective",
+    "explanation": {
+      "content": [
+        "Tính từ",
+        "Ví dụ: 残念"
+      ]
+    }
+  },
+  {
+    "id": "mitomeru",
+    "kanji": "認める",
+    "hiragana": "みとめる",
+    "en": "",
+    "vi": "thừa nhận, chấp nhận",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ",
+        "Ví dụ: 認める"
+      ]
+    }
+  },
+  {
+    "id": "genjitsu",
+    "kanji": "現実",
+    "hiragana": "げんじつ",
+    "en": "",
+    "vi": "thực tế",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ thực tế",
+        "Ví dụ: 現実を 認める (Thừa nhận thực tế)"
+      ]
+    }
+  },
+  {
+    "id": "ai",
+    "kanji": "愛する",
+    "hiragana": "あいする",
+    "en": "",
+    "vi": "yêu",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ",
+        "Ví dụ: 愛する"
+      ]
+    }
+  },
+  {
+    "id": "shuto",
+    "kanji": "首都",
+    "hiragana": "しゅと",
+    "en": "",
+    "vi": "thủ đô",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ",
+        "Ví dụ: 首都"
+      ]
+    }
+  },
+  {
+    "id": "dengon",
+    "kanji": "伝言",
+    "hiragana": "でんごん",
+    "en": "",
+    "vi": "lời nhắn, tin nhắn để lại",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ",
+        "Ví dụ: 伝言"
+      ]
+    }
+  },
+  {
+    "id": "rusubandenwa",
+    "kanji": "留守番電話",
+    "hiragana": "るすばんでんわ",
+    "en": "",
+    "vi": "hộp thư thoại",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ",
+        "Ví dụ: 留守番電話"
+      ]
+    }
+  },
+  {
+    "id": "message",
+    "kanji": "メッセージ",
+    "hiragana": "メッセージ",
+    "en": "",
+    "vi": "tin nhắn",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ tin nhắn",
+        "Ví dụ: メッセージを 送る (Gửi tin nhắn)"
+      ]
+    }
+  },
+  {
+    "id": "ukeru-dengon",
+    "kanji": "受ける",
+    "hiragana": "うける",
+    "en": "",
+    "vi": "nhận [tin nhắn]",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm II",
+        "《受けます、受ける、受けて》",
+        "Ví dụ: 伝言を 受ける (Nhận tin nhắn)"
+      ]
+    }
+  },
+  {
+    "id": "ireru-message",
+    "kanji": "入れる",
+    "hiragana": "いれる",
+    "en": "",
+    "vi": "để lại [tin nhắn]",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm II",
+        "《入れます、入れる、入れて》",
+        "Ví dụ: メッセージを 入れる (Để lại tin nhắn)"
+      ]
+    }
+  },
+  {
+    "id": "sashiagerudenwawo",
+    "kanji": "差し上げる",
+    "hiragana": "さしあげる",
+    "en": "",
+    "vi": "gọi [điện thoại]",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ",
+        "Ví dụ: 差し上げる"
+      ]
+    }
+  },
+  {
+    "id": "sonoyouni",
+    "kanji": "そのように",
+    "hiragana": "そのように",
+    "en": "",
+    "vi": "như thế (cf. このように：như vậy, như thế này)",
+    "type": "adverb",
+    "explanation": {
+      "content": [
+        "Trạng từ chỉ cách thức",
+        "Ví dụ: そのように する (Làm như thế)"
+      ]
+    }
+  },
+  {
+    "id": "deru-denwa",
+    "kanji": "出る",
+    "hiragana": "でる",
+    "en": "",
+    "vi": "nghe [điện thoại]",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm II",
+        "《出ます、出る、出て》",
+        "Ví dụ: 電話に 出る (Nghe điện thoại)"
+      ]
+    }
+  },
+  {
+    "id": "kyuuna",
+    "kanji": "急",
+    "hiragana": "きゅう",
+    "en": "",
+    "vi": "gấp",
+    "type": "adjective",
+    "explanation": {
+      "content": [
+        "Tính từ",
+        "Ví dụ: 急"
+      ]
+    }
+  },
+  {
+    "id": "hairu-shigoto",
+    "kanji": "入る",
+    "hiragana": "はいる",
+    "en": "",
+    "vi": "có (công việc)",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm I",
+        "《入ります、入る、入って》",
+        "Ví dụ: 仕事が 入る (Có công việc)"
+      ]
+    }
+  },
+  {
+    "id": "torikesu",
+    "kanji": "取り消す",
+    "hiragana": "とりけす",
+    "en": "",
+    "vi": "xoá, huỷ",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ",
+        "Ví dụ: 取り消す"
+      ]
+    }
+  },
+  {
+    "id": "raikyakuchuu",
+    "kanji": "来客中",
+    "hiragana": "らいきゃくちゅう",
+    "en": "",
+    "vi": "đang có khách, đang tiếp khách",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ trạng thái đang có khách",
+        "Ví dụ: 来客中です (Đang có khách)"
+      ]
+    }
+  },
+  {
+    "id": "shoku",
+    "kanji": "食パン",
+    "hiragana": "しょくパン",
+    "en": "",
+    "vi": "bánh mì gối",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ",
+        "Ví dụ: 食パン"
+      ]
+    }
+  },
+  {
+    "id": "urikire",
+    "kanji": "売り切れ",
+    "hiragana": "うりきれ",
+    "en": "",
+    "vi": "hết hàng",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ",
+        "Ví dụ: 売り切れ"
+      ]
+    }
+  },
+  {
+    "id": "bargain-sale",
+    "kanji": "バーゲンセール",
+    "hiragana": "バーゲンセール",
+    "en": "",
+    "vi": "bán giảm giá",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ bán giảm giá",
+        "Ví dụ: バーゲンセールで 買う (Mua ở bán giảm giá)"
+      ]
+    }
+  },
+  {
+    "id": "annaijou",
+    "kanji": "案内状",
+    "hiragana": "あんないじょう",
+    "en": "",
+    "vi": "giấy mời, thư mời",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ giấy mời",
+        "Ví dụ: 案内状を 送る (Gửi giấy mời)"
+      ]
+    }
+  },
+  {
+    "id": "joushoutai",
+    "kanji": "状",
+    "hiragana": "じょう",
+    "en": "",
+    "vi": "thư, thiệp, giấy [mời]",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ",
+        "Ví dụ: 状"
+      ]
+    }
+  },
+  {
+    "id": "tooi-denwa",
+    "kanji": "遠い",
+    "hiragana": "とおい",
+    "en": "",
+    "vi": "không nghe rõ [ tiếng trên điện thoại]",
+    "type": "adjective",
+    "explanation": {
+      "content": [
+        "Tính từ đuôi i",
+        "Ví dụ: 電話が 遠い (Điện thoại không nghe rõ)"
+      ]
+    }
+  },
+  {
+    "id": "girai",
+    "kanji": "嫌い",
+    "hiragana": "ぎらい",
+    "en": "",
+    "vi": "ghét, không thích",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ",
+        "Ví dụ: 嫌い"
+      ]
+    }
+  },
+  {
+    "id": "jidai",
+    "kanji": "時代",
+    "hiragana": "じだい",
+    "en": "",
+    "vi": "thời đại, thời kỳ",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ",
+        "Ví dụ: 時代"
+      ]
+    }
+  },
+  {
+    "id": "junni",
+    "kanji": "順に",
+    "hiragana": "じゅんに",
+    "en": "",
+    "vi": "lần lượt, theo thứ tự",
+    "type": "adverb",
+    "explanation": {
+      "content": [
+        "Trạng từ chỉ thứ tự",
+        "Ví dụ: 順に 並ぶ (Xếp hàng theo thứ tự)"
+      ]
+    }
+  },
+  {
+    "id": "shitsureina",
+    "kanji": "失礼",
+    "hiragana": "しつれい",
+    "en": "",
+    "vi": "thất lễ",
+    "type": "adjective",
+    "explanation": {
+      "content": [
+        "Tính từ",
+        "Ví dụ: 失礼"
+      ]
+    }
+  },
+  {
+    "id": "susumeru",
+    "kanji": "勧める",
+    "hiragana": "すすめる",
+    "en": "",
+    "vi": "khuyến khích, giới thiệu",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ",
+        "Ví dụ: 勧める"
+      ]
+    }
+  },
+  {
+    "id": "harawotateru",
+    "kanji": "腹を立てる",
+    "hiragana": "はらをたてる",
+    "en": "",
+    "vi": "nổi cáu, tức giận",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ",
+        "Ví dụ: 腹を立てる"
+      ]
+    }
+  },
+  {
+    "id": "ajiwau",
+    "kanji": "味わう",
+    "hiragana": "あじわう",
+    "en": "",
+    "vi": "nếm, thưởng thức",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ",
+        "Ví dụ: 味わう"
+      ]
+    }
+  },
+  {
+    "id": "tsunagu",
+    "kanji": "つなぐ",
+    "hiragana": "つなぐ",
+    "en": "",
+    "vi": "kết nối, nắm (tay), nối (dây)",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm I",
+        "《つなぎます、つなぐ、つないで》",
+        "Ví dụ: 手を つなぐ (Nắm tay)"
+      ]
+    }
+  },
+  {
+    "id": "episode",
+    "kanji": "エピソード",
+    "hiragana": "エピソード",
+    "en": "",
+    "vi": "câu chuyện, giai thoại",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ câu chuyện, giai thoại",
+        "Ví dụ: 面白い エピソード (Câu chuyện thú vị)"
+      ]
+    }
+  },
+  {
+    "id": "daikirai",
+    "kanji": "大嫌い",
+    "hiragana": "だいきらい",
+    "en": "",
+    "vi": "rất ghét",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ",
+        "Ví dụ: 大嫌い"
+      ]
+    }
+  },
+  {
+    "id": "daisukikirai",
+    "kanji": "大[好き／嫌い］",
+    "hiragana": "だい",
+    "en": "",
+    "vi": "rất, cực [thích/ghét]",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ",
+        "Ví dụ: 大[好き／嫌い］"
+      ]
+    }
+  },
+  {
+    "id": "shitsukoi",
+    "kanji": "しつこい",
+    "hiragana": "しつこい",
+    "en": "",
+    "vi": "cứng đầu, ngoan cố, bướng bỉnh",
+    "type": "adjective",
+    "explanation": {
+      "content": [
+        "Tính từ đuôi i chỉ sự cứng đầu",
+        "Ví dụ: しつこい 人 (Người cứng đầu)"
+      ]
+    }
+  },
+  {
+    "id": "zenin",
+    "kanji": "全員",
+    "hiragana": "ぜんいん",
+    "en": "",
+    "vi": "tất cả mọi người",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ",
+        "Ví dụ: 全員"
+      ]
+    }
+  },
+  {
+    "id": "suujitsu",
+    "kanji": "数日",
+    "hiragana": "すうじつ",
+    "en": "",
+    "vi": "vài ngày",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ vài ngày",
+        "Ví dụ: 数日 かかる (Mất vài ngày)"
+      ]
+    }
+  },
+  {
+    "id": "shinseki",
+    "kanji": "親せき",
+    "hiragana": "しんせき",
+    "en": "",
+    "vi": "họ hàng, người họ hàng",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ",
+        "Ví dụ: 親せき"
+      ]
+    }
+  },
+  {
+    "id": "setsuzoku",
+    "kanji": "接続する",
+    "hiragana": "せつぞくする",
+    "en": "",
+    "vi": "tiếp tục, kết nối",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ",
+        "Ví dụ: 接続する"
+      ]
+    }
+  },
+  {
+    "id": "moushideru",
+    "kanji": "申し出る",
+    "hiragana": "もうしでる",
+    "en": "",
+    "vi": "tố cáo, khiếu nại, đề nghị",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ",
+        "Ví dụ: 申し出る"
+      ]
+    }
+  },
+  {
+    "id": "kekkyoku",
+    "kanji": "結局",
+    "hiragana": "けっきょく",
+    "en": "",
+    "vi": "kết cục, cuối cùng",
+    "type": "adverb",
+    "explanation": {
+      "content": [
+        "Trạng từ chỉ kết quả cuối cùng",
+        "Ví dụ: 結局 行った (Cuối cùng đã đi)"
+      ]
+    }
+  },
+  {
+    "id": "sassoku",
+    "kanji": "早速",
+    "hiragana": "さっそく",
+    "en": "",
+    "vi": "ngay, lập tức",
+    "type": "adverb",
+    "explanation": {
+      "content": [
+        "Trạng từ chỉ sự ngay lập tức",
+        "Ví dụ: 早速 始める (Bắt đầu ngay)"
+      ]
+    }
+  },
+  {
+    "id": "soba",
+    "kanji": "そば",
+    "hiragana": "そば",
+    "en": "",
+    "vi": "bên cạnh",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ vị trí bên cạnh",
+        "Ví dụ: そばに いる (Ở bên cạnh)"
+      ]
+    }
+  },
+  {
+    "id": "toriukeru",
+    "kanji": "取り受ける",
+    "hiragana": "とりうける",
+    "en": "",
+    "vi": "lắp đặt",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ",
+        "Ví dụ: 取り受ける"
+      ]
+    }
+  },
+  {
+    "id": "shussekisha",
+    "kanji": "出席者",
+    "hiragana": "しゅっせきしゃ",
+    "en": "",
+    "vi": "người tham dự",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ",
+        "Ví dụ: 出席者"
+      ]
+    }
+  },
+  {
+    "id": "ryoukin",
+    "kanji": "料金",
+    "hiragana": "りょうきん",
+    "en": "",
+    "vi": "phí",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ",
+        "Ví dụ: 料金"
+      ]
+    }
+  }
+]

@@ -1,0 +1,282 @@
+[
+  {
+    "id": "ni-oujite",
+    "title": "～に応じて - Đáp ứng, ứng với",
+    "description": "「～に応じて」dùng để diễn tả việc làm, thay đổi cho phù hợp với yêu cầu, tình huống hoặc sự biến đổi của đối tượng được nêu trước đó.",
+    "structure": "N + に応じて / N + に応じた N",
+    "examples": [
+      {
+        "japanese": "大学は学生の要求に応じて、試験制度を改めることを約束した。",
+        "romaji": "Daigaku wa gakusei no youkyuu ni oujite, shiken seido o aratameru koto o yakusoku shita.",
+        "vietnamese": "Đại học đã hứa sẽ cải thiện chế độ thi cử đáp ứng yêu cầu của sinh viên."
+      },
+      {
+        "japanese": "その会社は消費者の要望に応じて、商品の品質検査を強化した。",
+        "romaji": "Sono kaisha wa shouhisha no youbou ni oujite, shouhin no hinshitsu kensa o kyouka shita.",
+        "vietnamese": "Công ty đó đã tăng cường kiểm tra chất lượng sản phẩm đáp ứng mong muốn của người tiêu dùng."
+      },
+      {
+        "japanese": "時代の変化に応じて若者の文化や考え方も変わる。",
+        "romaji": "Jidai no henka ni oujite wakamono no bunka ya kangaekata mo kawaru.",
+        "vietnamese": "Ứng với sự biến đổi của thời đại, văn hóa và cách nghĩ của giới trẻ cũng thay đổi."
+      }
+    ],
+    "notes": [
+      "Dùng với danh từ chỉ yêu cầu, tình huống, sự thay đổi, mức độ",
+      "Khi danh từ biểu thị sự đa dạng hoặc biến đổi, nghĩa là \"ứng với / tùy theo ~ thì ...\"",
+      "Dạng bổ nghĩa danh từ: ～に応じたN"
+    ]
+  },
+  {
+    "id": "ni-yotte-cause",
+    "title": "～によって - Do, vì (nguyên nhân)",
+    "description": "「～によって」dùng để chỉ nguyên nhân, lý do mang tính khách quan. Khi bổ nghĩa danh từ dùng dạng 「～によるN」.",
+    "structure": "N + によって / N + による N",
+    "examples": [
+      {
+        "japanese": "急激な円高によって経営が苦しくなり、倒産する企業もある。",
+        "romaji": "Kyuugeki na endaka ni yotte keiei ga kurushiku nari, tousan suru kigyou mo aru.",
+        "vietnamese": "Do đồng yên tăng giá mạnh nên kinh doanh trở nên khó khăn, có cả những doanh nghiệp phá sản."
+      },
+      {
+        "japanese": "ATMのトラブルによる被害は、この銀行の利用者にとどまらない。",
+        "romaji": "ATM no toraburu ni yoru higai wa, kono ginkou no riyousha ni todomaranai.",
+        "vietnamese": "Thiệt hại do sự cố ATM gây ra không chỉ giới hạn ở khách hàng của ngân hàng này."
+      },
+      {
+        "japanese": "少子高齢化によって、地域社会はますます活力がなくなっている。",
+        "romaji": "Shoushi koureika ni yotte, chiiki shakai wa masumasu katsuryoku ga nakunatte iru.",
+        "vietnamese": "Do tỷ lệ sinh giảm và già hóa dân số, cộng đồng địa phương ngày càng mất sức sống."
+      }
+    ],
+    "notes": [
+      "Diễn tả nguyên nhân mang tính khách quan",
+      "Dạng ～によるN được dùng khi bổ nghĩa trực tiếp cho danh từ",
+      "Khác với ～から／～ので: ～によって thường dùng trong văn viết, tin tức"
+    ]
+  },
+  {
+    "id": "to-mirareru",
+    "title": "～とみられる - Được cho là, được nhận định là",
+    "description": "「～とみられる」diễn tả phán đoán, nhận định được rút ra từ căn cứ khách quan, tương đương với 「～と考えられる／思われる」.",
+    "structure": "普通形 + とみられる / とみられている",
+    "examples": [
+      {
+        "japanese": "犯人は車で逃げたとみられる。",
+        "romaji": "Hannin wa kuruma de nigeta to mirareru.",
+        "vietnamese": "Phạm nhân được nhận định là đã trốn thoát bằng ô tô."
+      },
+      {
+        "japanese": "自動車業界は東南アジアでの自動車の需要はまだまだ伸びるとみている。",
+        "romaji": "Jidousha gyoukai wa Tounan Ajia de no jidousha no juyou wa madamada nobiru to mite iru.",
+        "vietnamese": "Ngành công nghiệp ô tô nhận định rằng nhu cầu ô tô ở Đông Nam Á vẫn sẽ tiếp tục tăng."
+      },
+      {
+        "japanese": "期待の新人はメジャーリーグに挑戦するとみられている。",
+        "romaji": "Kitai no shinjin wa mejā rīgu ni chousen suru to mirarete iru.",
+        "vietnamese": "Tân binh được kỳ vọng được cho là sẽ thử sức ở giải bóng chày nhà nghề Mỹ."
+      }
+    ],
+    "notes": [
+      "Dùng nhiều trong tin tức, báo chí",
+      "「～とみられている」nhấn mạnh nhận định chung của nhiều người",
+      "Thường đi với số liệu, phán đoán khách quan"
+    ]
+  },
+  {
+    "id": "to-shite-iru",
+    "title": "～としている - Theo như công bố, cho biết rằng",
+    "description": "Cấu trúc「～は・・・としている」dùng khi cơ quan, tổ chức, người có trách nhiệm công bố, cho biết nội dung 「・・・」 ra bên ngoài.",
+    "structure": "Nは ～普通形 + としている",
+    "examples": [
+      {
+        "japanese": "政府は景気が回復するまでは消費税を上げないとしている。",
+        "romaji": "Seifu wa keiki ga kaifuku suru made wa shouhizei o agenai to shite iru.",
+        "vietnamese": "Chính phủ cho biết sẽ không tăng thuế tiêu dùng cho đến khi kinh tế hồi phục."
+      },
+      {
+        "japanese": "学校側は少子化に備えてカリキュラムを見直すとしている。",
+        "romaji": "Gakkou-gawa wa shoushika ni sonaete karikyuramu o minaosu to shite iru.",
+        "vietnamese": "Phía nhà trường cho biết sẽ xem xét lại chương trình học để ứng phó với tình trạng ít con."
+      },
+      {
+        "japanese": "政府は、秋の国際会議は予定通り行うとしている。",
+        "romaji": "Seifu wa, aki no kokusai kaigi wa yotei doori okonau to shite iru.",
+        "vietnamese": "Chính phủ cho biết hội nghị quốc tế vào mùa thu sẽ được tổ chức như dự định."
+      }
+    ],
+    "notes": [
+      "Chủ ngữ thường là tổ chức, cơ quan như 政府、会社、学校など",
+      "Nhấn mạnh nội dung được công bố ra bên ngoài",
+      "Gần nghĩa với 「～と発表している」 nhưng trung tính hơn"
+    ]
+  },
+  {
+    "id": "ni-mo-kakawarazu",
+    "title": "～にもかかわらず - Mặc dù, bất chấp",
+    "description": "「XにもかかわらずY」diễn tả kết quả Y trái với điều có thể dự đoán từ X, thường mang sắc thái ngạc nhiên, bất mãn hoặc cảm kích.",
+    "structure": "普通形 / Aなである / Nである・N + にもかかわらず",
+    "examples": [
+      {
+        "japanese": "日本は年末の忙しい時期にもかかわらず、こんなに多くの方にお集まりいただきありがとうございます。",
+        "romaji": "Nihon wa nenmatsu no isogashii jiki ni mo kakawarazu, konna ni ooku no kata ni o atsumari itadaki arigatou gozaimasu.",
+        "vietnamese": "Xin cảm ơn quý vị đã đến tham dự rất đông dù đang là thời điểm cuối năm bận rộn."
+      },
+      {
+        "japanese": "地震の後に津波が来ることが予測されていたにもかかわらず、すぐに避難しなかったことが被害を大きくした。",
+        "romaji": "Jishin no ato ni tsunami ga kuru koto ga yosoku sarete ita ni mo kakawarazu, sugu ni hinan shinakatta koto ga higai o ookiku shita.",
+        "vietnamese": "Mặc dù đã dự báo sẽ có sóng thần sau động đất nhưng việc không sơ tán ngay đã làm thiệt hại lớn hơn."
+      },
+      {
+        "japanese": "雨にもかかわらず、試合は予定通り行われた。",
+        "romaji": "Ame ni mo kakawarazu, shiai wa yotei doori okonawareta.",
+        "vietnamese": "Mặc dù trời mưa nhưng trận đấu vẫn được tổ chức theo kế hoạch."
+      }
+    ],
+    "notes": [
+      "Dùng trong văn viết lẫn văn nói, sắc thái hơi cứng",
+      "Cả kết quả tốt lẫn xấu đều dùng được, nhưng thường hàm ý ngạc nhiên hoặc bất mãn",
+      "Khác với ～のに: ～にもかかわらず trang trọng và cứng hơn"
+    ]
+  },
+  {
+    "id": "to-tomo-ni",
+    "title": "～とともに - Đồng thời với, cùng với",
+    "description": "「XとともにY」diễn tả việc Y diễn ra đồng thời, song song hoặc đi kèm với X. Có thể dùng với động từ hoặc danh từ chỉ sự việc.",
+    "structure": "V辞書形 / N + とともに",
+    "examples": [
+      {
+        "japanese": "警察は犯人を追うとともに、近所の住人に注意を呼び掛けている。",
+        "romaji": "Keisatsu wa hannin o ou to tomo ni, kinjo no juunin ni chuui o yobikakete iru.",
+        "vietnamese": "Cảnh sát vừa truy đuổi tội phạm vừa kêu gọi người dân xung quanh cảnh giác."
+      },
+      {
+        "japanese": "彼は大学で研究生活を続けるとともに、小説を書くこともあきらめていない。",
+        "romaji": "Kare wa daigaku de kenkyuu seikatsu o tsuzukeru to tomo ni, shousetsu o kaku koto mo akiramete inai.",
+        "vietnamese": "Anh ấy vừa tiếp tục cuộc sống nghiên cứu ở đại học vừa không từ bỏ việc viết tiểu thuyết."
+      },
+      {
+        "japanese": "社名の変更とともに、制服も新しいデザインになった。",
+        "romaji": "Shamei no henkou to tomo ni, seifuku mo atarashii dezain ni natta.",
+        "vietnamese": "Cùng với việc đổi tên công ty, đồng phục cũng được thiết kế mới."
+      }
+    ],
+    "notes": [
+      "Dùng với động từ chỉ hành động song song hoặc danh từ chỉ sự kiện, sự thay đổi",
+      "Nhấn mạnh hai sự việc diễn ra đồng thời hoặc đi kèm nhau",
+      "Gần nghĩa với 「～と同時に」 trong một số trường hợp"
+    ]
+  },
+  {
+    "id": "ta-tokoro",
+    "title": "～たところ - Khi ... thì, sau khi ... thì",
+    "description": "「XたところY」diễn tả sau khi thực hiện hành động X thì phát hiện, nhận ra kết quả, tình trạng Y. Cả X và Y thường ở quá khứ, mang sắc thái văn viết.",
+    "structure": "Vた + ところ",
+    "examples": [
+      {
+        "japanese": "駅の事務所に問い合わせたところ、忘れ物は幸い見つかった。",
+        "romaji": "Eki no jimusho ni toiawaseta tokoro, wasuremono wa saiwai mitsukatta.",
+        "vietnamese": "Khi hỏi thăm ở văn phòng nhà ga thì may mắn là đã tìm thấy đồ bỏ quên."
+      },
+      {
+        "japanese": "財布を落としたので警察に行ったところ、ちょうど拾った人が届けに来ていた。",
+        "romaji": "Saifu o otoshita node keisatsu ni itta tokoro, choudo hirotta hito ga todoke ni kite ita.",
+        "vietnamese": "Do làm rơi ví nên khi đến đồn cảnh sát thì vừa đúng lúc người nhặt được mang đến nộp."
+      },
+      {
+        "japanese": "身分証明書が必要かどうか確かめたところ、不要だということだった。",
+        "romaji": "Mibun shoumeisho ga hitsuyou ka dou ka tashikameta tokoro, fuyou da to iu koto datta.",
+        "vietnamese": "Khi xác nhận xem có cần giấy tờ tùy thân không thì được cho biết là không cần."
+      }
+    ],
+    "notes": [
+      "Không dùng cho sự việc ở tương lai",
+      "Thường dùng trong văn viết, báo cáo, câu chuyện",
+      "Nhấn mạnh kết quả bất ngờ hoặc mới được biết sau hành động"
+    ]
+  },
+  {
+    "id": "anmari-kara",
+    "title": "あんまり／あまり～から - Vì quá ... nên ...",
+    "description": "Cấu trúc「あんまり／あまりXからY」diễn tả quan hệ nguyên nhân – kết quả: vì mức độ của X quá cao nên dẫn đến kết quả Y.",
+    "structure": "あまり／あんまり + Aい・Aな・N・V普通形 + から、～",
+    "examples": [
+      {
+        "japanese": "電気料金があんまり高いもんだから、調べてもらったら、やっぱり電力会社の間違いだった。",
+        "romaji": "Denki ryoukin ga anmari takai mon dakara, shirabete morattara, yappari denryoku gaisha no machigai datta.",
+        "vietnamese": "Vì tiền điện quá cao nên khi nhờ kiểm tra thì quả thật là công ty điện lực tính nhầm."
+      },
+      {
+        "japanese": "電話をかけてきた相手の言葉遣いがあんまり失礼だったから、思わず切ってしまった。",
+        "romaji": "Denwa o kakete kita aite no kotobazukai ga anmari shitsurei datta kara, omowazu kitte shimatta.",
+        "vietnamese": "Vì cách nói chuyện của người gọi đến quá vô lễ nên tôi đã cúp máy mà không kìm được."
+      },
+      {
+        "japanese": "ゆうべは寝る前にあんまりお腹がすいたから、ラーメンを食べちゃった。",
+        "romaji": "Yuube wa neru mae ni anmari onaka ga suita kara, rāmen o tabechatta.",
+        "vietnamese": "Tối qua trước khi ngủ vì quá đói bụng nên tôi đã ăn mì."
+      }
+    ],
+    "notes": [
+      "Thường dùng trong văn nói với sắc thái thân mật khi dùng あんまり",
+      "Biểu thị mức độ cảm xúc hoặc trạng thái cao hơn bình thường",
+      "Sau から là kết quả phát sinh do mức độ quá mức của X"
+    ]
+  },
+  {
+    "id": "tokoro-datta",
+    "title": "～ところだった - Suýt nữa thì ..., suýt thì ...",
+    "description": "「～ところだった」diễn tả một việc đã gần như xảy ra nhưng cuối cùng không xảy ra, thường là việc không mong muốn. Hay đi với 「もう少しで／危うく」.",
+    "structure": "V辞書形 / Vない形ない + ところだった",
+    "examples": [
+      {
+        "japanese": "友達が電話をくれなければ、約束を忘れるところだった。",
+        "romaji": "Tomodachi ga denwa o kurenakereba, yakusoku o wasureru tokoro datta.",
+        "vietnamese": "Nếu bạn không gọi điện thì suýt nữa tôi đã quên mất cuộc hẹn."
+      },
+      {
+        "japanese": "気づくのが遅れたら、火事になるところだった。",
+        "romaji": "Kizuku no ga okuretara, kaji ni naru tokoro datta.",
+        "vietnamese": "Nếu phát hiện chậm thì suýt nữa đã xảy ra cháy nhà."
+      },
+      {
+        "japanese": "もう少しで赤ちゃんが薬を口に入れるところだった。",
+        "romaji": "Mou sukoshi de akachan ga kusuri o kuchi ni ireru tokoro datta.",
+        "vietnamese": "Suýt chút nữa em bé đã cho thuốc vào miệng."
+      }
+    ],
+    "notes": [
+      "Thường diễn tả tình huống nguy hiểm, đáng tiếc nhưng đã tránh được",
+      "Dạng 「もう少しで／危うく～ところだった」nhấn mạnh mức độ suýt xảy ra",
+      "Có thể dùng với kết quả tốt trong một số trường hợp, nhưng điển hình là kết quả xấu"
+    ]
+  },
+  {
+    "id": "ni-kagitte",
+    "title": "～に限って - Chỉ đúng lúc, riêng ... thì",
+    "description": "「Nに限って」diễn tả cảm giác than phiền hoặc nhận xét rằng chỉ riêng trong trường hợp, đối tượng ấy thì lại xảy ra kết quả khác với mong đợi; cũng dùng với nghĩa tin tưởng rằng riêng đối tượng đó thì điều xấu không xảy ra.",
+    "structure": "N + に限って / N + に限り",
+    "examples": [
+      {
+        "japanese": "デートの約束をしている日に限って、残業を頼まれる。",
+        "romaji": "Dēto no yakusoku o shite iru hi ni kagitte, zangyou o tanomareru.",
+        "vietnamese": "Cứ đúng vào ngày hẹn hò thì lại bị yêu cầu làm thêm giờ."
+      },
+      {
+        "japanese": "子どもって、親が忙しい時に限って熱を出したりするんですよね。",
+        "romaji": "Kodomo tte, oya ga isogashii toki ni kagitte netsu o dashitari surun desu yo ne.",
+        "vietnamese": "Trẻ con ấy mà, cứ đúng lúc bố mẹ bận thì lại sốt hoặc ốm."
+      },
+      {
+        "japanese": "うちの子に限ってそんなことをするはずがない。",
+        "romaji": "Uchi no ko ni kagitte sonna koto o suru hazu ga nai.",
+        "vietnamese": "Riêng con nhà tôi thì chắc chắn không bao giờ làm chuyện như thế."
+      }
+    ],
+    "notes": [
+      "Dùng nhiều khi than phiền về sự trớ trêu (khi đi với sự việc xấu)",
+      "Khi đi với 「～ない」 thể hiện niềm tin, kỳ vọng rằng điều xấu không xảy ra với đối tượng đó",
+      "Gần nghĩa với 「～に限り」 trong thông báo, quy định nhưng sắc thái khác"
+    ]
+  }
+]

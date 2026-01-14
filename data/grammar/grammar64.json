@@ -1,0 +1,398 @@
+[
+  {
+    "id": "sai",
+    "title": "際",
+    "description": "「～際」có ý nghĩa gần giống với 「～とき」nhưng chủ yếu được dùng trong văn viết.",
+    "structure": "Nの + 際",
+    "examples": [
+      {
+        "japanese": "外出の際、必ずフロントに鍵をお預けください。",
+        "romaji": "Gaishutsu no sai, kanarazu furonto ni kagi o oazuke kudasai.",
+        "vietnamese": "Khi đi ra ngoài, quý khách nhất định phải gửi lại chìa khóa ở quầy lễ tân."
+      },
+      {
+        "japanese": "PCをお使いの場合は、チェックインの際、必ずお申し出ください。",
+        "romaji": "PC o otsukai no baai wa, chekkuin no sai, kanarazu omoushide kudasai.",
+        "vietnamese": "Trường hợp quý khách có sử dụng máy tính cá nhân thì khi nhận phòng nhất định phải yêu cầu."
+      },
+      {
+        "japanese": "お引っ越しなどでガスの使用を中止される際は、係の者がお宅に伺います。",
+        "romaji": "Ohikkoshi nado de gasu no shiyou o chuushi sareru sai wa, kakari no mono ga otaku ni ukagaimasu.",
+        "vietnamese": "Khi muốn ngưng sử dụng gas như là lúc chuyển nhà, thì người phụ trách sẽ đến nhà của bạn."
+      }
+    ],
+    "notes": [
+      "Có ý nghĩa gần giống với 「～とき」nhưng chủ yếu được dùng trong văn viết",
+      "Thường dùng trong các văn bản chính thức, thông báo",
+      "Tham chiếu: ～とき (khi)"
+    ]
+  },
+  {
+    "id": "to-itta",
+    "title": "といった",
+    "description": "Cách nói này biểu thị rằng N1 là ví dụ cụ thể của N2 với ý nghĩa 「N1などのようなN2」. Nó ngụ ý rằng ngoài N1 còn có các ví dụ khác.",
+    "structure": "N1、N2といった + N",
+    "examples": [
+      {
+        "japanese": "５月5日には「ちまき」「かしわもち」といった昔からのお菓子を食べる習慣がある。",
+        "romaji": "Gogatsu itsuka ni wa \"chimaki\" \"kashiwamochi\" to itta mukashi kara no okashi o taberu shuukan ga aru.",
+        "vietnamese": "Vào ngày mồng 5 tháng 5 có phong tục ăn bánh truyền thống từ ngày xưa như Chimaki, Kashiwamochi."
+      },
+      {
+        "japanese": "この大学にはマールニア、ポーランドといった東ヨーロッパからの留学生が多い。",
+        "romaji": "Kono daigaku ni wa Rumania, Porando to itta higashi Yooroppa kara no ryuugakusei ga ooi.",
+        "vietnamese": "Ở trường đại học này có nhiều lưu học sinh đến từ Đông Âu như là Rumani, Balan."
+      },
+      {
+        "japanese": "湯川秀樹、利根川進といったノーベル賞受賞者に京都大学出身者が多い。",
+        "romaji": "Yukawa Hideki, Tonegawa Susumu to itta Nooberu shou jushousha ni Kyouto daigaku shusshinsha ga ooi.",
+        "vietnamese": "Trong những người đoạt giải Nobel như Hideki Yukawa, Susumu Tonegawa thì có nhiều người đã tốt nghiệp Đại học Kyoto."
+      }
+    ],
+    "notes": [
+      "Biểu thị rằng N1 là ví dụ cụ thể của N2",
+      "Ngụ ý rằng ngoài N1 còn có các ví dụ khác",
+      "Có nghĩa tương tự như 「N1などのようなN2」",
+      "Thường dùng để liệt kê ví dụ"
+    ]
+  },
+  {
+    "id": "ni-mo-watatte",
+    "title": "に（も）わたって",
+    "description": "「に（も）わたって」biểu đạt rằng người nói cảm giác \"phạm vi thời gian quá dài\", \"phạm vi không gian quá rộng\".",
+    "structure": "N + に（も）わたって",
+    "examples": [
+      {
+        "japanese": "手術は３時間にわたって行われた。",
+        "romaji": "Shujutsu wa san jikan ni watatte okonawareta.",
+        "vietnamese": "Cuộc phẩu thuật đã được tiến hành trong 3 giờ đồng hồ liền."
+      },
+      {
+        "japanese": "砂漠は東西４５０キロにわたって広がっている。",
+        "romaji": "Sabaku wa touzai yonhyaku gojuu kiro ni watatte hirogatte iru.",
+        "vietnamese": "Sa mạc trải dài đến 450km theo hướng đông tây."
+      },
+      {
+        "japanese": "東京から大阪にわたる広い地域で地震があった。",
+        "romaji": "Toukyou kara Oosaka ni wataru hiroi chiiki de jishin ga atta.",
+        "vietnamese": "Đã xảy ra động đất trên khu vực rộng trải dài từ Tokyo đến tân Osaka."
+      },
+      {
+        "japanese": "パンフレットには投資の方法について詳細にわたって説明されている。",
+        "romaji": "Panfuretto ni wa toushi no houhou ni tsuite shousai ni watatte setsumei sarete iru.",
+        "vietnamese": "Ở trong tờ rơi hướng dẫn, phương pháp đầu tư được giới thiệu đến tận chi tiết."
+      },
+      {
+        "japanese": "田中先生は７年間にわたってこのテーマについて研究してきた。",
+        "romaji": "Tanaka sensei wa nana nenkan ni watatte kono teema ni tsuite kenkyuu shite kita.",
+        "vietnamese": "Thầy Tanaka đã nghiên cứu chủ đề này suốt 7 năm."
+      }
+    ],
+    "notes": [
+      "Biểu đạt phạm vi thời gian quá dài hoặc phạm vi không gian quá rộng",
+      "Động từ ở vị ngữ là các động từ chỉ tình trạng xảy ra đồng loạt hoặc có khả năng chỉ trạng thái, sự tiếp diễn",
+      "「～から～にわたって」chỉ phạm vi không gian một cách đại khái",
+      "Có sắc thái khác với cấu trúc chỉ phạm vi rõ ràng như「～から～まで」"
+    ]
+  },
+  {
+    "id": "uchi-ni",
+    "title": "うちに",
+    "description": "「～うちに・・・」biểu thị tình trạng「・・・」 ở vế sau được đưa đến một cách tự nhiên bởi「繰り返し～すること (sự lặp đi lặp lại)」、「ずっと～すること (sự liên tục)」. Ở「～」 là các từ ngữ biểu thị sự lặp đi lặp lại/sự liên tục như 「ている」「続ける」,....",
+    "structure": "V thể nguyên dạng／ている + うちに",
+    "examples": [
+      {
+        "japanese": "３年間ずっとアルバイトとして働くうちに、仕事を認められて社員になることができた。",
+        "romaji": "San nenkan zutto arubaito toshite hataraku uchi ni, shigoto o mitomerarete shain ni naru koto ga dekita.",
+        "vietnamese": "Trong quá trình làm thêm suốt 3 năm tôi đã được nhìn nhận và đã có thể trở thành nhân viên của công ty."
+      },
+      {
+        "japanese": "１０年にわたり観察しているうちに、パンダの特徴がよくわかってきた。",
+        "romaji": "Juunen ni watari kansatsu shite iru uchi ni, panda no tokuchou ga yoku wakatte kita.",
+        "vietnamese": "Trong quá trình quan sát kéo dài 10 năm, tôi đã hiểu rõ được đặc tính của gấu trúc."
+      },
+      {
+        "japanese": "この時計は、使っているうちに、自然に動かなくなってしまった。",
+        "romaji": "Kono tokei wa, tsukatte iru uchi ni, shizen ni ugokanaku natte shimatta.",
+        "vietnamese": "Chiếc đồng hồ này trong quá trình sử dụng tự nhiên bị đứng mất."
+      },
+      {
+        "japanese": "毎日練習しているうちに、速く泳げるようになった。",
+        "romaji": "Mainichi renshuu shite iru uchi ni, hayaku oyogeru you ni natta.",
+        "vietnamese": "Trong quá trình luyện tập mỗi ngày, tôi đã có thể bơi nhanh hơn."
+      },
+      {
+        "japanese": "何度もメールを交換しているうちに、彼女が好きになった。",
+        "romaji": "Nando mo meeru o koukan shite iru uchi ni, kanojo ga suki ni natta.",
+        "vietnamese": "Trong nhiều lần trao đổi qua mail, tôi đã thích cô ấy."
+      }
+    ],
+    "notes": [
+      "Biểu thị tình trạng ở vế sau được đưa đến một cách tự nhiên bởi sự lặp đi lặp lại hoặc sự liên tục",
+      "Ở「～」 là các từ ngữ biểu thị sự lặp đi lặp lại/sự liên tục như 「ている」「続ける」",
+      "Ở「・・・」ngoài các từ ngữ biểu thị sự thay đổi/sự xuất hiện như「になる」、「てくる」còn có「てしまう」",
+      "Thường dùng với động từ thể nguyên dạng hoặc thể ている"
+    ]
+  },
+  {
+    "id": "ni-totte",
+    "title": "にとって",
+    "description": "「～にとってＸはＹだ」biểu đạt rằng \"nhìn từ lập trường của ~, có thể nói rằng X là Y\". Ở「・・・」 là người/tổ chức,... để phán đoán đặc trưng, và câu được dùng ở đây là câu tính từ/câu danh từ biểu thị sự phán đoán/nhận thức/cảm giác.",
+    "structure": "N + にとって",
+    "examples": [
+      {
+        "japanese": "赤ちゃんにとって十分な睡眠は欠かせないものだ。",
+        "romaji": "Akachan ni totte juubun na suimin wa kakasenai mono da.",
+        "vietnamese": "Đối với trẻ nhỏ thì một giấc ngủ đủ là thứ không thể thiếu."
+      },
+      {
+        "japanese": "ビールが嫌いな私にとって、それはただの苦い飲み物だ。",
+        "romaji": "Biiru ga kirai na watashi ni totte, sore wa tada no nigai nomimono da.",
+        "vietnamese": "Đối với một người ghét bia như tôi thì nó chỉ là một thức uống đắng ngắt."
+      },
+      {
+        "japanese": "植物にとって光と水は重要なものだ。",
+        "romaji": "Shokubutsu ni totte hikari to mizu wa juuyou na mono da.",
+        "vietnamese": "Đối với thực vật thì ánh sáng và nước là những thứ quan trọng."
+      },
+      {
+        "japanese": "親にとって子供の成長は楽しみなものだ。",
+        "romaji": "Oya ni totte kodomo no seichou wa tanoshimi na mono da.",
+        "vietnamese": "Đối với bố mẹ, sự trưởng thành của con cái là điều vui mừng nhất."
+      },
+      {
+        "japanese": "留学生にとって奨学金がもらえるかどうかは重要な問題だ。",
+        "romaji": "Ryuugakusei ni totte shougakukin ga moraeru ka dou ka wa juuyou na mondai da.",
+        "vietnamese": "Đối với các bạn du học sinh, việc được nhận học bổng hay không là vấn đề rất quan trọng."
+      }
+    ],
+    "notes": [
+      "Biểu đạt \"nhìn từ lập trường của ~, có thể nói rằng X là Y\"",
+      "Ở「・・・」 là người/tổ chức để phán đoán đặc trưng",
+      "Câu được dùng là câu tính từ/câu danh từ biểu thị sự phán đoán/nhận thức/cảm giác",
+      "Thường dùng để đánh giá từ quan điểm của một đối tượng cụ thể"
+    ]
+  },
+  {
+    "id": "to-wa",
+    "title": "とは",
+    "description": "「～とは」được dùng để giải thích và định nghĩa, hoặc diễn đạt lại bằng cách khác về tính chất, đặc trưng của sự vật mà người nghe được cho là không biết. Trong văn nói thì sẽ trở thành 「～って、「～というのは」.",
+    "structure": "N + とは",
+    "examples": [
+      {
+        "japanese": "「デジカメ」とはデジタルカメラのことです。",
+        "romaji": "\"Dejikame\" to wa dejitaru kamera no koto desu.",
+        "vietnamese": "\"Dejikame\" có nghĩa là máy ảnh số."
+      },
+      {
+        "japanese": "「負けるが勝ち」とは、相手を勝たせる方が、結局は自分が得をすることがあるということだ。",
+        "romaji": "\"Makeru ga kachi\" to wa, aite o kataseru hou ga, kekkyoku wa jibun ga toku o suru koto ga aru to iu koto da.",
+        "vietnamese": "\"Makeru ga kachi\" có nghĩa là nhường cho đối phương thắng rồi cuối cùng mình sẽ được lợi."
+      },
+      {
+        "japanese": "「デジカメ」ってデジタルカメラのことだよ。",
+        "romaji": "\"Dejikame\" tte dejitaru kamera no koto da yo.",
+        "vietnamese": "\"Dejikame\" có nghĩa là máy ảnh số nhỉ?"
+      },
+      {
+        "japanese": "彼女にとって家族とは一体何か。",
+        "romaji": "Kanojo ni totte kazoku to wa ittai nani ka.",
+        "vietnamese": "Đối với cô ấy thì rốt cuộc gia đình là gì?"
+      },
+      {
+        "japanese": "外食とは、レストランなどで食事をすることだ。",
+        "romaji": "Gaishoku to wa, resutoran nado de shokuji o suru koto da.",
+        "vietnamese": "Ăn ngoài là việc dùng bữa ở những nơi như nhà hàng."
+      }
+    ],
+    "notes": [
+      "Được dùng để giải thích và định nghĩa",
+      "Diễn đạt lại bằng cách khác về tính chất, đặc trưng của sự vật",
+      "Người nghe được cho là không biết",
+      "Trong văn nói: 「～って」、「～というのは」",
+      "Ngay cả trường hợp đã rõ định nghĩa nhưng khi người nói muốn nhấn mạnh sự diễn giải khác thì 「とは」được sử dụng"
+    ]
+  },
+  {
+    "id": "ni-oite",
+    "title": "において",
+    "description": "「～において・・・」là hình thức lịch sự của「で」, nó biểu thị thời gian, địa điểm xảy ra sự việc「・・・」. Trường hợp bổ ngữ cho danh từ thì sẽ trở thành 「における」、「においての」.",
+    "structure": "N + において",
+    "examples": [
+      {
+        "japanese": "地域社会において今どのような問題があるかを様々な立場から分析した。",
+        "romaji": "Chiiki shakai ni oite ima dono you na mondai ga aru ka o samazama na tachiba kara bunseki shita.",
+        "vietnamese": "Chúng tôi đã phân tích từ nhiều góc độ để xem bây giờ trong cộng đồng khu vực có những vấn đề gì."
+      },
+      {
+        "japanese": "江戸時代においてもっとも力を持っていたのは誰だろうか。",
+        "romaji": "Edo jidai ni oite mottomo chikara o motte ita no wa dare darou ka.",
+        "vietnamese": "Ở thời Edo thì ai là người nắm nhiều quyền lực nhất nhỉ?"
+      },
+      {
+        "japanese": "この本には現代医学の発展におけるアメリカの役割について書いてある。",
+        "romaji": "Kono hon ni wa gendai igaku no hatten ni okeru Amerika no yakuwari ni tsuite kaite aru.",
+        "vietnamese": "Trong cuốn sách này có viết về vai trò của Mĩ trong sự phát triển của nền y học hiện đại."
+      },
+      {
+        "japanese": "商品の価値は市場においての需給を反映する。",
+        "romaji": "Shouhin no kachi wa shijou ni oite no jukyuu o han'ei suru.",
+        "vietnamese": "Giá cả hàng hóa phản ánh tình hình cung cầu của thị trường."
+      },
+      {
+        "japanese": "それぞれの部署において社員全員が意見を出し合った。",
+        "romaji": "Sorezore no busho ni oite shain zen'in ga iken o dashiaatta.",
+        "vietnamese": "Toàn thể nhân viên tại các bộ phận lần lượt chia sẻ ý kiến."
+      }
+    ],
+    "notes": [
+      "Hình thức lịch sự của「で」",
+      "Biểu thị thời gian, địa điểm xảy ra sự việc",
+      "Trường hợp bổ ngữ cho danh từ: 「における」、「においての」",
+      "Trong văn nói lịch sự: 「～におきまして」",
+      "Thường dùng trong văn viết hoặc lời nói trang trọng"
+    ]
+  },
+  {
+    "id": "wake-da",
+    "title": "わけだ／わけである",
+    "description": "「・・・わけだ」biểu thị「・・・」 là kết quả suy luận từ sự việc đã xuất hiện trong mạch văn/ngữ cảnh ở trước. Một cách dùng nữa của cấu trúc này đó là trường hợp biểu đạt rằng người nói đã biết trước kết quả 「・・・」và lấy một sự việc làm lí do hay bối cảnh cho kết quả đó.",
+    "structure": "V／いA／なA (thể thông thường)／N (ーだ→な) + わけだ／わけである",
+    "examples": [
+      {
+        "japanese": "このチーズは、価値は前と同じだが、２０グラム少なくなっている。値上げをしたわけだ。",
+        "romaji": "Kono chiizu wa, kachi wa mae to onaji da ga, nijuu guramu sukunaku natte iru. Neage o shita wake da.",
+        "vietnamese": "Loại pho mát này cùng giá với loại trước đây nhưng ít hơn 20 gram. Thực chất là đã có sự tăng giá."
+      },
+      {
+        "japanese": "江戸時代は１６０３年に始まり、１８６７年に終わった。２６０年余り続いたわけである。",
+        "romaji": "Edo jidai wa sen roppyaku san nen ni hajimari, sen happyaku rokujuu nana nen ni owatta. Nihyaku rokujuu nen amari tsuzuita wake de aru.",
+        "vietnamese": "Thời kì Edo bắt đầu từ năm 1603 và kết thúc vào năm 1867. Như vậy là đã kéo dài hơn 260 năm."
+      },
+      {
+        "japanese": "外国人の観光客が少ないわけだね。",
+        "romaji": "Gaikokujin no kankoukyaku ga sukunai wake da ne.",
+        "vietnamese": "Thế nên khách du lịch ít đi nhỉ."
+      },
+      {
+        "japanese": "小川さんは毎日のように、ヨガ、ジャズダンス、マッサージ、スポーツジムに通っている。元気なわけだ。",
+        "romaji": "Ogawa-san wa mainichi no you ni, yoga, jazu dansu, massaji, supootsu jimu ni kayotte iru. Genki na wake da.",
+        "vietnamese": "Chị Ogawa hầu như ngày nào cũng đi tập Yoga, nhảy Jazz, mát-xa, gym. Đấy là lí do chị ấy khỏe mạnh."
+      },
+      {
+        "japanese": "山下さんは６５歳で退職してから、散歩とテレビの生活を送っている。毎日が日曜日というわけだ。",
+        "romaji": "Yamashita-san wa rokujuu go sai de taishoku shite kara, sanpo to terebi no seikatsu o okutte iru. Mainichi ga nichiyoubi to iu wake da.",
+        "vietnamese": "Ông Yamashita sau khi về hưu ở tuổi 65 thì sống cuộc sống gắn liền với việc đi dạo và xem ti vi. Mỗi ngày với ông ấy đều là ngày chủ nhật."
+      }
+    ],
+    "notes": [
+      "Biểu thị kết quả suy luận từ sự việc đã xuất hiện trong mạch văn/ngữ cảnh ở trước",
+      "Biểu đạt rằng người nói đã biết trước kết quả và lấy một sự việc làm lí do hay bối cảnh",
+      "Trường hợp kết hợp với danh từ còn có hình thức「Ｎ＋というわけだ」",
+      "Thường dùng để giải thích hoặc kết luận dựa trên thông tin đã biết"
+    ]
+  },
+  {
+    "id": "no-dewa-nai-darou-ka",
+    "title": "のではないだろうか",
+    "description": "「・・・のではないだろうか」là cách nói biểu đạt suy nghĩ của người nói rằng dù nghĩ là「・・・」nhưng tính xác thực của nó không rõ ràng nên không thể khẳng định chắc chắn.",
+    "structure": "V／いA／なA (thể thông thường)／N (ーだ→な) + のではないだろうか",
+    "examples": [
+      {
+        "japanese": "道路を広げる計画には反対意見が多い。実現は難しいのではないだろうか。",
+        "romaji": "Douro o hirogeru keikaku ni wa hantai iken ga ooi. Jitsugen wa muzukashii no dewa nai darou ka.",
+        "vietnamese": "Có nhiều ý kiến phản đối kế hoạch mở rộng con đường. Chẳng phải là khó thực hiện hay sao?"
+      },
+      {
+        "japanese": "日本経済の回復には少し時間がかかるのではないだろうか。",
+        "romaji": "Nihon keizai no kaifuku ni wa sukoshi jikan ga kakaru no dewa nai darou ka.",
+        "vietnamese": "Để nền kinh tế Nhật Bản phục hồi thì chẳng phải là cần có thêm ít thời gian hay sao?"
+      },
+      {
+        "japanese": "情報が少なすぎて不安だ。もう少し情報がもらえたら、住民も安全出来るのではないだろうか。",
+        "romaji": "Jouhou ga sukunasugite fuan da. Mou sukoshi jouhou ga moraetara, juumin mo anzen dekiru no dewa nai darou ka.",
+        "vietnamese": "Vì có quá ít thông tin nên người dân rất hoang mang. Nếu có thể nhận thêm một ít thông tin nữa, thì chẳng phải người dân sẽ an tâm hay sao?"
+      },
+      {
+        "japanese": "パソコンに何か問題があるのではないだろうか。",
+        "romaji": "Pasokon ni nani ka mondai ga aru no dewa nai darou ka.",
+        "vietnamese": "Chẳng phải là máy tính có vấn đề gì hay sao?"
+      }
+    ],
+    "notes": [
+      "Biểu đạt suy nghĩ của người nói rằng dù nghĩ là「・・・」nhưng tính xác thực không rõ ràng",
+      "Không thể khẳng định chắc chắn",
+      "Cách nói nhẹ nhàng, lịch sự hơn so với câu khẳng định trực tiếp",
+      "Thường dùng để đưa ra ý kiến hoặc phán đoán một cách thận trọng"
+    ]
+  },
+  {
+    "id": "kke",
+    "title": "っけ",
+    "description": "「・・・っけ」biểu đặt rằng \"vì đã quên mất là có ... hay không nên xác nhận lại với người nghe để xem có đúng với trí nhớ của mình không\". Trường hợp \"sự thật trong quá khứ\" hay \"điều chắc chắn biết\" không rõ ràng thì cách nói này là để xác nhận lại điều đó. Đây là cách nói chuyên dùng trong văn nói.",
+    "structure": "V／いA／なA (thể thông thường)／N (ーだ) + っけ",
+    "examples": [
+      {
+        "japanese": "今日は何曜日だったっけ？",
+        "romaji": "Kyou wa nan youbi datta kke?",
+        "vietnamese": "Hôm nay là thứ mấy ấy nhỉ?"
+      },
+      {
+        "japanese": "荷物はいつ届くんだったっけ？",
+        "romaji": "Nimotsu wa itsu todoku n datta kke?",
+        "vietnamese": "Hành lý lúc nào sẽ đến ấy nhỉ?"
+      },
+      {
+        "japanese": "あれ？　田中さん、メガネかけてたっけ？",
+        "romaji": "Are? Tanaka-san, megane kaketeta kke?",
+        "vietnamese": "Ơ, anh Tanaka có đeo kính không ấy nhỉ?"
+      },
+      {
+        "japanese": "ブラジルの首都ってどこだったっけ？",
+        "romaji": "Burajiru no shuto tte doko datta kke?",
+        "vietnamese": "Thủ đô của Brazil là ở đâu ấy nhỉ?"
+      }
+    ],
+    "notes": [
+      "Biểu đặt rằng \"vì đã quên mất là có ... hay không nên xác nhận lại với người nghe\"",
+      "Xác nhận lại để xem có đúng với trí nhớ của mình không",
+      "Dùng cho \"sự thật trong quá khứ\" hay \"điều chắc chắn biết\" không rõ ràng",
+      "Cách nói chuyên dùng trong văn nói",
+      "Thường dùng với thể quá khứ"
+    ]
+  },
+  {
+    "id": "ge",
+    "title": "げ",
+    "description": "「～げ」biểu thị nét nghĩa \"mang không khí như ~\", \"có thể cảm nhận được chút về dáng vẻ ~\". Dù không thể nói hoàn toàn là「～」nhưng biểu thị điều gần với trạng thái mà「～」biểu đạt.",
+    "structure": "いA (ーい→げ)／なA (ーな→げ) + げ",
+    "examples": [
+      {
+        "japanese": "主人が出かけるとき、うちの犬の表情はいつも悲しげだ。",
+        "romaji": "Shujin ga dekakeru toki, uchi no inu no hyoujou wa itsumo kanashige da.",
+        "vietnamese": "Khi chồng tôi đi vắng thì vẻ mặt của con chó nhà tôi lúc nào cũng có vẻ buồn."
+      },
+      {
+        "japanese": "母親は、息子が甲子園野球大会に出ることになったと得意げに話していた。",
+        "romaji": "Hahaoya wa, musuko ga Koushien yakyuu taikai ni deru koto ni natta to tokuige ni hanashite ita.",
+        "vietnamese": "Bà mẹ đã kể một cách đắc ý rằng con trai bà đã được chọn tham dự giải đấu bóng chày Koshien."
+      },
+      {
+        "japanese": "地震の影響で工場を閉じることになったと説明する社長は悔しげだった。",
+        "romaji": "Jishin no eikyou de koujou o tojiru koto ni natta to setsumei suru shachou wa kuyashige datta.",
+        "vietnamese": "Vị giám đốc người mà thông báo về việc nhà máy phải đóng cửa do ảnh hưởng của động đất đã có vẻ rất tiếc nuối."
+      },
+      {
+        "japanese": "会社を退職する日、気のせいか父の後ろ姿は小さくて、寂しげだった。",
+        "romaji": "Kaisha o taishoku suru hi, ki no sei ka chichi no ushiro sugata wa chiisakute, sabishige datta.",
+        "vietnamese": "Ngày thôi việc ở công ty, có lẽ là tôi nghĩ quá chăng, khi nhìn bóng dáng phía sau nhỏ bé của bố, tôi cảm nhận bố có vẻ buồn."
+      }
+    ],
+    "notes": [
+      "Biểu thị nét nghĩa \"mang không khí như ~\", \"có thể cảm nhận được chút về dáng vẻ ~\"",
+      "Dù không thể nói hoàn toàn là「～」nhưng biểu thị điều gần với trạng thái mà「～」biểu đạt",
+      "Thường dùng với tính từ để diễn tả cảm xúc, tâm trạng",
+      "Tạo thành tính từ đuôi な từ tính từ đuôi い hoặc な"
+    ]
+  }
+]

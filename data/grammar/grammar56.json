@@ -1,0 +1,350 @@
+[
+  {
+    "id": "te-tte-quotation",
+    "title": "（１）…て…　・　…って…",
+    "description": "Trong câu văn nói, trợ từ 「と」được dùng trong câu trích dẫn có thể chuyển thành「て」,「って」.「という」trong「～という名前を持つ人／もの／ところ」cũng có thể dùng thành「って」.",
+    "structure": "Câu (thể thông thường) + て／って...",
+    "examples": [
+      {
+        "japanese": "田中さんは昨日何て言っていましたか。",
+        "romaji": "Tanaka-san wa kinou nante itte imashita ka.",
+        "vietnamese": "Anh Tanaka đã nói gì hôm qua vậy?"
+      },
+      {
+        "japanese": "...今日は休むって言っていました。",
+        "romaji": "...Kyou wa yasumu tte itte imashita.",
+        "vietnamese": "Anh ấy nói là hôm nay anh ấy nghỉ."
+      },
+      {
+        "japanese": "店の前に「本日休業」って書いてありました。",
+        "romaji": "Mise no mae ni \"honjitsu kyuugyou\" tte kaite arimashita.",
+        "vietnamese": "Trước cửa hiệu có ghi rằng \"Hôm nay nghỉ bán\"."
+      },
+      {
+        "japanese": "昨日、田山って人が来ましたよ。",
+        "romaji": "Kinou, Tayama tte hito ga kimashita yo.",
+        "vietnamese": "Hôm qua có một người tên là Tayama đến đấy ạ."
+      },
+      {
+        "japanese": "この漢字は何って読むんですか。",
+        "romaji": "Kono kanji wa nani tte yomu n desu ka.",
+        "vietnamese": "Chữ Hán này đọc thế nào?"
+      },
+      {
+        "japanese": "「つるや」って店、知ってる？",
+        "romaji": "\"Tsuruya\" tte mise, shitteru?",
+        "vietnamese": "Tiệm \"Tsuruya\", cậu biết chứ?"
+      }
+    ],
+    "notes": [
+      "Trong câu văn nói, trợ từ 「と」được dùng trong câu trích dẫn có thể chuyển thành「て」,「って」",
+      "「という」trong「～という名前を持つ人／もの／ところ」cũng có thể dùng thành「って」",
+      "Dùng trong văn nói thông thường"
+    ]
+  },
+  {
+    "id": "tte-question",
+    "title": "（２）～って…",
+    "description": "「Xって」được dùng khi người nói đặt câu hỏi về X mà mình không biết rõ, hoặc khi người nói nói về tính chất hoặc đặc trưng của X.",
+    "structure": "Câu (thể thông thường) / N thể thông thường －だ + って...",
+    "examples": [
+      {
+        "japanese": "ねえ、函館って、どんな町？",
+        "romaji": "Nee, Hakodate tte, donna machi?",
+        "vietnamese": "Này, Hakodate là thành phố thế nào?"
+      },
+      {
+        "japanese": "メンタルトレーニングっておもしろい！",
+        "romaji": "Mental training tte omoshiroi!",
+        "vietnamese": "Cái gọi là \"Rèn luyện tinh thần\" thật là thú vị."
+      },
+      {
+        "japanese": "ワット先生って、どんな先生？",
+        "romaji": "Watto sensei tte, donna sensei?",
+        "vietnamese": "Thầy giáo Watt là người thế nào?"
+      },
+      {
+        "japanese": "ことばを学ぶって、楽しいですね。",
+        "romaji": "Kotoba o manabu tte, tanoshii desu ne.",
+        "vietnamese": "Học từ vựng vui nhỉ."
+      },
+      {
+        "japanese": "「渋滞」って、どういう意味ですか。",
+        "romaji": "\"Juutai\" tte, dou iu imi desu ka.",
+        "vietnamese": "\"Tắt nghẽn\" có ý nghĩa gì?"
+      }
+    ],
+    "notes": [
+      "「Xって」được dùng khi người nói đặt câu hỏi về X mà mình không biết rõ",
+      "Có thể dùng khi người nói nói về tính chất hoặc đặc trưng của X",
+      "Dùng trong văn nói thông thường"
+    ]
+  },
+  {
+    "id": "tsumori-wa-nai",
+    "title": "（１）～つもりはない",
+    "description": "「～つもりはない」là hình thức phủ định của「～つもりだ」và có ý nghĩa là \"không có ý định～\". Ở mẫu「Vつもりはない」, nếu nội dung mà V chỉ đến đã rõ ràng thì có thể dùng thành「そのつもりはない」. Có 2 cách nói phủ định của「～つもりだ」là:「～つもりはない」và「～ないつもりだ」.「～つもりはない」là cách nói phủ định mạnh mẽ hơn và được dùng khi phủ định mạnh mẽ lời nói của người khác.",
+    "structure": "V thể nguyên dạng + つもりはない",
+    "examples": [
+      {
+        "japanese": "卒業後は就職するつもりです。大学院に行くつもりはありません。",
+        "romaji": "Sotsugyou go wa shuushoku suru tsumori desu. Daigakuin ni iku tsumori wa arimasen.",
+        "vietnamese": "Sau khi tốt nghiệp tôi có kế hoạch xin việc. Tôi không định học lên cao học."
+      },
+      {
+        "japanese": "仕事が忙しいので、今夜のパーティーに出るつもりはない。",
+        "romaji": "Shigoto ga isogashii node, konya no paatii ni deru tsumori wa nai.",
+        "vietnamese": "Vì công việc của tôi hôm nay rất bận nên tôi không nghĩ là mình sẽ tham gia buổi tiệc chiều nay."
+      },
+      {
+        "japanese": "A：1週間くらい休みを取ったらどうですか。B：いえ、そのつもりはありません。",
+        "romaji": "A: Isshuukan kurai yasumi o tottara dou desu ka. B: Ie, sono tsumori wa arimasen.",
+        "vietnamese": "A: Sao anh không tính nghỉ luôn khoảng 1 tuần? B: Không, tôi không có ý định đó."
+      },
+      {
+        "japanese": "皆さんは一つの会社でずっと働こうと思っていますか。",
+        "romaji": "Minasan wa hitotsu no kaisha de zutto hatarakou to omotte imasu ka.",
+        "vietnamese": "Mọi người có đinh làm suốt ở một công ty không?"
+      }
+    ],
+    "notes": [
+      "「～つもりはない」là hình thức phủ định của「～つもりだ」",
+      "Có ý nghĩa là \"không có ý định～\"",
+      "Nếu nội dung đã rõ ràng thì có thể dùng thành「そのつもりはない」",
+      "「～つもりはない」là cách nói phủ định mạnh mẽ hơn「～ないつもりだ」",
+      "Được dùng khi phủ định mạnh mẽ lời nói của người khác"
+    ]
+  },
+  {
+    "id": "tsumori-datta",
+    "title": "（２）～つもりだった",
+    "description": "「～つもりだった」là hình thức giới hạn quá khứ của「～つもりだ」và có ý nghĩa là \"đã có ý định～\". Theo sau nó thường là nội dung thể hiện sự đổi ý.",
+    "structure": "V thể nguyên dạng / V thể ない －ない + つもりだった",
+    "examples": [
+      {
+        "japanese": "電話するつもりでしたが、忘れてしまいました。すみません。",
+        "romaji": "Denwa suru tsumori deshita ga, wasurete shimaimashita. Sumimasen.",
+        "vietnamese": "Tôi đã định gọi điện cho anh, nhưng tôi quên mất. Xin lỗi anh."
+      },
+      {
+        "japanese": "パーティーには行かないつもりでしたが、おもしろそうなので行くことにしました。",
+        "romaji": "Paatii ni wa ikanai tsumori deshita ga, omoshirosou na node iku koto ni shimashita.",
+        "vietnamese": "Tôi đã định không đi đến buổi tiệc, nhưng vì nó có vẻ thú vị nên cuối cùng tôi đã quyết định đi."
+      },
+      {
+        "japanese": "小川さんのコンサートに行きますか。",
+        "romaji": "Ogawa-san no konsaato ni ikimasu ka.",
+        "vietnamese": "Cậu có đi buổi hòa nhạc của anh Ogawa không?"
+      },
+      {
+        "japanese": "どうして遅くなったの？今日は早く帰ってくると言っていたのに。",
+        "romaji": "Doushite osoku natta no? Kyou wa hayaku kaette kuru to itte ita noni.",
+        "vietnamese": "Tại sao anh về muộn vậy? Hôm nay anh đã nói là về sớm mà...."
+      }
+    ],
+    "notes": [
+      "「～つもりだった」là hình thức giới hạn quá khứ của「～つもりだ」",
+      "Có ý nghĩa là \"đã có ý định～\"",
+      "Theo sau nó thường là nội dung thể hiện sự đổi ý"
+    ]
+  },
+  {
+    "id": "ta-tsumori-teiru-tsumori",
+    "title": "（３）～たつもり　・　ているつもり",
+    "description": "「Xたつもり／Xているつもり」biểu thị việc chủ thể hành động cho là X. Tuy nhiên, trên thực tế, nó có thể không là X, hoặc có thể chẳng biết nó là X hay không.",
+    "structure": "thể Vた / Vている / いA / なA －な / Nの + つもり",
+    "examples": [
+      {
+        "japanese": "外国語を練習するときは、小さな子供になったつもりで、大きな声を出してみるといい。",
+        "romaji": "Gaikokugo o renshuu suru toki wa, chiisana kodomo ni natta tsumori de, ookina koe o dashite miru to ii.",
+        "vietnamese": "Khi luyện tập một ngoại ngữ, sẽ rất hiệu quả nếu thử nói to như thể mình là một đứa trẻ nhỏ."
+      },
+      {
+        "japanese": "かぎがかかっていませんでしたよ。...すみません、かけたつもりでした。",
+        "romaji": "Kagi ga kakatte imasen deshita yo. ...Sumimasen, kaketa tsumori deshita.",
+        "vietnamese": "Cửa đã không khóa đấy. ...Tôi xin lỗi, tôi cứ nghĩ là tôi đã khóa rồi."
+      },
+      {
+        "japanese": "わたしは一生懸命やっているつもりです。",
+        "romaji": "Watashi wa isshoukenmei yatte iru tsumori desu.",
+        "vietnamese": "Tôi cho rằng mình đang rất cố gắng."
+      },
+      {
+        "japanese": "若いつもりで無理をしたら、けがをしてしまった。",
+        "romaji": "Wakai tsumori de muri o shitara, kega o shite shimatta.",
+        "vietnamese": "Tôi cứ nghĩ mình còn trẻ và đã gắng sức, kết cục là tôi đã làm mình bị thương."
+      },
+      {
+        "japanese": "「つもり貯金」って何ですか。",
+        "romaji": "\"Tsumori chokin\" tte nani desu ka.",
+        "vietnamese": "\"Tiết kiệm dự định\" là gì vậy?"
+      }
+    ],
+    "notes": [
+      "「Xたつもり／Xているつもり」biểu thị việc chủ thể hành động cho là X",
+      "Trên thực tế, nó có thể không là X, hoặc có thể chẳng biết nó là X hay không",
+      "Có thể dùng với Vた, Vている, tính từ, hoặc danh từ"
+    ]
+  },
+  {
+    "id": "te-bakari-iru",
+    "title": "～てばかりいる　・　～ばかり　～ている",
+    "description": "Mẫu này biểu thị một hành động nào đó thường xuyên xảy ra hoặc lặp đi lặp lại, với tâm trạng chê trách hay bất mãn của người nói về chuyện đó. Trường hợp là ngoại động từ thì「ばかり」có thể đứng ngay sau đối tượng mà nó đề cập đến.",
+    "structure": "(1) V thể て + ばかりいる / (2) Nばかり + V ngoại động từ ている",
+    "examples": [
+      {
+        "japanese": "この猫は一日中、寝てばかりいる。",
+        "romaji": "Kono neko wa ichinichijuu, nete bakari iru.",
+        "vietnamese": "Con mèo này suốt ngày chỉ ngủ."
+      },
+      {
+        "japanese": "弟はいつもコンピューターゲームをしてばかりいる。",
+        "romaji": "Otouto wa itsumo konpyuutaa geemu o shite bakari iru.",
+        "vietnamese": "Em trai tôi lúc nào cũng chơi game trên máy tính."
+      },
+      {
+        "japanese": "弟はいつもコンピューターゲームばかりしている。",
+        "romaji": "Otouto wa itsumo konpyuutaa geemu bakari shite iru.",
+        "vietnamese": "Em trai tôi lúc nào cũng chơi game trên máy tính."
+      },
+      {
+        "japanese": "そんなに働いてばかりいないで、たまには旅行にでも行ったほうがいいよ。",
+        "romaji": "Sonna ni hataraite bakari inaide, tamani wa ryokou ni demo itta hou ga ii yo.",
+        "vietnamese": "Đừng có mãi làm việc như vậy, thỉnh thoảng thì cũng nên đi du lịch đi."
+      },
+      {
+        "japanese": "そんなに甘いものばかり食べていたら、歯が悪くなりますよ。",
+        "romaji": "Sonna ni amai mono bakari tabete itara, ha ga waruku narimasu yo.",
+        "vietnamese": "Nếu mà ăn toàn là đồ ngọt như thế thì sẽ bị sâu răng ấy."
+      }
+    ],
+    "notes": [
+      "Biểu thị một hành động nào đó thường xuyên xảy ra hoặc lặp đi lặp lại",
+      "Với tâm trạng chê trách hay bất mãn của người nói",
+      "Trường hợp là ngoại động từ thì「ばかり」có thể đứng ngay sau đối tượng",
+      "Có 2 cách: Vてばかりいる hoặc NばかりVている"
+    ]
+  },
+  {
+    "id": "toka-listing",
+    "title": "…とか…",
+    "description": "「...とか...とか」được dùng khi liệt kê ra vài ví dụ tương tự nhau. Có thể đưa cả câu văn vào [...」.",
+    "structure": "N / Câu (thể thông thường) + とか",
+    "examples": [
+      {
+        "japanese": "最近忙しくて、テレビのドラマとか映画とか見る時間がありません。",
+        "romaji": "Saikin isogashikute, terebi no dorama toka eiga toka miru jikan ga arimasen.",
+        "vietnamese": "Gần đây tôi bận rộn, không có thời gian xem phim truyền hình hay phim điện ảnh."
+      },
+      {
+        "japanese": "健康のためにテニスとか水泳とかを始めてみるといいですよ。",
+        "romaji": "Kenkou no tame ni tenisu toka suiei toka o hajimete miru to ii desu yo.",
+        "vietnamese": "Vì sức khỏe, bạn nên thử bắt đầu chơi tennis hay bơi lội."
+      },
+      {
+        "japanese": "子どものとき、母に「勉強しろ」とか「たくさん食べなさい」とかよく言われました。",
+        "romaji": "Kodomo no toki, haha ni \"benkyou shiro\" toka \"takusan tabenasai\" toka yoku iwaremashita.",
+        "vietnamese": "Hồi còn bé, tôi thường bị mẹ nói \"hãy đi học bài đi\", \"Hãy ăn nhiều vào\", v.v.."
+      },
+      {
+        "japanese": "日本人は家族や恋人に「愛してる」とか「すてきだよ」とか言いませんね。",
+        "romaji": "Nihonjin wa kazoku ya koibito ni \"aishiteru\" toka \"suteki da yo\" toka iimasen ne.",
+        "vietnamese": "Người Nhật không nói \"anh yêu em\" hay \"tuyệt vời lắm đó\" với người yêu hay gia đình nhỉ."
+      }
+    ],
+    "notes": [
+      "「...とか...とか」được dùng khi liệt kê ra vài ví dụ tương tự nhau",
+      "Có thể đưa cả câu văn vào",
+      "Dùng để liệt kê các ví dụ không đầy đủ"
+    ]
+  },
+  {
+    "id": "te-kuru-appear",
+    "title": "～てくる",
+    "description": "「～てくる」biểu thị có một cái gì đó mới xuất hiện, và có thể cảm nhận được mà trước đây không có.",
+    "structure": "V thể て + くる",
+    "examples": [
+      {
+        "japanese": "暗くなって、星が見えてきた。",
+        "romaji": "Kuraku natte, hoshi ga miete kita.",
+        "vietnamese": "Trời tối và các vì sao xuất hiện."
+      },
+      {
+        "japanese": "隣の家からいいにおいがしてきた。",
+        "romaji": "Tonari no ie kara ii nioi ga shite kita.",
+        "vietnamese": "Mùi thơm từ nhà bên bay tới."
+      },
+      {
+        "japanese": "秋祭りの朝、遠くから太鼓の音が聞こえてきた。",
+        "romaji": "Akimatsuri no asa, tooku kara taiko no oto ga kikoete kita.",
+        "vietnamese": "Tiếng trống từ xa vang lại vào buổi sáng ngày lễ mùa thu."
+      },
+      {
+        "japanese": "空が明るくなってきましたね。もうすぐ雨がやむでしょう。",
+        "romaji": "Sora ga akaruku natte kimashita ne. Mousugu ame ga yamu deshou.",
+        "vietnamese": "Bầu trời sáng lên rồi nhỉ. Có lẽ trời xắp tạnh rồi."
+      },
+      {
+        "japanese": "茶道っておもしろいんですか。",
+        "romaji": "Sadou tte omoshiroi n desu ka.",
+        "vietnamese": "Trà đạo có thú vị không?"
+      }
+    ],
+    "notes": [
+      "「～てくる」biểu thị có một cái gì đó mới xuất hiện",
+      "Có thể cảm nhận được mà trước đây không có",
+      "Thường dùng với các động từ cảm giác như 見える, 聞こえる, する"
+    ]
+  },
+  {
+    "id": "te-kuru-te-iku-direction",
+    "title": "～てくる　・　～ていく",
+    "description": "「～てくる」và「～ていく」đi cùng với các động từ chỉ sự dịch chuyển để chỉ rõ phương hướng dịch chuyển.「～てくる」biểu thị hướng dịch chuyển hướng về phía người nói, còn「～ていく」biểu thị hướng dịch chuyển bắt đầu từ phía người nói và hướng tới một nơi khác.",
+    "structure": "V thể て + くる / いく",
+    "examples": [
+      {
+        "japanese": "兄が旅行から帰ってきた。",
+        "romaji": "Ani ga ryokou kara kaette kita.",
+        "vietnamese": "Anh trai tôi đã trở về từ chuyến du lịch."
+      },
+      {
+        "japanese": "授業のあと、学生たちはうちへ帰っていった。",
+        "romaji": "Jugyou no ato, gakusei-tachi wa uchi e kaette itta.",
+        "vietnamese": "Sau giờ học, các sinh viên đã trở về nhà."
+      },
+      {
+        "japanese": "サケという魚は、生まれた川から海に出て４，５年過ごし、また生まれた川に戻ってきます。",
+        "romaji": "Sake to iu sakana wa, umareta kawa kara umi ni dete yon, go nen sugoshi, mata umareta kawa ni modotte kimasu.",
+        "vietnamese": "Con cá gọi là Sake, nó sẽ từ dòng sông được sinh ra bơi ra biển, trải qua 4,5 năm thì nó lại trở về dòng sông nó được sinh ra."
+      },
+      {
+        "japanese": "見て。鳥が飛んでいくよ。北の国へ帰るんだね。",
+        "romaji": "Mite. Tori ga tonde iku yo. Kita no kuni e kaeru n da ne.",
+        "vietnamese": "Nhìn kìa. Đàn chim bay đi kìa. Chúng nó trở về đất nước phương Bắc nhỉ."
+      }
+    ],
+    "notes": [
+      "「～てくる」biểu thị hướng dịch chuyển hướng về phía người nói",
+      "「～ていく」biểu thị hướng dịch chuyển bắt đầu từ phía người nói và hướng tới một nơi khác",
+      "Đi cùng với các động từ chỉ sự dịch chuyển để chỉ rõ phương hướng"
+    ]
+  },
+  {
+    "id": "ko-reference",
+    "title": "こ～",
+    "description": "「こ」được dùng trong câu văn chỉ định một cái gì đó sẽ xuất hiện ở phía sau.",
+    "structure": "こ～ (chỉ định quy chiếu theo mạch văn)",
+    "examples": [
+      {
+        "japanese": "新聞にこんなことが書いてあった。最近の日本人は家族みんなで休日にコンピューターゲームを楽しむそうだ。",
+        "romaji": "Shinbun ni konna koto ga kaite atta. Saikin no Nihonjin wa kazoku minna de kyuujitsu ni konpyuutaa geemu o tanoshimu sou da.",
+        "vietnamese": "Trên báo có viết chuyện như thế này: \"Nghe nói người Nhật thời gian gần đây, vào ngày nghỉ, tất cả các thành viên trong gia đình tiêu khiển bằng cách cùng chơi game trên máy tính\""
+      }
+    ],
+    "notes": [
+      "「こ」được dùng trong câu văn chỉ định một cái gì đó sẽ xuất hiện ở phía sau",
+      "Chỉ định quy chiếu theo mạch văn",
+      "Khác với あ～・そ～: こ～ chỉ định cái gì đó sẽ xuất hiện sau"
+    ]
+  }
+]

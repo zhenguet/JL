@@ -1,0 +1,910 @@
+[
+  {
+    "id": "kyoukasho",
+    "kanji": "教科書",
+    "hiragana": "きょうかしょ",
+    "en": "textbook",
+    "vi": "giáo trình, sách giáo khoa",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ sách giáo khoa",
+        "Ví dụ: 教科書を 読む (Đọc sách giáo khoa)"
+      ]
+    }
+  },
+  {
+    "id": "izakaya",
+    "kanji": "居酒屋",
+    "hiragana": "いざかや",
+    "en": "izakaya, Japanese pub",
+    "vi": "quán nhậu",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ quán nhậu kiểu Nhật",
+        "Ví dụ: 居酒屋で 飲む (Uống ở quán nhậu)"
+      ]
+    }
+  },
+  {
+    "id": "yakitori",
+    "kanji": "やきとり",
+    "hiragana": "やきとり",
+    "en": "yakitori, grilled chicken skewers",
+    "vi": "thịt gà nướng xiên",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ thịt gà nướng xiên",
+        "Ví dụ: やきとりを 食べる (Ăn thịt gà nướng xiên)"
+      ]
+    }
+  },
+  {
+    "id": "gamen",
+    "kanji": "画面",
+    "hiragana": "がめん",
+    "en": "screen, display",
+    "vi": "màn hình",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ màn hình",
+        "Ví dụ: 画面を 見る (Nhìn màn hình)"
+      ]
+    }
+  },
+  {
+    "id": "haiyuu",
+    "kanji": "俳優",
+    "hiragana": "はいゆう",
+    "en": "actor",
+    "vi": "nam diễn viên",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ diễn viên",
+        "Ví dụ: 俳優に なる (Trở thành diễn viên)"
+      ]
+    }
+  },
+  {
+    "id": "sokkuri",
+    "kanji": "そっくり",
+    "hiragana": "そっくり",
+    "en": "exactly alike, identical",
+    "vi": "giống y đúc, giống hệt",
+    "type": "adverb",
+    "explanation": {
+      "content": [
+        "Trạng từ chỉ sự giống hệt",
+        "Ví dụ: そっくり 同じ (Giống hệt nhau)"
+      ]
+    }
+  },
+  {
+    "id": "konbini",
+    "kanji": "コンビニ",
+    "hiragana": "コンビニ",
+    "en": "convenience store",
+    "vi": "cửa hàng tiện lợi",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ cửa hàng tiện lợi",
+        "Ví dụ: コンビニで 買い物する (Mua sắm ở cửa hàng tiện lợi)"
+      ]
+    }
+  },
+  {
+    "id": "kaisatsu-guchi",
+    "kanji": "改札[口]",
+    "hiragana": "かいさつ[ぐち]",
+    "en": "ticket gate",
+    "vi": "[cửa] soát vé",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ cửa soát vé",
+        "Ví dụ: 改札口を 通る (Đi qua cửa soát vé)"
+      ]
+    }
+  },
+  {
+    "id": "untenshu",
+    "kanji": "運転手",
+    "hiragana": "うんてんしゅ",
+    "en": "driver",
+    "vi": "tài xế",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ tài xế",
+        "Ví dụ: 運転手に なる (Trở thành tài xế)"
+      ]
+    }
+  },
+  {
+    "id": "kakatte-kuru-denwa",
+    "kanji": "かかってくる[電話が～]",
+    "hiragana": "かかってくる[でんわが～]",
+    "en": "[phone] rings, [phone] calls",
+    "vi": "[điện thoại] đổ chuông, gọi đến",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm I",
+        "《かかってきます、かかってくる、かかってきて》",
+        "Ví dụ: 電話が かかってくる (Điện thoại đổ chuông)"
+      ]
+    }
+  },
+  {
+    "id": "kireru-denwa",
+    "kanji": "切れる[電話が～]",
+    "hiragana": "きれる[でんわが～]",
+    "en": "[phone] cuts off, [phone] disconnects",
+    "vi": "[điện thoại] đổ chuông, tắt",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm II",
+        "《切れます、切れる、切れて》",
+        "Ví dụ: 電話が 切れる (Điện thoại bị cắt)"
+      ]
+    }
+  },
+  {
+    "id": "ageru-rei",
+    "kanji": "挙げる[例を～]",
+    "hiragana": "あげる[れいを～]",
+    "en": "to give [an example]",
+    "vi": "đưa ra, cho [ví dụ]",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm II",
+        "《挙げます、挙げる、挙げて》",
+        "Ví dụ: 例を 挙げる (Đưa ra ví dụ)"
+      ]
+    }
+  },
+  {
+    "id": "mirai",
+    "kanji": "未来",
+    "hiragana": "みらい",
+    "en": "future",
+    "vi": "tương lai",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ tương lai",
+        "Ví dụ: 未来を 考える (Suy nghĩ về tương lai)"
+      ]
+    }
+  },
+  {
+    "id": "nakusu-sensou",
+    "kanji": "なくす[戦争を～]",
+    "hiragana": "なくす[せんそうを～]",
+    "en": "to eliminate [war]",
+    "vi": "xóa bỏ, loại bỏ [chiến tranh]",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm I",
+        "《なくします、なくす、なくして》",
+        "Ví dụ: 戦争を なくす (Xóa bỏ chiến tranh)"
+      ]
+    }
+  },
+  {
+    "id": "fushigi",
+    "kanji": "不思議[な]",
+    "hiragana": "ふしぎ[な]",
+    "en": "strange, mysterious",
+    "vi": "kỳ lạ",
+    "type": "adjective",
+    "explanation": {
+      "content": [
+        "Tính từ đuôi na chỉ sự kỳ lạ",
+        "Ví dụ: 不思議な 現象 (Hiện tượng kỳ lạ)"
+      ]
+    }
+  },
+  {
+    "id": "fuyasu",
+    "kanji": "増やす",
+    "hiragana": "ふやす",
+    "en": "to increase, to add",
+    "vi": "làm tăng lên",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm I",
+        "《増やします、増やす、増やして》",
+        "Ví dụ: 数を 増やす (Tăng số lượng)"
+      ]
+    }
+  },
+  {
+    "id": "imagoro",
+    "kanji": "今ごろ",
+    "hiragana": "いまごろ",
+    "en": "around now, about this time",
+    "vi": "tầm này, giờ này",
+    "type": "adverb",
+    "explanation": {
+      "content": [
+        "Trạng từ chỉ thời gian",
+        "Ví dụ: 今ごろ 着く (Đến tầm này)"
+      ]
+    }
+  },
+  {
+    "id": "kankoukyaku",
+    "kanji": "観光客",
+    "hiragana": "かんこうきゃく",
+    "en": "tourist, sightseer",
+    "vi": "khách du lịch, du khách",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ khách du lịch",
+        "Ví dụ: 観光客が 多い (Nhiều khách du lịch)"
+      ]
+    }
+  },
+  {
+    "id": "sou-kawa",
+    "kanji": "沿う[川に～]",
+    "hiragana": "そう[かわに～]",
+    "en": "to run along [the river]",
+    "vi": "dọc theo [con sông]",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm I",
+        "《沿います、沿う、沿って》",
+        "Ví dụ: 川に 沿って 歩く (Đi bộ dọc theo sông)"
+      ]
+    }
+  },
+  {
+    "id": "oodoori",
+    "kanji": "大通り",
+    "hiragana": "おおどおり",
+    "en": "main street, avenue",
+    "vi": "phố chính, đường lớn, đại lộ",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ phố chính",
+        "Ví dụ: 大通りを 渡る (Băng qua phố chính)"
+      ]
+    }
+  },
+  {
+    "id": "deru-oodoori",
+    "kanji": "出る[大通りに～]",
+    "hiragana": "でる[だいどおりに～]",
+    "en": "to come out to [the main street]",
+    "vi": "ra đến [phố chính]",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm II",
+        "《出ます、出る、出て》",
+        "Ví dụ: 大通りに 出る (Ra đến phố chính)"
+      ]
+    }
+  },
+  {
+    "id": "oudanhodou",
+    "kanji": "横断歩道",
+    "hiragana": "おうだんほうど",
+    "en": "crosswalk, pedestrian crossing",
+    "vi": "đường đi bộ băng qua đường",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ đường đi bộ băng qua đường",
+        "Ví dụ: 横断歩道を 渡る (Băng qua đường đi bộ)"
+      ]
+    }
+  },
+  {
+    "id": "tsukiatari",
+    "kanji": "突き当たり",
+    "hiragana": "つきあたり",
+    "en": "end, dead end",
+    "vi": "cuối (đường)",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ cuối đường",
+        "Ví dụ: 突き当たりを 右に 曲がる (Rẽ phải ở cuối đường)"
+      ]
+    }
+  },
+  {
+    "id": "senro",
+    "kanji": "線路",
+    "hiragana": "せんろ",
+    "en": "railway track",
+    "vi": "đường ray",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ đường ray",
+        "Ví dụ: 線路を 渡る (Băng qua đường ray)"
+      ]
+    }
+  },
+  {
+    "id": "mukougawa",
+    "kanji": "向こう側",
+    "hiragana": "むこうがわ",
+    "en": "the other side, opposite side",
+    "vi": "phía đối diện",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ phía đối diện",
+        "Ví dụ: 向こう側に 行く (Đi đến phía đối diện)"
+      ]
+    }
+  },
+  {
+    "id": "fumikiri",
+    "kanji": "踏切",
+    "hiragana": "ふみきり",
+    "en": "railway crossing",
+    "vi": "đường ngang (điểm giao cắt giữa đường sắt và đường bộ)",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ đường ngang",
+        "Ví dụ: 踏切を 渡る (Băng qua đường ngang)"
+      ]
+    }
+  },
+  {
+    "id": "wakareru-michi",
+    "kanji": "分かれる[道が～]",
+    "hiragana": "わかれる[みちが～]",
+    "en": "[road] branches, [road] forks",
+    "vi": "[đường] tách ra, phân ra",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm II",
+        "《分かれます、分かれる、分かれて》",
+        "Ví dụ: 道が 分かれる (Đường tách ra)"
+      ]
+    }
+  },
+  {
+    "id": "geijutsu",
+    "kanji": "芸術",
+    "hiragana": "げいじゅつ",
+    "en": "art",
+    "vi": "nghệ thuật",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ nghệ thuật",
+        "Ví dụ: 芸術を 学ぶ (Học nghệ thuật)"
+      ]
+    }
+  },
+  {
+    "id": "michijun",
+    "kanji": "道順",
+    "hiragana": "みちじゅん",
+    "en": "directions, route",
+    "vi": "cách đi, lộ trình đi",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ cách đi",
+        "Ví dụ: 道順を 教える (Chỉ đường)"
+      ]
+    }
+  },
+  {
+    "id": "tsuukounin",
+    "kanji": "通行人",
+    "hiragana": "つうこうにん",
+    "en": "pedestrian, passerby",
+    "vi": "người qua đường",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ người qua đường",
+        "Ví dụ: 通行人に 聞く (Hỏi người qua đường)"
+      ]
+    }
+  },
+  {
+    "id": "toori",
+    "kanji": "通り",
+    "hiragana": "とおり",
+    "en": "street, road",
+    "vi": "đường, phố",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ đường phố",
+        "Ví dụ: この通り (Con đường này)"
+      ]
+    }
+  },
+  {
+    "id": "kawazoi",
+    "kanji": "川沿い",
+    "hiragana": "かわぞい",
+    "en": "along the river",
+    "vi": "dọc theo sông",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ dọc theo sông",
+        "Ví dụ: 川沿いを 散歩する (Đi dạo dọc theo sông)"
+      ]
+    }
+  },
+  {
+    "id": "zoi-suffix",
+    "kanji": "～沿い",
+    "hiragana": "～ぞい",
+    "en": "along～",
+    "vi": "dọc theo ~",
+    "type": "other",
+    "explanation": {
+      "content": [
+        "Hậu tố chỉ dọc theo",
+        "Ví dụ: 川沿い (Dọc theo sông)"
+      ]
+    }
+  },
+  {
+    "id": "nagareru",
+    "kanji": "流れる",
+    "hiragana": "ながれる",
+    "en": "to flow",
+    "vi": "chảy",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm II",
+        "《流れます、流れる、流れて》",
+        "Ví dụ: 水が 流れる (Nước chảy)"
+      ]
+    }
+  },
+  {
+    "id": "saki-distance",
+    "kanji": "～先[100メートル～]",
+    "hiragana": "～さき",
+    "en": "～ahead [100 meters～]",
+    "vi": "phía trước [100m]",
+    "type": "other",
+    "explanation": {
+      "content": [
+        "Hậu tố chỉ phía trước",
+        "Ví dụ: 100メートル先 (100 mét phía trước)"
+      ]
+    }
+  },
+  {
+    "id": "hou-migi",
+    "kanji": "～方[右の～]",
+    "hiragana": "～ほう[みぎの～]",
+    "en": "～side [right～]",
+    "vi": "phía bên [phải]",
+    "type": "other",
+    "explanation": {
+      "content": [
+        "Hậu tố chỉ phía bên",
+        "Ví dụ: 右の方 (Phía bên phải)"
+      ]
+    }
+  },
+  {
+    "id": "nanboku",
+    "kanji": "南北",
+    "hiragana": "なんぼく",
+    "en": "north and south",
+    "vi": "nam bắc",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ nam bắc",
+        "Ví dụ: 南北に 走る (Chạy theo hướng nam bắc)"
+      ]
+    }
+  },
+  {
+    "id": "gyaku",
+    "kanji": "逆",
+    "hiragana": "ぎゃく",
+    "en": "reverse, opposite",
+    "vi": "ngược lại",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ ngược lại",
+        "Ví dụ: 逆の 方向 (Hướng ngược lại)"
+      ]
+    }
+  },
+  {
+    "id": "minami-hankyuu",
+    "kanji": "南半球",
+    "hiragana": "みなみはんきゅう",
+    "en": "Southern Hemisphere",
+    "vi": "nam bán cầu",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ nam bán cầu",
+        "Ví dụ: 南半球の 国 (Nước ở nam bán cầu)"
+      ]
+    }
+  },
+  {
+    "id": "kita-hankyuu",
+    "kanji": "北半球",
+    "hiragana": "きたはんきゅう",
+    "en": "Northern Hemisphere",
+    "vi": "bắc bán cầu",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ bắc bán cầu",
+        "Ví dụ: 北半球の 国 (Nước ở bắc bán cầu)"
+      ]
+    }
+  },
+  {
+    "id": "joushiki",
+    "kanji": "常識",
+    "hiragana": "じょうしき",
+    "en": "common sense",
+    "vi": "thường thức, kiến thức thông thường",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ thường thức",
+        "Ví dụ: 常識を 持つ (Có thường thức)"
+      ]
+    }
+  },
+  {
+    "id": "sabetsu",
+    "kanji": "差別",
+    "hiragana": "さべつ",
+    "en": "discrimination",
+    "vi": "sự phân biệt đối xử",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ sự phân biệt đối xử",
+        "Ví dụ: 差別を なくす (Xóa bỏ phân biệt đối xử)"
+      ]
+    }
+  },
+  {
+    "id": "byoudou",
+    "kanji": "平等[な]",
+    "hiragana": "びょうどう[な]",
+    "en": "equal, equality",
+    "vi": "bình đẳng",
+    "type": "adjective",
+    "explanation": {
+      "content": [
+        "Tính từ đuôi na chỉ sự bình đẳng",
+        "Ví dụ: 平等な 社会 (Xã hội bình đẳng)"
+      ]
+    }
+  },
+  {
+    "id": "ichi",
+    "kanji": "位置",
+    "hiragana": "いち",
+    "en": "position, location",
+    "vi": "vị trí",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ vị trí",
+        "Ví dụ: 位置を 確認する (Xác nhận vị trí)"
+      ]
+    }
+  },
+  {
+    "id": "ningen",
+    "kanji": "人間",
+    "hiragana": "にんげん",
+    "en": "human being, person",
+    "vi": "con người",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ con người",
+        "Ví dụ: 人間の 権利 (Quyền con người)"
+      ]
+    }
+  },
+  {
+    "id": "kansatsu-suru",
+    "kanji": "観察する",
+    "hiragana": "かんさつする",
+    "en": "to observe",
+    "vi": "quan sát",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm III",
+        "《観察します、観察する、観察して》",
+        "Ví dụ: 自然を 観察する (Quan sát thiên nhiên)"
+      ]
+    }
+  },
+  {
+    "id": "men",
+    "kanji": "面",
+    "hiragana": "めん",
+    "en": "face, surface",
+    "vi": "mặt, bề mặt",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ mặt, bề mặt",
+        "Ví dụ: 表面 (Bề mặt)"
+      ]
+    }
+  },
+  {
+    "id": "chuuou",
+    "kanji": "中央",
+    "hiragana": "ちゅうおう",
+    "en": "center, central",
+    "vi": "trung tâm",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ trung tâm",
+        "Ví dụ: 中央に 置く (Đặt ở trung tâm)"
+      ]
+    }
+  },
+  {
+    "id": "shizen-ni",
+    "kanji": "自然に",
+    "hiragana": "しぜんに",
+    "en": "naturally, unconsciously",
+    "vi": "một cách tự nhiên, bất giác",
+    "type": "adverb",
+    "explanation": {
+      "content": [
+        "Trạng từ chỉ tự nhiên",
+        "Ví dụ: 自然に 動く (Di chuyển tự nhiên)"
+      ]
+    }
+  },
+  {
+    "id": "doryoku-suru",
+    "kanji": "努力する",
+    "hiragana": "どりょくする",
+    "en": "to make an effort, to strive",
+    "vi": "nỗ lực, cố gắng",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm III",
+        "《努力します、努力する、努力して》",
+        "Ví dụ: 目標に向かって 努力する (Nỗ lực hướng tới mục tiêu)"
+      ]
+    }
+  },
+  {
+    "id": "sokode",
+    "kanji": "そこで",
+    "hiragana": "そこで",
+    "en": "therefore, so",
+    "vi": "vì thế, vì vậy",
+    "type": "conjunction",
+    "explanation": {
+      "content": [
+        "Liên từ chỉ kết quả",
+        "Ví dụ: そこで 決めた (Vì vậy đã quyết định)"
+      ]
+    }
+  },
+  {
+    "id": "futsuu",
+    "kanji": "普通",
+    "hiragana": "ふつう",
+    "en": "normal, usual",
+    "vi": "bình thường, thông thường",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ sự bình thường",
+        "Ví dụ: 普通の 人 (Người bình thường)"
+      ]
+    }
+  },
+  {
+    "id": "keiido",
+    "kanji": "経緯度",
+    "hiragana": "けいいど",
+    "en": "longitude and latitude",
+    "vi": "kinh độ và vĩ độ",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ kinh độ và vĩ độ",
+        "Ví dụ: 経緯度を 調べる (Kiểm tra kinh độ và vĩ độ)"
+      ]
+    }
+  },
+  {
+    "id": "muishiki-ni",
+    "kanji": "無意識に",
+    "hiragana": "むいしきに",
+    "en": "unconsciously, unintentionally",
+    "vi": "vô thức, không chủ ý",
+    "type": "adverb",
+    "explanation": {
+      "content": [
+        "Trạng từ chỉ vô thức",
+        "Ví dụ: 無意識に 動く (Di chuyển vô thức)"
+      ]
+    }
+  },
+  {
+    "id": "araware",
+    "kanji": "表れ",
+    "hiragana": "あらわれ",
+    "en": "manifestation, expression",
+    "vi": "biểu hiện",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ biểu hiện",
+        "Ví dụ: 感情の 表れ (Biểu hiện cảm xúc)"
+      ]
+    }
+  },
+  {
+    "id": "jouge",
+    "kanji": "上下",
+    "hiragana": "じょうげ",
+    "en": "up and down, vertical",
+    "vi": "trên dưới",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ trên dưới",
+        "Ví dụ: 上下に 動く (Di chuyển lên xuống)"
+      ]
+    }
+  },
+  {
+    "id": "sayuu",
+    "kanji": "左右",
+    "hiragana": "さゆう",
+    "en": "left and right",
+    "vi": "trái phải",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ trái phải",
+        "Ví dụ: 左右に 動く (Di chuyển trái phải)"
+      ]
+    }
+  },
+  {
+    "id": "sukunakutomo",
+    "kanji": "少なくとも",
+    "hiragana": "すくなくとも",
+    "en": "at least",
+    "vi": "ít nhất thì",
+    "type": "adverb",
+    "explanation": {
+      "content": [
+        "Trạng từ chỉ mức tối thiểu",
+        "Ví dụ: 少なくとも 3回 (Ít nhất 3 lần)"
+      ]
+    }
+  },
+  {
+    "id": "monku",
+    "kanji": "文句",
+    "hiragana": "もんく",
+    "en": "complaint",
+    "vi": "phàn nàn, than phiền",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ sự phàn nàn",
+        "Ví dụ: 文句を 言う (Phàn nàn)"
+      ]
+    }
+  },
+  {
+    "id": "wazato",
+    "kanji": "わざと",
+    "hiragana": "わざと",
+    "en": "on purpose, intentionally",
+    "vi": "chủ ý, cố tình",
+    "type": "adverb",
+    "explanation": {
+      "content": [
+        "Trạng từ chỉ sự cố ý",
+        "Ví dụ: わざと 遅れる (Cố tình đến muộn)"
+      ]
+    }
+  },
+  {
+    "id": "keido",
+    "kanji": "軽度",
+    "hiragana": "けいど",
+    "en": "longitude",
+    "vi": "kinh độ",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ kinh độ",
+        "Ví dụ: 軽度を 測る (Đo kinh độ)"
+      ]
+    }
+  },
+  {
+    "id": "ido",
+    "kanji": "緯度",
+    "hiragana": "いど",
+    "en": "latitude",
+    "vi": "vĩ độ",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ vĩ độ",
+        "Ví dụ: 緯度を 測る (Đo vĩ độ)"
+      ]
+    }
+  },
+  {
+    "id": "shiyou-suru",
+    "kanji": "使用する",
+    "hiragana": "しようする",
+    "en": "to use",
+    "vi": "sử dụng",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm III",
+        "《使用します、使用する、使用して》",
+        "Ví dụ: コンピューターを 使用する (Sử dụng máy tính)"
+      ]
+    }
+  },
+  {
+    "id": "touzai",
+    "kanji": "東西",
+    "hiragana": "とうざい",
+    "en": "east and west",
+    "vi": "đông và tây",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ đông tây",
+        "Ví dụ: 東西に 走る (Chạy theo hướng đông tây)"
+      ]
+    }
+  }
+]

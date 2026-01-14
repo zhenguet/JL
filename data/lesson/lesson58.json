@@ -1,0 +1,1039 @@
+[
+  {
+    "id": "nemuru",
+    "kanji": "眠る",
+    "hiragana": "ねむる",
+    "en": "to sleep",
+    "vi": "ngủ",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm I",
+        "《眠ります、眠る、眠って》",
+        "Ví dụ: よく眠る (Ngủ ngon)"
+      ]
+    }
+  },
+  {
+    "id": "damaru",
+    "kanji": "黙る",
+    "hiragana": "だまる",
+    "en": "to be silent",
+    "vi": "im lặng",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm I",
+        "《黙ります、黙る、黙って》",
+        "Ví dụ: 黙って聞く (Im lặng lắng nghe)"
+      ]
+    }
+  },
+  {
+    "id": "toru-nooto",
+    "kanji": "取る[ノートを～]",
+    "hiragana": "とる[ノートを～]",
+    "en": "to take [notes]",
+    "vi": "viết [ghi chú]",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm I",
+        "《取ります、取る、取って》",
+        "Ví dụ: ノートを取る (Ghi chú)"
+      ]
+    }
+  },
+  {
+    "id": "nusumu",
+    "kanji": "盗む",
+    "hiragana": "ぬすむ",
+    "en": "to steal",
+    "vi": "trộm, ăn trộm",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm I",
+        "《盗みます、盗む、盗んで》",
+        "Ví dụ: お金を盗む (Ăn trộm tiền)"
+      ]
+    }
+  },
+  {
+    "id": "kogeru",
+    "kanji": "焦げる",
+    "hiragana": "こげる",
+    "en": "to burn, to be scorched",
+    "vi": "cháy, cháy xém",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm II",
+        "《焦げます、焦げる、焦げて》",
+        "Ví dụ: パンが焦げる (Bánh mì bị cháy)"
+      ]
+    }
+  },
+  {
+    "id": "kareru",
+    "kanji": "枯れる",
+    "hiragana": "かれる",
+    "en": "to wither, to dry up",
+    "vi": "héo, khô héo",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm II",
+        "《枯れます、枯れる、枯れて》",
+        "Ví dụ: 花が枯れる (Hoa héo)"
+      ]
+    }
+  },
+  {
+    "id": "heibon",
+    "kanji": "平凡[な]",
+    "hiragana": "へいぼん[な]",
+    "en": "ordinary, common",
+    "vi": "bình thường, bình dị",
+    "type": "adjective",
+    "explanation": {
+      "content": [
+        "Tính từ đuôi na chỉ sự bình thường",
+        "Ví dụ: 平凡な生活 (Cuộc sống bình thường)"
+      ]
+    }
+  },
+  {
+    "id": "jinsei",
+    "kanji": "人生",
+    "hiragana": "じんせい",
+    "en": "life, human life",
+    "vi": "cuộc đời",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ cuộc đời",
+        "Ví dụ: 人生を楽しむ (Tận hưởng cuộc đời)"
+      ]
+    }
+  },
+  {
+    "id": "menkyo",
+    "kanji": "免許",
+    "hiragana": "めんきょ",
+    "en": "license, permit",
+    "vi": "giấy phép",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ giấy phép",
+        "Ví dụ: 免許を取る (Lấy giấy phép)"
+      ]
+    }
+  },
+  {
+    "id": "toru-menkyo",
+    "kanji": "取る[免許を～]",
+    "hiragana": "とる[めんきょを～]",
+    "en": "to get [a license]",
+    "vi": "lấy [giấy phép]",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm I",
+        "《取ります、取る、取って》",
+        "Ví dụ: 免許を取る (Lấy giấy phép)"
+      ]
+    }
+  },
+  {
+    "id": "taishoku-suru",
+    "kanji": "退職する",
+    "hiragana": "たいしょくする",
+    "en": "to retire",
+    "vi": "về hưu, nghỉ việc",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm III",
+        "《退職します、退職する、退職して》",
+        "Ví dụ: 会社を退職する (Nghỉ việc ở công ty)"
+      ]
+    }
+  },
+  {
+    "id": "mottai-nai",
+    "kanji": "もったいない",
+    "hiragana": "もったいない",
+    "en": "wasteful, a waste",
+    "vi": "lãng phí",
+    "type": "adjective",
+    "explanation": {
+      "content": [
+        "Tính từ đuôi i chỉ sự lãng phí",
+        "Ví dụ: もったいないことをする (Làm việc lãng phí)"
+      ]
+    }
+  },
+  {
+    "id": "nabe",
+    "kanji": "鍋",
+    "hiragana": "なべ",
+    "en": "pot, pan",
+    "vi": "nồi, xoong",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ nồi, xoong",
+        "Ví dụ: 鍋で料理する (Nấu ăn bằng nồi)"
+      ]
+    }
+  },
+  {
+    "id": "kotoba-zukai",
+    "kanji": "ことば遣い",
+    "hiragana": "ことばづかい",
+    "en": "way of speaking, word usage",
+    "vi": "cách dùng từ ngữ, cách sử dụng ngôn ngữ",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ cách dùng từ ngữ",
+        "Ví dụ: ことば遣いが丁寧 (Cách dùng từ ngữ lịch sự)"
+      ]
+    }
+  },
+  {
+    "id": "nama",
+    "kanji": "生",
+    "hiragana": "なま",
+    "en": "raw, fresh",
+    "vi": "sống, tươi",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ trạng thái sống, tươi",
+        "Ví dụ: 生の魚 (Cá sống)"
+      ]
+    }
+  },
+  {
+    "id": "senmon-teki",
+    "kanji": "専門的[な]",
+    "hiragana": "せんもんてき[な]",
+    "en": "specialized, professional",
+    "vi": "mang tính chuyên môn",
+    "type": "adjective",
+    "explanation": {
+      "content": [
+        "Tính từ đuôi na chỉ tính chuyên môn",
+        "Ví dụ: 専門的な知識 (Kiến thức chuyên môn)"
+      ]
+    }
+  },
+  {
+    "id": "shakai-benkyou",
+    "kanji": "社会勉強",
+    "hiragana": "しゃかいべんきょう",
+    "en": "social learning",
+    "vi": "học hỏi về xã hội xung quanh",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ việc học hỏi về xã hội",
+        "Ví dụ: 社会勉強をする (Học hỏi về xã hội)"
+      ]
+    }
+  },
+  {
+    "id": "koukousei",
+    "kanji": "高校生",
+    "hiragana": "こうこうせい",
+    "en": "high school student",
+    "vi": "học sinh cấp 3",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ học sinh cấp 3",
+        "Ví dụ: 高校生になる (Trở thành học sinh cấp 3)"
+      ]
+    }
+  },
+  {
+    "id": "shima",
+    "kanji": "しま",
+    "hiragana": "しま",
+    "en": "stripe, stripe pattern",
+    "vi": "kẻ sọc",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ kẻ sọc",
+        "Ví dụ: しまのシャツ (Áo sơ mi kẻ sọc)"
+      ]
+    }
+  },
+  {
+    "id": "hanagara",
+    "kanji": "花柄",
+    "hiragana": "はながら",
+    "en": "flower pattern",
+    "vi": "hoạ tiết hoa",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ hoạ tiết hoa",
+        "Ví dụ: 花柄のスカート (Váy hoạ tiết hoa)"
+      ]
+    }
+  },
+  {
+    "id": "chekku",
+    "kanji": "チェック",
+    "hiragana": "チェック",
+    "en": "check pattern, plaid",
+    "vi": "kẻ ca-rô",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ kẻ ca-rô",
+        "Ví dụ: チェックのシャツ (Áo sơ mi kẻ ca-rô)"
+      ]
+    }
+  },
+  {
+    "id": "sukaato",
+    "kanji": "スカート",
+    "hiragana": "スカート",
+    "en": "skirt",
+    "vi": "váy",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ váy",
+        "Ví dụ: スカートをはく (Mặc váy)"
+      ]
+    }
+  },
+  {
+    "id": "muji",
+    "kanji": "無地",
+    "hiragana": "むじ",
+    "en": "solid color, plain",
+    "vi": "không có họa tiết, trơn",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ không có họa tiết",
+        "Ví dụ: 無地のシャツ (Áo sơ mi trơn)"
+      ]
+    }
+  },
+  {
+    "id": "mizutama",
+    "kanji": "水玉",
+    "hiragana": "みずたま",
+    "en": "polka dot",
+    "vi": "chấm bi",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ chấm bi",
+        "Ví dụ: 水玉のスカート (Váy chấm bi)"
+      ]
+    }
+  },
+  {
+    "id": "ryukku",
+    "kanji": "リュック",
+    "hiragana": "リュック",
+    "en": "backpack, rucksack",
+    "vi": "ba lô",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ ba lô",
+        "Ví dụ: リュックを背負う (Đeo ba lô)"
+      ]
+    }
+  },
+  {
+    "id": "seou",
+    "kanji": "背負う",
+    "hiragana": "せおう",
+    "en": "to carry on one's back",
+    "vi": "đeo trên lưng",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm I",
+        "《背負います、背負う、背負って》",
+        "Ví dụ: リュックを背負う (Đeo ba lô)"
+      ]
+    }
+  },
+  {
+    "id": "saabisu-kauntaa",
+    "kanji": "サービスカウンター",
+    "hiragana": "サービスカウンター",
+    "en": "service counter",
+    "vi": "quầy dịch vụ",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ quầy dịch vụ",
+        "Ví dụ: サービスカウンターで聞く (Hỏi ở quầy dịch vụ)"
+      ]
+    }
+  },
+  {
+    "id": "mei",
+    "kanji": "姪",
+    "hiragana": "めい",
+    "en": "niece",
+    "vi": "cháu gái",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ cháu gái",
+        "Ví dụ: 姪が来る (Cháu gái đến)"
+      ]
+    }
+  },
+  {
+    "id": "tokuchou",
+    "kanji": "特徴",
+    "hiragana": "とくちょう",
+    "en": "characteristic, feature",
+    "vi": "đặc trưng, đặc điểm",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ đặc trưng, đặc điểm",
+        "Ví dụ: 特徴を説明する (Giải thích đặc điểm)"
+      ]
+    }
+  },
+  {
+    "id": "shinchou",
+    "kanji": "身長",
+    "hiragana": "しんちょう",
+    "en": "height",
+    "vi": "chiều cao",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ chiều cao",
+        "Ví dụ: 身長を測る (Đo chiều cao)"
+      ]
+    }
+  },
+  {
+    "id": "jiinzu",
+    "kanji": "ジーンズ",
+    "hiragana": "ジーンズ",
+    "en": "jeans",
+    "vi": "quần jean, quần bò",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ quần jean",
+        "Ví dụ: ジーンズをはく (Mặc quần jean)"
+      ]
+    }
+  },
+  {
+    "id": "kamigata",
+    "kanji": "髪型",
+    "hiragana": "かみがた",
+    "en": "hairstyle",
+    "vi": "kiểu tóc",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ kiểu tóc",
+        "Ví dụ: 髪型を変える (Thay đổi kiểu tóc)"
+      ]
+    }
+  },
+  {
+    "id": "kata",
+    "kanji": "肩",
+    "hiragana": "かた",
+    "en": "shoulder",
+    "vi": "vai",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ vai",
+        "Ví dụ: 肩が痛い (Vai đau)"
+      ]
+    }
+  },
+  {
+    "id": "mochimono",
+    "kanji": "持ち物",
+    "hiragana": "もちもの",
+    "en": "belongings, personal items",
+    "vi": "đồ dùng cá nhân, đồ mang theo",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ đồ dùng cá nhân",
+        "Ví dụ: 持ち物を確認する (Kiểm tra đồ dùng cá nhân)"
+      ]
+    }
+  },
+  {
+    "id": "mizuiro",
+    "kanji": "水色",
+    "hiragana": "みずいろ",
+    "en": "light blue, aqua",
+    "vi": "màu xanh nhạt",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ màu xanh nhạt",
+        "Ví dụ: 水色のシャツ (Áo sơ mi màu xanh nhạt)"
+      ]
+    }
+  },
+  {
+    "id": "oritatami",
+    "kanji": "折りたたみ",
+    "hiragana": "おりたたみ",
+    "en": "folding",
+    "vi": "gấp, gập",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ sự gấp, gập",
+        "Ví dụ: 折りたたみの傘 (Ô gấp)"
+      ]
+    }
+  },
+  {
+    "id": "aoji",
+    "kanji": "青地",
+    "hiragana": "あおじ",
+    "en": "blue background",
+    "vi": "nền màu xanh",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ nền màu xanh",
+        "Ví dụ: 青地の布 (Vải nền xanh)"
+      ]
+    }
+  },
+  {
+    "id": "ji-suffix",
+    "kanji": "～地",
+    "hiragana": "～じ",
+    "en": "～background, ～ground",
+    "vi": "nền",
+    "type": "other",
+    "explanation": {
+      "content": [
+        "Hậu tố chỉ nền",
+        "Ví dụ: 青地 (Nền xanh), 白地 (Nền trắng)"
+      ]
+    }
+  },
+  {
+    "id": "motsu-tokoro",
+    "kanji": "持つところ",
+    "hiragana": "もつところ",
+    "en": "handle, grip",
+    "vi": "cán, tay cầm",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ cán, tay cầm",
+        "Ví dụ: 持つところを持つ (Cầm tay cầm)"
+      ]
+    }
+  },
+  {
+    "id": "purasuchikku",
+    "kanji": "プラスチック",
+    "hiragana": "プラスチック",
+    "en": "plastic",
+    "vi": "nhựa",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ nhựa",
+        "Ví dụ: プラスチックの容器 (Hộp nhựa)"
+      ]
+    }
+  },
+  {
+    "id": "tojoukoku",
+    "kanji": "途上国",
+    "hiragana": "とじょうこく",
+    "en": "developing country",
+    "vi": "quốc gia đang phát triển",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ quốc gia đang phát triển",
+        "Ví dụ: 途上国を支援する (Hỗ trợ quốc gia đang phát triển)"
+      ]
+    }
+  },
+  {
+    "id": "senshinkoku",
+    "kanji": "先進国",
+    "hiragana": "せんしんこく",
+    "en": "developed country",
+    "vi": "quốc gia phát triển",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ quốc gia phát triển",
+        "Ví dụ: 先進国の技術 (Công nghệ quốc gia phát triển)"
+      ]
+    }
+  },
+  {
+    "id": "purasu",
+    "kanji": "プラス",
+    "hiragana": "プラス",
+    "en": "plus, advantage",
+    "vi": "điểm cộng, mặt được",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ điểm cộng, mặt được",
+        "Ví dụ: プラスになる (Trở thành điểm cộng)"
+      ]
+    }
+  },
+  {
+    "id": "mainasu",
+    "kanji": "マイナス",
+    "hiragana": "マイナス",
+    "en": "minus, disadvantage",
+    "vi": "điểm trừ, mặt không được",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ điểm trừ, mặt không được",
+        "Ví dụ: マイナスになる (Trở thành điểm trừ)"
+      ]
+    }
+  },
+  {
+    "id": "kyoutsuu",
+    "kanji": "共通",
+    "hiragana": "きょうつう",
+    "en": "common, shared",
+    "vi": "chung",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ sự chung",
+        "Ví dụ: 共通の目標 (Mục tiêu chung)"
+      ]
+    }
+  },
+  {
+    "id": "kanshin",
+    "kanji": "関心",
+    "hiragana": "かんしん",
+    "en": "interest, concern",
+    "vi": "sự quan tâm",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ sự quan tâm",
+        "Ví dụ: 関心を持つ (Có sự quan tâm)"
+      ]
+    }
+  },
+  {
+    "id": "tayouka",
+    "kanji": "多様化",
+    "hiragana": "たようか",
+    "en": "diversification",
+    "vi": "đa dạng hoá",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ sự đa dạng hoá",
+        "Ví dụ: 多様化が進む (Đa dạng hoá tiến triển)"
+      ]
+    }
+  },
+  {
+    "id": "taitoru",
+    "kanji": "タイトル",
+    "hiragana": "タイトル",
+    "en": "title",
+    "vi": "tiêu đề",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ tiêu đề",
+        "Ví dụ: タイトルを付ける (Đặt tiêu đề)"
+      ]
+    }
+  },
+  {
+    "id": "hantai-ni",
+    "kanji": "反対に",
+    "hiragana": "はんたいに",
+    "en": "on the contrary, conversely",
+    "vi": "ngược lại với",
+    "type": "adverb",
+    "explanation": {
+      "content": [
+        "Trạng từ chỉ sự ngược lại",
+        "Ví dụ: 反対に考える (Nghĩ ngược lại)"
+      ]
+    }
+  },
+  {
+    "id": "zengo",
+    "kanji": "前後",
+    "hiragana": "ぜんご",
+    "en": "before and after, around",
+    "vi": "trước sau",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ trước sau",
+        "Ví dụ: 前後を確認する (Xác nhận trước sau)"
+      ]
+    }
+  },
+  {
+    "id": "taishou",
+    "kanji": "対象",
+    "hiragana": "たいしょう",
+    "en": "target, object",
+    "vi": "đối tượng",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ đối tượng",
+        "Ví dụ: 対象を選ぶ (Chọn đối tượng)"
+      ]
+    }
+  },
+  {
+    "id": "shoujo",
+    "kanji": "少女",
+    "hiragana": "しょうじょ",
+    "en": "girl, young girl",
+    "vi": "cô gái, thiếu nữ",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ cô gái, thiếu nữ",
+        "Ví dụ: 少女の夢 (Giấc mơ của thiếu nữ)"
+      ]
+    }
+  },
+  {
+    "id": "aideia",
+    "kanji": "アイディア",
+    "hiragana": "アイディア",
+    "en": "idea",
+    "vi": "ý tưởng",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ ý tưởng",
+        "Ví dụ: アイディアを出す (Đưa ra ý tưởng)"
+      ]
+    }
+  },
+  {
+    "id": "kagayaku",
+    "kanji": "輝く",
+    "hiragana": "かがやく",
+    "en": "to shine, to glitter",
+    "vi": "tỏa sáng, lấp lánh, rực rỡ",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm I",
+        "《輝きます、輝く、輝いて》",
+        "Ví dụ: 星が輝く (Ngôi sao tỏa sáng)"
+      ]
+    }
+  },
+  {
+    "id": "furyoku",
+    "kanji": "浮力",
+    "hiragana": "ふりょく",
+    "en": "buoyancy",
+    "vi": "lực nổi, lực đẩy Acsimet",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ lực nổi",
+        "Ví dụ: 浮力がある (Có lực nổi)"
+      ]
+    }
+  },
+  {
+    "id": "shounen",
+    "kanji": "少年",
+    "hiragana": "しょうねん",
+    "en": "boy, young boy",
+    "vi": "thiếu niên",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ thiếu niên",
+        "Ví dụ: 少年の夢 (Giấc mơ của thiếu niên)"
+      ]
+    }
+  },
+  {
+    "id": "kinoko-gumo",
+    "kanji": "キノコ雲",
+    "hiragana": "キノコぐも",
+    "en": "mushroom cloud",
+    "vi": "đám mây hình nấm được tạo ra do các vụ thử nghiệm vũ khí hạt nhân",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ đám mây hình nấm",
+        "Ví dụ: キノコ雲が上がる (Đám mây hình nấm bay lên)"
+      ]
+    }
+  },
+  {
+    "id": "toki-ni",
+    "kanji": "時に",
+    "hiragana": "ときに",
+    "en": "sometimes, occasionally",
+    "vi": "thỉnh thoảng, đôi khi",
+    "type": "adverb",
+    "explanation": {
+      "content": [
+        "Trạng từ chỉ thỉnh thoảng",
+        "Ví dụ: 時に会う (Thỉnh thoảng gặp)"
+      ]
+    }
+  },
+  {
+    "id": "dameeji",
+    "kanji": "ダメージ",
+    "hiragana": "ダメージ",
+    "en": "damage",
+    "vi": "thiệt hại, tổn thất",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ thiệt hại, tổn thất",
+        "Ví dụ: ダメージを受ける (Chịu thiệt hại)"
+      ]
+    }
+  },
+  {
+    "id": "ataeru-dameeji",
+    "kanji": "与える[ダメージを～]",
+    "hiragana": "あたえる[ダメージを～]",
+    "en": "to cause [damage]",
+    "vi": "gây ra, đem đến [tổn thất/ thiệt hại]",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm II",
+        "《与えます、与える、与えて》",
+        "Ví dụ: ダメージを与える (Gây thiệt hại)"
+      ]
+    }
+  },
+  {
+    "id": "hige",
+    "kanji": "ひげ",
+    "hiragana": "ひげ",
+    "en": "beard, mustache",
+    "vi": "râu, ria mép",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ râu, ria mép",
+        "Ví dụ: ひげを剃る (Cạo râu)"
+      ]
+    }
+  },
+  {
+    "id": "nobiru",
+    "kanji": "伸びる",
+    "hiragana": "のびる",
+    "en": "to grow, to extend",
+    "vi": "để dài, dài",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm II",
+        "《伸びます、伸びる、伸びて》",
+        "Ví dụ: 髪が伸びる (Tóc dài ra)"
+      ]
+    }
+  },
+  {
+    "id": "hatten-suru",
+    "kanji": "発展する",
+    "hiragana": "はってんする",
+    "en": "to develop, to progress",
+    "vi": "phát triển",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm III",
+        "《発展します、発展する、発展して》",
+        "Ví dụ: 経済が発展する (Kinh tế phát triển)"
+      ]
+    }
+  },
+  {
+    "id": "miryoku",
+    "kanji": "魅力",
+    "hiragana": "みりょく",
+    "en": "charm, appeal",
+    "vi": "sự hấp dẫn, sự quyến rũ",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ sự hấp dẫn, sự quyến rũ",
+        "Ví dụ: 魅力がある (Có sự hấp dẫn)"
+      ]
+    }
+  },
+  {
+    "id": "yutaka",
+    "kanji": "豊か[な]",
+    "hiragana": "ゆたか[な]",
+    "en": "rich, abundant",
+    "vi": "giàu có, đầy đủ",
+    "type": "adjective",
+    "explanation": {
+      "content": [
+        "Tính từ đuôi na chỉ sự giàu có, đầy đủ",
+        "Ví dụ: 豊かな生活 (Cuộc sống giàu có)"
+      ]
+    }
+  },
+  {
+    "id": "ukeru-dameeji",
+    "kanji": "受ける[ダメージを～]",
+    "hiragana": "うける[ダメージを～]",
+    "en": "to receive [damage]",
+    "vi": "chịu [tổn thất/ thiệt hại]",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm II",
+        "《受けます、受ける、受けて》",
+        "Ví dụ: ダメージを受ける (Chịu thiệt hại)"
+      ]
+    }
+  },
+  {
+    "id": "teema",
+    "kanji": "テーマ",
+    "hiragana": "テーマ",
+    "en": "theme, topic",
+    "vi": "chủ đề, đề tài",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ chủ đề, đề tài",
+        "Ví dụ: テーマを決める (Quyết định chủ đề)"
+      ]
+    }
+  },
+  {
+    "id": "noberu",
+    "kanji": "述べる",
+    "hiragana": "のべる",
+    "en": "to state, to express",
+    "vi": "bày tỏ, nói ra",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm II",
+        "《述べます、述べる、述べて》",
+        "Ví dụ: 意見を述べる (Bày tỏ ý kiến)"
+      ]
+    }
+  },
+  {
+    "id": "tashika-tato",
+    "kanji": "確か、～たと思います。",
+    "hiragana": "たしか、～たとおもいます。",
+    "en": "I think it was probably...",
+    "vi": "Tôi nghĩ chắc là ...",
+    "type": "other",
+    "explanation": {
+      "content": [
+        "Cụm từ chỉ sự suy đoán",
+        "Ví dụ: 確か、昨日だったと思います。 (Tôi nghĩ chắc là hôm qua.)"
+      ]
+    }
+  },
+  {
+    "id": "najeria",
+    "kanji": "ナイジェリア",
+    "hiragana": "ナイジェリア",
+    "en": "Nigeria",
+    "vi": "Ni-giê-ri-a",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ quốc gia Ni-giê-ri-a",
+        "Ví dụ: ナイジェリアに行く (Đi Ni-giê-ri-a)"
+      ]
+    }
+  },
+  {
+    "id": "torinidado-tobago",
+    "kanji": "トリニダードトバゴ",
+    "hiragana": "トリニダードトバゴ",
+    "en": "Trinidad and Tobago",
+    "vi": "Tri-ni-đát và To-ba-go",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ quốc gia Tri-ni-đát và To-ba-go",
+        "Ví dụ: トリニダードトバゴから来る (Đến từ Tri-ni-đát và To-ba-go)"
+      ]
+    }
+  },
+  {
+    "id": "indo",
+    "kanji": "インド",
+    "hiragana": "インド",
+    "en": "India",
+    "vi": "Ấn Độ",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ quốc gia Ấn Độ",
+        "Ví dụ: インドに行く (Đi Ấn Độ)"
+      ]
+    }
+  },
+  {
+    "id": "uganda",
+    "kanji": "ウガンダ",
+    "hiragana": "ウガンダ",
+    "en": "Uganda",
+    "vi": "U-gan-đa",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ quốc gia U-gan-đa",
+        "Ví dụ: ウガンダから来る (Đến từ U-gan-đa)"
+      ]
+    }
+  }
+]

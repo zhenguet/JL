@@ -1,0 +1,343 @@
+[
+  {
+    "id": "no-moto-de",
+    "title": "のもとで",
+    "description": "「～のもとで」biểu thị nghĩa「目上の人のいる場所で」, sử dụng khi biểu đạt việc được người trên dạy dỗ cho, giáo dục cho.",
+    "structure": "N + のもとで",
+    "examples": [
+      {
+        "japanese": "新しい監督の下でチーム全員優勝を目指して頑張っている。",
+        "romaji": "Atarashii kantoku no shita de chiimu zen'in yuushou o mezashite ganbatte iru.",
+        "vietnamese": "Dưới sự dẫn dắt của tân huấn luyện viên, toàn đội đang nỗ lực hướng đến chức vô địch."
+      },
+      {
+        "japanese": "４歳のときに親を亡くし、田舎の祖父母の下で育てられた。",
+        "romaji": "4-sai no toki ni oya o nakushi, inaka no sofubo no shita de sodaterareta.",
+        "vietnamese": "Tôi mất bố mẹ năm lên 4 và đã được ông bà dưới quê nuôi nấng."
+      },
+      {
+        "japanese": "クリスさんは山口先生のもとで研究をすることになった。",
+        "romaji": "Kurisu-san wa Yamaguchi-sensei no moto de kenkyuu o suru koto ni natta.",
+        "vietnamese": "Chris nghiên cứu dưới sự chỉ đạo của giáo viên Yamaguchi."
+      }
+    ],
+    "notes": [
+      "Biểu thị nghĩa「目上の人のいる場所で」",
+      "Sử dụng khi biểu đạt việc được người trên dạy dỗ cho, giáo dục cho",
+      "Khác với「と」: のもとで là dưới sự chỉ đạo, と là cùng làm"
+    ]
+  },
+  {
+    "id": "sou",
+    "title": "そう",
+    "description": "「そう」chỉ điều nói đến ở phía sau. Chẳng hạn,「そう」ở trong câu này chỉ「尺八が本来『いやし』の音楽であること」.",
+    "structure": "そう",
+    "examples": [
+      {
+        "japanese": "この地域では、昔からそうであったように、共同で田植えをする。",
+        "romaji": "Kono chiiki de wa, mukashi kara sou de atta you ni, kyoudou de taue o suru.",
+        "vietnamese": "Ở khu vực này lúa được cùng trồng tập thể như vốn có từ hồi xưa."
+      },
+      {
+        "japanese": "誰でもそうだが、子どもを持って初めて親のありがたみを知る。",
+        "romaji": "Dare demo sou da ga, kodomo o motte hajimete oya no arigatami o shiru.",
+        "vietnamese": "Ai cũng vậy, khi có con rồi mới biết được hết công ơn của cha mẹ."
+      },
+      {
+        "japanese": "父がそうであったように、日本の男性は女性を褒めるのが下手である。",
+        "romaji": "Chichi ga sou de atta you ni, Nihon no dansei wa josei o homeru no ga heta de aru.",
+        "vietnamese": "Bố tôi kiểu như vậy, là đàn ông Nhật Bản kém trong việc khen ngợi phái đẹp."
+      }
+    ],
+    "notes": [
+      "Chỉ điều nói đến ở phía sau",
+      "Dùng để thay thế cho điều đã được đề cập trước đó",
+      "Thường dùng với「ように」để so sánh"
+    ]
+  },
+  {
+    "id": "zo",
+    "title": "ぞ",
+    "description": "「・・・ぞ」là trợ từ cuối câu dùng để thông báo một cách rõ ràng điều mà người nghe không biết. Trợ từ này được nam giới sử dụng trong hội thoại, nữ giới không sử dụng.",
+    "structure": "Câu + ぞ",
+    "examples": [
+      {
+        "japanese": "気をつけろ。この辺りは毒ヘビがいるぞ。",
+        "romaji": "Ki o tsukero. Kono atari wa doku hebi ga iru zo.",
+        "vietnamese": "Hãy cẩn thận! Khu vực này có rắn độc đấy!"
+      },
+      {
+        "japanese": "おーい。ここにあったぞ。",
+        "romaji": "Ooi. Koko ni atta zo.",
+        "vietnamese": "Ê! Có ở đây này!"
+      },
+      {
+        "japanese": "この本、おもしろいぞ。読んでみろ。",
+        "romaji": "Kono hon, omoshiroi zo. Yonde miro.",
+        "vietnamese": "Cuốn sách này, thú vị lắm đó. Thử đọc đi."
+      }
+    ],
+    "notes": [
+      "Trợ từ cuối câu dùng để thông báo một cách rõ ràng",
+      "Được nam giới sử dụng trong hội thoại, nữ giới không sử dụng",
+      "Dùng để nhấn mạnh hoặc cảnh báo"
+    ]
+  },
+  {
+    "id": "to-douji-ni",
+    "title": "と同時に",
+    "description": "「～と同時に」biểu đạt sự hình thành đồng thời của 2 sự việc mà bình thường khó hình thành cùng lúc cả 2.",
+    "structure": "V/N + と同時に",
+    "examples": [
+      {
+        "japanese": "酒は薬になると同時に毒にもなる。",
+        "romaji": "Sake wa kusuri ni naru to douji ni doku ni mo naru.",
+        "vietnamese": "Rượu là thuốc, đồng thời là chất độc."
+      },
+      {
+        "japanese": "遅く帰って来た娘の顔を見て、ホッとすると同時に腹が立った。",
+        "romaji": "Osoku kaette kita musume no kao o mite, hotto suru to douji ni hara ga tatta.",
+        "vietnamese": "Nhìn thấy mặt đứa con gái trở về nhà lúc muộn, tôi vừa thở phào vừa tức giận."
+      },
+      {
+        "japanese": "彼は作曲家であると同時に演奏家でもある。",
+        "romaji": "Kare wa sakkyokuka de aru to douji ni ensouka demo aru.",
+        "vietnamese": "Anh ấy là nhà soạn nhạc, đồng thời là nhà nghệ sĩ biểu diễn."
+      }
+    ],
+    "notes": [
+      "Biểu đạt sự hình thành đồng thời của 2 sự việc",
+      "Thường dùng để nói về 2 tính chất hoặc 2 trạng thái cùng tồn tại",
+      "Khác với「ながら」: と同時に là đồng thời, ながら là vừa...vừa"
+    ]
+  },
+  {
+    "id": "shika-nai",
+    "title": "しかない",
+    "description": "「～しかない」biểu thị nét nghĩa rằng \"không có lựa chọn nào khác ngoài「～」\".",
+    "structure": "V thể nguyên dạng + しかない",
+    "examples": [
+      {
+        "japanese": "誰も手伝ってくれないなら、私がやるしかない。",
+        "romaji": "Dare mo tetsudatte kurenai nara, watashi ga yaru shika nai.",
+        "vietnamese": "Nếu không có ai hỗ trợ thì tôi đành phải làm một mình thôi."
+      },
+      {
+        "japanese": "私にはとても無理な仕事だったので、断るしかなかった。",
+        "romaji": "Watashi ni wa totemo muri na shigoto datta node, kotowaru shika nakatta.",
+        "vietnamese": "Đối với tôi đấy là công việc rất khó nên tôi không còn cách nào khác đành phải từ chối."
+      },
+      {
+        "japanese": "国立大学と私立大学に合格したとき、私は経済的な理由で学費の安い国立大学に進学するしかなかった。",
+        "romaji": "Kokuritsu daigaku to shiritsu daigaku ni goukaku shita toki, watashi wa keizaiteki na riyuu de gakuhi no yasui kokuritsu daigaku ni shingaku suru shika nakatta.",
+        "vietnamese": "Khi thi đỗ vào cả trường quốc lập và trường dân lập, vì lý do kinh tế tôi đành phải chọn học ở trường quốc lập có mức học phí thấp."
+      }
+    ],
+    "notes": [
+      "Biểu thị \"không có lựa chọn nào khác ngoài\"",
+      "Thể hiện sự bắt buộc hoặc không còn cách nào khác",
+      "Có thể dùng ở quá khứ: しかなかった"
+    ]
+  },
+  {
+    "id": "sue-ni",
+    "title": "末［に］",
+    "description": "「～の末」biểu thị ý nghĩa \"trải qua quá trình khó khăn, cuối cùng thì\". Nó còn có hình thức khác là「～の末に」.",
+    "structure": "N の / V thể た + 末［に］",
+    "examples": [
+      {
+        "japanese": "苦労の末、画家はやっと作品を完成させることができた。",
+        "romaji": "Kurou no sue, gaka wa yatto sakuhin o kansei saseru koto ga dekita.",
+        "vietnamese": "Sau nhiều vất vả cuối cùng ông họa sẽ đã có thể hoàn thành được tác phẩm."
+      },
+      {
+        "japanese": "その選手は、数週間悩んだ末、引退する決心をした。",
+        "romaji": "Sono senshu wa, suu shuukan nayanda sue, intai suru kesshin o shita.",
+        "vietnamese": "Sau vài tuần suy nghĩ nhiều, cầu thỉ đó đã đưa ra quyết định giải nghệ."
+      },
+      {
+        "japanese": "いろいろな仕事を渡り歩いた末に、結局最初の仕事に落ち着いた。",
+        "romaji": "Iroiro na shigoto o watariaruita sue ni, kekkyoku saisho no shigoto ni ochitsuita.",
+        "vietnamese": "Sau khi kinh qua nhiều công việc khác nhau, cuối cùng tôi đã trở lại ổn định với công việc đầu tiên."
+      }
+    ],
+    "notes": [
+      "Biểu thị \"trải qua quá trình khó khăn, cuối cùng thì\"",
+      "Có thể dùng「末」hoặc「末に」",
+      "Thường dùng với các danh từ hoặc động từ thể た"
+    ]
+  },
+  {
+    "id": "irai",
+    "title": "以来",
+    "description": "「～て以来」biểu thị ý nghĩa「～してからずっと」. Cách nói này được sử dụng trong trường hợp nói về một sự việc mà ở chừng mực nào đó kéo dài từ thời điểm trong quá khứ đến hiện tại, chứ không phải sự việc ở quá khứ gần đây.",
+    "structure": "V thể て / N + 以来",
+    "examples": [
+      {
+        "japanese": "スキーで骨折して以来、寒くなると足が痛むようになった。",
+        "romaji": "Sukii de kossetsu shite irai, samuku naru to ashi ga itamu you ni natta.",
+        "vietnamese": "Từ sau khi bị gãy xương do trượt tuyết, cứ trời trở lạnh là chân tôi bị đau."
+      },
+      {
+        "japanese": "結婚して以来ずっと、横浜に住んでいる。",
+        "romaji": "Kekkon shite irai zutto, Yokohama ni sunde iru.",
+        "vietnamese": "Từ sau khi kết hôn chúng tôi sống suốt ở Yokohama."
+      },
+      {
+        "japanese": "帰国して以来、一度も日本食を食べていない。",
+        "romaji": "Kikoku shite irai, ichido mo Nihonshoku o tabete inai.",
+        "vietnamese": "Từ sau khi về nước tôi không ăn một bữa ăn Nhật nào."
+      },
+      {
+        "japanese": "去年の夏以来、父とは一度もあっていない。",
+        "romaji": "Kyonen no natsu irai, chichi to wa ichido mo atte inai.",
+        "vietnamese": "Từ sau mùa hè năm ngoái tôi không gặp bố lần nào."
+      }
+    ],
+    "notes": [
+      "Biểu thị ý nghĩa「～してからずっと」",
+      "Nói về sự việc kéo dài từ quá khứ đến hiện tại",
+      "Có thể dùng với động từ thể て hoặc danh từ chỉ thời gian"
+    ]
+  },
+  {
+    "id": "kurai",
+    "title": "くらい",
+    "description": "「くらい」là cách nói đưa ra thí dụ ở trường hợp tối đa nhất để biểu đạt mức độ của sự việc đã trình bày phía trước. Ở ví dụ ③ dưới đây,「くらい」đưa ra thí dụ về điều được đề cập ở phía sau. Nó có thể được thay tế bằng cách nói「ほどだ」.",
+    "structure": "V/A thể thông thường + くらいだ / くらい、...",
+    "examples": [
+      {
+        "japanese": "空港までは遠いので、朝７時に家を出ても遅いくらいだ。",
+        "romaji": "Kuukou made wa tooi node, asa 7-ji ni ie o dete mo osoi kurai da.",
+        "vietnamese": "Vì quảng đường đến sân bay rất xa nên dù có ra khỏi nhà lúc 7 giờ sáng thì cũng sẽ bị muộn."
+      },
+      {
+        "japanese": "このかばんはとてもよくできていて、偽物とは思えないくらいだ。",
+        "romaji": "Kono kaban wa totemo yoku dekite ite, nisemono to wa omoenai kurai da.",
+        "vietnamese": "Chiếc cặp này được làm rất tốt đến nỗi không thể nghĩ nó là đồ giả."
+      },
+      {
+        "japanese": "この本は中学生でも読めるくらい簡単な英語で書かれている。",
+        "romaji": "Kono hon wa chuugakusei demo yomeru kurai kantan na eigo de kakarete iru.",
+        "vietnamese": "Cuốn sách này được viết bằng thứ tiếng Anh rất đơn giản đến nỗi học sinh trung học cơ sở cũng có thể đọc được."
+      }
+    ],
+    "notes": [
+      "Đưa ra thí dụ ở trường hợp tối đa nhất để biểu đạt mức độ",
+      "Có thể được thay thế bằng「ほどだ」",
+      "Dùng để nhấn mạnh mức độ của sự việc"
+    ]
+  },
+  {
+    "id": "o-komete",
+    "title": "をこめて",
+    "description": "「～をこめて」biểu thị ý nghĩa「～の気持ちを持って」.",
+    "structure": "N + をこめて",
+    "examples": [
+      {
+        "japanese": "これは子供のために母親が愛をこめて作った詩です。",
+        "romaji": "Kore wa kodomo no tame ni hahaoya ga ai o komete tsukutta shi desu.",
+        "vietnamese": "Đây là những bài thơ được các bà mẹ làm cho con với cả tình yêu thương."
+      },
+      {
+        "japanese": "今日はお客さんのために心をこめて歌います。",
+        "romaji": "Kyou wa okyaku-san no tame ni kokoro o komete utaimasu.",
+        "vietnamese": "Hôm nay tôi sẽ hát cho quý vị nghe với cả tấm lòng."
+      },
+      {
+        "japanese": "この歌は戦争への怒りをこめて作られた。",
+        "romaji": "Kono uta wa sensou e no ikari o komete tsukurareta.",
+        "vietnamese": "Bài hát này được sáng tác với sự phẫn nộ đối với chiến tranh."
+      }
+    ],
+    "notes": [
+      "Biểu thị ý nghĩa「～の気持ちを持って」",
+      "Thường dùng với các danh từ chỉ cảm xúc như 愛、心、怒り",
+      "Dùng để thể hiện tình cảm, cảm xúc khi làm việc gì đó"
+    ]
+  },
+  {
+    "id": "ba-dake",
+    "title": "ば～だけ",
+    "description": "「ば～だけ」biểu đạt rằng một kết quả được sinh ra tỷ lệ thuận với mức độ đã thực hiện cái gì đó.",
+    "structure": "Vば + Vた + だけ",
+    "examples": [
+      {
+        "japanese": "頭は使えば使っただけ柔らかくなる。",
+        "romaji": "Atama wa tsukaeba tsukatta dake yawarakaku naru.",
+        "vietnamese": "Đầu óc của mỗi người càng dùng nhiều đến càng linh hoạt ra."
+      },
+      {
+        "japanese": "苦労は大きければ大きいだけ財産になる。",
+        "romaji": "Kurou wa ookikereba ookii dake zaisan ni naru.",
+        "vietnamese": "Sự gian khổ càng lớn thì tài sản có được càng nhiều."
+      },
+      {
+        "japanese": "どんなスポーツも練習すれば練習しただけ上手になる。",
+        "romaji": "Donna supootsu mo renshuu sureba renshuu shita dake jouzu ni naru.",
+        "vietnamese": "Môn thể thao nào cũng vậy, càng luyện tập thì sẽ càng giỏi."
+      }
+    ],
+    "notes": [
+      "Biểu đạt rằng kết quả tỷ lệ thuận với mức độ thực hiện",
+      "Cấu trúc: Vば + Vた + だけ",
+      "Tương đương với「～ば～ほど」"
+    ]
+  },
+  {
+    "id": "ta-totan-ni",
+    "title": "たとたんに",
+    "description": "「～たとたん（に）」biểu thị ý nghĩa「～するとすぐに・～したあとすぐに」, và nó biểu đạt rằng do một sự việc là nguyên nhân mà một sự việc không ngờ tới xảy ra.",
+    "structure": "V thể た + とたん［に］",
+    "examples": [
+      {
+        "japanese": "箱のふたを開けたとたん、中から子猫が飛び出した。",
+        "romaji": "Hako no futa o aketa totan, naka kara koneko ga tobidashita.",
+        "vietnamese": "Ngay khi vừa mở nắp chiếc hộp thì chú mèo con từ ở trong nhảy ra."
+      },
+      {
+        "japanese": "お金の話を持ち出したとたんに、相手が怒り出した。",
+        "romaji": "Okane no hanashi o mochidashita totan ni, aite ga okoridashita.",
+        "vietnamese": "Ngay khi vừa bàn đến vấn đề tiền nong thì đối phương nổi giận."
+      },
+      {
+        "japanese": "テレビのCMでこの曲が使われたとたん、CDの売り上げが急激に伸びた。",
+        "romaji": "Terebi no CM de kono kyoku ga tsukawareta totan, CD no uriage ga kyuugeki ni nobita.",
+        "vietnamese": "Ngay khi ca khúc này được sử dụng trong chương trình quảng cáo trên ti vi thì doanh thu CD tăng vọt."
+      }
+    ],
+    "notes": [
+      "Biểu thị ý nghĩa「～するとすぐに・～したあとすぐに」",
+      "Biểu đạt sự việc không ngờ tới xảy ra ngay sau đó",
+      "Có thể dùng「とたん」hoặc「とたんに」"
+    ]
+  },
+  {
+    "id": "kara-to-itte",
+    "title": "からといって",
+    "description": "Sử dụng「～からといって」khi muốn nói về một kết quả phát sinh khác với điều được dự đoán là sẽ đương nhiên xảy ra khi nhìn từ một dữ kiện nào đó. Ở vế sau là hình thức phủ định.",
+    "structure": "Thể thông thường + からといって",
+    "examples": [
+      {
+        "japanese": "新聞に書いてあるからといって、必ずしも正しいわけではない。",
+        "romaji": "Shinbun ni kaite aru kara to itte, kanarazu shimo tadashii wake dewa nai.",
+        "vietnamese": "Không phải cứ được viết trên báo thì lúc nào cũng đúng."
+      },
+      {
+        "japanese": "便利だからといって、コンビニの弁当ばかり食べていては体に良くないと思う。",
+        "romaji": "Benri da kara to itte, konbini no bentou bakari tabete ite wa karada ni yokunai to omou.",
+        "vietnamese": "Tôi cho rằng sẽ là không tốt cho sức khỏe khi vì tiện mà cứ ăn suốt cơm hộp bán ở cửa hàng tiện lợi."
+      },
+      {
+        "japanese": "民主主義だからといって、何でも数で決めていいわけではない。",
+        "romaji": "Minshushugi da kara to itte, nan demo kazu de kimete ii wake dewa nai.",
+        "vietnamese": "Không phải cứ nói là chủ nghĩa dân chủ thì cái gì cũng quyết được bằng con số."
+      }
+    ],
+    "notes": [
+      "Dùng khi muốn nói về kết quả khác với điều được dự đoán",
+      "Ở vế sau thường là hình thức phủ định",
+      "Thường đi kèm với「わけではない」「～ない」"
+    ]
+  }
+]

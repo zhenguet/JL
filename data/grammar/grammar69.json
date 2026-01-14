@@ -1,0 +1,252 @@
+[
+  {
+    "id": "wo-taishou-ni",
+    "title": "を対象に",
+    "description": "「～を対象に」biểu thị đối tượng thu nhận sự điều tra hay thông tin/hành vi. Còn có hình thức khác là「を～対象にして」.",
+    "structure": "N + を対象に／を対象にして",
+    "examples": [
+      {
+        "japanese": "幼児を対象に開発されたゲームが、大人の間で流行している。",
+        "romaji": "Youji o taishou ni kaihatsu sareta geemu ga, otona no aida de ryuukou shite iru.",
+        "vietnamese": "Trò chơi được phát triển dành cho đối tượng là trẻ em hiện đang thịnh hành trong người lớn."
+      },
+      {
+        "japanese": "テレビの午後の番組は主に主婦を対象に組まれている。",
+        "romaji": "Terebi no gogo no bangumi wa omo ni shufu o taishou ni kumarete iru.",
+        "vietnamese": "Chương trình tivi buổi chiều được xây dựng chủ yếu dành cho đối tượng là các bà nội trợ."
+      },
+      {
+        "japanese": "大学生を対象に、漢字の能力を調査した。",
+        "romaji": "Daigakusei o taishou ni, kanji no nouryoku o chousa shita.",
+        "vietnamese": "Tôi đã khảo sát năng lực chữ Hán với đối tượng là sinh viên đại học."
+      }
+    ],
+    "notes": [
+      "Biểu thị đối tượng thu nhận sự điều tra hay thông tin/hành vi",
+      "Có hình thức khác là「を～対象にして」",
+      "Thường dùng trong các văn bản chính thức hoặc báo cáo"
+    ]
+  },
+  {
+    "id": "bakari-de-naku",
+    "title": "ばかりではなく",
+    "description": "「～ばかりでなく」giống với「～だけでなく」、biểu đạt nghĩa「他にもある」.",
+    "structure": "N + ばかりでなく\nV/A thể thông thường + ばかりでなく",
+    "examples": [
+      {
+        "japanese": "１８号台風は農業ばかりではなく、経済全体にも大きなダメージを与える。",
+        "romaji": "Juu hachi gou taifuu wa nougyou bakari de naku, keizai zentai ni mo ooki na dameeji o ataeru.",
+        "vietnamese": "Cơn bão số 18 đã gây thiệt hại lớn cho không chỉ nông nghiệp mà cả toàn bộ nền kinh tế."
+      },
+      {
+        "japanese": "ここは温泉ばかりではなく、釣りや山登りも楽しめます。",
+        "romaji": "Koko wa onsen bakari de naku, tsuri ya yamanobori mo tanoshimemasu.",
+        "vietnamese": "Ở đây bạn không chỉ tận hưởng được suối nước nóng mà còn có thể đi đâu câu cá và leo núi."
+      },
+      {
+        "japanese": "このゲーム機は子供ばかりでなく、大人にも人気がある。",
+        "romaji": "Kono geemu ki wa kodomo bakari de naku, otona ni mo ninki ga aru.",
+        "vietnamese": "Máy chơi game này không chỉ trẻ em mà cả người lớn cũng yêu thích."
+      }
+    ],
+    "notes": [
+      "Giống với「～だけでなく」",
+      "Biểu đạt nghĩa「他にもある」",
+      "Có thể dùng với danh từ, động từ và tính từ"
+    ]
+  },
+  {
+    "id": "ni-hoka-naranai",
+    "title": "にほかならない",
+    "description": "「にほかならない」là cách nói nhấn mạnh nét nghĩa「～である」",
+    "structure": "N + にほかならない\n～から・ため + にほかならない",
+    "examples": [
+      {
+        "japanese": "子供の反抗は、大人になるための第一歩に他ならない。",
+        "romaji": "Kodomo no hankou wa, otona ni naru tame no daiippo ni hoka naranai.",
+        "vietnamese": "Sự phản kháng của trẻ con không gì khác là bước khởi đầu để trở thành người lớn."
+      },
+      {
+        "japanese": "この成功は、あなたの努力の結果に他なりません。",
+        "romaji": "Kono seikou wa, anata no doryoku no kekka ni hoka narimasen.",
+        "vietnamese": "Thành công này chính là kết quả của nỗ lực của bạn."
+      },
+      {
+        "japanese": "このような事故が起きたのは、社会の管理体制が甘かったからにほかなりません。",
+        "romaji": "Kono you na jiko ga okita no wa, shakai no kanri taisei ga amakatta kara ni hoka narimasen.",
+        "vietnamese": "Việc để xảy ra sự cố thế này không gì khác là do cơ chế quản lý của công ty lỏng lẻo."
+      },
+      {
+        "japanese": "彼女が難民キャンプで医療活動を続けるのは、医者としての使命感からにほかならない。",
+        "romaji": "Kanojo ga nanmin kyanpu de iryou katsudou o tsuzukeru no wa, isha toshite no shimeikan kara ni hoka naranai.",
+        "vietnamese": "Việc cô ấy tiếp tục hoạt động y tế tại trại tị nạn chính là vì sứ mệnh của một bác sĩ."
+      }
+    ],
+    "notes": [
+      "Là cách nói nhấn mạnh nét nghĩa「～である」",
+      "Dùng với N hoặc「～から・ため」",
+      "Thường dùng trong văn viết hoặc phát biểu trang trọng"
+    ]
+  },
+  {
+    "id": "wo-toujite",
+    "title": "を通じて",
+    "description": "「～を通じて」đi cùng với danh từ chỉ hành động, và với nghĩa「～をすることによって」nó biểu thị phương cách để sự việc ở vế sau được thực hiện.",
+    "structure": "N (danh từ chỉ hành động) + を通じて",
+    "examples": [
+      {
+        "japanese": "難しい練習を通じて、技術だけでなく、どんな困難にも負けない心が養われたと思います。",
+        "romaji": "Muzukashii renshuu o tsuujite, gjijutsu dake de naku, donna konnan ni mo makenai kokoro ga yashinawareta to omoimasu.",
+        "vietnamese": "Tôi nghĩ rằng qua việc luyện tập nặng nhọc thì không chỉ kỹ thuật phát triển mà tinh thần không ngại bất kỳ khó khăn nào đã được hun đúc."
+      },
+      {
+        "japanese": "茶道を通じて、行儀作法だけでなく、和の心を学んだ。",
+        "romaji": "Sadou o tsuujite, gyougi sahou dake de naku, wa no kokoro o mananda.",
+        "vietnamese": "Qua trà đạo, tôi không chỉ học được các phép tắc mà còn học được tinh thần ôn hòa của người Nhật."
+      },
+      {
+        "japanese": "経学の学習を通じて、その言葉だけではなく、その国の文化や人の考え方なども知り、理解が深まったと思う。",
+        "romaji": "Keigaku no gakushuu o tsuujite, sono kotoba dake de wa naku, sono kuni no bunka ya hito no kangae kata nado mo shiri, rikai ga fukamatta to omou.",
+        "vietnamese": "Tôi nghĩ rằng qua việc học ngoại ngữ, tôi không chỉ biết ngôn ngữ đó mà còn hiểu rõ về văn hóa của đất nước đó, cách suy nghĩ của con người ở đó, v.v.."
+      },
+      {
+        "japanese": "読書を通じて、いろいろな世界や人の生き方を知りました。",
+        "romaji": "Dokusho o tsuujite, iroiro na sekai ya hito no ikikata o shirimashita.",
+        "vietnamese": "Qua việc đọc sách, tôi biết được cách sống của nhiều người trên thế giới."
+      }
+    ],
+    "notes": [
+      "Đi cùng với danh từ chỉ hành động",
+      "Biểu thị phương cách để sự việc ở vế sau được thực hiện",
+      "Nghĩa tương đương với「～をすることによって」"
+    ]
+  },
+  {
+    "id": "kara-ni-kakete",
+    "title": "から～にかけて",
+    "description": "「～から～にかけて」biểu thị sự khởi đầu và kết thúc của thời gian/không gian. Nó là cách nói biểu đạt một sự việc xảy ra tại thời điểm nào/ở đâu và trong khoảng thời gian không gian sụp đổ.",
+    "structure": "N (thời gian) + から + N (thời gian) + にかけて\nN (không gian) + から + N (không gian) + にかけて",
+    "examples": [
+      {
+        "japanese": "台風８号は今夜から明日にかけて上陸する見込みだ。",
+        "romaji": "Taifuu hachi gou wa konya kara ashita ni kakete jouriku suru mikomi da.",
+        "vietnamese": "Cơn bão số 8 được dự báo sẽ đổ bộ vào đất liền trong khoảng thời gian từ tối nay đến ngày mai."
+      },
+      {
+        "japanese": "毎年１月から３月にかけてほうぼうで道路工事が行われる。",
+        "romaji": "Maitoshi ichigatsu kara sangatsu ni kakete houbou de douro kouji ga okonawareru.",
+        "vietnamese": "Hàng năm từ tháng 1 đến 3 công tác thi công đường xá được tiến hành khắp nơi."
+      },
+      {
+        "japanese": "関東から東北にかけていろいろな都市でコンサートを聞いた。",
+        "romaji": "Kantou kara Touhoku ni kakete iroiro na toshi de konsaato o kiita.",
+        "vietnamese": "Họ đã tổ chức các buổi biểu diễn hòa nhạc tại nhiều thành phố khác nhau trải từ vùng Kantou đến vùng Tohoku."
+      },
+      {
+        "japanese": "朝７時半から８時にかけて、通勤ラッシュで電車が込む。",
+        "romaji": "Asa shichi ji han kara hachi ji ni kakete, tsuukin rasshu de densha ga komu.",
+        "vietnamese": "Từ 7 giờ rưỡi đến 8 giờ, xe điện đông đúc do giờ cao điểm đi làm."
+      }
+    ],
+    "notes": [
+      "Biểu thị sự khởi đầu và kết thúc của thời gian/không gian",
+      "Dùng với danh từ chỉ thời gian hoặc không gian",
+      "Biểu đạt một sự việc xảy ra trong khoảng thời gian/không gian"
+    ]
+  },
+  {
+    "id": "wa-tomokaku",
+    "title": "はともかく",
+    "description": "Cách nói「～はともかく」có nghĩa là \"「～」là điểm quan trọng, tuy nhiên lúc này không bàn kỹ về nó\". Nó còn có hình thức khác là「～はともかくとして」.",
+    "structure": "N + はともかく\nV/A thể thông thường + かどうか + はともかく",
+    "examples": [
+      {
+        "japanese": "あのレストランは値段はともかく、味はいい。",
+        "romaji": "Ano resutoran wa nedan wa tomokaku, aji wa ii.",
+        "vietnamese": "Nhà hàng đó không bàn đến giá cả thì thức ăn rất ngon."
+      },
+      {
+        "japanese": "彼は見た目はともかく、申し込だけはしておこう。",
+        "romaji": "Kare wa mitame wa tomokaku, moushikomi dake wa shite okou.",
+        "vietnamese": "Không bàn về mặt ngoại hình thì tính cách của anh ấy rất tốt."
+      },
+      {
+        "japanese": "参加するかどうかはともかく、申し込みだけはしておこう。",
+        "romaji": "Sanka suru ka dou ka wa tomokaku, moushikomi dake wa shite okou.",
+        "vietnamese": "Khoan bàn về chuyện có tham gia hay không, chúng ta hãy đăng ký trước đi đã."
+      },
+      {
+        "japanese": "上手に歌えたかどうかはともかく、頑張ったことは事実だ。",
+        "romaji": "Jouzu ni utaeta ka dou ka wa tomokaku, ganbatta koto wa jijitsu da.",
+        "vietnamese": "Không bàn chuyện cô ấy hát có hay hay không mà sự thực là cô ấy đã rất cố gắng."
+      }
+    ],
+    "notes": [
+      "Có nghĩa là \"là điểm quan trọng, tuy nhiên lúc này không bàn kỹ về nó\"",
+      "Còn có hình thức khác là「～はともかくとして」",
+      "Dùng với N hoặc「～かどうか」"
+    ]
+  },
+  {
+    "id": "tame-ni-wa",
+    "title": "ためには",
+    "description": "「～ためには」biểu thị mục đích. Sau「～ためには」là các từ ngữ biểu thị sự cần thiết/nghĩa vụ.",
+    "structure": "V thể nguyên dạng + ためには\nN + の + ためには",
+    "examples": [
+      {
+        "japanese": "マンションを買うためには、３，０００万円くらい必要だ。",
+        "romaji": "Manshon o kau tame ni wa, sanzen man en kurai hitsuyou da.",
+        "vietnamese": "Để mua căn hộ, anh cần có 30 triệu yên."
+      },
+      {
+        "japanese": "医者になるためには、国家試験に合格しなければならない。",
+        "romaji": "Isha ni naru tame ni wa, kokka shiken ni goukaku shinakereba naranai.",
+        "vietnamese": "Để trở thành bác sĩ, anh phải thi đỗ kỳ thi sát hạch quốc gia."
+      },
+      {
+        "japanese": "新聞が読めるようになるためには、もっと漢字を勉強した方がいい。",
+        "romaji": "Shinbun ga yomeru you ni naru tame ni wa, motto kanji o benkyou shita hou ga ii.",
+        "vietnamese": "Để có thể đọc được báo, anh nên học thêm nhiều chữ Hán."
+      },
+      {
+        "japanese": "勝利のためには、全員の力を合わせることが必要だ。",
+        "romaji": "Shouri no tame ni wa, zen'in no chikara o awaseru koto ga hitsuyou da.",
+        "vietnamese": "Để giành chiến thắng thì sự hợp lực của tất cả mọi người là cần thiết."
+      }
+    ],
+    "notes": [
+      "Biểu thị mục đích",
+      "Sau「～ためには」là các từ ngữ biểu thị sự cần thiết/nghĩa vụ",
+      "Dùng với V thể nguyên dạng hoặc N + の"
+    ]
+  },
+  {
+    "id": "kesshite-nai",
+    "title": "決して～ない",
+    "description": "Sau「決して」luôn là thể phủ định. Nó có nghĩa là「全く・全然・絶対（に）～ない」, nhấn mạnh sự phủ định.",
+    "structure": "決して + V/A thể phủ định",
+    "examples": [
+      {
+        "japanese": "経営者側は自分たちの責任を決して認めようとしなかった。",
+        "romaji": "Keieisha gawa wa jibun tachi no sekinin o kesshite mitomeyou to shinakatta.",
+        "vietnamese": "Phía quản lí đã kiên quyết không thừa nhận trách nhiệm của họ."
+      },
+      {
+        "japanese": "落とした財布が中身ごと戻ってくるということは決してめずらしくない。",
+        "romaji": "Otoshita saifu ga nakami goto modotte kuru to iu koto wa kesshite mezurashiku nai.",
+        "vietnamese": "Việc chiếc ví đã đánh rơi được trả lại nguyên vẹn với những gì có ở bên trong hoàn toàn không phải là hiếm."
+      },
+      {
+        "japanese": "野球は世界的には決してポピュラーなスポーツとは言えない。",
+        "romaji": "Yakyuu wa sekaiteki ni wa kesshite popyuraa na supootsu to wa ienai.",
+        "vietnamese": "Hoàn toàn không thể nói rằng bóng chày là môn thể thao phổ biến khắp thế giới."
+      }
+    ],
+    "notes": [
+      "Sau「決して」luôn là thể phủ định",
+      "Có nghĩa là「全く・全然・絶対（に）～ない」",
+      "Nhấn mạnh sự phủ định",
+      "Thường dùng trong văn viết hoặc phát biểu trang trọng"
+    ]
+  }
+]

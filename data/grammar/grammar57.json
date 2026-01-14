@@ -1,0 +1,287 @@
+[
+  {
+    "id": "nakute-wa-naranai-ikenai",
+    "title": "～なくてはならない／いけない ・ ～なくてもかまわない",
+    "description": "「～なくてはならない／いけない」biểu thị rằng「～」là nghĩa vụ, nhất định cần phải thế. Nó giống với cách nói「～なければならない」.「～なくてもかまわない」biểu thị rằng「～」là không cần thiết. Nó là cách nói lịch sự hơn「～なくてもいいです」.",
+    "structure": "V thể ない / いA (ーい → く) / なA (で) / N (で) + なくてはならない／いけない / なくてもかまわない",
+    "examples": [
+      {
+        "japanese": "この薬は一日2回飲まなくてはならない。",
+        "romaji": "Kono kusuri wa ichinichi nikai nomanakute wa naranai.",
+        "vietnamese": "Thuốc này mỗi ngày phải uống 2 lần."
+      },
+      {
+        "japanese": "レポートは日本語でなくてはなりません。",
+        "romaji": "Repooto wa Nihongo de nakute wa narimasen.",
+        "vietnamese": "Báo cáo phải viết bằng tiếng Nhật."
+      },
+      {
+        "japanese": "熱が下がったら、薬を飲まなくてもかまわない。",
+        "romaji": "Netsu ga sagattara, kusuri o nomanakute mo kamawanai.",
+        "vietnamese": "Khi đã hạ sốt thì không cần phải uống thuốc nữa."
+      },
+      {
+        "japanese": "作文は長くてもかまいません。",
+        "romaji": "Sakubun wa nagakute mo kamaimasen.",
+        "vietnamese": "Bài tập làm văn không cần thiết phải quá dài."
+      }
+    ],
+    "notes": [
+      "「～なくてはならない／いけない」biểu thị nghĩa vụ, nhất định cần phải thế",
+      "Giống với cách nói「～なければならない」",
+      "「～なくてもかまわない」biểu thị không cần thiết",
+      "Cách nói lịch sự hơn「～なくてもいいです」"
+    ]
+  },
+  {
+    "id": "nakucha-nakya",
+    "title": "～なくちゃ／～なきゃ ［いけない］",
+    "description": "Trong hội thoại không trang trọng thì「なくてはいけない」có thể nói thành「なくちゃいけない」, và「なければいけない」có thể nói thành「なくきゃいけない」. Ngoài ra, 「いけない」cũng có thể được lược bỏ.",
+    "structure": "Vなくてはいけない → Vなくちゃ ［いけない］ / Vなければいけない → Vなきゃ ［いけない］",
+    "examples": [
+      {
+        "japanese": "明日までにレポートを書かなくちゃいけなんだ。",
+        "romaji": "Ashita made ni repooto o kakanakucha ikenanda.",
+        "vietnamese": "Tớ phải viết xong báo cáo trước ngày mai."
+      },
+      {
+        "japanese": "授業に遅れちゃう。急がなきゃ。",
+        "romaji": "Jugyou ni okurechau. Isoganakya.",
+        "vietnamese": "Trễ học mất rồi. Phải nhanh lên thôi."
+      }
+    ],
+    "notes": [
+      "Cách nói trong hội thoại không trang trọng",
+      "「なくてはいけない」→「なくちゃいけない」",
+      "「なければいけない」→「なきゃいけない」",
+      "「いけない」có thể được lược bỏ"
+    ]
+  },
+  {
+    "id": "dake-da-dake-de-ii",
+    "title": "…だけだ ・ ［ただ］ …だけでいい",
+    "description": "「～だけ」đi cùng danh từ và biểu thị ý nghĩa giới hạn. Động từ hoặc tính từ có thể đứng trước「...だけ」và tạo thành một vị ngữ.「...するだけでいい」biểu thị rằng việc cần làm chỉ là「...すること」, ngoài ra không cần gì khác.",
+    "structure": "(1) N + だけ (2) V / いA / なA (thể thông thường, なA: ーだ → な) + だけだ / だけでいい",
+    "examples": [
+      {
+        "japanese": "外国人の社員は一人だけいます。",
+        "romaji": "Gaikokujin no shain wa hitori dake imasu.",
+        "vietnamese": "Nhân viên người nước ngoài chỉ có một người."
+      },
+      {
+        "japanese": "何をしているの？ ...ただ、本を読んでいるだけです。",
+        "romaji": "Nani o shite iru no? ...Tada, hon o yonde iru dake desu.",
+        "vietnamese": "Chị đang làm gì thế? Tôi chỉ đang đọc sách thôi."
+      },
+      {
+        "japanese": "この紙に名前を書くだけでいいんです。",
+        "romaji": "Kono kami ni namae o kaku dake de ii n desu.",
+        "vietnamese": "Anh chỉ cần em ghi tên vào tờ giấy này."
+      }
+    ],
+    "notes": [
+      "「～だけ」với danh từ biểu thị ý nghĩa giới hạn",
+      "Động từ hoặc tính từ có thể đứng trước「...だけ」",
+      "「...するだけでいい」biểu thị việc cần làm chỉ là「...すること」",
+      "Có thể dùng「ただ」để nhấn mạnh"
+    ]
+  },
+  {
+    "id": "kana",
+    "title": "…かな",
+    "description": "「...かな」được dùng trong câu hỏi không bắt buộc người nghe phải trả lời.「...」ở thể thông thường. Trong tình huống mời rủ hoặc nhở vả, khi dùng「...ないかな」sẽ có hiệu quả làm mềm mại câu văn mà không cần nói rõ ra.",
+    "structure": "V / いA / なA / N (thể thông thường, なA/N: ーだ) + かな",
+    "examples": [
+      {
+        "japanese": "お父さんの誕生日のプレゼントは何がいいかな。",
+        "romaji": "Otousan no tanjoubi no purezento wa nani ga ii kana.",
+        "vietnamese": "Quà sinh nhật cho bố thì nên tặng gì nhỉ?"
+      },
+      {
+        "japanese": "明日みんなで桜を見に行くんですが、先生もいっしょにいらっしゃらないからと思いまして。",
+        "romaji": "Ashita minna de sakura o mi ni iku n desu ga, sensei mo issho ni irassharanai kara to omoimashite.",
+        "vietnamese": "Ngày mai chúng em sẽ đi ngắm hoa anh đào, và em không biết là thấy có đi được cùng với chúng em không."
+      },
+      {
+        "japanese": "手伝ってくれないかな。",
+        "romaji": "Tetsudatte kurenai kana.",
+        "vietnamese": "Không biết liệu anh có thể giúp tôi không."
+      }
+    ],
+    "notes": [
+      "Dùng trong câu hỏi không bắt buộc người nghe phải trả lời",
+      "「...」ở thể thông thường",
+      "「...ないかな」làm mềm mại câu văn khi mời rủ hoặc nhở vả",
+      "Không cần nói rõ ra ý định"
+    ]
+  },
+  {
+    "id": "nanka",
+    "title": "～なんか…",
+    "description": "「～なんか」là cách nói biểu thị tâm lý xem nhẹ rằng「～」là không quan trọng. Nó giống với「など」, nhưng chỉ dùng trong văn nói.",
+    "structure": "N + なんか",
+    "examples": [
+      {
+        "japanese": "わたしの絵なんかみんなに見せないでください。絵が下手なんです。",
+        "romaji": "Watashi no e nanka minna ni misenaide kudasai. E ga heta nan desu.",
+        "vietnamese": "Đừng cho mọi người xem tranh của tôi. Tôi vẽ không đẹp."
+      },
+      {
+        "japanese": "わたしなんかだめですよ。ほかにいい人がいますよ。",
+        "romaji": "Watashi nanka dame desu yo. Hoka ni ii hito ga imasu yo.",
+        "vietnamese": "Tôi thì không thể được đâu. Có người khác thích hợp hơn đấy."
+      },
+      {
+        "japanese": "お金なんかいらないわ。あなたと一緒にいるだけでいいの。",
+        "romaji": "Okane nanka iranai wa. Anata to issho ni iru dake de ii no.",
+        "vietnamese": "Tiền bạc chả cần thiết đâu ạ. Em chỉ cần đồng hành cùng anh thôi là được rồi ạ."
+      }
+    ],
+    "notes": [
+      "Biểu thị tâm lý xem nhẹ rằng không quan trọng",
+      "Giống với「など」nhưng chỉ dùng trong văn nói",
+      "Thường dùng để khiêm tốn hoặc xem nhẹ bản thân",
+      "Chỉ dùng trong hội thoại không trang trọng"
+    ]
+  },
+  {
+    "id": "nante",
+    "title": "…なんて…",
+    "description": "「XなんてY」là cách nói biểu thị tâm lý xem nhẹ rằng X là không quan trọng.「Xなんて」giống với「など」, nhưng chỉ dùng trong văn nói. Ngoài ra,「Xなんて」còn được sử dụng để bày tỏ ý phủ định hay sự ngạc nhiên về X.",
+    "structure": "V / いA / なA / N (thể thông thường, なA/N: ーだ) + なんて",
+    "examples": [
+      {
+        "japanese": "わたしの絵なんてみんなに見せないでください。絵が下手なんです。",
+        "romaji": "Watashi no e nante minna ni misenaide kudasai. E ga heta nan desu.",
+        "vietnamese": "Đừng cho mọi người xem tranh của tôi, tôi vẽ không đẹp."
+      },
+      {
+        "japanese": "彼が医者になるなんて信じられない。魚も料理もできないのに。",
+        "romaji": "Kare ga isha ni naru nante shinjirarenai. Sakana mo ryouri mo dekinai noni.",
+        "vietnamese": "Anh ấy mà trở thành bác sĩ á, thật không thể tin nổi. Đến cả làm cá hay nấu ăn anh ấy còn không thể cơ mà..."
+      },
+      {
+        "japanese": "ミラーさんがこんなに歌がうまいなんて知らなかった。",
+        "romaji": "Miraa-san ga konna ni uta ga umai nante shiranakatta.",
+        "vietnamese": "Tôi không biết rằng là anh Miller hát hay đến vậy."
+      }
+    ],
+    "notes": [
+      "Biểu thị tâm lý xem nhẹ hoặc sự ngạc nhiên",
+      "Giống với「など」nhưng chỉ dùng trong văn nói",
+      "Có thể bày tỏ ý phủ định hay sự ngạc nhiên",
+      "「なんて」được dùng sau động từ, tính từ;「なんか」không dùng được ở trường hợp này"
+    ]
+  },
+  {
+    "id": "saseru-emotion",
+    "title": "～（さ）せる - Gây ra cảm xúc",
+    "description": "Biểu hiện sự sai khiến 「～（さ）せる」ngoài việc được dùng để bắt (ra lệnh cho) người khác làm gì, còn được dùng để mô tả việc gây ra một cảm xúc. Trong trường hợp này, động từ được dùng là các nội động từ chỉ cảm xúc như「泣く、びっくりする、楽しむ、驚く」, và người bị gây cảm xúc đó được biểu thị bởi「を」.",
+    "structure": "V nội động từ (động từ biểu thị cảm xúc) + （さ）せる",
+    "examples": [
+      {
+        "japanese": "殴って、弟を泣かせたことがある。",
+        "romaji": "Nagutte, otouto o nakaseta koto ga aru.",
+        "vietnamese": "Thi thoảng tôi đấm em trai tôi và làm nó khóc."
+      },
+      {
+        "japanese": "テストで１００点を取って、母をびっくりさせた。",
+        "romaji": "Tesuto de hyakuten o totte, haha o bikkuri saseta.",
+        "vietnamese": "Tôi đã làm mẹ ngạc nhiên khi đạt được 100 điểm cho bài kiểm tra."
+      },
+      {
+        "japanese": "早く就職して、両親を安心させたいと思っています。",
+        "romaji": "Hayaku shuushoku shite, ryoushin o anshin sasetai to omotte imasu.",
+        "vietnamese": "Tôi muốn tìm việc sớm, để cho cha mẹ an tâm."
+      }
+    ],
+    "notes": [
+      "Dùng để mô tả việc gây ra một cảm xúc",
+      "Động từ được dùng là các nội động từ chỉ cảm xúc",
+      "Người bị gây cảm xúc được biểu thị bởi「を」",
+      "Ví dụ: 泣く、びっくりする、楽しむ、驚く"
+    ]
+  },
+  {
+    "id": "saserareru-emotion",
+    "title": "～（さ）せられる ・ ～させる - Bị gây ra cảm xúc",
+    "description": "Hình thức nói sai khiến cảm xúc còn được dùng với biểu hiện bị động. Trường hợp này biểu thị những cảm xúc (ngạc nhiên, buồn bã, thất vọng, ngưỡng mộ) được gây ra rất mạnh.",
+    "structure": "V nội động từ + （さ）せられる／される",
+    "examples": [
+      {
+        "japanese": "何度買っても宝くじが当たらず、がっかりさせられた。",
+        "romaji": "Nando kattemo takarakuji ga atarazu, gakkari saserareta.",
+        "vietnamese": "Tôi đã bị thất vọng vì mua vé số nhiều lần mà không bao giờ trúng."
+      },
+      {
+        "japanese": "子供が書いた作文はすばらしく、感心させられた。",
+        "romaji": "Kodomo ga kaita sakubun wa subarashiku, kanshin saserareta.",
+        "vietnamese": "Tôi đã bị ấn tượng bởi bài làm văn mà đứa trẻ viết quá xuất sắc."
+      },
+      {
+        "japanese": "あの事件のことを聞いて、親と子の関係についてあらためて考えさせられた。",
+        "romaji": "Ano jiken no koto o kiite, oya to ko no kankei ni tsuite aratamete kangaesaserareta.",
+        "vietnamese": "Nghe về vụ án đó, đã khiến tôi suy nghĩ lại về mối quan hệ cha mẹ và con cái."
+      }
+    ],
+    "notes": [
+      "Hình thức bị động của sai khiến cảm xúc",
+      "Biểu thị cảm xúc được gây ra rất mạnh",
+      "Các cảm xúc: ngạc nhiên, buồn bã, thất vọng, ngưỡng mộ",
+      "Thể hiện sự bị động, không có ý chí"
+    ]
+  },
+  {
+    "id": "nara-conditional",
+    "title": "…なら、…",
+    "description": "「XならY」được dùng để đề xuất hoặc hỏi về Y khi người nghe đang có ý định làm X hoặc đang trong trạng thái A. X có thể là danh từ, động từ hoặc tính từ.「なら」đi cùng thể thông thường, tuy nhiên, khi X kết thúc bởi tính từ đuôi な hay danh từ thì sẽ dùng thành「tính từ đuôi な／danh từ ＋なら」.",
+    "structure": "V / いA / なA / N (thể thông thường, なA/N: ーだ) + なら",
+    "examples": [
+      {
+        "japanese": "パソコンを買いたいんですが。...パソコンならパワー電気のがいいですよ。",
+        "romaji": "Pasokon o kaitai n desu ga. ...Pasokon nara pawaa denki no ga ii desu yo.",
+        "vietnamese": "Tôi muốn mua máy tính. ...Nếu là máy tính thì của Power Denki tốt đấy."
+      },
+      {
+        "japanese": "ワインを買うなら、あの酒屋に安くおいしいものがあるよ。",
+        "romaji": "Wain o kau nara, ano sakaya ni yasuku oishii mono ga aru yo.",
+        "vietnamese": "Nếu anh định mua rượu vang thì quầy rượu đằng kia có loại rẻ mà ngon đấy."
+      },
+      {
+        "japanese": "頭が痛いなら、この薬を飲むといいですよ。",
+        "romaji": "Atama ga itai nara, kono kusuri o nomu to ii desu yo.",
+        "vietnamese": "Nếu anh đau đầu thì uống thuốc này là được đấy."
+      }
+    ],
+    "notes": [
+      "Đề xuất hoặc hỏi về Y khi người nghe đang có ý định làm X",
+      "X có thể là danh từ, động từ hoặc tính từ",
+      "「なら」đi cùng thể thông thường",
+      "Với tính từ đuôi な hay danh từ: bỏ だ + なら"
+    ]
+  },
+  {
+    "id": "te-kure-request",
+    "title": "～てくれ",
+    "description": "Dùng「Vてくれ」khi muốn bày tỏ sự chỉ thị hoặc nhờ vả một cách gián tiếp. Khi bày tỏ một cách trực tiếp sự chỉ thị hoặc nhờ vả thì mẫu「～てください」được dùng. Vてくれ là cách nói được dùng chủ yếu bởi đàn ông khi nhờ vả người dưới làm việc gì.",
+    "structure": "Vて + くれ",
+    "examples": [
+      {
+        "japanese": "田中さんはお母さんに「7時に起こしてください」と言いました。...7時に起こしてくれと言いました。",
+        "romaji": "Tanaka-san wa okaasan ni \"Shichiji ni okoshite kudasai\" to iimashita. ...Shichiji ni okoshite kure to iimashita.",
+        "vietnamese": "Anh Tanaka đã nói với mẹ: \"Mẹ hãy gọi con dậy lúc 7 giờ nhé\". ...Anh ấy đã nhờ mẹ gọi dậy lúc 7 giờ."
+      },
+      {
+        "japanese": "部長：田中君、この資料をコピーして来てくれ。",
+        "romaji": "Buchou: Tanaka-kun, kono shiryou o kopii shite kite kure.",
+        "vietnamese": "Trường phỏng: Cậu Tanaka này, cậu photo giúp tôi tài liệu này."
+      }
+    ],
+    "notes": [
+      "Dùng để bày tỏ sự chỉ thị hoặc nhờ vả một cách gián tiếp",
+      "Cách nói trực tiếp là「～てください」",
+      "Chủ yếu dùng bởi đàn ông",
+      "Thường dùng khi nhờ vả người dưới"
+    ]
+  }
+]

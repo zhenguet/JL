@@ -1,0 +1,2676 @@
+[
+  {
+    "id": "item-0",
+    "kanji": "株式会社",
+    "hiragana": "かぶしきがいしゃ",
+    "en": "",
+    "vi": "công ty cổ phần, công ty trách nhiệm hữu hạn",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ",
+        "Ví dụ: 株式会社"
+      ]
+    }
+  },
+  {
+    "id": "item-1",
+    "kanji": "随筆",
+    "hiragana": "ずいひつ",
+    "en": "",
+    "vi": "bài văn",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ",
+        "Ví dụ: 随筆"
+      ]
+    }
+  },
+  {
+    "id": "item-2",
+    "kanji": "経過",
+    "hiragana": "けいか",
+    "en": "",
+    "vi": "trải qua",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ",
+        "Ví dụ: 経過"
+      ]
+    }
+  },
+  {
+    "id": "item-3",
+    "kanji": "変化",
+    "hiragana": "へんか",
+    "en": "",
+    "vi": "thay đổi, biến đổi",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ",
+        "Ví dụ: 変化"
+      ]
+    }
+  },
+  {
+    "id": "item-4",
+    "kanji": "心情",
+    "hiragana": "しんじょう",
+    "en": "",
+    "vi": "tâm tình, cảm xúc",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ",
+        "Ví dụ: 心情"
+      ]
+    }
+  },
+  {
+    "id": "item-5",
+    "kanji": "勘違い",
+    "hiragana": "かんちがい",
+    "en": "",
+    "vi": "hiểu nhầm, hiểu sai ý",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ",
+        "Ví dụ: 勘違い"
+      ]
+    }
+  },
+  {
+    "id": "item-6",
+    "kanji": "日常",
+    "hiragana": "にちじょう",
+    "en": "",
+    "vi": "hằng ngày",
+    "type": "adjective",
+    "explanation": {
+      "content": [
+        "Tính từ",
+        "Ví dụ: 日常"
+      ]
+    }
+  },
+  {
+    "id": "item-7",
+    "kanji": "社交",
+    "hiragana": "しゃこう",
+    "en": "",
+    "vi": "xã giao",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ",
+        "Ví dụ: 社交"
+      ]
+    }
+  },
+  {
+    "id": "item-8",
+    "kanji": "雑談",
+    "hiragana": "ざつだん",
+    "en": "",
+    "vi": "tán gẫu, nói chuyện phiếm",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ",
+        "Ví dụ: 雑談"
+      ]
+    }
+  },
+  {
+    "id": "item-9",
+    "kanji": "入園料",
+    "hiragana": "にゅうえんりょう",
+    "en": "",
+    "vi": "phí vào cửa",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ",
+        "Ví dụ: 入園料"
+      ]
+    }
+  },
+  {
+    "id": "item-10",
+    "kanji": "大人",
+    "hiragana": "おとな",
+    "en": "",
+    "vi": "người lớn",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ",
+        "Ví dụ: 大人"
+      ]
+    }
+  },
+  {
+    "id": "item-11",
+    "kanji": "小人",
+    "hiragana": "しょうにん",
+    "en": "",
+    "vi": "trẻ em",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ",
+        "Ví dụ: 小人"
+      ]
+    }
+  },
+  {
+    "id": "item-12",
+    "kanji": "そのうち",
+    "hiragana": "そのうち",
+    "en": "",
+    "vi": "trong khi đó",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ",
+        "Ví dụ: そのうち"
+      ]
+    }
+  },
+  {
+    "id": "item-13",
+    "kanji": "注目",
+    "hiragana": "ちゅうもく",
+    "en": "",
+    "vi": "chú ý",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ",
+        "Ví dụ: 注目"
+      ]
+    }
+  },
+  {
+    "id": "item-14",
+    "kanji": "語",
+    "hiragana": "ご",
+    "en": "",
+    "vi": "từ ngữ",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ",
+        "Ví dụ: 語"
+      ]
+    }
+  },
+  {
+    "id": "item-15",
+    "kanji": "思考",
+    "hiragana": "しこう",
+    "en": "",
+    "vi": "suy nghĩ",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ",
+        "Ví dụ: 思考"
+      ]
+    }
+  },
+  {
+    "id": "item-16",
+    "kanji": "問い",
+    "hiragana": "とい",
+    "en": "",
+    "vi": "câu hỏi",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ",
+        "Ví dụ: 問い"
+      ]
+    }
+  },
+  {
+    "id": "item-17",
+    "kanji": "全文",
+    "hiragana": "ぜんぶん",
+    "en": "",
+    "vi": "toàn văn, toàn bài",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ",
+        "Ví dụ: 全文"
+      ]
+    }
+  },
+  {
+    "id": "item-18",
+    "kanji": "のみこむ",
+    "hiragana": "のみこむ",
+    "en": "",
+    "vi": "hiểu, tiếp thu, nắm bắt",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ",
+        "Ví dụ: のみこむ"
+      ]
+    }
+  },
+  {
+    "id": "item-19",
+    "kanji": "佃煮",
+    "hiragana": "つくだに",
+    "en": "",
+    "vi": "Tsukudani (một món ăn của Nhật Bản gồm cá nhỏ, ngao, sò,… nấu ngọt với đường và xì dầu).",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ",
+        "Ví dụ: 佃煮"
+      ]
+    }
+  },
+  {
+    "id": "item-20",
+    "kanji": "以後",
+    "hiragana": "いご",
+    "en": "",
+    "vi": "từ nay trở đi",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ",
+        "Ví dụ: 以後"
+      ]
+    }
+  },
+  {
+    "id": "item-21",
+    "kanji": "以降",
+    "hiragana": "いこう",
+    "en": "",
+    "vi": "sau đó",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ",
+        "Ví dụ: 以降"
+      ]
+    }
+  },
+  {
+    "id": "item-22",
+    "kanji": "以来",
+    "hiragana": "いらい",
+    "en": "",
+    "vi": "kể từ đó",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ",
+        "Ví dụ: 以来"
+      ]
+    }
+  },
+  {
+    "id": "item-23",
+    "kanji": "一体",
+    "hiragana": "いったい",
+    "en": "",
+    "vi": "rốt cuộc là, tóm lại là",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ",
+        "Ví dụ: 一体"
+      ]
+    }
+  },
+  {
+    "id": "item-24",
+    "kanji": "四字熟語",
+    "hiragana": "よじじゅくご",
+    "en": "",
+    "vi": "thành ngữ gồm tổ hợp từ cấu tạo từ 4 chữ Hán.",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ",
+        "Ví dụ: 四字熟語"
+      ]
+    }
+  },
+  {
+    "id": "item-25",
+    "kanji": "熟語",
+    "hiragana": "じゅくご",
+    "en": "",
+    "vi": "cụm từ, từ ghép, ngữ cố định từ 2 thành tố trở lên",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ",
+        "Ví dụ: 熟語"
+      ]
+    }
+  },
+  {
+    "id": "item-26",
+    "kanji": "適度",
+    "hiragana": "てきど",
+    "en": "",
+    "vi": "mức độ vừa phải",
+    "type": "adjective",
+    "explanation": {
+      "content": [
+        "Tính từ",
+        "Ví dụ: 適度"
+      ]
+    }
+  },
+  {
+    "id": "item-27",
+    "kanji": "いや",
+    "hiragana": "いや",
+    "en": "",
+    "vi": "không",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ",
+        "Ví dụ: いや"
+      ]
+    }
+  },
+  {
+    "id": "item-28",
+    "kanji": "いな",
+    "hiragana": "いな",
+    "en": "",
+    "vi": "chẳng phải (dùng trong văn viết)",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ",
+        "Ví dụ: いな"
+      ]
+    }
+  },
+  {
+    "id": "item-29",
+    "kanji": "適切",
+    "hiragana": "てきせつ",
+    "en": "",
+    "vi": "thích hợp, phù hợp",
+    "type": "adjective",
+    "explanation": {
+      "content": [
+        "Tính từ",
+        "Ví dụ: 適切"
+      ]
+    }
+  },
+  {
+    "id": "item-30",
+    "kanji": "一進一退",
+    "hiragana": "いっしんにったい",
+    "en": "",
+    "vi": "cò cưa, lúc tiến lúc lùi",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ",
+        "Ví dụ: 一進一退"
+      ]
+    }
+  },
+  {
+    "id": "item-31",
+    "kanji": "試行錯誤",
+    "hiragana": "しこうさくご",
+    "en": "",
+    "vi": "thử và lặp đi lặp lại thất bại rồi đúc kết kinh nghiệm dẫn đến thành công, làm thử và rút kinh nghiệm.",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ",
+        "Ví dụ: 試行錯誤"
+      ]
+    }
+  },
+  {
+    "id": "item-32",
+    "kanji": "月日",
+    "hiragana": "つきひ",
+    "en": "",
+    "vi": "thời gian, tháng ngày",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ",
+        "Ví dụ: 月日"
+      ]
+    }
+  },
+  {
+    "id": "item-33",
+    "kanji": "要する",
+    "hiragana": "ようする",
+    "en": "",
+    "vi": "cần phải có",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ",
+        "Ví dụ: 要する"
+      ]
+    }
+  },
+  {
+    "id": "item-34",
+    "kanji": "ただ",
+    "hiragana": "ただ",
+    "en": "",
+    "vi": "tuy nhiên",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ",
+        "Ví dụ: ただ"
+      ]
+    }
+  },
+  {
+    "id": "item-35",
+    "kanji": "浮かぶ",
+    "hiragana": "うかぶ",
+    "en": "",
+    "vi": "nổi lên, hiện lên",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ",
+        "Ví dụ: 浮かぶ"
+      ]
+    }
+  },
+  {
+    "id": "item-36",
+    "kanji": "月極/月決め",
+    "hiragana": "つきぎめ",
+    "en": "",
+    "vi": "hợp đồng trọn tháng, cho thuê theo tháng",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ",
+        "Ví dụ: 月極/月決め"
+      ]
+    }
+  },
+  {
+    "id": "item-37",
+    "kanji": "来日",
+    "hiragana": "らいにち",
+    "en": "",
+    "vi": "đến Nhật",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ",
+        "Ví dụ: 来日"
+      ]
+    }
+  },
+  {
+    "id": "item-38",
+    "kanji": "詰める",
+    "hiragana": "つめる",
+    "en": "",
+    "vi": "bịt, nhét",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ",
+        "Ví dụ: 詰める"
+      ]
+    }
+  },
+  {
+    "id": "item-39",
+    "kanji": "街",
+    "hiragana": "まち",
+    "en": "",
+    "vi": "thành phố, phố xá",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ",
+        "Ví dụ: 街"
+      ]
+    }
+  },
+  {
+    "id": "item-40",
+    "kanji": "看板",
+    "hiragana": "かんばん",
+    "en": "",
+    "vi": "biển hiệu, biển quảng cáo",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ",
+        "Ví dụ: 看板"
+      ]
+    }
+  },
+  {
+    "id": "item-41",
+    "kanji": "解読",
+    "hiragana": "かいどく",
+    "en": "",
+    "vi": "đọc ra, giải mã",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ",
+        "Ví dụ: 解読"
+      ]
+    }
+  },
+  {
+    "id": "item-42",
+    "kanji": "出くわす",
+    "hiragana": "でくわす",
+    "en": "",
+    "vi": "tình cờ gặp, gặp phải",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ",
+        "Ví dụ: 出くわす"
+      ]
+    }
+  },
+  {
+    "id": "item-43",
+    "kanji": "パーキング",
+    "hiragana": "パーキング",
+    "en": "",
+    "vi": "nơi đỗ xe",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ",
+        "Ví dụ: パーキング"
+      ]
+    }
+  },
+  {
+    "id": "item-44",
+    "kanji": "頭",
+    "hiragana": "あたま",
+    "en": "",
+    "vi": "(ăn sâu vào) đầu",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ",
+        "Ví dụ: 頭"
+      ]
+    }
+  },
+  {
+    "id": "item-45",
+    "kanji": "和英辞典",
+    "hiragana": "わえいじてん",
+    "en": "",
+    "vi": "từ điển Anh - Nhật",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ",
+        "Ví dụ: 和英辞典"
+      ]
+    }
+  },
+  {
+    "id": "item-46",
+    "kanji": "辞典",
+    "hiragana": "じてん",
+    "en": "",
+    "vi": "từ điển",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ",
+        "Ví dụ: 辞典"
+      ]
+    }
+  },
+  {
+    "id": "item-47",
+    "kanji": "ひょっとして",
+    "hiragana": "ひょっとして",
+    "en": "",
+    "vi": "phải chăng, hay là",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ",
+        "Ví dụ: ひょっとして"
+      ]
+    }
+  },
+  {
+    "id": "item-48",
+    "kanji": "オーナー",
+    "hiragana": "オーナー",
+    "en": "",
+    "vi": "người chủ, chủ sở hữu",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ",
+        "Ví dụ: オーナー"
+      ]
+    }
+  },
+  {
+    "id": "item-49",
+    "kanji": "苗字",
+    "hiragana": "みょうじ",
+    "en": "",
+    "vi": "họ",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ",
+        "Ví dụ: 苗字"
+      ]
+    }
+  },
+  {
+    "id": "item-50",
+    "kanji": "あるいは",
+    "hiragana": "あるいは",
+    "en": "",
+    "vi": "hoặc, hoặc là",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ",
+        "Ví dụ: あるいは"
+      ]
+    }
+  },
+  {
+    "id": "item-51",
+    "kanji": "ムーン",
+    "hiragana": "ムーン",
+    "en": "",
+    "vi": "mặt trăng",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ",
+        "Ví dụ: ムーン"
+      ]
+    }
+  },
+  {
+    "id": "item-52",
+    "kanji": "エンド",
+    "hiragana": "エンド",
+    "en": "",
+    "vi": "kết thúc, hết",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ",
+        "Ví dụ: エンド"
+      ]
+    }
+  },
+  {
+    "id": "item-53",
+    "kanji": "ネーミング",
+    "hiragana": "ネーミング",
+    "en": "",
+    "vi": "việc đặt tên",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ",
+        "Ví dụ: ネーミング"
+      ]
+    }
+  },
+  {
+    "id": "item-54",
+    "kanji": "なんとなく",
+    "hiragana": "なんとなく",
+    "en": "",
+    "vi": "chẳng hiểu sao nhưng, không hiểu sao nhưng",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ",
+        "Ví dụ: なんとなく"
+      ]
+    }
+  },
+  {
+    "id": "item-55",
+    "kanji": "頭に入れる",
+    "hiragana": "あたまにいれる",
+    "en": "",
+    "vi": "đưa vào đầu",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ",
+        "Ví dụ: 頭に入れる"
+      ]
+    }
+  },
+  {
+    "id": "item-56",
+    "kanji": "見慣れる",
+    "hiragana": "みなれる",
+    "en": "",
+    "vi": "nhìn quen mắt",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ",
+        "Ví dụ: 見慣れる"
+      ]
+    }
+  },
+  {
+    "id": "item-57",
+    "kanji": "範囲",
+    "hiragana": "はんい",
+    "en": "",
+    "vi": "phạm vi",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ",
+        "Ví dụ: 範囲"
+      ]
+    }
+  },
+  {
+    "id": "item-58",
+    "kanji": "広がる",
+    "hiragana": "ひろがる",
+    "en": "",
+    "vi": "mở rộng, lan rộng ra",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ",
+        "Ví dụ: 広がる"
+      ]
+    }
+  },
+  {
+    "id": "item-59",
+    "kanji": "横断",
+    "hiragana": "おうだん",
+    "en": "",
+    "vi": "băng qua",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ",
+        "Ví dụ: 横断"
+      ]
+    }
+  },
+  {
+    "id": "item-60",
+    "kanji": "どうやら",
+    "hiragana": "どうやら",
+    "en": "",
+    "vi": "có vẻ như, dường như",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ",
+        "Ví dụ: どうやら"
+      ]
+    }
+  },
+  {
+    "id": "item-61",
+    "kanji": "市場",
+    "hiragana": "しじょう",
+    "en": "",
+    "vi": "Thị trường (bãi đậu xe)",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ",
+        "Ví dụ: 市場"
+      ]
+    }
+  },
+  {
+    "id": "item-62",
+    "kanji": "独占",
+    "hiragana": "どくせん",
+    "en": "",
+    "vi": "độc quyền, độc chiếm",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ",
+        "Ví dụ: 独占"
+      ]
+    }
+  },
+  {
+    "id": "item-63",
+    "kanji": "一部上場",
+    "hiragana": "いちぶじょうじょう",
+    "en": "",
+    "vi": "trong danh sách các công ty chính thức niêm yết quan trọng nhất trên sàn chứng khoán Tokyo.",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ",
+        "Ví dụ: 一部上場"
+      ]
+    }
+  },
+  {
+    "id": "item-64",
+    "kanji": "上場",
+    "hiragana": "じょうじょう",
+    "en": "",
+    "vi": "niêm yết",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ",
+        "Ví dụ: 上場"
+      ]
+    }
+  },
+  {
+    "id": "item-65",
+    "kanji": "思い込む",
+    "hiragana": "おもいこむ",
+    "en": "",
+    "vi": "nghĩ rằng, cho rằng, nghĩ quá",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ",
+        "Ví dụ: 思い込む"
+      ]
+    }
+  },
+  {
+    "id": "item-66",
+    "kanji": "突っ走る",
+    "hiragana": "つっぱしる",
+    "en": "",
+    "vi": "lao đầu chạy, cắm đầu cắm cổ chạy",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ",
+        "Ví dụ: 突っ走る"
+      ]
+    }
+  },
+  {
+    "id": "item-67",
+    "kanji": "在日",
+    "hiragana": "ざいにち",
+    "en": "",
+    "vi": "sống ở Nhật",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ",
+        "Ví dụ: 在日"
+      ]
+    }
+  },
+  {
+    "id": "item-68",
+    "kanji": "とりあえず",
+    "hiragana": "とりあえず",
+    "en": "",
+    "vi": "trước tiên, trước hết",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ",
+        "Ví dụ: とりあえず"
+      ]
+    }
+  },
+  {
+    "id": "item-69",
+    "kanji": "観光物産館",
+    "hiragana": "かんこうぶっさんかん",
+    "en": "",
+    "vi": "tòa nhà là nơi chỉ dẫn các thông tin du lịch và bày bán các đặc sản của địa phương.",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ",
+        "Ví dụ: 観光物産館"
+      ]
+    }
+  },
+  {
+    "id": "item-70",
+    "kanji": "観光",
+    "hiragana": "かんこう",
+    "en": "",
+    "vi": "tham quan, du lịch",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ",
+        "Ví dụ: 観光"
+      ]
+    }
+  },
+  {
+    "id": "item-71",
+    "kanji": "目に入る",
+    "hiragana": "めにはいる",
+    "en": "",
+    "vi": "đập vào mắt",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ",
+        "Ví dụ: 目に入る"
+      ]
+    }
+  },
+  {
+    "id": "item-72",
+    "kanji": "国語辞典",
+    "hiragana": "こくごじてん",
+    "en": "",
+    "vi": "từ điển quốc ngữ, từ điển tiếng Nhật",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ",
+        "Ví dụ: 国語辞典"
+      ]
+    }
+  },
+  {
+    "id": "item-73",
+    "kanji": "忍ばせる",
+    "hiragana": "しのばせる",
+    "en": "",
+    "vi": "giấu giếm",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ",
+        "Ví dụ: 忍ばせる"
+      ]
+    }
+  },
+  {
+    "id": "item-74",
+    "kanji": "ごと",
+    "hiragana": "ごと",
+    "en": "",
+    "vi": "hàng (tháng)",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ",
+        "Ví dụ: ごと"
+      ]
+    }
+  },
+  {
+    "id": "item-75",
+    "kanji": "契約",
+    "hiragana": "けいやく",
+    "en": "",
+    "vi": "làm hợp đồng",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ",
+        "Ví dụ: 契約"
+      ]
+    }
+  },
+  {
+    "id": "item-76",
+    "kanji": "定義",
+    "hiragana": "ていぎ",
+    "en": "",
+    "vi": "định nghĩa",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ",
+        "Ví dụ: 定義"
+      ]
+    }
+  },
+  {
+    "id": "item-77",
+    "kanji": "慣用",
+    "hiragana": "かんよう",
+    "en": "",
+    "vi": "cách dùng thông thường",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ",
+        "Ví dụ: 慣用"
+      ]
+    }
+  },
+  {
+    "id": "item-78",
+    "kanji": "一瞬",
+    "hiragana": "いっしゅん",
+    "en": "",
+    "vi": "nhất thời, khoảnh khắc, chốc lát",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ",
+        "Ví dụ: 一瞬"
+      ]
+    }
+  },
+  {
+    "id": "item-79",
+    "kanji": "パッと",
+    "hiragana": "パッと",
+    "en": "",
+    "vi": "(nhìn) thoáng qua",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ",
+        "Ví dụ: パッと"
+      ]
+    }
+  },
+  {
+    "id": "item-80",
+    "kanji": "たとえ",
+    "hiragana": "たとえ",
+    "en": "",
+    "vi": "cho dù, dù là",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ",
+        "Ví dụ: たとえ"
+      ]
+    }
+  },
+  {
+    "id": "item-81",
+    "kanji": "読み違える",
+    "hiragana": "よみちがえる",
+    "en": "",
+    "vi": "đọc nhầm, đọc sai",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ",
+        "Ví dụ: 読み違える"
+      ]
+    }
+  },
+  {
+    "id": "item-82",
+    "kanji": "日々",
+    "hiragana": "ひび",
+    "en": "",
+    "vi": "ngày ngày, hằng ngày, mỗi ngày",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ",
+        "Ví dụ: 日々"
+      ]
+    }
+  },
+  {
+    "id": "item-83",
+    "kanji": "書き入れる",
+    "hiragana": "かきいれる",
+    "en": "",
+    "vi": "điền vào, viết vào",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ",
+        "Ví dụ: 書き入れる"
+      ]
+    }
+  },
+  {
+    "id": "item-84",
+    "kanji": "かまわない",
+    "hiragana": "かまわない",
+    "en": "",
+    "vi": "không sao, không vấn đề gì",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ",
+        "Ví dụ: かまわない"
+      ]
+    }
+  },
+  {
+    "id": "item-85",
+    "kanji": "書き留める",
+    "hiragana": "かきとめる",
+    "en": "",
+    "vi": "viết ra, ghi chép lại",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ",
+        "Ví dụ: 書き留める"
+      ]
+    }
+  },
+  {
+    "id": "item-86",
+    "kanji": "五月蠅い",
+    "hiragana": "うるさい",
+    "en": "",
+    "vi": "ồn ào",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ",
+        "Ví dụ: 五月蠅い"
+      ]
+    }
+  },
+  {
+    "id": "item-87",
+    "kanji": "時雨",
+    "hiragana": "しぐれ",
+    "en": "",
+    "vi": "mưa rào (cuối thu đầu đông)",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ",
+        "Ví dụ: 時雨"
+      ]
+    }
+  },
+  {
+    "id": "item-88",
+    "kanji": "向日葵",
+    "hiragana": "ひまわり",
+    "en": "",
+    "vi": "hoa hướng dương",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ",
+        "Ví dụ: 向日葵"
+      ]
+    }
+  },
+  {
+    "id": "item-89",
+    "kanji": "流れ",
+    "hiragana": "ながれ",
+    "en": "",
+    "vi": "mạch (mạch văn)",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ",
+        "Ví dụ: 流れ"
+      ]
+    }
+  },
+  {
+    "id": "item-90",
+    "kanji": "ことわざ",
+    "hiragana": "ことわざ",
+    "en": "",
+    "vi": "tục ngữ",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ",
+        "Ví dụ: ことわざ"
+      ]
+    }
+  },
+  {
+    "id": "item-91",
+    "kanji": "取り違える",
+    "hiragana": "とりちがえる",
+    "en": "",
+    "vi": "hiểu sai, nhầm lẫn, lấy nhầm",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ",
+        "Ví dụ: 取り違える"
+      ]
+    }
+  },
+  {
+    "id": "item-92",
+    "kanji": "情けは人のためならず",
+    "hiragana": "なさけはひとのためならず",
+    "en": "",
+    "vi": "ở hiền gặp lành",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ",
+        "Ví dụ: 情けは人のためならず"
+      ]
+    }
+  },
+  {
+    "id": "item-93",
+    "kanji": "お好み焼き",
+    "hiragana": "おこのみやき",
+    "en": "",
+    "vi": "Okonomiyaki (một loại bánh bột chiên áp chảo với các thành phần chính là bột mì được bổ sung các thành phần như cá, thịt, rau, v.v)",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ",
+        "Ví dụ: お好み焼き"
+      ]
+    }
+  },
+  {
+    "id": "item-94",
+    "kanji": "話題",
+    "hiragana": "わだい",
+    "en": "",
+    "vi": "đề tài, chủ đề câu chuyện",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ",
+        "Ví dụ: 話題"
+      ]
+    }
+  },
+  {
+    "id": "item-95",
+    "kanji": "戻す",
+    "hiragana": "もどす",
+    "en": "",
+    "vi": "trở lại",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ",
+        "Ví dụ: 戻す"
+      ]
+    }
+  },
+  {
+    "id": "item-96",
+    "kanji": "思い違い",
+    "hiragana": "おもいちがい",
+    "en": "",
+    "vi": "sự hiểu lầm",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ",
+        "Ví dụ: 思い違い"
+      ]
+    }
+  },
+  {
+    "id": "item-97",
+    "kanji": "自分自身",
+    "hiragana": "じぶんじしん",
+    "en": "",
+    "vi": "chính mình",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ",
+        "Ví dụ: 自分自身"
+      ]
+    }
+  },
+  {
+    "id": "item-98",
+    "kanji": "わいわい",
+    "hiragana": "わいわい",
+    "en": "",
+    "vi": "sôi nổi, vui vẻ",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ",
+        "Ví dụ: わいわい"
+      ]
+    }
+  },
+  {
+    "id": "item-99",
+    "kanji": "ホームパーティ",
+    "hiragana": "ホームパーティ",
+    "en": "",
+    "vi": "tiệc gia đình",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ",
+        "Ví dụ: ホームパーティ"
+      ]
+    }
+  },
+  {
+    "id": "item-100",
+    "kanji": "ぴったり",
+    "hiragana": "ぴったり",
+    "en": "",
+    "vi": "thích hợp",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ",
+        "Ví dụ: ぴったり"
+      ]
+    }
+  },
+  {
+    "id": "item-101",
+    "kanji": "どうにか",
+    "hiragana": "どうにか",
+    "en": "",
+    "vi": "bằng cách nào đó",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ",
+        "Ví dụ: どうにか"
+      ]
+    }
+  },
+  {
+    "id": "item-102",
+    "kanji": "直訳",
+    "hiragana": "ちょくやく",
+    "en": "",
+    "vi": "trực dịch",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ",
+        "Ví dụ: 直訳"
+      ]
+    }
+  },
+  {
+    "id": "item-103",
+    "kanji": "災い",
+    "hiragana": "わざわい",
+    "en": "",
+    "vi": "điều không may mắn, tai họa",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ",
+        "Ví dụ: 災い"
+      ]
+    }
+  },
+  {
+    "id": "item-104",
+    "kanji": "遠ざける",
+    "hiragana": "とおざける",
+    "en": "",
+    "vi": "xua đi",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ",
+        "Ví dụ: 遠ざける"
+      ]
+    }
+  },
+  {
+    "id": "item-105",
+    "kanji": "門",
+    "hiragana": "かど",
+    "en": "",
+    "vi": "cổng",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ",
+        "Ví dụ: 門"
+      ]
+    }
+  },
+  {
+    "id": "item-106",
+    "kanji": "福",
+    "hiragana": "ふく",
+    "en": "",
+    "vi": "phúc lành",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ",
+        "Ví dụ: 福"
+      ]
+    }
+  },
+  {
+    "id": "item-107",
+    "kanji": "結構",
+    "hiragana": "けっこう",
+    "en": "",
+    "vi": "khá (nhiều)",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ",
+        "Ví dụ: 結構"
+      ]
+    }
+  },
+  {
+    "id": "item-108",
+    "kanji": "辛党",
+    "hiragana": "からとう",
+    "en": "",
+    "vi": "người thích uống rượu ăn đồ mồi",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ",
+        "Ví dụ: 辛党"
+      ]
+    }
+  },
+  {
+    "id": "item-109",
+    "kanji": "甘党",
+    "hiragana": "あまとう",
+    "en": "",
+    "vi": "người không thích uống rượu, chỉ thích ăn đồ mồi",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ",
+        "Ví dụ: 甘党"
+      ]
+    }
+  },
+  {
+    "id": "item-110",
+    "kanji": "知ったかぶり",
+    "hiragana": "しったかぶり",
+    "en": "",
+    "vi": "tỏ ra biết (dù thực sự không biết)",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ",
+        "Ví dụ: 知ったかぶり"
+      ]
+    }
+  },
+  {
+    "id": "item-111",
+    "kanji": "一時",
+    "hiragana": "いっとき",
+    "en": "",
+    "vi": "một lúc, chốc lát",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ",
+        "Ví dụ: 一時"
+      ]
+    }
+  },
+  {
+    "id": "item-112",
+    "kanji": "恥",
+    "hiragana": "はじ",
+    "en": "",
+    "vi": "sự xấu hổ",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ",
+        "Ví dụ: 恥"
+      ]
+    }
+  },
+  {
+    "id": "item-113",
+    "kanji": "関連",
+    "hiragana": "かんれん",
+    "en": "",
+    "vi": "liên quan",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ",
+        "Ví dụ: 関連"
+      ]
+    }
+  },
+  {
+    "id": "item-114",
+    "kanji": "広げる",
+    "hiragana": "ひろげる",
+    "en": "",
+    "vi": "mở rộng (câu chuyện)",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ",
+        "Ví dụ: 広げる"
+      ]
+    }
+  },
+  {
+    "id": "item-115",
+    "kanji": "ベストセラー",
+    "hiragana": "ベストセラー",
+    "en": "",
+    "vi": "sách bán chạy",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ",
+        "Ví dụ: ベストセラー"
+      ]
+    }
+  },
+  {
+    "id": "item-116",
+    "kanji": "コンパ",
+    "hiragana": "コンパ",
+    "en": "",
+    "vi": "cuộc liên hoan",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ",
+        "Ví dụ: コンパ"
+      ]
+    }
+  },
+  {
+    "id": "item-117",
+    "kanji": "共感",
+    "hiragana": "きょうかん",
+    "en": "",
+    "vi": "đồng cảm, cảm thông",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ",
+        "Ví dụ: 共感"
+      ]
+    }
+  },
+  {
+    "id": "item-118",
+    "kanji": "逆さま",
+    "hiragana": "さかさま",
+    "en": "",
+    "vi": "ngược",
+    "type": "adjective",
+    "explanation": {
+      "content": [
+        "Tính từ",
+        "Ví dụ: 逆さま"
+      ]
+    }
+  },
+  {
+    "id": "item-119",
+    "kanji": "言い換える",
+    "hiragana": "いいかえる",
+    "en": "",
+    "vi": "nói bằng cách khác, diễn đạt lại cách khác",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ",
+        "Ví dụ: 言い換える"
+      ]
+    }
+  },
+  {
+    "id": "item-120",
+    "kanji": "知り合い",
+    "hiragana": "しりあい",
+    "en": "",
+    "vi": "người quen",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ",
+        "Ví dụ: 知り合い"
+      ]
+    }
+  },
+  {
+    "id": "item-121",
+    "kanji": "石の上にも三年",
+    "hiragana": "いしのうえにもさんねん",
+    "en": "",
+    "vi": "có chí thì nên",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ",
+        "Ví dụ: 石の上にも三年"
+      ]
+    }
+  },
+  {
+    "id": "item-122",
+    "kanji": "住めば都",
+    "hiragana": "すめばみやこ",
+    "en": "",
+    "vi": "sống đâu quen đó",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ",
+        "Ví dụ: 住めば都"
+      ]
+    }
+  },
+  {
+    "id": "item-123",
+    "kanji": "都",
+    "hiragana": "みやこ",
+    "en": "",
+    "vi": "kinh đô, phố thị",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ",
+        "Ví dụ: 都"
+      ]
+    }
+  },
+  {
+    "id": "item-124",
+    "kanji": "住み慣れる",
+    "hiragana": "すみなれる",
+    "en": "",
+    "vi": "sống quen",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ",
+        "Ví dụ: 住み慣れる"
+      ]
+    }
+  },
+  {
+    "id": "item-125",
+    "kanji": "猿も木から落ちる",
+    "hiragana": "さるもきからおちる",
+    "en": "",
+    "vi": "nhân vô thập toàn",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ",
+        "Ví dụ: 猿も木から落ちる"
+      ]
+    }
+  },
+  {
+    "id": "item-126",
+    "kanji": "木登り",
+    "hiragana": "きのぼり",
+    "en": "",
+    "vi": "trèo cây",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ",
+        "Ví dụ: 木登り"
+      ]
+    }
+  },
+  {
+    "id": "item-127",
+    "kanji": "など",
+    "hiragana": "など",
+    "en": "",
+    "vi": "vân vân",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ",
+        "Ví dụ: など"
+      ]
+    }
+  },
+  {
+    "id": "item-128",
+    "kanji": "しぼる",
+    "hiragana": "しぼる",
+    "en": "",
+    "vi": "vắt",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ",
+        "Ví dụ: しぼる"
+      ]
+    }
+  },
+  {
+    "id": "item-129",
+    "kanji": "入社",
+    "hiragana": "にゅうしゃ",
+    "en": "",
+    "vi": "vào công ty",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ",
+        "Ví dụ: 入社"
+      ]
+    }
+  },
+  {
+    "id": "item-130",
+    "kanji": "口に出す",
+    "hiragana": "くちにだす",
+    "en": "",
+    "vi": "nói ra",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ",
+        "Ví dụ: 口に出す"
+      ]
+    }
+  },
+  {
+    "id": "item-131",
+    "kanji": "我慢",
+    "hiragana": "がまん",
+    "en": "",
+    "vi": "chịu đựng",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ",
+        "Ví dụ: 我慢"
+      ]
+    }
+  },
+  {
+    "id": "item-132",
+    "kanji": "我慢強い",
+    "hiragana": "がまんづよい",
+    "en": "",
+    "vi": "chịu đựng tốt, nhẫn nại",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ",
+        "Ví dụ: 我慢強い"
+      ]
+    }
+  },
+  {
+    "id": "item-133",
+    "kanji": "掃除機",
+    "hiragana": "そうじき",
+    "en": "",
+    "vi": "máy hút bụi",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ",
+        "Ví dụ: 掃除機"
+      ]
+    }
+  },
+  {
+    "id": "item-134",
+    "kanji": "ため息",
+    "hiragana": "ためいき",
+    "en": "",
+    "vi": "thở dài",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ",
+        "Ví dụ: ため息"
+      ]
+    }
+  },
+  {
+    "id": "item-135",
+    "kanji": "あふれる",
+    "hiragana": "あふれる",
+    "en": "",
+    "vi": "đầy",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ",
+        "Ví dụ: あふれる"
+      ]
+    }
+  },
+  {
+    "id": "item-136",
+    "kanji": "たまる",
+    "hiragana": "たまる",
+    "en": "",
+    "vi": "(rác) tích lại",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ",
+        "Ví dụ: たまる"
+      ]
+    }
+  },
+  {
+    "id": "item-137",
+    "kanji": "受験生",
+    "hiragana": "じゅけんせい",
+    "en": "",
+    "vi": "thí sinh, người dự thi",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ",
+        "Ví dụ: 受験生"
+      ]
+    }
+  },
+  {
+    "id": "item-138",
+    "kanji": "都心",
+    "hiragana": "としん",
+    "en": "",
+    "vi": "trung tâm thành phố",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ",
+        "Ví dụ: 都心"
+      ]
+    }
+  },
+  {
+    "id": "item-139",
+    "kanji": "双子",
+    "hiragana": "ふたご",
+    "en": "",
+    "vi": "cặp sinh đôi, cặp song sinh",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ",
+        "Ví dụ: 双子"
+      ]
+    }
+  },
+  {
+    "id": "item-140",
+    "kanji": "世界的",
+    "hiragana": "せかいてき",
+    "en": "",
+    "vi": "tầm cỡ thế giới",
+    "type": "adjective",
+    "explanation": {
+      "content": [
+        "Tính từ",
+        "Ví dụ: 世界的"
+      ]
+    }
+  },
+  {
+    "id": "item-141",
+    "kanji": "スター",
+    "hiragana": "スター",
+    "en": "",
+    "vi": "ngôi sao",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ",
+        "Ví dụ: スター"
+      ]
+    }
+  },
+  {
+    "id": "item-142",
+    "kanji": "シーズン",
+    "hiragana": "シーズン",
+    "en": "",
+    "vi": "mùa",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ",
+        "Ví dụ: シーズン"
+      ]
+    }
+  },
+  {
+    "id": "item-143",
+    "kanji": "約",
+    "hiragana": "やく",
+    "en": "",
+    "vi": "khoảng ~",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ",
+        "Ví dụ: 約"
+      ]
+    }
+  },
+  {
+    "id": "item-144",
+    "kanji": "割り",
+    "hiragana": "わり",
+    "en": "",
+    "vi": "mười phần trăm",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ",
+        "Ví dụ: 割り"
+      ]
+    }
+  },
+  {
+    "id": "item-145",
+    "kanji": "休暇",
+    "hiragana": "きゅうか",
+    "en": "",
+    "vi": "ngày nghỉ",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ",
+        "Ví dụ: 休暇"
+      ]
+    }
+  },
+  {
+    "id": "item-146",
+    "kanji": "いとこ",
+    "hiragana": "いとこ",
+    "en": "",
+    "vi": "anh em họ",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ",
+        "Ví dụ: いとこ"
+      ]
+    }
+  },
+  {
+    "id": "item-147",
+    "kanji": "同士",
+    "hiragana": "どうし",
+    "en": "",
+    "vi": "giữa mấy (anh em họ), (anh em họ) với nhau",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ",
+        "Ví dụ: 同士"
+      ]
+    }
+  },
+  {
+    "id": "item-148",
+    "kanji": "ルーズ",
+    "hiragana": "ルーズ",
+    "en": "",
+    "vi": "cẩu thả, bê bối",
+    "type": "adjective",
+    "explanation": {
+      "content": [
+        "Tính từ",
+        "Ví dụ: ルーズ"
+      ]
+    }
+  },
+  {
+    "id": "item-149",
+    "kanji": "売上げ",
+    "hiragana": "うりあげ",
+    "en": "",
+    "vi": "doanh thu",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ",
+        "Ví dụ: 売上げ"
+      ]
+    }
+  },
+  {
+    "id": "item-150",
+    "kanji": "落ちる",
+    "hiragana": "おちる",
+    "en": "",
+    "vi": "(doanh thu) giảm sút",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ",
+        "Ví dụ: 落ちる"
+      ]
+    }
+  },
+  {
+    "id": "item-151",
+    "kanji": "工学部",
+    "hiragana": "こうがくぶ",
+    "en": "",
+    "vi": "khoa kỹ thuật",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ",
+        "Ví dụ: 工学部"
+      ]
+    }
+  },
+  {
+    "id": "item-152",
+    "kanji": "入り直す",
+    "hiragana": "はいりなおす",
+    "en": "",
+    "vi": "vào lại",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ",
+        "Ví dụ: 入り直す"
+      ]
+    }
+  },
+  {
+    "id": "item-153",
+    "kanji": "関係",
+    "hiragana": "かんけい",
+    "en": "",
+    "vi": "liên quan đến (âm nhạc)",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ",
+        "Ví dụ: 関係"
+      ]
+    }
+  },
+  {
+    "id": "item-154",
+    "kanji": "ポテトチップス",
+    "hiragana": "ポテトチップス",
+    "en": "",
+    "vi": "khoai tây chiên giòn",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ",
+        "Ví dụ: ポテトチップス"
+      ]
+    }
+  },
+  {
+    "id": "item-155",
+    "kanji": "インスタント食品",
+    "hiragana": "インスタントしょくひん",
+    "en": "",
+    "vi": "thực phẩm ăn liền",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ",
+        "Ví dụ: インスタント食品"
+      ]
+    }
+  },
+  {
+    "id": "item-156",
+    "kanji": "インスタント",
+    "hiragana": "インスタント",
+    "en": "",
+    "vi": "ăn liền",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ",
+        "Ví dụ: インスタント"
+      ]
+    }
+  },
+  {
+    "id": "item-157",
+    "kanji": "食品",
+    "hiragana": "しょくひん",
+    "en": "",
+    "vi": "thực phẩm",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ",
+        "Ví dụ: 食品"
+      ]
+    }
+  },
+  {
+    "id": "item-158",
+    "kanji": "あきる",
+    "hiragana": "あきる",
+    "en": "",
+    "vi": "chán, ngấy",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ",
+        "Ví dụ: あきる"
+      ]
+    }
+  },
+  {
+    "id": "item-159",
+    "kanji": "高みの見物",
+    "hiragana": "たかみのけんぶつ",
+    "en": "",
+    "vi": "hóng, đứng từ xa ngó chuyện thiên hạ, làm như không liên quan",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ",
+        "Ví dụ: 高みの見物"
+      ]
+    }
+  },
+  {
+    "id": "item-160",
+    "kanji": "気が置けない",
+    "hiragana": "きがおけない",
+    "en": "",
+    "vi": "không cần giữ ý, không cần giữ kẽ",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ",
+        "Ví dụ: 気が置けない"
+      ]
+    }
+  },
+  {
+    "id": "item-161",
+    "kanji": "大家",
+    "hiragana": "おおや",
+    "en": "",
+    "vi": "chủ nhà, người cho thuê nhà",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ",
+        "Ví dụ: 大家"
+      ]
+    }
+  },
+  {
+    "id": "item-162",
+    "kanji": "言い訳",
+    "hiragana": "いいわけ",
+    "en": "",
+    "vi": "lí do lí trấu, biện bạch",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ",
+        "Ví dụ: 言い訳"
+      ]
+    }
+  },
+  {
+    "id": "item-163",
+    "kanji": "手土産",
+    "hiragana": "てみやげ",
+    "en": "",
+    "vi": "quà (mang theo khi đi thăm nhà ai)",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ",
+        "Ví dụ: 手土産"
+      ]
+    }
+  },
+  {
+    "id": "item-164",
+    "kanji": "あったま、あちゃったな。",
+    "hiragana": "あったま、あちゃったな。",
+    "en": "",
+    "vi": "tức quá đi thôi! Điên quá!",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ",
+        "Ví dụ: あったま、あちゃったな。"
+      ]
+    }
+  },
+  {
+    "id": "item-165",
+    "kanji": "奴",
+    "hiragana": "やつ",
+    "en": "",
+    "vi": "gã, thằng (tốt bụng)",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ",
+        "Ví dụ: 奴"
+      ]
+    }
+  },
+  {
+    "id": "item-166",
+    "kanji": "気にかける",
+    "hiragana": "きにかける",
+    "en": "",
+    "vi": "bận lòng, bận tâm",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ",
+        "Ví dụ: 気にかける"
+      ]
+    }
+  },
+  {
+    "id": "item-167",
+    "kanji": "気を使う",
+    "hiragana": "きをつかう",
+    "en": "",
+    "vi": "giữ kẽ, để ý",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ",
+        "Ví dụ: 気を使う"
+      ]
+    }
+  },
+  {
+    "id": "item-168",
+    "kanji": "信用",
+    "hiragana": "しんよう",
+    "en": "",
+    "vi": "tin tưởng, tin cậy",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ",
+        "Ví dụ: 信用"
+      ]
+    }
+  },
+  {
+    "id": "item-169",
+    "kanji": "付き合う",
+    "hiragana": "つきあう",
+    "en": "",
+    "vi": "quen, giao tiếp",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ",
+        "Ví dụ: 付き合う"
+      ]
+    }
+  },
+  {
+    "id": "item-170",
+    "kanji": "数えきれない",
+    "hiragana": "かぞえきれない",
+    "en": "",
+    "vi": "vô số, không đếm xuể",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ",
+        "Ví dụ: 数えきれない"
+      ]
+    }
+  },
+  {
+    "id": "item-171",
+    "kanji": "シミュレーション",
+    "hiragana": "シミュレーション",
+    "en": "",
+    "vi": "sự mô phỏng",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ",
+        "Ví dụ: シミュレーション"
+      ]
+    }
+  },
+  {
+    "id": "item-172",
+    "kanji": "発言",
+    "hiragana": "はつげん",
+    "en": "",
+    "vi": "phát ngôn, nói ra",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ",
+        "Ví dụ: 発言"
+      ]
+    }
+  },
+  {
+    "id": "item-173",
+    "kanji": "目にする",
+    "hiragana": "めにする",
+    "en": "",
+    "vi": "xem",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ",
+        "Ví dụ: 目にする"
+      ]
+    }
+  },
+  {
+    "id": "item-174",
+    "kanji": "指摘",
+    "hiragana": "してき",
+    "en": "",
+    "vi": "chỉ ra",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ",
+        "Ví dụ: 指摘"
+      ]
+    }
+  },
+  {
+    "id": "item-175",
+    "kanji": "傷つく",
+    "hiragana": "きずつく",
+    "en": "",
+    "vi": "tổn thương",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ",
+        "Ví dụ: 傷つく"
+      ]
+    }
+  },
+  {
+    "id": "item-176",
+    "kanji": "不",
+    "hiragana": "ふ",
+    "en": "",
+    "vi": "không (thoải mái)",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ",
+        "Ví dụ: 不"
+      ]
+    }
+  },
+  {
+    "id": "item-177",
+    "kanji": "ふり",
+    "hiragana": "ふり",
+    "en": "",
+    "vi": "vờ, vờ như",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ",
+        "Ví dụ: ふり"
+      ]
+    }
+  },
+  {
+    "id": "item-178",
+    "kanji": "心",
+    "hiragana": "しん",
+    "en": "",
+    "vi": "lòng (tốt)",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ",
+        "Ví dụ: 心"
+      ]
+    }
+  },
+  {
+    "id": "item-179",
+    "kanji": "性",
+    "hiragana": "せい",
+    "en": "",
+    "vi": "(nhân) tính",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ",
+        "Ví dụ: 性"
+      ]
+    }
+  },
+  {
+    "id": "item-180",
+    "kanji": "目下",
+    "hiragana": "めした",
+    "en": "",
+    "vi": "người dưới",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ",
+        "Ví dụ: 目下"
+      ]
+    }
+  },
+  {
+    "id": "item-181",
+    "kanji": "なおさら",
+    "hiragana": "なおさら",
+    "en": "",
+    "vi": "càng thêm",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ",
+        "Ví dụ: なおさら"
+      ]
+    }
+  },
+  {
+    "id": "item-182",
+    "kanji": "外部",
+    "hiragana": "がいぶ",
+    "en": "",
+    "vi": "bên ngoài",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ",
+        "Ví dụ: 外部"
+      ]
+    }
+  },
+  {
+    "id": "item-183",
+    "kanji": "クレーム",
+    "hiragana": "クレーム",
+    "en": "",
+    "vi": "than phiền, phàn nàn",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ",
+        "Ví dụ: クレーム"
+      ]
+    }
+  },
+  {
+    "id": "item-184",
+    "kanji": "何気ない",
+    "hiragana": "なにげない",
+    "en": "",
+    "vi": "bất giác, bất chợt",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ",
+        "Ví dụ: 何気ない"
+      ]
+    }
+  },
+  {
+    "id": "item-185",
+    "kanji": "受け止める",
+    "hiragana": "うけとめる",
+    "en": "",
+    "vi": "tiếp thu, lắng nghe",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ",
+        "Ví dụ: 受け止める"
+      ]
+    }
+  },
+  {
+    "id": "item-186",
+    "kanji": "案ずるより産むがやすし",
+    "hiragana": "あんずるよりうむがやすし",
+    "en": "",
+    "vi": "mọi việc thi làm thử thì thấy là đơn giản hơn mình nghĩ",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ",
+        "Ví dụ: 案ずるより産むがやすし"
+      ]
+    }
+  },
+  {
+    "id": "item-187",
+    "kanji": "反応",
+    "hiragana": "はんのう",
+    "en": "",
+    "vi": "phản ứng",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ",
+        "Ví dụ: 反応"
+      ]
+    }
+  },
+  {
+    "id": "item-188",
+    "kanji": "伝わる",
+    "hiragana": "つたわる",
+    "en": "",
+    "vi": "truyền đến",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ",
+        "Ví dụ: 伝わる"
+      ]
+    }
+  },
+  {
+    "id": "item-189",
+    "kanji": "実行",
+    "hiragana": "じっこう",
+    "en": "",
+    "vi": "thực thi",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ",
+        "Ví dụ: 実行"
+      ]
+    }
+  },
+  {
+    "id": "item-190",
+    "kanji": "かかる",
+    "hiragana": "かかる",
+    "en": "",
+    "vi": "tốn (chi phí)",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ",
+        "Ví dụ: かかる"
+      ]
+    }
+  }
+]

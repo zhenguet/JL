@@ -1,0 +1,1691 @@
+[
+  {
+    "id": "enpitsukezuri",
+    "kanji": "鉛筆削り",
+    "hiragana": "えんぴつけずり",
+    "en": "pencil sharpener",
+    "vi": "cái gọt bút chì",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ dụng cụ gọt bút chì"
+      ]
+    }
+  },
+  {
+    "id": "kouun",
+    "kanji": "幸運",
+    "hiragana": "こううん",
+    "en": "good luck, fortune",
+    "vi": "vận may, may mắn",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ vận may"
+      ]
+    }
+  },
+  {
+    "id": "toujoujinbutsu",
+    "kanji": "登場人物",
+    "hiragana": "とうじょうじんぶつ",
+    "en": "character (in a story)",
+    "vi": "nhân vật xuất hiện",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ nhân vật trong tác phẩm"
+      ]
+    }
+  },
+  {
+    "id": "uchi-kokoro",
+    "kanji": "内（心の～）",
+    "hiragana": "うち（こころの～）",
+    "en": "inside (of the heart)",
+    "vi": "bên trong(~ lòng)",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ bên trong, nội tâm"
+      ]
+    }
+  },
+  {
+    "id": "kaishaku-suru",
+    "kanji": "解釈（する）",
+    "hiragana": "かいしゃく（する）",
+    "en": "to interpret, to explain",
+    "vi": "lí giải, giải thích",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm III",
+        "《解釈します、解釈する、解釈して》"
+      ]
+    }
+  },
+  {
+    "id": "yama-hon",
+    "kanji": "山（本の～）",
+    "hiragana": "やま（ほんの～）",
+    "en": "pile, stack (of books)",
+    "vi": "chồng, đống(~ sách)",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ chồng, đống"
+      ]
+    }
+  },
+  {
+    "id": "iikaesu",
+    "kanji": "言い返す",
+    "hiragana": "いいかえす",
+    "en": "to talk back, to retort",
+    "vi": "nói lại, cãi lại",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm I",
+        "《言い返します、言い返す、言い返して》"
+      ]
+    }
+  },
+  {
+    "id": "shuufuku-suru",
+    "kanji": "修復（する）",
+    "hiragana": "しゅうふく（する）",
+    "en": "to restore, to repair",
+    "vi": "khôi phục, hồi phục",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm III",
+        "《修復します、修復する、修復して》"
+      ]
+    }
+  },
+  {
+    "id": "osoraku",
+    "kanji": "おそらく",
+    "hiragana": "おそらく",
+    "en": "probably, perhaps",
+    "vi": "có lẽ",
+    "type": "adverb",
+    "explanation": {
+      "content": [
+        "Trạng từ chỉ khả năng"
+      ]
+    }
+  },
+  {
+    "id": "usugitanai",
+    "kanji": "薄汚い",
+    "hiragana": "うすぎたない",
+    "en": "dirty, filthy",
+    "vi": "bẩn thỉu, dơ dáy",
+    "type": "adjective",
+    "explanation": {
+      "content": [
+        "Tính từ đuôi i chỉ sự bẩn thỉu"
+      ]
+    }
+  },
+  {
+    "id": "pikapika-na",
+    "kanji": "ぴかぴか（な）",
+    "hiragana": "ぴかぴか（な）",
+    "en": "shiny, sparkling",
+    "vi": "lấp lánh, sáng loáng",
+    "type": "adjective",
+    "explanation": {
+      "content": [
+        "Tính từ đuôi na chỉ sự sáng bóng"
+      ]
+    }
+  },
+  {
+    "id": "shinpin",
+    "kanji": "新品",
+    "hiragana": "しんぴん",
+    "en": "new item, brand new",
+    "vi": "đồ mới, hàng mới",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ đồ mới"
+      ]
+    }
+  },
+  {
+    "id": "teniireru",
+    "kanji": "手に入れる",
+    "hiragana": "てにいれる",
+    "en": "to obtain, to get",
+    "vi": "đạt được, có được",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm II",
+        "《手に入れます、手に入れる、手に入れて》"
+      ]
+    }
+  },
+  {
+    "id": "zarani",
+    "kanji": "ざらに",
+    "hiragana": "ざらに",
+    "en": "commonly, frequently",
+    "vi": "khá phổ biến, thông thường",
+    "type": "adverb",
+    "explanation": {
+      "content": [
+        "Trạng từ chỉ tần suất"
+      ]
+    }
+  },
+  {
+    "id": "mewotomeru",
+    "kanji": "目をとめる",
+    "hiragana": "めをとめる",
+    "en": "to notice, to pay attention to",
+    "vi": "chú ý, nhìn vào",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Cụm động từ",
+        "《目をとめます、目をとめる、目をとめて》"
+      ]
+    }
+  },
+  {
+    "id": "shouyusashi",
+    "kanji": "しょうゆさし",
+    "hiragana": "しょうゆさし",
+    "en": "soy sauce bottle",
+    "vi": "chai nước tương",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ chai nước tương"
+      ]
+    }
+  },
+  {
+    "id": "shokuen",
+    "kanji": "食塩",
+    "hiragana": "しょくえん",
+    "en": "table salt",
+    "vi": "muối",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ muối ăn"
+      ]
+    }
+  },
+  {
+    "id": "nagashidai",
+    "kanji": "流し台",
+    "hiragana": "ながしだい",
+    "en": "kitchen sink",
+    "vi": "bồn rửa",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ bồn rửa bát"
+      ]
+    }
+  },
+  {
+    "id": "haisuipaipe",
+    "kanji": "排水パイプ",
+    "hiragana": "はいすいパイプ",
+    "en": "drain pipe",
+    "vi": "ống thoát nước",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ ống thoát nước"
+      ]
+    }
+  },
+  {
+    "id": "haisui",
+    "kanji": "排水",
+    "hiragana": "はいすい",
+    "en": "drainage",
+    "vi": "thoát nước",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ sự thoát nước"
+      ]
+    }
+  },
+  {
+    "id": "shuuriya",
+    "kanji": "修理屋",
+    "hiragana": "しゅうりや",
+    "en": "repair shop, repairman",
+    "vi": "thợ sửa chữa",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ thợ sửa chữa"
+      ]
+    }
+  },
+  {
+    "id": "chirachira",
+    "kanji": "ちらちら",
+    "hiragana": "ちらちら",
+    "en": "fleetingly, in glimpses",
+    "vi": "loáng thoáng, thoáng qua",
+    "type": "adverb",
+    "explanation": {
+      "content": [
+        "Trạng từ chỉ sự thoáng qua"
+      ]
+    }
+  },
+  {
+    "id": "maniakku",
+    "kanji": "マニアック",
+    "hiragana": "マニアック",
+    "en": "maniac, fanatical",
+    "vi": "cuồng nhiệt",
+    "type": "adjective",
+    "explanation": {
+      "content": [
+        "Tính từ chỉ sự cuồng nhiệt"
+      ]
+    }
+  },
+  {
+    "id": "korekutaa",
+    "kanji": "コレクター",
+    "hiragana": "コレクター",
+    "en": "collector",
+    "vi": "người sưu tầm",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ người sưu tầm"
+      ]
+    }
+  },
+  {
+    "id": "shiruyoshimonai",
+    "kanji": "知る由もない",
+    "hiragana": "しるよしもない",
+    "en": "have no way of knowing",
+    "vi": "không có cách nào để biết",
+    "type": "expression",
+    "explanation": {
+      "content": [
+        "Cụm từ chỉ sự không thể biết"
+      ]
+    }
+  },
+  {
+    "id": "surudoi",
+    "kanji": "鋭い",
+    "hiragana": "するどい",
+    "en": "sharp, keen",
+    "vi": "sắc bén",
+    "type": "adjective",
+    "explanation": {
+      "content": [
+        "Tính từ đuôi i chỉ sự sắc bén"
+      ]
+    }
+  },
+  {
+    "id": "shisen",
+    "kanji": "視線",
+    "hiragana": "しせん",
+    "en": "gaze, line of sight",
+    "vi": "ánh nhìn",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ ánh nhìn"
+      ]
+    }
+  },
+  {
+    "id": "hashirasu-shisen",
+    "kanji": "走らす（視線を～）",
+    "hiragana": "はしらす（しせんを～）",
+    "en": "to run (one's eyes over)",
+    "vi": "quét (ánh nhìn)",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm I",
+        "《走らします、走らす、走らして》"
+      ]
+    }
+  },
+  {
+    "id": "kentou",
+    "kanji": "見当",
+    "hiragana": "けんとう",
+    "en": "estimate, guess",
+    "vi": "đoán",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ sự đoán"
+      ]
+    }
+  },
+  {
+    "id": "tsuku-kentou",
+    "kanji": "つく（見当が～）",
+    "hiragana": "つく（けんとうが～）",
+    "en": "to be able to guess",
+    "vi": "có thể (đoán)",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm I",
+        "《つきます、つく、ついて》"
+      ]
+    }
+  },
+  {
+    "id": "zatsuzan",
+    "kanji": "雑然",
+    "hiragana": "ざつぜん",
+    "en": "disorderly, messy",
+    "vi": "sự bừa bãi, lộn xộn",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ sự bừa bãi"
+      ]
+    }
+  },
+  {
+    "id": "chirabaru",
+    "kanji": "ちらばる",
+    "hiragana": "ちらばる",
+    "en": "to be scattered",
+    "vi": "bị vứt lung tung, bị vứt rải rác",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm I",
+        "《ちらばります、ちらばる、ちらばって》"
+      ]
+    }
+  },
+  {
+    "id": "tenitoru",
+    "kanji": "手に取る",
+    "hiragana": "てにとる",
+    "en": "to pick up, to take in hand",
+    "vi": "cầm lấy, nhặt lấy",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Cụm động từ",
+        "《手に取ります、手に取る、手に取って》"
+      ]
+    }
+  },
+  {
+    "id": "goku",
+    "kanji": "ごく",
+    "hiragana": "ごく",
+    "en": "extremely, very",
+    "vi": "rất",
+    "type": "adverb",
+    "explanation": {
+      "content": [
+        "Trạng từ chỉ mức độ cao"
+      ]
+    }
+  },
+  {
+    "id": "atarimae",
+    "kanji": "あたりまえ",
+    "hiragana": "あたりまえ",
+    "en": "natural, obvious",
+    "vi": "thông thường, đương nhiên",
+    "type": "adjective",
+    "explanation": {
+      "content": [
+        "Tính từ đuôi na chỉ sự đương nhiên"
+      ]
+    }
+  },
+  {
+    "id": "shudoushiki",
+    "kanji": "手動式",
+    "hiragana": "しゅどうしき",
+    "en": "manual type",
+    "vi": "cách thủ công",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ cách thủ công"
+      ]
+    }
+  },
+  {
+    "id": "nanihitotsunai",
+    "kanji": "何ひとつない",
+    "hiragana": "なにひとつない",
+    "en": "nothing at all",
+    "vi": "không có một chút gì",
+    "type": "expression",
+    "explanation": {
+      "content": [
+        "Cụm từ chỉ sự hoàn toàn không có"
+      ]
+    }
+  },
+  {
+    "id": "kinzoku",
+    "kanji": "金属",
+    "hiragana": "きんぞく",
+    "en": "metal",
+    "vi": "kim loại",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ kim loại"
+      ]
+    }
+  },
+  {
+    "id": "sabitsuku",
+    "kanji": "錆びつく",
+    "hiragana": "さびつく",
+    "en": "to rust",
+    "vi": "rỉ sét",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm I",
+        "《錆びつきます、錆びつく、錆びついて》"
+      ]
+    }
+  },
+  {
+    "id": "sabiru",
+    "kanji": "錆びる",
+    "hiragana": "さびる",
+    "en": "to rust",
+    "vi": "rỉ sét",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm II",
+        "《錆びます、錆びる、錆びて》"
+      ]
+    }
+  },
+  {
+    "id": "teppen",
+    "kanji": "てっぺん",
+    "hiragana": "てっぺん",
+    "en": "top, peak",
+    "vi": "đỉnh, chóp",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ đỉnh, chóp"
+      ]
+    }
+  },
+  {
+    "id": "shiiru",
+    "kanji": "シール",
+    "hiragana": "シール",
+    "en": "sticker, seal",
+    "vi": "nhãn dán",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ nhãn dán"
+      ]
+    }
+  },
+  {
+    "id": "yousuruni",
+    "kanji": "要するに",
+    "hiragana": "ようするに",
+    "en": "in short, in other words",
+    "vi": "nói cách khác, tóm lại là",
+    "type": "adverb",
+    "explanation": {
+      "content": [
+        "Trạng từ chỉ sự tóm tắt"
+      ]
+    }
+  },
+  {
+    "id": "ha",
+    "kanji": "刃",
+    "hiragana": "は",
+    "en": "blade, edge",
+    "vi": "lưỡi dao",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ lưỡi dao"
+      ]
+    }
+  },
+  {
+    "id": "kamiwase",
+    "kanji": "かみあわせ",
+    "hiragana": "かみあわせ",
+    "en": "meshing, engagement",
+    "vi": "sự ăn khợp, khớp vào nhau",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ sự khớp vào nhau"
+      ]
+    }
+  },
+  {
+    "id": "taipu",
+    "kanji": "タイプ",
+    "hiragana": "タイプ",
+    "en": "type, kind",
+    "vi": "kiểu, loại",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ kiểu, loại"
+      ]
+    }
+  },
+  {
+    "id": "kezurikasu",
+    "kanji": "削りかす",
+    "hiragana": "けずりかす",
+    "en": "shavings",
+    "vi": "vỏ gọt",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ vỏ gọt"
+      ]
+    }
+  },
+  {
+    "id": "bimyou-ni",
+    "kanji": "微妙 (に)",
+    "hiragana": "びみょう (に)",
+    "en": "slightly, subtly",
+    "vi": "hơi, một chút",
+    "type": "adverb",
+    "explanation": {
+      "content": [
+        "Trạng từ chỉ mức độ nhẹ"
+      ]
+    }
+  },
+  {
+    "id": "saishinshiki",
+    "kanji": "最新式",
+    "hiragana": "さいしんしき",
+    "en": "latest model, state-of-the-art",
+    "vi": "mẫu mới nhất, kiểu mới nhất",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ mẫu mới nhất"
+      ]
+    }
+  },
+  {
+    "id": "mochiaruku",
+    "kanji": "持ち歩く",
+    "hiragana": "もちあるく",
+    "en": "to carry around",
+    "vi": "mang theo",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm I",
+        "《持ち歩きます、持ち歩く、持ち歩いて》"
+      ]
+    }
+  },
+  {
+    "id": "chou-tanpenshousetsu",
+    "kanji": "超～（～短編小説）",
+    "hiragana": "ちょう～（～たんぺんしょうせつ）",
+    "en": "super ~ (~ short story)",
+    "vi": "siêu ~ (~ truyện ngắn)",
+    "type": "prefix",
+    "explanation": {
+      "content": [
+        "Tiền tố chỉ mức độ siêu"
+      ]
+    }
+  },
+  {
+    "id": "tanpenshousetsu",
+    "kanji": "短編小説",
+    "hiragana": "たんぺんしょうせつ",
+    "en": "short story",
+    "vi": "truyện ngắn",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ truyện ngắn"
+      ]
+    }
+  },
+  {
+    "id": "igai-na",
+    "kanji": "以外（な）",
+    "hiragana": "いがい（な）",
+    "en": "unexpected, beyond expectation",
+    "vi": "ngoài dự tính, không ngờ đến",
+    "type": "adjective",
+    "explanation": {
+      "content": [
+        "Tính từ đuôi na chỉ sự ngoài dự tính"
+      ]
+    }
+  },
+  {
+    "id": "manzoku-suru",
+    "kanji": "満足（する）",
+    "hiragana": "まんぞく（する）",
+    "en": "to be satisfied",
+    "vi": "thõa mãn",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm III",
+        "《満足します、満足する、満足して》"
+      ]
+    }
+  },
+  {
+    "id": "kachikan",
+    "kanji": "価値観",
+    "hiragana": "かちかん",
+    "en": "values, sense of values",
+    "vi": "giá trị quan",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ giá trị quan"
+      ]
+    }
+  },
+  {
+    "id": "kotonaru",
+    "kanji": "異なる",
+    "hiragana": "ことなる",
+    "en": "to differ, to be different",
+    "vi": "khác",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm I",
+        "《異なります、異なる、異なって》"
+      ]
+    }
+  },
+  {
+    "id": "koui",
+    "kanji": "行為",
+    "hiragana": "こうい",
+    "en": "act, action",
+    "vi": "hành vi",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ hành vi"
+      ]
+    }
+  },
+  {
+    "id": "shinario",
+    "kanji": "シナリオ",
+    "hiragana": "シナリオ",
+    "en": "scenario, script",
+    "vi": "kịch bản",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ kịch bản"
+      ]
+    }
+  },
+  {
+    "id": "kakudo",
+    "kanji": "角度",
+    "hiragana": "かくど",
+    "en": "angle, perspective",
+    "vi": "góc độ",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ góc độ"
+      ]
+    }
+  },
+  {
+    "id": "urayamashii",
+    "kanji": "うらやましい",
+    "hiragana": "うらやましい",
+    "en": "envious, jealous",
+    "vi": "ghen tị",
+    "type": "adjective",
+    "explanation": {
+      "content": [
+        "Tính từ đuôi i chỉ sự ghen tị"
+      ]
+    }
+  },
+  {
+    "id": "jitto",
+    "kanji": "じっと",
+    "hiragana": "じっと",
+    "en": "fixedly, intently",
+    "vi": "chăm chú",
+    "type": "adverb",
+    "explanation": {
+      "content": [
+        "Trạng từ chỉ sự chăm chú"
+      ]
+    }
+  },
+  {
+    "id": "mitsumeru",
+    "kanji": "見つめる",
+    "hiragana": "みつめる",
+    "en": "to stare at, to gaze at",
+    "vi": "nhìn chằm chằm",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm II",
+        "《見つめます、見つめる、見つめて》"
+      ]
+    }
+  },
+  {
+    "id": "iraira-suru",
+    "kanji": "いらいら（する）",
+    "hiragana": "いらいら（する）",
+    "en": "to be irritated, to be annoyed",
+    "vi": "sốt ruột, khó chịu",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm III",
+        "《いらいらします、いらいらする、いらいらして》"
+      ]
+    }
+  },
+  {
+    "id": "kiniiru",
+    "kanji": "気に入る",
+    "hiragana": "きにいる",
+    "en": "to like, to take a liking to",
+    "vi": "thích",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Cụm động từ",
+        "《気に入ります、気に入る、気に入って》"
+      ]
+    }
+  },
+  {
+    "id": "nakanori-suru",
+    "kanji": "仲直り（する）",
+    "hiragana": "なかなおり（する）",
+    "en": "to make up, to reconcile",
+    "vi": "làm lành, làm hòa",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm III",
+        "《仲直りします、仲直りする、仲直りして》"
+      ]
+    }
+  },
+  {
+    "id": "fuman",
+    "kanji": "不満",
+    "hiragana": "ふまん",
+    "en": "dissatisfaction, complaint",
+    "vi": "bất mãn, không hài lòng",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ sự bất mãn"
+      ]
+    }
+  },
+  {
+    "id": "hinan-suru",
+    "kanji": "非難（する）",
+    "hiragana": "ひなん（する）",
+    "en": "to criticize, to blame",
+    "vi": "trách móc, phê phán",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm III",
+        "《非難します、非難する、非難して》"
+      ]
+    }
+  },
+  {
+    "id": "hiniku",
+    "kanji": "皮肉",
+    "hiragana": "ひにく",
+    "en": "sarcasm, irony",
+    "vi": "giễu cợt, châm chọc, mỉa mai",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ sự mỉa mai"
+      ]
+    }
+  },
+  {
+    "id": "waingurasu",
+    "kanji": "ワイングラス",
+    "hiragana": "ワイングラス",
+    "en": "wine glass",
+    "vi": "ly uống rượu vang",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ ly rượu vang"
+      ]
+    }
+  },
+  {
+    "id": "sagashimono",
+    "kanji": "捜し物",
+    "hiragana": "さがしもの",
+    "en": "something one is looking for",
+    "vi": "đồ vật đang tìm kiếm",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ đồ vật đang tìm"
+      ]
+    }
+  },
+  {
+    "id": "shocchuu",
+    "kanji": "しょっちゅう",
+    "hiragana": "しょっちゅう",
+    "en": "always, constantly",
+    "vi": "thường xuyên, lúc nào cũng",
+    "type": "adverb",
+    "explanation": {
+      "content": [
+        "Trạng từ chỉ tần suất cao"
+      ]
+    }
+  },
+  {
+    "id": "kakeru-kappu",
+    "kanji": "欠ける（カップが～）",
+    "hiragana": "かける",
+    "en": "to be chipped (cup)",
+    "vi": "(tách) bị mẻ, bị sứt",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm II",
+        "《欠けます、欠ける、欠けて》"
+      ]
+    }
+  },
+  {
+    "id": "shimaikomu",
+    "kanji": "しまい込む",
+    "hiragana": "しまいこむ",
+    "en": "to put away, to store",
+    "vi": "cất giữ",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm I",
+        "《しまい込みます、しまい込む、しまい込んで》"
+      ]
+    }
+  },
+  {
+    "id": "datte",
+    "kanji": "だって",
+    "hiragana": "だって",
+    "en": "because, but",
+    "vi": "vì, chả là",
+    "type": "conjunction",
+    "explanation": {
+      "content": [
+        "Liên từ chỉ lý do"
+      ]
+    }
+  },
+  {
+    "id": "shinkon",
+    "kanji": "新婚",
+    "hiragana": "しんこん",
+    "en": "newlywed",
+    "vi": "mới cưới",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ người mới cưới"
+      ]
+    }
+  },
+  {
+    "id": "omoide",
+    "kanji": "思い出",
+    "hiragana": "おもいで",
+    "en": "memory, recollection",
+    "vi": "kỉ niệm",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ kỉ niệm"
+      ]
+    }
+  },
+  {
+    "id": "omoikiru",
+    "kanji": "思い切る",
+    "hiragana": "おもいきる",
+    "en": "to make up one's mind",
+    "vi": "quyết tâm",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm I",
+        "《思い切ります、思い切る、思い切って》"
+      ]
+    }
+  },
+  {
+    "id": "somosomo",
+    "kanji": "そもそも",
+    "hiragana": "そもそも",
+    "en": "in the first place, originally",
+    "vi": "vốn dĩ, vốn là",
+    "type": "adverb",
+    "explanation": {
+      "content": [
+        "Trạng từ chỉ nguồn gốc"
+      ]
+    }
+  },
+  {
+    "id": "toru-basho",
+    "kanji": "とる（場所を～）",
+    "hiragana": "とる（ばしょを～）",
+    "en": "to take up (space)",
+    "vi": "chiếm (chỗ)",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm I",
+        "《とります、とる、とって》"
+      ]
+    }
+  },
+  {
+    "id": "sen",
+    "kanji": "栓",
+    "hiragana": "せん",
+    "en": "stopper, cork",
+    "vi": "nút chai",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ nút chai"
+      ]
+    }
+  },
+  {
+    "id": "nuku-sen",
+    "kanji": "抜く（栓を～）",
+    "hiragana": "ぬく（せんを～）",
+    "en": "to pull out (a stopper)",
+    "vi": "mở (nút)",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm I",
+        "《抜きます、抜く、抜いて》"
+      ]
+    }
+  },
+  {
+    "id": "heiki-na",
+    "kanji": "平気（な）",
+    "hiragana": "へいき（な）",
+    "en": "calm, unperturbed",
+    "vi": "bình thường, không có chuyện gì",
+    "type": "adjective",
+    "explanation": {
+      "content": [
+        "Tính từ đuôi na chỉ sự bình thường"
+      ]
+    }
+  },
+  {
+    "id": "omakeni",
+    "kanji": "おまけに",
+    "hiragana": "おまけに",
+    "en": "on top of that, moreover",
+    "vi": "hơn nữa, thêm vào đó",
+    "type": "adverb",
+    "explanation": {
+      "content": [
+        "Trạng từ chỉ sự thêm vào"
+      ]
+    }
+  },
+  {
+    "id": "kiganai",
+    "kanji": "気がない",
+    "hiragana": "きがない",
+    "en": "not interested, not care",
+    "vi": "không quan tâm",
+    "type": "expression",
+    "explanation": {
+      "content": [
+        "Cụm từ chỉ sự không quan tâm"
+      ]
+    }
+  },
+  {
+    "id": "sonnani",
+    "kanji": "そんなに",
+    "hiragana": "そんなに",
+    "en": "that much, so",
+    "vi": "như thế",
+    "type": "adverb",
+    "explanation": {
+      "content": [
+        "Trạng từ chỉ mức độ"
+      ]
+    }
+  },
+  {
+    "id": "chuudan-suru",
+    "kanji": "中断（する）",
+    "hiragana": "ちゅうだん（する）",
+    "en": "to interrupt, to suspend",
+    "vi": "ngắt, chừng",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm III",
+        "《中断します、中断する、中断して》"
+      ]
+    }
+  },
+  {
+    "id": "nozoku",
+    "kanji": "のぞく",
+    "hiragana": "のぞく",
+    "en": "to look, to peek",
+    "vi": "nhìn",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm I",
+        "《のぞきます、のぞく、のぞいて》"
+      ]
+    }
+  },
+  {
+    "id": "sheahausu",
+    "kanji": "シェアハウス",
+    "hiragana": "シェアハウス",
+    "en": "share house",
+    "vi": "nhà ở chung",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ nhà ở chung"
+      ]
+    }
+  },
+  {
+    "id": "chirakasu",
+    "kanji": "散らかす",
+    "hiragana": "ちらかす",
+    "en": "to scatter, to mess up",
+    "vi": "làm vương vãi, vứt lung tung",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm I",
+        "《散らかします、散らかす、散らかして》"
+      ]
+    }
+  },
+  {
+    "id": "ranzatsu",
+    "kanji": "乱雑",
+    "hiragana": "らんざつ",
+    "en": "disorderly, messy",
+    "vi": "bừa bãi, lộn xộn",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ sự bừa bãi"
+      ]
+    }
+  },
+  {
+    "id": "kantoku",
+    "kanji": "監督",
+    "hiragana": "かんとく",
+    "en": "director, supervisor",
+    "vi": "đạo diễn",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ đạo diễn"
+      ]
+    }
+  },
+  {
+    "id": "mochinushi",
+    "kanji": "持ち主",
+    "hiragana": "もちぬし",
+    "en": "owner, possessor",
+    "vi": "chủ sở hữu",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ chủ sở hữu"
+      ]
+    }
+  },
+  {
+    "id": "kiku-kuchi",
+    "kanji": "きく（口を～）",
+    "hiragana": "きく（くちを～）",
+    "en": "to open (one's mouth)",
+    "vi": "mở (miệng)",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm I",
+        "《ききます、きく、きいて》"
+      ]
+    }
+  },
+  {
+    "id": "tobu",
+    "kanji": "跳ぶ",
+    "hiragana": "とぶ",
+    "en": "to jump",
+    "vi": "nhảy",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm I",
+        "《跳びます、跳ぶ、跳んで》"
+      ]
+    }
+  },
+  {
+    "id": "suisoku-suru",
+    "kanji": "推測（する）",
+    "hiragana": "すいそく（する）",
+    "en": "to guess, to speculate",
+    "vi": "suy đoán",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm III",
+        "《推測します、推測する、推測して》"
+      ]
+    }
+  },
+  {
+    "id": "hanayome",
+    "kanji": "花嫁",
+    "hiragana": "はなよめ",
+    "en": "bride",
+    "vi": "cô dâu",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ cô dâu"
+      ]
+    }
+  },
+  {
+    "id": "kanau",
+    "kanji": "かなう",
+    "hiragana": "かなう",
+    "en": "to come true, to be realized",
+    "vi": "thành hiện thực",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm I",
+        "《かないます、かなう、かなって》"
+      ]
+    }
+  },
+  {
+    "id": "fuhei",
+    "kanji": "不平",
+    "hiragana": "ふへい",
+    "en": "complaint, dissatisfaction",
+    "vi": "bất bình",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ sự bất bình"
+      ]
+    }
+  },
+  {
+    "id": "katsuyaku-suru",
+    "kanji": "活躍（する）",
+    "hiragana": "かつやく（する）",
+    "en": "to be active, to play an active role",
+    "vi": "hoạt động",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm III",
+        "《活躍します、活躍する、活躍して》"
+      ]
+    }
+  },
+  {
+    "id": "kiso",
+    "kanji": "基礎",
+    "hiragana": "きそ",
+    "en": "foundation, basis",
+    "vi": "căn bản",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ căn bản"
+      ]
+    }
+  },
+  {
+    "id": "oku-honya",
+    "kanji": "置く（本屋に～）",
+    "hiragana": "おく（ほんやに～）",
+    "en": "to be available (at bookstore)",
+    "vi": "có (ở hiệu sách)",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm I",
+        "《置きます、置く、置いて》"
+      ]
+    }
+  },
+  {
+    "id": "iji-suru",
+    "kanji": "維持（する）",
+    "hiragana": "いじ（する）",
+    "en": "to maintain, to preserve",
+    "vi": "duy trì",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm III",
+        "《維持します、維持する、維持して》"
+      ]
+    }
+  },
+  {
+    "id": "oshare",
+    "kanji": "おしゃれ",
+    "hiragana": "おしゃれ",
+    "en": "fashionable, stylish",
+    "vi": "hợp thời trang, trưng diện",
+    "type": "adjective",
+    "explanation": {
+      "content": [
+        "Tính từ đuôi na chỉ sự thời trang"
+      ]
+    }
+  },
+  {
+    "id": "komyunikeeshon",
+    "kanji": "コミュニケーション",
+    "hiragana": "コミュニケーション",
+    "en": "communication",
+    "vi": "giao tiếp",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ giao tiếp"
+      ]
+    }
+  },
+  {
+    "id": "fusawashii",
+    "kanji": "ふさわしい",
+    "hiragana": "ふさわしい",
+    "en": "suitable, appropriate",
+    "vi": "phù hợp, tương ứng",
+    "type": "adjective",
+    "explanation": {
+      "content": [
+        "Tính từ đuôi i chỉ sự phù hợp"
+      ]
+    }
+  },
+  {
+    "id": "dashiwasureru",
+    "kanji": "出し忘れる",
+    "hiragana": "だしわすれる",
+    "en": "to forget to take out",
+    "vi": "quên lấy ra",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm II",
+        "《出し忘れます、出し忘れる、出し忘れて》"
+      ]
+    }
+  },
+  {
+    "id": "sunao-na",
+    "kanji": "素直（な）",
+    "hiragana": "すなお（な）",
+    "en": "honest, straightforward",
+    "vi": "thành thật",
+    "type": "adjective",
+    "explanation": {
+      "content": [
+        "Tính từ đuôi na chỉ sự thành thật"
+      ]
+    }
+  },
+  {
+    "id": "kuse",
+    "kanji": "癖",
+    "hiragana": "くせ",
+    "en": "habit, mannerism",
+    "vi": "tật, thói quen",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ thói quen"
+      ]
+    }
+  },
+  {
+    "id": "zutto",
+    "kanji": "ずっと（ずうっと）",
+    "hiragana": "ずっと（ずうっと）",
+    "en": "continuously, all along",
+    "vi": "liên tục, suốt",
+    "type": "adverb",
+    "explanation": {
+      "content": [
+        "Trạng từ chỉ thời gian liên tục"
+      ]
+    }
+  },
+  {
+    "id": "iwaba",
+    "kanji": "いわば",
+    "hiragana": "いわば",
+    "en": "so to speak, as it were",
+    "vi": "có thể nói như là",
+    "type": "adverb",
+    "explanation": {
+      "content": [
+        "Trạng từ chỉ cách nói"
+      ]
+    }
+  },
+  {
+    "id": "sekibarai",
+    "kanji": "咳払い",
+    "hiragana": "せきばらい",
+    "en": "clearing one's throat",
+    "vi": "hắng giọng, đằng hắng",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ hành động hắng giọng"
+      ]
+    }
+  },
+  {
+    "id": "sakuya",
+    "kanji": "昨夜",
+    "hiragana": "さくや",
+    "en": "last night",
+    "vi": "đêm qua",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ đêm qua"
+      ]
+    }
+  },
+  {
+    "id": "monosugoi",
+    "kanji": "ものすごい",
+    "hiragana": "ものすごい",
+    "en": "terrible, tremendous",
+    "vi": "khủng khiếp",
+    "type": "adjective",
+    "explanation": {
+      "content": [
+        "Tính từ đuôi i chỉ mức độ cao"
+      ]
+    }
+  },
+  {
+    "id": "tamesu",
+    "kanji": "試す",
+    "hiragana": "ためす",
+    "en": "to try, to test",
+    "vi": "thử",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm I",
+        "《試します、試す、試して》"
+      ]
+    }
+  },
+  {
+    "id": "koeru",
+    "kanji": "超える",
+    "hiragana": "こえる",
+    "en": "to exceed, to surpass",
+    "vi": "vượt quá",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm II",
+        "《超えます、超える、超えて》"
+      ]
+    }
+  },
+  {
+    "id": "kuchiguse",
+    "kanji": "口癖",
+    "hiragana": "くちぐせ",
+    "en": "pet phrase, favorite expression",
+    "vi": "câu cửa miệng, quen mồm",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ câu cửa miệng"
+      ]
+    }
+  },
+  {
+    "id": "shuutoku-suru",
+    "kanji": "習得（する）",
+    "hiragana": "しゅうとく（する）",
+    "en": "to learn, to acquire",
+    "vi": "học tập, lĩnh hội",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm III",
+        "《習得します、習得する、習得して》"
+      ]
+    }
+  },
+  {
+    "id": "mikata",
+    "kanji": "味方",
+    "hiragana": "みかた",
+    "en": "ally, supporter",
+    "vi": "đồng minh, người ủng hộ",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ đồng minh"
+      ]
+    }
+  },
+  {
+    "id": "shocchuu-ne",
+    "kanji": "しょっちゅう・・・ね。",
+    "hiragana": "しょっちゅう・・・ね。",
+    "en": "You often ..., don't you?",
+    "vi": "Bạn thường xuyên …, phải không?",
+    "type": "expression",
+    "explanation": {
+      "content": [
+        "Mẫu câu: Trút sự thất vọng chồng chất từ ngày này qua ngày khác lên ai đó."
+      ]
+    }
+  },
+  {
+    "id": "njanai",
+    "kanji": "・・・んじゃない？",
+    "hiragana": "・・・んじゃない？",
+    "en": "You could ..., couldn't you?",
+    "vi": "Bạn có thể …, phải không?",
+    "type": "expression",
+    "explanation": {
+      "content": [
+        "Mẫu câu: Phàn nàn với ai đó và chỉ ra ví dụ về hành vi xấu của anh ấy/ cô ấy."
+      ]
+    }
+  },
+  {
+    "id": "daitai-wa-nda",
+    "kanji": "だいたい～は・・・んだ。",
+    "hiragana": "だいたい～は・・・んだ。",
+    "en": "Generally speaking, ~ ...",
+    "vi": "Đại thể là, ~ ….",
+    "type": "expression",
+    "explanation": {
+      "content": [
+        "Mẫu câu: Phàn nàn với ai đó và chỉ ra ví dụ về hành vi xấu của anh ấy/ cô ấy."
+      ]
+    }
+  },
+  {
+    "id": "sonnani-iwanakutatte-iijanai",
+    "kanji": "そんなに言わなくたっていいじゃない。",
+    "hiragana": "そんなにいわなくたっていいじゃない。",
+    "en": "You don't need to say that much, do you?",
+    "vi": "Chẳng phải là không cần thiết để nói như thế sao?",
+    "type": "expression",
+    "explanation": {
+      "content": [
+        "Mẫu câu: Phản bác lại sau khi bị chỉ trích hay phàn nàn."
+      ]
+    }
+  },
+  {
+    "id": "otagaisama-nanjanai",
+    "kanji": "お互いさまなんじゃない？",
+    "hiragana": "おたがいさまなんじゃない？",
+    "en": "Aren't we the same?",
+    "vi": "Chẳng phải chúng ta như nhau hay sao?",
+    "type": "expression",
+    "explanation": {
+      "content": [
+        "Mẫu câu: Chỉ ra rằng người khác cũng có lỗi."
+      ]
+    }
+  },
+  {
+    "id": "gomen-iisugita",
+    "kanji": "ごめん。・・・ちょっと言い過ぎたみたいだね。",
+    "hiragana": "ごめん。・・・ちょっといいすぎたみたいだね。",
+    "en": "Sorry. I think I said a bit too much.",
+    "vi": "Xin lỗi, tôi nghĩ là tôi nói hơi quá.",
+    "type": "expression",
+    "explanation": {
+      "content": [
+        "Mẫu câu: Được sử dụng khi nói lời xin lỗi để giải quyết một cuộc tranh cãi."
+      ]
+    }
+  },
+  {
+    "id": "watashi-koso-te-gomen",
+    "kanji": "私こそ、～て、ごめん。",
+    "hiragana": "わたしこそ、～て、ごめん。",
+    "en": "No, I'm the one who should apologize for ~.",
+    "vi": "Không, chính tôi mới là người phải nói lời xin lỗi vì việc ~.",
+    "type": "expression",
+    "explanation": {
+      "content": [
+        "Mẫu câu: Sử dụng khi một người nào đó cứ khăng khăng rằng lỗi là do anh ấy/ cô ấy."
+      ]
+    }
+  },
+  {
+    "id": "watanabe-noboru",
+    "kanji": "渡辺昇",
+    "hiragana": "わたなべのぼる",
+    "en": "Watanabe Noboru",
+    "vi": "Watanabe Noboru: Một nhân vật trong câu chuyện rất ngắn của nhà văn Murakami Haruki.",
+    "type": "proper_noun",
+    "explanation": {
+      "content": [
+        "Danh từ riêng: Nhân vật trong câu chuyện của Murakami Haruki"
+      ]
+    }
+  },
+  {
+    "id": "tetsuwan-atomu",
+    "kanji": "『鉄腕アトム』",
+    "hiragana": "てつわんアトム",
+    "en": "Tetsuwan Atom (Astro Boy)",
+    "vi": "Tetsuwan Atom (Astro Boy, lit. 'Iron-Arm Atom'): Bộ truyện tranh khoa học viễn tưởng và sê-ri phim hoạt hình của tác giả Tezuka Osamu (1928-1989).",
+    "type": "proper_noun",
+    "explanation": {
+      "content": [
+        "Danh từ riêng: Bộ truyện tranh và phim hoạt hình của Tezuka Osamu"
+      ]
+    }
+  }
+]
