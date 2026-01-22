@@ -1,0 +1,363 @@
+[
+  {
+    "id": "te-kuru-te-iku-change",
+    "title": "～てくる・～ていく (sự thay đổi)",
+    "description": "(1)「～てくる」biểu thị sự thay đổi kéo dài suốt cho đến thời điểm hiện tại. (2)「～ていく」biểu thị chiều hướng của sự biến đổi trong tương lai.",
+    "structure": "Vて + くる／いく",
+    "examples": [
+      {
+        "japanese": "だんだん春らしくなってきました。",
+        "romaji": "Dandan haru rashiku natte kimashita.",
+        "vietnamese": "Tiết trời đã dần dần trở nên như mùa xuân."
+      },
+      {
+        "japanese": "これからは、日本で働く外国人が増えていくでしょう。",
+        "romaji": "Kore kara wa, Nihon de hataraku gaikokujin ga fuete iku deshou.",
+        "vietnamese": "Từ nay có lẽ số người nước ngoài làm việc ở Nhật Bản sẽ tăng lên."
+      },
+      {
+        "japanese": "台風の影響で、風がだんだん強くなってきた。",
+        "romaji": "Taifuu no eikyou de, kaze ga dandan tsuyoku natte kita.",
+        "vietnamese": "Do ảnh hưởng của bão nên gió dần dần trở nên mạnh lên."
+      },
+      {
+        "japanese": "世界中で海外旅行をする人がますます増えていくだろう。",
+        "romaji": "Sekaijuu de kaigai ryokou o suru hito ga masumasu fuete iku darou.",
+        "vietnamese": "Những người du lịch nước ngoài ở trên thế giới đang dần tăng lên."
+      },
+      {
+        "japanese": "日本に半年住んで、日本の生活に慣れてきました。",
+        "romaji": "Nihon ni hantoshi sunde, Nihon no seikatsu ni narete kimashita.",
+        "vietnamese": "Sống nửa năm ở Nhật Bản, tôi đã quen dần với cuộc sống của Nhật Bản."
+      }
+    ],
+    "notes": [
+      "「～てくる」biểu thị sự thay đổi kéo dài suốt cho đến thời điểm hiện tại",
+      "「～ていく」biểu thị chiều hướng của sự biến đổi trong tương lai",
+      "Tham chiếu: 「～てくる・～ていく (phương hướng dịch chuyển)」: 兄が旅行から帰ってきた。 (Minna 1 bài 6)"
+    ]
+  },
+  {
+    "id": "tara-dou",
+    "title": "～たら［どう］？",
+    "description": "Cách nói này được sử dụng khi gợi ý với người khác điều mà mình thấy hợp lý. Nó đơn thuần là chỉ ra một sự lựa chọn để người nghe có thể chọn.「～たらいかがですか」là cách nói lịch sự của「～たらどう？」.",
+    "structure": "Vたら + どう？／いかがですか",
+    "examples": [
+      {
+        "japanese": "電話でもかけてあげたらどう？",
+        "romaji": "Denwa demo kakete agetara dou?",
+        "vietnamese": "Sao anh không gọi cho cô ấy đi?"
+      },
+      {
+        "japanese": "薬を飲んで、今日は早く寝たら？",
+        "romaji": "Kusuri o nonde, kyou wa hayaku netara?",
+        "vietnamese": "Anh/chị hãy uống thuốc và hôm nay đi ngủ sớm đi."
+      },
+      {
+        "japanese": "インターネットで調べてみたらどうですか。",
+        "romaji": "Intaanetto de shirabete mitara dou desu ka.",
+        "vietnamese": "Anh thử tìm kiếm trên internet xem thế nào?"
+      },
+      {
+        "japanese": "しばらくお酒をやめたら？",
+        "romaji": "Shibaraku osake o yametara?",
+        "vietnamese": "Anh thử bỏ rượu một thời gian xem thế nào?"
+      },
+      {
+        "japanese": "自分が本当にやりたい仕事を探してみたらどうですか。",
+        "romaji": "Jibun ga hontou ni yaritai shigoto o sagashite mitara dou desu ka.",
+        "vietnamese": "Vậy, tự bản thân anh thử tìm công việc mà anh thật sự muốn làm thì thế nào?"
+      }
+    ],
+    "notes": [
+      "Dùng khi gợi ý với người khác điều mà mình thấy hợp lý",
+      "「～たらどう？／～たら？」được dùng cho những người có quan hệ gần gũi như bạn bè, gia đình hoặc người dưới",
+      "「～たらいかがですか」là cách nói lịch sự của「～たらどう？」"
+    ]
+  },
+  {
+    "id": "yori-hou-ga",
+    "title": "…より…ほうが…",
+    "description": "(1)「Y より X ほうが...」chủ yếu được dùng để trả lời cho mẫu「X と Y とではどちらが...ですか」. (2) Kể cả không phải để trả lời câu hỏi thì vẫn có thể dùng「Y より X ほうが...」. Khi đó, nó sẽ có sắc thái nhấn mạnh rằng \"Có thể bạn cho là Y「...」hơn X, nhưng thực ra không phải vậy\".",
+    "structure": "V thể nguyên dạng／いA／なA／N より V thể nguyên dạng／いA／なAーな／Nの + ほうが...",
+    "examples": [
+      {
+        "japanese": "北海道と東京とではどちらが寒いですか。...北海道のほうが寒いです。",
+        "romaji": "Hokkaidou to Toukyou to dewa dochira ga samui desu ka. ...Hokkaidou no hou ga samui desu.",
+        "vietnamese": "Hokkaido và Tokyo thì ở đâu lạnh hơn? ...Hokkaido lạnh hơn."
+      },
+      {
+        "japanese": "今日は、北海道より東京のほうが気温が低かったです。",
+        "romaji": "Kyou wa, Hokkaidou yori Toukyou no hou ga kion ga hikukatta desu.",
+        "vietnamese": "Hôm nay, ở Tokyo nhiệt độ xuống thấp hơn Hokkaido."
+      },
+      {
+        "japanese": "漢字は見て覚えるより書いて覚えるほうが忘れにくいと思います。",
+        "romaji": "Kanji wa mite oboeru yori kaite oboeru hou ga wasurenikui to omoimasu.",
+        "vietnamese": "Tôi nghĩ rằng bạn sẽ có quên chữ Hán hơn nếu bạn nhớ nó bằng cách viết ra thay vì chỉ xem nó."
+      },
+      {
+        "japanese": "パーティーの料理は少ないより多いほうがいいです。",
+        "romaji": "Paatii no ryouri wa sukunai yori ooi hou ga ii desu.",
+        "vietnamese": "Thức ăn cho một buổi tiệc thì có nhiều vẫn tốt hơn là có ít."
+      },
+      {
+        "japanese": "アメリカの大学は入るより出るほうがずっと大変だと聞きました。",
+        "romaji": "Amerika no daigaku wa hairu yori deru hou ga zutto taihen da to kikimashita.",
+        "vietnamese": "Tôi nghe nói rằng tốt nghiệp các trường Đại học ở Mỹ khó hơn hẵn thi vào các trường đó."
+      }
+    ],
+    "notes": [
+      "「Y より X ほうが...」chủ yếu được dùng để trả lời cho mẫu「X と Y とではどちらが...ですか」",
+      "Có thể dùng để nhấn mạnh rằng \"Có thể bạn cho là Y「...」hơn X, nhưng thực ra không phải vậy\"",
+      "Tham chiếu: 「～は～より (so sánh)」: この車はあの車より大きいです。",
+      "Tham chiếu: 「～がいちばん～」: 日本料理［の中］で何がいちばんおいしいですか。...てんぷらがいちばんおいしいです。 (Minna 1 bài 12)"
+    ]
+  },
+  {
+    "id": "rashii-noun",
+    "title": "～らしい (N らしい)",
+    "description": "「N1 らしい N2」biểu thị rằng N2 mang đặc trưng điển hình của N1.「Nらしい」có thể làm vị ngữ.",
+    "structure": "N らしい",
+    "examples": [
+      {
+        "japanese": "山本さんの家はいかにも日本の家らしい家です。",
+        "romaji": "Yamamoto-san no ie wa ikani mo Nihon no ie rashii ie desu.",
+        "vietnamese": "Nhà của chị Yamamoto thực sự mang dáng dấp của một ngôi nhà Nhật Bản."
+      },
+      {
+        "japanese": "春らしい色のバックですね。",
+        "romaji": "Haru rashii iro no bakku desu ne.",
+        "vietnamese": "Chiếc túi có màu sắc của mùa xuân nhỉ."
+      },
+      {
+        "japanese": "これから試験を受ける会社へ行くときは学生らしい服を着て行ったほうがいいです。",
+        "romaji": "Kore kara shiken o ukeru kaisha e iku toki wa gakusei rashii fuku o kite itta hou ga ii desu.",
+        "vietnamese": "Từ nay, khi đi dự thi ở các công ty, bạn nên mặc trang phục đúng kiểu sinh viên thì hay hơn đấy."
+      },
+      {
+        "japanese": "今日の田中さんの服は学生らしいね。",
+        "romaji": "Kyou no Tanaka-san no fuku wa gakusei rashii ne.",
+        "vietnamese": "Trang phục của anh Tanaka mặc hôm nay làm anh ấy nhìn như sinh viên ấy nhỉ."
+      },
+      {
+        "japanese": "文句を言うのはあなたらしくない。",
+        "romaji": "Monku o iu no wa anata rashiku nai.",
+        "vietnamese": "Việc quen miệng kêu ca chẳng giống anh chút nào cả."
+      }
+    ],
+    "notes": [
+      "「N1 らしい N2」biểu thị rằng N2 mang đặc trưng điển hình của N1",
+      "「Nらしい」có thể làm vị ngữ",
+      "Dùng để diễn tả đặc trưng điển hình của một danh từ"
+    ]
+  },
+  {
+    "id": "rashii-hearsay",
+    "title": "…らしい (truyền đạt thông tin)",
+    "description": "(1) [...らしい」biểu thị việc truyền đạt lại thông tin 「...」đã đọc hoặc đã nghe. (2)「...らしい」cũng có thể biểu thị rằng người nói cho là (phỏng đoán) điều gì đó có vẻ như thế dựa trên những gì đã thấy, đã nghe.",
+    "structure": "V／いA／なA (thể thông thường)／N (ーだ) + らしい",
+    "examples": [
+      {
+        "japanese": "新聞によると、昨日の朝中国で大きい地震があったらしい。",
+        "romaji": "Shinbun ni yoru to, kinou no asa Chuugoku de ookii jishin ga atta rashii.",
+        "vietnamese": "Theo báo đưa tin thì hình như sáng hôm qua, ở Trung Quốc đã xảy ra trận động đất lớn."
+      },
+      {
+        "japanese": "雑誌で見たんだけど、あの店のケーキはおいしいらしいよ。",
+        "romaji": "Zasshi de mitan dakedo, ano mise no keeki wa oishii rashii yo.",
+        "vietnamese": "Tôi đã đọc thông tin này trên báo, rằng có vẻ bánh của cửa hàng đó rất ngon đấy."
+      },
+      {
+        "japanese": "先生の話では、試験の説明は全部英語らしい。",
+        "romaji": "Sensei no hanashi dewa, shiken no setsumei wa zenbu Eigo rashii.",
+        "vietnamese": "Theo như thầy nói thì có vẻ là toàn bộ những hướng dẫn về kỳ thi đều bằng tiếng Anh."
+      },
+      {
+        "japanese": "パーティーが始まったらしい。会場の中からにぎやかな声が聞こえてくれる。",
+        "romaji": "Paatii ga hajimatta rashii. Kaijou no naka kara nigiyaka na koe ga kikoete kureru.",
+        "vietnamese": "Hình như buổi tiệc đã bắt đầu. Có tiếng ốn tào từ trong hội trường đang vọng lại."
+      },
+      {
+        "japanese": "高橋さんに聞いたんだけど、婚約したらしいよ。",
+        "romaji": "Takahashi-san ni kiitan dakedo, kon'yaku shita rashii yo.",
+        "vietnamese": "Tớ nghe từ anh Takahashi, có vẻ như cô ấy đã đính hôn rồi đấy."
+      }
+    ],
+    "notes": [
+      "Biểu thị việc truyền đạt lại thông tin đã đọc hoặc đã nghe",
+      "Cũng có thể biểu thị phỏng đoán dựa trên những gì đã thấy, đã nghe",
+      "Tham chiếu: 「N らしい (tỷ dụ, đư ví dụ minh họa)」: 春らしい色のバックですね。"
+    ]
+  },
+  {
+    "id": "toshite",
+    "title": "～として",
+    "description": "Trong mẫu「～として」,「～」biểu thị một tư cách, lập trường hay quan điểm.",
+    "structure": "N として",
+    "examples": [
+      {
+        "japanese": "会社の代表として、お客さんに新しい商品をした。",
+        "romaji": "Kaisha no daihyou toshite, okyakusan ni atarashii shouhin o shita.",
+        "vietnamese": "Tôi đã giới thiệu với khách hàng về sản phẩm mới với tư cách là đại diện của công ty."
+      },
+      {
+        "japanese": "東京は、日本の首都として世界中に知られている。",
+        "romaji": "Toukyou wa, Nihon no shuto toshite sekaijuu ni shirarete iru.",
+        "vietnamese": "Tokyo được biết đến trên toàn thế giới với tư cách là thủ đô của Nhật Bản."
+      },
+      {
+        "japanese": "キムさんは昼は学生として学校に通い、夜は韓国語の先生として頑張っている。",
+        "romaji": "Kimu-san wa hiru wa gakusei toshite gakkou ni kayoi, yoru wa Kankokugo no sensei toshite ganbatte iru.",
+        "vietnamese": "Chị Kim ban ngày thì đến trường với tư cách là một học sinh, tối đến cố gắng với tư cách là giáo viên tiếng Hàn."
+      },
+      {
+        "japanese": "アニメや漫画は日本の文化として世界に認められている。",
+        "romaji": "Anime ya manga wa Nihon no bunka toshite sekai ni mitomerarete iru.",
+        "vietnamese": "Anime và manga được thế giới công nhận như một phần của văn hóa Nhật Bản."
+      }
+    ],
+    "notes": [
+      "「～」biểu thị một tư cách, lập trường hay quan điểm",
+      "Dùng để chỉ vai trò, vị trí, hoặc quan điểm của người nói"
+    ]
+  },
+  {
+    "id": "zu-ni",
+    "title": "（１）～ず［に］…",
+    "description": "「～ず［に］...」là cách nói có nghĩa như「～ないで...」, nhưng chủ yếu được dùng trong văn viết.",
+    "structure": "V thể ない + ず [に] ... (tuy nhiên, 「～する」→「～せず」)",
+    "examples": [
+      {
+        "japanese": "その男は先週の土曜日にこの店に来て、一言も話さず、酒を飲んでいた。",
+        "romaji": "Sono otoko wa senshuu no doyoubi ni kono mise ni kite, hitokoto mo hanasazu, sake o nonde ita.",
+        "vietnamese": "Người đàn ông đó thứ bảy tuần trước đã đến cửa hàng này uống rượu mà không nói một lời nào cả."
+      },
+      {
+        "japanese": "急いでいたので、かぎをかけずに出かけてしまった。",
+        "romaji": "Isoide ita node, kagi o kakezu ni dekakete shimatta.",
+        "vietnamese": "Vì vội nên tôi đã ra khỏi nhà mà không khóa cửa."
+      },
+      {
+        "japanese": "辞書を使わずに新聞を読めるようになりたい。",
+        "romaji": "Jisho o tsukawazu ni shinbun o yomeru you ni naritai.",
+        "vietnamese": "Tôi muốn có thể đọc được báo mà không cần sử dụng từ điển."
+      },
+      {
+        "japanese": "会社へ行かずにパソコンを使って自宅で仕事をする人が増えている。",
+        "romaji": "Kaisha e ikazu ni pasokon o tsukatte jitaku de shigoto o suru hito ga fuete iru.",
+        "vietnamese": "Những người không đến công ty mà sử dụng máy tính và làm việc tại nhà đang tăng lên."
+      },
+      {
+        "japanese": "地震のときは、あわてずに落ち着いて行動してください。",
+        "romaji": "Jishin no toki wa, awatezu ni ochitsuite koudou shite kudasai.",
+        "vietnamese": "Khi động đất, đừng hoảng loạn mà hãy bình tĩnh hành động."
+      }
+    ],
+    "notes": [
+      "Có nghĩa như「～ないで...」nhưng chủ yếu được dùng trong văn viết",
+      "「～する」→「～せず」",
+      "Dùng để diễn tả hoàn cảnh đi kèm hoặc phương tiện"
+    ]
+  },
+  {
+    "id": "zu-cause",
+    "title": "（２）～ず、…",
+    "description": "(1)「～ず、...」biểu thị nguyên nhân hoặc lý do giống như「～なくて、...」, nhưng chủ yếu được dùng trong văn viết. (2)「X ず、Y」còn được dùng với ý nghĩa liệt kê như trong mẫu「X ない。そして、Y。(không X, mà Y)」",
+    "structure": "V thể ない + ず、... (nhưng, 「～する」→「～せず」)",
+    "examples": [
+      {
+        "japanese": "子供の熱が下がらず、心配しました。",
+        "romaji": "Kodomo no netsu ga sagarazu, shinpai shimashita.",
+        "vietnamese": "Con tôi không hạ sốt nên tôi đã rất lo lắng."
+      },
+      {
+        "japanese": "田中さんは今月出張せず、来月出張することになりました。",
+        "romaji": "Tanaka-san wa kongetsu shucchou sezu, raigetsu shucchou suru koto ni narimashita.",
+        "vietnamese": "Anh Tanaka không đi công tác tháng này, anh ấy sẽ đi vào tháng sau."
+      },
+      {
+        "japanese": "子供の熱が一日中下がらず、心配しました。",
+        "romaji": "Kodomo no netsu ga ichinichijuu sagarazu, shinpai shimashita.",
+        "vietnamese": "Tôi lo lắng vì con tôi cả ngày không hạ sốt."
+      },
+      {
+        "japanese": "アキックスのシューズは硬すぎず、軟らかすぎず、はきやすいです。",
+        "romaji": "Akikkusu no shuuzu wa katasugizu, yawarakasugizu, haki yasui desu.",
+        "vietnamese": "Giày Akix dễ mang bởi nó không quá cứng, cũng không quá mềm."
+      }
+    ],
+    "notes": [
+      "Biểu thị nguyên nhân hoặc lý do giống như「～なくて、...」nhưng chủ yếu được dùng trong văn viết",
+      "「X ず、Y」còn được dùng với ý nghĩa liệt kê",
+      "「～する」→「～せず」",
+      "Tham chiếu: 「～なくて (nguyên nhân và kết quả)」: 家族に会えなくて、寂しいです。 (Minna 2 bài 39)"
+    ]
+  },
+  {
+    "id": "teiru-experience",
+    "title": "～ている (kinh nghiệm／lí lịch, lịch sử)",
+    "description": "(1)「～ている」biểu thị một thực tế lịch sử, kinh nghiệm hay lý lịch, và thường được sử dụng cùng với những phó từ diễn tả số lần hay thời gian như:「～回」(~ lần),「長い間」(một thời gian dài), v.v.. (2) Mẫu「～ている」này được dùng trong trường hợp một sự việc nào đó xảy ra trước đây có liên hệ với trạng thái hiện tại của chủ thể.",
+    "structure": "～ている",
+    "examples": [
+      {
+        "japanese": "この寺は今まで2回火事で焼けている。",
+        "romaji": "Kono tera wa ima made nikai kaji de yakete iru.",
+        "vietnamese": "Ngôi chùa này cho đến nay đã bị cháy 2 lần."
+      },
+      {
+        "japanese": "京都では長い間大きな地震が起こっていない。もうすぐ地震が来るかもしれない。",
+        "romaji": "Kyouto dewa nagai aida ookina jishin ga okotte inai. Mou sugu jishin ga kuru kamoshirenai.",
+        "vietnamese": "Trong một thời gian dài, ở Kyoto không xảy ra động đất lớn. Cũng có thể sắp sửa sẽ có một trận lớn xảy ra."
+      },
+      {
+        "japanese": "田中さんは高校のときアメリカに留学している。だから、英語の発音がきれいだ。",
+        "romaji": "Tanaka-san wa koukou no toki Amerika ni ryuugaku shite iru. Dakara, Eigo no hatsuon ga kirei da.",
+        "vietnamese": "Anh Tanaka đã du học ở Mỹ hồi cấp 3. Vì thế, phát âm tiếng Anh của anh ấy rất tốt."
+      },
+      {
+        "japanese": "モーツァルトは３５歳で亡くなるまでに６００以上の曲を作っている。",
+        "romaji": "Mootsuaruto wa sanjuu go sai de nakunaru made ni roppyaku ijou no kyoku o tsukutte iru.",
+        "vietnamese": "Mozart sáng tác hơn 600 ca khúc trước lúc mất năm 35 tuổi."
+      },
+      {
+        "japanese": "仕事が忙しくて、長い間ふるさとに帰っていない。",
+        "romaji": "Shigoto ga isogashikute, nagai aida furusato ni kaette inai.",
+        "vietnamese": "Vì công việc bận nên lâu rồi tôi không trở về quê."
+      }
+    ],
+    "notes": [
+      "Biểu thị một thực tế lịch sử, kinh nghiệm hay lý lịch",
+      "Thường được sử dụng cùng với những phó từ diễn tả số lần hay thời gian",
+      "Được dùng trong trường hợp một sự việc nào đó xảy ra trước đây có liên hệ với trạng thái hiện tại của chủ thể",
+      "Tham chiếu: 「～ている (đang tiếp diễn)」: ミラーさんは今電話をかけています。 (Minna 1 bài 14)",
+      "Tham chiếu: 「～ている (trạng thái kết quả)」: サントスさんは結婚しています。 (Minna 1 bài 15)",
+      "Tham chiếu: 「～ている (thói quen)」: 毎朝ジョギングをしています。 (Minna 2 bài 28)",
+      "Tham chiếu: 「～ている (trạng thái kết quả)」: 窓が割れています。 (Minna 2 bài 29)"
+    ]
+  },
+  {
+    "id": "nanka-dou",
+    "title": "～なんかどう？",
+    "description": "「～なんか」được sử dụng khi đề xuất với những nghe những gợi ý thích hợp. Cách nói này cho sắc thái nghĩa là còn có những lựa chọn khác đáng để xem xét, và nó được dùng để tránh tạo cảm giác áp đặt ý kiến của mình đối với người nghe.",
+    "structure": "～なんかどう？",
+    "examples": [
+      {
+        "japanese": "これなんかいかがでしょうか。",
+        "romaji": "Kore nanka ikaga deshou ka.",
+        "vietnamese": "(Trong cửa hàng) Như cái này thì thế nào?"
+      },
+      {
+        "japanese": "次の会長はだれがいいかな。...田中さんなんかいいと思うよ。",
+        "romaji": "Tsugi no kaichou wa dare ga ii kana. ...Tanaka-san nanka ii to omou yo.",
+        "vietnamese": "Không biết ai là ổn nhất cho vị trí chủ tích nghiệm kỳ tới nhỉ? ...Tôi nghĩ ông Tanaka có thể là một lựa chọn tốt."
+      }
+    ],
+    "notes": [
+      "Được sử dụng khi đề xuất với những gợi ý thích hợp",
+      "Cho sắc thái nghĩa là còn có những lựa chọn khác đáng để xem xét",
+      "Được dùng để tránh tạo cảm giác áp đặt ý kiến của mình đối với người nghe",
+      "Cách nói「～などどうですか」có ý nghĩa tương tự nhưng hơi cứng (trang trọng)"
+    ]
+  }
+]

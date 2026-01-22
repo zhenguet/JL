@@ -1,0 +1,392 @@
+[
+  {
+    "id": "hazu-da",
+    "title": "（１）…はずだ",
+    "description": "「...はずだ」biểu thị rằng người nói tin chắc điều gì đó sẽ thành hiện thực dựa trên sự tính toán, kiến thức, lô gíc.",
+    "structure": "V thể thông thường / いA / なA thể thông thường (ーだ → な) / N thể thông thường (ーだ → の) + はずだ",
+    "examples": [
+      {
+        "japanese": "飛行機で東京まで1時間だ。2時に大阪を出発すれば3時には着くはずだ。",
+        "romaji": "Hikouki de Toukyou made ichijikan da. Niji ni Oosaka o shuppatsu sureba sanji ni wa tsuku hazu da.",
+        "vietnamese": "Đi bằng máy bay đến Tokyo mất 1 tiếng. Nếu chúng ta rời Osaka lúc 2 giờ thì chắc chắn 3 giờ đến nơi."
+      },
+      {
+        "japanese": "薬を飲んだら、もう熱は下がるはずだ。",
+        "romaji": "Kusuri o nondara, mou netsu wa sagaru hazu da.",
+        "vietnamese": "Vì tôi đã uống thuốc nên chắc chắn sẽ hạ sốt."
+      },
+      {
+        "japanese": "子供が8人もいたら、生活は楽ではなかったはずだ。",
+        "romaji": "Kodomo ga hachinin mo itara, seikatsu wa raku dewa nakatta hazu da.",
+        "vietnamese": "Ông ấy có đến 8 đứa con nên cuộc sống của ông ấy chắc chắn đã không nhàn nhã."
+      },
+      {
+        "japanese": "山田さんは来ますか。...はい、そのはずです。",
+        "romaji": "Yamada-san wa kimasu ka. ...Hai, sono hazu desu.",
+        "vietnamese": "Anh Yamada có đến không? ...Có, anh ấy chắc chắn sẽ đến."
+      },
+      {
+        "japanese": "カラオケを発明した人は特許を取っていたら、１００億円はもうけたはずです。",
+        "romaji": "Karaoke o hatsumei shita hito wa tokkyo o totte itara, hyakuoku en wa moketa hazu desu.",
+        "vietnamese": "Người đã phát minh ra Karaoke nếu lấy bằng sáng chế thì chắc chắn sẽ thu lợi 10 tỷ yên."
+      },
+      {
+        "japanese": "９月1日？確かハイキングに行ったと思うけど。...そう？あの日は朝から雨だったはずだけど。",
+        "romaji": "Kugatsu tsuitachi? Tashika haikingu ni itta to omou kedo. ...Sou? Ano hi wa asa kara ame datta hazu dakedo.",
+        "vietnamese": "Ngày 1 tháng 9? Tôi nghĩ chắc hôm đó mình đã đi dã ngoại... ...Thế à? Ngày hôm đó trời đã mưa từ sáng cơ mà..."
+      },
+      {
+        "japanese": "あれ？参加者は２０人のはずなのに、２１人いる。",
+        "romaji": "Are? Sankasha wa nijunin no hazu nanoni, nijuuichinin iru.",
+        "vietnamese": "Này? Người tham gia chắc chắn là 20 người cơ mà, có 21 người luôn."
+      }
+    ],
+    "notes": [
+      "Biểu thị sự tin chắc dựa trên tính toán, kiến thức, logic",
+      "「はず」được dùng giống như danh từ trong diễn đạt: 「はずなのに」「はずの」「そのはず」",
+      "Tham chiếu: 「...はずだ」- ミラーさんは今日来るでしょうか。...来るはずですよ。昨日電話がありましたから。 (Minna 2 bài 46)"
+    ]
+  },
+  {
+    "id": "hazu-ga-wa-nai",
+    "title": "（２）…はずが／はない",
+    "description": "「はずがない／はずはない」là hình thức phủ định của「はずだ」, và có nghĩa là \"vô lý\", \"không thể có\". Nó được dùng để phủ định mạnh mẽ điều đó, dựa trên các căn cứ chắc chắn.",
+    "structure": "V thể thông thường / いA / なA thể thông thường (ーだ → な) / N thể thông thường (ーだ → の) + はずが／はない",
+    "examples": [
+      {
+        "japanese": "あんなに練習したんだから、今日の試合は負けるはずがない。",
+        "romaji": "Anna ni renshuu shita n dakara, kyou no shiai wa makeru hazu ga nai.",
+        "vietnamese": "Họ đã luyện tập chăm nhỉ như thế nên chắc chắn họ không thể thua trong trận đấu hôm nay."
+      },
+      {
+        "japanese": "人気がある映画なのだから、おもしろくないはずはありません。",
+        "romaji": "Ninki ga aru eiga na no dakara, omoshirokunai hazu wa arimasen.",
+        "vietnamese": "Đó là một bộ phim được yêu thích cho nên chắc chắn không thể không hay."
+      },
+      {
+        "japanese": "会談の前に1週間前から赤い自転車が置いてある。ワットさんも赤い自転車を持っているが、今修理に出してある。だから、この自転車はワットさんの自転車のはずがない。",
+        "romaji": "Kaidan no mae ni isshuukan mae kara akai jitensha ga oite aru. Watto-san mo akai jitensha o motte iru ga, ima shuuri ni dashite aru. Dakara, kono jitensha wa Watto-san no jitensha no hazu ga nai.",
+        "vietnamese": "Ai đó đã để chiếc xe đạp màu đỏ ở trước cầu thang từ một tuần trước. Anh Watt cũng có một chiếc xe đạp màu đỏ nhưng bây giờ anh ấy đang đưa ra hàng sửa nên chắc chắn chiếc xe này không phải là xe của anh Watt."
+      },
+      {
+        "japanese": "かぎがかかっていなかったよ。...そんなはずはありません。",
+        "romaji": "Kagi ga kakatte inakatta yo. ...Sonna hazu wa arimasen.",
+        "vietnamese": "Cửa đã không khóa đấy. ...Chắc chắn không có chuyện đó."
+      },
+      {
+        "japanese": "あの人は花に話しかけながら、水をやっているよ。...わかるはずがないのにね。",
+        "romaji": "Ano hito wa hana ni hanashikakenagara, mizu o yatte iru yo. ...Wakaru hazu ga nai noni ne.",
+        "vietnamese": "Người đó vừa bắt chuyện vừa tới nước cho hoa đấy. ...Chắc chắn loài hoa không thể hiểu cơ mà..."
+      },
+      {
+        "japanese": "松本さんはこの情報を知っているんですか。...知らないはずがありません。彼は部長ですよ。",
+        "romaji": "Matsumoto-san wa kono jouhou o shitte iru n desu ka. ...Shiranai hazu ga arimasen. Kare wa buchou desu yo.",
+        "vietnamese": "Anh Matsumoto biết thông tin này không? ...Chắc chắn là biết. Anh ấy là trưởng phòng đấy."
+      },
+      {
+        "japanese": "昨日、運動会でシュミットさんを見かけたよ。...そんなはずはないよ。シュミットさん、今、国へ帰っているよ。",
+        "romaji": "Kinou, undoukai de Shumitto-san o mikaketa yo. ...Sonna hazu wa nai yo. Shumitto-san, ima, kuni e kaette iru yo.",
+        "vietnamese": "Hôm qua, tôi bắt gặp ông Schmidt ở cuộc thi thể thao đấy. ...Làm gì có chuyện đó. Ông Schmidt, bây giờ đang về nước đấy."
+      }
+    ],
+    "notes": [
+      "Hình thức phủ định của「はずだ」",
+      "Có nghĩa là \"vô lý\", \"không thể có\"",
+      "Dùng để phủ định mạnh mẽ dựa trên căn cứ chắc chắn",
+      "「そんなはずはない」dùng khi phủ nhận mạnh mẽ những gì ai đó đã nói"
+    ]
+  },
+  {
+    "id": "hazu-datta",
+    "title": "（３）…はずだった",
+    "description": "[...はずだった」là hình thức quá khứ của [...はずだ」, biểu thị người nói đã nghĩ rằng điều gì đó đương nhiên sẽ trở nên như thế. Nó thường được sử dụng trong trường hợp kết quả xảy ra khác với những gì đã được tiên lượng.",
+    "structure": "V thể thông thường / いA / なA thể thông thường (ーだ → な) / N thể thông thường (ーだ → の) + はずだった",
+    "examples": [
+      {
+        "japanese": "旅行に行くはずだった。しかし、病気で行けなくなった。",
+        "romaji": "Ryokou ni iku hazu datta. Shikashi, byouki de ikenaku natta.",
+        "vietnamese": "Tôi đã nghĩ chắc chắn mình sẽ đi du lịch, nhưng do bị ốm nên tôi đã không thể đi được."
+      },
+      {
+        "japanese": "パーティーには出ないはずだったが、部長が都合が悪くなったので、私が出席することになった。",
+        "romaji": "Paatii ni wa denai hazu datta ga, buchou ga tsugou ga waruku natta node, watashi ga shusseki suru koto ni natta.",
+        "vietnamese": "Tôi đã nghĩ là chắc chắn mình sẽ không dự buổi tiệc, nhưng do trưởng phòng không đi được nên tôi đã phải đi thay."
+      },
+      {
+        "japanese": "山田さんは来ないんですか。...来るはずだったんですが、急に都合が悪くなって・・・。",
+        "romaji": "Yamada-san wa konai n desu ka. ...Kuru hazu datta n desu ga, kyuu ni tsugou ga waruku natte....",
+        "vietnamese": "Anh Yamada không đến à? ...Đúng ra sẽ đến nhưng mà đột nhiên có công chuyện nên...."
+      },
+      {
+        "japanese": "次のマラソン大会は広島でしたね。...ええ、そのはずだったんですが、都合で岡山に変更になりました。",
+        "romaji": "Tsugi no marason taikai wa Hiroshima deshita ne. ...Ee, sono hazu datta n desu ga, tsugou de Okayama ni henkou ni narimashita.",
+        "vietnamese": "Lần đại hội marathon tiếp theo được tổ chức tại Hiroshima nhỉ. ...Vâng, đúng ra là vậy nhưng mà đã được chuyển sang Okayama vì một số lý do."
+      }
+    ],
+    "notes": [
+      "Hình thức quá khứ của「はずだ」",
+      "Biểu thị người nói đã nghĩ rằng điều gì đó đương nhiên sẽ xảy ra",
+      "Thường dùng khi kết quả khác với dự đoán",
+      "Tham chiếu: 「...はずだ」- ミラーさんは今日来るでしょうか。...来るはずですよ。昨日電話がありましたから。 (Minna 2 bài 46)"
+    ]
+  },
+  {
+    "id": "koto-ga-mo-aru",
+    "title": "…ことが／もある",
+    "description": "Mẫu「...ことがある・こともある」có nghĩa là một sự việc X hoặc một trạng thái X thi thoảng xảy ra.",
+    "structure": "V thể nguyên dạng / V thể ない (ーない) / いA / なA / Nの + ことが／もある",
+    "examples": [
+      {
+        "japanese": "8月いい天気が続くが、ときどき大雨が降ること {が／も} ある。",
+        "romaji": "Hachigatsu ii tenki ga tsuzuku ga, tokidoki ooame ga furu koto {ga / mo} aru.",
+        "vietnamese": "Tháng 8 thời tiết về cơ bản rất đẹp, nhưng đôi khi cũng có mưa lớn."
+      },
+      {
+        "japanese": "母の料理はいつもおいしいが、ときどきおいしくないこと {が／も} ある。",
+        "romaji": "Haha no ryouri wa itsumo oishii ga, tokidoki oishikunai koto {ga / mo} aru.",
+        "vietnamese": "Món ăn mẹ nấu thường rất ngon, nhưng đôi khi cũng có lúc không ngon."
+      },
+      {
+        "japanese": "このスーパーはほとんど休みがないが、たまに休みのこと {が／も} ある。",
+        "romaji": "Kono suupaa wa hotondo yasumi ga nai ga, tamani yasumi no koto {ga / mo} aru.",
+        "vietnamese": "Siêu thị này gần như không đóng cửa bao giờ, nhưng đôi khi cũng có lúc đóng cửa."
+      },
+      {
+        "japanese": "このエレベータは古いから、たまに止まること {が／も} ある。",
+        "romaji": "Kono erebeeta wa furui kara, tamani tomaru koto {ga / mo} aru.",
+        "vietnamese": "Thang máy này cũ rồi nên đôi lúc dừng không hoạt động."
+      },
+      {
+        "japanese": "彼女の電話はいつも長いが、たまには短いこと {が／も} ある。",
+        "romaji": "Kanojo no denwa wa itsumo nagai ga, tamani wa mijikai koto {ga / mo} aru.",
+        "vietnamese": "Các cuộc gọi từ cô ấy thường lúc nào cũng dài, nhưng đôi khi cũng có lúc ngắn."
+      },
+      {
+        "japanese": "うちの子供たちはとても元気だが、1年に何度か熱を出すこと {が／も} ある。",
+        "romaji": "Uchi no kodomotachi wa totemo genki da ga, ichinen ni nandoka netsu o dasu koto {ga / mo} aru.",
+        "vietnamese": "Bọn trẻ nhà tôi rất khỏe mạnh, nhưng một năm chúng cũng bị sốt vài lần."
+      },
+      {
+        "japanese": "新幹線はめったに止まらないが、たまに雪で止まることがある。",
+        "romaji": "Shinkansen wa mettani tomaranai ga, tamani yuki de tomaru koto ga aru.",
+        "vietnamese": "Tàu Shinkansen hiếm khi ngừng chạy nhưng thỉnh thoảng có khi ngừng vận hành do tuyết."
+      },
+      {
+        "japanese": "携帯電話は場所によってときどき通じないことがある。",
+        "romaji": "Keitai denwa wa basho ni yotte tokidoki tsuujinai koto ga aru.",
+        "vietnamese": "Điện thoại di động đôi khi không kết nối ở một số nơi."
+      },
+      {
+        "japanese": "毎晩９時のニュースを見ていますが、見ないこともあります。",
+        "romaji": "Maiban kuji no nyuusu o mite imasu ga, minai koto mo arimasu.",
+        "vietnamese": "Mỗi tối tôi thường xem tin tức 9 giờ nhưng cũng có lúc không xem."
+      }
+    ],
+    "notes": [
+      "Biểu thị một sự việc X hoặc trạng thái X thi thoảng xảy ra",
+      "Trong hầu hết mọi trường hợp thì「ことがある」và「こともある」được dùng với ý nghĩa giống nhau",
+      "Tham chiếu: 「V thể た + ことがある (sự kinh qua)」- わたしはパリに行ったことがあります。 (Minna 1 bài 19)"
+    ]
+  },
+  {
+    "id": "ta-kekka",
+    "title": "～た結果、… ・ ～の結果、…",
+    "description": "Mẫu này biểu thị rằng việc thực hiện một hành động (~) nào đó thì dẫn đến sự việc (...) ở phía sau diễn ra. Nó chủ yếu được dùng trong văn viết, và hay được dùng trong các bản tin trên truyền hình hoặc đài phát thanh.",
+    "structure": "V thể た / Nの + 結果 (kết quả)、...",
+    "examples": [
+      {
+        "japanese": "{調査した／調査の} 結果、この町の人口が減ってきていることがわかりました。",
+        "romaji": "{Chousa shita / Chousa no} kekka, kono machi no jinkou ga hette kite iru koto ga wakarimashita.",
+        "vietnamese": "Kết quả điều tra cho thấy rằng dân số của thị trấn này đang giảm đi."
+      },
+      {
+        "japanese": "両親と {話し合った／の話し合いの} 結果、アメリカに留学することに決めました。",
+        "romaji": "Ryoushin to {hanashiatta / no hanashiai no} kekka, Amerika ni ryuugaku suru koto ni kimemashita.",
+        "vietnamese": "Sau khi nói chuyện với bố mẹ, tôi quyết định đi du học Mỹ."
+      },
+      {
+        "japanese": "妻と相談した結果、わたしたちは両親といっしょに住むことにした。",
+        "romaji": "Tsuma to soudan shita kekka, watashitachi wa ryoushin to issho ni sumu koto ni shita.",
+        "vietnamese": "Sau khi bàn bạc với vợ, chúng tôi quyết định sống cùng với bố mẹ."
+      },
+      {
+        "japanese": "国際会議で話し合った結果、CO2を減らす努力をすることになった。",
+        "romaji": "Kokusai kaigi de hanashiatta kekka, CO2 o herasu doryoku o suru koto ni natta.",
+        "vietnamese": "Sau khi thảo luận tại hội nghị quốc tế, đã đi đến quyết định nổ lực giảm thiểu khí CO2."
+      },
+      {
+        "japanese": "抽選の結果、お客様が一等に選ばれましたので、お知らせいたします。",
+        "romaji": "Chuusen no kekka, okyakusama ga ittou ni erabaremashita node, oshirase itashimasu.",
+        "vietnamese": "Kết quả bốc thăm, khách hàng trúng giải nhất, chúng tôi xin thông tin đến quý khách hàng."
+      }
+    ],
+    "notes": [
+      "Biểu thị việc thực hiện hành động (~) dẫn đến sự việc (...) xảy ra",
+      "Chủ yếu dùng trong văn viết",
+      "Hay được dùng trong các bản tin trên truyền hình hoặc đài phát thanh"
+    ]
+  },
+  {
+    "id": "dasu",
+    "title": "（１）～出す",
+    "description": "「V thể ます＋出す」có nghĩa là hành động V bắt đầu xảy ra.",
+    "structure": "V thể ます + 出す",
+    "examples": [
+      {
+        "japanese": "急に雨が降り出した。",
+        "romaji": "Kyuu ni ame ga furidashita.",
+        "vietnamese": "Trời đột ngột đổ mưa."
+      },
+      {
+        "japanese": "男はまんじゅうを見ると、急に震え出した。",
+        "romaji": "Otoko wa manjuu o miru to, kyuu ni furuedashita.",
+        "vietnamese": "Người đàn ông nhìn thấy bánh bao đột nhiên run lẩy bẩy."
+      },
+      {
+        "japanese": "赤ちゃんが急に泣き出した。どうしたんだろう。",
+        "romaji": "Akachan ga kyuu ni nakidashita. Doushita n darou.",
+        "vietnamese": "Em bé đột nhiên khóc lên. Nó làm sao thế nhỉ."
+      },
+      {
+        "japanese": "犬が急に走り出したので、びっくりした。",
+        "romaji": "Inu ga kyuu ni hashiridashita node, bikkuri shita.",
+        "vietnamese": "Vì con chó đột nhiên lao ra nên tôi giật mình."
+      },
+      {
+        "japanese": "車が急に動き出したので、びっくりした。",
+        "romaji": "Kuruma ga kyuu ni ugokidashita node, bikkuri shita.",
+        "vietnamese": "Vì xe ô tô đột nhiên di chuyển nên tôi đã hoảng sợ."
+      },
+      {
+        "japanese": "父が急に怒り出したので、びっくりした。",
+        "romaji": "Chichi ga kyuu ni okoridashita node, bikkuri shita.",
+        "vietnamese": "Vì bố tôi đột nhiên nổi giận nên tôi đã hoảng sợ."
+      },
+      {
+        "japanese": "鳥が急に騒ぎ出したので、びっくりした。",
+        "romaji": "Tori ga kyuu ni sawagidashita node, bikkuri shita.",
+        "vietnamese": "Vì những con chim đột nhiên làm loạn nên tôi đã giật mình."
+      }
+    ],
+    "notes": [
+      "Biểu thị hành động V bắt đầu xảy ra",
+      "Ví dụ: 泣き出す (bật khóc／bắt đầu khóc), (雨が) 振り出す (đổ mưa／bắt đầu mưa), 動き出す (bắt đầu di chuyển), 歩き出す (bắt đầu đi), 読み出す (bắt đầu đọc), 歌い出す (cất lời ca／bắt đầu hát), 話し出す (mở lời／bắt đầu nói)",
+      "「V thể ます＋出す」không thể dùng trong biểu hiện rủ rê hoặc yêu cầu. Dùng「～始める」thay thế: 食べ始めましょう (rủ rê), 読み始めてください (yêu cầu)"
+    ]
+  },
+  {
+    "id": "hajimeru-owaru-tsuzukeru",
+    "title": "（２）～始める ・ ～終わる ・ ～続ける",
+    "description": "Biểu thị V bắt đầu, V kết thúc, V tiếp tục.",
+    "structure": "V thể ます + 始める／終わる／続ける",
+    "examples": [
+      {
+        "japanese": "雨は3時間くらい続きましたが、電話がかかってきたのは。{〇雨が降り始めた／X雨が降って} ときでした。",
+        "romaji": "Ame wa sanjikan kurai tsuzukimashita ga, denwa ga kakatte kita no wa. {O ame ga furihajimeta / X ame ga futte} toki deshita.",
+        "vietnamese": "Mưa đã kéo dài 3 tiếng, và điện thoại gọi đến là lúc trời bắt đầu mưa."
+      },
+      {
+        "japanese": "宿題の作文を {〇書き終わる／✕書く} 前に、友達が遊びに来た。",
+        "romaji": "Shukudai no sakubun o {O kakiowaru / X kaku} mae ni, tomodachi ga asobi ni kita.",
+        "vietnamese": "Bạn tôi đã đến chơi trước khi tôi viết xong bài tập làm văn."
+      },
+      {
+        "japanese": "5分間走り続けてください。",
+        "romaji": "Gofunkan hashiritsuzukete kudasai.",
+        "vietnamese": "Anh／chị hãy chạy liên tục trong 5 phút."
+      },
+      {
+        "japanese": "４歳のとき、ピアノを習い始めました。",
+        "romaji": "Yonsai no toki, piano o naraihajimemashita.",
+        "vietnamese": "Tôi bắt đầu học piano lúc 4 tuổi."
+      },
+      {
+        "japanese": "太郎、ほかの人が食べ終わるまで、ちゃんと座っていなさい。",
+        "romaji": "Tarou, hoka no hito ga tabeowaru made, chanto suwatte inasai.",
+        "vietnamese": "Này Taro, hãy ngồi ngay ngắn đến khi người khác ăn xong."
+      },
+      {
+        "japanese": "父は４０年間、家族のために働き続けました。",
+        "romaji": "Chichi wa yonjuunenkan, kazoku no tame ni hatarakitsuzukemashita.",
+        "vietnamese": "Bố tôi đã làm việc liên tục suốt 40 năm cho gia đình."
+      }
+    ],
+    "notes": [
+      "～始める: biểu thị V bắt đầu",
+      "～終わる: biểu thị V kết thúc",
+      "～続ける: biểu thị V tiếp tục",
+      "Dùng「～始めた」khi nói về thời điểm bắt đầu trong quá khứ, không dùng「～て」",
+      "Dùng「～終わる」trước「前に」, không dùng động từ nguyên dạng"
+    ]
+  },
+  {
+    "id": "wasureru-au-kaeru",
+    "title": "（３）～忘れる ・ ～合う ・ ～換える",
+    "description": "(1)「V thể ます＋忘れる」có nghĩa là quên làm V. (2)「V thể ます＋合う」có nghĩa là nhiều người hoặc vật làm V với nhau／lẫn nhau. (3)「V thể ます＋換える」có nghĩa là thay đổi cái gì đó bằng cách làm V, hoặc làm V khác.",
+    "structure": "V thể ます + 忘れる／合う／換える",
+    "examples": [
+      {
+        "japanese": "きょうの料理は塩を入れ忘れたので、おいしくない。",
+        "romaji": "Kyou no ryouri wa shio o irewasureta node, oishikunai.",
+        "vietnamese": "Món ăn hôm nay không ngon vì tôi đã quên cho muối."
+      },
+      {
+        "japanese": "困ったときこそ助け合うことが大切だ。",
+        "romaji": "Komatta toki koso tasukeau koto ga taisetsu da.",
+        "vietnamese": "Chính khi gặp khó khăn thì việc giúp đỡ nhau mới quý."
+      },
+      {
+        "japanese": "部屋の空気を入れ換えた。",
+        "romaji": "Heya no kuuki o irekaeta.",
+        "vietnamese": "Tôi đã (mở cửa) để cho không khí mới vào phòng."
+      },
+      {
+        "japanese": "電車からバスに乗り換えた。",
+        "romaji": "Densha kara basu ni norikaeta.",
+        "vietnamese": "Tôi đã chuyển từ tàu điện sang xe buýt."
+      },
+      {
+        "japanese": "最近、祖母はよくガスを消し忘れるので、心配だ。",
+        "romaji": "Saikin, sobo wa yoku gasu o keshisureru node, shinpai da.",
+        "vietnamese": "Gần đây, tôi rất lo lắng vì bà thường quên tắt bếp ga."
+      },
+      {
+        "japanese": "困ったときは、お互いに助け合いましょう。",
+        "romaji": "Komatta toki wa, otagai ni tasukeaimashou.",
+        "vietnamese": "Hãy giúp đỡ lẫn nhau lúc khó khăn."
+      },
+      {
+        "japanese": "この電車で東京駅まで行けますか。...いいえ、新宿駅で２番線に乗り換えてください。",
+        "romaji": "Kono densha de Toukyou eki made ikemasu ka. ...Iie, Shinjuku eki de nibansen ni norikaete kudasai.",
+        "vietnamese": "Có thể đến ga Tokyo bằng chuyến tàu này không? ...Không ạ, vui lòng đổi sang tuyết số 2 tại ga Shinjuku."
+      }
+    ],
+    "notes": [
+      "～忘れる: quên làm V",
+      "～合う: nhiều người hoặc vật làm V với nhau／lẫn nhau",
+      "～換える: thay đổi cái gì đó bằng cách làm V, hoặc làm V khác"
+    ]
+  },
+  {
+    "id": "to-iu-koto-ni-naru",
+    "title": "…ということになる",
+    "description": "「…ということになる」được dùng khi biểu thị rằng nếu ở một điều kiện nào đó thì sẽ dẫn đến kết quả (...).",
+    "structure": "…ということになる",
+    "examples": [
+      {
+        "japanese": "申し込む学生が10人以上にならなければ、この旅行は中止ということになる。",
+        "romaji": "Moushikomu gakusei ga juunin ijou ni naranakereba, kono ryokou wa chuushi to iu koto ni naru.",
+        "vietnamese": "Nếu số sinh viên đăng ký dưới 10 người thì chuyến du lịch này sẽ bị hủy."
+      },
+      {
+        "japanese": "今夜カレーを食べれば、3日続けてカレーを食べたということになる。",
+        "romaji": "Konya karee o tabereba, mikkka tsuzukete karee o tabeta to iu koto ni naru.",
+        "vietnamese": "Nếu tối nay chúng ta ăn cà-ri thì (như vậy) là chúng ta đã ăn cà-ri 3 ngày liên tiếp."
+      }
+    ],
+    "notes": [
+      "Biểu thị rằng nếu ở một điều kiện nào đó thì sẽ dẫn đến kết quả",
+      "Dùng để diễn đạt kết luận hoặc hệ quả từ điều kiện"
+    ]
+  }
+]

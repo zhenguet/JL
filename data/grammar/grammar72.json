@@ -1,0 +1,244 @@
+[
+  {
+    "id": "shidai-desu",
+    "title": "次第です",
+    "description": "「～次第です。」được sử dụng với hình thức câu là 「Vて、～次第です。」, biểu thị ý nghĩa「という理由で、・・・しました。」. 「～という次第で、・・・」 cũng có nghĩa là「～という理由で、・・・」.",
+    "structure": "Vて、～次第です／～という次第で、・・・",
+    "examples": [
+      {
+        "japanese": "関係者が情報を共有すべきだと考え、皆様にお知らせした次第です。",
+        "romaji": "Kankeisha ga jouhou o kyouyuu subeki da to kangae, minasama ni oshirase shita shidai desu.",
+        "vietnamese": "Chúng tôi thông báo cho tất cả những ai liên quan bởi vì chúng tôi tin rằng thông tin cần được chia sẻ."
+      },
+      {
+        "japanese": "私どもだけではどうしようもなく、こうしてお願いに参った次第でございます。",
+        "romaji": "Watashidomo dake de wa doushiyou mo naku, kou shite onegai ni maitta shidai de gozaimasu.",
+        "vietnamese": "Chúng tôi không thể tự mình giải quyết được việc này, nên đây là lý do vì sao chúng tôi nhờ đến anh."
+      }
+    ],
+    "notes": [
+      "Mẫu: Vて、～次第です／～という次第で、・・・",
+      "Dùng nhiều trong văn viết, thư từ, phát biểu trang trọng để nêu lý do."
+    ]
+  },
+  {
+    "id": "o-motte-to-suru",
+    "title": "をもって～とする",
+    "description": "「～をもって・・・とする」biểu thị ý nghĩa「～を・・・とみなす」 (xem A là B).",
+    "structure": "N1 をもって N2 とする",
+    "examples": [
+      {
+        "japanese": "出席率、授業中の発表、レポートをもって、評価とします。",
+        "romaji": "Shussekiritsu, jugyou-chuu no happyou, repooto o motte, hyouka to shimasu.",
+        "vietnamese": "Sinh viên sẽ được đánh giá dựa trên tỉ lệ đến lớp, phát biểu trong lớp học, và các bài báo cáo."
+      },
+      {
+        "japanese": "日本では、運転免許証をもって身分証明書とする場合がある。",
+        "romaji": "Nihon de wa, unten menkyoshou o motte mibun shoumeisho to suru baai ga aru.",
+        "vietnamese": "Ở Nhật Bản, có trường hợp người ta xem bằng lái xe như là giấy tờ tùy thân."
+      }
+    ],
+    "notes": [
+      "Biểu thị việc lấy N1 làm căn cứ, coi như N2.",
+      "Thường dùng trong quy định, giải thích tiêu chuẩn đánh giá."
+    ]
+  },
+  {
+    "id": "ni-okimashite-wa",
+    "title": "におきましては",
+    "description": "「～においては／におきましては」là cách nói mang sắc thái cứng của「～では」giới hạn phạm vi. 「～におきましては」 đặc biệt trang trọng, thường dùng trong văn bản, phát biểu.",
+    "structure": "N + においては／におきましては",
+    "examples": [
+      {
+        "japanese": "経済成長期の日本においては、収入が２～３年で倍になることもあった。",
+        "romaji": "Keizai seichouki no Nihon ni oite wa, shuunyuu ga ni–san-nen de bai ni naru koto mo atta.",
+        "vietnamese": "Ở Nhật Bản trong thời kỳ kinh tế tăng trưởng mạnh, thu nhập của một số người tăng gấp đôi chỉ trong 2, 3 năm."
+      },
+      {
+        "japanese": "現代社会においては、インターネットが人と人をつなぐ大事な道具となっている。",
+        "romaji": "Gendai shakai ni oite wa, intaanetto ga hito to hito o tsunagu daiji na dougu to natte iru.",
+        "vietnamese": "Ở xã hội hiện đại, Internet là công cụ quan trọng kết nối giữa người và người."
+      }
+    ],
+    "notes": [
+      "Tương đương nghĩa cơ bản với「～では」 nhưng trang trọng hơn.",
+      "Dùng nhiều trong thư, bài phát biểu, văn bản chính thức."
+    ]
+  },
+  {
+    "id": "uru-eru",
+    "title": "うる／える",
+    "description": "「～うる／える」biểu thị ý nghĩa「～ことができる」 (có thể xảy ra / có khả năng). Viết bằng kanji là「得る」. Phủ định là「えない」. Có thể dùng cả với động từ ý chí và phi ý chí.",
+    "structure": "Vます形 + うる／える／えない",
+    "examples": [
+      {
+        "japanese": "今のうちにエネルギー政策を変更しないと、将来重大な問題が起こりうる。",
+        "romaji": "Ima no uchi ni enerugii seisaku o henkou shinai to, shourai juudai na mondai ga okori uru.",
+        "vietnamese": "Nếu chính sách năng lượng không được thay đổi sớm thì có khả năng các vấn đề nghiêm trọng sẽ xảy ra trong tương lai."
+      },
+      {
+        "japanese": "日本ではいつでも地震が起こりうる。",
+        "romaji": "Nihon de wa itsu demo jishin ga okori uru.",
+        "vietnamese": "Ở Nhật Bản lúc nào cũng có thể xảy ra động đất."
+      }
+    ],
+    "notes": [
+      "Nhấn mạnh tính khả năng, xác suất, không chỉ năng lực chủ thể.",
+      "Phủ định thường dùng「ありえない」khi nói \"không thể nào có chuyện đó\"."
+    ]
+  },
+  {
+    "id": "nodearou-nodarou",
+    "title": "のであろう／のだろう",
+    "description": "「・・・のであろう／のだろう」diễn đạt suy đoán, liên tưởng của người nói dựa trên lý do hoặc tình huống ở câu trước.",
+    "structure": "V・A（普通形）／なA・N（普通形だ→な）＋ のであろう／のだろう",
+    "examples": [
+      {
+        "japanese": "山田さんの部屋の電気が消えている。彼は出かけているのだろう。",
+        "romaji": "Yamada-san no heya no denki ga kiete iru. Kare wa dekakete iru no darou.",
+        "vietnamese": "Điện trong phòng của anh Yamada tắt. Có lẽ anh ấy đang đi ra ngoài."
+      },
+      {
+        "japanese": "彼は一生懸命練習したから優勝できたのだろう。",
+        "romaji": "Kare wa isshoukenmei renshuu shita kara yuushou dekita no darou.",
+        "vietnamese": "Có lẽ vì anh ấy đã miệt mài luyện tập nên đã có thể vô địch."
+      }
+    ],
+    "notes": [
+      "Kết hợp với「の」nhấn mạnh cơ sở suy đoán.",
+      "Trang trọng hơn so với「だろう」đơn thuần."
+    ]
+  },
+  {
+    "id": "to-omowareru",
+    "title": "と思われる",
+    "description": "「～と思われる」là cách nói trong văn viết để nêu ý kiến, phán đoán của người viết một cách khách quan, lịch sự. Thường dùng trong luận văn, báo cáo.",
+    "structure": "V・A（普通形）／なA・N（普通形だ→だ）＋ と思われる",
+    "examples": [
+      {
+        "japanese": "世界の経済の混乱はこの先５、６年は続くと思われる。",
+        "romaji": "Sekai no keizai no konran wa kono saki go, roku-nen wa tsuzuku to omowareru.",
+        "vietnamese": "Tôi cho rằng sự hỗn loạn của nền kinh tế thế giới sẽ tiếp tục trong 5, 6 năm tới."
+      },
+      {
+        "japanese": "彼の発言をそのまま信用するのは危険だと思われます。",
+        "romaji": "Kare no hatsugen o sono mama shinyou suru no wa kiken da to omowaremasu.",
+        "vietnamese": "Tôi nghĩ sẽ thật nguy hiểm nếu tin y nguyên lời anh ấy nói."
+      }
+    ],
+    "notes": [
+      "Trang trọng hơn「と思う」, thường dùng trong văn viết.",
+      "Có thể thay bằng「と考えられる」với sắc thái tương tự."
+    ]
+  },
+  {
+    "id": "to-shite-mo",
+    "title": "としても",
+    "description": "「～たとしても」biểu thị giả định mang tính nhượng bộ: ngay cả nếu thừa nhận「～」thì kết quả phía sau cũng không thay đổi.",
+    "structure": "Vた・A・Nだ + としても／たとえ～としても",
+    "examples": [
+      {
+        "japanese": "たとえ世界が一つの国になったとしても、日本語はなくなってほしくない。",
+        "romaji": "Tatoe sekai ga hitotsu no kuni ni natta to shite mo, Nihongo wa nakunatte hoshikunai.",
+        "vietnamese": "Ngay cả khi thế giới trở thành một quốc gia, thì tôi cũng không muốn tiếng Nhật biến mất."
+      },
+      {
+        "japanese": "村には電気はなかった。ろうそくはたとえあったとしても、高価でとても買えなかった。",
+        "romaji": "Mura ni wa denki wa nakatta. Rousoku wa tatoe atta toshite mo, kouka de totemo kaenakatta.",
+        "vietnamese": "Ở làng không có điện, và ngay cả nếu có nến thì tôi cũng không thể mua được vì đắt."
+      }
+    ],
+    "notes": [
+      "Nhấn mạnh \"dù cho... thì cũng...\".",
+      "Thường đi cùng「たとえ」ở đầu câu để nhấn mạnh giả định."
+    ]
+  },
+  {
+    "id": "you-nimo-nai",
+    "title": "（よ）うにも～ない",
+    "description": "「～（よ）うにも・・・ない」biểu đạt ý nghĩa「～したいのだが、・・・できない」: muốn làm nhưng không có cách, không thể.",
+    "structure": "Vようにも V可能形ない",
+    "examples": [
+      {
+        "japanese": "上司や同僚がまだ仕事をしているので、帰ろうにも帰れない。",
+        "romaji": "Joushi ya douryou ga mada shigoto o shite iru no de, kaerou ni mo kaerenai.",
+        "vietnamese": "Vì cấp trên và đồng nghiệp vẫn đang làm việc nên tôi dù muốn cũng không thể đứng dậy ra về."
+      },
+      {
+        "japanese": "寒さで地面が凍って、車を動かそうにも動かせない。",
+        "romaji": "Samusa de jimen ga kootte, kuruma o ugokasou ni mo ugokasenai.",
+        "vietnamese": "Trời lạnh nên mặt đất đông cứng, dù muốn di chuyển xe hơi cũng không thể di chuyển được."
+      }
+    ],
+    "notes": [
+      "Thường dùng khi có lý do khách quan khiến không thể thực hiện.",
+      "Sắc thái bất lực, tiếc nuối."
+    ]
+  },
+  {
+    "id": "wari-ni",
+    "title": "わりに",
+    "description": "「～わりに・・・」biểu thị sự chênh lệch giữa kỳ vọng từ「～」và thực tế「・・・」: \"so với ~ thì ... (không tương xứng)\".",
+    "structure": "Aい／Aな／N の＋わりに",
+    "examples": [
+      {
+        "japanese": "映画『王様のスピーチ』はタイトルのわりには面白かった。",
+        "romaji": "Eiga 『Ousama no Supiichi』 wa taitoru no wari ni wa omoshirokatta.",
+        "vietnamese": "Bộ phim \"Bài diễn văn của nhà vua\" thú vị hơn tiêu đề của nó."
+      },
+      {
+        "japanese": "母は年を取っているわりにおしゃれです。",
+        "romaji": "Haha wa toshi o totte iru wari ni oshare desu.",
+        "vietnamese": "Mẹ tôi ăn mặc sành điệu mặc dù đã có tuổi."
+      }
+    ],
+    "notes": [
+      "Dùng khi kết quả khác (thường là tốt hơn hoặc xấu hơn) so với điều dự đoán từ \"～\".",
+      "Có thể dùng với cả tính từ, danh từ, động từ."
+    ]
+  },
+  {
+    "id": "beki-da",
+    "title": "べきだ",
+    "description": "「～べきだ」biểu thị ý nghĩa \"đương nhiên nên/đáng lẽ phải làm ~\". Mạnh hơn「～したほうがいい」. Hình thức phủ định là「～すべきではない」.",
+    "structure": "V辞書形／Aくある／N・なAである ＋ べきだ／べきではない",
+    "examples": [
+      {
+        "japanese": "豊かな国は貧しい国を援助すべきだ。",
+        "romaji": "Yutaka na kuni wa mazushii kuni o enjo subeki da.",
+        "vietnamese": "Nước giàu nên giúp nước nghèo."
+      },
+      {
+        "japanese": "災害に備えて、非常用袋に水や食料を入れておくべきだ。",
+        "romaji": "Saigai ni sonaete, hijouyou bukuro ni mizu ya shokuryou o irete oku beki da.",
+        "vietnamese": "Nên để sẵn thức ăn và nước trong túi khẩn cấp đề phòng trường hợp xảy ra thảm họa."
+      }
+    ],
+    "notes": [
+      "Không dùng「ないべきだ」, mà dùng「すべきではない」.",
+      "Khác với「なければならない」: thường mang sắc thái khuyến nghị, quan điểm cá nhân."
+    ]
+  },
+  {
+    "id": "to-iu-yori",
+    "title": "というより",
+    "description": "「～というより、・・・」đính chính lại cách nói ở「～」, cho rằng「・・・」mới là cách diễn đạt thích hợp hơn.",
+    "structure": "普通形（なA・Nだ→だ）＋というより、・・・",
+    "examples": [
+      {
+        "japanese": "バイオリンは彼にとっては、趣味というより生きがいになっている。",
+        "romaji": "Baiorin wa kare ni totte wa, shumi to iu yori ikigai ni natte iru.",
+        "vietnamese": "Đối với anh ấy, violin không chỉ là sở thích mà còn là lẽ sống."
+      },
+      {
+        "japanese": "アンデルセン童話は、子どものためというより、大人のために書かれたものだと思う。",
+        "romaji": "Anderusen douwa wa, kodomo no tame to iu yori, otona no tame ni kakareta mono da to omou.",
+        "vietnamese": "Tôi nghĩ truyện cổ tích Andersen được viết cho người lớn hơn là cho trẻ em."
+      }
+    ],
+    "notes": [
+      "Thường dùng khi muốn sửa lại nhận định vừa nêu.",
+      "Có thể dùng để nhấn mạnh đánh giá thật sự của người nói."
+    ]
+  }
+]

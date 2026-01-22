@@ -1,0 +1,282 @@
+[
+  {
+    "id": "kara-naru",
+    "title": "からなる",
+    "description": "Cấu trúc「XはYからなる／なっている」biểu thị ý nghĩa Y là bộ phận cấu thành X.",
+    "structure": "XはYからなる／なっている",
+    "examples": [
+      {
+        "japanese": "日本は４７の都道府県からなっている。",
+        "romaji": "Nihon wa 47 no todoufuken kara natte iru.",
+        "vietnamese": "Nhật Bản được chia thành 47 tỉnh thành, bao gồm Tokyo, Hokkaido, Osaka, Kyoto và 43 tỉnh khác."
+      },
+      {
+        "japanese": "１０人の科学者からなる研究グループによって、調査が行われた。",
+        "romaji": "10 nin no kagakusha kara naru kenkyuu guruupu ni yotte, chousa ga okonawareta.",
+        "vietnamese": "Cuộc điều tra đã được tiến hành bởi nhóm nghiên cứu gồm 10 nhà khoa học."
+      }
+    ],
+    "notes": [
+      "Biểu thị ý nghĩa Y là bộ phận cấu thành X",
+      "Có thể dùng からなる hoặc からなっている"
+    ]
+  },
+  {
+    "id": "toshite-wa",
+    "title": "としては",
+    "description": "「～としては」là cách nói để diễn đạt những nội dung tương ứng với「～」ở vế sau.",
+    "structure": "N + としては",
+    "examples": [
+      {
+        "japanese": "北海道のお土産としては、クッキーやチョコレートなどが有名である。",
+        "romaji": "Hokkaidou no omiyage toshite wa, kukkii ya chokoreeto nado ga yuumei de aru.",
+        "vietnamese": "Quà lưu niệm nổi tiếng từ Hokkaido gồm có bánh bích quy và sô cô la, v.v.."
+      },
+      {
+        "japanese": "漫画のテーマとしては、「恋愛」や「冒険」などが好まれる。",
+        "romaji": "Manga no teema toshite wa, \"renai\" ya \"bouken\" nado ga konomareru.",
+        "vietnamese": "Những thứ như \"tình ái\" hay \"mạo hiểm\", v.v.. được ưa thích dùng cho chủ đề của truyện tranh."
+      }
+    ],
+    "notes": [
+      "Diễn đạt những nội dung tương ứng với「～」ở vế sau"
+    ]
+  },
+  {
+    "id": "jou",
+    "title": "上",
+    "description": "「～上」đi với danh từ và biểu đạt ý nghĩa là「～の点から」、「～の点で」.",
+    "structure": "N + 上",
+    "examples": [
+      {
+        "japanese": "家の中でテレビを長時間つけているのは教育上よくない。",
+        "romaji": "Ie no naka de terebi o choujikan tsukete iru no wa kyouiku jou yoku nai.",
+        "vietnamese": "Việc mở tivi trong thời gian dài ở nhà, xét theo quan điểm giáo dục trẻ con là không tốt."
+      },
+      {
+        "japanese": "会社の経営上、今より社員を増やすことは難しい。",
+        "romaji": "Kaisha no keiei jou, ima yori shain o fuyasu koto wa muzukashii.",
+        "vietnamese": "Từ tình hình kinh doanh của công ty, việc tuyển thêm nhân viên ở thời điểm hiện tại là rất khó."
+      },
+      {
+        "japanese": "雨の日に傘をさして自転車に乗るのは交通安全上、非常に危険である。",
+        "romaji": "Ame no hi ni kasa o sashite jitensha ni noru no wa koutsuu anzen jou, hijou ni kiken de aru.",
+        "vietnamese": "Việc vừa che ô vừa đi xe đạp trong những ngày mưa xét từ phương diện an toàn giao thông là rất nguy hiểm."
+      },
+      {
+        "japanese": "１９６０年代の初めは日本製のアニメは番組編成上の穴埋めとして放送されていた。",
+        "romaji": "1960 nendai no hajime wa Nihon sei no anime wa bangumi hensei jou no anaume toshite housou sarete ita.",
+        "vietnamese": "Đầu những năm 1960, phim hoạt hình do Nhật Bản sản xuất đã được phát sóng như là để lấp chỗ trống trong biên tập chương trình."
+      }
+    ],
+    "notes": [
+      "Đi với danh từ và biểu đạt ý nghĩa là「～の点から」、「～の点で」"
+    ]
+  },
+  {
+    "id": "ni-yori",
+    "title": "により",
+    "description": "「～により／によって」của trường hợp này biểu thị phương tiện/phương pháp.",
+    "structure": "～により／によって",
+    "examples": [
+      {
+        "japanese": "この会社は、工場を海外に移したことにより、コストを上げるのに成功した。",
+        "romaji": "Kono kaisha wa, koujou o kaigai ni utsushita koto ni yori, kosuto o ageru no ni seikou shita.",
+        "vietnamese": "Nhờ vào việc đưa nhà máy sản xuất ra nước ngoài, công ty này đã thành công trong việc cắt giảm chi phí."
+      },
+      {
+        "japanese": "宅配便によって、全国どこへでも遅くとも2日以内には荷物が届くようになった。",
+        "romaji": "Takuhaibin ni yotte, zenkoku doko e demo osoku tomo 2 nichi inai ni wa nimotsu ga todoku you ni natta.",
+        "vietnamese": "Nhờ vào dịch vụ chuyển phát tận nhà mà chậm nhất cũng chỉ trong 2 ngày hàng hóa sẽ được chuyển đến bất cứ nơi nào trên cả nước."
+      }
+    ],
+    "notes": [
+      "Biểu thị phương tiện/phương pháp",
+      "Có thể dùng により hoặc によって"
+    ]
+  },
+  {
+    "id": "koto-kara",
+    "title": "ことから",
+    "description": "「～ことから」biểu đạt rằng nội dung ở「～」là lí do, nguyên nhân. Nội dung ở vế sau có trường hợp là sự thật như ví dụ ①、②, và cũng có trường hợp là phán đoán của người nói như ví dụ ③. Đây là cách nói mang sắc thái cứng chủ yếu được sử dụng trong văn viết.",
+    "structure": "V thể thông thường + ことから\nいA thể thông thường + ことから\nなA thể thông thường (ーだ → ーな／ーである) + ことから\nN (ーだ → ーである) + ことから",
+    "examples": [
+      {
+        "japanese": "夫にスーパーの袋を捨てないように注意したことから、けんかになった。",
+        "romaji": "Otto ni suupaa no fukuro o sutenai you ni chuui shita koto kara, kenka ni natta.",
+        "vietnamese": "Vì tôi nhắc nhở chồng tôi đừng bỏ túi ny lông từ siêu thị mà chúng tôi đã cãi nhau."
+      },
+      {
+        "japanese": "この駅では、発車ベルがうるさいという苦情が出たことから、ベルの代わりに音楽を使うようになった。",
+        "romaji": "Kono eki de wa, hassha beru ga urusai to iu kujou ga deta koto kara, beru no kawari ni ongaku o tsukau you ni natta.",
+        "vietnamese": "Ở nhà ga này, vì đã có những than phiền rằng chuông báo tàu xuất phát quá ồn nên người ta đã sử dụng âm nhạc thay cho tiếng chuông."
+      },
+      {
+        "japanese": "発掘調査で指輪やネックレスが発見されたことから、この墓は身分の高い人のものだと考えられる。",
+        "romaji": "Hakkutsu chousa de yubiwa ya nekkuresu ga hakken sareta koto kara, kono haka wa mibun no takai hito no mono da to kangaerareru.",
+        "vietnamese": "Vì nhẫn và vòng cổ được tìm thấy qua cuộc điều tra khai quật nên ngôi mộ này được cho là của người có thân phận xã hội cao."
+      }
+    ],
+    "notes": [
+      "Biểu đạt rằng nội dung ở「～」là lí do, nguyên nhân",
+      "Cách nói mang sắc thái cứng chủ yếu được sử dụng trong văn viết",
+      "Vế sau có thể là sự thật hoặc phán đoán của người nói"
+    ]
+  },
+  {
+    "id": "zaru-wo-enai",
+    "title": "ざるを得ない",
+    "description": "「～ざるを得ない」biểu đạt ý nghĩa rằng \"dù không muốn làm「～」, nhưng vì các lí do như do hoàn cảnh, do tình thế, v.v.. nên không thể tránh làm「～」\". Với hình thức「～ざるを得なかった」như được sử dụng ở ví dụ ② thì nó có ý nghĩa là \"vì không thể tránh được nên thự tế đã làm「～」\". Tuy đây là cách nói mang sắc thái hơi cứng nhưng nó không chỉ được sử dụng trong văn viết mà cả trong văn nói.",
+    "structure": "V thể ない + ざるを得ない\n(＊「する」→「せざるを得ない」)",
+    "examples": [
+      {
+        "japanese": "熱が３９度もある。今日は大事な会議があるが、休まざるを得ない。",
+        "romaji": "Netsu ga 39 do mo aru. Kyou wa daiji na kaigi ga aru ga, yasumazaru wo enai.",
+        "vietnamese": "Tôi bị sốt cao đến 39 độ. Hôm nay tôi có một cuộc họp quan trọng nhưng tôi buộc phải nghỉ ở nhà."
+      },
+      {
+        "japanese": "頂上まであと少しのところで吹雪に遭い、引き返さざるを得ない。",
+        "romaji": "Choujou made ato sukoshi no tokoro de fubuki ni ai, hikikaesazaru wo enai.",
+        "vietnamese": "Khi chỉ còn một chút nữa là đến đỉnh núi thì chúng tôi đã gặp bão tuyết và buộc phải quay trở xuống."
+      },
+      {
+        "japanese": "参加者が予想よりはるかに少なかった。残念だが、今日のイベントは失敗だと言わざるを得ない。",
+        "romaji": "Sankasha ga yosou yori haruka ni sukunakatta. Zannen da ga, kyou no ibento wa shippai da to iwazaru wo enai.",
+        "vietnamese": "Số người tham dự ít hơn rất nhiều so với dự đoán. Thật đáng tiếc, nhưng tôi buộc phải nói rằng sự kiện hôm nay đã thất bại."
+      }
+    ],
+    "notes": [
+      "Biểu đạt ý nghĩa \"dù không muốn làm「～」, nhưng vì các lí do như do hoàn cảnh, do tình thế, v.v.. nên không thể tránh làm「～」\"",
+      "「する」→「せざるを得ない」",
+      "Có thể sử dụng cả trong văn viết và văn nói"
+    ]
+  },
+  {
+    "id": "te-hajimete",
+    "title": "てはじめて",
+    "description": "Cấu trúc「XてはじめてY」biểu đạt ý nghĩa rằng \"sau X thì (cuối cùng) Y xảy ra\". Cấu trúc này được sử dụng khi muốn nói với ý \"để Y xảy ra thì X là cần thiết\".",
+    "structure": "V thể て + はじめて",
+    "examples": [
+      {
+        "japanese": "子供を持ってはじめて親のありがたさがわかった。",
+        "romaji": "Kodomo o motte hajimete oya no arigatasa ga wakatta.",
+        "vietnamese": "Sau khi có con rồi tôi mới thấu hiểu công ơn của cha mẹ."
+      },
+      {
+        "japanese": "就職して初めてお金を稼ぐことの大変さを知りました。",
+        "romaji": "Shuushoku shite hajimete okane o kasegu koto no taihen sa o shirimashita.",
+        "vietnamese": "Sau khi đi làm thì tôi mới biết được sự vất vả của việc kiếm tiền."
+      }
+    ],
+    "notes": [
+      "Biểu đạt ý nghĩa \"sau X thì (cuối cùng) Y xảy ra\"",
+      "Được sử dụng khi muốn nói với ý \"để Y xảy ra thì X là cần thiết\""
+    ]
+  },
+  {
+    "id": "ttara",
+    "title": "ったら",
+    "description": "「～ったら」được dùng để biểu đạt cảm xúc như ngạc nhiên, bất ngờ, hoặc phê bình về một người hoặc một sự việc nào đó.",
+    "structure": "N + ったら",
+    "examples": [
+      {
+        "japanese": "林さんったら、海外出張なのにパスポートを忘れて、飛行機に乗れなかったのよ。",
+        "romaji": "Hayashi-san ttara, kaigai shucchou na no ni pasupooto o wasurete, hikouki ni norenakatta no yo.",
+        "vietnamese": "Chị Hayashi vì quên hộ chiếu đi công tác nước ngoài nên không thể lên máy bay đấy."
+      }
+    ],
+    "notes": [
+      "Được dùng để biểu đạt cảm xúc như ngạc nhiên, bất ngờ, hoặc phê bình",
+      "Thường dùng trong hội thoại thân mật"
+    ]
+  },
+  {
+    "id": "ni-shite-wa",
+    "title": "にしては",
+    "description": "「XにしてはY」biểu thị ý nghĩa \"là Y, khác với mức độ dự đoán từ tiền đề X\". Nội dung ở Y có thể là điều tốt có thể là điều không tốt. Vì X dẫu sao cũng chỉ là tiền đề nên cách nói này có thể sử dụng cả khi không rõ thực tế có đúng như vậy hay không.",
+    "structure": "（１）Ｎ ＋ にしては\n（２）thể thông thường + にしては\n　　　　な A　ーだ　→　ーである\n　　　　Ｎ　　ーだ　→　ー／ーである",
+    "examples": [
+      {
+        "japanese": "彼女のピアノの腕は素人にしては相当のものだ。",
+        "romaji": "Kanojo no piano no ude wa shirouto ni shite wa soutou no mono da.",
+        "vietnamese": "Kỹ năng chơi đàn piano của cô ấy là không tồi nếu là với dân a-ma-tơ."
+      },
+      {
+        "japanese": "このレポートは一晩で書いたにしてはよくできている。",
+        "romaji": "Kono repooto wa hitoban de kaita ni shite wa yoku dekite iru.",
+        "vietnamese": "Bài báo cáo này được thực hiện rất tốt nếu xét rằng nó đã được viết trong một đêm."
+      },
+      {
+        "japanese": "スペイン語は半年ほど独学しただけです。\n…そうですか。それにしてはお上手ですね。",
+        "romaji": "Supeingo wa hantoshi hodo dokugaku shita dake desu.\n...Sou desu ka. Sore ni shite wa ojouzu desu ne.",
+        "vietnamese": "Tôi chỉ tự học tiếng Tây Ban Nha trong khoảng nửa năm.\n...Thế à. Nếu là thế thì anh quá giỏi nhỉ."
+      },
+      {
+        "japanese": "お父さん、残業にしては遅すぎるよ。飲みに行っているのかもしれないね。",
+        "romaji": "Otousan, zangyou ni shite wa ososugiru yo. Nomi ni itte iru no kamo shirenai ne.",
+        "vietnamese": "Bố kể cả có làm thêm giờ thì cũng quá trễ rồi. Có thể bố đang đi uống rượu ấy nhỉ."
+      }
+    ],
+    "notes": [
+      "Biểu thị ý nghĩa \"là Y, khác với mức độ dự đoán từ tiền đề X\"",
+      "Nội dung ở Y có thể là điều tốt có thể là điều không tốt",
+      "Có thể sử dụng cả khi không rõ thực tế có đúng như vậy hay không"
+    ]
+  },
+  {
+    "id": "kara-niwa",
+    "title": "からには",
+    "description": "「XからにはY」Biểu thị ý nghĩa rằng \"vì X nên đương nhiên Y\". Ở Y thường là các từ ngữ biểu đạt ý nghĩa mệnh lệnh, nghĩa vụ, ý chí, mong muốn, v.v... Cách nói này không được sử dụng trong câu biểu thị sự thật đã xảy ra từ trước.",
+    "structure": "Ｖ　thể thông thường + からには\nＮ　thể thông thường\n　　　ーだ　→　である",
+    "examples": [
+      {
+        "japanese": "大学院に入ったからには、どんなに大変でも、学位を取って国へ帰りたい。",
+        "romaji": "Daigakuin ni haitta kara niwa, donnani taihen demo, gakui o totte kuni e kaeritai.",
+        "vietnamese": "Một khi đã vào cao học thì cho dù có vất vả thế nào đi nữa tôi cũng muốn lấy học vị rồi về nước."
+      },
+      {
+        "japanese": "私は負けず嫌いだ。ゲームでも何でも、やるからには勝たなければならないと思う。",
+        "romaji": "Watashi wa makezugirai da. Geemu demo nan demo, yaru kara niwa katanakereba naranai to omou.",
+        "vietnamese": "Tôi là người hiếu thắng. Dù là game hay thứ gì, một khi đã chơi thì tôi nghĩ mình phải chiến thắng."
+      },
+      {
+        "japanese": "日本での就職を目指すからには、敬語はしっかり勉強しておいたほうがいい。",
+        "romaji": "Nihon de no shuushoku o mezasu kara niwa, keigo wa shikkari benkyou shite oita hou ga ii.",
+        "vietnamese": "Một khi bạn muốn xin việc ở Nhật Bản thì bạn nên học tốt kính ngữ."
+      }
+    ],
+    "notes": [
+      "Biểu thị ý nghĩa \"vì X nên đương nhiên Y\"",
+      "Ở Y thường là các từ ngữ biểu đạt ý nghĩa mệnh lệnh, nghĩa vụ, ý chí, mong muốn",
+      "Không được sử dụng trong câu biểu thị sự thật đã xảy ra từ trước"
+    ]
+  },
+  {
+    "id": "desho",
+    "title": "でしょ",
+    "description": "「Xだろう」được dùng với ngữ điệu đi lên là cách nói để xác nhận nội dung X với đối phương. Trường hợp đối phương không nhận thức về X thì đây là cách nói yêu cầu đối phương nhận thức nó với ý phê bình, là mắng. Ngoài hình thức lịch sự là「でしょう」thì trong hội thoại sẽ trở thành「でしょ」、「でしょっ」、「だろ」、「だろっ」,v.v...",
+    "structure": "Thể thông thường + でしょ。\nなA và N　ーだ",
+    "examples": [
+      {
+        "japanese": "１０時だ。子供はもう寝る時間だろう。歯を磨いて、ベッドに入りなさい。",
+        "romaji": "10 ji da. Kodomo wa mou neru jikan darou. Ha o migaite, beddo ni hairinasai.",
+        "vietnamese": "10 giờ rồi. Đến giờ trẻ con đi ngủ rồi, đúng không? Con hãy đánh răng rồi vào giường ngủ đi."
+      },
+      {
+        "japanese": "優太、そんなところに立ってたら邪魔になるでしょ。こっちへいらっしゃい。",
+        "romaji": "Yuuta, sonna tokoro ni tattetara jama ni naru desho. Kocchi e irasshai.",
+        "vietnamese": "Yuta, con không thấy là con đứng đó thì sẽ gây cản trở à? Con hãy lại đằng này đi."
+      },
+      {
+        "japanese": "飲みに行こうって誘ったのは君だろ。今日になってキャンセルなんて、ひどいよ。",
+        "romaji": "Nomi ni ikou tte sasotta no wa kimi daro. Kyou ni natte kyanseru nante, hidoi yo.",
+        "vietnamese": "Chẳng phải anh là người đã rủ chúng ta đi uống rượu sao? Đến hôm nay lại nói thôi, thật là tệ đấy."
+      }
+    ],
+    "notes": [
+      "Được dùng với ngữ điệu đi lên là cách nói để xác nhận nội dung X với đối phương",
+      "Trường hợp đối phương không nhận thức về X thì đây là cách nói yêu cầu đối phương nhận thức nó với ý phê bình, là mắng",
+      "Trong hội thoại sẽ trở thành「でしょ」、「でしょっ」、「だろ」、「だろっ」"
+    ]
+  }
+]

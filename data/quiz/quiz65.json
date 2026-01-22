@@ -1,0 +1,362 @@
+[
+  {
+    "id": 1,
+    "question": "<p><ruby>説明文<rp>(</rp><rt>せつめいぶん</rt><rp>)</rp></ruby>のベトナム語の意味はどれですか。</p>",
+    "options": [
+      "câu văn giải thích",
+      "luận văn",
+      "khoa học xã hội",
+      "thuật ngữ, từ chuyên môn"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 1
+  },
+  {
+    "id": 2,
+    "question": "<p>「<ruby>謙遜<rp>(</rp><rt>けんそん</rt><rp>)</rp></ruby>する」の意味はどれですか。</p>",
+    "options": [
+      "khiêm nhường, khiêm tốn",
+      "tổ chức",
+      "phân công",
+      "triển khai"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 1
+  },
+  {
+    "id": 3,
+    "question": "<p><ruby>行列<rp>(</rp><rt>ぎょうれつ</rt><rp>)</rp></ruby>の意味として一番近いものはどれですか。</p>",
+    "options": [
+      "hàng",
+      "tập đoàn, đoàn thể",
+      "văn phòng chi nhánh",
+      "các quốc gia, các nước"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 1
+  },
+  {
+    "id": 4,
+    "question": "<p>「<ruby>ご存じ<rp>(</rp><rt>ごぞんじ</rt><rp>)</rp></ruby>」はどんな表現ですか。</p>",
+    "options": [
+      "kính ngữ của「知っている」",
+      "khiêm nhường ngữ của「知っている」",
+      "kính ngữ của「行く」",
+      "khiêm nhường ngữ của「言う」"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 2
+  },
+  {
+    "id": 5,
+    "question": "<p>「<ruby>行き来<rp>(</rp><rt>ゆきき</rt><rp>)</rp></ruby>する」のベトナム語の意味はどれですか。</p>",
+    "options": [
+      "đi đi lại lại",
+      "di chuyển",
+      "chạy quanh",
+      "di chuyển vòng quanh, bò quanh"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 1
+  },
+  {
+    "id": 6,
+    "question": "<p>つぎのうち、「<ruby>能率<rp>(</rp><rt>のうりつ</rt><rp>)</rp></ruby>」の説明として正しいものはどれですか。</p>",
+    "options": [
+      "năng suất",
+      "tỉ lệ",
+      "tuổi thọ",
+      "lợi ích"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 1
+  },
+  {
+    "id": 7,
+    "question": "<p>「<ruby>徐々に<rp>(</rp><rt>じょじょに</rt><rp>)</rp></ruby>」の意味はどれですか。</p>",
+    "options": [
+      "từ từ, dần dần",
+      "vừa đúng",
+      "sâu sắc",
+      "cùng với"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 1
+  },
+  {
+    "id": 8,
+    "question": "<p>つぎの文の（　）に入れるのに一番よいものはどれですか。<br/>「LED<ruby>電球<rp>(</rp><rt>でんきゅう</rt><rp>)</rp></ruby>は<ruby>寿命<rp>(</rp><rt>じゅみょう</rt><rp>)</rp></ruby>が長く、<ruby>省エネ<rp>(</rp><rt>しょうエネ</rt><rp>)</rp></ruby>性能で<ruby>優れて<rp>(</rp><rt>すぐれて</rt><rp>)</rp></ruby>いるという（　）。」</p>",
+    "options": [
+      "説明を<ruby>聞いた<rp>(</rp><rt>きいた</rt><rp>)</rp></ruby>",
+      "現象に<ruby>関する<rp>(</rp><rt>かんする</rt><rp>)</rp></ruby>",
+      "好意に<ruby>甘える<rp>(</rp><rt>あまえる</rt><rp>)</rp></ruby>",
+      "庭に<ruby>織物<rp>(</rp><rt>おりもの</rt><rp>)</rp></ruby>"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 2
+  },
+  {
+    "id": 9,
+    "question": "<p>「<ruby>に関する<rp>(</rp><rt>にかんする</rt><rp>)</rp></ruby>」の意味として正しいものはどれですか。</p>",
+    "options": [
+      "về, liên quan đến",
+      "thay vì",
+      "mặc dù",
+      "giống như"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 2
+  },
+  {
+    "id": 10,
+    "question": "<p>「<ruby>環境問題<rp>(</rp><rt>かんきょうもんだい</rt><rp>)</rp></ruby>」に関する会議が<ruby>東京<rp>(</rp><rt>とうきょう</rt><rp>)</rp></ruby>で開かれた、という文で使われている文型はどれですか。</p>",
+    "options": [
+      "N + に関する",
+      "N + たびに",
+      "N + だけじゃなく",
+      "N + のではないか"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 2
+  },
+  {
+    "id": 11,
+    "question": "<p>つぎのうち、「<b>たびに</b>」の使い方として最も自然な文はどれですか。</p>",
+    "options": [
+      "地元の<ruby>老舗<rp>(</rp><rt>しにせ</rt><rp>)</rp></ruby>の店に行くたびに、新しい<ruby>織物<rp>(</rp><rt>おりもの</rt><rp>)</rp></ruby>を<ruby>注文<rp>(</rp><rt>ちゅうもん</rt><rp>)</rp></ruby>してしまう。",
+      "地元の老舗の店に行くたび、織物を注文という。",
+      "地元の老舗の店に行くたびは、織物を注文だ。",
+      "地元の老舗の店に行ったたびに、織物を注文する。"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 2
+  },
+  {
+    "id": 12,
+    "question": "<p>「<b>わけではない</b>」の意味として一番近いものはどれですか。</p>",
+    "options": [
+      "không hẳn là như thế",
+      "hoàn toàn đúng như thế",
+      "chắc chắn không thể",
+      "dù thế nào đi nữa"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 2
+  },
+  {
+    "id": 13,
+    "question": "<p>つぎの文の（　）に入るのはどれですか。<br/>「この店は人気があるが、毎日<ruby>大勢<rp>(</rp><rt>おおぜい</rt><rp>)</rp></ruby>の客が入る（　）。」</p>",
+    "options": [
+      "わけではない",
+      "のではないか",
+      "という",
+      "だけじゃなく"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 2
+  },
+  {
+    "id": 14,
+    "question": "<p>「<b>のではないか</b>」の説明として正しいものはどれですか。</p>",
+    "options": [
+      "diễn đạt phỏng đoán, chưa chắc chắn",
+      "diễn đạt nguyên nhân chắc chắn",
+      "diễn đạt mệnh lệnh mạnh",
+      "diễn đạt thói quen lặp lại"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 2
+  },
+  {
+    "id": 15,
+    "question": "<p>つぎの文の（　）に入るのはどれですか。<br/>「<ruby>鈴木氏<rp>(</rp><rt>すずきし</rt><rp>)</rp></ruby>は今度の<ruby>選挙<rp>(</rp><rt>せんきょ</rt><rp>)</rp></ruby>に出る（　）。」</p>",
+    "options": [
+      "のではないか",
+      "わけではない",
+      "ほどのものじゃない",
+      "だけじゃなく"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 2
+  },
+  {
+    "id": 16,
+    "question": "<p>「<b>だけじゃなく</b>」の意味として正しいものはどれですか。</p>",
+    "options": [
+      "không chỉ X mà còn Y",
+      "dù X nhưng Y",
+      "nếu X thì luôn Y",
+      "vì X nên Y trái ngược"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 1
+  },
+  {
+    "id": 17,
+    "question": "<p>つぎの文の（　）に入るのはどれですか。<br/>「この店はパンを売る（　）、パンの作り方教室も開いている。」</p>",
+    "options": [
+      "だけじゃなくて",
+      "わけではなくて",
+      "というほどのものじゃなくて",
+      "のではないかと"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 1
+  },
+  {
+    "id": 18,
+    "question": "<p>「<ruby>法則<rp>(</rp><rt>ほうそく</rt><rp>)</rp></ruby>が<ruby>当たる<rp>(</rp><rt>あたる</rt><rp>)</rp></ruby>」と同じ意味に近いのはどれですか。</p>",
+    "options": [
+      "đúng quy luật",
+      "sai quy luật",
+      "bỏ quy luật",
+      "viết quy luật"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 1
+  },
+  {
+    "id": 19,
+    "question": "<p>「<ruby>能率<rp>(</rp><rt>のうりつ</rt><rp>)</rp></ruby>が<ruby>落ちる<rp>(</rp><rt>おちる</rt><rp>)</rp></ruby>」のベトナム語として一番近いものはどれですか。</p>",
+    "options": [
+      "năng suất giảm",
+      "năng suất tăng",
+      "năng suất giữ nguyên",
+      "năng suất biến mất"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 1
+  },
+  {
+    "id": 20,
+    "question": "<p>「<ruby>成果<rp>(</rp><rt>せいか</rt><rp>)</rp></ruby>を<ruby>あげる<rp>(</rp><rt>あげる</rt><rp>)</rp></ruby>」の意味はどれですか。</p>",
+    "options": [
+      "đạt được thành quả",
+      "khiêm nhường thành quả",
+      "giấu thành quả",
+      "giảm thành quả"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 1
+  },
+  {
+    "id": 21,
+    "question": "<p>つぎのうち、「<ruby>スタープレイヤー<rp>(</rp><rt>スタープレイヤー</rt><rp>)</rp></ruby>」の説明として正しいものはどれですか。</p>",
+    "options": [
+      "cầu thủ nổi tiếng, cầu thủ ngôi sao",
+      "nhân viên kinh doanh",
+      "đầu bếp",
+      "thành viên ban tổ chức"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 1
+  },
+  {
+    "id": 22,
+    "question": "<p>「<ruby>お嬢さん<rp>(</rp><rt>おじょうさん</rt><rp>)</rp></ruby>」はふつうだれをさしますか。</p>",
+    "options": [
+      "con gái của người khác",
+      "con gái của chính mình",
+      "vợ của mình",
+      "mẹ của người khác"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 2
+  },
+  {
+    "id": 23,
+    "question": "<p>つぎのうち、「<ruby>器用<rp>(</rp><rt>きよう</rt><rp>)</rp></ruby>な人」の説明として正しいものはどれですか。</p>",
+    "options": [
+      "khéo kéo",
+      "lười biếng",
+      "trung niên",
+      "khẩn cấp"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 1
+  },
+  {
+    "id": 24,
+    "question": "<p>「<ruby>怠け者<rp>(</rp><rt>なまけもの</rt><rp>)</rp></ruby>」のベトナム語の意味はどれですか。</p>",
+    "options": [
+      "kẻ lười biếng",
+      "kẻ nghiêm túc",
+      "kẻ thông minh",
+      "kẻ khéo léo"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 1
+  },
+  {
+    "id": 25,
+    "question": "<p>「<b>という</b>」が<b>聞いた情報</b>を伝える文として最も自然なのはどれですか。</p>",
+    "options": [
+      "LED電球は寿命が長く、電気代も安いという。",
+      "LED電球は寿命が長く、電気代も安いといえば。",
+      "LED電球は寿命が長く、電気代も安いだけじゃなく。",
+      "LED電球は寿命が長く、電気代も安いわけではない。"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 2
+  },
+  {
+    "id": 26,
+    "question": "<p>つぎのうち、「<b>ほどのものじゃありません</b>」の使い方として正しい文はどれですか。</p>",
+    "options": [
+      "私の<ruby>太鼓<rp>(</rp><rt>たいこ</rt><rp>)</rp></ruby>の腕は<ruby>国民栄誉賞<rp>(</rp><rt>こくみんえいよしょう</rt><rp>)</rp></ruby>をいただくほどのものじゃありません。",
+      "私の太鼓の腕は国民栄誉賞をいただくほどのわけではない。",
+      "私の太鼓の腕は国民栄誉賞をいただくだけじゃなく。",
+      "私の太鼓の腕は国民栄誉賞をいただくのではないか。"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 2
+  },
+  {
+    "id": 27,
+    "question": "<p>「<ruby>共生<rp>(</rp><rt>きょうせい</rt><rp>)</rp></ruby>する」の意味として正しいものはどれですか。</p>",
+    "options": [
+      "cộng sinh, sống chung",
+      "chia sẻ",
+      "di chuyển",
+      "tuyển cử"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 1
+  },
+  {
+    "id": 28,
+    "question": "<p><ruby>ヤドカリ<rp>(</rp><rt>ヤドカリ</rt><rp>)</rp></ruby>と<ruby>イソギンチャク<rp>(</rp><rt>イソギンチャク</rt><rp>)</rp></ruby>の<ruby>関係<rp>(</rp><rt>かんけい</rt><rp>)</rp></ruby>はどの説明がふさわしいですか。</p>",
+    "options": [
+      "共生して、<ruby>利益<rp>(</rp><rt>りえき</rt><rp>)</rp></ruby>を分かち合う",
+      "お互いに<ruby>金儲け<rp>(</rp><rt>かねもうけ</rt><rp>)</rp></ruby>をする",
+      "一方だけが利益をもらう",
+      "どちらも損だけをする"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 2
+  },
+  {
+    "id": 29,
+    "question": "<p>「<ruby>社会科学<rp>(</rp><rt>しゃかいかがく</rt><rp>)</rp></ruby>」や「<ruby>経営<rp>(</rp><rt>けいえい</rt><rp>)</rp></ruby>」はどの<ruby>分野<rp>(</rp><rt>ぶんや</rt><rp>)</rp></ruby>に入りますか。</p>",
+    "options": [
+      "khoa học xã hội",
+      "khoa học tự nhiên",
+      "âm nhạc",
+      "thể thao"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 2
+  },
+  {
+    "id": 30,
+    "question": "<p>「<ruby>賢い<rp>(</rp><rt>かしこい</rt><rp>)</rp></ruby>」のベトナム語の意味はどれですか。</p>",
+    "options": [
+      "thông minh, nhanh nhạy",
+      "khiêm nhường",
+      "kiệt sức",
+      "bí mật"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 1
+  }
+]

@@ -1,0 +1,245 @@
+[
+  {
+    "id": "ni-chigainai",
+    "title": "に違いない",
+    "description": "Đây là cách nói biểu đạt điều mà người nói đoán chắc là đúng. Cách nói này giống với「はずだ」nhưng nếu như「はずだ」biểu đạt sự phán đoán chắc chắn dựa trên sự tính toán, kiến thức, suy luận lô gic, v.v., thì「に違いない」lại biểu đạt sự phán đoán một cách trực cảm.",
+    "structure": "Thể thông thường + に違いない\nなA và N: ーだ→ー／ーである",
+    "examples": [
+      {
+        "japanese": "渡辺さんは時間が守れない人だ。今日もきっと遅れてくるに違いない。",
+        "romaji": "Watanabe-san wa jikan ga mamorenai hito da. Kyou mo kitto okurete kuru ni chigainai.",
+        "vietnamese": "Chị Watanabe là người luôn không đúng giờ. Hôm nay chắc chắn chị ấy cũng sẽ lại đến trễ."
+      },
+      {
+        "japanese": "山本監督の映画ならきっとおもしろいに違いない。",
+        "romaji": "Yamamoto kantoku no eiga nara kitto omoshiroi ni chigainai.",
+        "vietnamese": "Nếu là phim của đạo diễn Yamamoto thì chắc chắn là thú vị."
+      },
+      {
+        "japanese": "あの公園の桜はもう散っているに違いない。",
+        "romaji": "Ano kouen no sakura wa mou chitte iru ni chigainai.",
+        "vietnamese": "Hoa anh đào ở công viên đó chắc chắn đã rụng rồi."
+      },
+      {
+        "japanese": "彼を一目見て、親切な人に違いないと思った。",
+        "romaji": "Kare o hitome mite, shinsetsu na hito ni chigainai to omotta.",
+        "vietnamese": "Nhìn qua anh ấy, tôi thấy rằng anh ấy chắc chắn là người tử tế."
+      }
+    ],
+    "notes": [
+      "Dùng để biểu đạt điều mà người nói đoán chắc là đúng",
+      "Giống với「はずだ」nhưng「に違いない」biểu đạt sự phán đoán trực cảm hơn",
+      "Với なA và N: bỏ だ, dùng である hoặc dạng thông thường",
+      "Không thể dùng với danh từ riêng hoặc từ chỉ một người/vật xác định"
+    ]
+  },
+  {
+    "id": "ni-kurabete",
+    "title": "に比べて",
+    "description": "「XはYに比べて／比べると・・・」là cách nói biểu đạt điều rút ra sau khi so sánh X với Y, và nội dung ở vế sau thường biểu đạt một mức độ nào đó. Cũng có thể dùng cách nói「～より」để thay thế, và ý nghĩa của câu cũng không thay đổi.",
+    "structure": "N + に比べて／比べると",
+    "examples": [
+      {
+        "japanese": "今年は去年に比べて春の来るのが遅かった。",
+        "romaji": "Kotoshi wa kyonen ni kurabete haru no kuru no ga osokatta.",
+        "vietnamese": "So với năm ngoái thì năm nay mùa xuân đã đến muộn hơn."
+      },
+      {
+        "japanese": "電子辞書で調べたことは紙の辞書に比べると記憶に残りにくい気がする。",
+        "romaji": "Denshi jisho de shirabeta koto wa kami no jisho ni kuraberu to kioku ni nokori nikui ki ga suru.",
+        "vietnamese": "Tôi có cảm giác rằng so với việc tra cứu bằng từ điển giấy thì tra cứu bằng kim từ điển khó nhớ vào đầu hơn."
+      },
+      {
+        "japanese": "郊外は都心に比べて緑が多い。",
+        "romaji": "Kougai wa toshin ni kurabete midori ga ooi.",
+        "vietnamese": "So với khu vực trung tâm thì vùng ngoại ô có nhiều cây xanh hơn."
+      }
+    ],
+    "notes": [
+      "Dùng để so sánh X với Y",
+      "Có thể dùng「～より」để thay thế với ý nghĩa tương tự",
+      "Nội dung ở vế sau thường biểu đạt một mức độ nào đó",
+      "Có thể dùng cả「に比べて」và「比べると」"
+    ]
+  },
+  {
+    "id": "mono-da",
+    "title": "ものだ",
+    "description": "(1)「XはYものだ」là cách nói để biểu đạt bản chất hoặc khuynh hướng của X. Trong văn nói sẽ trở thành「もんだ」. (2)「～ものだ」còn có cách dùng khác để biểu đạt trạng thái lý tưởng hoặc hành vi vốn dĩ phải làm. Nét nghĩa này sẽ gần với「～べきだ」.",
+    "structure": "V thể nguyên dạng / V thể ない / いA / なAーな + ものだ",
+    "examples": [
+      {
+        "japanese": "人は変わるものだ。",
+        "romaji": "Hito wa kawaru mono da.",
+        "vietnamese": "Con người luôn thay đổi."
+      },
+      {
+        "japanese": "お金って、なかなかたまらないもんですね。",
+        "romaji": "Okane tte, nakanaka tamaranai mon desu ne.",
+        "vietnamese": "Tiền bạc là thứ khó để tiết kiệm nhỉ?"
+      },
+      {
+        "japanese": "日本で日常的に使われる漢字は２，０００字以上ある。１年や２年で覚えられるものではない。",
+        "romaji": "Nihon de nichijouteki ni tsukawareru kanji wa ni-sen ji ijou aru. Ichinen ya ninen de oboerareru mono dewa nai.",
+        "vietnamese": "Trong tiếng Nhật, số chữ Hán được sử dụng hàng ngày có trên 2,000 chữ. Đấy không phải là thứ có thể nhớ được trong 1, 2 năm."
+      },
+      {
+        "japanese": "学生は勉強するものだ。",
+        "romaji": "Gakusei wa benkyou suru mono da.",
+        "vietnamese": "Sinh viên là phải học."
+      },
+      {
+        "japanese": "出された食事は残すものではない。",
+        "romaji": "Dasareta shokuji wa nokosu mono dewa nai.",
+        "vietnamese": "Thức ăn được bà ra không phải là thứ để thừa lại."
+      }
+    ],
+    "notes": [
+      "Dùng để biểu đạt bản chất hoặc khuynh hướng của X",
+      "Trong văn nói sẽ trở thành「もんだ」",
+      "Không thể dùng với danh từ riêng hoặc từ chỉ một người/vật xác định",
+      "Có hai cách phủ định:「～ものではない」và「～ないものだ」",
+      "Còn có cách dùng để biểu đạt trạng thái lý tưởng hoặc hành vi vốn dĩ phải làm, gần với「～べきだ」"
+    ]
+  },
+  {
+    "id": "ta-discovery",
+    "title": "～た",
+    "description": "Hình thức quá khứ như thế này của「いた」、「あった」、「見えた」、v.v.. được dùng để biểu đạt việc đã tìm ra vật đang tìm kiếm hoặc việc chú ý đến trạng thái mà trước nay đã không để ý đến.",
+    "structure": "V thể た (いた、あった、見えた、etc.)",
+    "examples": [
+      {
+        "japanese": "チロ！チロ！どこにいるんだ。おー、いた、いた。こんなとこにいたのか。",
+        "romaji": "Chiro! Chiro! Doko ni irun da. Oo, ita, ita. Konna toko ni ita no ka.",
+        "vietnamese": "Chiro! Chiro! Mày ở đâu? Ôi, thấy mày rồi. Mày đã ở đây à."
+      },
+      {
+        "japanese": "ほら、見てごらん。あそこに小さな島が見えるだろう。・・・ええ？どこ？見えないよ。あ、見えた。あれ？",
+        "romaji": "Hora, mite goran. Asoko ni chiisana shima ga mieru darou. ... Ee? Doko? Mienai yo. A, mieta. Are?",
+        "vietnamese": "Này, cậu thử nhìn đi. Cậu thấy một hòn đảo nhỏ ở đằng kia chứ? Hả? Ở đâu cơ? Tớ không thấy đâu. À, thấy rồi. Kia hả?"
+      }
+    ],
+    "notes": [
+      "Dùng để biểu đạt việc đã tìm ra vật đang tìm kiếm",
+      "Dùng để chú ý đến trạng thái mà trước nay đã không để ý đến",
+      "Thường dùng với các động từ như いる、ある、見える",
+      "Thể hiện sự phát hiện hoặc nhận ra điều gì đó"
+    ]
+  },
+  {
+    "id": "datte-mono",
+    "title": "だって～もの",
+    "description": "「だって、・・・もの」Là cách nói biểu đạt lý do, và nó được dùng khi người nói muốn nhấn mạnh tính chính đáng của bản thân hoặc khi phân trần, bao biện. Đây là cách nói bỗ bã nên không thể dùng trong tình huống hội thoại lịch sự.",
+    "structure": "だって + ... + もの",
+    "examples": [
+      {
+        "japanese": "どうしてケータイばかり見ているの？・・・だって、することがないんだもの。",
+        "romaji": "Doushite keetai bakari mite iru no? ... Datte, suru koto ga nain da mono.",
+        "vietnamese": "Tại sao em cứ xem điện thoại mãi thế? ...Thì có gì để làm đâu."
+      },
+      {
+        "japanese": "どうしてうそをついたの？・・・だって、誰も僕の言うことを聞いてくれないんだもん。",
+        "romaji": "Doushite uso o tsuita no? ... Datte, dare mo boku no iu koto o kiite kurenain da mon.",
+        "vietnamese": "Tại sao em lại nói dối? ...Vì có ai thèm nghe những gì em nói đâu."
+      }
+    ],
+    "notes": [
+      "Dùng để biểu đạt lý do khi muốn nhấn mạnh tính chính đáng của bản thân",
+      "Dùng khi phân trần, bao biện",
+      "Đây là cách nói bỗ bã, không thể dùng trong tình huống hội thoại lịch sự",
+      "Thường dùng trong hội thoại thân mật"
+    ]
+  },
+  {
+    "id": "ta-tokorode",
+    "title": "たところで",
+    "description": "Cấu trúc「ＸたところでＹ」biểu thị ý nghĩa「もしＸてもＹ (kết quả không tốt) になる」. Nó được dùng khi muốn nói「Ｘする必要はない」.",
+    "structure": "V thể た + ところで",
+    "examples": [
+      {
+        "japanese": "いくら状況を説明したところで、警察は信じないだろう。",
+        "romaji": "Ikura joukyou o setsumei shita tokorode, keisatsu wa shinjinai darou.",
+        "vietnamese": "Dù anh có giải thích với cảnh sát bao nhiêu đi nữa thị họ cũng sẽ không tin đâu."
+      },
+      {
+        "japanese": "きれいに片づけたところで、子供がすぐ散らかすんだから意味がないよ。",
+        "romaji": "Kirei ni katadzuketa tokorode, kodomo ga sugu chirakasun da kara imi ga nai yo.",
+        "vietnamese": "Dù có dọn sách sẽ thì bọn trẻ cũng sẽ xả bừa ra ngay nên không có ý nghĩa đâu."
+      }
+    ],
+    "notes": [
+      "Biểu thị ý nghĩa「もしＸてもＹ (kết quả không tốt) になる」",
+      "Được dùng khi muốn nói「Ｘする必要はない」",
+      "Thường dùng để thể hiện sự vô ích hoặc không cần thiết của hành động",
+      "Kết quả thường là tiêu cực hoặc không có ý nghĩa"
+    ]
+  },
+  {
+    "id": "datte-emphasis",
+    "title": "だって",
+    "description": "Cấu trúc「ＸだってＹ」được dùng khi muốn biểu đạt điều trái với dự đoán「ＸであればＹではないだろう」. Ngoài ra, cách nói này còn được sử dụng để liệt kê nhiều nội dung hoặc nhấn mạnh nội dung tương ứng của X ở Y.",
+    "structure": "N / N + trợ từ cách + だって",
+    "examples": [
+      {
+        "japanese": "日本語は漢字が難しいかもしれないけど、韓国語だって発音が難しい。",
+        "romaji": "Nihongo wa kanji ga muzukashii kamo shirenai kedo, Kankokugo datte hatsuon ga muzukashii.",
+        "vietnamese": "Có thể chữ hán trong tiếng Nhật khó, nhưng kể cả tiếng Hàn phát âm cũng khó."
+      },
+      {
+        "japanese": "鈴木さんはスポーツ得意だから、サッカーだって野球だって何でもできない。",
+        "romaji": "Suzuki-san wa supootsu tokui da kara, sakkaa datte yakyuu datte nan demo dekinai.",
+        "vietnamese": "Anh Suzuki rất giỏi thể thao nên cả bóng đá, cả bóng chày, thứ gì anh ấy cũng đều chơi được."
+      },
+      {
+        "japanese": "父は毎朝早く仕事に出かけます。今日だって朝６時に家を出ました。",
+        "romaji": "Chichi wa maiasa hayaku shigoto ni dekakemasu. Kyou datte asa roku-ji ni ie o demashita.",
+        "vietnamese": "Bố tôi mỗi sáng đề đi làm sớm. Ngay như hôm nay ông đã ra khỏi nhà lúc 6 giờ."
+      }
+    ],
+    "notes": [
+      "Dùng để biểu đạt điều trái với dự đoán",
+      "Có thể dùng để liệt kê nhiều nội dung",
+      "Có thể dùng để nhấn mạnh nội dung tương ứng",
+      "Thường dùng trong hội thoại thân mật"
+    ]
+  },
+  {
+    "id": "koso",
+    "title": "こそ",
+    "description": "「XこそY」là cách nói nhấn mạnh rằng「ほかのものではなくXがYだ」. Ở vế X, ngoài danh từ chỉ người, vật thì còn có nhiều biểu hiện khác như \"danh từ + trợ từ cách\",「～て」biểu thị trạng thái, hay「～から」biểu thị lý do, v.v..",
+    "structure": "N / N + trợ từ cách (に・で) / V thể て / thể thông thường + から + こそ",
+    "examples": [
+      {
+        "japanese": "どうぞよろしくお願いいたします。・・・こちらこそどうぞよろしく。",
+        "romaji": "Douzo yoroshiku onegai itashimasu. ... Kochira koso douzo yoroshiku.",
+        "vietnamese": "Rất hân hạnh được gặp anh. Chính tôi mới là người hân hạnh được gặp anh."
+      },
+      {
+        "japanese": "ずいぶん長いことお祈りしていたね、・・・今年こそ、いい人に出会えますようにってお願いしてたの。",
+        "romaji": "Zuibun nagai koto o inori shite ita ne, ... Kotoshi koso, ii hito ni deaemasu you ni tte onegai shiteta no.",
+        "vietnamese": "Chị đã cầu nguyện trong một thời gian dài rồi đấy nhỉ? Tôi đã cầu nguyện để ngay trong năm nay tôi gặp được người tốt."
+      },
+      {
+        "japanese": "この本は子供向けだが、逆に、大人にこそ読んでもらいたい。",
+        "romaji": "Kono hon wa kodomomuke da ga, gyaku ni, otona ni koso yonde moraitai.",
+        "vietnamese": "Cuốn sách này là dành cho trẻ em, nhưng ngược lại tôi thực sự muốn người lớn đọc nó."
+      },
+      {
+        "japanese": "どんな言語もコミュニケーションに使えてこそ意味があるのであって、試験に合格しても実際に使えなければ意味がありません。",
+        "romaji": "Donna gengo mo komyunikeeshon ni tsukaete koso imi ga aru no de atte, shiken ni goukaku shite mo jissai ni tsukaenakereba imi ga arimasen.",
+        "vietnamese": "Ngôn ngữ nào cũng vậy, nó chỉ thực sự có ý nghĩa khi có thể dùng để giao tiếp. Dù bạn có thi đỗ kỳ thi mà không dùng được trong thực tế thì cũng không có ý nghĩa."
+      },
+      {
+        "japanese": "あの人が嫌いなのではない。好きだからこそ冷たい態度をとってしまうのだ。",
+        "romaji": "Ano hito ga kirai na no dewa nai. Suki da kara koso tsumetai taido o totte shimau no da.",
+        "vietnamese": "Chẳng phải tôi ghét anh ấy. Chẳng qua là chính vì tôi thích anh ấy nên tôi mới tỏ ra lạnh lùng thế."
+      }
+    ],
+    "notes": [
+      "Dùng để nhấn mạnh rằng「ほかのものではなくXがYだ」",
+      "Có thể dùng với danh từ, danh từ + trợ từ cách, V thể て, hoặc thể thông thường + から",
+      "Thường dùng để nhấn mạnh tính đặc biệt hoặc quan trọng của X",
+      "Có thể dùng trong nhiều ngữ cảnh khác nhau"
+    ]
+  }
+]

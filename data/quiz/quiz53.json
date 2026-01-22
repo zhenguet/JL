@@ -1,0 +1,302 @@
+[
+  {
+    "id": 1,
+    "question": "<b>インタビューする</b>",
+    "options": [
+      "phỏng vấn",
+      "đào tạo",
+      "đi làm",
+      "điều tra"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 1
+  },
+  {
+    "id": 2,
+    "question": "<b><ruby>担当<rp>（</rp><rt>たんとう</rt><rp>）</rp></ruby>する</b>",
+    "options": [
+      "giảm",
+      "phụ trách, chịu trách nhiệm",
+      "chuyển nhà",
+      "về nước"
+    ],
+    "correctAnswer": 1,
+    "difficulty": 1
+  },
+  {
+    "id": 3,
+    "question": "<b>アルバイト<ruby>先<rp>（</rp><rt>さき</rt><rp>）</rp></ruby></b>",
+    "options": [
+      "nơi làm thêm",
+      "nơi đào tạo",
+      "phòng họp",
+      "phòng máy tính"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 1
+  },
+  {
+    "id": 4,
+    "question": "<b><ruby>研修<rp>（</rp><rt>けんしゅう</rt><rp>）</rp></ruby></b>",
+    "options": [
+      "đào tạo",
+      "thảo luận",
+      "khu rừng",
+      "tắc đường"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 1
+  },
+  {
+    "id": 5,
+    "question": "<b>けんしゅう</b>",
+    "options": [
+      "研修",
+      "減らす",
+      "景気",
+      "寝坊する"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 2
+  },
+  {
+    "id": 6,
+    "question": "<b>ひっこす</b>",
+    "options": [
+      "引っこす",
+      "引っ越す",
+      "減っこす",
+      "研っこす"
+    ],
+    "correctAnswer": 1,
+    "difficulty": 2
+  },
+  {
+    "id": 7,
+    "question": "<b>けいき</b>",
+    "options": [
+      "敬気",
+      "景気",
+      "軽気",
+      "景記"
+    ],
+    "correctAnswer": 1,
+    "difficulty": 2
+  },
+  {
+    "id": 8,
+    "question": "<b><ruby>減らす<rp>（</rp><rt>へらす</rt><rp>）</rp></ruby></b>",
+    "options": [
+      "tăng",
+      "giảm",
+      "giữ nguyên",
+      "thay đổi"
+    ],
+    "correctAnswer": 1,
+    "difficulty": 1
+  },
+  {
+    "id": 9,
+    "question": "<b><ruby>帰国する<rp>（</rp><rt>きこくする</rt><rp>）</rp></ruby></b>",
+    "options": [
+      "đi công tác",
+      "đi làm",
+      "về nước",
+      "chuyển nhà"
+    ],
+    "correctAnswer": 2,
+    "difficulty": 1
+  },
+  {
+    "id": 10,
+    "question": "<b><ruby>幼稚園<rp>（</rp><rt>ようちえん</rt><rp>）</rp></ruby></b>",
+    "options": [
+      "trường mẫu giáo",
+      "trường tiểu học",
+      "trường trung học",
+      "đại học"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 1
+  },
+  {
+    "id": 11,
+    "question": "<b><ruby>取引先<rp>（</rp><rt>とりひきさき</rt><rp>）</rp></ruby></b>",
+    "options": [
+      "đối tác, khách hàng",
+      "nơi làm thêm",
+      "nơi đào tạo",
+      "văn phòng công ty"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 2
+  },
+  {
+    "id": 12,
+    "question": "<b>わざわざ</b>",
+    "options": [
+      "lúc nào cũng",
+      "nếu được",
+      "chủ ý, cố công",
+      "đột nhiên"
+    ],
+    "correctAnswer": 2,
+    "difficulty": 2
+  },
+  {
+    "id": 13,
+    "question": "<b><ruby>寝坊する<rp>（</rp><rt>ねぼうする</rt><rp>）</rp></ruby></b>",
+    "options": [
+      "ngủ quên",
+      "ngủ trưa",
+      "thức khuya",
+      "ngủ sớm"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 1
+  },
+  {
+    "id": 14,
+    "question": "<b><ruby>渋滞<rp>（</rp><rt>じゅうたい</rt><rp>）</rp></ruby></b>",
+    "options": [
+      "khoảnh khắc",
+      "khu rừng",
+      "tắc đường, kẹt xe",
+      "điều tra"
+    ],
+    "correctAnswer": 2,
+    "difficulty": 2
+  },
+  {
+    "id": 15,
+    "question": "<b><ruby>幸せ<rp>（</rp><rt>しあわせ</rt><rp>）</rp></ruby></b>",
+    "options": [
+      "tình yêu",
+      "hạnh phúc",
+      "ý thức",
+      "hoàn cảnh"
+    ],
+    "correctAnswer": 1,
+    "difficulty": 1
+  },
+  {
+    "id": 16,
+    "question": "<b>（　）ことにしました。</b><p>Tôi đã quyết định sẽ về nước vào năm sau.</p>",
+    "options": [
+      "来年帰国する",
+      "来年帰国している",
+      "来年帰国した",
+      "来年帰国して"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 3
+  },
+  {
+    "id": 17,
+    "question": "<b>～ことにする</b>",
+    "options": [
+      "quyết định (cá nhân) sẽ làm việc gì",
+      "được quyết định từ bên ngoài",
+      "thói quen, quy tắc duy trì từ lâu",
+      "kế hoạch đã được sắp xếp"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 3
+  },
+  {
+    "id": 18,
+    "question": "<b>～ことになる</b>",
+    "options": [
+      "tự mình quyết định",
+      "được／bị quyết định (không do ý chí bản thân)",
+      "diễn tả mong muốn người khác làm gì",
+      "diễn tả thói quen"
+    ],
+    "correctAnswer": 1,
+    "difficulty": 3
+  },
+  {
+    "id": 19,
+    "question": "<b>～ことにしている</b>",
+    "options": [
+      "kế hoạch đã được quyết định",
+      "mong muốn ai đó làm gì",
+      "thói quen, quy tắc do mình đặt ra và duy trì",
+      "dự đoán việc gì sắp xảy ra"
+    ],
+    "correctAnswer": 2,
+    "difficulty": 3
+  },
+  {
+    "id": 20,
+    "question": "<b>～ことになっている</b>",
+    "options": [
+      "thói quen cá nhân",
+      "quy tắc, kế hoạch đã được quy định sẵn",
+      "mong muốn, hi vọng",
+      "dự đoán, dấu hiệu"
+    ],
+    "correctAnswer": 1,
+    "difficulty": 3
+  },
+  {
+    "id": 21,
+    "question": "<b>Vてほしい</b>",
+    "options": [
+      "xin phép để làm V",
+      "muốn người khác làm V",
+      "có vẻ sắp V",
+      "khó mà V được"
+    ],
+    "correctAnswer": 1,
+    "difficulty": 3
+  },
+  {
+    "id": 22,
+    "question": "<b>～ないでほしい</b>",
+    "options": [
+      "muốn người khác đừng làm",
+      "muốn bản thân không làm",
+      "không thể làm",
+      "không muốn làm"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 3
+  },
+  {
+    "id": 23,
+    "question": "<b>Vます + そうだ</b> (ví dụ: <ruby>雨<rp>（</rp><rt>あめ</rt><rp>）</rp></ruby>が<ruby>降<rp>（</rp><rt>ふ</rt><rp>）</rp></ruby>りそうだ)",
+    "options": [
+      "trông có vẻ không A",
+      "dự đoán, dấu hiệu V sắp xảy ra",
+      "quy tắc, kế hoạch",
+      "mong muốn V"
+    ],
+    "correctAnswer": 1,
+    "difficulty": 3
+  },
+  {
+    "id": 24,
+    "question": "<b>Aそうだ</b> (ví dụ: <ruby>楽<rp>（</rp><rt>たの</rt><rp>）</rp></ruby>しそうだ)",
+    "options": [
+      "dự đoán khả năng xảy ra cao",
+      "biểu thị bề ngoài có vẻ A",
+      "diễn tả thói quen",
+      "diễn tả quyết định"
+    ],
+    "correctAnswer": 1,
+    "difficulty": 2
+  },
+  {
+    "id": 25,
+    "question": "<b>Vます + そうもない</b>",
+    "options": [
+      "có vẻ sẽ V",
+      "có vẻ không A",
+      "khó mà V được",
+      "nhất định sẽ V"
+    ],
+    "correctAnswer": 2,
+    "difficulty": 4
+  }
+]

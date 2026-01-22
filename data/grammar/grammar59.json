@@ -1,0 +1,206 @@
+[
+  {
+    "id": "o-masu-desu",
+    "title": "お～ますです",
+    "description": "Dây là hình thức kính ngữ của hình thức「～している」của động từ. Nó được dùng như là kính ngữ khi nói hành động đang diễn ra ở thời điểm hiện tại, hoặc trạng thái kết quả còn lại của một hành động sau khi diễn ra.",
+    "structure": "お～ますです",
+    "examples": [
+      {
+        "japanese": "何をお読みですか。",
+        "romaji": "Nani o oyomi desu ka.",
+        "vietnamese": "Tôi có thể hỏi là anh／chị đang đọc gì đấy không ạ？"
+      },
+      {
+        "japanese": "いい時計をお持ちですか。",
+        "romaji": "Ii tokei o omochi desu ka.",
+        "vietnamese": "Anh／chị có chiếc đồng hồ đẹp quá ạ。"
+      },
+      {
+        "japanese": "時間がおありですか。",
+        "romaji": "Jikan ga oari desu ka.",
+        "vietnamese": "Anh／chị có đang rỗi không ạ？"
+      },
+      {
+        "japanese": "部長は何時にお着きですか。",
+        "romaji": "Buchou wa nanji ni otsuki desu ka.",
+        "vietnamese": "Mấy giờ thì trưởng phòng sẽ đến ạ？"
+      }
+    ],
+    "notes": [
+      "Hình thức kính ngữ của「～している」",
+      "Dùng cho hành động đang diễn ra hoặc trạng thái kết quả",
+      "Động từ đi, đến có thể dùng cho tương lai hoặc quá khứ tùy hoàn cảnh",
+      "Một số động từ có hình thức đặc biệt: 行く・いる・来る → おいでです、来る → お越しです・お見えです、食べる → お召し上がりです、着る → お召しです、寝る → おやすみです、住んでいる → お住まいです、知っている → ご存じですか"
+    ]
+  },
+  {
+    "id": "te-mo-kamawanai",
+    "title": "～てもかまわない",
+    "description": "「～てもかまわない」biểu thị sự chấp nhận, cho phép làm việc gì đó. Khi là câu nghi vấn thì nó là cách nói để xin phép được làm việc gì. Nó giống với「～てもいい」nhưng trang trọng hơn.",
+    "structure": "V thể て / いA ーい → くて / なA + で / N + で + もかまわない",
+    "examples": [
+      {
+        "japanese": "ここに座ってもかまいませんか。",
+        "romaji": "Koko ni suwatte mo kamaimasen ka.",
+        "vietnamese": "Tôi có thể ngồi ở đây không？"
+      },
+      {
+        "japanese": "間に合わなかったら、あしたでもかまいません。",
+        "romaji": "Ma ni awanakattara, ashita demo kamaimasen.",
+        "vietnamese": "Nếu anh không kịp thì để ngày mai cũng không sao。"
+      },
+      {
+        "japanese": "試験は９０分ですが、早く終わった人は教室を出てもかまいません。",
+        "romaji": "Shiken wa kyuujuppun desu ga, hayaku owatta hito wa kyoushitsu o dete mo kamaimasen.",
+        "vietnamese": "Kì thi 90 phút nhưng mà những ai hoàn thành sớm có thể ra khỏi phòng。"
+      },
+      {
+        "japanese": "家賃が安ければ、駅から遠くてもかまいません。",
+        "romaji": "Yachin ga yasukereba, eki kara tookute mo kamaimasen.",
+        "vietnamese": "Nếu tiền thuê nhà rẻ thì dù xa nhà ga cũng không sao。"
+      }
+    ],
+    "notes": [
+      "Biểu thị sự chấp nhận, cho phép",
+      "Trong câu nghi vấn là cách xin phép",
+      "Giống với「～てもいい」nhưng trang trọng hơn",
+      "Có thể dùng với động từ, tính từ, danh từ"
+    ]
+  },
+  {
+    "id": "hodo-nai",
+    "title": "…ほど～ない ・ …ほどではない",
+    "description": "Mẫu「AはBほどXではない」biểu thị rằng A và B đều là X, nhưng nếu so sánh thì A không X hơn B. X có thể được lược bỏ trong mẫu「…ほどではない」.",
+    "structure": "(1) N / V thể thông thường + ほど + いA ーい → く + ない / なA ーだ → ではない\n(2) N / V thể thông thường + ほどではない",
+    "examples": [
+      {
+        "japanese": "中国は日本より広いが、ロシアほど広くはない。",
+        "romaji": "Chuugoku wa Nihon yori hiroi ga, Roshia hodo hiroku wa nai.",
+        "vietnamese": "Trung Quốc rộng hơn Nhật Bản nhưng không rộng bằng Nga。"
+      },
+      {
+        "japanese": "八ヶ岳は有名な山だが、富士山ほど有名ではない。",
+        "romaji": "Yatsugatake wa yuumei na yama da ga, Fujisan hodo yuumei de wa nai.",
+        "vietnamese": "Yatsugatake là một ngọn núi nổi tiếng nhưng không nổi tiếng bằng núi Phú Sĩ。"
+      },
+      {
+        "japanese": "このレストランは人気があるそうだが、料理は思ったほどおいしくなかった。",
+        "romaji": "Kono resutoran wa ninki ga aru sou da ga, ryouri wa omotta hodo oishikunakatta.",
+        "vietnamese": "Nghe nói nhà hàng này rất được chuộng, nhưng đồ ăn thì cũng chẳng ngon như tôi nghĩ。"
+      },
+      {
+        "japanese": "10月に入って少し寒くなったが、まだコートを着るほどではない。",
+        "romaji": "Juugatsu ni haitte sukoshi samuku natta ga, mada kooto o kiru hodo de wa nai.",
+        "vietnamese": "Vào tháng 10 thì trời có trở lạnh một chút nhưng chưa đến mức phải mặc áo khoác。"
+      }
+    ],
+    "notes": [
+      "So sánh: A không X hơn B",
+      "Động từ thể thông thường có thể dùng cho「B」như trong「思ったほど」「考えていたほど」",
+      "X có thể được lược bỏ trong mẫu「…ほどではない」",
+      "Dùng để diễn tả mức độ không đến nỗi"
+    ]
+  },
+  {
+    "id": "hodo-wa-nai",
+    "title": "～ほど～はない／いない",
+    "description": "Mẫu「XほどYはない／いない」có nghĩa rằng X là Y nhất.",
+    "structure": "Ｎほど + いＡ / なＡ ーな + Ｎ + はない／いない",
+    "examples": [
+      {
+        "japanese": "スポーツのあとに飲むビールほどおいしいものはない。",
+        "romaji": "Supootsu no ato ni nomu biiru hodo oishii mono wa nai.",
+        "vietnamese": "Chẳng có gì ngon bằng bia uống sau khi chơi thể thao。"
+      },
+      {
+        "japanese": "田中さんほど仕事がよくできる人はいません。",
+        "romaji": "Tanaka san hodo shigoto ga yoku dekiru hito wa imasen.",
+        "vietnamese": "Chẳng ai có thể làm tốt công việc bằng Tanaka。"
+      },
+      {
+        "japanese": "富士山ほど美しい山はありません。",
+        "romaji": "Fujisan hodo utsukushii yama wa arimasen.",
+        "vietnamese": "Không có ngọn núi nào đẹp bằng núi Phú Sĩ。"
+      },
+      {
+        "japanese": "健康ほど大切なものはありません。",
+        "romaji": "Kenkou hodo taisetsu na mono wa arimasen.",
+        "vietnamese": "Không có thứ gì quan trọng bằng sức khỏe。"
+      }
+    ],
+    "notes": [
+      "X là Y nhất",
+      "Dùng để diễn tả mức độ cao nhất",
+      "はない dùng cho vật, いない dùng cho người",
+      "Có thể thay thế cho「いちばん」"
+    ]
+  },
+  {
+    "id": "tame-ni",
+    "title": "…ため［に］、… ・ …ためだ",
+    "description": "Trong mẫu「X ために、Y」thì X là nguyên nhân hoặc lý do, Y là những gì đã xảy ra. Mẫu này dùng trong văn viết và trang trọng hơn「から」hay「ので」. Trường hợp nói kết quả Y trước, rồi trình bày nguyên nhân hoặc lý do X ở phần vị ngữ phía sau thì cấu trúc sẽ là「Ｙ（の）はＸためだ」。",
+    "structure": "Câu (thể thông thường) / いＡ / なＡ ーな / Ｎの + ため［に］/ ためだ",
+    "examples": [
+      {
+        "japanese": "大雪が降ったために、空港が使えなくなりました。",
+        "romaji": "Ooyuki ga futta tame ni, kuukou ga tsukaenaku narimashita.",
+        "vietnamese": "Vì tuyết rơi dày nên sân bay đã không thể sử dụng。"
+      },
+      {
+        "japanese": "空港が使えなくなったのは、大雪が降ったためです。",
+        "romaji": "Kuukou ga tsukaenaku natta no wa, ooyuki ga futta tame desu.",
+        "vietnamese": "Việc sân bay không thể sử dụng là do tuyết rơi dày。"
+      },
+      {
+        "japanese": "日本は資源が少ないため、多くの原料を輸入している。",
+        "romaji": "Nihon wa shigen ga sukunai tame, ooku no genryou o yunyuu shite iru.",
+        "vietnamese": "Nhật Bản ít tài nguyên nên nhập khẩu nhiều nguyên liệu。"
+      },
+      {
+        "japanese": "工事中のため、この道は通れません。",
+        "romaji": "Kouji chuu no tame, kono michi wa toorenasen.",
+        "vietnamese": "Vì đang thi công nên con đường này không thể đi được。"
+      }
+    ],
+    "notes": [
+      "X là nguyên nhân hoặc lý do, Y là kết quả",
+      "Dùng trong văn viết và trang trọng hơn「から」「ので」",
+      "「ためだ」dùng khi nói kết quả trước, nguyên nhân sau",
+      "Có thể dùng với động từ, tính từ, danh từ"
+    ]
+  },
+  {
+    "id": "tara-ba-ta",
+    "title": "～たら／～ば、…た",
+    "description": "Đây là cách nói giả thiết về điều đã không xảy ra trong thực tế, giả dụ nếu điều đó đã xảy ra thì đem lại kết quả như thế nào. Ở cuối câu thường là các biểu hiện biểu thị sự phỏng đoán hoặc「のに」, v.v..",
+    "structure": "V たら／Ｖば / いＡ ーい → かったら／ければ / なＡ ＋だったら、なら + ...た",
+    "examples": [
+      {
+        "japanese": "もし昨日雨が降っていたら、買い物には出かけなかっただろう。",
+        "romaji": "Moshi kinou ame ga futte itara, kaimono ni wa dekakenakatta darou.",
+        "vietnamese": "Nếu hôm qua trời mưa thì có lẽ tôi đã không đi mua sắm。"
+      },
+      {
+        "japanese": "お金があれば、このパソコンが買えたのに。",
+        "romaji": "Okane ga areba, kono pasokon ga kaeta noni.",
+        "vietnamese": "Nếu có tiền thì lẽ ra tôi đã có thể mua cái máy tính xách tay này。"
+      },
+      {
+        "japanese": "もう少し安ければ、買ったんですが...",
+        "romaji": "Mou sukoshi yasukereba, katta n desu ga...",
+        "vietnamese": "Nếu nó rẻ thêm một chút nữa thì tôi đã mua, nhưng ..."
+      },
+      {
+        "japanese": "今日の試験、もう少し時間があったら、最後まで書けたのに。",
+        "romaji": "Kyou no shiken, mou sukoshi jikan ga attara, saigo made kaketa noni.",
+        "vietnamese": "Kì thi hôm nay, nếu có thêm chút thời gian nữa thì tôi có thể viết đến cuối cùng thế mà...。"
+      }
+    ],
+    "notes": [
+      "Giả thiết về điều đã không xảy ra trong thực tế",
+      "Ở cuối câu thường là「だろう」「のに」",
+      "Diễn tả sự tiếc nuối hoặc phỏng đoán",
+      "Khác với「～たら」「～ば」thông thường: đây là giả thiết về quá khứ"
+    ]
+  }
+]

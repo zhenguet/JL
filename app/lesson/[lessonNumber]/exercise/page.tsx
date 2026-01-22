@@ -1,9 +1,8 @@
 import { redirect } from 'next/navigation';
+import { generateLessonStaticParams } from '@/lib/utils/lessonParams';
 
 export function generateStaticParams() {
-  return Array.from({ length: 50 }, (_, i) => ({
-    lessonNumber: String(i + 1),
-  }));
+  return generateLessonStaticParams();
 }
 
 interface PageProps {

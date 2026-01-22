@@ -49,6 +49,30 @@ import grammar47 from './grammar/grammar47.json'
 import grammar48 from './grammar/grammar48.json'
 import grammar49 from './grammar/grammar49.json'
 import grammar50 from './grammar/grammar50.json'
+import grammar51 from './grammar/grammar51.json'
+import grammar52 from './grammar/grammar52.json'
+import grammar53 from './grammar/grammar53.json'
+import grammar54 from './grammar/grammar54.json'
+import grammar55 from './grammar/grammar55.json'
+import grammar56 from './grammar/grammar56.json'
+import grammar57 from './grammar/grammar57.json'
+import grammar58 from './grammar/grammar58.json'
+import grammar59 from './grammar/grammar59.json'
+import grammar60 from './grammar/grammar60.json'
+import grammar61 from './grammar/grammar61.json'
+import grammar62 from './grammar/grammar62.json'
+import grammar63 from './grammar/grammar63.json'
+import grammar64 from './grammar/grammar64.json'
+import grammar65 from './grammar/grammar65.json'
+import grammar66 from './grammar/grammar66.json'
+import grammar67 from './grammar/grammar67.json'
+import grammar68 from './grammar/grammar68.json'
+import grammar69 from './grammar/grammar69.json'
+import grammar70 from './grammar/grammar70.json'
+import grammar71 from './grammar/grammar71.json'
+import grammar72 from './grammar/grammar72.json'
+import grammar73 from './grammar/grammar73.json'
+import grammar74 from './grammar/grammar74.json'
 
 export const grammarData: GrammarData = {
   1: grammar1 as GrammarPoint[],
@@ -101,5 +125,29 @@ export const grammarData: GrammarData = {
   48: grammar48 as GrammarPoint[],
   49: grammar49 as GrammarPoint[],
   50: grammar50 as GrammarPoint[],
+  51: grammar51 as GrammarPoint[],
+  52: grammar52 as GrammarPoint[],
+  53: grammar53 as GrammarPoint[],
+  54: grammar54 as GrammarPoint[],
+  55: grammar55 as GrammarPoint[],
+  56: grammar56 as GrammarPoint[],
+  57: grammar57 as GrammarPoint[],
+  58: grammar58 as GrammarPoint[],
+  59: grammar59 as GrammarPoint[],
+  60: grammar60 as GrammarPoint[],
+  61: grammar61 as GrammarPoint[],
+  62: grammar62 as GrammarPoint[],
+  63: grammar63 as GrammarPoint[],
+  64: grammar64 as GrammarPoint[],
+  65: grammar65 as GrammarPoint[],
+  66: grammar66 as GrammarPoint[],
+  67: grammar67 as GrammarPoint[],
+  68: grammar68 as GrammarPoint[],
+  69: grammar69 as GrammarPoint[],
+  70: grammar70 as GrammarPoint[],
+  71: grammar71 as GrammarPoint[],
+  72: grammar72 as GrammarPoint[],
+  73: grammar73 as GrammarPoint[],
+  74: grammar74 as GrammarPoint[],
 }
 

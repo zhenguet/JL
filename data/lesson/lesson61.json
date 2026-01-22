@@ -1,0 +1,1328 @@
+[
+  {
+    "id": "masumasu",
+    "kanji": "ますます",
+    "hiragana": "ますます",
+    "en": "increasingly, more and more",
+    "vi": "ngày càng",
+    "type": "adverb",
+    "explanation": {
+      "content": [
+        "Trạng từ chỉ mức độ tăng dần",
+        "Ví dụ: ますます 良くなる (Ngày càng tốt hơn)"
+      ]
+    }
+  },
+  {
+    "id": "kigyou",
+    "kanji": "企業",
+    "hiragana": "きぎょう",
+    "en": "enterprise, company",
+    "vi": "doanh nghiệp, công ty",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ doanh nghiệp, công ty",
+        "Ví dụ: 企業を 経営する (Kinh doanh doanh nghiệp)"
+      ]
+    }
+  },
+  {
+    "id": "kongo",
+    "kanji": "今後",
+    "hiragana": "こんご",
+    "en": "from now on, in the future",
+    "vi": "từ nay trở đi, từ nay về sau",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ thời gian tương lai",
+        "Ví dụ: 今後 気をつける (Từ nay trở đi sẽ cẩn thận)"
+      ]
+    }
+  },
+  {
+    "id": "hougen",
+    "kanji": "方言",
+    "hiragana": "ほうげん",
+    "en": "dialect",
+    "vi": "tiếng địa phương, phương ngữ",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ tiếng địa phương",
+        "Ví dụ: 方言を 話す (Nói tiếng địa phương)"
+      ]
+    }
+  },
+  {
+    "id": "fukyuu-suru",
+    "kanji": "普及する",
+    "hiragana": "ふきゅうする",
+    "en": "to spread, to popularize",
+    "vi": "phổ cập",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm III",
+        "《普及します、普及する、普及して》",
+        "Ví dụ: 技術が 普及する (Công nghệ được phổ cập)"
+      ]
+    }
+  },
+  {
+    "id": "tatsu",
+    "kanji": "建つ",
+    "hiragana": "たつ",
+    "en": "to be built",
+    "vi": "được xây dựng",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm I",
+        "《建ちます、建つ、建って》",
+        "Ví dụ: 家が 建つ (Nhà được xây dựng)"
+      ]
+    }
+  },
+  {
+    "id": "daikazoku",
+    "kanji": "大家族",
+    "hiragana": "だいかぞく",
+    "en": "large family",
+    "vi": "đại gia đình, gia đình lớn",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ đại gia đình",
+        "Ví dụ: 大家族で 暮らす (Sống trong đại gia đình)"
+      ]
+    }
+  },
+  {
+    "id": "dai",
+    "kanji": "大～",
+    "hiragana": "だい～",
+    "en": "large ~",
+    "vi": "[gia đình] ~ lớn",
+    "type": "prefix",
+    "explanation": {
+      "content": [
+        "Tiền tố chỉ sự lớn",
+        "Ví dụ: 大家族 (Đại gia đình)"
+      ]
+    }
+  },
+  {
+    "id": "pakku-tsua",
+    "kanji": "パックツアー",
+    "hiragana": "パックツアー",
+    "en": "package tour",
+    "vi": "tour trọn gói",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ tour trọn gói",
+        "Ví dụ: パックツアーに 参加する (Tham gia tour trọn gói)"
+      ]
+    }
+  },
+  {
+    "id": "kojin",
+    "kanji": "個人",
+    "hiragana": "こじん",
+    "en": "individual, person",
+    "vi": "cá nhân",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ cá nhân",
+        "Ví dụ: 個人の 意見 (Ý kiến cá nhân)"
+      ]
+    }
+  },
+  {
+    "id": "ikanimo",
+    "kanji": "いかにも",
+    "hiragana": "いかにも",
+    "en": "indeed, really",
+    "vi": "thực sự, quả nhiên, biết bao",
+    "type": "adverb",
+    "explanation": {
+      "content": [
+        "Trạng từ chỉ sự thực sự",
+        "Ví dụ: いかにも その通り (Quả nhiên đúng như vậy)"
+      ]
+    }
+  },
+  {
+    "id": "nyuugakushiki",
+    "kanji": "入学式",
+    "hiragana": "にゅうがくしき",
+    "en": "entrance ceremony",
+    "vi": "lễ nhập học",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ lễ nhập học",
+        "Ví dụ: 入学式に 出席する (Tham dự lễ nhập học)"
+      ]
+    }
+  },
+  {
+    "id": "hade-na",
+    "kanji": "派手[な]",
+    "hiragana": "はで[な]",
+    "en": "showy, flashy",
+    "vi": "sặc sỡ",
+    "type": "adjective",
+    "explanation": {
+      "content": [
+        "Tính từ đuôi na chỉ sự sặc sỡ",
+        "Ví dụ: 派手な 服 (Quần áo sặc sỡ)"
+      ]
+    }
+  },
+  {
+    "id": "genki",
+    "kanji": "元気",
+    "hiragana": "げんき",
+    "en": "healthy, energetic",
+    "vi": "khoẻ mạnh, khỏe khoắn",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ sự khỏe mạnh",
+        "Ví dụ: 元気な 人 (Người khỏe mạnh)"
+      ]
+    }
+  },
+  {
+    "id": "dasu-genki-wo",
+    "kanji": "出す[元気を～]",
+    "hiragana": "だす[げんきを～]",
+    "en": "to cheer up",
+    "vi": "khỏe khoắn lên, tươi tỉnh lên",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm I",
+        "《出します、出す、出して》",
+        "Ví dụ: 元気を 出す (Khỏe khoắn lên)"
+      ]
+    }
+  },
+  {
+    "id": "koukoku",
+    "kanji": "広告",
+    "hiragana": "こうこく",
+    "en": "advertisement",
+    "vi": "quảng cáo",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ quảng cáo",
+        "Ví dụ: 広告を 出す (Đăng quảng cáo)"
+      ]
+    }
+  },
+  {
+    "id": "biyouin",
+    "kanji": "美容院",
+    "hiragana": "びよういん",
+    "en": "beauty salon",
+    "vi": "thẩm mỹ viện",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ thẩm mỹ viện",
+        "Ví dụ: 美容院に 行く (Đi thẩm mỹ viện)"
+      ]
+    }
+  },
+  {
+    "id": "kurumaisu",
+    "kanji": "車いす",
+    "hiragana": "くるまいす",
+    "en": "wheelchair",
+    "vi": "xe lăn",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ xe lăn",
+        "Ví dụ: 車いすで 移動する (Di chuyển bằng xe lăn)"
+      ]
+    }
+  },
+  {
+    "id": "kifu-suru",
+    "kanji": "寄付する[病院に車いすを～]",
+    "hiragana": "きふする[びよういんにくるまいすを～]",
+    "en": "to donate",
+    "vi": "quyên tặng, quyên góp [ xe lăn cho bệnh viện]",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm III",
+        "《寄付します、寄付する、寄付して》",
+        "Ví dụ: 病院に 車いすを 寄付する (Quyên tặng xe lăn cho bệnh viện)"
+      ]
+    }
+  },
+  {
+    "id": "guree",
+    "kanji": "グレー",
+    "hiragana": "グレー",
+    "en": "gray",
+    "vi": "màu xám",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ màu xám",
+        "Ví dụ: グレーの 服 (Quần áo màu xám)"
+      ]
+    }
+  },
+  {
+    "id": "jimi-na",
+    "kanji": "地味[な]",
+    "hiragana": "じみ[な]",
+    "en": "plain, simple",
+    "vi": "giản dị",
+    "type": "adjective",
+    "explanation": {
+      "content": [
+        "Tính từ đuôi na chỉ sự giản dị",
+        "Ví dụ: 地味な 服装 (Trang phục giản dị)"
+      ]
+    }
+  },
+  {
+    "id": "genbaku",
+    "kanji": "原爆",
+    "hiragana": "げんばく",
+    "en": "atomic bomb",
+    "vi": "bom nguyên tử, bom hạt nhân",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ bom nguyên tử",
+        "Ví dụ: 原爆の 被害 (Thiệt hại của bom nguyên tử)"
+      ]
+    }
+  },
+  {
+    "id": "tada-hitotsu",
+    "kanji": "ただ一つ",
+    "hiragana": "ただひとつ",
+    "en": "only one",
+    "vi": "nhất, độc nhất",
+    "type": "adverb",
+    "explanation": {
+      "content": [
+        "Trạng từ chỉ sự duy nhất",
+        "Ví dụ: ただ一つ の 希望 (Hy vọng duy nhất)"
+      ]
+    }
+  },
+  {
+    "id": "osoroshisa",
+    "kanji": "恐ろしさ",
+    "hiragana": "おそろしさ",
+    "en": "terribleness, horror",
+    "vi": "sự khủng khiếp",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ sự khủng khiếp",
+        "Ví dụ: 恐ろしさを 感じる (Cảm thấy sự khủng khiếp)"
+      ]
+    }
+  },
+  {
+    "id": "dainamaito",
+    "kanji": "ダイナマイト",
+    "hiragana": "ダイナマイト",
+    "en": "dynamite",
+    "vi": "mìn, chất nổ",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ mìn, chất nổ",
+        "Ví dụ: ダイナマイトで 爆破する (Nổ bằng mìn)"
+      ]
+    }
+  },
+  {
+    "id": "jitaku",
+    "kanji": "自宅",
+    "hiragana": "じたく",
+    "en": "one's home",
+    "vi": "nhà mình",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ nhà mình",
+        "Ví dụ: 自宅で 過ごす (Ở nhà)"
+      ]
+    }
+  },
+  {
+    "id": "awateru",
+    "kanji": "あわてる",
+    "hiragana": "あわてる",
+    "en": "to panic, to hurry",
+    "vi": "hoảng hốt, vội vàng",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm II",
+        "《あわてます、あわてる、あわてて》",
+        "Ví dụ: あわてて 逃げる (Hoảng hốt chạy trốn)"
+      ]
+    }
+  },
+  {
+    "id": "ochitsuku",
+    "kanji": "落ち着く",
+    "hiragana": "おちつく",
+    "en": "to calm down",
+    "vi": "bình tĩnh",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm I",
+        "《落ち着きます、落ち着く、落ち着いて》",
+        "Ví dụ: 気持ちが 落ち着く (Tâm trạng bình tĩnh)"
+      ]
+    }
+  },
+  {
+    "id": "koudou-suru",
+    "kanji": "行動する",
+    "hiragana": "こうどうする",
+    "en": "to act, to take action",
+    "vi": "hành động",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm III",
+        "《行動します、行動する、行動して》",
+        "Ví dụ: すぐに 行動する (Hành động ngay)"
+      ]
+    }
+  },
+  {
+    "id": "nonbiri-suru",
+    "kanji": "のんびりする",
+    "hiragana": "のんびりする",
+    "en": "to relax, to take it easy",
+    "vi": "thư thái, nhàn nhã",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm III",
+        "《のんびりします、のんびりする、のんびりして》",
+        "Ví dụ: のんびり 過ごす (Sống thư thái)"
+      ]
+    }
+  },
+  {
+    "id": "shuuzu",
+    "kanji": "シューズ",
+    "hiragana": "シューズ",
+    "en": "shoes",
+    "vi": "giày",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ giày",
+        "Ví dụ: シューズを 履く (Đi giày)"
+      ]
+    }
+  },
+  {
+    "id": "tsunagaru-denwa-ga",
+    "kanji": "つながる[電話が～]",
+    "hiragana": "つながる[でんわが～]",
+    "en": "to be connected [phone]",
+    "vi": "[điện thoại] được nối, thông suốt",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm I",
+        "《つながります、つながる、つながって》",
+        "Ví dụ: 電話が つながる (Điện thoại được nối)"
+      ]
+    }
+  },
+  {
+    "id": "iseki",
+    "kanji": "遺跡",
+    "hiragana": "いせき",
+    "en": "ruins, remains",
+    "vi": "di tích",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ di tích",
+        "Ví dụ: 遺跡を 見学する (Tham quan di tích)"
+      ]
+    }
+  },
+  {
+    "id": "hakkutsu",
+    "kanji": "発掘",
+    "hiragana": "はっくつ",
+    "en": "excavation",
+    "vi": "khai quật",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ sự khai quật",
+        "Ví dụ: 遺跡を 発掘する (Khai quật di tích)"
+      ]
+    }
+  },
+  {
+    "id": "kore-made-ni",
+    "kanji": "これまでに",
+    "hiragana": "これまでに",
+    "en": "so far, until now",
+    "vi": "cho đến nay, cho đến bây giờ",
+    "type": "adverb",
+    "explanation": {
+      "content": [
+        "Trạng từ chỉ thời gian",
+        "Ví dụ: これまでに 見たことがない (Chưa từng thấy trước đây)"
+      ]
+    }
+  },
+  {
+    "id": "nankyoku",
+    "kanji": "南極",
+    "hiragana": "なんきょく",
+    "en": "Antarctica",
+    "vi": "Nam Cực",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ Nam Cực",
+        "Ví dụ: 南極を 探検する (Thám hiểm Nam Cực)"
+      ]
+    }
+  },
+  {
+    "id": "tanken",
+    "kanji": "探検",
+    "hiragana": "たんけん",
+    "en": "exploration",
+    "vi": "thám hiểm",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ sự thám hiểm",
+        "Ví dụ: 探検に 出かける (Đi thám hiểm)"
+      ]
+    }
+  },
+  {
+    "id": "sekai-isan",
+    "kanji": "世界遺産",
+    "hiragana": "せかいいさん",
+    "en": "World Heritage",
+    "vi": "di sản thế giới",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ di sản thế giới",
+        "Ví dụ: 世界遺産に 登録する (Đăng ký di sản thế giới)"
+      ]
+    }
+  },
+  {
+    "id": "kachi",
+    "kanji": "価値",
+    "hiragana": "かち",
+    "en": "value",
+    "vi": "giá trị",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ giá trị",
+        "Ví dụ: 価値が ある (Có giá trị)"
+      ]
+    }
+  },
+  {
+    "id": "yappari",
+    "kanji": "やっぱり",
+    "hiragana": "やっぱり",
+    "en": "as expected, after all",
+    "vi": "đương nhiên, rõ ràng là (dạng văn nói của やはり)",
+    "type": "adverb",
+    "explanation": {
+      "content": [
+        "Trạng từ chỉ sự đương nhiên",
+        "Ví dụ: やっぱり そうだ (Đương nhiên là vậy)"
+      ]
+    }
+  },
+  {
+    "id": "ryuuhyou",
+    "kanji": "流氷",
+    "hiragana": "りゅうひょう",
+    "en": "drift ice",
+    "vi": "băng trôi, tảng băng trôi",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ băng trôi",
+        "Ví dụ: 流氷を 見る (Xem băng trôi)"
+      ]
+    }
+  },
+  {
+    "id": "jiyuu-koudou",
+    "kanji": "自由行動",
+    "hiragana": "じゆうこうどう",
+    "en": "free action",
+    "vi": "tự do hành động",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ tự do hành động",
+        "Ví dụ: 自由行動の 時間 (Thời gian tự do hành động)"
+      ]
+    }
+  },
+  {
+    "id": "teian-suru",
+    "kanji": "提案する",
+    "hiragana": "ていあんする",
+    "en": "to propose, to suggest",
+    "vi": "đề xuất",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm III",
+        "《提案します、提案する、提案して》",
+        "Ví dụ: 新しい 計画を 提案する (Đề xuất kế hoạch mới)"
+      ]
+    }
+  },
+  {
+    "id": "karuku-taisou-suru",
+    "kanji": "軽く[～体操する]",
+    "hiragana": "かるく[～たいそうする]",
+    "en": "lightly [to do exercise]",
+    "vi": "[vận động] nhẹ",
+    "type": "adverb",
+    "explanation": {
+      "content": [
+        "Trạng từ chỉ sự nhẹ nhàng",
+        "Ví dụ: 軽く 体操する (Vận động nhẹ)"
+      ]
+    }
+  },
+  {
+    "id": "norimono",
+    "kanji": "乗り物",
+    "hiragana": "のりもの",
+    "en": "vehicle",
+    "vi": "phương tiện đi lại",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ phương tiện đi lại",
+        "Ví dụ: 乗り物に 乗る (Đi phương tiện)"
+      ]
+    }
+  },
+  {
+    "id": "you-norimono-ni",
+    "kanji": "酔う[乗り物に～]",
+    "hiragana": "よう[のりものに～]",
+    "en": "to get motion sickness",
+    "vi": "say [xe/ tàu]",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm I",
+        "《酔います、酔う、酔って》",
+        "Ví dụ: 乗り物に 酔う (Say xe)"
+      ]
+    }
+  },
+  {
+    "id": "komento",
+    "kanji": "コメント",
+    "hiragana": "コメント",
+    "en": "comment",
+    "vi": "lời nhận xét, ý kiến nhận xét",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ lời nhận xét",
+        "Ví dụ: コメントを する (Nhận xét)"
+      ]
+    }
+  },
+  {
+    "id": "sarani",
+    "kanji": "さらに",
+    "hiragana": "さらに",
+    "en": "furthermore, moreover",
+    "vi": "hơn nữa",
+    "type": "adverb",
+    "explanation": {
+      "content": [
+        "Trạng từ chỉ sự thêm vào",
+        "Ví dụ: さらに 詳しく 説明する (Giải thích chi tiết hơn nữa)"
+      ]
+    }
+  },
+  {
+    "id": "kasou",
+    "kanji": "仮装",
+    "hiragana": "かそう",
+    "en": "disguise, costume",
+    "vi": "cải trang, giả trang",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ sự cải trang",
+        "Ví dụ: 仮装を する (Cải trang)"
+      ]
+    }
+  },
+  {
+    "id": "someru",
+    "kanji": "染める",
+    "hiragana": "そめる",
+    "en": "to dye",
+    "vi": "nhuộm",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm II",
+        "《染めます、染める、染めて》",
+        "Ví dụ: 髪を 染める (Nhuộm tóc)"
+      ]
+    }
+  },
+  {
+    "id": "ougon",
+    "kanji": "黄金",
+    "hiragana": "おうごん",
+    "en": "gold",
+    "vi": "vàng",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ vàng",
+        "Ví dụ: 黄金の 像 (Tượng vàng)"
+      ]
+    }
+  },
+  {
+    "id": "densetsu",
+    "kanji": "伝説",
+    "hiragana": "でんせつ",
+    "en": "legend",
+    "vi": "truyền thuyết",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ truyền thuyết",
+        "Ví dụ: 伝説を 語る (Kể truyền thuyết)"
+      ]
+    }
+  },
+  {
+    "id": "ikutsu-ka",
+    "kanji": "いくつか",
+    "hiragana": "いくつか",
+    "en": "some, a few",
+    "vi": "một vài, vài",
+    "type": "adverb",
+    "explanation": {
+      "content": [
+        "Trạng từ chỉ số lượng",
+        "Ví dụ: いくつか の 本 (Một vài cuốn sách)"
+      ]
+    }
+  },
+  {
+    "id": "yane",
+    "kanji": "屋根",
+    "hiragana": "やね",
+    "en": "roof",
+    "vi": "mái nhà",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ mái nhà",
+        "Ví dụ: 屋根を 修理する (Sửa mái nhà)"
+      ]
+    }
+  },
+  {
+    "id": "nousakubutsu",
+    "kanji": "農作物",
+    "hiragana": "のうさくぶつ",
+    "en": "crops",
+    "vi": "cây trồng",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ cây trồng",
+        "Ví dụ: 農作物を 育てる (Trồng cây)"
+      ]
+    }
+  },
+  {
+    "id": "kingin",
+    "kanji": "金銀",
+    "hiragana": "きんぎん",
+    "en": "gold and silver",
+    "vi": "vàng bạc",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ vàng bạc",
+        "Ví dụ: 金銀の 装飾 (Trang sức vàng bạc)"
+      ]
+    }
+  },
+  {
+    "id": "osameru",
+    "kanji": "治める",
+    "hiragana": "おさめる",
+    "en": "to govern, to rule",
+    "vi": "cai quản, cai trị",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm II",
+        "《治めます、治める、治めて》",
+        "Ví dụ: 国を 治める (Cai trị đất nước)"
+      ]
+    }
+  },
+  {
+    "id": "tenohira",
+    "kanji": "掌",
+    "hiragana": "てのひら",
+    "en": "palm",
+    "vi": "lòng bàn tay",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ lòng bàn tay",
+        "Ví dụ: 掌を 見る (Xem lòng bàn tay)"
+      ]
+    }
+  },
+  {
+    "id": "kouhan",
+    "kanji": "後半",
+    "hiragana": "こうはん",
+    "en": "latter half",
+    "vi": "nửa sau",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ nửa sau",
+        "Ví dụ: 後半の 試合 (Nửa sau trận đấu)"
+      ]
+    }
+  },
+  {
+    "id": "kugi",
+    "kanji": "くぎ",
+    "hiragana": "くぎ",
+    "en": "nail",
+    "vi": "đinh",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ đinh",
+        "Ví dụ: くぎを 打つ (Đóng đinh)"
+      ]
+    }
+  },
+  {
+    "id": "murabito",
+    "kanji": "村人",
+    "hiragana": "むらびと",
+    "en": "villager",
+    "vi": "dân làng",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ dân làng",
+        "Ví dụ: 村人と 話す (Nói chuyện với dân làng)"
+      ]
+    }
+  },
+  {
+    "id": "kakeru-hiyou-wo",
+    "kanji": "かける[費用を～]",
+    "hiragana": "かける[ひようを～]",
+    "en": "to spend [expenses]",
+    "vi": "bỏ [chi phí]",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm II",
+        "《かけます、かける、かけて》",
+        "Ví dụ: 費用を かける (Bỏ chi phí)"
+      ]
+    }
+  },
+  {
+    "id": "muki",
+    "kanji": "向き",
+    "hiragana": "むき",
+    "en": "direction",
+    "vi": "hướng (gió)",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ hướng",
+        "Ví dụ: 風の 向き (Hướng gió)"
+      ]
+    }
+  },
+  {
+    "id": "teikou",
+    "kanji": "抵抗",
+    "hiragana": "ていこう",
+    "en": "resistance",
+    "vi": "lực cản",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ lực cản",
+        "Ví dụ: 抵抗を 受ける (Chịu lực cản)"
+      ]
+    }
+  },
+  {
+    "id": "sou",
+    "kanji": "～層",
+    "hiragana": "～そう",
+    "en": "layer, stratum",
+    "vi": "lớp",
+    "type": "suffix",
+    "explanation": {
+      "content": [
+        "Hậu tố chỉ lớp",
+        "Ví dụ: 大気層 (Lớp khí quyển)"
+      ]
+    }
+  },
+  {
+    "id": "kaiko",
+    "kanji": "蚕",
+    "hiragana": "かいこ",
+    "en": "silkworm",
+    "vi": "con tằm",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ con tằm",
+        "Ví dụ: 蚕を 飼う (Nuôi tằm)"
+      ]
+    }
+  },
+  {
+    "id": "kayaku",
+    "kanji": "火薬",
+    "hiragana": "かやく",
+    "en": "gunpowder",
+    "vi": "thuốc súng",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ thuốc súng",
+        "Ví dụ: 火薬を 作る (Làm thuốc súng)"
+      ]
+    }
+  },
+  {
+    "id": "seizou-suru",
+    "kanji": "製造する",
+    "hiragana": "せいぞうする",
+    "en": "to manufacture",
+    "vi": "sản xuất, chế tạo",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm III",
+        "《製造します、製造する、製造して》",
+        "Ví dụ: 製品を 製造する (Sản xuất sản phẩm)"
+      ]
+    }
+  },
+  {
+    "id": "okuru-seikatsu-wo",
+    "kanji": "送る[生活を～]",
+    "hiragana": "おくる[せいかつを～]",
+    "en": "to live [a life]",
+    "vi": "sống [cuộc sống]",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm I",
+        "《送ります、送る、送って》",
+        "Ví dụ: 生活を 送る (Sống cuộc sống)"
+      ]
+    }
+  },
+  {
+    "id": "kanai-sangyou",
+    "kanji": "家内産業",
+    "hiragana": "かないさんぎょう",
+    "en": "cottage industry",
+    "vi": "tiểu thủ công nghiệp",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ tiểu thủ công nghiệp",
+        "Ví dụ: 家内産業を 営む (Kinh doanh tiểu thủ công nghiệp)"
+      ]
+    }
+  },
+  {
+    "id": "nengu",
+    "kanji": "年貢",
+    "hiragana": "ねんぐ",
+    "en": "land tax",
+    "vi": "địa tô, tô",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ địa tô",
+        "Ví dụ: 年貢を 納める (Nộp địa tô)"
+      ]
+    }
+  },
+  {
+    "id": "kitai-suru",
+    "kanji": "期待する",
+    "hiragana": "きたいする",
+    "en": "to expect, to hope",
+    "vi": "mong chờ, kỳ vọng, hy vọng",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm III",
+        "《期待します、期待する、期待して》",
+        "Ví dụ: 成功を 期待する (Mong chờ thành công)"
+      ]
+    }
+  },
+  {
+    "id": "chi",
+    "kanji": "地　",
+    "hiragana": "ち",
+    "en": "land, ground",
+    "vi": "đất đai",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ đất đai",
+        "Ví dụ: 地を 耕す (Cày đất)"
+      ]
+    }
+  },
+  {
+    "id": "zenhan",
+    "kanji": "前半",
+    "hiragana": "ぜんはん",
+    "en": "first half",
+    "vi": "nửa đầu",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ nửa đầu",
+        "Ví dụ: 前半の 試合 (Nửa đầu trận đấu)"
+      ]
+    }
+  },
+  {
+    "id": "yatte-kuru",
+    "kanji": "やってくる",
+    "hiragana": "やってくる",
+    "en": "to come, to arrive",
+    "vi": "đến, kéo đến",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm III",
+        "《やってきます、やってくる、やってきて》",
+        "Ví dụ: 春が やってくる (Mùa xuân đến)"
+      ]
+    }
+  },
+  {
+    "id": "sumitsuku",
+    "kanji": "住み着く",
+    "hiragana": "すみつく",
+    "en": "to settle down",
+    "vi": "định cư",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm I",
+        "《住み着きます、住み着く、住み着いて》",
+        "Ví dụ: 新しい 土地に 住み着く (Định cư ở vùng đất mới)"
+      ]
+    }
+  },
+  {
+    "id": "ichizoku",
+    "kanji": "一族",
+    "hiragana": "いちぞく",
+    "en": "clan, family",
+    "vi": "gia tộc",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ gia tộc",
+        "Ví dụ: 一族の 歴史 (Lịch sử gia tộc)"
+      ]
+    }
+  },
+  {
+    "id": "jou-kaerikumo",
+    "kanji": "～城[帰雲～]",
+    "hiragana": "～じょう[かえりくも～]",
+    "en": "castle [Kaerikumo]",
+    "vi": "thành ~ [Kaerikumo]",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ thành",
+        "Ví dụ: 帰雲城 (Thành Kaerikumo)"
+      ]
+    }
+  },
+  {
+    "id": "shiro",
+    "kanji": "城",
+    "hiragana": "しろ",
+    "en": "castle",
+    "vi": "thành, lâu đài",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ thành, lâu đài",
+        "Ví dụ: 城を 見学する (Tham quan thành)"
+      ]
+    }
+  },
+  {
+    "id": "horiateru",
+    "kanji": "掘り当てる",
+    "hiragana": "ほりあてる",
+    "en": "to dig up, to strike",
+    "vi": "đào (vàng, v.v.)",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm II",
+        "《掘り当てます、掘り当てる、掘り当てて》",
+        "Ví dụ: 金を 掘り当てる (Đào được vàng)"
+      ]
+    }
+  },
+  {
+    "id": "kenryokusha",
+    "kanji": "権力者",
+    "hiragana": "けんりょくしゃ",
+    "en": "person in power",
+    "vi": "người có quyền lực",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ người có quyền lực",
+        "Ví dụ: 権力者に なる (Trở thành người có quyền lực)"
+      ]
+    }
+  },
+  {
+    "id": "kikin",
+    "kanji": "飢きん",
+    "hiragana": "ききん",
+    "en": "famine",
+    "vi": "nạn đói",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ nạn đói",
+        "Ví dụ: 飢きんが 起こる (Xảy ra nạn đói)"
+      ]
+    }
+  },
+  {
+    "id": "ken",
+    "kanji": "～軒",
+    "hiragana": "～けん",
+    "en": "counter for houses",
+    "vi": "trợ số từ đếm nhà",
+    "type": "counter",
+    "explanation": {
+      "content": [
+        "Trợ số từ đếm nhà",
+        "Ví dụ: 三軒の 家 (Ba ngôi nhà)"
+      ]
+    }
+  },
+  {
+    "id": "suuhyakunin",
+    "kanji": "数百人",
+    "hiragana": "すうひゃくにん",
+    "en": "several hundred people",
+    "vi": "vài trăm người (cf. 数十人：vài chục người, 数千人：vài nghìn người)",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ số lượng người",
+        "Ví dụ: 数百人が 集まる (Vài trăm người tập trung)"
+      ]
+    }
+  },
+  {
+    "id": "hitorinokorazu",
+    "kanji": "一人残らず",
+    "hiragana": "ひとりのこらず",
+    "en": "everyone, without exception",
+    "vi": "không còn một người",
+    "type": "adverb",
+    "explanation": {
+      "content": [
+        "Trạng từ chỉ sự hoàn toàn",
+        "Ví dụ: 一人残らず 集まる (Tập trung không còn một người)"
+      ]
+    }
+  },
+  {
+    "id": "kieru",
+    "kanji": "消える",
+    "hiragana": "きえる",
+    "en": "to disappear, to vanish",
+    "vi": "bị xóa sổ",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm II",
+        "《消えます、消える、消えて》",
+        "Ví dụ: 村が 消える (Làng bị xóa sổ)"
+      ]
+    }
+  },
+  {
+    "id": "hokan-suru",
+    "kanji": "保管する",
+    "hiragana": "ほかんする",
+    "en": "to keep, to store",
+    "vi": "bảo quản",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm III",
+        "《保管します、保管する、保管して》",
+        "Ví dụ: 資料を 保管する (Bảo quản tài liệu)"
+      ]
+    }
+  },
+  {
+    "id": "chou",
+    "kanji": "兆",
+    "hiragana": "ちょう",
+    "en": "trillion",
+    "vi": "nghìn tỷ",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ đơn vị số",
+        "Ví dụ: 一兆円 (Một nghìn tỷ yên)"
+      ]
+    }
+  },
+  {
+    "id": "wakeru-ikutsu-ka-ni",
+    "kanji": "分ける[いくつかに～］",
+    "hiragana": "わける",
+    "en": "to divide [into several parts]",
+    "vi": "chia ra [nhiều phần]",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm II",
+        "《分けます、分ける、分けて》",
+        "Ví dụ: いくつかに 分ける (Chia ra nhiều phần)"
+      ]
+    }
+  },
+  {
+    "id": "tsumoru-yuki-ga",
+    "kanji": "積もる[雪が～]",
+    "hiragana": "つもる[ゆきが～]",
+    "en": "to accumulate [snow]",
+    "vi": "[tuyết] tích lại",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm I",
+        "《積もります、積もる、積もって》",
+        "Ví dụ: 雪が 積もる (Tuyết tích lại)"
+      ]
+    }
+  },
+  {
+    "id": "kikou",
+    "kanji": "気候",
+    "hiragana": "きこう",
+    "en": "climate",
+    "vi": "khí hậu",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ khí hậu",
+        "Ví dụ: 気候が 変わる (Khí hậu thay đổi)"
+      ]
+    }
+  },
+  {
+    "id": "kankou-annai",
+    "kanji": "観光案内",
+    "hiragana": "かんこうあんあい",
+    "en": "tourist information",
+    "vi": "thông tin hướng dẫn du lịch",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ thông tin hướng dẫn du lịch",
+        "Ví dụ: 観光案内を する (Hướng dẫn du lịch)"
+      ]
+    }
+  },
+  {
+    "id": "kankouchi",
+    "kanji": "観光地",
+    "hiragana": "かんこうち",
+    "en": "tourist spot",
+    "vi": "điểm du lịch",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ điểm du lịch",
+        "Ví dụ: 観光地を 訪れる (Thăm điểm du lịch)"
+      ]
+    }
+  }
+]

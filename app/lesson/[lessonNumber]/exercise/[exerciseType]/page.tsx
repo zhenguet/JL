@@ -1,6 +1,7 @@
 import ExerciseClient from '../ExerciseClient';
 import { routeToExerciseType } from '@/lib/utils/exerciseRoute';
 import ExerciseTypePageClient from './ExerciseTypePageClient';
+import { generateLessonStaticParams } from '@/lib/utils/lessonParams';
 
 export function generateStaticParams() {
   const exerciseTypes = [
@@ -14,11 +15,11 @@ export function generateStaticParams() {
     'reading',
   ];
 
-  const lessons = Array.from({ length: 50 }, (_, i) => i + 1);
+  const lessons = generateLessonStaticParams();
 
-  return lessons.flatMap((lessonNumber) =>
+  return lessons.flatMap(({ lessonNumber }) =>
     exerciseTypes.map((exerciseType) => ({
-      lessonNumber: String(lessonNumber),
+      lessonNumber,
       exerciseType,
     }))
   );

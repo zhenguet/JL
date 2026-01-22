@@ -1,0 +1,541 @@
+[
+  {
+    "id": "zaru",
+    "title": "ざる",
+    "description": "「Vない　＋　ざるN」là hình thức cũ khi bổ nghĩa cho danh từ của 「Vない」.",
+    "structure": "Vない　＋　ざるN",
+    "examples": [
+      {
+        "japanese": "歴史にはまだまだ知られざる事実があるはずだ。",
+        "romaji": "Rekishi ni wa mada mada shirarezaru jijitsu ga aru hazu da.",
+        "vietnamese": "Chắc chắn vẫn còn nhiều sự thật chưa được biết đến trong lịch sử."
+      },
+      {
+        "japanese": "「見ざる、聞かざる、言わざる」は一つの生き方を示している。",
+        "romaji": "\"Mizaru, kikazaru, iwazaru\" wa hitotsu no ikikata o shimeshite iru.",
+        "vietnamese": "\"Không nhìn, không nghe, không nói\" là biểu đạt về một phương châm sống."
+      }
+    ],
+    "notes": [
+      "Hình thức cũ chỉ còn xuất hiện trong các ngữ cố định nên nó chỉ được dùng giới hạn trong các trường hợp như dưới đây (ngay cả những hình thức này cũng ít được dùng)",
+      "・～にあらざる（～ではない）",
+      "・欠くべからざる（欠かせない、不可欠な）",
+      "・知られざる（知られていない）"
+    ],
+    "exercises": [
+      {
+        "type": "multiple_choice",
+        "question": "世界には、許されざる差別がまだ残っている。",
+        "options": [
+          {
+            "label": "a",
+            "text": "世界には、許されなければならない差別が今もある。"
+          },
+          {
+            "label": "b",
+            "text": "世界には、許してはいけない差別が今もある。"
+          }
+        ],
+        "correctAnswer": "b",
+        "explanation": "世界には、許されざる差別がまだ残っている。\nỞ trên thế giới vẫn còn phân biệt đối xử mà không thể chấp nhận được。\n\nb.　世界には、許してはいけない差別が今もある。\nỞ trên thế giới, hiện tại vẫn có phân biệt đối xử mà không thể chấp nhận được。"
+      }
+    ]
+  },
+  {
+    "id": "kara-ni-itaru-made",
+    "title": "から～に至るまで",
+    "description": "Cách nói「～から～に至るまで・・・」đưa ra hai đối tượng của một sự việc, và biểu thị rằng nội dung ở「・・・」tương ứng với cả hai đối tượng đó.",
+    "structure": "～から～に至るまで",
+    "examples": [
+      {
+        "japanese": "自転車のねじから人工衛星の部品に至るまで、どれもこの工場で作っています。",
+        "romaji": "Jitensha no neji kara jinkou eisei no buhin ni itaru made, dore mo kono koujou de tsukutte imasu.",
+        "vietnamese": "Ở nhà máy này chúng tôi sản xuất tất cả mọi thứ, từ cái ốc vít của xe ô tô cho đến phụ tùng của vệ tinh nhân tạo."
+      },
+      {
+        "japanese": "クラシックからJ-popに至るまで、当選ではどんなジャンルの音楽でもご用意しております。",
+        "romaji": "Kurashikku kara J-pop ni itaru made, tousen de wa donna janru no ongaku demo go youi shite orimasu.",
+        "vietnamese": "Cửa hàng chúng tôi có đủ tất cả các thể loại nhạc từ cổ điển cho đến J-pop."
+      }
+    ],
+    "notes": [
+      "Đưa ra hai đối tượng của một sự việc",
+      "Biểu thị rằng nội dung tương ứng với cả hai đối tượng đó"
+    ],
+    "exercises": [
+      {
+        "type": "multiple_choice",
+        "question": "この歌は子供からお年寄りに至るまで、みんなに親しまれています。",
+        "options": [
+          {
+            "label": "a",
+            "text": "この歌は子供とお年寄りに親しまれている。"
+          },
+          {
+            "label": "b",
+            "text": "この歌はあらゆる世代の人に親しまれている。"
+          }
+        ],
+        "correctAnswer": "b",
+        "explanation": "この歌は子供からお年寄りに至るまで、みんなに親しまれています。\nBài hát này được mọi người yêu thích, từ trẻ em đến cả người lớn tuổi。\n\nb.　この歌はあらゆる世代の人に親しまれている。\nBài hát này được mọi thế hệ yêu thích。"
+      }
+    ]
+  },
+  {
+    "id": "kiru",
+    "title": "きる",
+    "description": "「～きる」biểu đạt ý nghĩa「完全に～する」. Và cấu trúc「động từ chỉ động tác　＋　きる」như ở ví dụ ① sẽ có nghĩa là「最初から最後まで～する」.",
+    "structure": "Vます（stem）＋きる",
+    "examples": [
+      {
+        "japanese": "彼はマラソンで４２．１９５kmを走り切った。",
+        "romaji": "Kare wa marason de 42.195 km o hashirikitta.",
+        "vietnamese": "Anh ấy đã chạy trọn 42.195 km ở cuộc thi ma-ra-tông."
+      },
+      {
+        "japanese": "赤ちゃんは安心しきった表情で母親の胸で眠っている。",
+        "romaji": "Akachan wa anshin shikitta hyoujou de hahaoya no mune de nemutte iru.",
+        "vietnamese": "Đứa trẻ nằm ngủ trên ngực mẹ với vẻ mặt rất bình yên."
+      },
+      {
+        "japanese": "山本さんは疲れ切った顔で座り込んでいる。",
+        "romaji": "Yamamoto-san wa tsukare kitta kao de suwari konde iru.",
+        "vietnamese": "Anh Yamamoto ngồi im với khuôn mặt rất mệt mỏi."
+      }
+    ],
+    "notes": [
+      "Biểu đạt ý nghĩa「完全に～する」",
+      "Với động từ chỉ động tác có nghĩa là「最初から最後まで～する」"
+    ],
+    "exercises": [
+      {
+        "type": "multiple_choice",
+        "question": "子育てを母親にまかせっきりにしている父親が多い。",
+        "options": [
+          {
+            "label": "a",
+            "text": "母親だけが子育てをしている家庭が多い。"
+          },
+          {
+            "label": "b",
+            "text": "母親の子育てに協力する父親が多い。"
+          }
+        ],
+        "correctAnswer": "a",
+        "explanation": "子育てを母親にまかせっきりにしている父親が多い。\nCó nhiều ông bố giao hết hoàn toàn việc chăm con cho vợ。\n\na.　母親だけが子育てをしている家庭が多い。\nCó nhiều gia đình chỉ người mẹ chăm con。"
+      }
+    ]
+  },
+  {
+    "id": "naranu",
+    "title": "ならぬ",
+    "description": "Cấu trúc「Vない　＋　ぬN」là hình thức bổ nghĩa cho danh từ của「Vない」.「N１ならぬN2」có nghĩa là「N1ではないN2」.",
+    "structure": "Vない　＋　ぬN / N１ならぬN2",
+    "examples": [
+      {
+        "japanese": "それが、永遠の別れになるとは、神ならぬ私には、予想もできなかった。",
+        "romaji": "Sore ga, eien no wakare ni naru to wa, kami naranu watashi ni wa, yosou mo dekinakatta.",
+        "vietnamese": "Đối với người trần như tôi thì tôi đã không thể tài nào đoán được lần chia tay đó lại là lần chia ly vĩnh viễn của chúng tôi."
+      },
+      {
+        "japanese": "いつか宇宙に行きたいと思っていたが、それがついに夢ならぬ現実となった。",
+        "romaji": "Itsuka uchuu ni ikitai to omotte ita ga, sore ga tsui ni yume naranu genjitsu to natta.",
+        "vietnamese": "Tôi đã từng mong ước được đi lên vũ trụ, nhưng điều đó cuối cùng không còn là ước mơ mà đã thành hiện thực."
+      }
+    ],
+    "notes": [
+      "「Vない　＋　ぬN」là hình thức bổ nghĩa cho danh từ của「Vない」",
+      "「N１ならぬN2」có nghĩa là「N1ではないN2」"
+    ],
+    "exercises": [
+      {
+        "type": "multiple_choice",
+        "question": "駅前にコーヒーショップならぬ「ウォーターショップ」が開店するそうだ。",
+        "options": [
+          {
+            "label": "a",
+            "text": "こちらのチーズは、牛乳ならぬやぎ乳で使ったものです。"
+          },
+          {
+            "label": "b",
+            "text": "プッチーニ作曲の「誰も寝てはならぬ」は素晴らしい曲だ。"
+          }
+        ],
+        "correctAnswer": "a",
+        "explanation": "駅前にコーヒーショップならぬ「ウォーターショップ」が開店するそうだ。\nNghe nói ở trước nhà ga mở \"Water Shop\" chứ không phải là \"Coffee Shop\"。\n\na.　こちらのチーズは、牛乳ならぬやぎ乳で使ったものです。\nPho mát này làm từ sữa dê chứ không phải sữa bò。"
+      }
+    ]
+  },
+  {
+    "id": "sae-ba",
+    "title": "さえ～ば",
+    "description": "Cấu trúc「～さえ・・・ば、・・・」biểu đạt ý nghĩa(điều kiện đủ) rằng「～が満たされれば、それだけで・・・には十分だ」.",
+    "structure": "N / Vます（stem） / Vて　＋　さえ・・・ば",
+    "examples": [
+      {
+        "japanese": "非常用として3日分の水と料理を蓄えておきさえすれば、あとは何とかなる。",
+        "romaji": "Hijouyou to shite mikkabun no mizu to ryouri o takuwaete oki sae sureba, ato wa nan to ka naru.",
+        "vietnamese": "Nếu chúng ta dự trữ sẵn lượng nước uống và thực phẩm của 3 ngày cho lúc khẩn cấp thì sau đó nếu có gì xảy ra cũng xoay sở được."
+      },
+      {
+        "japanese": "このグラウンドは、市役所に申し込みさえすれば、誰でも使えます。",
+        "romaji": "Kono gurando wa, shiyakusho ni moushikomi sae sureba, dare demo tsukaemasu.",
+        "vietnamese": "Ai cũng có thể sử dụng sân bóng này nếu có đăng kí với thành phố."
+      },
+      {
+        "japanese": "家族が健康に暮らしてさえいれば、十分に幸せです。",
+        "romaji": "Kazoku ga kenkou ni kurashite sae ireba, juubun ni shiawase desu.",
+        "vietnamese": "Chỉ cần gia đình sinh sống khỏe mạnh là tôi đã đủ hạnh phúc."
+      }
+    ],
+    "notes": [
+      "Biểu đạt ý nghĩa điều kiện đủ",
+      "Trường hợp động từ: Vます＋さえすれば（例: 読む　→　読みさえすれば）",
+      "Trường hợp bao gồm thể て của động từ：Vてさえいれば（例：読んでいる　→　読んでさえ入れば）",
+      "Trường hợp tính từ đuôi い：Aくさえあれば（例：おもしろい　→　おもしろくさえあれば）",
+      "Trường hợp tính từ đuôi な/danh từ＋だ：なA／Nでありさえすれば（例：静かだ　→　静かでありさえすれば、日本だ　→　日本でありさえすれば）"
+    ],
+    "exercises": [
+      {
+        "type": "fill_in_blank",
+        "title": "練習１",
+        "items": [
+          {
+            "example": "子供　褒めてやる　まっすぐ　育つ　ものだ\n→　子供は褒めてやりさえすれば、まっすぐ育つものです。",
+            "question": "前方　よく　見る　運転する　事故　起きない　はず",
+            "answer": "前方をよく見て運転しさえすれば、事故は起きないはずだ。",
+            "translation": "Chỉ cần ta lái xe mà nhìn kỹ phía trước, thì chắc tai nạn sẽ không xảy ra。"
+          },
+          {
+            "question": "よく　食べる　よく　寝る　病気　ならない",
+            "answer": "よく食べて、よく寝さえすれば、病気にならないと思う。",
+            "translation": "Tôi nghĩ nếu ăn uống điều độ, ngủ đủ giấc thì sẽ không bị bệnh。"
+          }
+        ]
+      },
+      {
+        "type": "free_response",
+        "title": "練習２",
+        "instruction": "何かをしてさえいれば、機嫌のいい人を紹介してください。",
+        "example": "次郎はゲームをしてさえいいれば、機嫌がいいです。宿題をしろとか食事だからやめろなどと言うと機嫌が悪くまります。きちんとしつけをしたくても言うことをきかず、親としてはストレスがたまります。"
+      }
+    ]
+  },
+  {
+    "id": "toshite-nai",
+    "title": "として～ない",
+    "description": "Cấu trúc「(từ ngữ bao gồm 一)として～ない」biểu thị ý nghĩa rằng「～でないものはない、すべてのものが～だ」.",
+    "structure": "一＋として～ない",
+    "examples": [
+      {
+        "japanese": "似ている声はありますが、調べてみると同じ声は一つとしてありません。",
+        "romaji": "Nite iru koe wa arimasu ga, shirabete miru to onaji koe wa hitotsu to shite arimasen.",
+        "vietnamese": "Có những giọng nói tương tự nhau, nhưng khi tôi kiểm tra thử thì chẳng có cặp giọng nào là giống nhau cả."
+      },
+      {
+        "japanese": "皆が励まし合った結果、一人としてやめたいと言う者はいなかった。",
+        "romaji": "Mina ga hagemashi atta kekka, hitori to shite yametai to iu mono wa inakatta.",
+        "vietnamese": "Sau khi động viên lẫn nhau thì chẳng còn một ai nói là muốn nghỉ nữa."
+      },
+      {
+        "japanese": "故郷で暮らす母を思わない日は一日でもとしてありません。",
+        "romaji": "Kokyou de kurasu haha o omowanai hi wa ichinichi demo to shite arimasen.",
+        "vietnamese": "Tôi không một ngày nào là nguôi nhớ về người mẹ sống ở quê."
+      }
+    ],
+    "notes": [
+      "Những từ bắt đầu bằng \"ー\", ví dụ, 一日、一時、（誰）一人、（何）一つ",
+      "Biểu thị ý nghĩa「～でないものはない、すべてのものが～だ」"
+    ],
+    "exercises": [
+      {
+        "type": "fill_in_blank",
+        "title": "練習１",
+        "items": [
+          {
+            "example": "例：今悲しくつらい日々も、人生にとって無駄なことは一つとしてないと信じます。",
+            "question": "彼女に出会って以来、＿＿＿彼女のことを思わない日はない。",
+            "answer": "一日として",
+            "translation": "Từ khi gặp cô ấy, không có ngày nào tôi ngừng nghĩ về cô ấy cả。"
+          },
+          {
+            "question": "君のようなお金の価値が分からない人にお金う貸す人は＿＿＿いません。",
+            "answer": "一人として",
+            "translation": "Chẳng một ai cho mượn tiền, một người là không biết giá trị đồng tiền như cậu đâu。"
+          },
+          {
+            "question": "モーツアルトの作品にはつまらない曲は＿＿＿ありません。",
+            "answer": "一つとして",
+            "translation": "Không một ca khúc nào không hay trong những tác phẩm của Mozart。"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "ijou",
+    "title": "以上",
+    "description": "Cấu trúc 「động từ thể thông thường（～）　＋　以上・・・」biểu đạt ý nghĩa \"trên cơ sở đã xác nhận「～」là sự thật, chủ trương/bày tỏ rằng「・・・」\".",
+    "structure": "V thể thông thường + 以上（は）",
+    "examples": [
+      {
+        "japanese": "相手が「うん」と言わぬ以上、あきらめるしかありません。",
+        "romaji": "Aite ga \"un\" to iwanu ijou, akirameru shika arimasen.",
+        "vietnamese": "Chừng nào người ta chưa đồng ý thì anh chỉ còn có cách từ bỏ mà thôi."
+      },
+      {
+        "japanese": "家賃が払えない以上、出ていくしかない。",
+        "romaji": "Yachin ga haraenai ijou, dete iku shika nai.",
+        "vietnamese": "Một khi tôi không thể thanh toán tiền nhà thì chỉ còn cách rời đi mà thôi."
+      },
+      {
+        "japanese": "結論が出た以上、実施に向けて計画を進めます。",
+        "romaji": "Ketsuron ga deta ijou, jisshi ni mukete keikaku o susumemasu.",
+        "vietnamese": "Một khi quyết định được đưa ra chúng tôi sẽ xúc tiến kế hoạch để thực hiện nó."
+      }
+    ],
+    "notes": [
+      "Biểu đạt ý nghĩa \"trên cơ sở đã xác nhận「～」là sự thật, chủ trương/bày tỏ rằng「・・・」\""
+    ],
+    "exercises": [
+      {
+        "type": "fill_in_blank",
+        "title": "練習１",
+        "items": [
+          {
+            "example": "例：住民　意見　受け入れる　市　一日も　早く　開発　進めてほしい\n→　住民の意見を受け入れた以上、市は一日も早く開発を進めてほしい。",
+            "question": "役員　引き受ける　この１年間　長い　旅行　病気　できない",
+            "answer": "役員を引き受けた以上、この１年間、長い旅行も病気もできない。",
+            "translation": "Một khi đã nhận chức quản lý, trong 1 năm thì không thể đi du lịch dài hạn cũng không thể ốm đau。"
+          },
+          {
+            "question": "人気　ない　番組　中止　なる　仕方がない",
+            "answer": "人気のない番組である以上中止になるのも仕方がない。",
+            "translation": "Chương trình truyền hình không được yêu thích thì chỉ còn cách ngừng hoạt động。"
+          }
+        ]
+      },
+      {
+        "type": "fill_in_blank",
+        "title": "練習２",
+        "items": [
+          {
+            "example": "例：会議で決まった以上、その決定に従わなければならない。",
+            "question": "どんなに小さな約束でも約束した以上は、＿＿＿。",
+            "answer": "守りたい",
+            "translation": "Cho dù là việc hẹn ước có nhỏ mức nào, một khi đã hẹn thì tôi muốn tuân thủ。"
+          },
+          {
+            "question": "＿＿＿以上は、３年は頑張らないと、その仕事が合っているかどうか結論は出せないはずだ。",
+            "answer": "就職が決まった",
+            "translation": "Khi đã quyết định công việc, thì phải cố gắng 3 năm mới có thể kết luận được công việc đó có phù hợp hay không。"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "nukagiri",
+    "title": "ぬかぎり",
+    "description": "「～ない／～ぬかぎり、・・・」biểu thị ý nghĩa「～がなければ・・・はない」.「～ぬ」là cách nói cũ hơn.",
+    "structure": "Vない／ぬ　＋　かぎり",
+    "examples": [
+      {
+        "japanese": "私が病気にでもならぬかぎり、この店は売りません。",
+        "romaji": "Watashi ga byouki ni demo naranu kagiri, kono mise wa urimasen.",
+        "vietnamese": "Chừng nào tôi còn chưa đổ bệnh thì tôi sẽ không bán cửa hàng này."
+      },
+      {
+        "japanese": "あきらめないかぎり、チャンスは必ず来ると思う。",
+        "romaji": "Akiramenai kagiri, chansu wa kanarazu kuru to omou.",
+        "vietnamese": "Tôi nghĩ chừng nào còn chưa bỏ cuộc thì chắc chắn cơ hội vẫn còn đến."
+      },
+      {
+        "japanese": "ご本人の了承がないかぎり、個人情報はご提供できません。",
+        "romaji": "Go honnin no ryoushou ga nai kagiri, kojin jouhou wa go teikyou dekimasen.",
+        "vietnamese": "Chúng tôi không thể cung cấp thông tin cá nhân của họ một khi không được sự chấp thuận của người ta."
+      }
+    ],
+    "notes": [
+      "Biểu thị ý nghĩa「～がなければ・・・はない」",
+      "「～ぬ」là cách nói cũ hơn"
+    ],
+    "exercises": [
+      {
+        "type": "fill_in_blank",
+        "title": "練習１",
+        "items": [
+          {
+            "example": "例：努力しない　なりたい　自分　なれない\n→　努力しないかぎり、なりたい自分にはなれません。",
+            "question": "広告　世の中　知らせない　そんなに　いい　商品　売れない",
+            "answer": "広告で世の中に知らせないかぎり、どんなにいい商品でも売れない。",
+            "translation": "Một khi không thông báo cho người ta biết bằng quảng cáo, thì dù có tốt đến mấy cũng không thể bán chạy được。"
+          },
+          {
+            "question": "自分から　行動　起こさない　幸運　向こうから　やってこない",
+            "answer": "自分から行動を起こさないかぎり、幸運は向こうからやってこない。",
+            "translation": "Một khi không tự thân vận động, thì vận may sẽ không đến đâu。"
+          }
+        ]
+      },
+      {
+        "type": "fill_in_blank",
+        "title": "練習２",
+        "items": [
+          {
+            "example": "例：時計の針が戻らないかぎり、銭湯や下駄屋のある街並みを見ることができない。",
+            "question": "上司の許可がないかぎり、＿＿＿。",
+            "answer": "会社のパソコンに新しいソフトを入れることはできない",
+            "translation": "Một khi không được sự cho phép của cấp trên, thì không thể cài phần mềm mới vào máy tính công ty。"
+          },
+          {
+            "question": "＿＿＿かぎり、戦争はなくならない。",
+            "answer": "これまでと全く違う価値観を持たない",
+            "translation": "Một khi không có cách nhìn nhận khác hoàn toàn so với trước đây, thì chiến tranh sẽ còn xảy ra。"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "wake-ni-wa-ikanai",
+    "title": "わけにはいかない",
+    "description": "「～わけにはい（ゆ）かない」biểu đạt ý nghĩa \"việc thực hiện/làm「～」là điều không được cho phép/điều không thể\".「わけにはいかない」thường được dùng với những từ ngữ biểu thị lý do như「～（だ）から／～くて」.",
+    "structure": "V thể nguyên dạng ／ V thể ない　＋　わけにはい（ゆ）きません",
+    "examples": [
+      {
+        "japanese": "どんなに生活に困っても、子供の学費のために貯金してきたこのお金を使うわけにはいかない。",
+        "romaji": "Donna ni seikatsu ni komatte mo, kodomo no gakuhi no tame ni chokin shite kita kono okane o tsukau wake ni wa ikanai.",
+        "vietnamese": "Dù cho cuộc sống có khó khăn như thế nào đi nữa thì chúng ta cũng không thể sử dụng khoản tiền mà chúng ta đã dành dụm để chi trả tiền học cho các con."
+      },
+      {
+        "japanese": "遅刻も1回、2回なら許してもいいが、3回も4回も重なると許すわけにはいかない。",
+        "romaji": "Chikoku mo ikkai, nikai nara yurushite mo ii ga, sankai mo yonkai mo kasanaru to yurusu wake ni wa ikanai.",
+        "vietnamese": "Tôi có thể bỏ qua khi chị đến muộn 1, 2 lần, nhưng tôi không thể chấp nhận nếu điều này xảy ra trong 3, 4 lần."
+      },
+      {
+        "japanese": "失業中だからといって、親に頼るわけにはいかない。",
+        "romaji": "Shitsugyou chuu da kara to itte, oya ni tayoru wake ni wa ikanai.",
+        "vietnamese": "Không thể vì là tôi đang thất nghiệp mà tôi có thể dựa dẫm vào bố mẹ."
+      }
+    ],
+    "notes": [
+      "Biểu đạt ý nghĩa \"việc thực hiện/làm「～」là điều không được cho phép/điều không thể\"",
+      "Thường được dùng với những từ ngữ biểu thị lý do như「～（だ）から／～くて」"
+    ],
+    "exercises": [
+      {
+        "type": "fill_in_blank",
+        "title": "練習１",
+        "items": [
+          {
+            "example": "例：父　大切　する　レコード　捨てる\n→　父が大切にしていたレコードだから、捨てるわけにはいかない。",
+            "question": "家族　反対　押し切る　役者　なる　やめる",
+            "answer": "家族の反対を押し切ってでも、役者になるのをやめるわけにはいかない。",
+            "translation": "Cho dù có làm trái ý với gia đình, thì tôi cũng không thể từ bỏ việc trở thành diễn viên。"
+          },
+          {
+            "question": "絶対に　人　言わない　約束する　しゃべる",
+            "answer": "絶対に人に言わないと約束したから、しゃべるわけにはいかない。",
+            "translation": "Bởi vì đã hứa là tuyệt đối không nói với người khác, nên không thể nói được。"
+          }
+        ]
+      },
+      {
+        "type": "fill_in_blank",
+        "title": "練習２",
+        "items": [
+          {
+            "example": "例：宿題が終わらないうちは、寝るわけにはいかない。",
+            "question": "妻が３時間もかけて作ってくれた料理だから、＿＿＿。",
+            "answer": "食べないわけにはいかない",
+            "translation": "Bởi vì là món ăn mà vợ tôi mất 3 tiếng để làm, nên không thể nào không ăn được。"
+          },
+          {
+            "question": "やりたい仕事ができないからといって、＿＿＿。",
+            "answer": "すぐやめるわけにはいかない",
+            "translation": "Không thể nào bỏ việc tức thì chỉ vì không thể làm công việc mình yêu thích。"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "amari-ni",
+    "title": "あまり［に］",
+    "description": "Cấu trúc 「thể nguyên dạng/danh từ ＋　の　＋　あまり（に）・・・」biểu đạt ý nghĩa rằng 「とても～で、その結果・・・（てしまう）」.",
+    "structure": "Nのあまり「に」 / V thể nguyên dạng ＋ あまり「に」",
+    "examples": [
+      {
+        "japanese": "子供のことを心配するあまり、つい電話をしては嫌がられている。",
+        "romaji": "Kodomo no koto o shinpai suru amari, tsui denwa o shite wa iyagararete iru.",
+        "vietnamese": "Vì tôi quá lo cho con nên đã gọi điện và thế là tôi bị nó khó chịu."
+      },
+      {
+        "japanese": "ダイエットに励むあまり、病気になった。",
+        "romaji": "Daietto ni hagemu amari, byouki ni natta.",
+        "vietnamese": "Cô ấy đã thực hiện chế độ ăn kiêng quá triệt để nên đã đổ bệnh."
+      },
+      {
+        "japanese": "彼は驚きのあまりに、手に持っていたカップを落としてしまった。",
+        "romaji": "Kare wa odoroki no amari ni, te ni motte ita kappu o otoshite shimatta.",
+        "vietnamese": "Anh ấy đã quá sửng sốt đến mức đánh rơi chiếc cốc đang cầm trong tay."
+      }
+    ],
+    "notes": [
+      "Biểu đạt ý nghĩa rằng 「とても～で、その結果・・・（てしまう）」"
+    ],
+    "exercises": [
+      {
+        "type": "fill_in_blank",
+        "title": "練習１",
+        "items": [
+          {
+            "example": "例：スピーチ大会　緊張　足　震える　困った\n→　スピーチ大会のとき、緊張のあまりに足が震えて困りました。",
+            "question": "コンテスト　優勝する　興奮　大声　出してしまう　恥ずかしかった",
+            "answer": "コンテストで優勝したとき、興奮のあまり、大声を出してしまって恥ずかしかった。",
+            "translation": "Khi vô địch cuộc thi, tôi đã thật xấu hổ bởi đã hét lớn vì quá hưng phấn。"
+          },
+          {
+            "question": "昔々　ある国　王子様　失恋　悲しみ　石　なる",
+            "answer": "昔々、ある国の王子様は失恋の悲しみのあまり、石になってしまった。",
+            "translation": "Ngày xưa, hoàng tử của đất nước nọ rất đau khổ do thất tình nên đã biến thành cục đá。"
+          },
+          {
+            "question": "山田さん　手術　失敗　後悔する　医者　やめてしまった",
+            "answer": "山田さんは手術で失敗をして、後悔するあまり、医者をやめてしまった。",
+            "translation": "Yamada tiến hành phẩu thuật thất bại, do quá hối hận nên đã từ bỏ công việc bác sĩ。"
+          }
+        ]
+      },
+      {
+        "type": "fill_in_blank",
+        "title": "練習２",
+        "items": [
+          {
+            "example": "例：試合に負けて、悔しさのあまりに、涙が止まらなかった。",
+            "question": "彼女がボランティア活動に熱心なあまりに、＿＿＿。",
+            "answer": "ときどき学校を休む",
+            "translation": "Cô ấy rất nhiệt tình với công việc tình nguyện, thỉnh thoảng cô ấy nghỉ học。"
+          },
+          {
+            "question": "地球の未来を心配するあまりに、＿＿＿。",
+            "answer": "夜もよく眠れなくなってしまった",
+            "translation": "Quá lo lắng cho tương lai của trái đất, đến nỗi ban đêm cũng không thể ngủ ngon。"
+          },
+          {
+            "question": "彼は飛行機がゆれたとき恐怖のあまりに、＿＿＿。",
+            "answer": "顔がまっ青になった",
+            "translation": "Anh ấy mặt xanh ngắt vì quá sợ hãi lúc máy bay rung lắc。"
+          }
+        ]
+      },
+      {
+        "type": "free_response",
+        "title": "練習３",
+        "instruction": "うれしさのあまり、眠れなかった経験を話してください。",
+        "example": "長いことダンスを習ってきましたが、ちょっとも上達せず、落ち込んでいました。先週の木曜日、いつもの通り一人ずつやらされました。一瞬の沈黙のあと「すばらしい」と言われたとき、すぐには信じられませんでした。うれしさのあまり、その日の夜は夢の中でも踊っていました。"
+      }
+    ]
+  }
+]

@@ -1,0 +1,295 @@
+[
+  {
+    "id": "tara-ta-1",
+    "title": "（１）～たら、～た - Vたら、｛V・A｝た",
+    "description": "Mẫu「Xたら、Yた」biểu thị rằng Y là kết quả của hành động X. Mẫu câu này cũng biểu thị ý nghĩa Y được phát hiện như là kết quả của hành động X. Mẫu 「Xと、Yた」cũng có thể biểu thị ý nghĩa như ở (1) (2).",
+    "structure": "Vたら、｛V・A｝た",
+    "examples": [
+      {
+        "japanese": "薬を飲んだら、元気になりました。",
+        "romaji": "Kusuri o nonda ra, genki ni narimashita.",
+        "vietnamese": "Sau khi uống thuốc, tôi thấy khỏe hơn."
+      },
+      {
+        "japanese": "カーテンを変えたら、部屋が明るくなった。",
+        "romaji": "Kaaten o kaeta ra, heya ga akaruku natta.",
+        "vietnamese": "Sau khi tôi thay rèm cửa, căn phòng trở nên sáng hơn."
+      },
+      {
+        "japanese": "家に帰ったら、猫がいなかった。",
+        "romaji": "Ie ni kaetta ra, neko ga inakatta.",
+        "vietnamese": "Khi về đến nhà, tôi đã phát hiện con mèo không có ở đó."
+      },
+      {
+        "japanese": "かばんを開けたら、財布がなくなっていた。",
+        "romaji": "Kaban o aketa ra, saifu ga nakunatte ita.",
+        "vietnamese": "Khi mở cặp ra, tôi phát hiện cái ví đã bị mất."
+      },
+      {
+        "japanese": "50年前の古いお酒を飲んでみたら、おいしかった。",
+        "romaji": "Gojuu nen mae no furui osake o nonde mitara, oishikatta.",
+        "vietnamese": "Khi uống thử loại rượu cổ từ 50 năm trước, tôi thấy nó rất ngon."
+      },
+      {
+        "japanese": "薬を飲むと、元気になりました。",
+        "romaji": "Kusuri o nomu to, genki ni narimashita.",
+        "vietnamese": "Sau khi uống thuốc, tôi thấy khỏe hơn."
+      },
+      {
+        "japanese": "家に帰ると、猫がいなかった。",
+        "romaji": "Ie ni kaeru to, neko ga inakatta.",
+        "vietnamese": "Khi về đến nhà, tôi đã phát hiện con mèo không ở đó."
+      }
+    ],
+    "notes": [
+      "Mẫu「Xたら、Yた」biểu thị rằng Y là kết quả của hành động X",
+      "Mẫu câu này cũng biểu thị ý nghĩa Y được phát hiện như là kết quả của hành động X",
+      "Mẫu 「Xと、Yた」cũng có thể biểu thị ý nghĩa như ở (1) (2)",
+      "Tham chiếu: 「～たら (giả định)」: お金があったら、旅行します。",
+      "Tham chiếu: 「～たら (hoàn thành)」: 10時になったら、出かけましょう。 (Minna 2 bài 25)"
+    ]
+  },
+  {
+    "id": "tara-ta-2",
+    "title": "（２）～たら、～た - Phát hiện kết quả",
+    "description": "Mẫu「Xたら、Yた」biểu thị ý nghĩa Y được phát hiện như là kết quả của hành động X.",
+    "structure": "Vたら、｛V・A｝た",
+    "examples": [
+      {
+        "japanese": "家へ帰ったら、母から荷物が届いていた。",
+        "romaji": "Ie e kaetta ra, haha kara nimotsu ga todoite ita.",
+        "vietnamese": "Khi về đến nhà, thì hành lý mẹ gửi đã đến rồi."
+      },
+      {
+        "japanese": "冷蔵庫の中を見たら、何も入っていませんでした。",
+        "romaji": "Reizouko no naka o mitara, nani mo haitte imasen deshita.",
+        "vietnamese": "Mở tủ lạnh ra xem, thì mới hay bên trong không còn một cái gì cả."
+      },
+      {
+        "japanese": "財布の中を見たら、お金がなかった。",
+        "romaji": "Saifu no naka o mitara, okane ga nakatta.",
+        "vietnamese": "Nhìn trong ví, thì thấy không có tiền."
+      },
+      {
+        "japanese": "道を歩いていたら、財布が落ちていた。",
+        "romaji": "Michi o aruite itara, saifu ga ochite ita.",
+        "vietnamese": "Đi bộ trên đường thì thấy cái ví ai đó làm rơi."
+      },
+      {
+        "japanese": "友達のうちへ行ったら、誰もいなかった。",
+        "romaji": "Tomodachi no uchi e ittara, dare mo inakatta.",
+        "vietnamese": "Đến nhà bạn thì thấy không có ai cả."
+      },
+      {
+        "japanese": "ドアを開けたら、人が倒れていた。",
+        "romaji": "Doa o aketa ra, hito ga taorete ita.",
+        "vietnamese": "Mở cửa ra thì thấy có người đang ngất xỉu."
+      }
+    ],
+    "notes": [
+      "Biểu thị ý nghĩa Y được phát hiện như là kết quả của hành động X",
+      "Thường dùng để diễn tả những phát hiện bất ngờ hoặc không mong đợi"
+    ]
+  },
+  {
+    "id": "toiu-no-wa",
+    "title": "～というのは～のことだ・～というのは…ということだ",
+    "description": "「Xというのは～のことだ」và「Xというのは...ということだ」là những mẫu câu được sử dụng khi giải thích ý nghĩa của một từ (X).",
+    "structure": "Nというのは + Nのことだ / câu (thể thông thường) という + ことだ",
+    "examples": [
+      {
+        "japanese": "３Kというのは汚い、きつい、危険な仕事のことだ。",
+        "romaji": "San K to iu no wa kitanai, kitsui, kiken na shigoto no koto da.",
+        "vietnamese": "\"3K\" có nghĩa là một công việc bẩn thỉu, vất vả và nguy hiểm."
+      },
+      {
+        "japanese": "PCというのはパソコンのことです。",
+        "romaji": "Pii Shii to iu no wa pasokon no koto desu.",
+        "vietnamese": "\"PC\" có nghĩa là \"máy tính cá nhân\"."
+      },
+      {
+        "japanese": "禁煙というのはたばこを吸ってはいけないということです。",
+        "romaji": "Kinen to iu no wa tabako o sutte wa ikenai to iu koto desu.",
+        "vietnamese": "\"禁煙\" có nghĩa là không được hút thuốc lá."
+      },
+      {
+        "japanese": "駐車違反というのは車を止めてはいけない場所に車を止めたということです。",
+        "romaji": "Chuusha ihan to iu no wa kuruma o tomete wa ikenai basho ni kuruma o tometa to iu koto desu.",
+        "vietnamese": "\"駐車違反\" có nghĩa là bạn đã đỗ xe ở chỗ cấm đỗ."
+      },
+      {
+        "japanese": "外来語というのは日本語になった外国語のことだ。",
+        "romaji": "Gairaigo to iu no wa Nihongo ni natta gaikokugo no koto da.",
+        "vietnamese": "Tiếng ngoại lai là tiếng ngoại quốc đã trở thành tiếng Nhật."
+      },
+      {
+        "japanese": "「地球にやさしい」というのはどういう意味ですか。",
+        "romaji": "\"Chikyuu ni yasashii\" to iu no wa dou iu imi desu ka.",
+        "vietnamese": "\"Thân thiện với trái đất\" có ý nghĩa gì?"
+      }
+    ],
+    "notes": [
+      "Dùng để giải thích ý nghĩa của một từ hoặc cụm từ",
+      "「NというのはNのことだ」dùng khi giải thích bằng danh từ",
+      "「Nというのは...ということだ」dùng khi giải thích bằng câu"
+    ]
+  },
+  {
+    "id": "toiu",
+    "title": "…という～",
+    "description": "Mẫu 「...という～」được dùng khi đề cập đến chi tiết nội dung của các danh từ biểu thị lời nói hoặc suy nghĩ, như「話、うわさ、考え、意見、意志、批判、ニュース」(\"câu chuyện\", \"tin đồn\", \"suy nghĩ\", \"ý kiến\", \"ý chí\", \"phê bình\", \"tin tức\", v.v.).",
+    "structure": "Câu (thể thông thường) ＋ というN (danh từ biểu thị lời nói hoặc suy nghĩ)",
+    "examples": [
+      {
+        "japanese": "昔ここは海だったという話を知っていますか。",
+        "romaji": "Mukashi koko wa umi datta to iu hanashi o shitte imasu ka.",
+        "vietnamese": "Anh/chị có biết chuyện rằng vùng này ngày xưa là biển không?"
+      },
+      {
+        "japanese": "田中さんがもうすぐ会社を辞めるといううわさを聞きました。",
+        "romaji": "Tanaka-san ga mou sugu kaisha o yameru to iu uwasa o kikimashita.",
+        "vietnamese": "Tôi đã nghe tin đồn rằng anh Tanak sắp nghỉ việc ở công ty."
+      },
+      {
+        "japanese": "カリナさんは、研究室は禁煙にしたほうがいいという意見を持っている。",
+        "romaji": "Karina-san wa, kenkyuushitsu wa kinen ni shita hou ga ii to iu iken o motte iru.",
+        "vietnamese": "Chi Karina là người đưa ra ý kiến rằng nên cấm hút thuốc ở phòng nghiên cứu."
+      },
+      {
+        "japanese": "日本語を学習する外国人が増えているという記事を読みました。",
+        "romaji": "Nihongo o gakushuu suru gaikokujin ga fuete iru to iu kiji o yomimashita.",
+        "vietnamese": "Tôi đã đọc bài báo nói rằng người nước ngoài học tiếng Nhật đang tăng lên."
+      },
+      {
+        "japanese": "ごみを分けて出すという規則はなかなか守られていません。",
+        "romaji": "Gomi o wakete dasu to iu kisoku wa nakanaka mamorarete imasen.",
+        "vietnamese": "Quy tắc phân loại rồi xả rác không được chấp hành tốt."
+      },
+      {
+        "japanese": "彼が会社を辞めたといううわさを聞きました。",
+        "romaji": "Kare ga kaisha o yameta to iu uwasa o kikimashita.",
+        "vietnamese": "Tôi đã nghe tin đồn rằng anh ấy đã thôi việc ở công ty."
+      }
+    ],
+    "notes": [
+      "Dùng khi đề cập đến chi tiết nội dung của các danh từ biểu thị lời nói hoặc suy nghĩ",
+      "Các danh từ thường dùng: 話、うわさ、考え、意見、意志、批判、ニュース、記事、規則、法律",
+      "Câu đứng trước という phải ở thể thông thường"
+    ]
+  },
+  {
+    "id": "you-ni-iu",
+    "title": "…ように言う／注意する／伝える／頼む",
+    "description": "Cách nói này được sử dụng khi truyền đạt lại một cách gián tiếp nội dung của chỉ thị hoặc yêu cầu. Khi truyền đạt trực tiếp nội dung của chỉ thị hoặc yêu cầu thì câu sẽ có hình thức là「～なさい」,「～てはいけません」hoặc「～てください」.",
+    "structure": "V thể nguyên dạng / V thể ない + ように + V（言う、注意する、伝える、頼む）",
+    "examples": [
+      {
+        "japanese": "学生に図書館で物を食べないように注意しました。",
+        "romaji": "Gakusei ni toshokan de mono o tabenai you ni chuui shimashita.",
+        "vietnamese": "Tôi đã nhắc nhở sinh viên không được ăn ở trong thư viện."
+      },
+      {
+        "japanese": "この仕事を今日中にやるように頼まれました。",
+        "romaji": "Kono shigoto o kyouchuu ni yaru you ni tanomaremashita.",
+        "vietnamese": "Tôi được yêu cầu phải hoàn thành công việc này trong ngày hôm nay."
+      },
+      {
+        "japanese": "子どもたちに早く寝るように言いました。",
+        "romaji": "Kodomo-tachi ni hayaku neru you ni iimashita.",
+        "vietnamese": "Tôi đã bảo bọn trẻ đi ngủ sớm."
+      },
+      {
+        "japanese": "先生に明日までにレポートを出すように言われました。",
+        "romaji": "Sensei ni ashita made ni repooto o dasu you ni iwaremashita.",
+        "vietnamese": "Tôi đã bị giáo viên bảo rằng là hãy nộp báo cáo trước ngày mai."
+      },
+      {
+        "japanese": "管理人さんにごみは月曜日以外には出さないように注意されました。",
+        "romaji": "Kanrinin-san ni gomi wa getsuyoubi igai ni wa dasanai you ni chuui saremashita.",
+        "vietnamese": "Tôi đã bị nhắc nhở rằng không vứt rác vào các ngày ngoài thứ hai."
+      },
+      {
+        "japanese": "ミラーさんにすぐ会議室へ来るように伝えてください。",
+        "romaji": "Miraa-san ni sugu kaigishitsu e kuru you ni tsutaete kudasai.",
+        "vietnamese": "Hãy truyền đạt cho anh Miller rằng hãy đến phòng họp ngay lập tức."
+      }
+    ],
+    "notes": [
+      "Dùng để truyền đạt lại một cách gián tiếp nội dung của chỉ thị hoặc yêu cầu",
+      "Khi truyền đạt trực tiếp thì dùng「～なさい」,「～てはいけません」hoặc「～てください」",
+      "なさい là biểu hiện chỉ thị hoặc mệnh lệnh, chỉ được sử dụng hạn chế trong một vài ngữ cảnh nhất định",
+      "Các động từ thường dùng: 言う、注意する、伝える、頼む"
+    ]
+  },
+  {
+    "id": "mitai-da",
+    "title": "～みたいだ・～みたいな～・みたいに…",
+    "description": "「～ようだ」và「～みたいだ」không khác nhau về nghĩa, nhưng「～みたいだ」được sử dụng trong câu văn ít trang trọng hơn.",
+    "structure": "N + みたいだ / みたいなN / みたいにV／いA／なA",
+    "examples": [
+      {
+        "japanese": "わあ、このお酒、ジュースみたいだね。",
+        "romaji": "Waa, kono osake, juusu mitai da ne.",
+        "vietnamese": "Ồ, rượu này có vị như nước hoa quả nhỉ."
+      },
+      {
+        "japanese": "わたしはジュースみたいなお酒しか飲まない。",
+        "romaji": "Watashi wa juusu mitai na osake shika nomanai.",
+        "vietnamese": "Tôi chỉ uống loại rượu có vị ngọt như nước hoa quả thôi."
+      },
+      {
+        "japanese": "このお酒はジュースみたいに甘いよ。",
+        "romaji": "Kono osake wa juusu mitai ni amai yo.",
+        "vietnamese": "Loại rượu này ngọt như nước hoa quả đấy."
+      },
+      {
+        "japanese": "夫は、カレーみたいな簡単な料理しか作れません。",
+        "romaji": "Otto wa, karee mitai na kantan na ryouri shika tsukuremasen.",
+        "vietnamese": "Chồng tôi chỉ có thể nấu được món đơn giản như cà ri."
+      },
+      {
+        "japanese": "このロボット、本物の犬みたいだ。",
+        "romaji": "Kono robotto, honmono no inu mitai da.",
+        "vietnamese": "Con robot này giống như con chó thật vậy."
+      },
+      {
+        "japanese": "てんぷらみたいな料理は世界中にありますからね。",
+        "romaji": "Tenpura mitai na ryouri wa sekaijuu ni arimasu kara ne.",
+        "vietnamese": "Vì những món ăn như Tembura có ở khắp thế giới."
+      },
+      {
+        "japanese": "子どものころから鳥みたいに空を飛びたいと思っていた。",
+        "romaji": "Kodomo no koro kara tori mitai ni sora o tobitai to omotte ita.",
+        "vietnamese": "Lúc nhỏ tôi muốn bay trên bầu trời như con chim vậy."
+      }
+    ],
+    "notes": [
+      "「～みたいだ」được sử dụng trong câu văn ít trang trọng hơn「～ようだ」",
+      "「～みたいだ」và「～ようだ」không khác nhau về nghĩa",
+      "Tham chiếu: 「～のようだ・～のような・～のように...」: あの病院はホテルのようだ。 (Minna 2 bài 1)"
+    ]
+  },
+  {
+    "id": "tokoro",
+    "title": "～ところ",
+    "description": "Có nghĩa như 「～とき」nhưng chỉ được sử dụng giới hạn trong những ngữ cảnh lịch sự với các từ nhất định như 「お忙しいところ」(Trong lúc bận rộn)「お休みのところ」(Trong lúc nghỉ ngơi)「お急ぎのところ」(Trong lúc gấp gáp)「お疲れのところ」(Trong lúc mệt mỏi). Được sử dụng khi nhờ vả ai cái gì, hay khi nói cám ơn ai việc gì.",
+    "structure": "お + Vます (bỏ ます) + ところ / お + N + のところ",
+    "examples": [
+      {
+        "japanese": "お忙しいところ、すみません。ちょっとお願いがあるんですが。",
+        "romaji": "Oisogashii tokoro, sumimasen. Chotto onegai ga arun desu ga.",
+        "vietnamese": "Xin lỗi làm phiền anh/chị trong lúc bận rộn, nhưng tôi có việc muốn nhờ."
+      },
+      {
+        "japanese": "お休みのところ、手伝ってくださって、ありがとうございました。",
+        "romaji": "Oyasumi no tokoro, tetsudatte kudasatte, arigatou gozaimashita.",
+        "vietnamese": "Cám ơn anh/chị trong lúc nghỉ ngơi đã bỏ thời gian giúp đỡ tôi."
+      }
+    ],
+    "notes": [
+      "Có nghĩa như 「～とき」nhưng chỉ được sử dụng giới hạn trong những ngữ cảnh lịch sự",
+      "Các cụm từ thường dùng: お忙しいところ、お休みのところ、お急ぎのところ、お疲れのところ",
+      "Được sử dụng khi nhờ vả ai cái gì, hay khi nói cám ơn ai việc gì"
+    ]
+  }
+]

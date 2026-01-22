@@ -1,0 +1,362 @@
+[
+  {
+    "id": 1,
+    "question": "<b><ruby>好奇心<rp>（</rp><rt>こうきしん</rt><rp>）</rp></ruby></b> có nghĩa là gì?",
+    "options": [
+      "tính tò mò",
+      "tính lười biếng",
+      "tính ích kỷ",
+      "tính nhút nhát"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 1
+  },
+  {
+    "id": 2,
+    "question": "<b><ruby>忍耐<rp>（</rp><rt>にんたい</rt><rp>）</rp></ruby></b> dùng để chỉ:",
+    "options": [
+      "sự nóng nảy",
+      "sự nhẫn nại, sức chịu đựng",
+      "sự vui vẻ",
+      "sự hời hợt"
+    ],
+    "correctAnswer": 1,
+    "difficulty": 1
+  },
+  {
+    "id": 3,
+    "question": "<b><ruby>就職試験<rp>（</rp><rt>しゅうしょくしけん</rt><rp>）</rp></ruby></b> là:",
+    "options": [
+      "kỳ thi đại học",
+      "kỳ thi chứng chỉ tiếng Nhật",
+      "kỳ thi tuyển dụng",
+      "kỳ thi thể thao"
+    ],
+    "correctAnswer": 2,
+    "difficulty": 1
+  },
+  {
+    "id": 4,
+    "question": "<b><ruby>面接<rp>（</rp><rt>めんせつ</rt><rp>）</rp></ruby></b> trong bối cảnh xin việc là:",
+    "options": [
+      "phỏng vấn",
+      "thực tập",
+      "bàn luận",
+      "ký hợp đồng"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 1
+  },
+  {
+    "id": 5,
+    "question": "<b><ruby>服装<rp>（</rp><rt>ふくそう</rt><rp>）</rp></ruby></b> chỉ:",
+    "options": [
+      "tính cách",
+      "trang phục, quần áo",
+      "chiều cao cơ thể",
+      "trình độ học vấn"
+    ],
+    "correctAnswer": 1,
+    "difficulty": 1
+  },
+  {
+    "id": 6,
+    "question": "<b><ruby>社会人<rp>（</rp><rt>しゃかいじん</rt><rp>）</rp></ruby></b> là:",
+    "options": [
+      "học sinh tiểu học",
+      "sinh viên đại học",
+      "người đã đi làm, thành viên xã hội",
+      "người thất nghiệp"
+    ],
+    "correctAnswer": 2,
+    "difficulty": 1
+  },
+  {
+    "id": 7,
+    "question": "<b><ruby>志望<rp>（</rp><rt>しぼう</rt><rp>）</rp></ruby></b> gần nghĩa với:",
+    "options": [
+      "từ chối",
+      "nguyện vọng, mong muốn",
+      "tuyên bố",
+      "phê bình"
+    ],
+    "correctAnswer": 1,
+    "difficulty": 1
+  },
+  {
+    "id": 8,
+    "question": "<b><ruby>農産物<rp>（</rp><rt>のうさんぶつ</rt><rp>）</rp></ruby></b> là:",
+    "options": [
+      "sản phẩm công nghiệp",
+      "nông sản",
+      "sản phẩm thủ công mỹ nghệ",
+      "sản phẩm tái chế"
+    ],
+    "correctAnswer": 1,
+    "difficulty": 1
+  },
+  {
+    "id": 9,
+    "question": "<b><ruby>医薬品<rp>（</rp><rt>いやくひん</rt><rp>）</rp></ruby></b> chỉ:",
+    "options": [
+      "đồ gia dụng",
+      "mỹ phẩm",
+      "dược phẩm, thuốc",
+      "thực phẩm đông lạnh"
+    ],
+    "correctAnswer": 2,
+    "difficulty": 1
+  },
+  {
+    "id": 10,
+    "question": "<b><ruby>履歴書<rp>（</rp><rt>りれきしょ</rt><rp>）</rp></ruby></b> là giấy tờ gì?",
+    "options": [
+      "hợp đồng lao động",
+      "sơ yếu lý lịch",
+      "giấy chứng nhận tốt nghiệp",
+      "giấy khám sức khỏe"
+    ],
+    "correctAnswer": 1,
+    "difficulty": 1
+  },
+  {
+    "id": 11,
+    "question": "Cách đọc đúng của từ sau: <b><ruby>忍耐<rp>（</rp><rt>　</rt><rp>）</rp></ruby></b>",
+    "options": [
+      "にんたい",
+      "にんてい",
+      "しんたい",
+      "しんてい"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 2
+  },
+  {
+    "id": 12,
+    "question": "Cách đọc đúng của từ sau: <b><ruby>配属<rp>（</rp><rt>　</rt><rp>）</rp></ruby></b>",
+    "options": [
+      "はいしょく",
+      "はいぞく",
+      "はいそく",
+      "はいぞう"
+    ],
+    "correctAnswer": 1,
+    "difficulty": 2
+  },
+  {
+    "id": 13,
+    "question": "Cách đọc đúng của từ sau: <b><ruby>適性<rp>（</rp><rt>　</rt><rp>）</rp></ruby></b>",
+    "options": [
+      "てきせん",
+      "てきしょう",
+      "てきせい",
+      "てっせい"
+    ],
+    "correctAnswer": 2,
+    "difficulty": 2
+  },
+  {
+    "id": 14,
+    "question": "Cách đọc đúng của từ sau: <b><ruby>比較<rp>（</rp><rt>　</rt><rp>）</rp></ruby></b>",
+    "options": [
+      "ひかく",
+      "ひがく",
+      "へいかく",
+      "ひかっく"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 2
+  },
+  {
+    "id": 15,
+    "question": "Cách đọc đúng của từ sau: <b><ruby>効率<rp>（</rp><rt>　</rt><rp>）</rp></ruby></b>",
+    "options": [
+      "こうりつ",
+      "こうれつ",
+      "こりつ",
+      "ごうりつ"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 2
+  },
+  {
+    "id": 16,
+    "question": "Chọn câu dùng đúng mẫu <b>～ざるN</b>:<br/><br/>“Trong lịch sử vẫn còn nhiều sự thật chưa được biết đến.”",
+    "options": [
+      "歴史にはまだまだ知らざる事実があるはずだ。",
+      "歴史にはまだまだ知られざる事実があるはずだ。",
+      "歴史にはまだまだ知らないざる事実があるはずだ。",
+      "歴史にはまだまだ知らなくざる事実があるはずだ。"
+    ],
+    "correctAnswer": 1,
+    "difficulty": 2
+  },
+  {
+    "id": 17,
+    "question": "Ý nghĩa gần đúng nhất của mẫu <b><ruby>知られざる<rp>（</rp><rt>しられざる</rt><rp>）</rp></ruby>事実</b> là gì?",
+    "options": [
+      "sự thật đã biết đến rộng rãi",
+      "sự thật không rõ đúng sai",
+      "sự thật chưa được biết đến",
+      "sự thật không quan trọng"
+    ],
+    "correctAnswer": 2,
+    "difficulty": 2
+  },
+  {
+    "id": 18,
+    "question": "Chọn câu dùng đúng mẫu <b>～から～に至るまで</b>:",
+    "options": [
+      "ねじから人工衛星の部品に至ってまで、この工場で作っている。",
+      "ねじから人工衛星の部品までに至るまで、この工場で作っている。",
+      "ねじから人工衛星の部品に至るまで、この工場で作っている。",
+      "ねじから人工衛星の部品に至る、この工場で作っている。"
+    ],
+    "correctAnswer": 2,
+    "difficulty": 2
+  },
+  {
+    "id": 19,
+    "question": "Mẫu <b>N1 から N2 に至るまで</b> thường diễn tả:",
+    "options": [
+      "hai sự việc đối lập nhau",
+      "phạm vi rất rộng từ N1 đến N2",
+      "lý do và kết quả",
+      "so sánh hơn kém giữa N1 và N2"
+    ],
+    "correctAnswer": 1,
+    "difficulty": 2
+  },
+  {
+    "id": 20,
+    "question": "Chọn câu dùng đúng mẫu <b>Vます＋きる</b>:<br/><br/>“Anh ấy đã chạy trọn 42.195km.”",
+    "options": [
+      "彼はマラソンで４２．１９５kmを走りきる。",
+      "彼はマラソンで４２．１９５kmを走りきった。",
+      "彼はマラソンで４２．１９５kmを走るきった。",
+      "彼はマラソンで４２．１９５kmを走ってきる。"
+    ],
+    "correctAnswer": 1,
+    "difficulty": 2
+  },
+  {
+    "id": 21,
+    "question": "Ý nghĩa chính của mẫu <b>Vます＋きる</b> là gì?",
+    "options": [
+      "bắt đầu làm V",
+      "làm V một cách do dự",
+      "làm V hoàn toàn, đến cùng",
+      "dừng V giữa chừng"
+    ],
+    "correctAnswer": 2,
+    "difficulty": 2
+  },
+  {
+    "id": 22,
+    "question": "Chọn câu dùng đúng mẫu <b>N1 ならぬ N2</b>:<br/><br/>“Điều đó cuối cùng không còn là ước mơ mà đã trở thành hiện thực.”",
+    "options": [
+      "それがついに夢ならぬ現実になった。",
+      "それがついに夢ならぬ現実となった。",
+      "それがついに夢ならない現実となった。",
+      "それがついに夢ならぬ現実である。"
+    ],
+    "correctAnswer": 1,
+    "difficulty": 2
+  },
+  {
+    "id": 23,
+    "question": "Mẫu <b>さえ～ば</b> trong câu sau mang nghĩa gì?<br/><br/>「家族が健康に暮らしてさえいれば、十分に幸せです。」",
+    "options": [
+      "chỉ cần điều đó được thỏa mãn là đủ",
+      "dù điều đó không được thỏa mãn cũng không sao",
+      "điều đó là không quan trọng",
+      "điều đó chắc chắn không xảy ra"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 2
+  },
+  {
+    "id": 24,
+    "question": "Chọn câu dùng đúng mẫu <b>～さえすれば</b>:",
+    "options": [
+      "この薬を飲んでさえすれば、すぐ元気になるよ。",
+      "この薬を飲みさえれば、すぐ元気になるよ。",
+      "この薬を飲みさえすると、すぐ元気になるよ。",
+      "この薬を飲んでさえすると、すぐ元気になるよ."
+    ],
+    "correctAnswer": 0,
+    "difficulty": 2
+  },
+  {
+    "id": 25,
+    "question": "Chọn câu dùng đúng mẫu <b>一～として～ない</b>:<br/><br/>“Không một ai nói muốn nghỉ.”",
+    "options": [
+      "一人としてやめたいと言う者はいなかった。",
+      "一人としてやめたいと言う者はいませんでした。",
+      "一人とやめたいと言う者はとしていなかった。",
+      "一人としてやめたいと言う者がない。"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 2
+  },
+  {
+    "id": 26,
+    "question": "Chọn câu dùng đúng mẫu <b>V普通形＋以上</b>:<br/><br/>“Một khi quyết định đã được đưa ra, chúng tôi sẽ xúc tiến kế hoạch.”",
+    "options": [
+      "結論が出た以上、計画を進めます。",
+      "結論が出る以上、計画を進めます。",
+      "結論が出た以上に、計画を進めます。",
+      "結論が出ない以上、計画を進めます。"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 2
+  },
+  {
+    "id": 27,
+    "question": "Chọn câu dùng đúng mẫu <b>～ない／ぬかぎり</b>:<br/><br/>“Chừng nào còn chưa bỏ cuộc thì cơ hội vẫn còn đến.”",
+    "options": [
+      "あきらめないかぎり、チャンスは必ず来ると思う。",
+      "あきらめぬかぎり、チャンスは必ず来ると思う。",
+      "あきらめない以上、チャンスは必ず来ると思う。",
+      "あきらめぬ以上、チャンスは必ず来ると思う。"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 2
+  },
+  {
+    "id": 28,
+    "question": "Chọn câu dùng đúng mẫu <b>～わけにはいかない</b>:<br/><br/>“Dù cuộc sống có khó khăn đến đâu cũng không thể dùng khoản tiền dành dụm này.”",
+    "options": [
+      "どんなに生活に困っても、この貯金を使うわけにはいかない。",
+      "どんなに生活に困っても、この貯金を使うわけではいかない。",
+      "どんなに生活に困っても、この貯金を使わないわけにはいかない。",
+      "どんなに生活に困っても、この貯金を使うわけにならない。"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 2
+  },
+  {
+    "id": 29,
+    "question": "Chọn câu dùng đúng mẫu <b>N／V普通形＋あまり（に）</b>:<br/><br/>“Vì quá lo cho con nên tôi lỡ gọi điện và bị nó khó chịu.”",
+    "options": [
+      "子供のことを心配するあまりに、つい電話をしては嫌がられている。",
+      "子供のことを心配のあまりに、つい電話をしては嫌がられている。",
+      "子供のことを心配あまりに、つい電話をしては嫌がられている。",
+      "子供のことを心配であまりに、つい電話をしては嫌がられている。"
+    ],
+    "correctAnswer": 1,
+    "difficulty": 2
+  },
+  {
+    "id": 30,
+    "question": "Trong câu sau, sắc thái của mẫu <b>～のあまり</b> là gì?<br/><br/>「地球の未来を心配するあまりに、夜もよく眠れなくなってしまった。」",
+    "options": [
+      "vì hơi lo nên có chút mất ngủ",
+      "vì rất lo nên dẫn đến kết quả tiêu cực",
+      "vì lo nhưng không có gì xảy ra",
+      "vì lo nên cảm thấy nhẹ nhõm"
+    ],
+    "correctAnswer": 1,
+    "difficulty": 2
+  }
+]

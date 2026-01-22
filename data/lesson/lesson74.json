@@ -1,0 +1,2433 @@
+[
+  {
+    "id": "型",
+    "kanji": "型",
+    "hiragana": "かた",
+    "en": "",
+    "vi": "khuôn khổ",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "はまる",
+    "kanji": "はまる",
+    "hiragana": "はまる",
+    "en": "",
+    "vi": "theo (khuôn khổ)",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ"
+      ]
+    }
+  },
+  {
+    "id": "好奇心",
+    "kanji": "好奇心",
+    "hiragana": "こうきしん",
+    "en": "",
+    "vi": "tính tò mò",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "忍耐",
+    "kanji": "忍耐",
+    "hiragana": "にんたい",
+    "en": "",
+    "vi": "(sức) chịu đựng, (sự) nhẫn nại",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "就職試験",
+    "kanji": "就職試験",
+    "hiragana": "しゅうしょくしけん",
+    "en": "",
+    "vi": "kỳ thi tuyển dụng",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "面接",
+    "kanji": "面接",
+    "hiragana": "めんせつ",
+    "en": "",
+    "vi": "Phỏng vấn",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "約束事",
+    "kanji": "約束事",
+    "hiragana": "やくそくごと",
+    "en": "",
+    "vi": "điều hứa hẹn",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "守る",
+    "kanji": "守る",
+    "hiragana": "まもる",
+    "en": "",
+    "vi": "giữ (lời hứa)",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ"
+      ]
+    }
+  },
+  {
+    "id": "服装",
+    "kanji": "服装",
+    "hiragana": "ふくそう",
+    "en": "",
+    "vi": "quần áo, trang phục",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "tpo",
+    "kanji": "TPO",
+    "hiragana": "ティーピーオ",
+    "en": "",
+    "vi": "TPO (thời gian, địa điểm, tình huống)",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "能",
+    "kanji": "能",
+    "hiragana": "のう",
+    "en": "",
+    "vi": "kịch Nô",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "破る",
+    "kanji": "破る",
+    "hiragana": "やぶる",
+    "en": "",
+    "vi": "phá vỡ (khuôn khổ)",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ"
+      ]
+    }
+  },
+  {
+    "id": "とかく",
+    "kanji": "とかく",
+    "hiragana": "とかく",
+    "en": "",
+    "vi": "có khuynh hướng",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ"
+      ]
+    }
+  },
+  {
+    "id": "見渡す",
+    "kanji": "見渡す",
+    "hiragana": "みわたす",
+    "en": "",
+    "vi": "nhìn bao quát, nhìn tổng thể",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ"
+      ]
+    }
+  },
+  {
+    "id": "あらざるもの",
+    "kanji": "あらざるもの",
+    "hiragana": "あらざるもの",
+    "en": "",
+    "vi": "không",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "衣類",
+    "kanji": "衣類",
+    "hiragana": "いるい",
+    "en": "",
+    "vi": "quần áo",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "しばりあげる",
+    "kanji": "しばりあげる",
+    "hiragana": "しばりあげる",
+    "en": "",
+    "vi": "trói buộc",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ"
+      ]
+    }
+  },
+  {
+    "id": "人跡",
+    "kanji": "人跡",
+    "hiragana": "じんせき",
+    "en": "",
+    "vi": "dấu chân người",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "絶える",
+    "kanji": "絶える",
+    "hiragana": "たえる",
+    "en": "",
+    "vi": "ngừng, dừng",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ"
+      ]
+    }
+  },
+  {
+    "id": "山奥",
+    "kanji": "山奥",
+    "hiragana": "やまおく",
+    "en": "",
+    "vi": "hốc núi",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "面倒くさい",
+    "kanji": "面倒くさい",
+    "hiragana": "めんどうくさい",
+    "en": "",
+    "vi": "phiền phức",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ"
+      ]
+    }
+  },
+  {
+    "id": "こんがらかる",
+    "kanji": "こんがらかる",
+    "hiragana": "こんがらかる",
+    "en": "",
+    "vi": "rối",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ"
+      ]
+    }
+  },
+  {
+    "id": "糸",
+    "kanji": "糸",
+    "hiragana": "いと",
+    "en": "",
+    "vi": "chỉ",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "ズタズタ",
+    "kanji": "ズタズタ",
+    "hiragana": "ズタズタ",
+    "en": "",
+    "vi": "nát, vụn",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "切りさく",
+    "kanji": "切りさく",
+    "hiragana": "きりさく",
+    "en": "",
+    "vi": "cắt vụn",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ"
+      ]
+    }
+  },
+  {
+    "id": "社会人",
+    "kanji": "社会人",
+    "hiragana": "しゃかいじん",
+    "en": "",
+    "vi": "thành viên của xã hội",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "たる",
+    "kanji": "たる",
+    "hiragana": "たる",
+    "en": "",
+    "vi": "đã là (thành viên của xã hội)",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ"
+      ]
+    }
+  },
+  {
+    "id": "なんといおうと",
+    "kanji": "なんといおうと",
+    "hiragana": "なんといおうと",
+    "en": "",
+    "vi": "dù ai nói gì đi nữa",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ"
+      ]
+    }
+  },
+  {
+    "id": "不自由",
+    "kanji": "不自由",
+    "hiragana": "ふじゆう",
+    "en": "",
+    "vi": "khuyết tật, khiếm thị",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "うやらむ",
+    "kanji": "うやらむ",
+    "hiragana": "うやらむ",
+    "en": "",
+    "vi": "ghen tị, đố kỵ",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ"
+      ]
+    }
+  },
+  {
+    "id": "天才",
+    "kanji": "天才",
+    "hiragana": "てんさい",
+    "en": "",
+    "vi": "thiên tài",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "話相手",
+    "kanji": "話相手",
+    "hiragana": "はなしあいて",
+    "en": "",
+    "vi": "người nói chuyện cùng",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ"
+      ]
+    }
+  },
+  {
+    "id": "そうかといって",
+    "kanji": "そうかといって",
+    "hiragana": "そうかといって",
+    "en": "",
+    "vi": "cho dù có như vậy",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "まぎらわす",
+    "kanji": "まぎらわす",
+    "hiragana": "まぎらわす",
+    "en": "",
+    "vi": "làm khuây khỏa",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ"
+      ]
+    }
+  },
+  {
+    "id": "切実",
+    "kanji": "切実",
+    "hiragana": "せつじつ",
+    "en": "",
+    "vi": "thiết thực",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "たより",
+    "kanji": "たより",
+    "hiragana": "たより",
+    "en": "",
+    "vi": "điểm tựa, chỗ dựa",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "茶杓",
+    "kanji": "茶杓",
+    "hiragana": "ちゃしゃく",
+    "en": "",
+    "vi": "muỗng trà (dùng trong trà đạo)",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "一片",
+    "kanji": "一片",
+    "hiragana": "いっぺん",
+    "en": "",
+    "vi": "miếng, mảnh",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "肉体",
+    "kanji": "肉体",
+    "hiragana": "にくたい",
+    "en": "",
+    "vi": "cơ thể",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "まかせきる",
+    "kanji": "まかせきる",
+    "hiragana": "まかせきる",
+    "en": "",
+    "vi": "dành trọn",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ"
+      ]
+    }
+  },
+  {
+    "id": "愛用",
+    "kanji": "愛用",
+    "hiragana": "あいよう",
+    "en": "",
+    "vi": "thích dùng, yêu thích",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "滅びる",
+    "kanji": "滅びる",
+    "hiragana": "ほろびる",
+    "en": "",
+    "vi": "diệt vong, suy tàn",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ"
+      ]
+    }
+  },
+  {
+    "id": "鐘",
+    "kanji": "鐘",
+    "hiragana": "かね",
+    "en": "",
+    "vi": "chuông (chùa)",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "余韻",
+    "kanji": "余韻",
+    "hiragana": "よいん",
+    "en": "",
+    "vi": "tiếng vọng",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "とどめる",
+    "kanji": "とどめる",
+    "hiragana": "とどめる",
+    "en": "",
+    "vi": "giữ, lưu lại",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ"
+      ]
+    }
+  },
+  {
+    "id": "後の",
+    "kanji": "後の",
+    "hiragana": "あとの",
+    "en": "",
+    "vi": "(người) đời sau",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "おろか",
+    "kanji": "おろか",
+    "hiragana": "おろか",
+    "en": "",
+    "vi": "ngu ngốc, ngu xuẩn",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "しのぶ",
+    "kanji": "しのぶ",
+    "hiragana": "しのぶ",
+    "en": "",
+    "vi": "tưởng nhớ",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ"
+      ]
+    }
+  },
+  {
+    "id": "でっちあげる",
+    "kanji": "でっちあげる",
+    "hiragana": "でっちあげる",
+    "en": "",
+    "vi": "tạo ra, vẽ ra",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ"
+      ]
+    }
+  },
+  {
+    "id": "唯一",
+    "kanji": "唯一",
+    "hiragana": "ゆいいつ",
+    "en": "",
+    "vi": "duy nhất",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "近づく",
+    "kanji": "近づく",
+    "hiragana": "ちかづく",
+    "en": "",
+    "vi": "tiếp cận, đến gần (Rikyu)",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ"
+      ]
+    }
+  },
+  {
+    "id": "ほんと",
+    "kanji": "ほんと",
+    "hiragana": "ほんと",
+    "en": "",
+    "vi": "sự thật",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "けっとばす",
+    "kanji": "けっとばす",
+    "hiragana": "けっとばす",
+    "en": "",
+    "vi": "đá tung, đá văng",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ"
+      ]
+    }
+  },
+  {
+    "id": "たしなみ",
+    "kanji": "たしなみ",
+    "hiragana": "たしなみ",
+    "en": "",
+    "vi": "thú vui tao nhã",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "もと",
+    "kanji": "もと",
+    "hiragana": "もと",
+    "en": "",
+    "vi": "nguồn gốc (dẫn tới nhầm lẫn, sai sót)",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "後世",
+    "kanji": "後世",
+    "hiragana": "こうせい",
+    "en": "",
+    "vi": "con cháu, hậu thế, đời sau",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "残す",
+    "kanji": "残す",
+    "hiragana": "のこす",
+    "en": "",
+    "vi": "để lại cho (con cháu)",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ"
+      ]
+    }
+  },
+  {
+    "id": "凡人",
+    "kanji": "凡人",
+    "hiragana": "ぼんじん",
+    "en": "",
+    "vi": "người bình thường",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "獲得",
+    "kanji": "獲得",
+    "hiragana": "かくとく",
+    "en": "",
+    "vi": "có được, đạt được",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ"
+      ]
+    }
+  },
+  {
+    "id": "再作会社",
+    "kanji": "再作会社",
+    "hiragana": "せいさくがいしゃ",
+    "en": "",
+    "vi": "công ty sản xuất",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "志望",
+    "kanji": "志望",
+    "hiragana": "しぼう",
+    "en": "",
+    "vi": "nguyện vọng, mong muốn",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "志望動機",
+    "kanji": "志望動機",
+    "hiragana": "しぼうどうき",
+    "en": "",
+    "vi": "động cơ xin vào công ty",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "意志",
+    "kanji": "意志",
+    "hiragana": "いし",
+    "en": "",
+    "vi": "ý chí",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "告げる",
+    "kanji": "告げる",
+    "hiragana": "つげる",
+    "en": "",
+    "vi": "nói, tuyên bố, thông báo",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ"
+      ]
+    }
+  },
+  {
+    "id": "当社",
+    "kanji": "当社",
+    "hiragana": "とうしゃ",
+    "en": "",
+    "vi": "công ty chúng tôi",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "御社",
+    "kanji": "御社",
+    "hiragana": "おんしゃ",
+    "en": "",
+    "vi": "công ty của đối tác",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "事業",
+    "kanji": "事業",
+    "hiragana": "じぎょう",
+    "en": "",
+    "vi": "kinh doanh",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "農産物",
+    "kanji": "農産物",
+    "hiragana": "のうさんぶつ",
+    "en": "",
+    "vi": "nông sản",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "調達",
+    "kanji": "調達",
+    "hiragana": "ちょうたつ",
+    "en": "",
+    "vi": "cung cấp, cung ứng",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ"
+      ]
+    }
+  },
+  {
+    "id": "確保",
+    "kanji": "確保",
+    "hiragana": "かくほ",
+    "en": "",
+    "vi": "đảm bảo",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ"
+      ]
+    }
+  },
+  {
+    "id": "winwin",
+    "kanji": "win-win",
+    "hiragana": "ウィンウィン",
+    "en": "",
+    "vi": "đôi bên cùng có lợi",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "感銘",
+    "kanji": "感銘",
+    "hiragana": "かんめい",
+    "en": "",
+    "vi": "cảm động sâu sắc",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "弊社",
+    "kanji": "弊社",
+    "hiragana": "へいしゃ",
+    "en": "",
+    "vi": "công ty chúng tôi",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "カップ麺",
+    "kanji": "カップ麺",
+    "hiragana": "カップめん",
+    "en": "",
+    "vi": "mì ly",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "出会い",
+    "kanji": "出会い",
+    "hiragana": "であい",
+    "en": "",
+    "vi": "sự gặp gỡ, sự tiếp xúc",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ"
+      ]
+    }
+  },
+  {
+    "id": "香り",
+    "kanji": "香り",
+    "hiragana": "かおり",
+    "en": "",
+    "vi": "hương thơm",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "衝撃的",
+    "kanji": "衝撃的",
+    "hiragana": "しょうげきてき",
+    "en": "",
+    "vi": "ấn tượng",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "自炊",
+    "kanji": "自炊",
+    "hiragana": "じすい",
+    "en": "",
+    "vi": "tự nấu ăn",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "レトルト食品",
+    "kanji": "レトルト食品",
+    "hiragana": "レトルトしょくひん",
+    "en": "",
+    "vi": "thức ăn chế biến sẵn đóng bao/ hộp (dược xử lý tiệt trùng ở môi trường nhiệt độ cao, áp suất cao)",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "手に入る",
+    "kanji": "手に入る",
+    "hiragana": "てにはいる",
+    "en": "",
+    "vi": "có được",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ"
+      ]
+    }
+  },
+  {
+    "id": "贅沢",
+    "kanji": "贅沢",
+    "hiragana": "ぜいたく",
+    "en": "",
+    "vi": "xa hoa, xa xỉ",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "なるほど",
+    "kanji": "なるほど",
+    "hiragana": "なるほど",
+    "en": "",
+    "vi": "hóa ra thế, tôi hiểu",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "ついていく",
+    "kanji": "ついていく",
+    "hiragana": "ついていく",
+    "en": "",
+    "vi": "theo kịp (giờ học)",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ"
+      ]
+    }
+  },
+  {
+    "id": "流れる",
+    "kanji": "流れる",
+    "hiragana": "ながれる",
+    "en": "",
+    "vi": "chiếu, phát (quảng cáo)",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ"
+      ]
+    }
+  },
+  {
+    "id": "科学技術",
+    "kanji": "科学技術",
+    "hiragana": "かがくぎじゅつ",
+    "en": "",
+    "vi": "khoa học, kĩ thuật",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "就く",
+    "kanji": "就く",
+    "hiragana": "つく",
+    "en": "",
+    "vi": "làm (việc)",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ"
+      ]
+    }
+  },
+  {
+    "id": "携わる",
+    "kanji": "携わる",
+    "hiragana": "たずさわる",
+    "en": "",
+    "vi": "tham gia vào",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ"
+      ]
+    }
+  },
+  {
+    "id": "職種",
+    "kanji": "職種",
+    "hiragana": "しょくしゅ",
+    "en": "",
+    "vi": "ngành nghề",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "専門性",
+    "kanji": "専門性",
+    "hiragana": "せんもんせい",
+    "en": "",
+    "vi": "tính chuyên môn",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "専攻",
+    "kanji": "専攻",
+    "hiragana": "せんこう",
+    "en": "",
+    "vi": "chuyên ngành",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "アミノ酸",
+    "kanji": "アミノ酸",
+    "hiragana": "あみのさん",
+    "en": "",
+    "vi": "axit amin",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "卒論",
+    "kanji": "卒論",
+    "hiragana": "そつろん",
+    "en": "",
+    "vi": "luận văn tốt nghiệp",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "応用",
+    "kanji": "応用",
+    "hiragana": "おうよう",
+    "en": "",
+    "vi": "ứng dụng",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ"
+      ]
+    }
+  },
+  {
+    "id": "実績",
+    "kanji": "実績",
+    "hiragana": "じっせき",
+    "en": "",
+    "vi": "thành tích thực tế",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "医薬品",
+    "kanji": "医薬品",
+    "hiragana": "いやくひん",
+    "en": "",
+    "vi": "thuốc, dược phẩm",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "化粧品",
+    "kanji": "化粧品",
+    "hiragana": "けしょうひん",
+    "en": "",
+    "vi": "mỹ phẩm",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "健康食品",
+    "kanji": "健康食品",
+    "hiragana": "けんこうしょくひん",
+    "en": "",
+    "vi": "thực phẩm chức năng",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "積む",
+    "kanji": "積む",
+    "hiragana": "つむ",
+    "en": "",
+    "vi": "tích lũy (kinh nghiệm)",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ"
+      ]
+    }
+  },
+  {
+    "id": "突っ込む",
+    "kanji": "突っ込む",
+    "hiragana": "つっこむ",
+    "en": "",
+    "vi": "bắt bẻ, truy cứu",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ"
+      ]
+    }
+  },
+  {
+    "id": "切り返す",
+    "kanji": "切り返す",
+    "hiragana": "きりかえす",
+    "en": "",
+    "vi": "phản hồi lại, đáp trả lại",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ"
+      ]
+    }
+  },
+  {
+    "id": "インストラクター",
+    "kanji": "インストラクター",
+    "hiragana": "インストラクター",
+    "en": "",
+    "vi": "người hướng dẫn",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "配属",
+    "kanji": "配属",
+    "hiragana": "はいぞく",
+    "en": "",
+    "vi": "bố trí, điều về",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ"
+      ]
+    }
+  },
+  {
+    "id": "配偶者",
+    "kanji": "配偶者",
+    "hiragana": "はいぐうしゃ",
+    "en": "",
+    "vi": "vợ/ chồng",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "短所",
+    "kanji": "短所",
+    "hiragana": "たんしょ",
+    "en": "",
+    "vi": "điểm yếu, sở đoản",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "長所",
+    "kanji": "長所",
+    "hiragana": "ちょうしょ",
+    "en": "",
+    "vi": "điểm mạnh, sở trường",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "適性",
+    "kanji": "適性",
+    "hiragana": "てきせい",
+    "en": "",
+    "vi": "khả năng thích ứng",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "有無",
+    "kanji": "有無",
+    "hiragana": "うむ",
+    "en": "",
+    "vi": "có hoặc không",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "否定的",
+    "kanji": "否定的",
+    "hiragana": "ひていてき",
+    "en": "",
+    "vi": "mang tính phủ định",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "許す",
+    "kanji": "許す",
+    "hiragana": "ゆるす",
+    "en": "",
+    "vi": "tha thứ",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ"
+      ]
+    }
+  },
+  {
+    "id": "ねじ",
+    "kanji": "ねじ",
+    "hiragana": "ねじ",
+    "en": "",
+    "vi": "ốc vít",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "人工衛星",
+    "kanji": "人工衛星",
+    "hiragana": "じんこうえいせい",
+    "en": "",
+    "vi": "vệ sinh nhân tạo",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "jpop",
+    "kanji": "J-pop",
+    "hiragana": "ジェー・ポップ",
+    "en": "",
+    "vi": "J-pop",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "当店",
+    "kanji": "当店",
+    "hiragana": "とうてん",
+    "en": "",
+    "vi": "cửa hàng chúng tôi",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "ジャンル",
+    "kanji": "ジャンル",
+    "hiragana": "ジャンル",
+    "en": "",
+    "vi": "thể loại",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "胸",
+    "kanji": "胸",
+    "hiragana": "むね",
+    "en": "",
+    "vi": "ngực, lòng (mẹ)",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "座り込む",
+    "kanji": "座り込む",
+    "hiragana": "すわりこむ",
+    "en": "",
+    "vi": "ngồi bệt xuống, ngồi rũ xuống",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ"
+      ]
+    }
+  },
+  {
+    "id": "協力",
+    "kanji": "協力",
+    "hiragana": "きょうりょく",
+    "en": "",
+    "vi": "hợp tác",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ"
+      ]
+    }
+  },
+  {
+    "id": "別れ",
+    "kanji": "別れ",
+    "hiragana": "わかれ",
+    "en": "",
+    "vi": "chia tay, chia ly (vĩnh viễn)",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "神",
+    "kanji": "神",
+    "hiragana": "かみ",
+    "en": "",
+    "vi": "thần thánh",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "ウォーター",
+    "kanji": "ウォーター",
+    "hiragana": "ウォーター",
+    "en": "",
+    "vi": "nước",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "開店",
+    "kanji": "開店",
+    "hiragana": "かいてん",
+    "en": "",
+    "vi": "mở cửa hàng, khai trương",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ"
+      ]
+    }
+  },
+  {
+    "id": "チーズ",
+    "kanji": "チーズ",
+    "hiragana": "チーズ",
+    "en": "",
+    "vi": "phomat",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "やぎ乳",
+    "kanji": "やぎ乳",
+    "hiragana": "やぎにゅう",
+    "en": "",
+    "vi": "sữa dê",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "非常用",
+    "kanji": "非常用",
+    "hiragana": "ひじょうよう",
+    "en": "",
+    "vi": "dùng trong trường hợp khẩn cấp",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "何とかなる",
+    "kanji": "何とかなる",
+    "hiragana": "なんとかなる",
+    "en": "",
+    "vi": "bằng cách nào đó sẽ được, rồi cũng sẽ ổn",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ"
+      ]
+    }
+  },
+  {
+    "id": "グラウンド",
+    "kanji": "グラウンド",
+    "hiragana": "グラウンド",
+    "en": "",
+    "vi": "sân bóng",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "前方",
+    "kanji": "前方",
+    "hiragana": "ぜんぽう",
+    "en": "",
+    "vi": "phía trước",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "出る",
+    "kanji": "出る",
+    "hiragana": "でる",
+    "en": "",
+    "vi": "đưa ra (kết luận)",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ"
+      ]
+    }
+  },
+  {
+    "id": "了承",
+    "kanji": "了承",
+    "hiragana": "りょうしょう",
+    "en": "",
+    "vi": "đồng ý, chấp thuận",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ"
+      ]
+    }
+  },
+  {
+    "id": "起こす",
+    "kanji": "起こす",
+    "hiragana": "おこす",
+    "en": "",
+    "vi": "thực hiện (hành động)",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ"
+      ]
+    }
+  },
+  {
+    "id": "銭湯",
+    "kanji": "銭湯",
+    "hiragana": "せんとう",
+    "en": "",
+    "vi": "nhà tắm công cộng",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "下駄",
+    "kanji": "下駄",
+    "hiragana": "げた",
+    "en": "",
+    "vi": "guốc Nhật",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "押し切る",
+    "kanji": "押し切る",
+    "hiragana": "おしきる",
+    "en": "",
+    "vi": "bất chấp, vượt qua",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ"
+      ]
+    }
+  },
+  {
+    "id": "励む",
+    "kanji": "励む",
+    "hiragana": "はげむ",
+    "en": "",
+    "vi": "cố gắng, gắng hết sức",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ"
+      ]
+    }
+  },
+  {
+    "id": "昔",
+    "kanji": "昔々",
+    "hiragana": "むかしむかし",
+    "en": "",
+    "vi": "ngày xửa, ngày xưa",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "失恋",
+    "kanji": "失恋",
+    "hiragana": "しつれん",
+    "en": "",
+    "vi": "thất tình",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ"
+      ]
+    }
+  },
+  {
+    "id": "熱心",
+    "kanji": "熱心",
+    "hiragana": "ねっしん",
+    "en": "",
+    "vi": "nhiệt tình",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "恐怖",
+    "kanji": "恐怖",
+    "hiragana": "きょうふ",
+    "en": "",
+    "vi": "sự sợ hãi, nỗi sợ hãi",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "沈黙",
+    "kanji": "沈黙",
+    "hiragana": "ちんもく",
+    "en": "",
+    "vi": "sự im lặng",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "就職活動",
+    "kanji": "就職活動",
+    "hiragana": "しゅうしょくかつどう",
+    "en": "",
+    "vi": "hoạt động tìm việc",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "比較",
+    "kanji": "比較",
+    "hiragana": "ひかく",
+    "en": "",
+    "vi": "so sánh",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ"
+      ]
+    }
+  },
+  {
+    "id": "従事",
+    "kanji": "従事",
+    "hiragana": "じゅうじ",
+    "en": "",
+    "vi": "tham gia, theo đuổi, phụng sự",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ"
+      ]
+    }
+  },
+  {
+    "id": "推薦",
+    "kanji": "推薦",
+    "hiragana": "すいせん",
+    "en": "",
+    "vi": "giới thiệu, tiến cử",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ"
+      ]
+    }
+  },
+  {
+    "id": "toeic",
+    "kanji": "TOEIC",
+    "hiragana": "トーイック",
+    "en": "",
+    "vi": "TOEIC",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "全力",
+    "kanji": "全力",
+    "hiragana": "ぜんりょく",
+    "en": "",
+    "vi": "toàn bộ sức lực",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "運営",
+    "kanji": "運営",
+    "hiragana": "うんえい",
+    "en": "",
+    "vi": "quản lý, điều hành",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ"
+      ]
+    }
+  },
+  {
+    "id": "履歴書",
+    "kanji": "履歴書",
+    "hiragana": "りれきしょ",
+    "en": "",
+    "vi": "sơ yếu lý lịch",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "特技",
+    "kanji": "特技",
+    "hiragana": "とくぎ",
+    "en": "",
+    "vi": "kỹ năng đặc biệt",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "給与",
+    "kanji": "給与",
+    "hiragana": "きゅうよ",
+    "en": "",
+    "vi": "tiền lương",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "岐路",
+    "kanji": "岐路",
+    "hiragana": "きろ",
+    "en": "",
+    "vi": "ngã rẽ, bước ngoặc",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "最寄り",
+    "kanji": "最寄り",
+    "hiragana": "もより",
+    "en": "",
+    "vi": "gần nhất",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "道筋",
+    "kanji": "道筋",
+    "hiragana": "みちすじ",
+    "en": "",
+    "vi": "tuyến đường, trục đường",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "ルート",
+    "kanji": "ルート",
+    "hiragana": "ルート",
+    "en": "",
+    "vi": "lộ trình, đường đi",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "仕事場",
+    "kanji": "仕事場",
+    "hiragana": "しごとば",
+    "en": "",
+    "vi": "nơi làm việc",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ"
+      ]
+    }
+  },
+  {
+    "id": "遠回り",
+    "kanji": "遠回り",
+    "hiragana": "とおまわり",
+    "en": "",
+    "vi": "đi đường vòng",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "飲み会",
+    "kanji": "飲み会",
+    "hiragana": "のみかい",
+    "en": "",
+    "vi": "tiệc nhậu, bữa nhậu",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "選択",
+    "kanji": "選択",
+    "hiragana": "せんたく",
+    "en": "",
+    "vi": "chọn lựa",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ"
+      ]
+    }
+  },
+  {
+    "id": "彼我",
+    "kanji": "彼我",
+    "hiragana": "ひが",
+    "en": "",
+    "vi": "đối phương và bản thân, người và ta",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "効率",
+    "kanji": "効率",
+    "hiragana": "こうりつ",
+    "en": "",
+    "vi": "hiệu quả",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "優先",
+    "kanji": "優先",
+    "hiragana": "ゆうせん",
+    "en": "",
+    "vi": "ưu tiên",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ"
+      ]
+    }
+  },
+  {
+    "id": "通行",
+    "kanji": "通行",
+    "hiragana": "つうこう",
+    "en": "",
+    "vi": "đi qua, qua lại",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ"
+      ]
+    }
+  },
+  {
+    "id": "長い目",
+    "kanji": "長い目",
+    "hiragana": "ながいめ",
+    "en": "",
+    "vi": "tầm nhìn xa",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ"
+      ]
+    }
+  },
+  {
+    "id": "人柄",
+    "kanji": "人柄",
+    "hiragana": "ひとがら",
+    "en": "",
+    "vi": "phẩm cách, nhân cách",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "帰結",
+    "kanji": "帰結",
+    "hiragana": "きけつ",
+    "en": "",
+    "vi": "kết luận, quy kết",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "旅路",
+    "kanji": "旅路",
+    "hiragana": "たびじ",
+    "en": "",
+    "vi": "chuyến đi, cuộc hành trình",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "いつしか",
+    "kanji": "いつしか",
+    "hiragana": "いつしか",
+    "en": "",
+    "vi": "từ lúc nào",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "昆虫採集",
+    "kanji": "昆虫採集",
+    "hiragana": "こんちゅうさいしゅう",
+    "en": "",
+    "vi": "sưu tập côn trùng",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "昆虫",
+    "kanji": "昆虫",
+    "hiragana": "こんちゅう",
+    "en": "",
+    "vi": "côn trùng",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "蝶道",
+    "kanji": "蝶道",
+    "hiragana": "ちょうどう",
+    "en": "",
+    "vi": "đường bướm bay",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "網",
+    "kanji": "網",
+    "hiragana": "あみ",
+    "en": "",
+    "vi": "lưới",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "構える",
+    "kanji": "構える",
+    "hiragana": "かまえる",
+    "en": "",
+    "vi": "bố trí, giăng sẵn (lưới)",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ"
+      ]
+    }
+  },
+  {
+    "id": "アゲハチョウ",
+    "kanji": "アゲハチョウ",
+    "hiragana": "アゲハチョウ",
+    "en": "",
+    "vi": "họ bướm phượng",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "木立",
+    "kanji": "木立",
+    "hiragana": "こだち",
+    "en": "",
+    "vi": "bụi cây, lùm cây",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "暗がり",
+    "kanji": "暗がり",
+    "hiragana": "くらがり",
+    "en": "",
+    "vi": "bóng tối, nơi tối",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "日照",
+    "kanji": "日照",
+    "hiragana": "にっしょう",
+    "en": "",
+    "vi": "ánh sáng mặt trời",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "食草",
+    "kanji": "食草",
+    "hiragana": "しょくそう",
+    "en": "",
+    "vi": "cây ăn thịt",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "メス",
+    "kanji": "メス",
+    "hiragana": "メス",
+    "en": "",
+    "vi": "giống cái",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "待ち構える",
+    "kanji": "待ち構える",
+    "hiragana": "まちかまえる",
+    "en": "",
+    "vi": "đợi sẵn",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ"
+      ]
+    }
+  },
+  {
+    "id": "収める",
+    "kanji": "収める",
+    "hiragana": "おさめる",
+    "en": "",
+    "vi": "mắc vào (lưới)",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ"
+      ]
+    }
+  },
+  {
+    "id": "理屈",
+    "kanji": "理屈",
+    "hiragana": "りくつ",
+    "en": "",
+    "vi": "lí lẽ, lí luận",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "虫網",
+    "kanji": "虫網",
+    "hiragana": "むしあみ",
+    "en": "",
+    "vi": "vợt bắt côn trùng",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "・・・ことに感銘かんめいを受うけぜひ御社おんしゃで働はたらきたいと思おもいました",
+    "kanji": "・・・ことに感銘（かんめい）を受（う）け、ぜひ御社（おんしゃ）で働（はたら）きたいと思（おも）いました。",
+    "hiragana": "・・・ことに感銘（かんめい）を受（う）け、ぜひ御社（おんしゃ）で働（はたら）きたいと思（おも）いました。",
+    "en": "",
+    "vi": "Tôi ấn tượng mạnh với …., và thực sự rất muốn làm việc cho quý công ty.",
+    "type": "phrase",
+    "explanation": {
+      "content": [
+        "Mẫu câu hội thoại"
+      ]
+    }
+  },
+  {
+    "id": "確たしかに・・・・・しかし・・・・・",
+    "kanji": "確（たし）かに・・・・・。しかし、・・・・・。",
+    "hiragana": "確（たし）かに・・・・・。しかし、・・・・・。",
+    "en": "",
+    "vi": "Rõ ràng là …, tuy nhiên …",
+    "type": "phrase",
+    "explanation": {
+      "content": [
+        "Mẫu câu hội thoại"
+      ]
+    }
+  },
+  {
+    "id": "利休りきゅう",
+    "kanji": "利休（りきゅう）",
+    "hiragana": "利休（りきゅう）",
+    "en": "",
+    "vi": "Sen no Rikyu: Nghệ nhân trong trà đạo, thời đại Azuchi-Momoyama. Được dẫn dắt bởi Oda Nobunaga và Toyotoni Hideyoshi. 1522-1591.",
+    "type": "phrase",
+    "explanation": {
+      "content": [
+        "Mẫu câu hội thoại"
+      ]
+    }
+  },
+  {
+    "id": "世阿弥ぜあみ",
+    "kanji": "世阿弥（ぜあみ）",
+    "hiragana": "世阿弥（ぜあみ）",
+    "en": "",
+    "vi": "Zeami Motokiyo: Nhà viết kịch và là nghệ sĩ biểu diễn kịch Nô ở đầu thời Muromachi, người đã hoàn thiện nghệ thuật Nô. 1363-1443.",
+    "type": "phrase",
+    "explanation": {
+      "content": [
+        "Mẫu câu hội thoại"
+      ]
+    }
+  },
+  {
+    "id": "白洲しらす正子まさこ",
+    "kanji": "白洲（しらす）正子（まさこ）",
+    "hiragana": "白洲（しらす）正子（まさこ）",
+    "en": "",
+    "vi": "Shirasu Masako: Người viết tùy bút. 1910-1998.",
+    "type": "phrase",
+    "explanation": {
+      "content": [
+        "Mẫu câu hội thoại"
+      ]
+    }
+  },
+  {
+    "id": "プッチーニ",
+    "kanji": "プッチーニ",
+    "hiragana": "プッチーニ",
+    "en": "",
+    "vi": "Giacomo Puccini: Nhà soạn nhạc người Y. Tác giả của Madame Butterfly.1958-1924.",
+    "type": "phrase",
+    "explanation": {
+      "content": [
+        "Mẫu câu hội thoại"
+      ]
+    }
+  }
+]

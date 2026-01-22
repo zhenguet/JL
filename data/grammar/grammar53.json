@@ -1,0 +1,412 @@
+[
+  {
+    "id": "sasete-moraemasenka",
+    "title": "～（さ）せてもらえませんか・～（さ）せていただけませんか・～（さ）せてもらえないでしょうか・～（さ）せていただけないでしょうか",
+    "description": "Là mẫu câu dùng khi người nói xin phép người nghe để làm việc gì đó. 「～させていただけませんか」lịch sự hơn「～させてもらえませんか」và「～させていただけないでしょうか」lịch sự hơn「～させていただけませんか」.",
+    "structure": "V （さ）せて + もらえませんか／いただけませんか／もらえないでしょうか／いただけないでしょうか",
+    "examples": [
+      {
+        "japanese": "すみません。このパンフレットをコピーさせてもらえませんか。",
+        "romaji": "Sumimasen. Kono panfuretto o kopii sasete moraemasen ka.",
+        "vietnamese": "Xin lỗi, không biết tôi có thể phô tô tờ quảng cáo này được không?"
+      },
+      {
+        "japanese": "月曜日の店長会議で報告させていただけませんか。",
+        "romaji": "Getsuyoubi no tenchou kaigi de houkoku sasete itadakemasen ka.",
+        "vietnamese": "Tôi có thể báo cáo tại cuộc họp của các cửa hàng trưởng hôm thứ hai không?"
+      },
+      {
+        "japanese": "一度、工場を見学させていただけないでしょうか。",
+        "romaji": "Ichido, koujou o kengaku sasete itadakenai deshou ka.",
+        "vietnamese": "Không biết các anh có thể cho phép chúng tôi được tham quan nhà máy một lần không?"
+      },
+      {
+        "japanese": "すみません。写真を１枚撮らせてもらえませんか。",
+        "romaji": "Sumimasen. Shashin o ichimai torasete moraemasen ka.",
+        "vietnamese": "Xin lỗi. Có thể cho tôi chụp một tấm ảnh được không ạ?"
+      },
+      {
+        "japanese": "先生、留学生の皆さんにちょっとインタビューさせてもらえないでしょうか。",
+        "romaji": "Sensei, ryuugakusei no minasan ni chotto intabyuu sasete moraenai deshou ka.",
+        "vietnamese": "Thưa cô, có thể cho em phỏng vấn các bạn du học sinh một chút được không ạ?"
+      },
+      {
+        "japanese": "課長、今度の仕事はぜひ私に担当させていただけないでしょうか。",
+        "romaji": "Kachou, kondo no shigoto wa zehi watashi ni tantou sasete itadakenai deshou ka.",
+        "vietnamese": "Trưởng phòng, công việc lần này nhất định cho tôi đảm đương được không ạ?"
+      }
+    ],
+    "notes": [
+      "Là mẫu câu dùng khi người nói xin phép người nghe để làm việc gì đó",
+      "「～させていただけませんか」lịch sự hơn「～させてもらえませんか」",
+      "「～させていただけないでしょうか」lịch sự hơn「～させていただけませんか」",
+      "Tham chiếu 「～させていただけませんか (cách nói nhờ vả lịch sự)」：しばらくここに車を止めさせていただけませんか。 (Minna 2 bài 48)"
+    ]
+  },
+  {
+    "id": "koto-ni-suru",
+    "title": "（１）…ことにする",
+    "description": "Mẫu câu「Vする／Vしないことにする」được dùng để biểu thị quyết định làm hoặc không làm việc gì.",
+    "structure": "V thể nguyên dạng / V thể ない ーない + ことにする",
+    "examples": [
+      {
+        "japanese": "来年結婚することにしました。",
+        "romaji": "Rainen kekkon suru koto ni shimashita.",
+        "vietnamese": "Chúng tôi đã quyết định là sẽ cưới vào năm sau."
+      },
+      {
+        "japanese": "今晩は外で食事をすることにしよう。",
+        "romaji": "Konban wa soto de shokuji o suru koto ni shiyou.",
+        "vietnamese": "Tôi quyết định tối nay ăn tiệm."
+      },
+      {
+        "japanese": "今日は時間がないので、この仕事は明日することにします。",
+        "romaji": "Kyou wa jikan ga nai node, kono shigoto wa ashita suru koto ni shimasu.",
+        "vietnamese": "Hôm nay vì không có thời gian nên công việc này tôi sẽ làm vào ngày mai."
+      },
+      {
+        "japanese": "この問題については、もっとみんなの意見を聞いたほうがいいと思います。・・・そうですね。じゃ、来週、もう一度話し合うことにしましょう。",
+        "romaji": "Kono mondai ni tsuite wa, motto minna no iken o kiita hou ga ii to omoimasu. ...Sou desu ne. Ja, raishuu, mou ichido hanashiau koto ni shimashou.",
+        "vietnamese": "Về vấn đề này thì tôi nghĩ nên hỏi ý kiến của mọi người thêm nữa. ...Đúng vậy nhỉ. Vậy, tuần sau chúng ta sẽ cùng bàn bạc thêm một lần nữa."
+      },
+      {
+        "japanese": "今まで車で通勤していましたが、来月から電車で通うことにしました。",
+        "romaji": "Ima made kuruma de tsuukin shite imashita ga, raigetsu kara densha de kayou koto ni shimashita.",
+        "vietnamese": "Trước giờ tôi đi làm bằng xe hơi, nhưng từ tháng sau tôi sẽ đi làm bằng tàu điện."
+      }
+    ],
+    "notes": [
+      "Được dùng để biểu thị quyết định làm hoặc không làm việc gì",
+      "Đứng trước là động từ thể nguyên dạng (Vる) hoặc thể phủ định (Vない)",
+      "Thường dùng với thì quá khứ (～ことにした) để diễn tả quyết định đã được đưa ra"
+    ]
+  },
+  {
+    "id": "koto-ni-shiteiru",
+    "title": "（２）…ことにしている",
+    "description": "Mẫu「Vする／Vしないことにしている」biểu thị một thói quen, quy tắc được duy trì liên tục từ lâu.",
+    "structure": "V thể nguyên dạng / V thể ない ーない + ことにしている",
+    "examples": [
+      {
+        "japanese": "毎週日曜日の夜は外で食事をすることにしている。",
+        "romaji": "Maishuu nichiyoubi no yoru wa soto de shokuji o suru koto ni shite iru.",
+        "vietnamese": "Chúng tôi đề ra quy tắc là đi ăn tiệm vào tối chủ nhật hàng tuần."
+      },
+      {
+        "japanese": "ダイエットしているので、お菓子を食べないことにしている。",
+        "romaji": "Daietto shite iru node, okashi o tabenai koto ni shite iru.",
+        "vietnamese": "Vì tôi đang ăn kiêng nên tôi (quyết định) không ăn bánh kẹo."
+      },
+      {
+        "japanese": "わたしは毎晩寝る前に日記を書くことにしています。",
+        "romaji": "Watashi wa maiban neru mae ni nikki o kaku koto ni shite imasu.",
+        "vietnamese": "Tôi viết nhật kí mỗi tối trước khi đi ngủ."
+      },
+      {
+        "japanese": "子供には、一日に２時間以上はテレビを見せないことにしています。",
+        "romaji": "Kodomo ni wa, ichinichi ni nijikan ijou wa terebi o misenai koto ni shite imasu.",
+        "vietnamese": "Đối với trẻ con, mỗi ngày không cho chúng xem tivi quá 2 giờ đồng hồ."
+      }
+    ],
+    "notes": [
+      "Biểu thị một thói quen, quy tắc được duy trì liên tục từ lâu",
+      "Đứng trước là động từ thể nguyên dạng (Vる) hoặc thể phủ định (Vない)",
+      "Thường dùng với ～ている để diễn tả thói quen đang được duy trì"
+    ]
+  },
+  {
+    "id": "koto-ni-naru",
+    "title": "（１）…ことになる",
+    "description": "Mẫu 「Vする／Vしないことになる」biểu thị ý nghĩa là được／bị quyết định làm hay không làm gì. Nếu như「ことにする」thể hiện rằng việc đó là do bản thân quyết định, thì「ことになる」lại thể hiện rằng việc đó được quyết định không phải do ý chí của bản thân.",
+    "structure": "V thể nguyên dạng / V thể ない ーない + ことになる",
+    "examples": [
+      {
+        "japanese": "来月アメリカへ出張することになりました。",
+        "romaji": "Raigetsu Amerika e shucchou suru koto ni narimashita.",
+        "vietnamese": "Tháng sau tôi (được quyết định) đi công tác ở Mỹ."
+      },
+      {
+        "japanese": "中国へは田中さんが行くことになるでしょう。",
+        "romaji": "Chuugoku e wa Tanaka-san ga iku koto ni naru deshou.",
+        "vietnamese": "Có lẽ anh Tanaka sẽ được cử đi Trung Quốc."
+      },
+      {
+        "japanese": "部長、実は、今年の秋に結婚することになりました。結婚式に出席していただけないでしょうか。",
+        "romaji": "Buchou, jitsu wa, kotoshi no aki ni kekkon suru koto ni narimashita. Kekkonshiki ni shusseki shite itadakenai deshou ka.",
+        "vietnamese": "Trưởng phòng ơi, vào mùa thu năm nay tôi sẽ lập gia đình, không biết anh có thể bớt chút thời gian đến dự lễ cưới của tôi được không ạ?"
+      },
+      {
+        "japanese": "夫の転勤で広島へ引っ越すことになりました。",
+        "romaji": "Otto no tenkin de Hiroshima e hikkosu koto ni narimashita.",
+        "vietnamese": "Vì chồng tôi chuyển chỗ làm nên chúng tôi sẽ chuyển nhà đến Hiroshima."
+      },
+      {
+        "japanese": "来年の４月にアジアの１０か国の代表が集まって、経済問題について話し合うことになった。",
+        "romaji": "Rainen no shigatsu ni Ajia no jukkakoku no daihyou ga atsumatte, keizai mondai ni tsuite hanashiau koto ni natta.",
+        "vietnamese": "Vào tháng 4 năm sau đại biểu của 10 quốc gia châu Á sẽ tập trung lại và cùng thảo luận về vấn đề kinh tế."
+      },
+      {
+        "japanese": "田中さんは家庭の事情で中国旅行には参加しないことになりました。",
+        "romaji": "Tanaka-san wa katei no jijou de Chuugoku ryokou ni wa sanka shinai koto ni narimashita.",
+        "vietnamese": "Anh Tanaka sẽ không tham gia du lịch Trung Quốc vì lý do gia đình."
+      }
+    ],
+    "notes": [
+      "Biểu thị ý nghĩa là được／bị quyết định làm hay không làm gì",
+      "Thể hiện rằng việc đó được quyết định không phải do ý chí của bản thân",
+      "Tuy nhiên, trong thực tế, cũng có trường hợp cho dù việc đó là do bản thân mình quyết định nhưng để tránh thể hiện ý chí của mình ra bên ngoài người nói cũng dùng「ことになる」",
+      "Khác với ～ことにする: ～ことになる là quyết định từ bên ngoài, ～ことにする là quyết định cá nhân"
+    ]
+  },
+  {
+    "id": "koto-ni-natteiru",
+    "title": "（２）…ことになっている",
+    "description": "Mẫu「Vする／Vしないことになっている」biểu thị rằng việc gì đó đã lên kế hoạch hoặc đã thành quy tắc.",
+    "structure": "V thể nguyên dạng / V thể ない ーない + ことになっている",
+    "examples": [
+      {
+        "japanese": "あしたの朝９時から試験を行うことになっています。",
+        "romaji": "Ashita no asa kuji kara shiken o okonau koto ni natte imasu.",
+        "vietnamese": "Cuộc thử nghiệm được (lên kế hoạch) tiến hành vào 9 giờ sáng ngày mai."
+      },
+      {
+        "japanese": "うちでは夜9時以降はテレビをつけないことになっている。",
+        "romaji": "Uchi de wa yoru kuji ikou wa terebi o tsukenai koto ni natte iru.",
+        "vietnamese": "Ở gia đình chúng tôi, từ sau 9 giờ tối là không được bật tivi."
+      },
+      {
+        "japanese": "この幼稚園では、昼ご飯のあと、２０分昼寝することになっています。",
+        "romaji": "Kono youchien de wa, hirugohan no ato, nijuppun hirune suru koto ni natte imasu.",
+        "vietnamese": "Ở nhà trẻ này quy định là sau khi ăn cơm trưa sẽ ngủ trưa 20 phút."
+      },
+      {
+        "japanese": "いつまで日本にいるんですか。・・・来年３月に帰国することになっています。",
+        "romaji": "Itsu made Nihon ni irun desu ka. ...Rainen sangatsu ni kikoku suru koto ni natte imasu.",
+        "vietnamese": "Bạn ở Nhật Bản đến khi nào vậy? ...Tôi sẽ về nước vào tháng 3 năm sau."
+      }
+    ],
+    "notes": [
+      "Biểu thị rằng việc gì đó đã lên kế hoạch hoặc đã thành quy tắc",
+      "Đứng trước là động từ thể nguyên dạng (Vる) hoặc thể phủ định (Vない)",
+      "Thường dùng với ～ている để diễn tả kế hoạch hoặc quy tắc đang được duy trì"
+    ]
+  },
+  {
+    "id": "te-hoshii",
+    "title": "～てほしい・ないでほしい",
+    "description": "(1) Mẫu「NにVてほしい」biểu thị ý nghĩa mong muốn ai đó (N) sẽ làm việc gì (V). Khi đã rõ N là ai thì N có thể được lược bỏ. Trường hợp muốn N không làm V thì cách nói phủ định 「Vないでほしい」được sử dụng. Vì đây là cách nói thể hiện yêu cầu hoặc chỉ thị đối với hành vi của người khác và nếu chỉ dùng như vậy sẽ tạo cảm giác quá gay gắt, nên nó thường được dùng cùng 「のですが／んですが」để tạo sắc thái nhẹ nhàng hơn. (2) Mẫu này có thể dùng với đối tượng không phải là con người, và trong trường hợp đó thì「Nが」được dùng thay cho「Nに」.",
+    "structure": "V thể て / V thể ない ーないで + ほしい",
+    "examples": [
+      {
+        "japanese": "わたしは息子に優しい人になってほしい。",
+        "romaji": "Watashi wa musuko ni yasashii hito ni natte hoshii.",
+        "vietnamese": "Tôi muốn con trai tôi sẽ trở thành người tốt bụng."
+      },
+      {
+        "japanese": "このごろ自転車を利用する人が多いが、規則を守って乗ってほしい。",
+        "romaji": "Kono goro jitensha o riyou suru hito ga ooi ga, kisoku o mamotte notte hoshii.",
+        "vietnamese": "Độ này có nhiều người sử dụng xe đạp và tôi muốn họ tuân thủ luật lệ khi đi xe."
+      },
+      {
+        "japanese": "こんなところにごみを捨てないでほしい。",
+        "romaji": "Konna tokoro ni gomi o sutenai de hoshii.",
+        "vietnamese": "Tôi muốn mọi người không xã rác tại những nơi như thế này."
+      },
+      {
+        "japanese": "すみません、ちょっと手伝ってほしいんですが。",
+        "romaji": "Sumimasen, chotto tetsudatte hoshii n desu ga.",
+        "vietnamese": "Xin lỗi, tôi muốn nhờ anh／chị giúp tôi một lúc."
+      },
+      {
+        "japanese": "早く春が来てほしい。",
+        "romaji": "Hayaku haru ga kite hoshii.",
+        "vietnamese": "Tôi muốn mùa xuân đến sớm."
+      },
+      {
+        "japanese": "あしたは雨が降らないでほしい。",
+        "romaji": "Ashita wa ame ga furanai de hoshii.",
+        "vietnamese": "Tôi mong ngày mai trời không mưa."
+      },
+      {
+        "japanese": "祖母は今９０歳です。祖母にはいつまでも元気で長生きしてほしいです。",
+        "romaji": "Sobo wa ima kyuujussai desu. Sobo ni wa itsu made mo genki de nagaiki shite hoshii desu.",
+        "vietnamese": "Bà tôi bây giờ 90 tuổi. Tôi mong muốn bà luôn khỏe mạnh sống lâu."
+      },
+      {
+        "japanese": "早く景気が良くなってほしいですね。",
+        "romaji": "Hayaku keiki ga yoku natte hoshii desu ne.",
+        "vietnamese": "Mong muốn kinh tế nhanh chóng tốt lên nhỉ."
+      },
+      {
+        "japanese": "自然を守るために、これ以上森の木を切らないでほしい。",
+        "romaji": "Shizen o mamoru tame ni, kore ijou mori no ki o kiranai de hoshii.",
+        "vietnamese": "Để bảo vệ thiên nhiên, tôi mong muốn mọi người không chặt phá rừng thêm nữa."
+      }
+    ],
+    "notes": [
+      "Mẫu「NにVてほしい」biểu thị ý nghĩa mong muốn ai đó (N) sẽ làm việc gì (V)",
+      "Khi đã rõ N là ai thì N có thể được lược bỏ",
+      "Trường hợp muốn N không làm V thì cách nói phủ định 「Vないでほしい」được sử dụng",
+      "Thường được dùng cùng 「のですが／んですが」để tạo sắc thái nhẹ nhàng hơn",
+      "Có thể dùng với đối tượng không phải là con người, và trong trường hợp đó thì「Nが」được dùng thay cho「Nに」"
+    ]
+  },
+  {
+    "id": "sou-na-sou-ni",
+    "title": "（１）～そうな～・～そうに…",
+    "description": "Mẫu「Vます形そうだ」đi cùng động từ có nghĩa khác với mẫu「Aそうだ」đi cùng tính từ. Mẫu「Vそうだ」biểu thị người nói dự đoán rằng V có khả năng xảy ra cao, hoặc biểu thị dấu hiệu V sẽ xảy ra. Mẫu「Aそうだ」biểu thị rằng nhìn bề ngoài của ai đó／vật gì đó có vẻ A. Mẫu 「Vそうだ」(biểu thị dấu hiệu, hoặc dự đoán) và mẫu「Aそうだ」(biểu thị phán đoán qua vẻ bề ngoài) khi bổ nghĩa cho danh từ sẽ chuyển thành「そうなN」. Và khi bổ nghĩa cho động từ sẽ chuyển thành「そうにV」.",
+    "structure": "Thể ます / いA ーい / なA + そうなN / そうにV",
+    "examples": [
+      {
+        "japanese": "ミラーさん、シャツのボタンが取れそうですよ。",
+        "romaji": "Miraa-san, shatsu no botan ga toresou desu yo.",
+        "vietnamese": "Anh Miller ơi, cúc áo sơ mi của anh có vẻ sắp đứt ra rồi đấy."
+      },
+      {
+        "japanese": "雨が降りそうなときは、洗濯しません。",
+        "romaji": "Ame ga furisou na toki wa, sentaku shimasen.",
+        "vietnamese": "Khi trời có vẻ mưa, tôi không giặt áo quần."
+      },
+      {
+        "japanese": "ワンさんの隣にいる学生はまじめそうですね。",
+        "romaji": "Wan-san no tonari ni iru gakusei wa majime sou desu ne.",
+        "vietnamese": "Cậu sinh viên bên cạnh anh Wang trông có vẻ nghiêm túc nhỉ."
+      },
+      {
+        "japanese": "このケーキはおいしそうですね。",
+        "romaji": "Kono keeki wa oishisou desu ne.",
+        "vietnamese": "Chiếc bánh này trông có vẻ ngon nhỉ."
+      },
+      {
+        "japanese": "子供たちが楽しそうに遊んでいます。",
+        "romaji": "Kodomotachi ga tanoshisou ni asonde imasu.",
+        "vietnamese": "Bọn trẻ chơi đùa có vẻ vui."
+      },
+      {
+        "japanese": "雨が降りそうな日は、洗濯をしません。",
+        "romaji": "Ame ga furisou na hi wa, sentaku o shimasen.",
+        "vietnamese": "Những ngày trời có vẻ mưa thì tôi không giặt quần áo."
+      },
+      {
+        "japanese": "隣のうちに怖そうな犬がいますね。・・・ああ、あの犬、本当はおとなしいんですよ。",
+        "romaji": "Tonari no uchi ni kowasou na inu ga imasu ne. ...Aa, ano inu, hontou wa otonashii n desu yo.",
+        "vietnamese": "Ở nhà bên cạnh có con chó trông đáng sợ nhỉ. ...Á, con chó đó, thật sự thì rất là hiền đó."
+      },
+      {
+        "japanese": "みんな楽しそうに歌ったり、踊ったりしています。",
+        "romaji": "Minna tanoshisou ni utattari, odottari shite imasu.",
+        "vietnamese": "Mọi người ca hát, nhảy múa trông thật vui vẻ."
+      }
+    ],
+    "notes": [
+      "Mẫu「Vます形そうだ」biểu thị người nói dự đoán rằng V có khả năng xảy ra cao, hoặc biểu thị dấu hiệu V sẽ xảy ra",
+      "Mẫu「Aそうだ」biểu thị rằng nhìn bề ngoài của ai đó／vật gì đó có vẻ A",
+      "Khi bổ nghĩa cho danh từ sẽ chuyển thành「そうなN」",
+      "Khi bổ nghĩa cho động từ sẽ chuyển thành「そうにV」",
+      "Tham chiếu 「～そうだ (dự đoán, vẻ ngoài)」: 今にも雨が降りそうです。この料理は辛そうです。ミラーさんはうれしそうです。 (Minna 2 bài 43)"
+    ]
+  },
+  {
+    "id": "nasasou",
+    "title": "（２）～なさそう",
+    "description": "Hình thức phủ định của「Aそうだ」. Biểu thị ý nghĩa bề ngoài của đối tượng được đề cập tới có vẻ không A, hoặc không được xem là A.",
+    "structure": "いA / なA / N ーだ →では（じゃ） + なさそう",
+    "examples": [
+      {
+        "japanese": "あの映画はあまりおもしろくなさそうですね。",
+        "romaji": "Ano eiga wa amari omoshirokunasasou desu ne.",
+        "vietnamese": "Bộ phim đó có vẻ không hay lắm nhỉ."
+      },
+      {
+        "japanese": "この機械はそんなに複雑じゃ（では）なさそうです。",
+        "romaji": "Kono kikai wa sonnani fukuzatsu ja (dewa) nasasou desu.",
+        "vietnamese": "Cái máy này có vẻ không phức tạp lắm."
+      },
+      {
+        "japanese": "彼は学生ではなさそうです。",
+        "romaji": "Kare wa gakusei dewa nasasou desu.",
+        "vietnamese": "Cậu ấy có vẻ không phải là một sinh viên."
+      },
+      {
+        "japanese": "君の誕生日のパーティーなのに、楽しくなさそうだね。・・・彼女に振られたんだ。",
+        "romaji": "Kimi no tanjoubi no paatii na noni, tanoshikunasasou da ne. ...Kanojo ni furareta n da.",
+        "vietnamese": "Tiệc sinh nhật của cậu thế nhưng mà trông có vẻ không được vui nhỉ. ...Vì tôi đã bị bạn gái bỏ."
+      },
+      {
+        "japanese": "このTシャツ、５００円だったんです。安いでしょう？・・・うん。でも、あまり丈夫じゃなさそうだね。",
+        "romaji": "Kono T-shatsu, gohyaku en datta n desu. Yasui deshou? ...Un. Demo, amari joubu ja nasasou da ne.",
+        "vietnamese": "Cái áo sơ mi này, 500 yên. Rẻ nhỉ? ...Đúng rồi. Nhưng mà trông có vẻ không bền lắm nhỉ."
+      }
+    ],
+    "notes": [
+      "Hình thức phủ định của「Aそうだ」",
+      "Biểu thị ý nghĩa bề ngoài của đối tượng được đề cập tới có vẻ không A, hoặc không được xem là A",
+      "Với tính từ đuôi i: Aい → なさそう",
+      "Với tính từ đuôi na: Aな → では（じゃ）なさそう",
+      "Với danh từ: Nだ → では（じゃ）なさそう"
+    ]
+  },
+  {
+    "id": "sou-mo-nai",
+    "title": "（３）～そうもない",
+    "description": "Hình thức phủ định của「Vそうだ」, biểu thị dự đoán V sẽ khó xảy ra.",
+    "structure": "thể Vます + そうもない",
+    "examples": [
+      {
+        "japanese": "今日は仕事がたくさんあるので、5時に帰れそうもありません。",
+        "romaji": "Kyou wa shigoto ga takusan aru node, goji ni kaeresou mo arimasen.",
+        "vietnamese": "Hôm nay có nhiều việc nên khó mà về được lúc 5 giờ."
+      },
+      {
+        "japanese": "この雨はまだやみそうもないですね。",
+        "romaji": "Kono ame wa mada yamisou mo nai desu ne.",
+        "vietnamese": "Cơn mưa này chẳng có vẻ gì là sẽ tạnh cả nhỉ."
+      },
+      {
+        "japanese": "意見がいろいろ出ているので、ミーティングはまだ終わりそうもありません。",
+        "romaji": "Iken ga iroiro dete iru node, miitingu wa mada owarisou mo arimasen.",
+        "vietnamese": "Vì có nhiều ý kiến được đưa ra, nên cuộc họp có vẻ vẫn chưa kết thúc được."
+      },
+      {
+        "japanese": "電車が来ましたよ。・・・うわ、込んでいるね。座れそうもないな。",
+        "romaji": "Densha ga kimashita yo. ...Uwa, konde iru ne. Suwaresou mo nai na.",
+        "vietnamese": "Tàu điện đã đến rồi đấy. ...Ôi thật là, đông quá. Có vẻ như không thể ngồi được rồi."
+      }
+    ],
+    "notes": [
+      "Hình thức phủ định của「Vそうだ」",
+      "Biểu thị dự đoán V sẽ khó xảy ra",
+      "Đứng trước là động từ thể ます",
+      "Khác với ～なさそう: ～そうもない dùng với động từ, ～なさそう dùng với tính từ"
+    ]
+  },
+  {
+    "id": "ta-ato",
+    "title": "～たあと、…",
+    "description": "Mẫu「Vたあと、...」biểu thị rằng nối tiếp sau V là trạng thái hoặc sự việc「...」diễn ra. Khi「...」chứa những từ như「いる」hoặc「ある」, v.v thì「あとで」trở nên khó dùng.",
+    "structure": "～たあと、...",
+    "examples": [
+      {
+        "japanese": "じゃ、来週の月曜日会議が終わった｛あと／あとで｝、お会いしましょうか。",
+        "romaji": "Ja, raishuu no getsuyoubi kaigi ga owatta {ato / ato de}, o ai shimashou ka.",
+        "vietnamese": "Được rồi, chúng ta sẽ gặp nhau vào ngày thứ hai tuần tới sau khi cuộc họp kết thúc nhé?"
+      },
+      {
+        "japanese": "日曜日は朝食を食べた｛〇あと／✕あとで｝、どこへも行かず家でテレビを見ていました。",
+        "romaji": "Nichiyoubi wa choushoku o tabeta {〇ato / ✕ato de}, doko e mo ikazu ie de terebi o mite imashita.",
+        "vietnamese": "Hôm chủ nhật sau khi ăn sáng, chúng tôi đã không đi đâu cả mà ở nhà xem ti vi."
+      },
+      {
+        "japanese": "授業が終わった｛〇あと／✕あとで｝、学生が2，3人まだ教室に残っていました。",
+        "romaji": "Jugyou ga owatta {〇ato / ✕ato de}, gakusei ga ni, sannin mada kyoushitsu ni nokotte imashita.",
+        "vietnamese": "Sau khi giờ học kết thúc, vẫn còn 2, 3 sinh viên ở lại trong lớp học."
+      }
+    ],
+    "notes": [
+      "Biểu thị rằng nối tiếp sau V là trạng thái hoặc sự việc「...」diễn ra",
+      "Đứng trước là động từ thể た",
+      "Khi「...」chứa những từ như「いる」hoặc「ある」, v.v thì「あとで」trở nên khó dùng",
+      "Có thể dùng「あとで」thay cho「あと」trong một số trường hợp, nhưng không dùng được khi sau đó là trạng thái tiếp diễn"
+    ]
+  }
+]

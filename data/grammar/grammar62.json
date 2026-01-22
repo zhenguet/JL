@@ -1,0 +1,363 @@
+[
+  {
+    "id": "mono-mon-dakara",
+    "title": "…もの／もんだから",
+    "description": "[...もの／もんだから」biểu thị nguyên nhân hoặc lý do. Mẫu「X ものだから Y 」được dùng để trình bày lý do nhằm biện hộ, giải thích rằng đó không phải là trách nhiệm của mình khi có một điều (Y) gì đó không mong muốn xảy ra.",
+    "structure": "V／いA／なA (thể thông thường)／N (ーだ→な) + もの／もんだから",
+    "examples": [
+      {
+        "japanese": "急いでいたものですから、かぎをかけるのを忘れてしまいました。",
+        "romaji": "Isoide ita mono desu kara, kagi o kakeru no o wasurete shimaimashita.",
+        "vietnamese": "Vì gấp nên tôi đã quên khóa cửa."
+      },
+      {
+        "japanese": "とても安かったものだから、買いすぎたんです。",
+        "romaji": "Totemo yasukatta mono dakara, kai sugitan desu.",
+        "vietnamese": "Vì rẻ quá nên tôi đã mua quá nhiều."
+      },
+      {
+        "japanese": "出かけようとししたら、電話がかかってきたものですから。",
+        "romaji": "Dekakeyou to shishitara, denwa ga kakatte kita mono desu kara.",
+        "vietnamese": "Khi tôi chuẩn bị đi ra khỏi nhà thì có cuộc điện thoại gọi đến."
+      },
+      {
+        "japanese": "海外に出張していたものですから。",
+        "romaji": "Kaigai ni shucchou shite ita mono desu kara.",
+        "vietnamese": "Bởi vì tôi đã đi công tác nước ngoài."
+      },
+      {
+        "japanese": "子供がまだ小さいものですから…。",
+        "romaji": "Kodomo ga mada chiisai mono desu kara….",
+        "vietnamese": "Nhưng mà con tôi vẫn còn nhỏ..."
+      }
+    ],
+    "notes": [
+      "Biểu thị nguyên nhân hoặc lý do",
+      "Được dùng để trình bày lý do nhằm biện hộ, giải thích",
+      "Không thích hợp để dùng khi nói nguyên nhân, lý do mang tính khách quan như là「から」,「ので」",
+      "Tham chiếu: 「...から (lý do)」: どうして朝、新聞を読みませんか。...時間がありませんから。 (Minna 1 bài 9)"
+    ]
+  },
+  {
+    "id": "rareru-intransitive",
+    "title": "（１）～（ら）れる (bị động gián tiếp - nội động từ)",
+    "description": "Trong tiếng Nhật, có thể chuyển câu nội động từ「X が（は）V する」thành câu bị động. Trường hợp này thì người chịu ảnh hưởng bởi tác động X sẽ trở thành chủ ngữ của câu, và câu biểu thị rằng người đó đã chịu trách ảnh hưởng xấu (sự phiền toái hoặc thiệt hại) bởi tác động đó. Chủ sở hữu của chủ ngữ của nội động từ cũng có thể trở thành chủ ngữ trong câu bị động.",
+    "structure": "V (nội động từ) + （ら）れる",
+    "examples": [
+      {
+        "japanese": "昨日雨が降った。→ わたしは昨日雨に降られて、ねれてしまった。",
+        "romaji": "Kinou ame ga futta. → Watashi wa kinou ame ni furarete, nurete shimatta.",
+        "vietnamese": "Hôm qua mưa. → Hôm qua tôi đã bị mắc mưa và ướt hết."
+      },
+      {
+        "japanese": "私の父が急に死んで、わたしは大学に行けなかった。→ わたしは父に急に死なれて、大学に行けなかった。",
+        "romaji": "Watashi no chichi ga kyuu ni shinde, watashi wa daigaku ni ikenakatta. → Watashi wa chichi ni kyuu ni shinarete, daigaku ni ikenakatta.",
+        "vietnamese": "Bố tôi đột ngột mất đi và tôi không đã không thể học lên đại học. → Tôi bị mất bố đột ngột và đã không thể học lên đại học."
+      },
+      {
+        "japanese": "昨日、家へ帰る途中、雨に降られて、風邪をひいてしまった。",
+        "romaji": "Kinou, ie e kaeru tochuu, ame ni furarete, kaze o hiite shimatta.",
+        "vietnamese": "Hôm qua, trên đường về nhà tôi đã bị mắc mưa rồi bị cảm lạnh."
+      },
+      {
+        "japanese": "自転車で犯人を追いかけたが、逃げられてしまった。",
+        "romaji": "Jitensha de hannin o oikaketa ga, nigerarete shimatta.",
+        "vietnamese": "Tôi đã đuổi theo tôi phạm bằng xe đạp nhưng mà anh ta đã trốn thoát."
+      },
+      {
+        "japanese": "高校３年のときに父に死なれて、大学へ行くのをあきらめました。",
+        "romaji": "Koukou san nen no toki ni chichi ni shinarete, daigaku e iku no o akiramemashita.",
+        "vietnamese": "Lúc năm 3 trường trung học phổ thông bố tôi mất nên tôi từ bỏ việc học lên đại học."
+      }
+    ],
+    "notes": [
+      "Dùng với nội động từ để diễn tả người chịu ảnh hưởng xấu",
+      "Người chịu ảnh hưởng trở thành chủ ngữ của câu",
+      "Biểu thị sự phiền toái hoặc thiệt hại",
+      "Chủ sở hữu của chủ ngữ của nội động từ cũng có thể trở thành chủ ngữ trong câu bị động"
+    ]
+  },
+  {
+    "id": "rareru-transitive",
+    "title": "（２）～（ら）れる (bị động gián tiếp - ngoại động từ)",
+    "description": "Ngoại động từ cũng có thể được dùng cho câu bị động chỉ việc chịu phiền phức hay thiệt hại.",
+    "structure": "V (ngoại động từ) + （ら）れる",
+    "examples": [
+      {
+        "japanese": "こんなところに信号を作られて、車が渋滞するようになってしまった。",
+        "romaji": "Konna tokoro ni shingou o tsukurarete, kuruma ga juutai suru you ni natte shimatta.",
+        "vietnamese": "Họ dựng cột đèn hiệu ở cả những chỗ như thế này làm cho xe cộ trở nên tắc nghẽn."
+      },
+      {
+        "japanese": "わたしの家の前にゴミを捨てられて困っています。",
+        "romaji": "Watashi no ie no mae ni gomi o suterarete komatte imasu.",
+        "vietnamese": "Trước nhà tôi bị người ta vứt rác nên đang không biết phải làm sao."
+      },
+      {
+        "japanese": "ラーメン屋で店員にスープをこぼされて、新しいズボンが汚れてしまった。",
+        "romaji": "Raamen ya de ten'in ni suupu o kobosarete, atarashii zubon ga yogorete shimatta.",
+        "vietnamese": "Vì bị nhân viên làm đổ súp ở tiệm mì ramen, nên chiếc quần mới đã bị bẩn mất rồi."
+      },
+      {
+        "japanese": "駅の近くなので、家の前に自転車やバイクを止められて、困っています。",
+        "romaji": "Eki no chikaku na node, ie no mae ni jitensha ya baiku o tomerarete, komatte imasu.",
+        "vietnamese": "Vì gần ga, nên thường gặp rắc rối bởi xe ô tô, xe máy đỗ trước nhà."
+      },
+      {
+        "japanese": "隣に高いマンションを建てられて、日が当たらなくなりました。",
+        "romaji": "Tonari ni takai manshon o taterarete, hi ga ataranaku narimashita.",
+        "vietnamese": "Vì người ta xây dựng tòa chung cư cao ở bên cạnh nên ánh sáng mặt trời bị che khuất."
+      }
+    ],
+    "notes": [
+      "Dùng với ngoại động từ để diễn tả việc chịu phiền phức hay thiệt hại",
+      "Tham chiếu: 「～（さ）せられる／～される (sai khiến bị động)」: 太郎君は先生に掃除をさせられた。 (Minna 1 bài 4)"
+    ]
+  },
+  {
+    "id": "tari-tari",
+    "title": "～たり～たり",
+    "description": "(1) Mẫu「～たり～たり」là cách nói đưa ra 2 ví dụ thích hợp trong một chuỗi các hành động. (2) Mẫu「V1たりV2たり」dùng cặp động từ V1 và V2 có ý nghĩa ngược nhau, biểu thị V1, V2 xảy ra xen kẽ nhau. Trường hợp muốn chỉ tiêu chủng loại khác nhau thì 「～たり～たり」cũng có thể được dùng cho tính từ.",
+    "structure": "Vたり／いA→ーいかったり／なA→ーだったり／N→－だったり",
+    "examples": [
+      {
+        "japanese": "休みの日は、洗濯をしたり、掃除をしたりします。",
+        "romaji": "Yasumi no hi wa, sentaku o shitari, souji o shitari shimasu.",
+        "vietnamese": "Ngày nghỉ tôi giặt giũ, dọn dẹp. (liệt kê hành động) (Minna 1 bài 9)"
+      },
+      {
+        "japanese": "映画を見ているとき笑ったり泣いたりしました。",
+        "romaji": "Eiga o mite iru toki warattari naitari shimashita.",
+        "vietnamese": "Khi xem phim, tôi (đã) lúc khóc lúc cười."
+      },
+      {
+        "japanese": "この廊下は人が通る、電気がついたり消えたりします。",
+        "romaji": "Kono rouka wa hito ga tooru, denki ga tsuitari kietari shimasu.",
+        "vietnamese": "Hành lang này khi có người đi qua thì đèn sẽ (tự động) bật, tắt."
+      },
+      {
+        "japanese": "この店の食べ物は種類が多くて、甘かったり辛かったりします。",
+        "romaji": "Kono mise no tabemono wa shurui ga ookute, amakattari karakattari shimasu.",
+        "vietnamese": "Nhà hàng này thực đơn có nhiều món ăn khác nhau, gồm cả món ngọt và món cay."
+      },
+      {
+        "japanese": "大阪は、明日は雨が降ったりやんだりするでしょう。",
+        "romaji": "Oosaka wa, ashita wa ame ga futtari yandari suru deshou.",
+        "vietnamese": "Ngày mai Osaka có lẽ lúc mưa lúc tạnh."
+      }
+    ],
+    "notes": [
+      "Đưa ra 2 ví dụ thích hợp trong một chuỗi các hành động",
+      "Dùng cặp động từ có ý nghĩa ngược nhau, biểu thị xảy ra xen kẽ nhau",
+      "Có thể dùng cho tính từ để chỉ tiêu chủng loại khác nhau"
+    ]
+  },
+  {
+    "id": "ppanashi",
+    "title": "～っぱなし",
+    "description": "「～っぱなし」chỉ việc tiếp tục kéo dài không mong muốn của một trạng thái mà thông thường sẽ chấm dứt kịp thời. Đưa động từ thể ます (gốc từ) vào trong「～」.",
+    "structure": "V thể ます + っぱなし",
+    "examples": [
+      {
+        "japanese": "服が脱ぎっぱなしだ。片づけないから、部屋が汚い。",
+        "romaji": "Fuku ga nugippanashi da. Katadzukenai kara, heya ga kitanai.",
+        "vietnamese": "Con cởi đồ và để bừa vậy. Chẳng chịu dọn dẹp gì cả nên phòng rất bẩn."
+      },
+      {
+        "japanese": "こらっ。ドアが開けっぱなしだよ。早く閉めなさい。",
+        "romaji": "Koraa. Doa ga akeppanashi da yo. Hayaku shimenasai.",
+        "vietnamese": "Này, con để cửa mở đấy. Nhanh đóng lại đi."
+      },
+      {
+        "japanese": "あの家は留守らしい。洗濯物が４，５日前から干しっぱなしだ。",
+        "romaji": "Ano ie wa rusu rashii. Sentakumono ga yon, go nichi mae kara hoshippanashi da.",
+        "vietnamese": "Nhà đó có vẻ như vắng nhà. Đồ giặt đã phơi suốt từ 4, 5 ngày trước."
+      },
+      {
+        "japanese": "１週間前から階段の前にバイクが置きっぱなしにしてある。",
+        "romaji": "Isshuukan mae kara kaidan no mae ni baiku ga okippanashi ni shite aru.",
+        "vietnamese": "Chiếc xe máy để suốt ở trước cầu thang từ 1 tuần trước."
+      },
+      {
+        "japanese": "今朝から立ちっぱなしだから、ちょっと休もう。",
+        "romaji": "Kesa kara tachippanashi dakara, chotto yasumou.",
+        "vietnamese": "Đã đứng suốt từ sáng, nghỉ chút thôi."
+      }
+    ],
+    "notes": [
+      "Chỉ việc tiếp tục kéo dài không mong muốn của một trạng thái",
+      "Thông thường sẽ chấm dứt kịp thời nhưng không được thực hiện",
+      "Đưa động từ thể ます (gốc từ) vào trong「～」",
+      "Tham chiếu: 「～たまま、...・～のまま、...」: 眼鏡をかけたまま、おふろに入った。 (Minna 1 bài 8)"
+    ]
+  },
+  {
+    "id": "okage-de",
+    "title": "（１）…おかげで、…・…おかげで",
+    "description": "Mẫu「Xおかげで、Y・Xおかげだ」được dùng khi nói nhờ nguyên nhân X đã đem lại kết quả tốt cho Y.",
+    "structure": "V／いA／なA (thể thông thường)／N (ーだ→な／の) + おかげで／おかげだ",
+    "examples": [
+      {
+        "japanese": "先生が手紙を書いてくださったおかげで、大きい病院で研修を受けることになった。",
+        "romaji": "Sensei ga tegami o kaite kudasatta okage de, ookii byouin de kenshuu o ukeru koto ni natta.",
+        "vietnamese": "Nhờ có thấy viết thư tiến cử cho mà tôi đã có thể thực tập ở một bệnh viện lớn."
+      },
+      {
+        "japanese": "値段が安かったおかげで、たくさん買えました。",
+        "romaji": "Nedan ga yasukatta okage de, takusan kaemashita.",
+        "vietnamese": "Nhờ giá cả rẻ nên tôi đã mua được nhiều."
+      },
+      {
+        "japanese": "地図の説明が丁寧なおかげで、待ち合わせの場所がすぐにわかりました。",
+        "romaji": "Chizu no setsumei ga teinei na okage de, machiawase no basho ga sugu ni wakarimashita.",
+        "vietnamese": "Nhờ có sự giải thích cẩn thận của bản đồ mà tôi đã tìm thấy được ngay chỗ hẹn."
+      },
+      {
+        "japanese": "皆様のおかげで、スピーチ大会で優勝することができました。",
+        "romaji": "Minasama no okage de, supiichi taikai de yuushou suru koto ga dekimashita.",
+        "vietnamese": "Nhờ có sự động viên, giúp đỡ của mọi người mà tôi đã có thể giành chiến thắng ở cuộc thi hùng biện."
+      },
+      {
+        "japanese": "みんなに手伝ってもらったおかげで、展覧会の準備が早く終わりました。",
+        "romaji": "Minna ni tetsudatte moratta okage de, tenrankai no junbi ga hayaku owarimashita.",
+        "vietnamese": "Nhờ mọi người giúp đỡ nên công tác chuẩn bị cho buổi triển lãm đã xong một cách nhanh chóng."
+      }
+    ],
+    "notes": [
+      "Được dùng khi nói nhờ nguyên nhân X đã đem lại kết quả tốt cho Y",
+      "Biểu thị lòng biết ơn hoặc sự đánh giá tích cực",
+      "Có thể dùng cả「Xおかげで、Y」và「YはXおかげだ」"
+    ]
+  },
+  {
+    "id": "sei-de",
+    "title": "（２）…せいで、…・…せいだ",
+    "description": "Ngược lại, khi phát sinh một kết quả không mong muốn thì dùng「...せいで・せいだ」.",
+    "structure": "V／いA／なA (thể thông thường)／N (ーだ→な／の) + せいで／せいだ",
+    "examples": [
+      {
+        "japanese": "事故のせいで、授業に遅れてしまった。",
+        "romaji": "Jiko no sei de, jugyou ni okurete shimatta.",
+        "vietnamese": "Do vụ tai nạn nên tôi đẫ đến lớp trễ."
+      },
+      {
+        "japanese": "風邪薬を飲んでいるせいで、眠くなった。",
+        "romaji": "Kazegusuri o nonde iru sei de, nemuku natta.",
+        "vietnamese": "Do tôi uống thuốc cảm nên đã rất buồn ngủ."
+      },
+      {
+        "japanese": "わたしが急に休んだせいで、チームに迷惑をかけてしまいました。",
+        "romaji": "Watashi ga kyuu ni yasunda sei de, chiimu ni meiwaku o kakete shimaimashita.",
+        "vietnamese": "Do tôi đột nhiên nghỉ nên đã gây phiền phức cho cả đội."
+      },
+      {
+        "japanese": "今年の夏は涼しかったせいで、エアコンがあまり売れなかった。",
+        "romaji": "Kotoshi no natsu wa suzushikatta sei de, eakon ga amari urenakatta.",
+        "vietnamese": "Vì mùa hè năm nay mát mẻ, nên điều hòa bán không chạy lắm."
+      },
+      {
+        "japanese": "子供が本を読まなくなったのは、テレビのせいだと思います。",
+        "romaji": "Kodomo ga hon o yomanaku natta no wa, terebi no sei da to omoimasu.",
+        "vietnamese": "Tôi nghĩ trẻ con không đọc sách nữa là do tivi."
+      }
+    ],
+    "notes": [
+      "Được dùng khi phát sinh một kết quả không mong muốn",
+      "Ngược lại với「おかげで」",
+      "Có thể dùng cả「Xせいで、Y」và「YはXせいだ」",
+      "Thường dùng để đổ lỗi hoặc giải thích nguyên nhân tiêu cực"
+    ]
+  },
+  {
+    "id": "mitai-desu",
+    "title": "…みたいです",
+    "description": "「...みたいです」biểu thị sự phán đoán dựa vào tình huống, chẳng hạn như biểu hiện bên ngoài của một sự việc, v.v.「...みたいです」có nghĩa giống với「...ようだ」, nhưng「...ようだ」được dùng trong văn viết hoặc trong lời nói trang trọng.",
+    "structure": "V／いA／なA (thể thông thường)／N (ーだ) + みたいだ",
+    "examples": [
+      {
+        "japanese": "電気が消えているね。隣の部屋は留守みたいだね。",
+        "romaji": "Denki ga kiete iru ne. Tonari no heya wa rusu mitai da ne.",
+        "vietnamese": "Đèn điện đang tắt nhỉ. Phòng bên cạnh có vẻ đang đi vắng nhỉ."
+      },
+      {
+        "japanese": "田中さんはお酒を飲んだみたいです。顔が赤いです。",
+        "romaji": "Tanaka-san wa osake o nonda mitai desu. Kao ga akai desu.",
+        "vietnamese": "Có vẻ anh Tanaka đã uống rượu. Mặt anh ấy rất đỏ."
+      },
+      {
+        "japanese": "資料が届いたようですので、事務室に取りに行ってまいります。",
+        "romaji": "Shiryou ga todoita you desu node, jimushitsu ni tori ni itte mairimasu.",
+        "vietnamese": "Dường như tài liệu đã được gửi đến, tôi đến văn phòng nhận đây."
+      }
+    ],
+    "notes": [
+      "Biểu thị sự phán đoán dựa vào tình huống",
+      "Dựa vào biểu hiện bên ngoài của một sự việc",
+      "Có nghĩa giống với「...ようだ」nhưng dùng trong văn nói nhiều hơn",
+      "「...ようだ」được dùng trong văn viết hoặc trong lời nói trang trọng",
+      "Tham chiếu: 「...ようだ (phán đoán từ tình huống)」: 隣の部屋にだれかいるようです。 (Minna 2 bài 47)"
+    ]
+  },
+  {
+    "id": "dochiraka-to-ieba-hou-da",
+    "title": "どちらかと言えば、～ほうだ",
+    "description": "Mẫu「どちらかと言えば、Xほうだ」biểu thị rằng nếu nói một cách chính xác thì không hẳn là X, nhưng nếu nói một cách đại khái (không nói rõ ra là X hay không là X) thì sẽ là X.",
+    "structure": "V／いA／なA (thể thông thường) + ほうだ",
+    "examples": [
+      {
+        "japanese": "この辺りには高い店が多いのですが、この店はどちらかと言えば、安いほうです。",
+        "romaji": "Kono atari ni wa takai mise ga ooi no desu ga, kono mise wa dochiraka to ieba, yasui hou desu.",
+        "vietnamese": "Nhiều quán ở khu vực này đắt, nhưng quán này thuộc dạng rẻ."
+      },
+      {
+        "japanese": "わたしはどちらかと言えば、、好き嫌いはあまりない方だ。",
+        "romaji": "Watashi wa dochiraka to ieba, suki kirai wa amari nai hou da.",
+        "vietnamese": "Tôi thuộc dạng sao cũng được, không quá cầu kỳ."
+      },
+      {
+        "japanese": "この町はわたしの国ではどちらかと言えば、にぎやかなほうです。",
+        "romaji": "Kono machi wa watashi no kuni dewa dochiraka to ieba, nigiyaka na hou desu.",
+        "vietnamese": "Thị trấn này nếu ở nước tôi sẽ được xem là thuộc dạng náo nhiệt."
+      },
+      {
+        "japanese": "食事しながらお酒を飲みますか。...そうですね。いつもではありませんが、どちらかと言えば、飲むほうですね。",
+        "romaji": "Shokuji shinagara osake o nomimasu ka. ...Sou desu ne. Itsumo dewa arimasen ga, dochiraka to ieba, nomu hou desu ne.",
+        "vietnamese": "Anh vừa dùng bữa vừa uống rượu à? ...À, vâng, không phải lúc nào cũng vậy, nhưng tôi thường uống khi ăn."
+      }
+    ],
+    "notes": [
+      "Biểu thị rằng nếu nói một cách chính xác thì không hẳn là X, nhưng nếu nói một cách đại khái thì sẽ là X",
+      "Dùng để đưa ra nhận định tương đối, không tuyệt đối",
+      "Thường dùng khi so sánh hoặc đánh giá tương đối"
+    ]
+  },
+  {
+    "id": "masu-masen-you-ni",
+    "title": "～ます／ませんように",
+    "description": "Mẫu「～ますように／～ませんように」có nghĩa là mong ／hy vọng／cầu chúc cho điều gì đó xảy ra hoặc không xảy ra. Nó thường được dùng với「どうか」,「どうぞ」khi nói một mình hoặc nhắc người khác.",
+    "structure": "～ます／ませんように",
+    "examples": [
+      {
+        "japanese": "優しい人と結婚できますように。",
+        "romaji": "Yasashii hito to kekkon dekimasu you ni.",
+        "vietnamese": "Tôi hy vọng có thể cưới được người tốt."
+      },
+      {
+        "japanese": "どうか大きい地震が起きませんように。",
+        "romaji": "Douka ookii jishin ga okimasen you ni.",
+        "vietnamese": "Tôi cầu mong sẽ không có động đất lớn xảy ra."
+      },
+      {
+        "japanese": "先生もどうぞ風邪をひかれませんように。",
+        "romaji": "Sensei mo douzo kaze o hikaremasen you ni.",
+        "vietnamese": "Mong thầy cũng chú ý đừng để bị cảm."
+      }
+    ],
+    "notes": [
+      "Có nghĩa là mong ／hy vọng／cầu chúc cho điều gì đó xảy ra hoặc không xảy ra",
+      "Thường được dùng với「どうか」,「どうぞ」",
+      "Dùng khi nói một mình hoặc nhắc người khác",
+      "Thường dùng trong lời cầu nguyện, lời chúc"
+    ]
+  }
+]

@@ -1,0 +1,1037 @@
+[
+  {
+    "id": "fuku-garasu",
+    "kanji": "ふく［ガラスを～］",
+    "hiragana": "ふく［ガラスを～］",
+    "en": "to wipe [glass]",
+    "vi": "lau, chùi [cửa kính]",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm I",
+        "《ふきます、ふく、ふいて》",
+        "Ví dụ: ガラスを ふく (Lau cửa kính)"
+      ]
+    }
+  },
+  {
+    "id": "kekka",
+    "kanji": "結果",
+    "hiragana": "けっか",
+    "en": "result",
+    "vi": "kết quả",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ kết quả",
+        "Ví dụ: 結果を 見る (Xem kết quả)"
+      ]
+    }
+  },
+  {
+    "id": "gairaigo",
+    "kanji": "外来語",
+    "hiragana": "がいらいご",
+    "en": "loanword, foreign word",
+    "vi": "từ ngoại lai",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ từ ngoại lai",
+        "Ví dụ: 外来語を 学ぶ (Học từ ngoại lai)"
+      ]
+    }
+  },
+  {
+    "id": "mamoru-chikyuu",
+    "kanji": "守る［地球を～］",
+    "hiragana": "まもる［ちきゅうを～］",
+    "en": "to protect [the earth]",
+    "vi": "bảo vệ [trái đất]",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm I",
+        "《守ります、守る、守って》",
+        "Ví dụ: 地球を 守る (Bảo vệ trái đất)"
+      ]
+    }
+  },
+  {
+    "id": "software",
+    "kanji": "ソフトウェア",
+    "hiragana": "ソフトウェア",
+    "en": "software",
+    "vi": "phần mềm",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ phần mềm",
+        "Ví dụ: ソフトウェアを 開発する (Phát triển phần mềm)"
+      ]
+    }
+  },
+  {
+    "id": "meeru",
+    "kanji": "メール",
+    "hiragana": "メール",
+    "en": "email",
+    "vi": "email, thư điện tử",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ email",
+        "Ví dụ: メールを 送る (Gửi email)"
+      ]
+    }
+  },
+  {
+    "id": "yuubin",
+    "kanji": "郵便",
+    "hiragana": "ゆうびん",
+    "en": "mail, postal service",
+    "vi": "đường bưu điện, bưu phẩm",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ bưu điện, bưu phẩm",
+        "Ví dụ: 郵便を 出す (Gửi bưu phẩm)"
+      ]
+    }
+  },
+  {
+    "id": "i-meeru",
+    "kanji": "Eメール",
+    "hiragana": "イーメール",
+    "en": "email",
+    "vi": "email, thư điện tử",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ email",
+        "Ví dụ: Eメールを チェックする (Kiểm tra email)"
+      ]
+    }
+  },
+  {
+    "id": "eiyou",
+    "kanji": "栄養",
+    "hiragana": "えいよう",
+    "en": "nutrition",
+    "vi": "dinh dưỡng",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ dinh dưỡng",
+        "Ví dụ: 栄養を 取る (Lấy dinh dưỡng)"
+      ]
+    }
+  },
+  {
+    "id": "calorie",
+    "kanji": "カロリー",
+    "hiragana": "カロリー",
+    "en": "calorie",
+    "vi": "calori",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ calori",
+        "Ví dụ: カロリーを 計算する (Tính calori)"
+      ]
+    }
+  },
+  {
+    "id": "eko",
+    "kanji": "エコ",
+    "hiragana": "エコ",
+    "en": "eco, ecological",
+    "vi": "sinh thái, quan tâm đến môi trường",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ sinh thái, môi trường",
+        "Ví dụ: エコを 考える (Suy nghĩ về môi trường)"
+      ]
+    }
+  },
+  {
+    "id": "kankyou",
+    "kanji": "環境",
+    "hiragana": "かんきょう",
+    "en": "environment",
+    "vi": "môi trường",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ môi trường",
+        "Ví dụ: 環境を 守る (Bảo vệ môi trường)"
+      ]
+    }
+  },
+  {
+    "id": "apo",
+    "kanji": "アポ",
+    "hiragana": "アポ",
+    "en": "appointment",
+    "vi": "cuộc hẹn",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ cuộc hẹn",
+        "Ví dụ: アポを 取る (Đặt cuộc hẹn)"
+      ]
+    }
+  },
+  {
+    "id": "shou-ene",
+    "kanji": "省エネ",
+    "hiragana": "しょうエネ",
+    "en": "energy saving",
+    "vi": "tiết kiệm năng lượng",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ tiết kiệm năng lượng",
+        "Ví dụ: 省エネを 心がける (Chú ý tiết kiệm năng lượng)"
+      ]
+    }
+  },
+  {
+    "id": "gakushuu-suru",
+    "kanji": "学習する",
+    "hiragana": "がくしゅうする",
+    "en": "to study, to learn",
+    "vi": "học tập",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm III",
+        "《学習します、学習する、学習して》",
+        "Ví dụ: 日本語を 学習する (Học tiếng Nhật)"
+      ]
+    }
+  },
+  {
+    "id": "kiji",
+    "kanji": "記事",
+    "hiragana": "きじ",
+    "en": "article",
+    "vi": "bài báo (trên một tờ báo, tạp chí, v.v.)",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ bài báo",
+        "Ví dụ: 記事を 読む (Đọc bài báo)"
+      ]
+    }
+  },
+  {
+    "id": "wakeru-gomi",
+    "kanji": "分ける［ごみを～］",
+    "hiragana": "わける",
+    "en": "to separate [garbage]",
+    "vi": "chia, phân loại [rác]",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm II",
+        "《分けます、分ける、分けて》",
+        "Ví dụ: ごみを 分ける (Phân loại rác)"
+      ]
+    }
+  },
+  {
+    "id": "uwasa",
+    "kanji": "うわさ",
+    "hiragana": "うわさ",
+    "en": "rumor, gossip",
+    "vi": "tin đồn, lời đồn",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ tin đồn",
+        "Ví dụ: うわさを 聞く (Nghe tin đồn)"
+      ]
+    }
+  },
+  {
+    "id": "atari",
+    "kanji": "辺り",
+    "hiragana": "あたり",
+    "en": "area, vicinity",
+    "vi": "khu vực",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ khu vực",
+        "Ví dụ: この辺り (Khu vực này)"
+      ]
+    }
+  },
+  {
+    "id": "advice",
+    "kanji": "アドバイス",
+    "hiragana": "アドバイス",
+    "en": "advice",
+    "vi": "lời khuyên",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ lời khuyên",
+        "Ví dụ: アドバイスを もらう (Nhận lời khuyên)"
+      ]
+    }
+  },
+  {
+    "id": "jiken",
+    "kanji": "事件",
+    "hiragana": "じけん",
+    "en": "incident, case",
+    "vi": "sự kiện, vụ án",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ sự kiện, vụ án",
+        "Ví dụ: 事件を 調べる (Điều tra vụ án)"
+      ]
+    }
+  },
+  {
+    "id": "ubau",
+    "kanji": "奪う",
+    "hiragana": "うばう",
+    "en": "to rob, to take away",
+    "vi": "cướp đi, đoạt",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm I",
+        "《奪います、奪う、奪って》",
+        "Ví dụ: 命を 奪う (Đoạt mạng sống)"
+      ]
+    }
+  },
+  {
+    "id": "hosu",
+    "kanji": "干す",
+    "hiragana": "ほす",
+    "en": "to dry",
+    "vi": "phơi",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm I",
+        "《干します、干す、干して》",
+        "Ví dụ: 洗濯物を 干す (Phơi quần áo)"
+      ]
+    }
+  },
+  {
+    "id": "igai",
+    "kanji": "以外",
+    "hiragana": "いがい",
+    "en": "except, besides",
+    "vi": "ngoài ra",
+    "type": "other",
+    "explanation": {
+      "content": [
+        "Trạng từ chỉ ngoại trừ",
+        "Ví dụ: これ以外 (Ngoài cái này)"
+      ]
+    }
+  },
+  {
+    "id": "tsuku-uso",
+    "kanji": "つく［うそを～］",
+    "hiragana": "つく",
+    "en": "to tell [a lie]",
+    "vi": "nói [dối]",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm I",
+        "《つきます、つく、ついて》",
+        "Ví dụ: うそを つく (Nói dối)"
+      ]
+    }
+  },
+  {
+    "id": "robot",
+    "kanji": "ロボット",
+    "hiragana": "ロボット",
+    "en": "robot",
+    "vi": "robot",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ robot",
+        "Ví dụ: ロボットを 作る (Làm robot)"
+      ]
+    }
+  },
+  {
+    "id": "honmono",
+    "kanji": "本物",
+    "hiragana": "ほんもの",
+    "en": "real thing, genuine",
+    "vi": "đồ thật",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ đồ thật",
+        "Ví dụ: 本物の ダイヤモンド (Kim cương thật)"
+      ]
+    }
+  },
+  {
+    "id": "tobu-sora",
+    "kanji": "飛ぶ［空を～］",
+    "hiragana": "とぶ［そらを～］",
+    "en": "to fly [in the sky]",
+    "vi": "bay [trên trời]",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm I",
+        "《飛びます、飛ぶ、飛んで》",
+        "Ví dụ: 空を 飛ぶ (Bay trên trời)"
+      ]
+    }
+  },
+  {
+    "id": "orange",
+    "kanji": "オレンジ",
+    "hiragana": "オレンジ",
+    "en": "orange",
+    "vi": "cam",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ quả cam",
+        "Ví dụ: オレンジを 食べる (Ăn cam)"
+      ]
+    }
+  },
+  {
+    "id": "pajama",
+    "kanji": "パジャマ",
+    "hiragana": "パジャマ",
+    "en": "pajamas",
+    "vi": "pijama, bộ đồ ngủ",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ bộ đồ ngủ",
+        "Ví dụ: パジャマを 着る (Mặc bộ đồ ngủ)"
+      ]
+    }
+  },
+  {
+    "id": "shikakui",
+    "kanji": "四角い",
+    "hiragana": "しかくい",
+    "en": "square",
+    "vi": "vuông",
+    "type": "adjective",
+    "explanation": {
+      "content": [
+        "Tính từ đuôi i chỉ hình vuông",
+        "Ví dụ: 四角い テーブル (Bàn vuông)"
+      ]
+    }
+  },
+  {
+    "id": "ude",
+    "kanji": "腕",
+    "hiragana": "うで",
+    "en": "arm",
+    "vi": "cánh tay",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ cánh tay",
+        "Ví dụ: 腕を 上げる (Giơ tay)"
+      ]
+    }
+  },
+  {
+    "id": "tsukeru-ude",
+    "kanji": "つける[腕に～]",
+    "hiragana": "［うでに～］",
+    "en": "to put on [one's arm]",
+    "vi": "đeo vào [cánh tay]",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm II",
+        "《つけます、つける、つけて》",
+        "Ví dụ: 腕に 時計を つける (Đeo đồng hồ vào tay)"
+      ]
+    }
+  },
+  {
+    "id": "furusato",
+    "kanji": "ふるさと",
+    "hiragana": "ふるさと",
+    "en": "hometown",
+    "vi": "quê hương",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ quê hương",
+        "Ví dụ: ふるさとに 帰る (Về quê hương)"
+      ]
+    }
+  },
+  {
+    "id": "hanashikakeru",
+    "kanji": "話しかける",
+    "hiragana": "はなしかける",
+    "en": "to speak to, to address",
+    "vi": "nói với, bắt chuyện",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm II",
+        "《話しかけます、話しかける、話しかけて》",
+        "Ví dụ: 人に 話しかける (Bắt chuyện với người)"
+      ]
+    }
+  },
+  {
+    "id": "fuzai-renraku-hyou",
+    "kanji": "不在連絡票",
+    "hiragana": "ふざいれんらくひょう",
+    "en": "delivery notice",
+    "vi": "giấy báo đã ghé chuyển hàng đến nhưng người nhận vắng nhà",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ giấy báo nhận hàng",
+        "Ví dụ: 不在連絡票を 見る (Xem giấy báo nhận hàng)"
+      ]
+    }
+  },
+  {
+    "id": "taku",
+    "kanji": "～宅",
+    "hiragana": "～たく",
+    "en": "house, residence",
+    "vi": "nhà",
+    "type": "other",
+    "explanation": {
+      "content": [
+        "Hậu tố chỉ nhà",
+        "Ví dụ: 田中宅 (Nhà Tanaka)"
+      ]
+    }
+  },
+  {
+    "id": "kouji",
+    "kanji": "工事",
+    "hiragana": "こうじ",
+    "en": "construction work",
+    "vi": "thi công",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ công việc thi công",
+        "Ví dụ: 工事を する (Thi công)"
+      ]
+    }
+  },
+  {
+    "id": "kyuujitsu",
+    "kanji": "休日",
+    "hiragana": "きゅうじつ",
+    "en": "holiday, day off",
+    "vi": "ngày nghỉ",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ ngày nghỉ",
+        "Ví dụ: 休日に 遊ぶ (Chơi vào ngày nghỉ)"
+      ]
+    }
+  },
+  {
+    "id": "dansui",
+    "kanji": "断水",
+    "hiragana": "だんすい",
+    "en": "water outage",
+    "vi": "mất nước",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ việc mất nước",
+        "Ví dụ: 断水が 起こる (Xảy ra mất nước)"
+      ]
+    }
+  },
+  {
+    "id": "rimokon",
+    "kanji": "リモコン",
+    "hiragana": "リモコン",
+    "en": "remote control",
+    "vi": "cái điều khiển từ xa",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ điều khiển từ xa",
+        "Ví dụ: リモコンを 使う (Dùng điều khiển từ xa)"
+      ]
+    }
+  },
+  {
+    "id": "robocon",
+    "kanji": "ロボコン",
+    "hiragana": "ロボコン",
+    "en": "robot contest",
+    "vi": "cuộc thi rô bốt",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ cuộc thi robot",
+        "Ví dụ: ロボコンに 参加する (Tham gia cuộc thi robot)"
+      ]
+    }
+  },
+  {
+    "id": "nigate",
+    "kanji": "苦手[な]",
+    "hiragana": "にがて[な]",
+    "en": "weak at, not good at",
+    "vi": "kém, không giỏi",
+    "type": "adjective",
+    "explanation": {
+      "content": [
+        "Tính từ đuôi na chỉ sự không giỏi",
+        "Ví dụ: 数学が 苦手です (Tôi kém toán)"
+      ]
+    }
+  },
+  {
+    "id": "magirawashii",
+    "kanji": "紛らわしい",
+    "hiragana": "まぎらわしい",
+    "en": "confusing, misleading",
+    "vi": "không rõ ràng, gây bối rối",
+    "type": "adjective",
+    "explanation": {
+      "content": [
+        "Tính từ đuôi i chỉ sự gây bối rối",
+        "Ví dụ: 紛らわしい 説明 (Giải thích gây bối rối)"
+      ]
+    }
+  },
+  {
+    "id": "seikaku",
+    "kanji": "正確[な]",
+    "hiragana": "せいかく[な]",
+    "en": "accurate, precise",
+    "vi": "chính xác",
+    "type": "adjective",
+    "explanation": {
+      "content": [
+        "Tính từ đuôi na chỉ sự chính xác",
+        "Ví dụ: 正確な 情報 (Thông tin chính xác)"
+      ]
+    }
+  },
+  {
+    "id": "balance",
+    "kanji": "バランス",
+    "hiragana": "バランス",
+    "en": "balance",
+    "vi": "cân bằng",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ sự cân bằng",
+        "Ví dụ: バランスを 取る (Giữ cân bằng)"
+      ]
+    }
+  },
+  {
+    "id": "hiku-sen",
+    "kanji": "引く[線を～]",
+    "hiragana": "ひく［せんを～］",
+    "en": "to draw [a line]",
+    "vi": "kẻ [một đường]",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm I",
+        "《引きます、引く、引いて》",
+        "Ví dụ: 線を 引く (Kẻ đường)"
+      ]
+    }
+  },
+  {
+    "id": "hissha",
+    "kanji": "筆者",
+    "hiragana": "ひっしゃ",
+    "en": "author",
+    "vi": "tác giả (của một bài viết)",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ tác giả",
+        "Ví dụ: 筆者の 意見 (Ý kiến của tác giả)"
+      ]
+    }
+  },
+  {
+    "id": "imadani",
+    "kanji": "いまだに",
+    "hiragana": "いまだに",
+    "en": "still, even now",
+    "vi": "bây giờ vẫn",
+    "type": "adverb",
+    "explanation": {
+      "content": [
+        "Trạng từ chỉ vẫn còn",
+        "Ví dụ: いまだに 分からない (Vẫn chưa hiểu)"
+      ]
+    }
+  },
+  {
+    "id": "dondemonai",
+    "kanji": "どんでもない",
+    "hiragana": "どんでもない",
+    "en": "outrageous, preposterous",
+    "vi": "chẳng ra sao cả",
+    "type": "adjective",
+    "explanation": {
+      "content": [
+        "Tính từ đuôi i chỉ sự không thể chấp nhận",
+        "Ví dụ: どんでもない 話 (Câu chuyện chẳng ra sao)"
+      ]
+    }
+  },
+  {
+    "id": "uchuujin",
+    "kanji": "宇宙人",
+    "hiragana": "うちゅうじん",
+    "en": "alien",
+    "vi": "người ngoài hành tinh",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ người ngoài hành tinh",
+        "Ví dụ: 宇宙人に 会う (Gặp người ngoài hành tinh)"
+      ]
+    }
+  },
+  {
+    "id": "mattaku",
+    "kanji": "全く",
+    "hiragana": "まったく",
+    "en": "completely, entirely",
+    "vi": "hoàn toàn",
+    "type": "adverb",
+    "explanation": {
+      "content": [
+        "Trạng từ chỉ hoàn toàn",
+        "Ví dụ: 全く 違う (Hoàn toàn khác)"
+      ]
+    }
+  },
+  {
+    "id": "betsu-no",
+    "kanji": "別の",
+    "hiragana": "べつの",
+    "en": "another, different",
+    "vi": "khác",
+    "type": "other",
+    "explanation": {
+      "content": [
+        "Từ chỉ định chỉ cái khác",
+        "Ví dụ: 別の 方法 (Phương pháp khác)"
+      ]
+    }
+  },
+  {
+    "id": "jishin",
+    "kanji": "～自身",
+    "hiragana": "～じしん",
+    "en": "oneself, itself",
+    "vi": "bản thân, tự (mình), chính (mình)",
+    "type": "other",
+    "explanation": {
+      "content": [
+        "Hậu tố chỉ bản thân",
+        "Ví dụ: 私自身 (Bản thân tôi)"
+      ]
+    }
+  },
+  {
+    "id": "yuujin",
+    "kanji": "友人",
+    "hiragana": "ゆうじん",
+    "en": "friend",
+    "vi": "bạn thân",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ bạn thân",
+        "Ví dụ: 友人に 会う (Gặp bạn thân)"
+      ]
+    }
+  },
+  {
+    "id": "mata-additional",
+    "kanji": "また",
+    "hiragana": "また",
+    "en": "furthermore, moreover",
+    "vi": "hơn nữa, vả lại",
+    "type": "adverb",
+    "explanation": {
+      "content": [
+        "Trạng từ nối chỉ sự bổ sung",
+        "Ví dụ: また、重要な 点が あります (Hơn nữa, có điểm quan trọng)"
+      ]
+    }
+  },
+  {
+    "id": "rice",
+    "kanji": "ライス",
+    "hiragana": "ライス",
+    "en": "rice",
+    "vi": "cơm",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ cơm",
+        "Ví dụ: ライスを 食べる (Ăn cơm)"
+      ]
+    }
+  },
+  {
+    "id": "address",
+    "kanji": "アドレス",
+    "hiragana": "アドレス",
+    "en": "address",
+    "vi": "địa chỉ",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ địa chỉ",
+        "Ví dụ: アドレスを 教える (Cho biết địa chỉ)"
+      ]
+    }
+  },
+  {
+    "id": "meeru-address",
+    "kanji": "メールアドレス",
+    "hiragana": "メールアドレス",
+    "en": "email address",
+    "vi": "địa chỉ email",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ địa chỉ email",
+        "Ví dụ: メールアドレスを 登録する (Đăng ký địa chỉ email)"
+      ]
+    }
+  },
+  {
+    "id": "presentation",
+    "kanji": "プレゼン",
+    "hiragana": "プレゼン",
+    "en": "presentation",
+    "vi": "bài thuyết trình",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ bài thuyết trình",
+        "Ví dụ: プレゼンを する (Thuyết trình)"
+      ]
+    }
+  },
+  {
+    "id": "identity",
+    "kanji": "アイデンティティ",
+    "hiragana": "アイデンティティ",
+    "en": "identity",
+    "vi": "bản sắc, đặc tính, nét để nhận diện",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ bản sắc",
+        "Ví dụ: アイデンティティを 確立する (Thiết lập bản sắc)"
+      ]
+    }
+  },
+  {
+    "id": "compliance",
+    "kanji": "コンプライアンス",
+    "hiragana": "コンプライアンス",
+    "en": "compliance",
+    "vi": "sự tuân thủ luật, làm đúng luật",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ sự tuân thủ",
+        "Ví dụ: コンプライアンスを 守る (Tuân thủ luật)"
+      ]
+    }
+  },
+  {
+    "id": "tatoeba",
+    "kanji": "例えば",
+    "hiragana": "たとえば",
+    "en": "for example",
+    "vi": "ví dụ",
+    "type": "adverb",
+    "explanation": {
+      "content": [
+        "Trạng từ chỉ ví dụ",
+        "Ví dụ: 例えば、日本語を 勉強する (Ví dụ, học tiếng Nhật)"
+      ]
+    }
+  },
+  {
+    "id": "policy",
+    "kanji": "ポリシー",
+    "hiragana": "ポリシー",
+    "en": "policy",
+    "vi": "nguyên tắc, chính sách",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ chính sách",
+        "Ví dụ: ポリシーを 決める (Quyết định chính sách)"
+      ]
+    }
+  },
+  {
+    "id": "baai",
+    "kanji": "場合",
+    "hiragana": "ばあい",
+    "en": "case, situation",
+    "vi": "trường hợp",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ trường hợp",
+        "Ví dụ: この場合 (Trường hợp này)"
+      ]
+    }
+  },
+  {
+    "id": "percent",
+    "kanji": "%",
+    "hiragana": "パーセント",
+    "en": "percent",
+    "vi": "tỷ lệ phần trăm",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ phần trăm",
+        "Ví dụ: 50パーセント (50%)"
+      ]
+    }
+  },
+  {
+    "id": "futsuuni",
+    "kanji": "普通に",
+    "hiragana": "ふつうに",
+    "en": "normally, usually",
+    "vi": "bình thường",
+    "type": "adverb",
+    "explanation": {
+      "content": [
+        "Trạng từ chỉ bình thường",
+        "Ví dụ: 普通に 使う (Dùng bình thường)"
+      ]
+    }
+  },
+  {
+    "id": "imasara",
+    "kanji": "いまさら",
+    "hiragana": "いまさら",
+    "en": "at this late stage",
+    "vi": "đến lúc này thì (chỉ sự việc đã muộn)",
+    "type": "adverb",
+    "explanation": {
+      "content": [
+        "Trạng từ chỉ sự muộn màng",
+        "Ví dụ: いまさら 言っても 遅い (Nói bây giờ thì đã muộn)"
+      ]
+    }
+  },
+  {
+    "id": "hitsuyou",
+    "kanji": "必要",
+    "hiragana": "ひつよう",
+    "en": "necessity, need",
+    "vi": "sự cần thiết",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ sự cần thiết",
+        "Ví dụ: 必要が ある (Có sự cần thiết)"
+      ]
+    }
+  },
+  {
+    "id": "nakuteha-naranai",
+    "kanji": "なくてはならない",
+    "hiragana": "なくてはならない",
+    "en": "must, cannot do without",
+    "vi": "không thể thiếu, không thể không có",
+    "type": "other",
+    "explanation": {
+      "content": [
+        "Cụm từ chỉ sự bắt buộc",
+        "Ví dụ: 勉強が なくてはならない (Học tập là không thể thiếu)"
+      ]
+    }
+  },
+  {
+    "id": "toru-balance",
+    "kanji": "取る[バランスを～]",
+    "hiragana": "とる",
+    "en": "to achieve [balance]",
+    "vi": "đạt được, có được [sự cân bằng]",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm I",
+        "《取ります、取る、取って》",
+        "Ví dụ: バランスを 取る (Giữ cân bằng)"
+      ]
+    }
+  },
+  {
+    "id": "bunshou",
+    "kanji": "文章",
+    "hiragana": "ぶんしょう",
+    "en": "sentence, text",
+    "vi": "bài văn",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ bài văn",
+        "Ví dụ: 文章を 書く (Viết bài văn)"
+      ]
+    }
+  },
+  {
+    "id": "kuraberu",
+    "kanji": "比べる",
+    "hiragana": "くらべる",
+    "en": "to compare",
+    "vi": "so sánh",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm II",
+        "《比べます、比べる、比べて》",
+        "Ví dụ: 二つを 比べる (So sánh hai cái)"
+      ]
+    }
+  }
+]

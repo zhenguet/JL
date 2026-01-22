@@ -1,0 +1,226 @@
+[
+  {
+    "id": "tate",
+    "title": "～たて - Vừa mới, còn mới",
+    "description": "「～たて」biểu thị trạng thái ngay sau khi vừa xảy ra và gợi cảm giác sự vật/sự việc vẫn còn mới, còn tươi hoặc chưa có nhiều kinh nghiệm.",
+    "structure": "Vたて／Vます語幹 + たて",
+    "examples": [
+      {
+        "japanese": "田中さんはまだ入社したてですから、この会社のことがよく分かりません。",
+        "romaji": "Tanaka-san wa mada nyuusha shitate desu kara, kono kaisha no koto ga yoku wakarimasen.",
+        "vietnamese": "Anh Tanaka vừa mới vào công ty nên chưa hiểu rõ mọi thứ ở công ty này."
+      },
+      {
+        "japanese": "結婚したての頃、夫はどんな料理でも「おいしい」と言って食べてくれた。",
+        "romaji": "Kekkon shitate no koro, otto wa donna ryouri demo \"oishii\" to itte tabete kureta.",
+        "vietnamese": "Dạo vừa mới lấy nhau, món ăn nào tôi nấu chồng tôi cũng khen ngon."
+      },
+      {
+        "japanese": "しぼりたての牛乳はおいしい。",
+        "romaji": "Shiboritate no gyuunyuu wa oishii.",
+        "vietnamese": "Sữa bò mới vắt rất ngon."
+      }
+    ],
+    "notes": [
+      "Nhấn mạnh trạng thái ngay sau khi vừa xảy ra",
+      "Thường gắn với nghĩa \"mới, tươi, chưa quen\"",
+      "Thường dùng dưới dạng bổ nghĩa danh từ: VたてのN"
+    ]
+  },
+  {
+    "id": "tatoe-temo",
+    "title": "たとえ～ても - Dẫu cho, giả sử là",
+    "description": "「たとえ～ても」giả định một trường hợp tối đa và biểu thị rằng dù trong trường hợp đó thì kết quả ở vế sau vẫn không thay đổi, hàm ý \"dù trong bất kỳ trường hợp nào\".",
+    "structure": "たとえ + Vて／いAくて／なAで／Nで + も",
+    "examples": [
+      {
+        "japanese": "たとえ今回の実験に失敗しても、またチャレンジするつもりだ。",
+        "romaji": "Tatoe konkai no jikken ni shippai shite mo, mata charenji suru tsumori da.",
+        "vietnamese": "Dẫu lần thực nghiệm này thất bại thì tôi vẫn định thử sức lần nữa."
+      },
+      {
+        "japanese": "たとえ大きな地震が起きても、壊れない丈夫な家が欲しい。",
+        "romaji": "Tatoe ookina jishin ga okite mo, kowarenai joubu na ie ga hoshii.",
+        "vietnamese": "Tôi muốn có một căn nhà vững chãi mà dù có xảy ra động đất lớn cũng không hư hại."
+      },
+      {
+        "japanese": "たとえ貧乏でも、家族が健康で一緒にいられれば幸せだ。",
+        "romaji": "Tatoe binbou demo, kazoku ga kenkou de isshoni irareba shiawase da.",
+        "vietnamese": "Dù có nghèo khó nhưng nếu cả gia đình khỏe mạnh và ở cùng nhau là hạnh phúc."
+      }
+    ],
+    "notes": [
+      "Giả định trường hợp cực đoan nhất để nhấn mạnh kết quả không đổi",
+      "Thường đi với 「でも」sau danh từ/tính từ",
+      "Gần nghĩa với: どんな場合でも"
+    ]
+  },
+  {
+    "id": "tari-shinai",
+    "title": "～たりしない - Không làm chuyện cực đoan đó",
+    "description": "「～たりしない」nhấn mạnh ý phủ định rằng \"không làm chuyện (thường) người ta sẽ làm\", hàm ý đó là điều quá mức hoặc cực đoan nên sẽ không làm.",
+    "structure": "Vたりしない／Vたりしません",
+    "examples": [
+      {
+        "japanese": "あの社長は一度やると決めたら、何があってもやめたりしない。",
+        "romaji": "Ano shachou wa ichido yaru to kimetara, nani ga atte mo yametari shinai.",
+        "vietnamese": "Vị giám đốc đó một khi đã quyết định làm gì thì dù có gì đi chăng nữa cũng sẽ không từ bỏ."
+      },
+      {
+        "japanese": "試験の点数なんかで怒ったりしませんよ。",
+        "romaji": "Shiken no tensuu nanka de okottari shimasen yo.",
+        "vietnamese": "Mẹ chẳng bực gì mấy chuyện điểm số thi cử đâu."
+      },
+      {
+        "japanese": "彼女は、たとえ疲れていても、それを口に出したりしない。",
+        "romaji": "Kanojo wa, tatoe tsukarete ite mo, sore o kuchi ni dashitari shinai.",
+        "vietnamese": "Cô ấy dẫu có mệt mỏi cũng không than vãn."
+      }
+    ],
+    "notes": [
+      "Nhấn mạnh ý \"tuy thường là làm vậy, nhưng trong trường hợp này thì không\"",
+      "Thường dùng trong ngữ cảnh đánh giá tính cách, thái độ",
+      "Có thể dùng dạng lịch sự: ～たりしません"
+    ]
+  },
+  {
+    "id": "hodo",
+    "title": "～ほど - Đến mức, đến độ",
+    "description": "「～ほど…」đưa ra một ví dụ ở mức độ cao nhất để diễn tả ẩn dụ mức độ mạnh của vế sau.",
+    "structure": "Vる／N／いA／なA + ほど",
+    "examples": [
+      {
+        "japanese": "このカレーは涙が出るほど辛い。",
+        "romaji": "Kono karee wa namida ga deru hodo karai.",
+        "vietnamese": "Cà ri này cay đến mức chảy cả nước mắt."
+      },
+      {
+        "japanese": "昨夜はシャワーを浴びずに寝てしまうほど疲れてた。",
+        "romaji": "Sakuya wa shawaa o abizu ni nete shimau hodo tsukarete ta.",
+        "vietnamese": "Tối qua tôi mệt đến mức không tắm mà ngủ mất."
+      },
+      {
+        "japanese": "夜眠れないほど心配だ。",
+        "romaji": "Yoru nemurenai hodo shinpai da.",
+        "vietnamese": "Tôi lo lắng đến độ không ngủ được."
+      }
+    ],
+    "notes": [
+      "Dùng để nhấn mạnh mức độ mạnh của cảm xúc, trạng thái",
+      "Có thể dùng hoán đổi với くらい trong nhiều trường hợp",
+      "Thường đi với các động từ/cảm xúc mạnh: 泣くほどうれしい, 驚くほど静かだ"
+    ]
+  },
+  {
+    "id": "n-datte",
+    "title": "～んだって？ - Nghe nói là, phải không?",
+    "description": "「…んだって？」kết hợp 「…んだ」với 「…って」(truyền đạt thông tin nghe được) để hỏi lại hoặc xác nhận một thông tin mình nghe nói.",
+    "structure": "Vんだって？／いAんだって？／なAなんだって？／Nなんだって？",
+    "examples": [
+      {
+        "japanese": "大学院の試験に合格したんだって？ おめでとう。",
+        "romaji": "Daigakuin no shiken ni goukaku shitan datte? Omedetou.",
+        "vietnamese": "Nghe nói anh đỗ kỳ thi cao học rồi hả? Chúc mừng nhé."
+      },
+      {
+        "japanese": "山田さん、会社を辞めるんだって？",
+        "romaji": "Yamada-san, kaisha o yamerun datte?",
+        "vietnamese": "Nghe nói anh Yamada sẽ nghỉ việc ở công ty à?"
+      },
+      {
+        "japanese": "田中さんが結婚するんだって？",
+        "romaji": "Tanaka-san ga kekkon surun datte?",
+        "vietnamese": "Nghe nói anh Tanaka kết hôn hả?"
+      }
+    ],
+    "notes": [
+      "Cách nói khẩu ngữ, thân mật trong hội thoại",
+      "Dùng để xác nhận lại thông tin mình nghe được từ người khác",
+      "Có thể dùng dạng khẳng định truyền đạt: ～んだって (không có dấu hỏi)"
+    ]
+  },
+  {
+    "id": "nagara-contrast",
+    "title": "～ながら、～ - Dù là, mặc dù",
+    "description": "「XながらY」kết hợp hai vế trái với dự đoán rằng \"nếu là X thì bình thường không Y\", diễn tả liên kết nghịch nghĩa kiểu \"dù là X nhưng Y\".",
+    "structure": "Vます語幹／N／なA／いA + ながら",
+    "examples": [
+      {
+        "japanese": "あの人は、医者でありながら、健康に悪そうなものばかり食べている。",
+        "romaji": "Ano hito wa, isha de ari nagara, kenkou ni warusou na mono bakari tabete iru.",
+        "vietnamese": "Ông ấy mặc dù là bác sĩ nhưng toàn ăn những thứ có vẻ không tốt cho sức khỏe."
+      },
+      {
+        "japanese": "先生は、事件のことを知っていながら、何も言わなかった。",
+        "romaji": "Sensei wa, jiken no koto o shitte inagara, nanimo iwanakatta.",
+        "vietnamese": "Thầy giáo dù biết về vụ việc nhưng đã không nói gì."
+      },
+      {
+        "japanese": "甘いものはいけないと思いながら、目の前にあると食べてしまうんです。",
+        "romaji": "Amai mono wa ikenai to omoi nagara, me no mae ni aru to tabete shimaun desu.",
+        "vietnamese": "Dù biết ăn đồ ngọt là không được nhưng cứ thấy bày ra trước mặt là lại ăn."
+      }
+    ],
+    "notes": [
+      "Khác với 「Vながら」chỉ hành động đồng thời, mẫu này nhấn mạnh sự trái với mong đợi",
+      "Thường dùng với 「ありながら」「しながら」「思いながら」",
+      "Dạng 「ながらも」dùng để nhấn mạnh hơn ý trái ngược"
+    ]
+  },
+  {
+    "id": "to-iu-tte-koto-da",
+    "title": "～という／ってことだ - Tóm lại là, có nghĩa là",
+    "description": "Cấu trúc 「…という／ってことだ」(thường đi với 「つまり」) dùng để tóm lược, giải thích lại cho dễ hiểu nội dung đã nói ở trước.",
+    "structure": "V／いA／なA／N (thể thông thường) + という／ってことだ",
+    "examples": [
+      {
+        "japanese": "休暇は１年に１２日あります。つまり、１か月に１日は休めるということです。",
+        "romaji": "Kyuuka wa ichinen ni juunichi arimasu. Tsumari, ikkagetsu ni ichinichi wa yasumeru to iu koto desu.",
+        "vietnamese": "Một năm có 12 ngày phép. Tóm lại, một tháng có thể nghỉ 1 ngày."
+      },
+      {
+        "japanese": "僕の父と太郎のお父さんは兄弟だ。つまり、僕と太郎はいとこ同士ってことだ。",
+        "romaji": "Boku no chichi to Tarou no otousan wa kyoudai da. Tsumari, boku to Tarou wa itoko doushi tte koto da.",
+        "vietnamese": "Bố tôi và bố của Taro là anh em. Tóm lại, tôi và Taro là anh em họ."
+      },
+      {
+        "japanese": "この会社は社長の息子が次の社長になることになっている。つまり、私たち社員は頑張っても社長になれないということだ。",
+        "romaji": "Kono kaisha wa shachou no musuko ga tsugi no shachou ni naru koto ni natte iru. Tsumari, watashitachi shain wa ganbatte mo shachou ni narenai to iu koto da.",
+        "vietnamese": "Công ty này đã quyết định con trai giám đốc sẽ trở thành giám đốc tiếp theo. Tóm lại, nhân viên chúng tôi dù có cố gắng cũng không thể trở thành giám đốc."
+      }
+    ],
+    "notes": [
+      "Thường đi với 「つまり」ở đầu câu để mở phần tóm tắt",
+      "Dùng để diễn giải, kết luận lại một nội dung đã nêu",
+      "Trong hội thoại thân mật thường dùng 「ってことだ」"
+    ]
+  },
+  {
+    "id": "yo-ne",
+    "title": "～よね - Nhỉ, đúng không",
+    "description": "「…よね」dùng để xác nhận lại một nhận thức chung mà cả người nói lẫn người nghe đều biết, đồng thời kêu gọi sự hưởng ứng của người nghe.",
+    "structure": "V／いA／なA／N (thể thông thường hoặc lịch sự) + よね",
+    "examples": [
+      {
+        "japanese": "冬の寒い朝ってなかなかベッドから出られないよね。",
+        "romaji": "Fuyu no samui asa tte nakanaka beddo kara derarenai yo ne.",
+        "vietnamese": "Buổi sáng lạnh mùa đông khó mà ra khỏi giường nhỉ."
+      },
+      {
+        "japanese": "パーティーは楽しいけど、帰るときが寂しいんですよね。",
+        "romaji": "Paatii wa tanoshii kedo, kaeru toki ga sabishii n desu yo ne.",
+        "vietnamese": "Tiệc thì vui nhưng lúc về buồn nhỉ."
+      },
+      {
+        "japanese": "ポテトチップスって食べ始めるとなかなかやめられないんだよね。",
+        "romaji": "Poteto chippusu tte tabehajimeru to nakanaka yamerarenain da yo ne.",
+        "vietnamese": "Khoai tây chiên giòn một khi đã ăn thì khó mà dừng được nhỉ."
+      }
+    ],
+    "notes": [
+      "Dùng khi người nói cho rằng người nghe cũng có cùng cảm nhận",
+      "Thường dùng trong hội thoại thân mật để kéo sự đồng tình",
+      "Khác với 「よ」(nhấn mạnh thông tin mới) và 「ね」(xác nhận nhẹ), 「よね」vừa nhấn mạnh vừa xác nhận"
+    ]
+  }
+]
