@@ -542,7 +542,11 @@ export default function ExerciseClient({
           ref={inputRef}
           type="text"
           value={userAnswer}
-          onChange={(e) => setUserAnswer(e.target.value)}
+          onChange={(e) => {
+            if (!showResult) {
+              setUserAnswer(e.target.value);
+            }
+          }}
           onKeyDown={(e) => {
             if (e.key === 'Enter') {
               if (showResult) {
@@ -553,7 +557,7 @@ export default function ExerciseClient({
             }
           }}
           placeholder={t.exercise.enterAnswer}
-          disabled={showResult}
+          readOnly={showResult}
           className="answer-input"
           autoComplete="off"
         />
