@@ -1,0 +1,1000 @@
+[
+  {
+    "id": "interview-suru",
+    "kanji": "インタビューする",
+    "hiragana": "インタビューする",
+    "en": "to interview",
+    "vi": "phỏng vấn",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm III",
+        "《インタビューします、インタビューする、インタビューして》",
+        "Ví dụ: 記者が インタビューする (Phóng viên phỏng vấn)"
+      ]
+    }
+  },
+  {
+    "id": "tantou-suru",
+    "kanji": "担当する",
+    "hiragana": "たんとうする",
+    "en": "to be in charge of, to be responsible for",
+    "vi": "phụ trách, chịu trách nhiệm",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm III",
+        "《担当します、担当する、担当して》",
+        "Ví dụ: この仕事を 担当する (Phụ trách công việc này)"
+      ]
+    }
+  },
+  {
+    "id": "arubaito-saki",
+    "kanji": "アルバイト先",
+    "hiragana": "アルバイトさき",
+    "en": "part-time job place",
+    "vi": "chỗ làm thêm",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ nơi làm thêm",
+        "Ví dụ: アルバイト先に 行く (Đi đến chỗ làm thêm)"
+      ]
+    }
+  },
+  {
+    "id": "saki",
+    "kanji": "～先",
+    "hiragana": "～さき",
+    "en": "place, destination",
+    "vi": "chỗ, nơi",
+    "type": "other",
+    "explanation": {
+      "content": [
+        "Hậu tố chỉ nơi chốn",
+        "Ví dụ: 送り先 (Nơi gửi đến)"
+      ]
+    }
+  },
+  {
+    "id": "tenchou",
+    "kanji": "店長",
+    "hiragana": "てんちょう",
+    "en": "store manager",
+    "vi": "cửa hàng trưởng",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ cửa hàng trưởng",
+        "Ví dụ: 店長に 相談する (Tư vấn với cửa hàng trưởng)"
+      ]
+    }
+  },
+  {
+    "id": "kenshuu",
+    "kanji": "研修",
+    "hiragana": "けんしゅう",
+    "en": "training",
+    "vi": "đào tạo",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ đào tạo",
+        "Ví dụ: 研修を 受ける (Tham gia đào tạo)"
+      ]
+    }
+  },
+  {
+    "id": "hanashiau",
+    "kanji": "話し合う",
+    "hiragana": "はなしあう",
+    "en": "to discuss, to talk together",
+    "vi": "thảo luận, trao đổi ý kiến với nhau",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm I",
+        "《話し合います、話し合う、話し合って》",
+        "Ví dụ: 問題を 話し合う (Thảo luận vấn đề)"
+      ]
+    }
+  },
+  {
+    "id": "tsuukin-suru",
+    "kanji": "通勤する",
+    "hiragana": "つうきんする",
+    "en": "to commute to work",
+    "vi": "đi làm",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm III",
+        "《通勤します、通勤する、通勤して》",
+        "Ví dụ: 電車で 通勤する (Đi làm bằng tàu điện)"
+      ]
+    }
+  },
+  {
+    "id": "kore-made",
+    "kanji": "これまで",
+    "hiragana": "これまで",
+    "en": "until now, so far",
+    "vi": "cho đến nay",
+    "type": "adverb",
+    "explanation": {
+      "content": [
+        "Trạng từ chỉ thời gian",
+        "Ví dụ: これまで 頑張ってきた (Đã cố gắng cho đến nay)"
+      ]
+    }
+  },
+  {
+    "id": "herasu",
+    "kanji": "減らす",
+    "hiragana": "へらす",
+    "en": "to reduce, to decrease",
+    "vi": "giảm",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm I",
+        "《減らします、減らす、減らして》",
+        "Ví dụ: コストを 減らす (Giảm chi phí)"
+      ]
+    }
+  },
+  {
+    "id": "hikkosu",
+    "kanji": "引っ越す",
+    "hiragana": "ひっこす",
+    "en": "to move (house)",
+    "vi": "chuyển nhà",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm I",
+        "《引っ越します、引っ越す、引っ越して》",
+        "Ví dụ: 新しい アパートに 引っ越す (Chuyển đến căn hộ mới)"
+      ]
+    }
+  },
+  {
+    "id": "ka-koku",
+    "kanji": "～か国",
+    "hiragana": "～かこく",
+    "en": "number of countries",
+    "vi": "số nước",
+    "type": "other",
+    "explanation": {
+      "content": [
+        "Hậu tố chỉ số lượng quốc gia",
+        "Ví dụ: 5か国 (5 nước)"
+      ]
+    }
+  },
+  {
+    "id": "katei",
+    "kanji": "家庭",
+    "hiragana": "かてい",
+    "en": "family, household",
+    "vi": "gia đình",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ gia đình",
+        "Ví dụ: 家庭を 守る (Bảo vệ gia đình)"
+      ]
+    }
+  },
+  {
+    "id": "jijou",
+    "kanji": "事情",
+    "hiragana": "じじょう",
+    "en": "circumstances, reason",
+    "vi": "hoàn cảnh, lí do",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ hoàn cảnh, lí do",
+        "Ví dụ: 事情を 説明する (Giải thích hoàn cảnh)"
+      ]
+    }
+  },
+  {
+    "id": "youchien",
+    "kanji": "幼稚園",
+    "hiragana": "ようちえん",
+    "en": "kindergarten",
+    "vi": "trường mẫu giáo",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ trường mẫu giáo",
+        "Ví dụ: 幼稚園に 通う (Đi học mẫu giáo)"
+      ]
+    }
+  },
+  {
+    "id": "hirune-suru",
+    "kanji": "昼寝する",
+    "hiragana": "ひるねする",
+    "en": "to take a nap",
+    "vi": "ngủ trưa",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm III",
+        "《昼寝します、昼寝する、昼寝して》",
+        "Ví dụ: 午後に 昼寝する (Ngủ trưa vào buổi chiều)"
+      ]
+    }
+  },
+  {
+    "id": "kikoku-suru",
+    "kanji": "帰国する",
+    "hiragana": "きこくする",
+    "en": "to return to one's country",
+    "vi": "về nước",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm III",
+        "《帰国します、帰国する、帰国して》",
+        "Ví dụ: 来月 帰国する (Về nước tháng sau)"
+      ]
+    }
+  },
+  {
+    "id": "raisha",
+    "kanji": "来社",
+    "hiragana": "らいしゃ",
+    "en": "visit to company",
+    "vi": "đến thăm công ty, văn phòng",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ việc đến thăm công ty",
+        "Ví dụ: 来社する (Đến thăm công ty)"
+      ]
+    }
+  },
+  {
+    "id": "shinseihin",
+    "kanji": "新製品",
+    "hiragana": "しんせいひん",
+    "en": "new product",
+    "vi": "sản phẩm mới",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ sản phẩm mới",
+        "Ví dụ: 新製品を 発表する (Giới thiệu sản phẩm mới)"
+      ]
+    }
+  },
+  {
+    "id": "shin-prefix",
+    "kanji": "新～",
+    "hiragana": "しん～",
+    "en": "new～",
+    "vi": "～mới",
+    "type": "other",
+    "explanation": {
+      "content": [
+        "Tiền tố chỉ mới",
+        "Ví dụ: 新車 (Xe mới)"
+      ]
+    }
+  },
+  {
+    "id": "happyoukai",
+    "kanji": "発表会",
+    "hiragana": "はっぴょうかい",
+    "en": "presentation, launch event",
+    "vi": "buổi giới thiệu, buổi ra mắt",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ buổi giới thiệu",
+        "Ví dụ: 発表会を 開く (Tổ chức buổi giới thiệu)"
+      ]
+    }
+  },
+  {
+    "id": "itsumademo",
+    "kanji": "いつまでも",
+    "hiragana": "いつまでも",
+    "en": "forever, always",
+    "vi": "mãi",
+    "type": "adverb",
+    "explanation": {
+      "content": [
+        "Trạng từ chỉ mãi mãi",
+        "Ví dụ: いつまでも 一緒に (Mãi mãi cùng nhau)"
+      ]
+    }
+  },
+  {
+    "id": "keiki",
+    "kanji": "景気",
+    "hiragana": "けいき",
+    "en": "economic conditions, business conditions",
+    "vi": "tình trạng nền kinh tế, tình trạng kinh doanh",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ tình trạng kinh tế",
+        "Ví dụ: 景気が 良い (Kinh tế tốt)"
+      ]
+    }
+  },
+  {
+    "id": "kore-ijou",
+    "kanji": "これ以上",
+    "hiragana": "これいじょう",
+    "en": "more than this, beyond this",
+    "vi": "hơn thế này nữa",
+    "type": "adverb",
+    "explanation": {
+      "content": [
+        "Trạng từ chỉ mức độ",
+        "Ví dụ: これ以上 我慢できない (Không thể chịu đựng hơn nữa)"
+      ]
+    }
+  },
+  {
+    "id": "mori",
+    "kanji": "森",
+    "hiragana": "もり",
+    "en": "forest",
+    "vi": "rừng",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ rừng",
+        "Ví dụ: 森を 散歩する (Đi dạo trong rừng)"
+      ]
+    }
+  },
+  {
+    "id": "ukeru-interview",
+    "kanji": "受ける[インタビューを～]",
+    "hiragana": "うける",
+    "en": "to receive [an interview], to be interviewed",
+    "vi": "bị phỏng vấn, trả lời [phỏng vấn]",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm II",
+        "《受けます、受ける、受けて》",
+        "Ví dụ: インタビューを 受ける (Nhận phỏng vấn)"
+      ]
+    }
+  },
+  {
+    "id": "youbou",
+    "kanji": "要望",
+    "hiragana": "ようぼう",
+    "en": "request, wish",
+    "vi": "yêu cầu, nguyện vọng",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ yêu cầu",
+        "Ví dụ: 要望を 出す (Đưa ra yêu cầu)"
+      ]
+    }
+  },
+  {
+    "id": "hontou-wa",
+    "kanji": "本当は",
+    "hiragana": "ほんとうは",
+    "en": "actually, really",
+    "vi": "thực ra",
+    "type": "adverb",
+    "explanation": {
+      "content": [
+        "Trạng từ chỉ sự thật",
+        "Ví dụ: 本当は 行きたくない (Thực ra không muốn đi)"
+      ]
+    }
+  },
+  {
+    "id": "otonashii",
+    "kanji": "おとなしい",
+    "hiragana": "おとなしい",
+    "en": "gentle, quiet",
+    "vi": "hiền, ngoan",
+    "type": "adjective",
+    "explanation": {
+      "content": [
+        "Tính từ đuôi i chỉ tính cách hiền lành",
+        "Ví dụ: おとなしい 子供 (Đứa trẻ ngoan)"
+      ]
+    }
+  },
+  {
+    "id": "koe-shimin",
+    "kanji": "声[市民の～]",
+    "hiragana": "こえ[しみんの～]",
+    "en": "voice, opinion [of citizens]",
+    "vi": "tiếng nói, ý kiến [của người dân]",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ tiếng nói, ý kiến",
+        "Ví dụ: 市民の 声を 聞く (Lắng nghe ý kiến người dân)"
+      ]
+    }
+  },
+  {
+    "id": "shaberu",
+    "kanji": "しゃべる",
+    "hiragana": "しゃべる",
+    "en": "to talk, to chat",
+    "vi": "nói chuyện",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm II",
+        "《しゃべります、しゃべる、しゃべって》",
+        "Ví dụ: 友達と しゃべる (Nói chuyện với bạn)"
+      ]
+    }
+  },
+  {
+    "id": "furu-kanojo",
+    "kanji": "振る[彼女を～]",
+    "hiragana": "ふる[かのじょを～]",
+    "en": "to dump [one's girlfriend]",
+    "vi": "bỏ, đá [bạn gái]",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm I",
+        "《振ります、振る、振って》",
+        "Ví dụ: 彼女を 振る (Bỏ bạn gái)"
+      ]
+    }
+  },
+  {
+    "id": "t-shirt",
+    "kanji": "Tシャツ",
+    "hiragana": "ティーシャツ",
+    "en": "T-shirt",
+    "vi": "áo phông, áo bull",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ áo phông",
+        "Ví dụ: Tシャツを 着る (Mặc áo phông)"
+      ]
+    }
+  },
+  {
+    "id": "kazu",
+    "kanji": "数",
+    "hiragana": "かず",
+    "en": "number, amount",
+    "vi": "số",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ số lượng",
+        "Ví dụ: 数が 多い (Số lượng nhiều)"
+      ]
+    }
+  },
+  {
+    "id": "kiru-denwa",
+    "kanji": "切る[電話を～]",
+    "hiragana": "きる[でんわを～]",
+    "en": "to hang up [the phone]",
+    "vi": "cắt, ngắt, cúp [điện thoại]",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm I",
+        "《切ります、切る、切って》",
+        "Ví dụ: 電話を 切る (Cúp điện thoại)"
+      ]
+    }
+  },
+  {
+    "id": "hisho",
+    "kanji": "秘書",
+    "hiragana": "ひしょ",
+    "en": "secretary",
+    "vi": "thư kí",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ thư ký",
+        "Ví dụ: 秘書を 雇う (Thuê thư ký)"
+      ]
+    }
+  },
+  {
+    "id": "kyouju",
+    "kanji": "教授",
+    "hiragana": "きょうじゅ",
+    "en": "professor",
+    "vi": "giáo sư",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ giáo sư",
+        "Ví dụ: 教授に 教わる (Học từ giáo sư)"
+      ]
+    }
+  },
+  {
+    "id": "wazawaza",
+    "kanji": "わざわざ",
+    "hiragana": "わざわざ",
+    "en": "specially, intentionally",
+    "vi": "chủ ý, cố công",
+    "type": "adverb",
+    "explanation": {
+      "content": [
+        "Trạng từ chỉ sự cố ý",
+        "Ví dụ: わざわざ 来てくれた (Đã cố công đến)"
+      ]
+    }
+  },
+  {
+    "id": "toru-jikan",
+    "kanji": "取る[時間を～]",
+    "hiragana": "とる[じかんを～]",
+    "en": "to take [time]",
+    "vi": "dành [thời gian]",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm I",
+        "《取ります、取る、取って》",
+        "Ví dụ: 時間を 取る (Dành thời gian)"
+      ]
+    }
+  },
+  {
+    "id": "dekireba",
+    "kanji": "できれば",
+    "hiragana": "できれば",
+    "en": "if possible, if I can",
+    "vi": "nếu được, nếu có thể",
+    "type": "adverb",
+    "explanation": {
+      "content": [
+        "Trạng từ chỉ điều kiện",
+        "Ví dụ: できれば 早く (Nếu có thể thì sớm)"
+      ]
+    }
+  },
+  {
+    "id": "henkou-suru",
+    "kanji": "変更する",
+    "hiragana": "へんこうする",
+    "en": "to change, to modify",
+    "vi": "thay đổi",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm III",
+        "《変更します、変更する、変更して》",
+        "Ví dụ: 予定を 変更する (Thay đổi kế hoạch)"
+      ]
+    }
+  },
+  {
+    "id": "kyuuyou",
+    "kanji": "急用",
+    "hiragana": "きゅうよう",
+    "en": "urgent matter",
+    "vi": "việc gấp, việc đột xuất",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ việc gấp",
+        "Ví dụ: 急用が ある (Có việc gấp)"
+      ]
+    }
+  },
+  {
+    "id": "ki-ni-suru",
+    "kanji": "気にする",
+    "hiragana": "きにする",
+    "en": "to worry about, to care about",
+    "vi": "để tâm, bận tâm",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm III",
+        "《気にします、気にする、気にして》",
+        "Ví dụ: そんなこと 気にしない (Không để tâm đến chuyện đó)"
+      ]
+    }
+  },
+  {
+    "id": "torihiki-saki",
+    "kanji": "取引先",
+    "hiragana": "とりひきさき",
+    "en": "business partner, client",
+    "vi": "đối tác, khách hàng",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ đối tác kinh doanh",
+        "Ví dụ: 取引先と 会う (Gặp đối tác)"
+      ]
+    }
+  },
+  {
+    "id": "gakusei-you",
+    "kanji": "学生用",
+    "hiragana": "がくせいよう",
+    "en": "for students",
+    "vi": "dành cho sinh viên",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ dành cho sinh viên",
+        "Ví dụ: 学生用の 割引 (Giảm giá cho sinh viên)"
+      ]
+    }
+  },
+  {
+    "id": "you-suffix",
+    "kanji": "～用[学生～]",
+    "hiragana": "～よう[がくせい～]",
+    "en": "for～[students]",
+    "vi": "dành cho [sinh viên]",
+    "type": "other",
+    "explanation": {
+      "content": [
+        "Hậu tố chỉ mục đích sử dụng",
+        "Ví dụ: 学生用 (Dành cho sinh viên)"
+      ]
+    }
+  },
+  {
+    "id": "computer-shitsu",
+    "kanji": "コンピューター室",
+    "hiragana": "コンピューターしつ",
+    "en": "computer room",
+    "vi": "phòng máy tính",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ phòng máy tính",
+        "Ví dụ: コンピューター室で 勉強する (Học trong phòng máy tính)"
+      ]
+    }
+  },
+  {
+    "id": "shitsu-suffix",
+    "kanji": "～室",
+    "hiragana": "～しつ",
+    "en": "～room",
+    "vi": "phòng～",
+    "type": "other",
+    "explanation": {
+      "content": [
+        "Hậu tố chỉ phòng",
+        "Ví dụ: 会議室 (Phòng họp)"
+      ]
+    }
+  },
+  {
+    "id": "juutai",
+    "kanji": "渋滞",
+    "hiragana": "じゅうたい",
+    "en": "traffic jam, congestion",
+    "vi": "(giao thông) tắc nghẽn, kẹt xe",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ tắc nghẽn giao thông",
+        "Ví dụ: 渋滞に 巻き込まれる (Bị kẹt trong tắc đường)"
+      ]
+    }
+  },
+  {
+    "id": "shunkan",
+    "kanji": "瞬間",
+    "hiragana": "しゅんかん",
+    "en": "moment, instant",
+    "vi": "khoảnh khắc",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ khoảnh khắc",
+        "Ví dụ: 瞬間を 捉える (Nắm bắt khoảnh khắc)"
+      ]
+    }
+  },
+  {
+    "id": "ishiki",
+    "kanji": "意識",
+    "hiragana": "いしき",
+    "en": "consciousness, awareness",
+    "vi": "ý thức",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ ý thức",
+        "Ví dụ: 意識を 失う (Mất ý thức)"
+      ]
+    }
+  },
+  {
+    "id": "enquete",
+    "kanji": "アンケート",
+    "hiragana": "アンケート",
+    "en": "questionnaire, survey",
+    "vi": "bản điều tra, phiếu điều tra",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ phiếu điều tra",
+        "Ví dụ: アンケートに 答える (Trả lời phiếu điều tra)"
+      ]
+    }
+  },
+  {
+    "id": "chousa",
+    "kanji": "調査",
+    "hiragana": "ちょうさ",
+    "en": "investigation, survey",
+    "vi": "điều tra",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ điều tra",
+        "Ví dụ: 調査を 行う (Tiến hành điều tra)"
+      ]
+    }
+  },
+  {
+    "id": "keikou",
+    "kanji": "傾向",
+    "hiragana": "けいこう",
+    "en": "tendency, trend",
+    "vi": "khuynh hướng, xu hướng",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ xu hướng",
+        "Ví dụ: 傾向が 見られる (Có thể thấy xu hướng)"
+      ]
+    }
+  },
+  {
+    "id": "sakeru",
+    "kanji": "避ける",
+    "hiragana": "さける",
+    "en": "to avoid",
+    "vi": "tránh",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm II",
+        "《避けます、避ける、避けて》",
+        "Ví dụ: 危険を 避ける (Tránh nguy hiểm)"
+      ]
+    }
+  },
+  {
+    "id": "hikanteki",
+    "kanji": "悲観的[な]",
+    "hiragana": "ひかんてき[な]",
+    "en": "pessimistic",
+    "vi": "bi quan",
+    "type": "adjective",
+    "explanation": {
+      "content": [
+        "Tính từ đuôi na chỉ sự bi quan",
+        "Ví dụ: 悲観的な 見方 (Cách nhìn bi quan)"
+      ]
+    }
+  },
+  {
+    "id": "graph",
+    "kanji": "グラフ",
+    "hiragana": "グラフ",
+    "en": "graph, chart",
+    "vi": "biểu đồ",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ biểu đồ",
+        "Ví dụ: グラフを 見る (Xem biểu đồ)"
+      ]
+    }
+  },
+  {
+    "id": "toki",
+    "kanji": "時",
+    "hiragana": "とき",
+    "en": "time, when",
+    "vi": "thời gian",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ thời gian",
+        "Ví dụ: その時 (Lúc đó)"
+      ]
+    }
+  },
+  {
+    "id": "saikou-ni",
+    "kanji": "最高に",
+    "hiragana": "さいこうに",
+    "en": "best, maximum",
+    "vi": "nhất, tột đỉnh",
+    "type": "adverb",
+    "explanation": {
+      "content": [
+        "Trạng từ chỉ mức độ cao nhất",
+        "Ví dụ: 最高に 楽しい (Vui nhất)"
+      ]
+    }
+  },
+  {
+    "id": "mou-hitotsu",
+    "kanji": "もう一つ",
+    "hiragana": "もうひとつ",
+    "en": "one more",
+    "vi": "thêm một cái nữa, thêm một điều nữa",
+    "type": "other",
+    "explanation": {
+      "content": [
+        "Cụm từ chỉ thêm một cái nữa",
+        "Ví dụ: もう一つ 質問 (Thêm một câu hỏi nữa)"
+      ]
+    }
+  },
+  {
+    "id": "aida",
+    "kanji": "あいだ",
+    "hiragana": "あいだ",
+    "en": "while, during",
+    "vi": "trong lúc",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ khoảng thời gian",
+        "Ví dụ: 待っている あいだ (Trong lúc chờ đợi)"
+      ]
+    }
+  },
+  {
+    "id": "zensha",
+    "kanji": "前者",
+    "hiragana": "ぜんしゃ",
+    "en": "the former",
+    "vi": "người trước, điều trước, vế trước",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ cái trước",
+        "Ví dụ: 前者と 後者 (Cái trước và cái sau)"
+      ]
+    }
+  },
+  {
+    "id": "kousha",
+    "kanji": "後者",
+    "hiragana": "こうしゃ",
+    "en": "the latter",
+    "vi": "người sau, điều sau, vế sau",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ cái sau",
+        "Ví dụ: 後者を 選ぶ (Chọn cái sau)"
+      ]
+    }
+  },
+  {
+    "id": "yahari",
+    "kanji": "やはり",
+    "hiragana": "やはり",
+    "en": "as expected, after all",
+    "vi": "nói gì thì nói, rõ ràng là",
+    "type": "adverb",
+    "explanation": {
+      "content": [
+        "Trạng từ chỉ sự như mong đợi",
+        "Ví dụ: やはり そうでした (Rõ ràng là như vậy)"
+      ]
+    }
+  },
+  {
+    "id": "koi",
+    "kanji": "恋",
+    "hiragana": "こい",
+    "en": "love, romance",
+    "vi": "tình yêu",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ tình yêu",
+        "Ví dụ: 恋に 落ちる (Yêu, rơi vào tình yêu)"
+      ]
+    }
+  },
+  {
+    "id": "shiawase",
+    "kanji": "幸せ",
+    "hiragana": "しあわせ",
+    "en": "happiness",
+    "vi": "hạnh phúc",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ hạnh phúc",
+        "Ví dụ: 幸せを 感じる (Cảm nhận hạnh phúc)"
+      ]
+    }
+  },
+  {
+    "id": "kanjiru",
+    "kanji": "感じる",
+    "hiragana": "かんじる",
+    "en": "to feel, to sense",
+    "vi": "cảm nhận, cảm thấy",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm II",
+        "《感じます、感じる、感じて》",
+        "Ví dụ: 寒さを 感じる (Cảm thấy lạnh)"
+      ]
+    }
+  },
+  {
+    "id": "nebou-suru",
+    "kanji": "寝坊する",
+    "hiragana": "ねぼうする",
+    "en": "to oversleep",
+    "vi": "ngủ quên",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm III",
+        "《寝坊します、寝坊する、寝坊して》",
+        "Ví dụ: 今朝 寝坊した (Sáng nay ngủ quên)"
+      ]
+    }
+  },
+  {
+    "id": "kiken",
+    "kanji": "危険",
+    "hiragana": "きけん",
+    "en": "danger",
+    "vi": "nguy hiểm",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ nguy hiểm",
+        "Ví dụ: 危険を 避ける (Tránh nguy hiểm)"
+      ]
+    }
+  },
+  {
+    "id": "negao",
+    "kanji": "寝顔",
+    "hiragana": "ねがお",
+    "en": "sleeping face",
+    "vi": "khuôn mặt khi ngủ",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ khuôn mặt khi ngủ",
+        "Ví dụ: 寝顔を 見る (Nhìn khuôn mặt khi ngủ)"
+      ]
+    }
+  }
+]

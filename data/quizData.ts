@@ -50,6 +50,30 @@ import quiz47 from './quiz/quiz47.json';
 import quiz48 from './quiz/quiz48.json';
 import quiz49 from './quiz/quiz49.json';
 import quiz50 from './quiz/quiz50.json';
+import quiz51 from './quiz/quiz51.json';
+import quiz52 from './quiz/quiz52.json';
+import quiz53 from './quiz/quiz53.json';
+import quiz54 from './quiz/quiz54.json';
+import quiz55 from './quiz/quiz55.json';
+import quiz56 from './quiz/quiz56.json';
+import quiz57 from './quiz/quiz57.json';
+import quiz58 from './quiz/quiz58.json';
+import quiz59 from './quiz/quiz59.json';
+import quiz60 from './quiz/quiz60.json';
+import quiz61 from './quiz/quiz61.json';
+import quiz62 from './quiz/quiz62.json';
+import quiz63 from './quiz/quiz63.json';
+import quiz64 from './quiz/quiz64.json';
+import quiz65 from './quiz/quiz65.json';
+import quiz66 from './quiz/quiz66.json';
+import quiz67 from './quiz/quiz67.json';
+import quiz68 from './quiz/quiz68.json';
+import quiz69 from './quiz/quiz69.json';
+import quiz70 from './quiz/quiz70.json';
+import quiz71 from './quiz/quiz71.json';
+import quiz72 from './quiz/quiz72.json';
+import quiz73 from './quiz/quiz73.json';
+import quiz74 from './quiz/quiz74.json';
 
 const quizzes: QuizQuestion[][] = [
   quiz1,
@@ -102,6 +126,30 @@ const quizzes: QuizQuestion[][] = [
   quiz48,
   quiz49,
   quiz50,
+  quiz51,
+  quiz52,
+  quiz53,
+  quiz54,
+  quiz55,
+  quiz56,
+  quiz57,
+  quiz58,
+  quiz59,
+  quiz60,
+  quiz61,
+  quiz62,
+  quiz63,
+  quiz64,
+  quiz65,
+  quiz66,
+  quiz67,
+  quiz68,
+  quiz69,
+  quiz70,
+  quiz71,
+  quiz72,
+  quiz73,
+  quiz74,
 ] as QuizQuestion[][];
 
 const quizDataByLesson: Record<number, QuizQuestion[]> = quizzes.reduce(

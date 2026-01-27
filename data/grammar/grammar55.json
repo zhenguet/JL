@@ -1,0 +1,392 @@
+[
+  {
+    "id": "a-so-reference-spoken",
+    "title": "あ～・そ～ (chỉ định quy chiếu theo mạch văn (văn nói))",
+    "description": "Những từ chỉ định như「あ～」,「そ～」, v.v. ngoài cách dùng để chỉ vật hiện hữu trong thực tế, còn có cách dùng để chỉ các đối tượng xuất hiện trong hội thoại hoặc câu văn. Trong hội thoại, đối với những đối tượng mà cả người nói lẫn người nghe đều trực tiếp biết thì sẽ dùng「あ（あれ、あの、あそこ...）」để chỉ. Còn đối với những đối tượng mà người nói biết nhưng người nghe không biết, hoặc những đối tượng mà người nghe biết nhưng người nói không biết thì dùng「そ（それ、その、そこ）」để chỉ.",
+    "structure": "あ～・そ～",
+    "examples": [
+      {
+        "japanese": "さっき、山本さんに会ったよ。...え、あの人、今日本にいるんですか。",
+        "romaji": "Sakki, Yamamoto-san ni atta yo. ...E, ano hito, ima Nihon ni iru n desu ka.",
+        "vietnamese": "Lúc nãy tôi đã gặp anh Yamamoto đấy. Ô thế à? Anh ấy bây giờ đang ở Nhật hả?"
+      },
+      {
+        "japanese": "さっき、図書館でマリアさんという人に会ったんだけどね。その人、この学校で日本語を勉強したんだって。...そうですか。その人は何歳ぐらいですか。",
+        "romaji": "Sakki, toshokan de Maria-san to iu hito ni atta n da kedo ne. Sono hito, kono gakkou de Nihongo o benkyou shita n datte. ...Sou desu ka. Sono hito wa nansai gurai desu ka.",
+        "vietnamese": "Vừa nãy tôi đã gặp một người tên là Maria ở thư viện. Cô ấy nói là đã học tiếng Nhật ở trường này. Thế à? Cô ấy bao nhiêu tuổi?"
+      },
+      {
+        "japanese": "小川さんにしばらくお会いしていないんですよ。...ああ、あの方、今年の４月に転勤されましたよ。",
+        "romaji": "Ogawa-san ni shibaraku o ai shite inai n desu yo. ...Aa, ano kata, kotoshi no shigatsu ni tenkin saremashita yo.",
+        "vietnamese": "Lâu rồi không gặp anh Ogawa ấy nhỉ. ...A, anh ấy đã được chuyển nơi làm việc vào tháng 4 năm nay rồi đấy."
+      },
+      {
+        "japanese": "夕べは、鈴木さんといっしょにカラオケに行ったんです。...鈴木さん？ その人、近所の人ですか。",
+        "romaji": "Yuube wa, Suzuki-san to issho ni karaoke ni itta n desu. ...Suzuki-san? Sono hito, kinjo no hito desu ka.",
+        "vietnamese": "Tối qua, tôi đã đi hát karaoke cùng với chị Suzuki. Suziki? người đó, có phải là hàng xóm không?"
+      }
+    ],
+    "notes": [
+      "Trong hội thoại, đối với những đối tượng mà cả người nói lẫn người nghe đều trực tiếp biết thì sẽ dùng「あ（あれ、あの、あそこ...）」để chỉ",
+      "Đối với những đối tượng mà người nói biết nhưng người nghe không biết, hoặc những đối tượng mà người nghe biết nhưng người nói không biết thì dùng「そ（それ、その、そこ）」để chỉ"
+    ]
+  },
+  {
+    "id": "so-reference-written",
+    "title": "そ～ (chỉ định quy chiếu theo mạch văn (văn viết))",
+    "description": "Ở trong văn bản (văn viết)「そ（それ、その、そこ...）」được dùng để chỉ đối tượng (nội dung) đã xuất hiện ở câu văn trước.",
+    "structure": "そ～",
+    "examples": [
+      {
+        "japanese": "会社を出たあと、駅のレストランで夕食を食べました。そのとき、財布を落としたんだと思います。",
+        "romaji": "Kaisha o deta ato, eki no resutoran de yuushoku o tabemashita. Sono toki, saifu o otoshita n da to omoimasu.",
+        "vietnamese": "Sau khi rời khỏi công ty, tôi đẫ ăn tối ở một nhà hàng trong ga. Tôi nghĩ tôi đã đánh rơi ví lúc đó."
+      },
+      {
+        "japanese": "イギリスの人気小説が日本語に翻訳されました。それが今年日本でベストセラーになりました。",
+        "romaji": "Igirisu no ninki shousetsu ga Nihongo ni hon'yaku saremashita. Sore ga kotoshi Nihon de besutoseraa ni narimashita.",
+        "vietnamese": "Cuốn tiểu thuyết được yêu thích của Anh đã được dịch ra tiếng Nhật. Năm nay nó đã trở thành cuốn sách bán chạy nhất ở Nhật Bản."
+      },
+      {
+        "japanese": "この道を行くと、交差点があります。そこを右へ曲がってください。",
+        "romaji": "Kono michi o iku to, kousaten ga arimasu. Soko o migi e magatte kudasai.",
+        "vietnamese": "Đi con đường này sẽ có ngã tư. Hãy rẽ phải chỗ đó."
+      },
+      {
+        "japanese": "２０年前に、この町へ来ました。そのころは、まだ緑もたくさんありました。",
+        "romaji": "Nijuu nen mae ni, kono machi e kimashita. Sono koro wa, mada midori mo takusan arimashita.",
+        "vietnamese": "Tôi đã đến thị trấn này vào 20 năm trước. Hồi đó thì vẫn còn nhiều cây xanh."
+      }
+    ],
+    "notes": [
+      "Ở trong văn bản (văn viết)「そ（それ、その、そこ...）」được dùng để chỉ đối tượng (nội dung) đã xuất hiện ở câu văn trước"
+    ]
+  },
+  {
+    "id": "n-janai",
+    "title": "…んじゃない？",
+    "description": "「...んじゃないですか」là hình thức không trang trọng của「...のではありませんか」. Nó được sử dụng để bày tỏ suy nghĩ của người nói trong tình huống hội thoại không trang trọng. Cách nói「んじゃないですか」khi sử dụng với những người có quan hệ thân thiết, gần gũi thì nó còn được rút ngắn thành「んじゃない」. Còn ở trong hội thoại trang trọng, lịch sự thì ngược lại nó được nói dài thành「のではないでしょうか」.",
+    "structure": "V／いA／なA／N (thể thông thường, なA/N: ーだ→な) + んじゃないですか／んじゃない？",
+    "examples": [
+      {
+        "japanese": "元気がないですね。何か困っていることがあるんじゃないですか。",
+        "romaji": "Genki ga nai desu ne. Nanika komatte iru koto ga aru n janai desu ka.",
+        "vietnamese": "Nhìn anh có vẻ không được khỏe. Anh đang có điều gì khó khăn à?"
+      },
+      {
+        "japanese": "タクシワポンさん、少し太ったんじゃない。",
+        "romaji": "Takushiwapon-san, sukoshi futotta n janai.",
+        "vietnamese": "Anh Thawaphon này, anh hơi béo lên à?"
+      },
+      {
+        "japanese": "留学している息子から何の連絡もないんですよ。...心配ないんじゃないですか。何かあったら連絡があるよ。",
+        "romaji": "Ryuugaku shite iru musuko kara nan no renraku mo nai n desu yo. ...Shinpai nai n janai desu ka. Nanika attara renraku ga aru yo.",
+        "vietnamese": "Tôi không có liên lạc gì từ đứa con trai đang du học cả. Lo lắng làm gì chứ. Nếu có chuyện gì thì sẽ có liên lạc thôi."
+      },
+      {
+        "japanese": "最近、食欲がないの。...どこか悪いんじゃない？ 一度病院で診てもらったほうがいいよ",
+        "romaji": "Saikin, shokuyoku ga nai no. ...Doko ka warui n janai? Ichido byouin de mite moratta hou ga ii yo",
+        "vietnamese": "Gần đây, em chả muốn ăn gì cả. Có thể ở nơi nào đó trên cơ thể bị suy nhược ấy. Em nên đến bệnh viện kiểm tra 1 lần đi."
+      }
+    ],
+    "notes": [
+      "「...んじゃないですか」là hình thức không trang trọng của「...のではありませんか」",
+      "Được sử dụng để bày tỏ suy nghĩ của người nói trong tình huống hội thoại không trang trọng",
+      "Với người thân thiết: rút ngắn thành「んじゃない」",
+      "Trong hội thoại trang trọng: dùng「のではないでしょうか」"
+    ]
+  },
+  {
+    "id": "ta-tokoro-ni-de",
+    "title": "～たところに／で",
+    "description": "Các đồng từ chỉ sự dịch chuyển như「行く、渡る、曲がる、出る」(đi, sang, rẽ, ra khỏi, v.v) được dùng trong mẫu「V（thể た）＋ところ」để biểu thị điểm đến sau khi hành đông dịch chuyển đó xảy ra.",
+    "structure": "V (động từ chỉ sự dịch chuyển) thể た + ところ",
+    "examples": [
+      {
+        "japanese": "あの信号を左へ曲がったところに、郵便局があります。",
+        "romaji": "Ano shingou o hidari e magatta tokoro ni, yuubinkyoku ga arimasu.",
+        "vietnamese": "Ngay chỗ anh／chị rẽ trái cột đèn tín hiệu đằng kia có một cái bưu điện."
+      },
+      {
+        "japanese": "改札を出て、階段を上ったところで、待っていてください。",
+        "romaji": "Kaisatsu o dete, kaidan o nobotta tokoro de, matte ite kudasai.",
+        "vietnamese": "Anh／chị hãy ra khỏi cửa soát vé, lên cầu thang và chờ ở chỗ đó."
+      },
+      {
+        "japanese": "げんき病院はどこですか。...あのコンビニの角を曲がったところにありますよ。",
+        "romaji": "Genki byouin wa doko desu ka. ...Ano konbini no kado o magatta tokoro ni arimasu yo.",
+        "vietnamese": "Bệnh viện Genki ở đâu vậy? Ở chỗ rẽ góc ở cửa hàng tiện lợi kia đấy."
+      },
+      {
+        "japanese": "あした、６時に合おう。...うん、駅の改札を出たところで待ってるよ。",
+        "romaji": "Ashita, rokuji ni aou. ...Un, eki no kaisatsu o deta tokoro de matteru yo.",
+        "vietnamese": "Ngày mai, chúng ta gặp nhau vào lúc 6h nhé. ...Dạ, em sẽ chờ anh tại lối ra cửa soát vé nhà ga đấy nhé."
+      }
+    ],
+    "notes": [
+      "Dùng với các động từ chỉ sự dịch chuyển như「行く、渡る、曲がる、出る」",
+      "Biểu thị điểm đến sau khi hành động dịch chuyển đó xảy ra",
+      "Cấu trúc: V (thể た) + ところに／で"
+    ]
+  },
+  {
+    "id": "you-to-suru",
+    "title": "～（よ）うとする",
+    "description": "(1) Mẫu「V（よ）う (thể ý định) とする／しない」biểu thị một tình huống xảy ra ngay trước khi làm V. Do đó,「Vする」chưa thực hiện. Cách nói này thường được dùng với「～とき」「～たら」, v.v. (2) Ngoài ra, cách nói này còn biểu thị sự nỗ lực để thực hiện V.",
+    "structure": "V（よ）う + とする／しない",
+    "examples": [
+      {
+        "japanese": "家を出ようとしたとき、電話がかかってきた。",
+        "romaji": "Ie o deyou to shita toki, denwa ga kakatte kita.",
+        "vietnamese": "Lúc tôi chuẩn bị ra khỏi nhà thì có điện thoại gọi đến."
+      },
+      {
+        "japanese": "雨がやんだので、さくらを撮ろうとしたら、カメラの電池が切れてしまった。",
+        "romaji": "Ame ga yanda node, sakura o torou to shitara, kamera no denchi ga kirete shimatta.",
+        "vietnamese": "Lúc trời tạnh mưa, tôi định chụp ảnh hoa anh đào thì máy ảnh lại hết pin."
+      },
+      {
+        "japanese": "父は健康のためにたばこをやめようとしています。",
+        "romaji": "Chichi wa kenkou no tame ni tabako o yameyou to shite imasu.",
+        "vietnamese": "Bố tôi đang cố bỏ thuốc để đảm bảo sức khỏe."
+      },
+      {
+        "japanese": "あの日のことは、忘れようとしても忘れることができません。",
+        "romaji": "Ano hi no koto wa, wasureyou to shite mo wasureru koto ga dekimasen.",
+        "vietnamese": "Việc hôm đó, dù cho tôi có muốn quên cũng không thể quên được."
+      },
+      {
+        "japanese": "今朝出かけようとしたとき、電話がかかってきた。",
+        "romaji": "Kesa dekakeyou to shita toki, denwa ga kakatte kita.",
+        "vietnamese": "Sáng nay, khi tôi tính ra ngoài thì có điện thoại đến."
+      },
+      {
+        "japanese": "電話に出ようとしたら、切れてしまった。",
+        "romaji": "Denwa ni deyou to shitara, kirete shimatta.",
+        "vietnamese": "Tôi tính bắt máy thì họ đã ngừng gọi."
+      }
+    ],
+    "notes": [
+      "Biểu thị một tình huống xảy ra ngay trước khi làm V",
+      "「Vする」chưa thực hiện",
+      "Thường được dùng với「～とき」「～たら」",
+      "Cũng biểu thị sự nỗ lực để thực hiện V"
+    ]
+  },
+  {
+    "id": "you-to-shinai",
+    "title": "～（よ）うとしない",
+    "description": "「V (thể ý định) としない」biểu thị việc ai đó không có ý định làm V. Thường dùng để nói về việc của người khác chứ không phải là của mình.",
+    "structure": "V（よ）う + としない",
+    "examples": [
+      {
+        "japanese": "妻は紅茶が好きで、お茶コーヒーを飲もうとしない。",
+        "romaji": "Tsuma wa koucha ga suki de, ocha koohii o nomou to shinai.",
+        "vietnamese": "Vợ tôi thích trà đen, và cô ấy chẳng hề muốn uống trà xanh, cà phê hay bất cứ thứ gì khác."
+      },
+      {
+        "japanese": "人の話を聞こうとしない人は、いつまでたっても自分の考えを変えることができません。",
+        "romaji": "Hito no hanashi o kikou to shinai hito wa, itsu made tatte mo jibun no kangae o kaeru koto ga dekimasen.",
+        "vietnamese": "Những người không muốn lắng nghe những gì người khác nói là những người sẽ chẳng bao giờ có thể thay đổi được suy nghĩ của bản thân."
+      },
+      {
+        "japanese": "彼女のことを忘れようとしたが、忘れられない。",
+        "romaji": "Kanojo no koto o wasureyou to shita ga, wasurerarenai.",
+        "vietnamese": "Tôi định quên đi những thứ về cô ấy nhưng mà không thể quên được."
+      },
+      {
+        "japanese": "彼はほかの人の意見を聞こうとしない。",
+        "romaji": "Kare wa hoka no hito no iken o kikou to shinai.",
+        "vietnamese": "Anh ấy không hề có ý định lắng nghe ý kiến của người khác."
+      }
+    ],
+    "notes": [
+      "Biểu thị việc ai đó không có ý định làm V",
+      "Thường dùng để nói về việc của người khác chứ không phải là của mình"
+    ]
+  },
+  {
+    "id": "no-darouka",
+    "title": "…のだろうか",
+    "description": "Mẫu「Xのだろうか」 được dùng khi tự hỏi bản thân liệu X có đúng hay không. Nó còn được dùng với các nghi vấn từ như「どう」,「何」,「いつ」v.v. để tự vấn. Mẫu này cũng có thể dùng để đặt câu hỏi đối với ai đó, nhưng so với cách hỏi 「Xのですか」thì「Xのでしょうか」là cách hỏi mềm mại hơn, không quá đòi hỏi ở câu trả lời. Với hình thức không có nghi vấn từ thì「Xのだろうか」còn được dùng trong trường hợp muốn nói \"X không đúng\" hoặc \"tôi không nghĩ là X\".",
+    "structure": "V／いA／なA／N (thể thông thường, なA/N: ーだ→な) + だろうか",
+    "examples": [
+      {
+        "japanese": "この店ではクレジットカードが使えるのだろうか。",
+        "romaji": "Kono mise de wa kurejittokaado ga tsukaeru no darou ka.",
+        "vietnamese": "Không biết là ở cửa hàng này có thể thanh toán được bằng thẻ tín dụng không nữa."
+      },
+      {
+        "japanese": "大学院に入るために、どうすればいいのだろうか。",
+        "romaji": "Daigakuin ni hairu tame ni, dou sureba ii no darou ka.",
+        "vietnamese": "Phải làm sao để có thể đỗ vào cao học đây nhỉ?"
+      },
+      {
+        "japanese": "すみません。この店ではクレジットカードが使えるのでしょうか。",
+        "romaji": "Sumimasen. Kono mise de wa kurejittokaado ga tsukaeru no deshou ka.",
+        "vietnamese": "Xin lỗi, ở cửa hàng này có thanh toán được bằng thẻ tín dụng không?"
+      },
+      {
+        "japanese": "このクラスでは日本語で話すチャンスがとても少ない。こんな勉強で会話が上手になるのだろうか。",
+        "romaji": "Kono kurasu de wa Nihongo de hanasu chansu ga totemo sukunai. Konna benkyou de kaiwa ga jouzu ni naru no darou ka.",
+        "vietnamese": "Ở lớp này có rất ít cơ hội nói chuyện bằng tiếng Nhật. Tôi băn khoăn là với cách học này thì làm sao mà khả năng hội thoại khá lên được?"
+      },
+      {
+        "japanese": "地球の未来はどうなるのでしょうか。",
+        "romaji": "Chikyuu no mirai wa dou naru no deshou ka.",
+        "vietnamese": "Tương lai của trái đất sẽ ra sao nhỉ?"
+      },
+      {
+        "japanese": "どうすればこの地球から戦争をなくすことができるのだろうか。",
+        "romaji": "Dou sureba kono chikyuu kara sensou o nakusu koto ga dekiru no darou ka.",
+        "vietnamese": "Làm thế nào để có thể xóa bỏ chiến tranh ở trái đất đây?"
+      }
+    ],
+    "notes": [
+      "Được dùng khi tự hỏi bản thân liệu X có đúng hay không",
+      "Có thể dùng với các nghi vấn từ như「どう」,「何」,「いつ」",
+      "「Xのでしょうか」là cách hỏi mềm mại hơn「Xのですか」",
+      "Với hình thức không có nghi vấn từ thì còn được dùng để nói \"X không đúng\" hoặc \"tôi không nghĩ là X\""
+    ]
+  },
+  {
+    "id": "to-no-de-no-kara-no-made-no-e-no",
+    "title": "～との／での／からの／までの／への～",
+    "description": "Khi những từ có trợ từ cách như「と、で、から、まで、へ」, v.v. đi kèm được dùng để bổ nghĩa cho danh từ thì sau trợ từ cách sẽ thêm「の」. Ngoại trừ trường hợp sau「に」thì không thêm「の」mà chuyển「に」thành「へ」và dùng「への」. Sau「が」,「を」không dùng「の」.",
+    "structure": "N + {trợ từ cách + の} + N",
+    "examples": [
+      {
+        "japanese": "友達との北海道旅行は、とても楽しかったです。",
+        "romaji": "Tomodachi to no Hokkaidou ryokou wa, totemo tanoshikatta desu.",
+        "vietnamese": "Chuyến du lịch Hokkaido với những người bạn tốt của tôi rất vui."
+      },
+      {
+        "japanese": "日本での研究はいかがでしたか。",
+        "romaji": "Nihon de no kenkyuu wa ikaga deshita ka.",
+        "vietnamese": "Việc nghiên cứu của anh／chị ở Nhật Bản đã diễn ra như thế nào?"
+      },
+      {
+        "japanese": "国の両親からの手紙を読んで、泣いてしまった。",
+        "romaji": "Kuni no ryoushin kara no tegami o yonde, naite shimatta.",
+        "vietnamese": "Tôi đã khóc khi đọc thư bố mẹ từ trong nước gửi cho."
+      },
+      {
+        "japanese": "先生へのお土産は何がいいでしょうか。",
+        "romaji": "Sensei e no omiyage wa nani ga ii deshou ka.",
+        "vietnamese": "Quà cho thầy thì cái gì là được nhỉ?"
+      },
+      {
+        "japanese": "あしたは友達との約束があって、行けません。",
+        "romaji": "Ashita wa tomodachi to no yakusoku ga atte, ikemasen.",
+        "vietnamese": "Ngày mai vì tôi có hẹn với bạn bè nên không thể đi được."
+      },
+      {
+        "japanese": "日本での生活にもう慣れましたか。",
+        "romaji": "Nihon de no seikatsu ni mou naremashita ka.",
+        "vietnamese": "Bạn đã quen với cuộc sống Nhật Bản chưa?"
+      },
+      {
+        "japanese": "母からの手紙は箱の中に大切にしまってあります。",
+        "romaji": "Haha kara no tegami wa hako no naka ni taisetsu ni shimatte arimasu.",
+        "vietnamese": "Tôi đã cất giữ cẩn thận lá thư từ mẹ vào trong hộp."
+      }
+    ],
+    "notes": [
+      "Khi những từ có trợ từ cách như「と、で、から、まで、へ」đi kèm được dùng để bổ nghĩa cho danh từ thì sau trợ từ cách sẽ thêm「の」",
+      "Sau「に」thì không thêm「の」mà chuyển「に」thành「へ」và dùng「への」",
+      "Sau「が」,「を」không dùng「の」"
+    ]
+  },
+  {
+    "id": "darou-darou-to-omou",
+    "title": "…だろう・…だろうと思う",
+    "description": "(1)「...だろう」là thể thông thường của「...でしょう」và được dùng ở trong câu kiểu thông thường. Đây là cách nói mà người nói thể hiện sự phỏng đoán của mình thay vì khẳng định. (2) Trong hội thoại, nó thường được dùng kèm với「と思う」thành「...だろうと思う」.",
+    "structure": "V／いA／なA／N (thể thông thường, なA/N: ーだ) + だろう",
+    "examples": [
+      {
+        "japanese": "アジアの経済はこれからますます発展するだろう。",
+        "romaji": "Ajia no keizai wa kore kara masumasu hatten suru darou.",
+        "vietnamese": "Từ nay có lẽ các nền kinh tế ở châu Á sẽ ngày càng phát triển mạnh."
+      },
+      {
+        "japanese": "マリアさんの話を聞いて、ご両親もきっとびっくりされただろう。",
+        "romaji": "Maria-san no hanashi o kiite, goryoushin mo kitto bikkuri sareta darou.",
+        "vietnamese": "Có lẽ bố mẹ của Maria đã rất sốc khi nghe chuyện của cô ấy."
+      },
+      {
+        "japanese": "鈴木君はいい教師になるだろうと思います。",
+        "romaji": "Suzuki-kun wa ii kyoushi ni naru darou to omoimasu.",
+        "vietnamese": "Tôi cho rằng cậu Suzuki có thể sẽ trở thành một giáo viên giỏi."
+      },
+      {
+        "japanese": "この実験にはあと２，３週間はかかるだろうと思います。",
+        "romaji": "Kono jikken ni wa ato ni, san shuukan wa kakaru darou to omoimasu.",
+        "vietnamese": "Tôi cho rằng thí nghiệm này sẽ kéo dài thêm 2, 3 tuần nữa."
+      },
+      {
+        "japanese": "世界の人口が増えすぎると、地球環境はもっと悪くなるだろう。",
+        "romaji": "Sekai no jinkou ga fue sugiru to, chikyuu kankyou wa motto waruku naru darou.",
+        "vietnamese": "Dân số thế giới nếu tăng nhiều quá, thì có lẽ môi trường trái đất sẽ xấu hơn nữa."
+      },
+      {
+        "japanese": "今ごろ北海道は雪だろう。",
+        "romaji": "Imagoro Hokkaidou wa yuki darou.",
+        "vietnamese": "Bây giờ có lẽ Hokkaido có tuyết."
+      },
+      {
+        "japanese": "彼なら、試験に合格するだろうと思います。",
+        "romaji": "Kare nara, shiken ni goukaku suru darou to omoimasu.",
+        "vietnamese": "Nếu là anh ấy, thì tôi nghĩ có lẽ sẽ đỗ kì thi."
+      }
+    ],
+    "notes": [
+      "「...だろう」là thể thông thường của「...でしょう」",
+      "Được dùng ở trong câu kiểu thông thường",
+      "Thể hiện sự phỏng đoán của người nói thay vì khẳng định",
+      "Trong hội thoại, thường được dùng kèm với「と思う」thành「...だろうと思う」"
+    ]
+  },
+  {
+    "id": "kara-te-kudasai",
+    "title": "…から、～てください",
+    "description": "「...から」trong trường hợp này không phải để biểu thị lý do, mà là biểu thị thông tin làm tiền đề cho sự nhờ vả, chỉ thị xuất hiện sau nó.",
+    "structure": "V (thể lịch sự) + から、Vてください",
+    "examples": [
+      {
+        "japanese": "お金を入れるとボタンに電気がつきますから、それを押してください。",
+        "romaji": "Okane o ireru to botan ni denki ga tsukimasu kara, sore o oshite kudasai.",
+        "vietnamese": "Khi cho tiền vào thì nút bấm sẽ sáng, bạn hãy bấm vào nút đó."
+      },
+      {
+        "japanese": "10分ぐらいで戻ってきますから、ここで待っていてくれますか。",
+        "romaji": "Juppun gurai de modotte kimasu kara, koko de matte ite kuremasu ka.",
+        "vietnamese": "Khoảng trong 10 phút tôi sẽ quay trở lại, anh／chị chờ tôi ở đây nhé."
+      }
+    ],
+    "notes": [
+      "「...から」trong trường hợp này không phải để biểu thị lý do",
+      "Biểu thị thông tin làm tiền đề cho sự nhờ vả, chỉ thị xuất hiện sau nó"
+    ]
+  },
+  {
+    "id": "ga-no",
+    "title": "が／の",
+    "description": "Trợ từ「が」của chủ ngữ ở trong ngữ mô tả một danh từ có thể thay thế bằng trợ từ「の」.",
+    "structure": "が／の",
+    "examples": [
+      {
+        "japanese": "留学生｛が／の｝かいた絵を見ました。",
+        "romaji": "Ryuugakusei {ga/no} kaita e o mimashita.",
+        "vietnamese": "Tôi đã xem những bức tranh do các lưu học sinh vẽ."
+      },
+      {
+        "japanese": "田中さん｛が／の｝作ったケーキはとてもおいしかった。",
+        "romaji": "Tanaka-san {ga/no} tsukutta keeki wa totemo oishikatta.",
+        "vietnamese": "Chiếc bánh mà anh Tanaka làm rất ngon."
+      }
+    ],
+    "notes": [
+      "Trợ từ「が」của chủ ngữ ở trong ngữ mô tả một danh từ có thể thay thế bằng trợ từ「の」"
+    ]
+  }
+]

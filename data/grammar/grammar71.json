@@ -1,0 +1,308 @@
+[
+  {
+    "id": "mo-sezu",
+    "title": "もせず",
+    "description": "「～もせずに」là cách nói cũ, biểu thị ý nghĩa rằng \"không làm điều mà được cho là đương nhiên sẽ làm\".",
+    "structure": "Vます (bỏ ます) + もせずに",
+    "examples": [
+      {
+        "japanese": "父は具合が悪いのに、医者に行きもせずに仕事を続けている。",
+        "romaji": "Chichi wa guai ga warui noni, isha ni iki mo sezu ni shigoto o tsuzukete iru.",
+        "vietnamese": "Bố tôi không khỏe thế nhưng lại không đi bác sĩ mà tiếp tục làm việc."
+      },
+      {
+        "japanese": "彼は上司の許可を得もせずに、新しいプロジェクトを進めた。",
+        "romaji": "Kare wa joushi no kyoka o e mo sezu ni, atarashii purojekuto o susumeta.",
+        "vietnamese": "Anh ta đã xúc tiến dự án mới mà không xin phép cấp trên."
+      },
+      {
+        "japanese": "どんなことでも事実かどうか確かめもせずに、そのよしあしを判断してはいけない。",
+        "romaji": "Donna koto demo jijitsu ka dou ka tashikame mo sezu ni, sono yoshiashi o handan shite wa ikenai.",
+        "vietnamese": "Sự việc nào nếu như chưa xác nhận được là sự thật, thì không được phán định tốt xấu."
+      }
+    ],
+    "notes": [
+      "Cách nói cũ, biểu thị ý nghĩa \"không làm điều mà được cho là đương nhiên sẽ làm\"",
+      "Thường dùng trong văn viết hoặc cách nói trang trọng"
+    ]
+  },
+  {
+    "id": "to-iedomo",
+    "title": "といえども",
+    "description": "「～といえども」là cách nói cũ, biểu thị nghĩa「～といっても」、「～ではあるが」.",
+    "structure": "N + といえども",
+    "examples": [
+      {
+        "japanese": "どんな大金持ちといえども、お金で解決できない悩みがあるはずだ。",
+        "romaji": "Donna oogane mochi to iedomo, okane de kaiketsu dekinai nayami ga aru hazu da.",
+        "vietnamese": "Dù có giàu có đến cỡ nào thì chắc chắn cũng có những nỗi khổ mà không thể giải quyết được bằng tiền."
+      },
+      {
+        "japanese": "名医といえども、すべての患者を救うことはできない。",
+        "romaji": "Meii to iedomo, subete no kanja o sukuu koto wa dekinai.",
+        "vietnamese": "Dù có là danh y thì cũng không thể cứu chữa được hết cho tất cả mọi người."
+      },
+      {
+        "japanese": "狭い日本といえども、旅行したいところはたくさんある。",
+        "romaji": "Semai Nihon to iedomo, ryokou shitai tokoro wa takusan aru.",
+        "vietnamese": "Cho dù Nhật Bản chật hẹp, nhưng lại có nhiều nơi muốn đi du lịch."
+      }
+    ],
+    "notes": [
+      "Cách nói cũ, biểu thị nghĩa「～といっても」、「～ではあるが」",
+      "Thường dùng trong văn viết hoặc cách nói trang trọng"
+    ]
+  },
+  {
+    "id": "yohodo-demo",
+    "title": "よほど～でも",
+    "description": "「よほど～でも」biểu thị nghĩa「非常に～であっても」、「どんなに～であっても」.",
+    "structure": "よほど + A/V + でも",
+    "examples": [
+      {
+        "japanese": "よほどけちな人でも、あの吉本さんには勝てないだろう。",
+        "romaji": "Yohodo kechi na hito demo, ano Yoshimoto-san ni wa katenai darou.",
+        "vietnamese": "Có lẽ kể cả người rất keo kiệt cũng không thể hơn được anh Yoshimoto."
+      },
+      {
+        "japanese": "よほど不器用な人でも、この機械を使えば、きちんとしたものが作れるはずだ。",
+        "romaji": "Yohodo bukiyou na hito demo, kono kikai o tsukaeba, kichinto shita mono ga tsukureru hazu da.",
+        "vietnamese": "Kể cả là người rất vụng về thì nếu sử dụng máy này cũng sẽ chắc chắn làm ra được sản phẩm tươm tất."
+      },
+      {
+        "japanese": "よほど日本語が得意な人でも俳句を理解するのは難しい。",
+        "romaji": "Yohodo Nihongo ga tokui na hito demo haiku o rikai suru no wa muzukashii.",
+        "vietnamese": "Kể cả người giỏi tiếng Nhật, thì cũng khó khăn trong việc lý giải Haiku."
+      }
+    ],
+    "notes": [
+      "Biểu thị nghĩa「非常に～であっても」、「どんなに～であっても」",
+      "Nhấn mạnh mức độ cao của điều kiện"
+    ]
+  },
+  {
+    "id": "ikani-ka",
+    "title": "いかに～か",
+    "description": "「いかに～か」là cách nói nhấn mạnh ý nghĩa của「非常に～である」",
+    "structure": "いかに + A/V + か",
+    "examples": [
+      {
+        "japanese": "朝のラッシュを見ると、日本人がいかに我慢強いかが分かる。",
+        "romaji": "Asa no rasshu o miru to, Nihonjin ga ikani gamanzuyoi ka ga wakaru.",
+        "vietnamese": "Nếu bạn nhìn vào giờ cao điểm buổi sáng, bạn sẽ hiểu được người Nhật nhẫn nại đến nhường nào."
+      },
+      {
+        "japanese": "自然の力の前では人間の存在などいかに小さなものかを知った。",
+        "romaji": "Shizen no chikara no mae de wa ningen no sonzai nado ikani chiisana mono ka o shitta.",
+        "vietnamese": "Trước sức mạnh của thiên nhiên, tôi đã biết sự tồn tại của con người thật nhỏ bé biết bao."
+      },
+      {
+        "japanese": "節電をしてみて、今までいかに無駄に電気を使っていたかに気づいた。",
+        "romaji": "Setsuden o shite mite, ima made ikani muda ni denki o tsukatte ita ka ni kidzuita.",
+        "vietnamese": "Thử tiết kiệm điện, thì tôi nhận ra cho tới nay tôi đã sử dụng điện thật lãng phí."
+      }
+    ],
+    "notes": [
+      "Cách nói nhấn mạnh ý nghĩa của「非常に～である」",
+      "Thường dùng trong văn viết hoặc cách nói trang trọng"
+    ]
+  },
+  {
+    "id": "toka",
+    "title": "とか",
+    "description": "「・・・とか。」là biểu đạt văn viết mềm mại của nét nghĩa「～そうだ(nói lại thông tin nghe được)」,「はっきりとではないが～と聞いた。」.",
+    "structure": "Thể thông thường + とか",
+    "examples": [
+      {
+        "japanese": "隣のご主人、最近見かけないと思ったら、２週間前から入院しているとか。",
+        "romaji": "Tonari no goshujin, saikin mikakenai to omottara, nishuukan mae kara nyuuin shite iru toka.",
+        "vietnamese": "Tôi vừa nghĩ rằng gần đây không thấy người hàng xóm bên cạnh thì nghe rằng anh ấy đã nhập viện từ 2 tuần trước."
+      },
+      {
+        "japanese": "お嬢さんが近々結婚なさるとか。おめでとうございます。",
+        "romaji": "Ojou-san ga chikajika kekkon nasaru toka. Omedetou gozaimasu.",
+        "vietnamese": "Tôi nghe rằng con gái chị chuẩn bị làm đám cưới. Xin chúc mừng chị."
+      },
+      {
+        "japanese": "先週のゴルフ大会では社長が優勝なさったとか。",
+        "romaji": "Senshuu no gorufu taikai de wa shachou ga yuushou nasatta toka.",
+        "vietnamese": "Tôi nghe nói ông giám đốc bên anh đã vô địch giải golf tuần trước."
+      },
+      {
+        "japanese": "今朝の新聞によると首相が風邪をひいたとか。来週のアメリカ訪問は大丈夫だろうか。",
+        "romaji": "Kesa no shinbun ni yoru to shushou ga kaze o hiita toka. Raishuu no Amerika houmon wa daijoubu darou ka.",
+        "vietnamese": "Theo tờ báo sáng nay, tôi đọc được thủ tướng bị cảm. Việc viếng thăm nước Mỹ vào tuần sau có sao không nhỉ?"
+      }
+    ],
+    "notes": [
+      "Biểu đạt văn viết mềm mại của nét nghĩa「～そうだ(nói lại thông tin nghe được)」",
+      "「はっきりとではないが～と聞いた」",
+      "Thường dùng để truyền đạt thông tin nghe được một cách nhẹ nhàng"
+    ]
+  },
+  {
+    "id": "ni-iwasereba",
+    "title": "言わせれば/言わせると/言わせたら/言わせるなら",
+    "description": "「～に言わせれば」đi cùng với danh từ chỉ người, biểu thị ý nghĩa「その人の意見では」. Cách nói này biểu đạt ý nghĩa rằng đang nói ý kiến riêng của chính người đó, khác với người khác.",
+    "structure": "N + に + 言わせれば／言わせると／言わせたら／言わせるなら",
+    "examples": [
+      {
+        "japanese": "経済の専門家に言わせれば、円はこれからもっと高くなるらしい。",
+        "romaji": "Keizai no senmonka ni iwasereba, en wa kore kara motto takaku naru rashii.",
+        "vietnamese": "Theo các chuyên gia kinh tế thì từ nay đồng yên sẽ còn cao hơn."
+      },
+      {
+        "japanese": "口の悪い弟に言わせると、「長」がつく人間は信用してはいけないそうだ。",
+        "romaji": "Kuchi no warui otouto ni iwaseru to, \"chou\" ga tsuku ningen wa shin'you shite wa ikenai sou da.",
+        "vietnamese": "Theo lời thằng em trai \"thối mồm\" của tôi thì không được tin những người mà có chức danh \"Trưởng\"."
+      },
+      {
+        "japanese": "２００年前の日本人に言わせたら、現在の若者が話している日本語は外国語みたいだというだろう。",
+        "romaji": "Nihyaku nen mae no Nihonjin ni iwasetara, genzai no wakamono ga hanashite iru Nihongo wa gaikokugo mitai da to iu darou.",
+        "vietnamese": "Đối với người Nhật của 200 năm trước thì có lẽ họ sẽ thấy tiếng Nhật mà giới trẻ ngày nay đang dùng giống như tiếng nước ngoài."
+      },
+      {
+        "japanese": "野球評論家に言わせれば、イチロー選手の打ち方は基本から全く外れているらしい。",
+        "romaji": "Yakyuu hyouronka ni iwasereba, Ichiro senshu no uchikata wa kihon kara mattaku hazurete iru rashii.",
+        "vietnamese": "Theo lời của nhà bình luận bóng chày, thì cách đánh của tuyển thủ Ichiro hoàn toàn lệch so với cơ bản."
+      }
+    ],
+    "notes": [
+      "Đi cùng với danh từ chỉ người, biểu thị ý nghĩa「その人の意見では」",
+      "Biểu đạt ý kiến riêng của chính người đó, khác với người khác",
+      "Có các biến thể: 言わせれば、言わせると、言わせたら、言わせるなら"
+    ]
+  },
+  {
+    "id": "ni-motozuite",
+    "title": "に基づて",
+    "description": "「～に基づいて」biểu thị ý nghĩa \"lấy「～」làm căn cứ\". Khi bổ ngữ cho danh từ thì sẽ trở thành「～に基づいた」.",
+    "structure": "N + に基づいて",
+    "examples": [
+      {
+        "japanese": "この映画は、事実に基づいて作られている。",
+        "romaji": "Kono eiga wa, jijitsu ni motozuite tsukurarete iru.",
+        "vietnamese": "Bộ phim này được xây dựng dựa trên sự vật."
+      },
+      {
+        "japanese": "デパートでは、調査結果に基づいた新しいサービスを導入した。",
+        "romaji": "Depaato de wa, chousa kekka ni motozuita atarashii saabisu o dounyuu shita.",
+        "vietnamese": "Trung tâm thương mại đã đưa vào các dịch vụ mới dựa trên kết quả điều tra khách hàng."
+      },
+      {
+        "japanese": "予想ではなく、経験に基づいて判断しました。",
+        "romaji": "Yosou dewa naku, keiken ni motozuite handan shimashita.",
+        "vietnamese": "Tôi đã đưa ra quyết định dựa vào kinh nghiệm chứ không dựa vào tiên đoán."
+      },
+      {
+        "japanese": "アンケートの結果に基づいて、メニューを考えた。",
+        "romaji": "Ankeeto no kekka ni motozuite, menyuu o kangaeta.",
+        "vietnamese": "Tôi đã suy nghĩ cho đặt menu dựa trên kết quả của việc khảo sát."
+      }
+    ],
+    "notes": [
+      "Biểu thị ý nghĩa \"lấy「～」làm căn cứ\"",
+      "Khi bổ ngữ cho danh từ thì sẽ trở thành「～に基づいた」",
+      "Thường dùng trong văn viết hoặc cách nói trang trọng"
+    ]
+  },
+  {
+    "id": "to-iemasu",
+    "title": "と言えます",
+    "description": "「～と言える」biểu thị ý nghĩa「～と判断できる」.",
+    "structure": "V／いA／なA (thể thông thường)／N (ーだ→な) + と言えます",
+    "examples": [
+      {
+        "japanese": "日本の経済力を考えると、国際社会における日本の責任は大きいと言える。",
+        "romaji": "Nihon no keizairyoku o kangaeru to, kokusai shakai ni okeru Nihon no sekinin wa ookii to ieru.",
+        "vietnamese": "Khi chúng ta nghĩ đến sức mạnh kinh tế của Nhật Bản thì có thể nói trách nhiệm của Nhật Bản đối với cộng đồng quốc tế là rất lớn."
+      },
+      {
+        "japanese": "人口増加によって、地球温暖化はますます進むと言えるのではないでしょうか。",
+        "romaji": "Jinkou zouka ni yotte, chikyuu ondanka wa masumasu susumu to ieru no dewa nai deshou ka.",
+        "vietnamese": "Chúng ta có thể nói rằng trái đất ngày càng nóng lên do hệ quả của sự gia tăng dân số."
+      },
+      {
+        "japanese": "お金があれば幸せだと言えるのでしょうか。",
+        "romaji": "Okane ga areba shiawase da to ieru no deshou ka.",
+        "vietnamese": "Liệu chúng ta có thể nói rằng tiền đem lại hạnh phúc?"
+      },
+      {
+        "japanese": "美しい自然は私たちが子供に残せる大きな遺産だと言える。",
+        "romaji": "Utsukushii shizen wa watashitachi ga kodomo ni nokoseru ookina isan da to ieru.",
+        "vietnamese": "Có thể nói rằng thiên nhiên xinh đẹp là di sản lớn mà chúng ta để lại cho những đứa trẻ."
+      }
+    ],
+    "notes": [
+      "Biểu thị ý nghĩa「～と判断できる」",
+      "Thường dùng để đưa ra nhận định, đánh giá",
+      "Có thể dùng ở dạng phủ định hoặc câu hỏi"
+    ]
+  },
+  {
+    "id": "ippou-de",
+    "title": "一方で",
+    "description": "「一方で」dùng khi nói về nội dung có đánh giá trái ngược với điều đã trình bày ở trước. Cũng có khi được dùng với hình thức「一方では」「一方」.",
+    "structure": "・・・が、一方で / Thể thông thường + 一方で",
+    "examples": [
+      {
+        "japanese": "日本は技術が進んだ国だが、一方で古い伝統文化も大切にしている。",
+        "romaji": "Nihon wa gijutsu ga susunda kuni da ga, ippou de furui dentou bunka mo taisetsu ni shite iru.",
+        "vietnamese": "Nhật Bản là đất nước có nền kỹ thuật phát triển, nhưng mặt khác cũng là đất nước coi trọng văn hóa truyền thống ngày xưa."
+      },
+      {
+        "japanese": "英語は小さい時から学ばせた方がいいという意見もある一方で、きちんと母語を学んでからにした方がいいという意見もある。",
+        "romaji": "Eigo wa chiisai toki kara manabaseta hou ga ii to iu iken mo aru ippou de, kichinto bogo o manande kara ni shita hou ga ii to iu iken mo aru.",
+        "vietnamese": "Có những ý kiến cho rằng nên cho trẻ em học tiếng Anh từ lúc còn nhỏ thì sẽ tốt hơn, nhưng ngược lại cũng có những ý kiến cho rằng học tốt tiếng mẹ đẻ trước rồi học tiếng Anh thì tốt hơn."
+      },
+      {
+        "japanese": "コレステロール値が高いのは問題だが、一方ではあまり低すぎるのも長生きできないという調査結果がある。",
+        "romaji": "Koresuterooru ne ga takai no wa mondai da ga, ippou de wa amari hikusugiru no mo nagaiki dekinai to iu chousa kekka ga aru.",
+        "vietnamese": "Chỉ số cholesterol cao là vấn đề, nhưng ngược lại cũng có kết quả điều tra cho thấy rằng nếu chỉ số này quá thấp chúng ta sẽ không thể sống thọ."
+      },
+      {
+        "japanese": "食べ物を捨てている国がある一方で、飢えに苦しんでいる国がある。",
+        "romaji": "Tabemono o sutete iru kuni ga aru ippou de, ue ni kurushinde iru kuni ga aru.",
+        "vietnamese": "Có đất nước vứt thức ăn đi, ngược lại có đất nước thống khổ vì đói."
+      }
+    ],
+    "notes": [
+      "Dùng khi nói về nội dung có đánh giá trái ngược với điều đã trình bày ở trước",
+      "Cũng có khi được dùng với hình thức「一方では」「一方」",
+      "Thường dùng để so sánh hai mặt đối lập của một vấn đề"
+    ]
+  },
+  {
+    "id": "ni-kagirazu",
+    "title": "に限らず",
+    "description": "「～に限らず」biểu thị ý nghĩa「～だけでなく（他にも）」.",
+    "structure": "N + に限らず",
+    "examples": [
+      {
+        "japanese": "このキャラクターは、子供に限らず大人にも人気がある。",
+        "romaji": "Kono kyarakuta wa, kodomo ni kagirazu otona ni mo ninki ga aru.",
+        "vietnamese": "Nhân vật này được yêu chuộng trong cả người lớn chứ không riêng gì trẻ con."
+      },
+      {
+        "japanese": "海外ではお寿司やてんぷらに限らず、豆腐料理なども人気がある。",
+        "romaji": "Kaigai de wa osushi ya tenpura ni kagirazu, toufu ryouri nado mo ninki ga aru.",
+        "vietnamese": "Ở nước ngoài không chỉ Sushi và Tempura mà cả những món khác như Tofu,v.v.. cũng rất được ưa chuộng."
+      },
+      {
+        "japanese": "バリアフリーとは障害を持った人やお年寄りに限らず、誰でもが快適に利用できるということです。",
+        "romaji": "Bariafurii to wa shougai o motta hito ya otoshiyori ni kagirazu, dare demo ga kaiteki ni riyou dekiru to iu koto desu.",
+        "vietnamese": "\"Barrier-free\" có nghĩa là ai cũng có thể sử dụng một cách thoải mái chứ không riêng gì người tàn tật hay người cao tuổi."
+      },
+      {
+        "japanese": "ダイビングは夏に限らず、一年中できます。",
+        "romaji": "Daibingu wa natsu ni kagirazu, ichinenchuu dekimasu.",
+        "vietnamese": "Không, không chỉ mùa hè, có thể thực hiện trong năm."
+      }
+    ],
+    "notes": [
+      "Biểu thị ý nghĩa「～だけでなく（他にも）」",
+      "Thường dùng để mở rộng phạm vi, không giới hạn ở một đối tượng cụ thể",
+      "Có thể dùng với nhiều loại danh từ khác nhau"
+    ]
+  }
+]

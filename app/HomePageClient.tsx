@@ -10,6 +10,7 @@ export default function HomePageClient() {
   const { t } = useI18n()
   const n5Lessons = Array.from({ length: 25 }, (_, i) => i + 1)
   const n4Lessons = Array.from({ length: 25 }, (_, i) => i + 26)
+  const n3Lessons = Array.from({ length: 24 }, (_, i) => i + 51)
 
   return (
     <div className="home-page">
@@ -42,6 +43,21 @@ export default function HomePageClient() {
           <h2 className="level-title">N4</h2>
           <div className="lessons-grid">
             {n4Lessons.map((lesson) => (
+              <Link
+                key={lesson}
+                href={`/lesson/${lesson}/vocabulary`}
+                className="lesson-card"
+              >
+                {t.home.lesson} {lesson}
+              </Link>
+            ))}
+          </div>
+        </div>
+
+        <div className="level-section">
+          <h2 className="level-title">N3</h2>
+          <div className="lessons-grid">
+            {n3Lessons.map((lesson) => (
               <Link
                 key={lesson}
                 href={`/lesson/${lesson}/vocabulary`}

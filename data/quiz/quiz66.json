@@ -1,0 +1,302 @@
+[
+  {
+    "id": 1,
+    "question": "<p>「<ruby>個人情報<rp>(</rp><rt>こじんじょうほう</rt><rp>)</rp></ruby>」のベトナム語の意味はどれですか。</p>",
+    "options": [
+      "thông tin cá nhân",
+      "bài báo",
+      "nghề nghiệp",
+      "ngân sách"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 1
+  },
+  {
+    "id": 2,
+    "question": "<p>「<ruby>流出<rp>(</rp><rt>りゅうしゅつ</rt><rp>)</rp></ruby>」という言葉は「個人情報～」のように使いますが、意味として最も近いものはどれですか。</p>",
+    "options": [
+      "rò rỉ, lộ ra",
+      "tóm tắt lại",
+      "gia nhập",
+      "quản lí"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 1
+  },
+  {
+    "id": 3,
+    "question": "<p>「<ruby>新聞記事<rp>(</rp><rt>しんぶんきじ</rt><rp>)</rp></ruby>」の意味として正しいものはどれですか。</p>",
+    "options": [
+      "bài báo",
+      "trang tin tức xã hội",
+      "tóm lược, khái quát",
+      "yếu tố"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 1
+  },
+  {
+    "id": 4,
+    "question": "<p>次のうち、「<ruby>氏名<rp>(</rp><rt>しめい</rt><rp>)</rp></ruby>」に含まれる情報はどれですか。</p>",
+    "options": [
+      "họ tên",
+      "ngày tháng năm sinh",
+      "nghề nghiệp",
+      "ngày tháng"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 1
+  },
+  {
+    "id": 5,
+    "question": "<p>「<ruby>預金<rp>(</rp><rt>よきん</rt><rp>)</rp></ruby>」に一番近い意味はどれですか。</p>",
+    "options": [
+      "(tài khoản) tiền gửi",
+      "số tiền thiệt hại",
+      "dự toán, ngân sách",
+      "số tiền thanh toán"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 1
+  },
+  {
+    "id": 6,
+    "question": "<p>「<ruby>請求書<rp>(</rp><rt>せいきゅうしょ</rt><rp>)</rp></ruby>」はどのようなものですか。</p>",
+    "options": [
+      "hóa đơn thanh toán",
+      "bản thảo",
+      "giấy chứng minh nhân dân",
+      "sổ ghi (địa chỉ)"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 1
+  },
+  {
+    "id": 7,
+    "question": "<p>「<ruby>不正使用<rp>(</rp><rt>ふせいしよう</rt><rp>)</rp></ruby>」の意味として最も適切なものはどれですか。</p>",
+    "options": [
+      "sử dụng trái phép",
+      "tiêu dùng hợp pháp",
+      "sử dụng miễn phí",
+      "sử dụng tạm thời"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 2
+  },
+  {
+    "id": 8,
+    "question": "<p>「<ruby>被害額<rp>(</rp><rt>ひがいがく</rt><rp>)</rp></ruby>」と同じ nhóm nghĩa với語はどれですか。</p>",
+    "options": [
+      "<ruby>額<rp>(</rp><rt>がく</rt><rp>)</rp></ruby>",
+      "<ruby>需要<rp>(</rp><rt>じゅよう</rt><rp>)</rp></ruby>",
+      "<ruby>気配<rp>(</rp><rt>けはい</rt><rp>)</rp></ruby>",
+      "<ruby>活力<rp>(</rp><rt>かつりょく</rt><rp>)</rp></ruby>"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 1
+  },
+  {
+    "id": 9,
+    "question": "<p>「<ruby>大学<rp>(</rp><rt>だいがく</rt><rp>)</rp></ruby>は学生の<ruby>要求<rp>(</rp><rt>ようきゅう</rt><rp>)</rp></ruby>に<ruby>応じて<rp>(</rp><rt>おうじて</rt><rp>)</rp></ruby>、試験制度を<ruby>改める<rp>(</rp><rt>あらためる</rt><rp>)</rp></ruby>。」この文の「学生の要求に応じて」の意味はどれですか。</p>",
+    "options": [
+      "đáp ứng yêu cầu của sinh viên",
+      "bất chấp yêu cầu của sinh viên",
+      "mặc dù có yêu cầu của sinh viên",
+      "không liên quan đến yêu cầu của sinh viên"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 2
+  },
+  {
+    "id": 10,
+    "question": "<p>「～<ruby>に応じて<rp>(</rp><rt>におうじて</rt><rp>)</rp></ruby>」の使い方として最も自然な文はどれですか。</p>",
+    "options": [
+      "利用者の<ruby>年齢<rp>(</rp><rt>ねんれい</rt><rp>)</rp></ruby>に応じて、サービスの内容を変える。",
+      "利用者の年齢に応じる、サービスの内容を変える。",
+      "利用者の年齢を応じて、サービスの内容が変える。",
+      "利用者に応じて年齢、サービスの内容を変える。"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 2
+  },
+  {
+    "id": 11,
+    "question": "<p>次の文の（　）に入る最も適切な語はどれですか。<br/>「<ruby>少子高齢化<rp>(</rp><rt>しょうしこうれいか</rt><rp>)</rp></ruby>（　）、地域社会はますます<ruby>活力<rp>(</rp><rt>かつりょく</rt><rp>)</rp></ruby>がなくなっている。」</p>",
+    "options": [
+      "によって",
+      "に応じて",
+      "にもかかわらず",
+      "に限って"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 2
+  },
+  {
+    "id": 12,
+    "question": "<p>「ATMのトラブル<ruby>による<rp>(</rp><rt>による</rt><rp>)</rp></ruby><ruby>被害<rp>(</rp><rt>ひがい</rt><rp>)</rp></ruby>」の意味として最も近いものはどれですか。</p>",
+    "options": [
+      "thiệt hại do sự cố ATM gây ra",
+      "thiệt hại xảy ra cho ATM",
+      "thiệt hại không liên quan đến ATM",
+      "thiệt hại do khách hàng gây ra cho ATM"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 2
+  },
+  {
+    "id": 13,
+    "question": "<p>「<ruby>犯人<rp>(</rp><rt>はんにん</rt><rp>)</rp></ruby>は車で<ruby>逃げた<rp>(</rp><rt>にげた</rt><rp>)</rp></ruby>とみられる。」の「とみられる」のニュアンスはどれですか。</p>",
+    "options": [
+      "được cho là, được nhận định là",
+      "chắc chắn là",
+      "nhất định phải",
+      "có lẽ không"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 2
+  },
+  {
+    "id": 14,
+    "question": "<p>次のうち、「～とみられている」を正しく使っている文はどれですか。</p>",
+    "options": [
+      "被害額は１人当たり数万円に上るとみられている。",
+      "被害額は１人当たり数万円に上るとみられているだ。",
+      "被害額は１人当たり数万円に上るみられている。",
+      "被害額は１人当たり数万円みられている。"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 2
+  },
+  {
+    "id": 15,
+    "question": "<p>「<ruby>政府<rp>(</rp><rt>せいふ</rt><rp>)</rp></ruby>は景気が<ruby>回復<rp>(</rp><rt>かいふく</rt><rp>)</rp></ruby>するまで<ruby>消費税<rp>(</rp><rt>しょうひぜい</rt><rp>)</rp></ruby>を<ruby>上げない<rp>(</rp><rt>あげない</rt><rp>)</rp></ruby>としている。」の「としている」の意味として正しいものはどれですか。</p>",
+    "options": [
+      "（chính phủ）cho biết như vậy",
+      "（chính phủ）nghĩ như vậy trong lòng",
+      "（chính phủ）bị bắt buộc như vậy",
+      "（chính phủ）nghe nói như vậy từ nơi khác"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 2
+  },
+  {
+    "id": 16,
+    "question": "<p>次の文の（　）に入る最も自然な形はどれですか。<br/>「学校側は<ruby>少子化<rp>(</rp><rt>しょうしか</rt><rp>)</rp></ruby>に<ruby>備え<rp>(</rp><rt>そなえ</rt><rp>)</rp></ruby>てカリキュラムを見直す（　）。」</p>",
+    "options": [
+      "としている",
+      "とみられる",
+      "に応じている",
+      "によっている"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 2
+  },
+  {
+    "id": 17,
+    "question": "<p>「年末の<ruby>忙しい<rp>(</rp><rt>いそがしい</rt><rp>)</rp></ruby><ruby>時期<rp>(</rp><rt>じき</rt><rp>)</rp></ruby>にもかかわらず、たくさんの方が集まった。」この文の「にもかかわらず」の意味に一番近いものはどれですか。</p>",
+    "options": [
+      "mặc dù ... nhưng",
+      "vì ... nên",
+      "nếu ... thì",
+      "bằng với ..."
+    ],
+    "correctAnswer": 0,
+    "difficulty": 1
+  },
+  {
+    "id": 18,
+    "question": "<p>「地震の後に津波が来ることが予測されていたにもかかわらず、すぐに避難しなかった。」この文から分かる評価はどれですか。</p>",
+    "options": [
+      "ngạc nhiên / bất mãn vì hành động không sơ tán",
+      "khen ngợi vì đã không sơ tán",
+      "không có đánh giá cảm xúc",
+      "khẳng định đó là hành động đúng"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 2
+  },
+  {
+    "id": 19,
+    "question": "<p>「警察は犯人を追うとともに、近所の住人に注意を呼びかけている。」で「とともに」はどのような関係を表していますか。</p>",
+    "options": [
+      "hai hành động diễn ra đồng thời",
+      "nguyên nhân và kết quả",
+      "điều kiện và kết quả",
+      "so sánh hai hành động"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 2
+  },
+  {
+    "id": 20,
+    "question": "<p>「ATMのトラブルが<ruby>判明<rp>(</rp><rt>はんめい</rt><rp>)</rp></ruby>した<ruby>ところ<rp>(</rp><rt>ところ</rt><rp>)</rp></ruby>、被害はこの銀行の利用者にとどまらないことが分かった。」のように使う「～たところ」の説明として正しいものはどれですか。</p>",
+    "options": [
+      "sau khi làm X thì biết được kết quả Y",
+      "vì X nên chắc chắn Y sẽ xảy ra",
+      "mặc dù X nhưng Y",
+      "nếu X thì Y diễn ra lặp lại"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 2
+  },
+  {
+    "id": 21,
+    "question": "<p>次のうち、「<b>～あんまり～から</b>」の使い方として最も自然な文はどれですか。</p>",
+    "options": [
+      "電気料金があんまり高いから、<ruby>驚い<rp>(</rp><rt>おどろい</rt><rp>)</rp></ruby>てしまった。",
+      "電気料金があんまり高いから、上がるところだった。",
+      "電気料金があんまり高いから、無料化としている。",
+      "電気料金があんまり高くないから、困っている。"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 1
+  },
+  {
+    "id": 22,
+    "question": "<p>「<ruby>危うく<rp>(</rp><rt>あやうく</rt><rp>)</rp></ruby>人身事故を起こす<ruby>ところだった<rp>(</rp><rt>ところだった</rt><rp>)</rp></ruby>。」の意味として最も近いものはどれですか。</p>",
+    "options": [
+      "suýt nữa thì gây tai nạn gây thương tích cho người",
+      "chắc chắn đã gây tai nạn",
+      "đã gây tai nạn rồi",
+      "hoàn toàn không nguy hiểm"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 2
+  },
+  {
+    "id": 23,
+    "question": "<p>次の文の（　）に入る最も自然な語はどれですか。<br/>「デートの約束をしている日に（　）、残業を頼まれる。」</p>",
+    "options": [
+      "限って",
+      "応じて",
+      "とともに",
+      "によって"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 2
+  },
+  {
+    "id": 24,
+    "question": "<p>「うちの子に限ってそんなことをするはずがない。」の話し手の気持ちとして一番近いものはどれですか。</p>",
+    "options": [
+      "tin chắc rằng con mình không làm chuyện xấu",
+      "nghi ngờ rằng con mình làm chuyện xấu",
+      "chấp nhận khả năng con mình làm chuyện xấu",
+      "không quan tâm con mình làm gì"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 2
+  },
+  {
+    "id": 25,
+    "question": "<p>次のうち、「<ruby>被害者<rp>(</rp><rt>ひがいしゃ</rt><rp>)</rp></ruby>」の立場に最も関係の深い語の組み合わせはどれですか。</p>",
+    "options": [
+      "被害額・失う・金銭",
+      "需要・新人・挑戦",
+      "決勝戦・出場権・手にする",
+      "歓迎・訪問・住人"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 2
+  }
+]

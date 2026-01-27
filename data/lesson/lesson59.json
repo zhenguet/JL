@@ -1,0 +1,1714 @@
+[
+  {
+    "id": "sports",
+    "kanji": "スポーツ",
+    "hiragana": "スポーツ",
+    "en": "sports",
+    "vi": "thể thao",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ thể thao",
+        "Ví dụ: スポーツをする (Chơi thể thao)"
+      ]
+    }
+  },
+  {
+    "id": "toPlaySports",
+    "kanji": "スポーツをする",
+    "hiragana": "スポーツをする",
+    "en": "to play sports",
+    "vi": "chơi thể thao",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Cụm động từ",
+        "Ví dụ: 毎日スポーツをする (Chơi thể thao mỗi ngày)"
+      ]
+    }
+  },
+  {
+    "id": "soccer",
+    "kanji": "サッカー",
+    "hiragana": "サッカー",
+    "en": "soccer",
+    "vi": "bóng đá",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ bóng đá",
+        "Ví dụ: サッカーを観る (Xem bóng đá)"
+      ]
+    }
+  },
+  {
+    "id": "baseball",
+    "kanji": "野球",
+    "hiragana": "やきゅう",
+    "en": "baseball",
+    "vi": "bóng chày",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ bóng chày",
+        "Ví dụ: 野球をする (Chơi bóng chày)"
+      ]
+    }
+  },
+  {
+    "id": "tennis",
+    "kanji": "テニス",
+    "hiragana": "テニス",
+    "en": "tennis",
+    "vi": "quần vợt",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ quần vợt",
+        "Ví dụ: テニスをする (Chơi quần vợt)"
+      ]
+    }
+  },
+  {
+    "id": "swimming",
+    "kanji": "水泳",
+    "hiragana": "すいえい",
+    "en": "swimming",
+    "vi": "bơi lội",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ bơi lội",
+        "Ví dụ: 水泳をする (Bơi)"
+      ]
+    }
+  },
+  {
+    "id": "toSwim",
+    "kanji": "泳ぐ",
+    "hiragana": "およぐ",
+    "en": "to swim",
+    "vi": "bơi",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm I",
+        "《泳ぎます、泳ぐ、泳いで》",
+        "Ví dụ: プールで泳ぐ (Bơi ở hồ bơi)"
+      ]
+    }
+  },
+  {
+    "id": "competition",
+    "kanji": "試合",
+    "hiragana": "しあい",
+    "en": "competition",
+    "vi": "trận đấu",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ trận đấu",
+        "Ví dụ: 試合をする (Thi đấu)"
+      ]
+    }
+  },
+  {
+    "id": "toCompete",
+    "kanji": "試合をする",
+    "hiragana": "しあいをする",
+    "en": "to compete",
+    "vi": "thi đấu",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Cụm động từ",
+        "Ví dụ: サッカーの試合をする (Thi đấu bóng đá)"
+      ]
+    }
+  },
+  {
+    "id": "victory",
+    "kanji": "勝利",
+    "hiragana": "しょうり",
+    "en": "victory",
+    "vi": "chiến thắng",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ chiến thắng",
+        "Ví dụ: 勝利を収める (Dành chiến thắng)"
+      ]
+    }
+  },
+  {
+    "id": "toWin",
+    "kanji": "勝つ",
+    "hiragana": "かつ",
+    "en": "to win",
+    "vi": "thắng",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm I",
+        "《勝ちます、勝つ、勝って》",
+        "Ví dụ: 試合に勝つ (Thắng trận đấu)"
+      ]
+    }
+  },
+  {
+    "id": "defeat",
+    "kanji": "敗北",
+    "hiragana": "はいぼく",
+    "en": "defeat",
+    "vi": "thất bại",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ thất bại",
+        "Ví dụ: 敗北を認める (Thừa nhận thất bại)"
+      ]
+    }
+  },
+  {
+    "id": "toLose",
+    "kanji": "負ける",
+    "hiragana": "まける",
+    "en": "to lose",
+    "vi": "thua",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm II",
+        "《負けます、負ける、負けて》",
+        "Ví dụ: 試合に負ける (Thua trận đấu)"
+      ]
+    }
+  },
+  {
+    "id": "team",
+    "kanji": "チーム",
+    "hiragana": "チーム",
+    "en": "team",
+    "vi": "đội",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ đội",
+        "Ví dụ: チームを作る (Tạo đội)"
+      ]
+    }
+  },
+  {
+    "id": "player",
+    "kanji": "選手",
+    "hiragana": "せんしゅ",
+    "en": "player",
+    "vi": "vận động viên",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ vận động viên",
+        "Ví dụ: 選手になる (Trở thành vận động viên)"
+      ]
+    }
+  },
+  {
+    "id": "coach",
+    "kanji": "コーチ",
+    "hiragana": "コーチ",
+    "en": "coach",
+    "vi": "huấn luyện viên",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ huấn luyện viên",
+        "Ví dụ: コーチに指導してもらう (Được huấn luyện viên hướng dẫn)"
+      ]
+    }
+  },
+  {
+    "id": "practice",
+    "kanji": "練習",
+    "hiragana": "れんしゅう",
+    "en": "practice",
+    "vi": "luyện tập",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ luyện tập",
+        "Ví dụ: 練習をする (Luyện tập)"
+      ]
+    }
+  },
+  {
+    "id": "toPractice",
+    "kanji": "練習する",
+    "hiragana": "れんしゅうする",
+    "en": "to practice",
+    "vi": "luyện tập",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm III",
+        "《練習します、練習する、練習して》",
+        "Ví dụ: 毎日練習する (Luyện tập mỗi ngày)"
+      ]
+    }
+  },
+  {
+    "id": "stadium",
+    "kanji": "スタジアム",
+    "hiragana": "スタジアム",
+    "en": "stadium",
+    "vi": "sân vận động",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ sân vận động",
+        "Ví dụ: スタジアムに行く (Đi sân vận động)"
+      ]
+    }
+  },
+  {
+    "id": "championship",
+    "kanji": "選手権",
+    "hiragana": "せんしゅけん",
+    "en": "championship",
+    "vi": "giải vô địch",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ giải vô địch",
+        "Ví dụ: 選手権に出る (Tham gia giải vô địch)"
+      ]
+    }
+  },
+  {
+    "id": "medal",
+    "kanji": "メダル",
+    "hiragana": "メダル",
+    "en": "medal",
+    "vi": "huy chương",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ chỉ huy chương",
+        "Ví dụ: メダルを獲得する (Đạt huy chương)"
+      ]
+    }
+  },
+  {
+    "id": "maugo",
+    "kanji": "迷子",
+    "hiragana": "まうご",
+    "en": "",
+    "vi": "trẻ lạc",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ",
+        "Ví dụ: 迷子"
+      ]
+    }
+  },
+  {
+    "id": "vocab1",
+    "kanji": "ページ",
+    "hiragana": "",
+    "en": "",
+    "vi": "trang",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ",
+        "Ví dụ: ページ"
+      ]
+    }
+  },
+  {
+    "id": "kimaru",
+    "kanji": "決まる",
+    "hiragana": "きまる",
+    "en": "",
+    "vi": "quyết định",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ",
+        "Ví dụ: 決まる"
+      ]
+    }
+  },
+  {
+    "id": "sumu",
+    "kanji": "済む",
+    "hiragana": "すむ",
+    "en": "",
+    "vi": "xong, kết thúc",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ",
+        "Ví dụ: 済む"
+      ]
+    }
+  },
+  {
+    "id": "inkan",
+    "kanji": "印鑑",
+    "hiragana": "いんかん",
+    "en": "",
+    "vi": "con dấu",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ",
+        "Ví dụ: 印鑑"
+      ]
+    }
+  },
+  {
+    "id": "vocab5",
+    "kanji": "サイン",
+    "hiragana": "",
+    "en": "",
+    "vi": "chữ ký",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ",
+        "Ví dụ: サイン"
+      ]
+    }
+  },
+  {
+    "id": "seinou",
+    "kanji": "性能",
+    "hiragana": "せいのう",
+    "en": "",
+    "vi": "tính năng",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ",
+        "Ví dụ: 性能"
+      ]
+    }
+  },
+  {
+    "id": "vocab7",
+    "kanji": "タイプ",
+    "hiragana": "",
+    "en": "",
+    "vi": "kiểu",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ",
+        "Ví dụ: タイプ"
+      ]
+    }
+  },
+  {
+    "id": "kinou",
+    "kanji": "機能",
+    "hiragana": "きのう",
+    "en": "",
+    "vi": "chức năng",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ",
+        "Ví dụ: 機能"
+      ]
+    }
+  },
+  {
+    "id": "heijitsu",
+    "kanji": "平日",
+    "hiragana": "へいじつ",
+    "en": "",
+    "vi": "các ngày trong tuần",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ",
+        "Ví dụ: 平日"
+      ]
+    }
+  },
+  {
+    "id": "shougi",
+    "kanji": "将棋",
+    "hiragana": "しょうぎ",
+    "en": "",
+    "vi": "cờ tướng Nhật Bản",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ",
+        "Ví dụ: 将棋"
+      ]
+    }
+  },
+  {
+    "id": "jimansuru",
+    "kanji": "自慢する",
+    "hiragana": "じまんする",
+    "en": "",
+    "vi": "tự mãn, tự kiêu, hãnh diện",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ",
+        "Ví dụ: 自慢する"
+      ]
+    }
+  },
+  {
+    "id": "butaniku",
+    "kanji": "豚肉",
+    "hiragana": "ぶたにく",
+    "en": "",
+    "vi": "thịt lợn, thịt heo",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ",
+        "Ví dụ: 豚肉"
+      ]
+    }
+  },
+  {
+    "id": "gyuuniku",
+    "kanji": "牛肉",
+    "hiragana": "ぎゅうにく",
+    "en": "",
+    "vi": "thịt bò",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ",
+        "Ví dụ: 牛肉"
+      ]
+    }
+  },
+  {
+    "id": "vocab14",
+    "kanji": "バレーボール",
+    "hiragana": "",
+    "en": "",
+    "vi": "bóng chuyền",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ",
+        "Ví dụ: バレーボール"
+      ]
+    }
+  },
+  {
+    "id": "kion",
+    "kanji": "気温",
+    "hiragana": "きおん",
+    "en": "",
+    "vi": "nhiệt độ",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ",
+        "Ví dụ: 気温"
+      ]
+    }
+  },
+  {
+    "id": "kousuiryou",
+    "kanji": "降水量",
+    "hiragana": "こうすいりょう",
+    "en": "",
+    "vi": "lượng mưa",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ",
+        "Ví dụ: 降水量"
+      ]
+    }
+  },
+  {
+    "id": "tsukibetsu",
+    "kanji": "月別",
+    "hiragana": "つきべつ",
+    "en": "",
+    "vi": "theo từng tháng",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ",
+        "Ví dụ: 月別"
+      ]
+    }
+  },
+  {
+    "id": "heikin",
+    "kanji": "平均",
+    "hiragana": "へいきん",
+    "en": "",
+    "vi": "trung bình",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ",
+        "Ví dụ: 平均"
+      ]
+    }
+  },
+  {
+    "id": "yobouchuusha",
+    "kanji": "予防注射",
+    "hiragana": "よぼうちゅうしゃ",
+    "en": "",
+    "vi": "tiêm phòng, tiêm vắc-xin",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ",
+        "Ví dụ: 予防注射"
+      ]
+    }
+  },
+  {
+    "id": "kuniguni",
+    "kanji": "国々",
+    "hiragana": "くにぐに",
+    "en": "",
+    "vi": "các nước",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ",
+        "Ví dụ: 国々"
+      ]
+    }
+  },
+  {
+    "id": "toshi",
+    "kanji": "都市",
+    "hiragana": "とし",
+    "en": "",
+    "vi": "thành phố, đô thị",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ",
+        "Ví dụ: 都市"
+      ]
+    }
+  },
+  {
+    "id": "nyuukokusuru",
+    "kanji": "入国する",
+    "hiragana": "にゅうこくする",
+    "en": "",
+    "vi": "nhập cảnh",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ",
+        "Ví dụ: 入国する"
+      ]
+    }
+  },
+  {
+    "id": "shigen",
+    "kanji": "資源",
+    "hiragana": "しげん",
+    "en": "",
+    "vi": "tài nguyên thiên nhiên",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ",
+        "Ví dụ: 資源"
+      ]
+    }
+  },
+  {
+    "id": "torerukomega",
+    "kanji": "とれる[米が～]",
+    "hiragana": "とれる[こめが～]",
+    "en": "",
+    "vi": "trồng được [lúa]",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ",
+        "Ví dụ: とれる[米が～]"
+      ]
+    }
+  },
+  {
+    "id": "ooyuki",
+    "kanji": "大雪",
+    "hiragana": "おおゆき",
+    "en": "",
+    "vi": "tuyết lớn, tuyết rơi dày",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ",
+        "Ví dụ: 大雪"
+      ]
+    }
+  },
+  {
+    "id": "kansousuru",
+    "kanji": "乾燥する",
+    "hiragana": "かんそうする",
+    "en": "",
+    "vi": "khô, làm khô",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ",
+        "Ví dụ: 乾燥する"
+      ]
+    }
+  },
+  {
+    "id": "douro",
+    "kanji": "道路",
+    "hiragana": "どうろ",
+    "en": "",
+    "vi": "đường sá",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ",
+        "Ví dụ: 道路"
+      ]
+    }
+  },
+  {
+    "id": "vocab28",
+    "kanji": "どんどん",
+    "hiragana": "",
+    "en": "",
+    "vi": "ngày càng",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ",
+        "Ví dụ: どんどん"
+      ]
+    }
+  },
+  {
+    "id": "saigo",
+    "kanji": "最後",
+    "hiragana": "さいご",
+    "en": "",
+    "vi": "cuối cùng",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ",
+        "Ví dụ: 最後"
+      ]
+    }
+  },
+  {
+    "id": "ikiru",
+    "kanji": "生きる",
+    "hiragana": "いきる",
+    "en": "",
+    "vi": "sống",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ",
+        "Ví dụ: 生きる"
+      ]
+    }
+  },
+  {
+    "id": "tanjou",
+    "kanji": "誕生",
+    "hiragana": "たんじょう",
+    "en": "",
+    "vi": "sự ra đời",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ",
+        "Ví dụ: 誕生"
+      ]
+    }
+  },
+  {
+    "id": "jitsugensuru",
+    "kanji": "実現する",
+    "hiragana": "じつげんする",
+    "en": "",
+    "vi": "thực hiện",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ",
+        "Ví dụ: 実現する"
+      ]
+    }
+  },
+  {
+    "id": "kin",
+    "kanji": "金メダル",
+    "hiragana": "きんメダル",
+    "en": "",
+    "vi": "huy chương vàng",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ",
+        "Ví dụ: 金メダル"
+      ]
+    }
+  },
+  {
+    "id": "kin1",
+    "kanji": "金",
+    "hiragana": "きん",
+    "en": "",
+    "vi": "vàng",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ",
+        "Ví dụ: 金"
+      ]
+    }
+  },
+  {
+    "id": "vocab35",
+    "kanji": "メダル",
+    "hiragana": "",
+    "en": "",
+    "vi": "huy chương",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ",
+        "Ví dụ: メダル"
+      ]
+    }
+  },
+  {
+    "id": "vocab36",
+    "kanji": "バスケットボール",
+    "hiragana": "",
+    "en": "",
+    "vi": "bóng rổ",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ",
+        "Ví dụ: バスケットボール"
+      ]
+    }
+  },
+  {
+    "id": "senshu",
+    "kanji": "選手",
+    "hiragana": "せんしゅ",
+    "en": "",
+    "vi": "vận động viên, cầu thủ",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ",
+        "Ví dụ: 選手"
+      ]
+    }
+  },
+  {
+    "id": "vocab38",
+    "kanji": "シンプル［な］",
+    "hiragana": "",
+    "en": "",
+    "vi": "đơn giản, giản dị",
+    "type": "adjective",
+    "explanation": {
+      "content": [
+        "Tính từ",
+        "Ví dụ: シンプル［な］"
+      ]
+    }
+  },
+  {
+    "id": "kakikomi",
+    "kanji": "書き込み",
+    "hiragana": "かきこみ",
+    "en": "",
+    "vi": "viết vào, ghi vào, nhập vào",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ",
+        "Ví dụ: 書き込み"
+      ]
+    }
+  },
+  {
+    "id": "kensaku",
+    "kanji": "検索",
+    "hiragana": "けんさく",
+    "en": "",
+    "vi": "tìm kiếm",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ",
+        "Ví dụ: 検索"
+      ]
+    }
+  },
+  {
+    "id": "reibun",
+    "kanji": "例文",
+    "hiragana": "れいぶん",
+    "en": "",
+    "vi": "câu ví dụ",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ",
+        "Ví dụ: 例文"
+      ]
+    }
+  },
+  {
+    "id": "kinou1",
+    "kanji": "ジャンプ機能",
+    "hiragana": "ジャンプきのう",
+    "en": "",
+    "vi": "chức năng tra từ vựng bằng cách cho phép chuyển tắt giữa các loại từ điển tích hợp trong kim từ điển",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ",
+        "Ví dụ: ジャンプ機能"
+      ]
+    }
+  },
+  {
+    "id": "vocab43",
+    "kanji": "ジャンプ",
+    "hiragana": "",
+    "en": "",
+    "vi": "chuyển qua, nhảy qua",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ",
+        "Ví dụ: ジャンプ"
+      ]
+    }
+  },
+  {
+    "id": "shouhin",
+    "kanji": "商品",
+    "hiragana": "しょうひん",
+    "en": "",
+    "vi": "hàng hóa",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ",
+        "Ví dụ: 商品"
+      ]
+    }
+  },
+  {
+    "id": "sha",
+    "kanji": "～社",
+    "hiragana": "～しゃ",
+    "en": "",
+    "vi": "Công ty ~",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ",
+        "Ví dụ: ～社"
+      ]
+    }
+  },
+  {
+    "id": "kokugojisho",
+    "kanji": "国語辞書",
+    "hiragana": "こくごじしょ",
+    "en": "",
+    "vi": "từ điển quốc ngữ (tiếng Nhật)",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ",
+        "Ví dụ: 国語辞書"
+      ]
+    }
+  },
+  {
+    "id": "waeijisho",
+    "kanji": "和英辞書",
+    "hiragana": "わえいじしょ",
+    "en": "",
+    "vi": "từ điển Nhật - Anh",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ",
+        "Ví dụ: 和英辞書"
+      ]
+    }
+  },
+  {
+    "id": "norureibunga",
+    "kanji": "載る[例文が～]",
+    "hiragana": "のる[れいぶんが～]",
+    "en": "",
+    "vi": "[ví dụ] được đưa vào",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ",
+        "Ví dụ: 載る[例文が～]"
+      ]
+    }
+  },
+  {
+    "id": "vocab49",
+    "kanji": "シルバー",
+    "hiragana": "",
+    "en": "",
+    "vi": "bạc",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ",
+        "Ví dụ: シルバー"
+      ]
+    }
+  },
+  {
+    "id": "tsukekuwaeru",
+    "kanji": "付け加える",
+    "hiragana": "つけくわえる",
+    "en": "",
+    "vi": "thêm",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ",
+        "Ví dụ: 付け加える"
+      ]
+    }
+  },
+  {
+    "id": "henshuusuru",
+    "kanji": "編集する",
+    "hiragana": "へんしゅうする",
+    "en": "",
+    "vi": "biên tập",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ",
+        "Ví dụ: 編集する"
+      ]
+    }
+  },
+  {
+    "id": "vocab52",
+    "kanji": "しっかり",
+    "hiragana": "",
+    "en": "",
+    "vi": "tin cậy được, ổn, chắc chắn",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ",
+        "Ví dụ: しっかり"
+      ]
+    }
+  },
+  {
+    "id": "rusubanwosuru",
+    "kanji": "留守番をする",
+    "hiragana": "るすばんをする",
+    "en": "",
+    "vi": "trông nhà",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ",
+        "Ví dụ: 留守番をする"
+      ]
+    }
+  },
+  {
+    "id": "gara",
+    "kanji": "柄",
+    "hiragana": "がら",
+    "en": "",
+    "vi": "hoa văn, họa tiết",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ",
+        "Ví dụ: 柄"
+      ]
+    }
+  },
+  {
+    "id": "kyoutsuugo",
+    "kanji": "共通語",
+    "hiragana": "きょうつうご",
+    "en": "",
+    "vi": "tiếng phổ thông, ngôn ngữ chung",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ",
+        "Ví dụ: 共通語"
+      ]
+    }
+  },
+  {
+    "id": "ensou",
+    "kanji": "演奏",
+    "hiragana": "えんそう",
+    "en": "",
+    "vi": "biểu diễn, trình diễn",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ",
+        "Ví dụ: 演奏"
+      ]
+    }
+  },
+  {
+    "id": "tokkyo",
+    "kanji": "特許",
+    "hiragana": "とっきょ",
+    "en": "",
+    "vi": "bằng sáng chế",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ",
+        "Ví dụ: 特許"
+      ]
+    }
+  },
+  {
+    "id": "tousan",
+    "kanji": "倒産",
+    "hiragana": "とうさん",
+    "en": "",
+    "vi": "phá sản",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ",
+        "Ví dụ: 倒産"
+      ]
+    }
+  },
+  {
+    "id": "ooganemochi",
+    "kanji": "大金持ち",
+    "hiragana": "おおがねもち",
+    "en": "",
+    "vi": "triệu phú",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ",
+        "Ví dụ: 大金持ち"
+      ]
+    }
+  },
+  {
+    "id": "hokoru",
+    "kanji": "誇る",
+    "hiragana": "ほこる",
+    "en": "",
+    "vi": "tự hào",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ",
+        "Ví dụ: 誇る"
+      ]
+    }
+  },
+  {
+    "id": "arawareru",
+    "kanji": "表れる",
+    "hiragana": "あらわれる",
+    "en": "",
+    "vi": "biểu hiện, lộ ra, xuất hiện",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ",
+        "Ví dụ: 表れる"
+      ]
+    }
+  },
+  {
+    "id": "imadeha",
+    "kanji": "今では",
+    "hiragana": "いまでは",
+    "en": "",
+    "vi": "ngày nay, bây giờ",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ",
+        "Ví dụ: 今では"
+      ]
+    }
+  },
+  {
+    "id": "tsunami",
+    "kanji": "TSUNAMI",
+    "hiragana": "ツナミ",
+    "en": "",
+    "vi": "sóng thần",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ",
+        "Ví dụ: TSUNAMI"
+      ]
+    }
+  },
+  {
+    "id": "eikyou",
+    "kanji": "影響",
+    "hiragana": "えいきょう",
+    "en": "",
+    "vi": "Sự ảnh hưởng",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ",
+        "Ví dụ: 影響"
+      ]
+    }
+  },
+  {
+    "id": "yuumeijin",
+    "kanji": "有名人",
+    "hiragana": "ゆうめいじん",
+    "en": "",
+    "vi": "người nổi tiếng",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ",
+        "Ví dụ: 有名人"
+      ]
+    }
+  },
+  {
+    "id": "rokuonsuru",
+    "kanji": "録音する",
+    "hiragana": "ろくおんする",
+    "en": "",
+    "vi": "ghi âm",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ",
+        "Ví dụ: 録音する"
+      ]
+    }
+  },
+  {
+    "id": "vocab67",
+    "kanji": "ヒント",
+    "hiragana": "",
+    "en": "",
+    "vi": "gợi ý",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ",
+        "Ví dụ: ヒント"
+      ]
+    }
+  },
+  {
+    "id": "kashidasu",
+    "kanji": "貸し出す",
+    "hiragana": "かしだす",
+    "en": "",
+    "vi": "cho thuê",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ",
+        "Ví dụ: 貸し出す"
+      ]
+    }
+  },
+  {
+    "id": "vocab69",
+    "kanji": "ところが",
+    "hiragana": "",
+    "en": "",
+    "vi": "tuy nhiên",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ",
+        "Ví dụ: ところが"
+      ]
+    }
+  },
+  {
+    "id": "kyousou",
+    "kanji": "競争",
+    "hiragana": "きょうそう",
+    "en": "",
+    "vi": "cạnh tranh",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ",
+        "Ví dụ: 競争"
+      ]
+    }
+  },
+  {
+    "id": "seibetsu",
+    "kanji": "性別",
+    "hiragana": "せいべつ",
+    "en": "",
+    "vi": "giới tính",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ",
+        "Ví dụ: 性別"
+      ]
+    }
+  },
+  {
+    "id": "chiiki",
+    "kanji": "地域",
+    "hiragana": "ちいき",
+    "en": "",
+    "vi": "khu vực",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ",
+        "Ví dụ: 地域"
+      ]
+    }
+  },
+  {
+    "id": "kankeinaku",
+    "kanji": "関係なく",
+    "hiragana": "かんけいなく",
+    "en": "",
+    "vi": "bất kể",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ",
+        "Ví dụ: 関係なく"
+      ]
+    }
+  },
+  {
+    "id": "goraku",
+    "kanji": "娯楽",
+    "hiragana": "ごらく",
+    "en": "",
+    "vi": "hình thức giải trí",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ",
+        "Ví dụ: 娯楽"
+      ]
+    }
+  },
+  {
+    "id": "otoshiyori",
+    "kanji": "[お]年寄り",
+    "hiragana": "[お]としより",
+    "en": "",
+    "vi": "người lớn tuổi",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ",
+        "Ví dụ: [お]年寄り"
+      ]
+    }
+  },
+  {
+    "id": "nakama",
+    "kanji": "仲間",
+    "hiragana": "なかま",
+    "en": "",
+    "vi": "bạn bè",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ",
+        "Ví dụ: 仲間"
+      ]
+    }
+  },
+  {
+    "id": "kokoro",
+    "kanji": "心",
+    "hiragana": "こころ",
+    "en": "",
+    "vi": "trái tim, tâm hồn",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ",
+        "Ví dụ: 心"
+      ]
+    }
+  },
+  {
+    "id": "naosu",
+    "kanji": "治す",
+    "hiragana": "なおす",
+    "en": "",
+    "vi": "chữa",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ",
+        "Ví dụ: 治す"
+      ]
+    }
+  },
+  {
+    "id": "tannaru",
+    "kanji": "単なる",
+    "hiragana": "たんなる",
+    "en": "",
+    "vi": "đơn thuần, đơn giản",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ",
+        "Ví dụ: 単なる"
+      ]
+    }
+  },
+  {
+    "id": "vocab80",
+    "kanji": "きっかけ",
+    "hiragana": "",
+    "en": "",
+    "vi": "lý do, cớ",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ",
+        "Ví dụ: きっかけ"
+      ]
+    }
+  },
+  {
+    "id": "kouryuukyoukai",
+    "kanji": "交流協会",
+    "hiragana": "こうりゅうきょうかい",
+    "en": "",
+    "vi": "hiệp hội giao lưu",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ",
+        "Ví dụ: 交流協会"
+      ]
+    }
+  },
+  {
+    "id": "kouhoushi",
+    "kanji": "広報誌",
+    "hiragana": "こうほうし",
+    "en": "",
+    "vi": "bản tin, tạp chí tuyên truyền",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ",
+        "Ví dụ: 広報誌"
+      ]
+    }
+  },
+  {
+    "id": "kurashi",
+    "kanji": "暮らし",
+    "hiragana": "くらし",
+    "en": "",
+    "vi": "cuộc sống",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ",
+        "Ví dụ: 暮らし"
+      ]
+    }
+  },
+  {
+    "id": "yakudatsu",
+    "kanji": "役立つ",
+    "hiragana": "やくだつ",
+    "en": "",
+    "vi": "hữu ích, có ích",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ",
+        "Ví dụ: 役立つ"
+      ]
+    }
+  },
+  {
+    "id": "sankasha",
+    "kanji": "参加者",
+    "hiragana": "さんかしゃ",
+    "en": "",
+    "vi": "người tham gia",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ",
+        "Ví dụ: 参加者"
+      ]
+    }
+  },
+  {
+    "id": "vocab86",
+    "kanji": "こうやって",
+    "hiragana": "",
+    "en": "",
+    "vi": "làm như thế này …",
+    "type": "other",
+    "explanation": {
+      "content": [
+        "Biểu thức hoặc từ đặc biệt",
+        "Ví dụ: こうやって"
+      ]
+    }
+  },
+  {
+    "id": "vocab87",
+    "kanji": "～だけじゃなくて、～のがいいんですが……。",
+    "hiragana": "",
+    "en": "",
+    "vi": "Không chỉ ~ mà ~ thì tốt.",
+    "type": "other",
+    "explanation": {
+      "content": [
+        "Biểu thức hoặc từ đặc biệt",
+        "Ví dụ: ～だけじゃなくて、～のがいいんですが……。"
+      ]
+    }
+  },
+  {
+    "id": "vocab88",
+    "kanji": "それでしたら、～(の) がよろしいんじゃないでしょうか。",
+    "hiragana": "",
+    "en": "",
+    "vi": "Nếu như thế thì chẳng phải là ~ là được nhất sao ạ?",
+    "type": "other",
+    "explanation": {
+      "content": [
+        "Biểu thức hoặc từ đặc biệt",
+        "Ví dụ: それでしたら、～(の) がよろしいんじゃないでしょうか。"
+      ]
+    }
+  },
+  {
+    "id": "vocab89",
+    "kanji": "ほとんどかわりませんね。",
+    "hiragana": "",
+    "en": "",
+    "vi": "Hầu như chẳng khác gì.",
+    "type": "other",
+    "explanation": {
+      "content": [
+        "Biểu thức hoặc từ đặc biệt",
+        "Ví dụ: ほとんどかわりませんね。"
+      ]
+    }
+  },
+  {
+    "id": "vocab90",
+    "kanji": "～で、～はありませんか。",
+    "hiragana": "",
+    "en": "",
+    "vi": "Chị có … với … không?",
+    "type": "other",
+    "explanation": {
+      "content": [
+        "Biểu thức hoặc từ đặc biệt",
+        "Ví dụ: ～で、～はありませんか。"
+      ]
+    }
+  },
+  {
+    "id": "vocab91",
+    "kanji": "ドラえもん",
+    "hiragana": "",
+    "en": "",
+    "vi": "Đô-ra-ê-mon: Nhân vật mèo máy anh hùng của truyện tranh và phim hoạt hình, được dịch ra nhiều ngôn ngữ và phổ biến trên toàn thế giới.",
+    "type": "other",
+    "explanation": {
+      "content": [
+        "Biểu thức hoặc từ đặc biệt",
+        "Ví dụ: ドラえもん"
+      ]
+    }
+  },
+  {
+    "id": "vocab92",
+    "kanji": "アインシュタイン",
+    "hiragana": "",
+    "en": "",
+    "vi": "Albert Einstein: Nhà vật lý lý thuyết người Đức (nhập tịch Mỹ), đoạt giải Nobel. 1879-1955.",
+    "type": "other",
+    "explanation": {
+      "content": [
+        "Biểu thức hoặc từ đặc biệt",
+        "Ví dụ: アインシュタイン"
+      ]
+    }
+  },
+  {
+    "id": "vocab93",
+    "kanji": "タイム",
+    "hiragana": "",
+    "en": "",
+    "vi": "Tờ Time: Tạp chí tin tức hàng tuần của Mỹ, được xuất bản ở ba mươi quốc gia.",
+    "type": "other",
+    "explanation": {
+      "content": [
+        "Biểu thức hoặc từ đặc biệt",
+        "Ví dụ: タイム"
+      ]
+    }
+  },
+  {
+    "id": "vocab94",
+    "kanji": "ガンジー",
+    "hiragana": "",
+    "en": "",
+    "vi": "Gandhi: Mohandas Karamchand Gandhi, nhà chính trị và tư tưởng của Ấn Độ. 1869-1948.",
+    "type": "other",
+    "explanation": {
+      "content": [
+        "Biểu thức hoặc từ đặc biệt",
+        "Ví dụ: ガンジー"
+      ]
+    }
+  },
+  {
+    "id": "vocab95",
+    "kanji": "もうたくとう",
+    "hiragana": "",
+    "en": "",
+    "vi": "Mao Trạch Đông: Nhà chính trị và tư tưởng của Trung Quốc, người sáng lập ra nước Cộng hòa nhân dân Trung Hoa. 1893-1976.",
+    "type": "other",
+    "explanation": {
+      "content": [
+        "Biểu thức hoặc từ đặc biệt",
+        "Ví dụ: もうたくとう"
+      ]
+    }
+  },
+  {
+    "id": "vocab96",
+    "kanji": "くろさわあきら",
+    "hiragana": "",
+    "en": "",
+    "vi": "Akira Kurosawa: Đạo diễn phim, nổi tiếng với phim: \"Bảy hiệp sĩ Samurai\" 1910-1998.",
+    "type": "other",
+    "explanation": {
+      "content": [
+        "Biểu thức hoặc từ đặc biệt",
+        "Ví dụ: くろさわあきら"
+      ]
+    }
+  },
+  {
+    "id": "vocab97",
+    "kanji": "いのうえだいすけ",
+    "hiragana": "",
+    "en": "",
+    "vi": "Daisuke Inoue: Người phát minh ra karaoke. 1949-.",
+    "type": "other",
+    "explanation": {
+      "content": [
+        "Biểu thức hoặc từ đặc biệt",
+        "Ví dụ: いのうえだいすけ"
+      ]
+    }
+  },
+  {
+    "id": "vocab98",
+    "kanji": "８ジューク",
+    "hiragana": "",
+    "en": "",
+    "vi": "8-track jukebox: Thiết bị karaoke đầu tiên, được phát minh bởi Daisuke Inoue vào năm 1971",
+    "type": "other",
+    "explanation": {
+      "content": [
+        "Biểu thức hoặc từ đặc biệt",
+        "Ví dụ: ８ジューク"
+      ]
+    }
+  },
+  {
+    "id": "vocab99",
+    "kanji": "まがるストロー",
+    "hiragana": "",
+    "en": "",
+    "vi": "ống hút gập cổ: Được phát minh và đăng ký bản quyền sáng chế bởi Takao Sakata sau khi ông chứng kiến một người bạn đang trị bệnh trong bệnh viện gặp khó khăn khi uống bằng một cái ống hút thẳng.",
+    "type": "other",
+    "explanation": {
+      "content": [
+        "Biểu thức hoặc từ đặc biệt",
+        "Ví dụ: まがるストロー"
+      ]
+    }
+  },
+  {
+    "id": "vocab100",
+    "kanji": "プルトップリング",
+    "hiragana": "",
+    "en": "",
+    "vi": "cái khoen trên lon, đồ hộp: Cái móc có hình chiếc nhẫn để mở nắp lon, đồ hộp.",
+    "type": "other",
+    "explanation": {
+      "content": [
+        "Biểu thức hoặc từ đặc biệt",
+        "Ví dụ: プルトップリング"
+      ]
+    }
+  }
+]

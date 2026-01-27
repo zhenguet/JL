@@ -1,0 +1,319 @@
+[
+  {
+    "id": "to-iu-hearsay",
+    "title": "という",
+    "description": "「Xという」biểu thị thông tin nghe được (truyền đạt lại nội dung X mà người khác nói). Nó được dùng trong văn viết.",
+    "structure": "V thể thông thường + という",
+    "examples": [
+      {
+        "japanese": "日本で最も古い大学が京都にあるという。",
+        "romaji": "Nihon de mottomo furui daigaku ga Kyouto ni aru to iu.",
+        "vietnamese": "Nghe nói trường đại học lâu đời nhất ở Nhật Bản nằm ở Kyoto."
+      },
+      {
+        "japanese": "LED電球は省エネ性能や寿命の長さで優れている。普通の電球の８分の１から５分の１の電気代で済み、寿命は４０倍あるという。",
+        "romaji": "LED denkyuu wa shou ene seinou ya jumyou no nagasa de sugurete iru. Futsuu no denkyuu no hachibun no ichi kara gobun no ichi no denki dai de sumi, jumyou wa yonjuu bai aru to iu.",
+        "vietnamese": "Bóng đèn LED ưu việt bởi tính năng tiết kiệm năng lượng và tuổi thọ lâu. Nghe nói tiền điện khi sử dụng nó sẽ chỉ bằng 1/8 đến 1/5 của bóng đèn thông thường và tuổi thọ gấp 40 lần."
+      },
+      {
+        "japanese": "昔は砂糖は薬として用いられたこともあるという。",
+        "romaji": "Mukashi wa satou wa kusuri to shite mochiirareru koto mo aru to iu.",
+        "vietnamese": "Nghe nói ngày xưa đường được sử dụng như một loại thuốc."
+      }
+    ],
+    "notes": [
+      "Biểu thị thông tin nghe được, truyền đạt lại nội dung mà người khác nói",
+      "Được dùng trong văn viết",
+      "Có thể thay thế bằng そうだ trong văn nói",
+      "Khác với と考えられる: という là nghe được, と考えられる là suy luận"
+    ]
+  },
+  {
+    "id": "tabi-ni",
+    "title": "たびに",
+    "description": "「～たびに」có nghĩa là「～と、いつもそのときには」.",
+    "structure": "Vる + たびに / Nの + たびに",
+    "examples": [
+      {
+        "japanese": "隣のうちのお嬢さんは会うたびにきれいになっている。",
+        "romaji": "Tonari no uchi no ojousan wa au tabi ni kirei ni natte iru.",
+        "vietnamese": "Cô con gái của nhà bên cứ mỗi lần gặp là thấy đẹp lên."
+      },
+      {
+        "japanese": "欧米では転職するたびに給料が上がるというが、日本では必ずしもそうではない。",
+        "romaji": "Oubei de wa tenshoku suru tabi ni kyuuryou ga agaru to iu ga, Nihon de wa kanarazu shimo sou dewa nai.",
+        "vietnamese": "Ở các nước Âu Mỹ cứ mỗi lần chuyển việc là lương tăng lên, còn ở Nhật Bản thì không hẳn như thế."
+      },
+      {
+        "japanese": "大切な連絡を待っていたので、休み時間のたびにメールをチェックした。",
+        "romaji": "Taisetsu na renraku o matte ita node, yasumi jikan no tabi ni meeru o chekku shita.",
+        "vietnamese": "Vì đang lúc chờ một liên lạc quan trọng nên mỗi khi vào giờ nghỉ tôi đã kiểm tra email."
+      },
+      {
+        "japanese": "このアパートは電車が通るたびに揺れる。",
+        "romaji": "Kono apaato wa densha ga tooru tabi ni yureru.",
+        "vietnamese": "Căn hộ này rung chuyển mỗi khi tàu điện chạy qua."
+      }
+    ],
+    "notes": [
+      "Có nghĩa là「～と、いつもそのときには」",
+      "Khi kết hợp danh từ thì trở thành「～のたびに」",
+      "Biểu thị hành động lặp lại mỗi khi có điều kiện",
+      "Khác với たびたび: たびに là mỗi lần, たびたび là thường xuyên"
+    ]
+  },
+  {
+    "id": "ni-kansuru",
+    "title": "に関する",
+    "description": "「～に関して」biểu thị nội dung của「～」. Có nghĩa gần giống với「～について」nhưng mang tính văn viết hơn「～について」.",
+    "structure": "N + に関する / N + に関して / N + に関しての",
+    "examples": [
+      {
+        "japanese": "今回の講演会に関してご意見のある方はこの紙に書いて出口の箱にお入れください。",
+        "romaji": "Konkai no kouenkai ni kanshite go iken no aru kata wa kono kami ni kaite deguchi no hako ni oire kudasai.",
+        "vietnamese": "Những ai có ý kiến đánh giá về buổi thuyết giảng lần này thì xin mời hãy viết vào tờ giấy này và để vào trong hộp ở cửa ra."
+      },
+      {
+        "japanese": "このレポートでは、日本経済の現状に関して説明する。",
+        "romaji": "Kono repooto de wa, Nihon keizai no genjou ni kanshite setsumei suru.",
+        "vietnamese": "Trong báo cáo này, tôi sẽ nói về tình trạng hiện nay của nền kinh tế Nhật Bản."
+      },
+      {
+        "japanese": "東京で環境問題に関する会議が開かれた。",
+        "romaji": "Toukyou de kankyou mondai ni kansuru kaigi ga hirakareta.",
+        "vietnamese": "Hội nghị về vấn đề môi trường đã được tổ chức ở Tokyo."
+      },
+      {
+        "japanese": "合格・不合格に関する電話でのお問い合わせはすべてお断りしています。",
+        "romaji": "Goukaku・fugoukaku ni kansuru denwa de no o toiawase wa subete okotowari shite imasu.",
+        "vietnamese": "Việc hỏi về vấn đề đậu hay không đậu thông qua điện thoại, tất cả đều bị từ chối."
+      }
+    ],
+    "notes": [
+      "Biểu thị nội dung của「～」",
+      "Có nghĩa gần giống với「～について」nhưng mang tính văn viết hơn",
+      "Trường hợp làm bổ ngữ cho danh từ thì trở thành「～に関する」、「～に関しての」",
+      "Trong văn nói thường dùng「～について」"
+    ]
+  },
+  {
+    "id": "wake-dewa-nai",
+    "title": "わけではない",
+    "description": "「・・・わけではない」dùng để phủ định nhận định 「・・・」mà từ mạch văn từ tình huống đó thường được xem là như thế hoặc dễ suy ra như thế.",
+    "structure": "V／いA／なA (thể thông thường)／N (ーだ→な) + わけではない",
+    "examples": [
+      {
+        "japanese": "この店は人気があるが、必ずしも毎日大勢の客が入るわけではない。",
+        "romaji": "Kono mise wa ninki ga aru ga, kanarazu shimo mainichi oozei no kyaku ga hairu wake dewa nai.",
+        "vietnamese": "Cửa hàng này được chuộng nhưng không có nghĩa là hàng ngày đều đông khách."
+      },
+      {
+        "japanese": "宿題はたくさんあるが、今日中に全部しなければならないわけではない。",
+        "romaji": "Shukudai wa takusan aru ga, kyouchuu ni zenbu shinakereba naranai wake dewa nai.",
+        "vietnamese": "Có nhiều bài tập về nhà nhưng không có nghĩa là phải làm hết trong hôm nay."
+      },
+      {
+        "japanese": "日本人がみんな親切なわけではなりません。",
+        "romaji": "Nihonjin ga minna shinsetsu na wake dewa narimasen.",
+        "vietnamese": "Người Nhật không phải tất cả đều thân thiện."
+      },
+      {
+        "japanese": "この病気に関する研究は少ないが、全くないわけではない。",
+        "romaji": "Kono byouki ni kansuru kenkyuu wa sukunai ga, mattaku nai wake dewa nai.",
+        "vietnamese": "Các nghiên cứu về căn bệnh này còn ít nhưng không có nghĩa là hoàn toàn không có."
+      },
+      {
+        "japanese": "行きたくないわけじゃないが、行きたいわけでもない。",
+        "romaji": "Ikitakunai wake janai ga, ikitai wake demo nai.",
+        "vietnamese": "Không hẳn là không muốn đi nhưng cũng không hẳn là muốn đi."
+      }
+    ],
+    "notes": [
+      "Dùng để phủ định nhận định mà từ mạch văn từ tình huống đó thường được xem là như thế",
+      "Thường hay đi kèm với các phó từ có ý nghĩa toàn thể/hoàn thành như「みんな」「いつも」「必ずしも」「全く」",
+      "Có thể dùng để biểu đạt việc không thể khẳng định hẳn là「・・・」hay là「・・・ではない」",
+      "Trong văn nói có thể dùng「わけじゃない」"
+    ]
+  },
+  {
+    "id": "no-dewa-nai-ka",
+    "title": "のではないか",
+    "description": "「・・・のではないか」biểu đạt bằng「・・・」được nhận định là có lẽ đúng, thế nhưng độ xác thực của「・・・」thì không chắc chắn.",
+    "structure": "V／いA／なA (thể thông thường)／N (ーだ→な) + のではないか",
+    "examples": [
+      {
+        "japanese": "鈴木氏は今度の選挙に出るのではないか。",
+        "romaji": "Suzuki-shi wa kondo no senkyo ni deru no dewa nai ka.",
+        "vietnamese": "Ông Suzuki có lẽ sẽ tranh cử lần này."
+      },
+      {
+        "japanese": "新聞によると、今度の選挙に鈴木氏が出るのではないかとのことだ。",
+        "romaji": "Shinbun ni yoru to, kondo no senkyo ni Suzuki-shi ga deru no dewa nai ka to no koto da.",
+        "vietnamese": "Theo báo chí đưa tin thì có lẽ ông Suzuki sẽ tranh cử lần này."
+      },
+      {
+        "japanese": "留学している息子から何の連絡もない。何かあったのではないか。",
+        "romaji": "Ryuugaku shite iru musuko kara nan no renraku mo nai. Nani ka atta no dewa nai ka.",
+        "vietnamese": "Chẳng có liên lạc gì từ đứa con trai đang đi du học nên tôi lo lắng không biết có gì xảy ra với nó không."
+      },
+      {
+        "japanese": "様々な意見が出て会議が混乱しているので、調整が必要なのではないかと思う。",
+        "romaji": "Samazama na iken ga dete kaigi ga konran shite iru node, chousei ga hitsuyou na no dewa nai ka to omou.",
+        "vietnamese": "Vì có nhiều ý kiến đưa ra làm cuộc họp trở nên hỗn loạn. Nên tôi nghĩ rằng có lẽ cần phải có sự điều chỉnh."
+      }
+    ],
+    "notes": [
+      "Biểu đạt bằng「・・・」được nhận định là có lẽ đúng, thế nhưng độ xác thực thì không chắc chắn",
+      "Cách nói này đi kèm「と思う」、「と思われる」、「とのことだ」và là cách nói để bày tỏ suy nghĩ của người nói một cách khiêm tốn",
+      "Thể hiện sự phỏng đoán, suy luận của người nói",
+      "Trong văn nói có thể dùng「んじゃないか」"
+    ]
+  },
+  {
+    "id": "no-da",
+    "title": "のだ",
+    "description": "「・・・のだ」là cách nói dùng để nói lại nội dung của câu trước theo một cách diễn đạt khác.",
+    "structure": "V／いA／なA (thể thông thường)／N (ーだ→な) + のだ",
+    "examples": [
+      {
+        "japanese": "彼はまだお酒が飲めない年齢だ。未成年なのだ。",
+        "romaji": "Kare wa mada osake ga nomenai nenrei da. Miseinen na no da.",
+        "vietnamese": "Cậu ấy vẫn chưa đến tuổi uống rượu. Tức là cậu ấy còn vị thành niên."
+      },
+      {
+        "japanese": "父は私が３歳の時に亡くなりました。母が一人でを育ててくれたのです。",
+        "romaji": "Chichi wa watashi ga san sai no toki ni nakunarimashita. Haha ga hitori de o sodatete kureta no desu.",
+        "vietnamese": "Bố tôi mất năm tôi 3 tuổi. Có nghĩa là mẹ đã nuôi tôi một mình."
+      },
+      {
+        "japanese": "来週は田中さんが当番だったんですけど、私が来ます。代わりに再来週は田中さんが来ます。",
+        "romaji": "Raishuu wa Tanaka-san ga touban datta n desu kedo, watashi ga kimasu. Kawari ni saraishuu wa Tanaka-san ga kimasu.",
+        "vietnamese": "Tuần sau là phiên của anh Tanaka nhưng tôi sẽ đến. Đổi lại, tuần sau nữa anh Tanaka sẽ đến."
+      },
+      {
+        "japanese": "１５人の受験生のうち１３人が不合格だった。つまり、２人しか合格しなかったのである。",
+        "romaji": "Juu go nin no jukensei no uchi juu san nin ga fugoukaku datta. Tsumari, futari shika goukaku shinakatta no de aru.",
+        "vietnamese": "13 trong tổng số 15 thí sinh dự thi không đỗ. Tức là chỉ có 2 người đỗ."
+      },
+      {
+        "japanese": "鈴木さんはピアニストで、奥さんは歌手だ。二人の子供もそれぞれ楽器をならっている。一言でいえば、鈴木家は音楽一家なのだ。",
+        "romaji": "Suzuki-san wa pianisuto de, okusan wa kashu da. Futari no kodomo mo sorezore gakki o naratte iru. Hitokoto de ieba, Suzuki-ke wa ongaku ikka na no da.",
+        "vietnamese": "Ông Suzuki là nghệ sĩ dương cầm, vợ ông ấy là ca sĩ, hai người con cũng đều học nhạc cụ. Nói tóm lại, gia đình Suzuki là gia đình âm nhạc."
+      }
+    ],
+    "notes": [
+      "Dùng để nói lại nội dung của câu trước theo một cách diễn đạt khác",
+      "Trong văn nói thì trở thành「んです」",
+      "「のだ」đi cùng「つまり」、「私が言いたいのは」、「一言でいえば」、「言い換えれば」thành cặp để nói lại theo cách khác nội dung đã trình bày ở trước",
+      "Dùng để giải thích, làm rõ ý nghĩa của câu trước"
+    ]
+  },
+  {
+    "id": "hodo-no-mono-ja-nai",
+    "title": "ほどのものじゃありません",
+    "description": "「・・・ほどの｛もの／こと｝じゃない」biểu thị rằng đối tượng (sự việc) nói tới không đạt đến mức độ như「・・・」. Trong văn nói còn có hình thức nói「・・・ほどのもんじゃない」.",
+    "structure": "V／いA／なA (thể thông thường)／N + という + ほどのものじゃない",
+    "examples": [
+      {
+        "japanese": "確かに優勝はしましたが、国民栄誉賞をいただくほどのも（ことじ）じゃありません。",
+        "romaji": "Tashika ni yuushou wa shimashita ga, kokumin eiyo shou o itadaku hodo no mo (kotoshiji) ja arimasen.",
+        "vietnamese": "Thì hẳn là tôi đã giành chiến thắng nhưng nó không đến mức nhận giải thưởng danh dự nhân dân."
+      },
+      {
+        "japanese": "狭い庭なんですよ。庭と言えるほどのものじゃありません。",
+        "romaji": "Semai niwa nan desu yo. Niwa to ieru hodo no mono ja arimasen.",
+        "vietnamese": "Anh biết đấy, nó là khoảnh sân hẹp thôi. Cũng chẳng đủ lớn để có thể gọi là sân."
+      },
+      {
+        "japanese": "朝食というほどのものじゃないですけど、バナナを食べました。",
+        "romaji": "Choushoku to iu hodo no mono ja nai desu kedo, banana o tabemashita.",
+        "vietnamese": "Chẳng đến mức để được gọi là bữa sáng nhưng tôi đã ăn một quả chuối rồi."
+      },
+      {
+        "japanese": "風邪で熱があったが、会社を休むほどのものではなかった。",
+        "romaji": "Kaze de netsu ga atta ga, kaisha o yasumu hodo no mono dewa nakatta.",
+        "vietnamese": "Tôi bị cảm và sốt, nhưng không đến mức nghỉ làm."
+      }
+    ],
+    "notes": [
+      "Biểu thị rằng đối tượng (sự việc) nói tới không đạt đến mức độ như「・・・」",
+      "Trong văn nói còn có hình thức nói「・・・ほどのもんじゃない」",
+      "Trường hợp kết hợp với danh từ và gốc từ của tính từ đuôi な thì phải thêm「～という」、「～って」",
+      "Dùng để khiêm tốn, giảm nhẹ mức độ của sự việc"
+    ]
+  },
+  {
+    "id": "dake-ja-naku",
+    "title": "だけじゃなく",
+    "description": "「XだけでなくY」biểu thị việc thêm Y vào X/ngoài X có thêm Y.",
+    "structure": "N／V／A + だけでなく",
+    "examples": [
+      {
+        "japanese": "この店はパンを売るだけじゃなくて、パンの作り方教室も開いている。",
+        "romaji": "Kono mise wa pan o uru dake janakute, pan no tsukurikata kyoushitsu mo hiraite iru.",
+        "vietnamese": "Cửa hàng này không chỉ bán bánh mì mà còn mở lớp dạy cách làm mì."
+      },
+      {
+        "japanese": "ボランティア活動は相手のためだけでなく、自分のためにもなることが分かった。",
+        "romaji": "Borantia katsudou wa aite no tame dake de naku, jibun no tame ni mo naru koto ga wakatta.",
+        "vietnamese": "Tôi đã hiểu ra rằng hoạt động tình nguyện không chỉ là vì người khác mà nó còn là vì chính mình."
+      },
+      {
+        "japanese": "車内で結核の患者が出たので、本人だけでなく、周りの人まで検査を受けなければならない。",
+        "romaji": "Shanai de kekkaku no kanja ga deta node, honnin dake de naku, mawari no hito made kensa o ukenakereba naranai.",
+        "vietnamese": "Vì trong công ty đã có người nhiễm lao nên không chỉ bản thân người đó mà cả những người xung quanh đều phải xét nghiệm."
+      },
+      {
+        "japanese": "彼は同僚からだけでなく、上司からも信頼されている。",
+        "romaji": "Kare wa douryou kara dake de naku, joushi kara mo shinrai sarete iru.",
+        "vietnamese": "Anh ấy không chỉ được đồng nghiệp mà được cả cấp trên tin tưởng."
+      }
+    ],
+    "notes": [
+      "Biểu thị việc thêm Y vào X/ngoài X có thêm Y",
+      "Có thể dùng「だけでなく」hoặc「だけじゃなく」",
+      "Thường đi kèm với「も」ở vế sau",
+      "Có thể dùng「だけでなく、～も」hoặc「だけでなく、～まで」"
+    ]
+  },
+  {
+    "id": "to-ieba",
+    "title": "といえば",
+    "description": "「N」と言えば「N2」biểu thị việc người nói liên hệ 「N1」ở vế câu trước với 「N2」nếu ở phía sau. Có trong trường hợp liên hệ với những ví dụ điển hình như ở ①, cũng có trường hợp liên hệ với những ví dụ mà người nghe ít nghĩ tới như ở ②.",
+    "structure": "N + といえば",
+    "examples": [
+      {
+        "japanese": "スイスと言えば、時計やチョコレートなどが有名ですね。",
+        "romaji": "Suisu to ieba, tokei ya chokoreeto nado ga yuumei desu ne.",
+        "vietnamese": "Nói đến Thụy Sĩ thì đồng hồ và sô cô la v.v. là những thứ nổi tiếng nhỉ."
+      },
+      {
+        "japanese": "日本では半内・豚肉・山国が一般的だが、モンゴルでは肉と言えば羊の肉だそうだ。",
+        "romaji": "Nihon de wa hannai・butaniku・yamaguni ga ippanteki da ga, Mongoru de wa niku to ieba hitsuji no niku da sou da.",
+        "vietnamese": "Ở Nhật Bản thì bán thịt bò, thịt lợn, thịt gà là những loại thịt phổ biến, còn ở Mông Cổ nói đến thịt thì nghe nói thịt cừu là loại thịt phổ biến."
+      },
+      {
+        "japanese": "教育というと、学校の仕事だと思うかもしれないが、そうではない。",
+        "romaji": "Kyouiku to iu to, gakkou no shigoto da to omou kamoshirenai ga, sou dewa nai.",
+        "vietnamese": "Khi nói đến giáo dục thì có thể anh cho đấy là công việc của nhà trường, nhưng không phải vậy."
+      },
+      {
+        "japanese": "日本と言ったら、若い人はアニメ、中年以上の人は車というだろう。",
+        "romaji": "Nihon to ittara, wakai hito wa anime, chuunen ijou no hito wa kuruma to iu darou.",
+        "vietnamese": "Nói đến Nhật Bản thì có lẽ nhiều người sẽ nói rằng người trẻ tuổi mê phim hoạt hình, người ở tuổi trung niên trở lên mê ô tô."
+      },
+      {
+        "japanese": "ストレス解消と言えば、やっぱり運動ですよ。",
+        "romaji": "Sutoresu kaishou to ieba, yappari undou desu yo.",
+        "vietnamese": "Nói đến việc giảm căng thẳng thì rõ ràng là chỉ có cách tập thể dục ấy nhỉ."
+      }
+    ],
+    "notes": [
+      "Biểu thị việc người nói liên hệ 「N1」ở vế câu trước với 「N2」nếu ở phía sau",
+      "Có trong trường hợp liên hệ với những ví dụ điển hình, cũng có trường hợp liên hệ với những ví dụ mà người nghe ít nghĩ tới",
+      "「～と言えば」Cũng có lúc trở thành「というと、」「～と言ったら」",
+      "Vì N2 là thông tin mà người nghe không biết nên cách nói này được dùng với sắc thái nghĩa「注意して聞くように」",
+      "Dùng để chuyển chủ đề, mở rộng cuộc hội thoại"
+    ]
+  }
+]

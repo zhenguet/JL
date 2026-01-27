@@ -49,6 +49,30 @@ import lesson47 from './lesson/lesson47.json'
 import lesson48 from './lesson/lesson48.json'
 import lesson49 from './lesson/lesson49.json'
 import lesson50 from './lesson/lesson50.json'
+import lesson51 from './lesson/lesson51.json'
+import lesson52 from './lesson/lesson52.json'
+import lesson53 from './lesson/lesson53.json'
+import lesson54 from './lesson/lesson54.json'
+import lesson55 from './lesson/lesson55.json'
+import lesson56 from './lesson/lesson56.json'
+import lesson57 from './lesson/lesson57.json'
+import lesson58 from './lesson/lesson58.json'
+import lesson59 from './lesson/lesson59.json'
+import lesson60 from './lesson/lesson60.json'
+import lesson61 from './lesson/lesson61.json'
+import lesson62 from './lesson/lesson62.json'
+import lesson63 from './lesson/lesson63.json'
+import lesson64 from './lesson/lesson64.json'
+import lesson65 from './lesson/lesson65.json'
+import lesson66 from './lesson/lesson66.json'
+import lesson67 from './lesson/lesson67.json'
+import lesson68 from './lesson/lesson68.json'
+import lesson69 from './lesson/lesson69.json'
+import lesson70 from './lesson/lesson70.json'
+import lesson71 from './lesson/lesson71.json'
+import lesson72 from './lesson/lesson72.json'
+import lesson73 from './lesson/lesson73.json'
+import lesson74 from './lesson/lesson74.json'
 
 export const vocabularyData: VocabularyData = {
   1: lesson1 as VocabularyWord[],
@@ -101,5 +125,29 @@ export const vocabularyData: VocabularyData = {
   48: lesson48 as VocabularyWord[],
   49: lesson49 as VocabularyWord[],
   50: lesson50 as VocabularyWord[],
+  51: lesson51 as VocabularyWord[],
+  52: lesson52 as VocabularyWord[],
+  53: lesson53 as VocabularyWord[],
+  54: lesson54 as VocabularyWord[],
+  55: lesson55 as VocabularyWord[],
+  56: lesson56 as VocabularyWord[],
+  57: lesson57 as VocabularyWord[],
+  58: lesson58 as VocabularyWord[],
+  59: lesson59 as VocabularyWord[],
+  60: lesson60 as VocabularyWord[],
+  61: lesson61 as VocabularyWord[],
+  62: lesson62 as VocabularyWord[],
+  63: lesson63 as VocabularyWord[],
+  64: lesson64 as VocabularyWord[],
+  65: lesson65 as VocabularyWord[],
+  66: lesson66 as VocabularyWord[],
+  67: lesson67 as VocabularyWord[],
+  68: lesson68 as VocabularyWord[],
+  69: lesson69 as VocabularyWord[],
+  70: lesson70 as VocabularyWord[],
+  71: lesson71 as VocabularyWord[],
+  72: lesson72 as VocabularyWord[],
+  73: lesson73 as VocabularyWord[],
+  74: lesson74 as VocabularyWord[],
 }
 

@@ -1,0 +1,267 @@
+[
+  {
+    "id": "ni-oyobu",
+    "title": "に及ぶ",
+    "description": "「～に及び」biểu đạt ý nghĩa \"sự việc được diễn đạt bởi chủ ngữ của câu đó lan đến tận「～」\".",
+    "structure": "N + に及ぶ",
+    "examples": [
+      {
+        "japanese": "害虫による松の被害は県内全域に及んであり、元の状態に回復するにはかなりの時間がかかるだろう。",
+        "romaji": "Gaichuu ni yoru matsu no higai wa kennai zen'iki ni oyobi nde ari, moto no joutai ni kaifuku suru ni wa kanari no jikan ga kakaru darou.",
+        "vietnamese": "Những thiệt hại đối với cây thông do sâu hại gây ra đã lan ra toàn bộ các khu vực trong tỉnh, và có lẽ phải mất khá nhiều thời gian để phục hồi lại như trạng thái cũ."
+      },
+      {
+        "japanese": "２００４年の大津波の被害はインドネシアからインドの海岸にまで及んだ。",
+        "romaji": "2004-nen no ootsunami no higai wa Indoneshia kara Indo no kaigan ni made oyonda.",
+        "vietnamese": "Thiệt hại do trận sóng thần lớn vào năm 2004 đã lan rộng từ Indonesia đến vùng bờ biển ấn độ."
+      },
+      {
+        "japanese": "議論は国内問題にとどまらず国際問題にまで及び、今回の会議は非常に実りのあるものとなった。",
+        "romaji": "Giron wa kokunai mondai ni todomarazu kokusai mondai ni made oyobi, konkai no kaigi wa hijou ni minori no aru mono to natta.",
+        "vietnamese": "Các tranh luận đã không dừng lại ở các vấn đề trong nước mà mở rộng sang đến các vấn đề quốc tế, góp phần làm cho hội nghị lần này đạt được nhiều thành quả."
+      }
+    ],
+    "notes": [
+      "Biểu đạt ý nghĩa sự việc lan đến tận một phạm vi nào đó",
+      "Thường dùng với các danh từ chỉ phạm vi, khu vực",
+      "Có thể dùng với まで để nhấn mạnh phạm vi lan rộng"
+    ]
+  },
+  {
+    "id": "kanousei-ga-aru",
+    "title": "可能性がある",
+    "description": "Cách nói này biểu đạt ý nghĩa rằng「『・・・』が起きる可能性がある」.",
+    "structure": "V + 可能性がある",
+    "examples": [
+      {
+        "japanese": "あの学生は基礎的な学力があるし、努力家だから、これから大きく伸びる可能性がある。",
+        "romaji": "Ano gakusei wa kisoteki na gakuryoku ga aru shi, doryokuka dakara, kore kara ookiku nobiru kanousei ga aru.",
+        "vietnamese": "Sinh viên đó vừa có học lực cơ bản vừa là một người rất nỗ lực nên có khả năng sau này còn tiến xa."
+      },
+      {
+        "japanese": "携帯電話は非常時の連絡に便利だが、場所によってはかからなくなる可能性もある。",
+        "romaji": "Keitai denwa wa hijouji no renraku ni benri da ga, basho ni yotte wa kakaranaku naru kanousei mo aru.",
+        "vietnamese": "Điện thoại di động rất tiện lợi trong tình huống liên lạc khẩn cấp nhưng cũng có khả năng là không gọi được ở một số địa điểm nhất định."
+      }
+    ],
+    "notes": [
+      "Biểu đạt khả năng xảy ra một sự việc nào đó",
+      "Thường dùng để nói về khả năng trong tương lai",
+      "Có thể dùng với も để nhấn mạnh khả năng"
+    ]
+  },
+  {
+    "id": "kono",
+    "title": "この",
+    "description": "Khi chỉ từ ngữ hoặc câu văn đã xuất hiện ở phía trước thì sẽ dùng「この」chứ không dùng「その」. Danh từ đứng sau「この」là các danh từ vốn có chứa nội dung và có thể được dùng với cách nói「～という danh từ (N)」như là「言葉、表現、言い方、ニュース、知らせ」.",
+    "structure": "この + N",
+    "examples": [
+      {
+        "japanese": "「生きるべきか死ぬべきかそれが問題だ」。この言葉はシェークスピアの『ハムレット」に出てくるものだ」",
+        "romaji": "\"Ikiru beki ka shinu beki ka sore ga mondai da\". Kono kotoba wa Sheekusupia no 'Hamuretto' ni dete kuru mono da.",
+        "vietnamese": "\"Tồn tại hay không tồn tại, đó là vấn đề\". Câu nói này xuất hiện trong các tác phẩm \"Hamlet\" của Shakespeare."
+      },
+      {
+        "japanese": "「本店は来月いっぱいで閉店します」。この発表を聞いた時、大変驚いた。",
+        "romaji": "\"Honten wa raigetsu ippai de heiten shimasu\". Kono happyou o kiita toki, taihen odorokita.",
+        "vietnamese": "\"Văn phòng chính sẽ đóng cửa vào cuối tháng sau\". Khi nghe lời thông báo này tôi đã rất ngạc nhiên."
+      },
+      {
+        "japanese": "「ワールドカップ２０１０でスペインが優勝した」。このニュースを私は病院で聞いた。",
+        "romaji": "\"Waarudo Kappu 2010 de Supein ga yuushou shita\". Kono nyuusu o watashi wa byouin de kiita.",
+        "vietnamese": "\"Tây Ban Nha đã vô địch World Cup 2010\". Tôi đã nghe tin này khi đang ở bệnh viện."
+      }
+    ],
+    "notes": [
+      "Dùng để chỉ từ ngữ hoặc câu văn đã xuất hiện ở phía trước",
+      "Không dùng「その」trong trường hợp này",
+      "Danh từ đứng sau thường là 言葉、表現、言い方、ニュース、知らせ"
+    ]
+  },
+  {
+    "id": "ue-de",
+    "title": "上で",
+    "description": "(1) Trường hợp với cấu trúc là 「thể nguyên dạng + 上で」 thì nó được dùng để diễn đạt điều cần thiết hoặc điều quan trọng khi thực hiện một hành vi nào đó. (2) Trường hợp với cấu trúc là「V thể た＋上で」thì nó được dùng để diễn đạt hành động sẽ thực hiện tiếp theo sau khi đã thực hiện một hành vi nào đó.",
+    "structure": "V thể nguyên dạng / V thể た + 上で",
+    "examples": [
+      {
+        "japanese": "お見舞いの品を選ぶうえで、気を付けなければならないことはどんなことですか。",
+        "romaji": "Omimai no shina o erabu ue de, ki o tsukenakereba naranai koto wa donna koto desu ka.",
+        "vietnamese": "Tôi phải chú ý điều gì khi chọn quà đi thăm ốm?"
+      },
+      {
+        "japanese": "今回の災害は今後の防災を考える上で、非常に重要なものとなるに違いない。",
+        "romaji": "Konkai no saigai wa kongo no bousai o kangaeru ue de, hijou ni juuyou na mono to naru ni chigai nai.",
+        "vietnamese": "Thảm họa lần này chắc chắn là yếu tố rất quan trọng để xem xét khi chúng ta tính toán các giải pháp phòng chống các thảm họa trong tương lai."
+      },
+      {
+        "japanese": "次回の授業には、この論文を読んだうえで参加してください。",
+        "romaji": "Jikai no jugyou ni wa, kono ronbun o yonda ue de sanka shite kudasai.",
+        "vietnamese": "Anh/chị hãy tham gia giờ học lần tới sau khi đã đọc luận văn này."
+      }
+    ],
+    "notes": [
+      "V thể nguyên dạng + 上で: diễn đạt điều cần thiết hoặc quan trọng khi thực hiện hành vi",
+      "V thể た + 上で: diễn đạt hành động sẽ thực hiện tiếp theo sau khi đã thực hiện hành vi trước đó",
+      "Thường dùng trong văn viết hoặc văn nói trang trọng"
+    ]
+  },
+  {
+    "id": "ni-tsurete",
+    "title": "につれて",
+    "description": "「～につれて・・・」biểu thị ý nghĩa rằng \" nếu sự thay đổi ở sự việc「～」tăng lên thì sự thay đổi ở「・・・」cũng tiến triển tương ứng\".",
+    "structure": "N / V thể nguyên dạng + につれて",
+    "examples": [
+      {
+        "japanese": "日本語が分かってくるにつれて、日本での生活が楽しくなった。",
+        "romaji": "Nihongo ga wakatte kuru ni tsurete, Nihon de no seikatsu ga tanoshiku natta.",
+        "vietnamese": "Khi tôi bắt đầu hiểu tiếng Nhật thì cuộc sống của tôi ở Nhật Bản trở nên thú vị hơn."
+      },
+      {
+        "japanese": "あのとき謝ったけれど、時間がたつにつれて、腹がたって来た。",
+        "romaji": "Ano toki ayamatta keredo, jikan ga tatsu ni tsurete, hara ga tatte kita.",
+        "vietnamese": "Lúc đó tôi đã xin lỗi, nhưng cùng với thời gian trôi qua thì tôi lại càng giận hơn."
+      },
+      {
+        "japanese": "子供の成長につれて、家族で過ごす時間が減ってきた。",
+        "romaji": "Kodomo no seichou ni tsurete, kazoku de sugosu jikan ga hette kita.",
+        "vietnamese": "Cùng với sự trưởng thành của con cái thì thời gian mà gia đình chúng tôi sinh hoạt cùng nhau đã giảm đi."
+      }
+    ],
+    "notes": [
+      "Biểu thị sự thay đổi tương ứng giữa hai sự việc",
+      "Khi sự việc trước thay đổi thì sự việc sau cũng thay đổi theo",
+      "Thường dùng với các danh từ hoặc động từ chỉ sự thay đổi"
+    ]
+  },
+  {
+    "id": "koto-ni",
+    "title": "ことに",
+    "description": "Cấu trúc「tính từ đuôi い／tính từ đuôi な ＋ ことに、～」biểu thị tình cảm/đánh giá của người nói/người viết đối với toàn bộ câu văn đó. Nó có thể được thay bằng cách nói「～ことはtính từ đuôi い／tính từ đuôi な（ことだ）」. Trường hợp là động từ thì cấu trúc này chỉ kết hợn hạn chế với một vài động từ như「困った」,「驚いた」,v.v...",
+    "structure": "Aい / Aな + ことに",
+    "examples": [
+      {
+        "japanese": "おもしろいことに、メキシコとエジプトは遠く離れているにもかかわらず、同じようなピラミッドが作られている。",
+        "romaji": "Omoshiroi koto ni, Mekishiko to Ejiputo wa tooku hanarete iru ni mo kakawarazu, onaji you na piramiddo ga tsukurarete iru.",
+        "vietnamese": "Điều thú vị là tuy Mê-hi-cô và Ai Cập ở cách xa nhau nhưng những kim tự tháp cùng kiểu lại được xây dựng ở cả hai nước."
+      },
+      {
+        "japanese": "残念なことに、オリンピックから野球がなくなった。",
+        "romaji": "Zannen na koto ni, Orinpikku kara yakyuu ga nakunatta.",
+        "vietnamese": "Điều đáng tiếc là bóng chày đã bị bỏ ra khỏi nội dung các môn thi đấu ở Olympic."
+      },
+      {
+        "japanese": "驚いたことに、４０年ぶりに訪ねた故郷の小学校がなくなっていた。",
+        "romaji": "Odoroita koto ni, 40-nen buri ni tazuneta kokyou no shougakkou ga nakunatte ita.",
+        "vietnamese": "Điều đáng ngạc nhiên là sau tròn 40 năm khi tôi ghé lại thăm trường tiểu học ở quê nhà thì nó đã không còn."
+      }
+    ],
+    "notes": [
+      "Biểu thị tình cảm/đánh giá của người nói/người viết",
+      "Có thể thay bằng「～ことはAい／Aな（ことだ）」",
+      "Với động từ chỉ dùng với một số động từ như 困った、驚いた"
+    ]
+  },
+  {
+    "id": "osore-ga-aru",
+    "title": "おそれがある",
+    "description": "「恐れがある」biểu thị ý nghĩa rằng \"có khả năng xảy ra điều không hay\". Khi bổ nghĩa cho danh từ thì có thể dùng một trong hai cách nói là「恐れが／のあるN」.",
+    "structure": "V + 恐れがある",
+    "examples": [
+      {
+        "japanese": "台風１３号は九州に上陸する恐れがあります。",
+        "romaji": "Taifuu 13-gou wa Kyuushuu ni jouriku suru osore ga arimasu.",
+        "vietnamese": "Có khả năng là cơn bão số 13 sẽ đổ bộ vào Kyushu."
+      },
+      {
+        "japanese": "やけどの恐れがありますから、この機械に絶対に触らないでください。",
+        "romaji": "Yakedo no osore ga arimasu kara, kono kikai ni zettai ni sawaranaide kudasai.",
+        "vietnamese": "Vì có nguy cơ bị bỏng nên tuyệt đối không sờ vào máy này."
+      }
+    ],
+    "notes": [
+      "Biểu thị khả năng xảy ra điều không hay",
+      "Khi bổ nghĩa cho danh từ có thể dùng「恐れが／のあるN」",
+      "Thường dùng trong văn viết hoặc văn nói trang trọng"
+    ]
+  },
+  {
+    "id": "made-mo-nai",
+    "title": "までもない",
+    "description": "「 V thể nguyên dạng ＋ までもない」biểu thị ý nghĩa rằng \"đã rõ ràng đến mức không cần phải làm「～」\".",
+    "structure": "V thể nguyên dạng + までもない",
+    "examples": [
+      {
+        "japanese": "彼女の返事は聞くまでもない。イエスに決まっている。",
+        "romaji": "Kanojo no henji wa kiku made mo nai. Iesu ni kimatte iru.",
+        "vietnamese": "Tôi không cần nghe sự trả lời của cô ấy. Chắc chắn là \"Yes\"."
+      },
+      {
+        "japanese": "彼の息子なら大丈夫だろう。会うまでもないさ。",
+        "romaji": "Kare no musuko nara daijoubu darou. Au made mo nai sa.",
+        "vietnamese": "Nếu đó là con trai của ông ấy thì tôi chắc là ổn. Không cần phải gặp cậu ấy nữa."
+      }
+    ],
+    "notes": [
+      "Biểu thị điều đã rõ ràng đến mức không cần phải làm",
+      "Thường dùng trong văn nói",
+      "Có thể dùng để thể hiện sự chắc chắn"
+    ]
+  },
+  {
+    "id": "wo-kikkake-ni",
+    "title": "をきっかけに／がきっかけで",
+    "description": "「～がきっかけで／～をきっかけに、V」biểu thị ý nghĩa rằng \"「～」là động cơ/nguyên cớ để từ đó làm V/trở thành N\".",
+    "structure": "N + をきっかけに / N + がきっかけで",
+    "examples": [
+      {
+        "japanese": "小学生の頃プラネタリウムを見たことがきっかけで、宇宙に興味を持つようになった。",
+        "romaji": "Shougakusei no koro puranetariumu o mita koto ga kikkake de, uchuu ni kyoumi o motsu you ni natta.",
+        "vietnamese": "Tôi trở nên có hứng thú với vũ trụ sau khi thăm quan nhà mô hình vũ trụ lúc còn nhỏ."
+      },
+      {
+        "japanese": "今回のビル火災をきっかけに、各階にスプリンクラーの設置が義務付けられた。",
+        "romaji": "Konkai no biru kasai o kikkake ni, kakkai ni supurinkuraa no secchi ga gimuzukerareta.",
+        "vietnamese": "Vụ hỏa hoạn ở toàn nhà lần này là nguyên cớ để việc lắp đặt hệ thống phun nước cứu hỏa ở các tầng được quy định."
+      },
+      {
+        "japanese": "通学の電車で彼女の落とし物を拾ってあげました。それをきっかけに話すようになり、今では、大切な親友の一人です。",
+        "romaji": "Tsuugaku no densha de kanojo no otoshimono o hirotte agemashita. Sore o kikkake ni hanasu you ni nari, ima de wa, taisetsu na shin'yuu no hitori desu.",
+        "vietnamese": "Tôi đã nhặt giúp cô ấy đồ đánh rơi trên tàu lúc đến trường. Từ cơ duyên đó chúng tôi đã nói chuyện với nhau và bây giờ cô ấy là một trong những người bạn tốt của tôi."
+      }
+    ],
+    "notes": [
+      "Biểu thị động cơ/nguyên cớ để từ đó làm một việc gì đó",
+      "Có thể dùng「をきっかけに」hoặc「がきっかけで」",
+      "Thường dùng để nói về sự thay đổi hoặc bắt đầu một việc gì đó"
+    ]
+  },
+  {
+    "id": "wo-hajime",
+    "title": "をはじめ",
+    "description": "「～をはじめ」chỉ thứ/cái/người đầu tiên khi liệt kê ra một vài thứ/cái/người.",
+    "structure": "N + をはじめ",
+    "examples": [
+      {
+        "japanese": "カラオケをはじめ、ジュード―、ニンジャなど、世界共通語になった日本語は数多くある。",
+        "romaji": "Karaoke o hajime, juudou, ninja nado, sekai kyoutsuugo ni natta Nihongo wa kazu ooku aru.",
+        "vietnamese": "Có nhiều từ trong tiếng Nhật như là \"karaoke\", rồi đến \"judo\", \"ninja\", v.v.. đã trở thành ngôn từ thông dụng trong ngôn ngữ các nước trên thế giới."
+      },
+      {
+        "japanese": "世界には、ナスカの地上絵をはじめ、ネッシー、バミューダ・トライアングルなどいまだ多くの謎が存在する。",
+        "romaji": "Sekai ni wa, Nasuka no chijou e o hajime, Nesshii, Bamyuuda Toraianguru nado imada ooku no nazo ga sonzai suru.",
+        "vietnamese": "Vẫn còn rất nhiều bí ẩn tồn tại trên thế giới, như là những đường Nazca, rồi Quái vật hồ Loch Ness, Vùng tam giác quỷ Bermuda,v.v.."
+      },
+      {
+        "japanese": "市長をはじめ、皆様のご協力で今日のこの日を迎えることができました。",
+        "romaji": "Shichou o hajime, minasama no go kyouryoku de kyou no kono hi o mukaeru koto ga dekimashita.",
+        "vietnamese": "Chúng tôi đã có thể đón được ngày hôm nay là nhờ vào sự hợp tác hỗ trợ của ngài thị trưởng và quý vị."
+      }
+    ],
+    "notes": [
+      "Chỉ thứ/cái/người đầu tiên khi liệt kê",
+      "Thường dùng để liệt kê nhiều thứ/cái/người",
+      "Có thể dùng với など để nhấn mạnh"
+    ]
+  }
+]

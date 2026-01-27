@@ -1,0 +1,362 @@
+[
+  {
+    "id": 1,
+    "question": "<b><ruby>尺八<rp>（</rp><rt>しゃくはち</rt><rp>）</rp></ruby></b> là nhạc cụ nào?",
+    "options": [
+      "đàn shamisen",
+      "sáo shakuhachi (sáo trúc)",
+      "trống taiko",
+      "đàn koto"
+    ],
+    "correctAnswer": 1,
+    "difficulty": 1
+  },
+  {
+    "id": 2,
+    "question": "<b><ruby>邦楽<rp>（</rp><rt>ほうがく</rt><rp>）</rp></ruby></b> có nghĩa là gì?",
+    "options": [
+      "nhạc phương Tây",
+      "nhạc rock",
+      "nhạc truyền thống của Nhật",
+      "nhạc dân gian Trung Quốc"
+    ],
+    "correctAnswer": 2,
+    "difficulty": 1
+  },
+  {
+    "id": 3,
+    "question": "<b><ruby>管楽器<rp>（</rp><rt>かんがっき</rt><rp>）</rp></ruby></b> chỉ:",
+    "options": [
+      "nhạc cụ dây",
+      "nhạc cụ gõ",
+      "nhạc cụ dùng hơi để thổi",
+      "nhạc cụ điện tử"
+    ],
+    "correctAnswer": 2,
+    "difficulty": 1
+  },
+  {
+    "id": 4,
+    "question": "<b><ruby>三味線<rp>（</rp><rt>しゃみせん</rt><rp>）</rp></ruby></b> là:",
+    "options": [
+      "đàn shamisen",
+      "đàn koto",
+      "đàn guitar",
+      "đàn piano"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 1
+  },
+  {
+    "id": 5,
+    "question": "<b><ruby>音色<rp>（</rp><rt>ねいろ</rt><rp>）</rp></ruby></b> có nghĩa là:",
+    "options": [
+      "cao độ",
+      "âm sắc",
+      "nhịp điệu",
+      "tiết tấu"
+    ],
+    "correctAnswer": 1,
+    "difficulty": 1
+  },
+  {
+    "id": 6,
+    "question": "<b><ruby>修行<rp>（</rp><rt>しゅぎょう</rt><rp>）</rp></ruby></b> trong văn cảnh nghệ thuật thường là:",
+    "options": [
+      "nghỉ ngơi",
+      "học, học nghề, rèn luyện",
+      "du lịch",
+      "giải trí"
+    ],
+    "correctAnswer": 1,
+    "difficulty": 1
+  },
+  {
+    "id": 7,
+    "question": "<b><ruby>愛好者<rp>（</rp><rt>あいこうしゃ</rt><rp>）</rp></ruby></b> chỉ:",
+    "options": [
+      "người phản đối",
+      "người hâm mộ, người yêu thích",
+      "người dạy",
+      "người biểu diễn chính"
+    ],
+    "correctAnswer": 1,
+    "difficulty": 1
+  },
+  {
+    "id": 8,
+    "question": "<b><ruby>急速<rp>（</rp><rt>きゅうそく</rt><rp>）</rp></ruby></b> có nghĩa gần nhất với:",
+    "options": [
+      "rất chậm",
+      "dần dần",
+      "nhanh chóng",
+      "tạm thời"
+    ],
+    "correctAnswer": 2,
+    "difficulty": 1
+  },
+  {
+    "id": 9,
+    "question": "<b><ruby>先入観<rp>（</rp><rt>せんにゅうかん</rt><rp>）</rp></ruby></b> là:",
+    "options": [
+      "cảm giác đầu tiên",
+      "thành kiến, định kiến sẵn có",
+      "trực giác",
+      "ý kiến chuyên gia"
+    ],
+    "correctAnswer": 1,
+    "difficulty": 1
+  },
+  {
+    "id": 10,
+    "question": "<b><ruby>武者修行<rp>（</rp><rt>むしゃしゅぎょう</rt><rp>）</rp></ruby></b> dùng để chỉ:",
+    "options": [
+      "đi tầm sư học đạo, đi khắp nơi rèn luyện",
+      "du lịch nghỉ dưỡng",
+      "chỉ học trong trường",
+      "tự học ở nhà"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 1
+  },
+  {
+    "id": 11,
+    "question": "Hãy chọn cách đọc đúng của từ sau: <b><ruby>邦楽<rp>（</rp><rt>　</rt><rp>）</rp></ruby></b>",
+    "options": [
+      "ほんがく",
+      "ほうがく",
+      "ぶんがく",
+      "ぼうがく"
+    ],
+    "correctAnswer": 1,
+    "difficulty": 2
+  },
+  {
+    "id": 12,
+    "question": "Hãy chọn cách đọc đúng của từ sau: <b><ruby>音色<rp>（</rp><rt>　</rt><rp>）</rp></ruby></b>",
+    "options": [
+      "おんいろ",
+      "おといろ",
+      "ねいろ",
+      "ねしょく"
+    ],
+    "correctAnswer": 2,
+    "difficulty": 2
+  },
+  {
+    "id": 13,
+    "question": "Hãy chọn cách đọc đúng của từ sau: <b><ruby>初演<rp>（</rp><rt>　</rt><rp>）</rp></ruby></b>",
+    "options": [
+      "しゅえん",
+      "しょえん",
+      "はつえん",
+      "はじめえん"
+    ],
+    "correctAnswer": 1,
+    "difficulty": 2
+  },
+  {
+    "id": 14,
+    "question": "Hãy chọn cách đọc đúng của từ sau: <b><ruby>貴重<rp>（</rp><rt>　</rt><rp>）</rp></ruby>[な]</b>",
+    "options": [
+      "きちょう",
+      "きじょう",
+      "きしょう",
+      "きじょう"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 2
+  },
+  {
+    "id": 15,
+    "question": "<b>Chọn câu dùng đúng mẫu 「N のもとで」:</b>",
+    "options": [
+      "<ruby>師匠<rp>（</rp><rt>ししょう</rt><rp>）</rp></ruby>のもとで、尺八の修行をした。",
+      "師匠にもとで、尺八の修行をした。",
+      "師匠と下で、尺八の修行をした。",
+      "師匠といっしょでもとで、尺八の修行をした。"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 2
+  },
+  {
+    "id": 16,
+    "question": "<b>Ý nghĩa đúng của 「N のもとで」 là gì?</b>",
+    "options": [
+      "dưới sự chỉ dạy/hướng dẫn của N",
+      "ở phía dưới vật thể N",
+      "bên cạnh N",
+      "thay cho N"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 2
+  },
+  {
+    "id": 17,
+    "question": "<b>Chọn câu dùng đúng mẫu 「と同時に」:</b>",
+    "options": [
+      "尺八は<ruby>癒<rp>（</rp><rt>いや</rt><rp>）</rp></ruby>しの音楽であると同時に、<ruby>斬新<rp>（</rp><rt>ざんしん</rt><rp>）</rp></ruby>な表現もできる。",
+      "尺八は癒しの音楽であると同時、斬新な表現もできる。",
+      "尺八は癒しの音楽と同時に、斬新な表現だ。",
+      "尺八は癒しの音楽と同時、斬新な表現がある。"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 2
+  },
+  {
+    "id": 18,
+    "question": "<b>「と同時に」 thường diễn tả:</b>",
+    "options": [
+      "hai trạng thái/tính chất cùng tồn tại",
+      "mối quan hệ nguyên nhân – kết quả",
+      "so sánh hơn kém",
+      "sự đối lập hoàn toàn"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 2
+  },
+  {
+    "id": 19,
+    "question": "<b>Chọn câu dùng đúng mẫu 「Vば Vた だけ」:</b>",
+    "options": [
+      "練習すれば練習しただけ、<ruby>腕<rp>（</rp><rt>うで</rt><rp>）</rp></ruby>が上がる。",
+      "練習すれば練習だけ、腕が上がる。",
+      "練習したら練習しただけ、腕が上がる。",
+      "練習しただけ練習すれば、腕が上がる。"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 2
+  },
+  {
+    "id": 20,
+    "question": "<b>Ý nghĩa của mẫu 「Vば Vた だけ」 là:</b>",
+    "options": [
+      "càng V thì lại càng có kết quả tương ứng",
+      "nếu V một lần thì có kết quả",
+      "dù V nhưng không có kết quả",
+      "nếu không V thì sẽ có kết quả"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 2
+  },
+  {
+    "id": 21,
+    "question": "<b>Chọn câu dùng đúng mẫu 「～たとたん（に）」:</b>",
+    "options": [
+      "ステージに上がったとたん、<ruby>緊張<rp>（</rp><rt>きんちょう</rt><rp>）</rp></ruby>してしまった。",
+      "ステージに上がるとたん、緊張してしまった。",
+      "ステージに上がってとたん、緊張してしまった。",
+      "ステージに上がったらとたん、緊張してしまった。"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 2
+  },
+  {
+    "id": 22,
+    "question": "<b>Đặc trưng nghĩa của 「Vたとたん」 là:</b>",
+    "options": [
+      "ngay sau khi V thì một việc bất ngờ xảy ra",
+      "ngay sau khi V thì một việc có chủ đích xảy ra",
+      "trước khi V thì một việc xảy ra",
+      "lặp lại nhiều lần sau khi V"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 2
+  },
+  {
+    "id": 23,
+    "question": "<b>Chọn câu dùng đúng mẫu 「～以来」:</b>",
+    "options": [
+      "<ruby>初演<rp>（</rp><rt>しょえん</rt><rp>）</rp></ruby>して以来、この曲は世界中で演奏されている。",
+      "初演してから以来、この曲は世界中で演奏されている。",
+      "初演の以来、この曲は世界中で演奏されている。",
+      "初演以来して、この曲は世界中で演奏されている。"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 2
+  },
+  {
+    "id": 24,
+    "question": "<b>「～て以来」 thường diễn tả:</b>",
+    "options": [
+      "từ sau khi ~ thì trạng thái đó chấm dứt",
+      "từ sau khi ~ thì một trạng thái kéo dài cho đến hiện tại",
+      "từ sau khi ~ thì chỉ xảy ra một lần",
+      "từ sau khi ~ thì không có gì thay đổi"
+    ],
+    "correctAnswer": 1,
+    "difficulty": 2
+  },
+  {
+    "id": 25,
+    "question": "<b>Chọn câu dùng đúng mẫu 「～くらい」 (mức độ):</b>",
+    "options": [
+      "子どもでも吹けるくらい<ruby>簡単<rp>（</rp><rt>かんたん</rt><rp>）</rp></ruby>なメロディーだ。",
+      "子どもでも吹くくらい簡単なメロディーだ。",
+      "子どもでも吹いたくらい簡単なメロディーだ。",
+      "子どもくらい吹ける簡単なメロディーだ."
+    ],
+    "correctAnswer": 0,
+    "difficulty": 2
+  },
+  {
+    "id": 26,
+    "question": "<b>Ý nghĩa chính của 「～くらいだ」 trong câu:<br/>「<ruby>偽物<rp>（</rp><rt>にせもの</rt><rp>）</rp></ruby>とは思えないくらいよくできている。」</b>",
+    "options": [
+      "dù là đồ giả nhưng vẫn tạm dùng được",
+      "được làm tốt đến mức không thể nghĩ là đồ giả",
+      "chắc chắn là đồ giả",
+      "không phân biệt được đồ thật hay giả"
+    ],
+    "correctAnswer": 1,
+    "difficulty": 2
+  },
+  {
+    "id": 27,
+    "question": "<b>Chọn câu dùng đúng mẫu 「N をこめて」:</b>",
+    "options": [
+      "<ruby>感謝<rp>（</rp><rt>かんしゃ</rt><rp>）</rp></ruby>をこめて、この曲を<ruby>奏<rp>（</rp><rt>かな</rt><rp>）</rp></ruby>でます。",
+      "感謝がこめて、この曲を奏でます。",
+      "感謝をこめる、この曲を奏でます。",
+      "感謝こめて、この曲を奏でます。"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 2
+  },
+  {
+    "id": 28,
+    "question": "<b>「をこめて」 thường đi kèm với loại danh từ nào?</b>",
+    "options": [
+      "danh từ chỉ đồ vật",
+      "danh từ chỉ địa điểm",
+      "danh từ chỉ cảm xúc/tình cảm (愛、心、感謝…)",
+      "danh từ chỉ thời gian"
+    ],
+    "correctAnswer": 2,
+    "difficulty": 2
+  },
+  {
+    "id": 29,
+    "question": "<b>Chọn câu dùng đúng mẫu 「～からといって」 (vế sau phủ định):</b>",
+    "options": [
+      "邦楽は<ruby>難<rp>（</rp><rt>むずか</rt><rp>）</rp></ruby>しいからといって、若い人が楽しめないわけではない。",
+      "邦楽は難しいからといって、若い人が楽しめるわけだ。",
+      "邦楽は難しいからといって、若い人が楽しめるようだ。",
+      "邦楽は難しいからといって、若い人が楽しめないのだ。"
+    ],
+    "correctAnswer": 0,
+    "difficulty": 2
+  },
+  {
+    "id": 30,
+    "question": "<b>Ý nghĩa chính của mẫu 「～からといって」 là gì?</b>",
+    "options": [
+      "vì ~ nên đương nhiên sẽ ...",
+      "vì ~ nhưng không hẳn là ...",
+      "mặc dù ~ nhưng chắc chắn ...",
+      "nếu ~ thì chắc chắn ..."
+    ],
+    "correctAnswer": 1,
+    "difficulty": 2
+  }
+]

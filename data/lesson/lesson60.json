@@ -1,0 +1,926 @@
+[
+  {
+    "id": "moukeru-okane",
+    "kanji": "もうける[お金を～]",
+    "hiragana": "もうける[おかねを～]",
+    "en": "",
+    "vi": "kiếm [tiền]",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ",
+        "Ví dụ: お金をもうける (Kiếm tiền)"
+      ]
+    }
+  },
+  {
+    "id": "mikakeru",
+    "kanji": "見かける",
+    "hiragana": "みかける",
+    "en": "",
+    "vi": "bắt gặp, nhìn thấy",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ",
+        "Ví dụ: 見かける"
+      ]
+    }
+  },
+  {
+    "id": "hitei-suru",
+    "kanji": "否定する",
+    "hiragana": "ひていする",
+    "en": "",
+    "vi": "phủ định",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm III",
+        "Ví dụ: 否定する"
+      ]
+    }
+  },
+  {
+    "id": "taimushin",
+    "kanji": "タイムマシン",
+    "hiragana": "タイムマシン",
+    "en": "",
+    "vi": "cỗ mãy thời gian",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ",
+        "Ví dụ: タイムマシン"
+      ]
+    }
+  },
+  {
+    "id": "takarakuji",
+    "kanji": "宝くじ",
+    "hiragana": "たからくじ",
+    "en": "",
+    "vi": "vé số",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ",
+        "Ví dụ: 宝くじを買う (Mua vé số)"
+      ]
+    }
+  },
+  {
+    "id": "ataru-takarakuji",
+    "kanji": "当たる[宝くじが～]",
+    "hiragana": "あたる[たからくじが～]",
+    "en": "",
+    "vi": "trúng [vé số]",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ",
+        "Ví dụ: 宝くじが当たる (Trúng vé số)"
+      ]
+    }
+  },
+  {
+    "id": "waarudokappu",
+    "kanji": "ワールドカップ",
+    "hiragana": "ワールドカップ",
+    "en": "",
+    "vi": "World Cup, Giải vô địch bóng đá thế giới",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ",
+        "Ví dụ: ワールドカップ"
+      ]
+    }
+  },
+  {
+    "id": "kaeru",
+    "kanji": "カエル",
+    "hiragana": "カエル",
+    "en": "",
+    "vi": "con ếch",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ",
+        "Ví dụ: カエル"
+      ]
+    }
+  },
+  {
+    "id": "keikaku",
+    "kanji": "計画",
+    "hiragana": "けいかく",
+    "en": "",
+    "vi": "kế hoạch",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ",
+        "Ví dụ: 計画を立てる (Lập kế hoạch)"
+      ]
+    }
+  },
+  {
+    "id": "jissai",
+    "kanji": "実際",
+    "hiragana": "じっさい",
+    "en": "",
+    "vi": "thực tế",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ",
+        "Ví dụ: 実際"
+      ]
+    }
+  },
+  {
+    "id": "mettani",
+    "kanji": "めったに",
+    "hiragana": "めったに",
+    "en": "",
+    "vi": "hiếm khi",
+    "type": "adverb",
+    "explanation": {
+      "content": [
+        "Trạng từ",
+        "Ví dụ: めったに"
+      ]
+    }
+  },
+  {
+    "id": "tsuujiru-denwa",
+    "kanji": "通じる[電話が～]",
+    "hiragana": "つうじる[でんわが～]",
+    "en": "",
+    "vi": "thông, kết nối [điện thoại]",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ",
+        "Ví dụ: 電話が通じる (Điện thoại thông)"
+      ]
+    }
+  },
+  {
+    "id": "jikan-doori-ni",
+    "kanji": "時間通りに",
+    "hiragana": "じかんどおりに",
+    "en": "",
+    "vi": "đúng giờ",
+    "type": "adverb",
+    "explanation": {
+      "content": [
+        "Trạng từ",
+        "Ví dụ: 時間通りに来る (Đến đúng giờ)"
+      ]
+    }
+  },
+  {
+    "id": "kakaru-enjin",
+    "kanji": "かかる[エンジンが～]",
+    "hiragana": "かかる[エンジンが～]",
+    "en": "",
+    "vi": "khởi động [động cơ]",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ",
+        "Ví dụ: エンジンがかかる (Động cơ khởi động)"
+      ]
+    }
+  },
+  {
+    "id": "oni",
+    "kanji": "鬼",
+    "hiragana": "おに",
+    "en": "",
+    "vi": "con quỷ",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ",
+        "Ví dụ: 鬼"
+      ]
+    }
+  },
+  {
+    "id": "okoru",
+    "kanji": "怒る",
+    "hiragana": "おこる",
+    "en": "",
+    "vi": "tức giận, cáu",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ",
+        "Ví dụ: 怒る"
+      ]
+    }
+  },
+  {
+    "id": "shiiootsuu",
+    "kanji": "シーオーツー",
+    "hiragana": "シーオーツー",
+    "en": "",
+    "vi": "CO2",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ",
+        "Ví dụ: シーオーツー"
+      ]
+    }
+  },
+  {
+    "id": "chuusen",
+    "kanji": "抽選",
+    "hiragana": "ちゅうせん",
+    "en": "",
+    "vi": "rút thăm, sổ xố",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ",
+        "Ví dụ: 抽選をする (Rút thăm)"
+      ]
+    }
+  },
+  {
+    "id": "ittou",
+    "kanji": "一等",
+    "hiragana": "いっとう",
+    "en": "",
+    "vi": "giải nhất",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ",
+        "Ví dụ: 一等"
+      ]
+    }
+  },
+  {
+    "id": "tohyou",
+    "kanji": "投票",
+    "hiragana": "とうひょう",
+    "en": "",
+    "vi": "bỏ phiếu, bầu",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ",
+        "Ví dụ: 投票する (Bỏ phiếu)"
+      ]
+    }
+  },
+  {
+    "id": "otagai-ni",
+    "kanji": "[お]互いに",
+    "hiragana": "[お]たがいに",
+    "en": "",
+    "vi": "lẫn nhau",
+    "type": "adverb",
+    "explanation": {
+      "content": [
+        "Trạng từ",
+        "Ví dụ: お互いに"
+      ]
+    }
+  },
+  {
+    "id": "dasu-shuuri",
+    "kanji": "出す[修理に～]",
+    "hiragana": "だす[しゅうりに～]",
+    "en": "",
+    "vi": "đưa đi/ gửi đi [sửa]",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ",
+        "Ví dụ: 修理に出す (Đưa đi sửa)"
+      ]
+    }
+  },
+  {
+    "id": "kikikaesu",
+    "kanji": "聞き返す",
+    "hiragana": "ききかえす",
+    "en": "",
+    "vi": "hỏi lại, yêu cầu nói lại",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ",
+        "Ví dụ: 聞き返す"
+      ]
+    }
+  },
+  {
+    "id": "tekkiri",
+    "kanji": "てっきり",
+    "hiragana": "てっきり",
+    "en": "",
+    "vi": "chắc chắn, đinh ninh",
+    "type": "adverb",
+    "explanation": {
+      "content": [
+        "Trạng từ",
+        "Ví dụ: てっきり"
+      ]
+    }
+  },
+  {
+    "id": "souko",
+    "kanji": "倉庫",
+    "hiragana": "そうこ",
+    "en": "",
+    "vi": "nhà kho, kho chứa đồ",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ",
+        "Ví dụ: 倉庫"
+      ]
+    }
+  },
+  {
+    "id": "purintaa",
+    "kanji": "プリンター",
+    "hiragana": "プリンター",
+    "en": "",
+    "vi": "máy in",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ",
+        "Ví dụ: プリンター"
+      ]
+    }
+  },
+  {
+    "id": "hairu-dengen",
+    "kanji": "入る[電源が～]",
+    "hiragana": "はいる[でんげんが～]",
+    "en": "",
+    "vi": "bật [nguồn điện]",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ",
+        "Ví dụ: 電源が入る (Bật nguồn điện)"
+      ]
+    }
+  },
+  {
+    "id": "manyuaru",
+    "kanji": "マニュアル",
+    "hiragana": "マニュアル",
+    "en": "",
+    "vi": "sách hướng dẫn",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ",
+        "Ví dụ: マニュアル"
+      ]
+    }
+  },
+  {
+    "id": "shitashii",
+    "kanji": "親しい",
+    "hiragana": "したしい",
+    "en": "",
+    "vi": "thân thiết, gần gũi",
+    "type": "adjective",
+    "explanation": {
+      "content": [
+        "Tính từ đuôi i",
+        "Ví dụ: 親しい"
+      ]
+    }
+  },
+  {
+    "id": "odoroku",
+    "kanji": "驚く",
+    "hiragana": "おどろく",
+    "en": "",
+    "vi": "ngạc nhiên",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ",
+        "Ví dụ: 驚く"
+      ]
+    }
+  },
+  {
+    "id": "dai",
+    "kanji": "～代 [～60]",
+    "hiragana": "～だい",
+    "en": "",
+    "vi": "những năm ~ [sáu mươi]",
+    "type": "suffix",
+    "explanation": {
+      "content": [
+        "Hậu tố",
+        "Ví dụ: 60代 (Những năm 60)"
+      ]
+    }
+  },
+  {
+    "id": "gokai",
+    "kanji": "誤解",
+    "hiragana": "ごかい",
+    "en": "",
+    "vi": "sự hiểu lầm",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ",
+        "Ví dụ: 誤解する (Hiểu lầm)"
+      ]
+    }
+  },
+  {
+    "id": "kioku",
+    "kanji": "記憶",
+    "hiragana": "きおく",
+    "en": "",
+    "vi": "kí ức, trí nhớ",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ",
+        "Ví dụ: 記憶する (Nhớ)"
+      ]
+    }
+  },
+  {
+    "id": "kata",
+    "kanji": "型",
+    "hiragana": "かた",
+    "en": "",
+    "vi": "kiểu, loại",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ",
+        "Ví dụ: 型"
+      ]
+    }
+  },
+  {
+    "id": "gata",
+    "kanji": "～型",
+    "hiragana": "～がた",
+    "en": "",
+    "vi": "kiểu ~, loại ~",
+    "type": "suffix",
+    "explanation": {
+      "content": [
+        "Hậu tố",
+        "Ví dụ: ～型"
+      ]
+    }
+  },
+  {
+    "id": "otoshimono",
+    "kanji": "落とし物",
+    "hiragana": "おとしもの",
+    "en": "",
+    "vi": "đồ đánh rơi",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ",
+        "Ví dụ: 落とし物"
+      ]
+    }
+  },
+  {
+    "id": "korobu",
+    "kanji": "転ぶ",
+    "hiragana": "ころぶ",
+    "en": "",
+    "vi": "ngã, té",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ",
+        "Ví dụ: 転ぶ"
+      ]
+    }
+  },
+  {
+    "id": "kisuu",
+    "kanji": "奇数",
+    "hiragana": "きすう",
+    "en": "",
+    "vi": "số lẻ",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ",
+        "Ví dụ: 奇数"
+      ]
+    }
+  },
+  {
+    "id": "guusuu",
+    "kanji": "偶数",
+    "hiragana": "ぐうすう",
+    "en": "",
+    "vi": "số chẵn",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ",
+        "Ví dụ: 偶数"
+      ]
+    }
+  },
+  {
+    "id": "bonyari-suru",
+    "kanji": "ばんやりする",
+    "hiragana": "ばんやりする",
+    "en": "",
+    "vi": "mất tập trung",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm III",
+        "Ví dụ: ばんやりする"
+      ]
+    }
+  },
+  {
+    "id": "awatemono",
+    "kanji": "あわて者",
+    "hiragana": "あわてもの",
+    "en": "",
+    "vi": "người hay hoảng hốt",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ",
+        "Ví dụ: あわて者"
+      ]
+    }
+  },
+  {
+    "id": "misu",
+    "kanji": "ミス",
+    "hiragana": "ミス",
+    "en": "",
+    "vi": "sai lầm, lỗi",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ",
+        "Ví dụ: ミスをする (Mắc lỗi)"
+      ]
+    }
+  },
+  {
+    "id": "korera",
+    "kanji": "これら",
+    "hiragana": "これら",
+    "en": "",
+    "vi": "những (cái) này",
+    "type": "pronoun",
+    "explanation": {
+      "content": [
+        "Đại từ",
+        "Ví dụ: これら"
+      ]
+    }
+  },
+  {
+    "id": "hyuumaneraraa",
+    "kanji": "ヒューマンエラー",
+    "hiragana": "ヒューマンエラー",
+    "en": "",
+    "vi": "lỗi chủ quan, lỗi do con người",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ",
+        "Ví dụ: ヒューマンエラー"
+      ]
+    }
+  },
+  {
+    "id": "shujutsu",
+    "kanji": "手術",
+    "hiragana": "しゅじゅつ",
+    "en": "",
+    "vi": "phẫu thuật",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ",
+        "Ví dụ: 手術する (Phẫu thuật)"
+      ]
+    }
+  },
+  {
+    "id": "kanja",
+    "kanji": "患者",
+    "hiragana": "かんじゃ",
+    "en": "",
+    "vi": "bệnh nhân",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ",
+        "Ví dụ: 患者"
+      ]
+    }
+  },
+  {
+    "id": "shinrigakusha",
+    "kanji": "心理学者",
+    "hiragana": "しんりがくしゃ",
+    "en": "",
+    "vi": "nhà tâm lý học",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ",
+        "Ví dụ: 心理学者"
+      ]
+    }
+  },
+  {
+    "id": "okasu-misu",
+    "kanji": "おかす[ミスを～]",
+    "hiragana": "おかす[ミスを～]",
+    "en": "",
+    "vi": "phạm,mắc [lỗi]",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ",
+        "Ví dụ: ミスをおかす (Phạm lỗi)"
+      ]
+    }
+  },
+  {
+    "id": "ukkari-misu",
+    "kanji": "うっかりミス",
+    "hiragana": "うっかりミス",
+    "en": "",
+    "vi": "lỗi bất cẩn",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ",
+        "Ví dụ: うっかりミス"
+      ]
+    }
+  },
+  {
+    "id": "ukkari",
+    "kanji": "うっかり",
+    "hiragana": "うっかり",
+    "en": "",
+    "vi": "bất cẩn",
+    "type": "adverb",
+    "explanation": {
+      "content": [
+        "Trạng từ",
+        "Ví dụ: うっかり"
+      ]
+    }
+  },
+  {
+    "id": "kouiu",
+    "kanji": "こういう",
+    "hiragana": "こういう",
+    "en": "",
+    "vi": "như thế này (cf. ああいう : như thế đó)",
+    "type": "adjective",
+    "explanation": {
+      "content": [
+        "Tính từ",
+        "Ví dụ: こういう"
+      ]
+    }
+  },
+  {
+    "id": "chekkurisuto",
+    "kanji": "チェックリスト",
+    "hiragana": "チェックリスト",
+    "en": "",
+    "vi": "danh sách kiểm tra",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ",
+        "Ví dụ: チェックリスト"
+      ]
+    }
+  },
+  {
+    "id": "tegakari",
+    "kanji": "手がかり",
+    "hiragana": "てがかり",
+    "en": "",
+    "vi": "gợi ý, đầu mối",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ",
+        "Ví dụ: 手がかり"
+      ]
+    }
+  },
+  {
+    "id": "ippou",
+    "kanji": "一方",
+    "hiragana": "いっぽう",
+    "en": "",
+    "vi": "mặt khác",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ",
+        "Ví dụ: 一方"
+      ]
+    }
+  },
+  {
+    "id": "fukaku-kokyuu",
+    "kanji": "深く[～呼吸する]",
+    "hiragana": "ふかく[～こきゅうする]",
+    "en": "",
+    "vi": "[thở] sâu",
+    "type": "adverb",
+    "explanation": {
+      "content": [
+        "Trạng từ",
+        "Ví dụ: 深く呼吸する (Thở sâu)"
+      ]
+    }
+  },
+  {
+    "id": "yubi",
+    "kanji": "指",
+    "hiragana": "ゆび",
+    "en": "",
+    "vi": "ngón tay",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ",
+        "Ví dụ: 指"
+      ]
+    }
+  },
+  {
+    "id": "seijinkunshi",
+    "kanji": "聖人君子",
+    "hiragana": "せいじんくんし",
+    "en": "",
+    "vi": "thánh nhân quân tử, người toàn vẹn",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ",
+        "Ví dụ: 聖人君子"
+      ]
+    }
+  },
+  {
+    "id": "usotsuki",
+    "kanji": "うそつき",
+    "hiragana": "うそつき",
+    "en": "",
+    "vi": "kẻ nói dối",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ",
+        "Ví dụ: うそつき"
+      ]
+    }
+  },
+  {
+    "id": "matawa",
+    "kanji": "または",
+    "hiragana": "または",
+    "en": "",
+    "vi": "hay như, hoặc là",
+    "type": "conjunction",
+    "explanation": {
+      "content": [
+        "Liên từ",
+        "Ví dụ: または"
+      ]
+    }
+  },
+  {
+    "id": "eraa",
+    "kanji": "エラー",
+    "hiragana": "エラー",
+    "en": "",
+    "vi": "lỗi",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ",
+        "Ví dụ: エラー"
+      ]
+    }
+  },
+  {
+    "id": "komatta-hito",
+    "kanji": "困った人",
+    "hiragana": "こまったひと",
+    "en": "",
+    "vi": "người gặp khó khăn, người khổ sở",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ",
+        "Ví dụ: 困った人"
+      ]
+    }
+  },
+  {
+    "id": "kansei-suru",
+    "kanji": "完成する",
+    "hiragana": "かんせいする",
+    "en": "",
+    "vi": "hoàn thành",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ nhóm III",
+        "Ví dụ: 完成する"
+      ]
+    }
+  },
+  {
+    "id": "tsunagaru-dekigoto",
+    "kanji": "つながる[出来事に～]",
+    "hiragana": "つながる[できごとに～]",
+    "en": "",
+    "vi": "dẫn đến [sự cố]",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ",
+        "Ví dụ: 出来事につながる (Dẫn đến sự cố)"
+      ]
+    }
+  },
+  {
+    "id": "dekigoto",
+    "kanji": "出来事",
+    "hiragana": "できごと",
+    "en": "",
+    "vi": "sự cố",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ",
+        "Ví dụ: 出来事"
+      ]
+    }
+  },
+  {
+    "id": "fuchuui",
+    "kanji": "不注意",
+    "hiragana": "ふちゅうい",
+    "en": "",
+    "vi": "không chú ý, bất cẩn",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ",
+        "Ví dụ: 不注意"
+      ]
+    }
+  },
+  {
+    "id": "hikiokosu",
+    "kanji": "引き起こす",
+    "hiragana": "ひきおこす",
+    "en": "",
+    "vi": "gây ra",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ",
+        "Ví dụ: 引き起こす"
+      ]
+    }
+  }
+]
