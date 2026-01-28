@@ -1,1 +1,509 @@
-﻿[]
+[
+  {
+    "id": "チラシ",
+    "kanji": "",
+    "hiragana": "チラシ",
+    "en": "",
+    "vi": "tờ rơi",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "びら",
+    "kanji": "",
+    "hiragana": "びら",
+    "en": "",
+    "vi": "tờ rơi",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "賃貸アパート",
+    "kanji": "賃貸アパート",
+    "hiragana": "ちんたいアパート",
+    "en": "",
+    "vi": "căn hộ cho thuê",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "家賃",
+    "kanji": "家賃",
+    "hiragana": "やちん",
+    "en": "",
+    "vi": "tiền thuê nhà",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "管理費",
+    "kanji": "管理費",
+    "hiragana": "かんりひ",
+    "en": "",
+    "vi": "phí quản lý",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "無料",
+    "kanji": "無料",
+    "hiragana": "むりょう",
+    "en": "",
+    "vi": "miễn phí",
+    "type": "adjective",
+    "explanation": {
+      "content": [
+        "Tính từ"
+      ]
+    }
+  },
+  {
+    "id": "ただ",
+    "kanji": "",
+    "hiragana": "ただ",
+    "en": "",
+    "vi": "miễn phí",
+    "type": "adjective",
+    "explanation": {
+      "content": [
+        "Tính từ, Trạng từ"
+      ]
+    }
+  },
+  {
+    "id": "徒歩５分",
+    "kanji": "徒歩５分",
+    "hiragana": "とほごふん",
+    "en": "",
+    "vi": "đi bộ 5 phút",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "３階建て",
+    "kanji": "３階建て",
+    "hiragana": "さんがいだて",
+    "en": "",
+    "vi": "nhà 3 tầng",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "南向き",
+    "kanji": "南向き",
+    "hiragana": "みなみむき",
+    "en": "",
+    "vi": "hướng về phía nam",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "築１０年",
+    "kanji": "築１０年",
+    "hiragana": "ちくじゅうねん",
+    "en": "",
+    "vi": "xây từ 10 năm trước",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "自転車置き場",
+    "kanji": "自転車置き場",
+    "hiragana": "じてんしゃおきば",
+    "en": "",
+    "vi": "chỗ đậu xe đạp",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "マンション",
+    "kanji": "",
+    "hiragana": "マンション",
+    "en": "",
+    "vi": "chung cư",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "敷金",
+    "kanji": "敷金",
+    "hiragana": "しききん",
+    "en": "",
+    "vi": "tiền đặt cọc (sau này hoàn trả lại)",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "礼金",
+    "kanji": "礼金",
+    "hiragana": "れいきん",
+    "en": "",
+    "vi": "tiền lễ (sau này không hoàn trả lại)",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "１DK",
+    "kanji": "",
+    "hiragana": "１DK（ワンディーケー）",
+    "en": "",
+    "vi": "nhà có 1 phòng ngoài bếp và chỗ ăn",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "２LDK",
+    "kanji": "",
+    "hiragana": "２LDK（ニーエルディーケー）",
+    "en": "",
+    "vi": "nhà có 2 phòng ngoài bếp, chỗ ăn và phòng khách",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "広々（と）している",
+    "kanji": "広々（と）している",
+    "hiragana": "ひろびろ（と）している",
+    "en": "",
+    "vi": "rộng rãi, bao la",
+    "type": "adjective",
+    "explanation": {
+      "content": [
+        "Tính từ, Trạng từ"
+      ]
+    }
+  },
+  {
+    "id": "ながめがいい",
+    "kanji": "",
+    "hiragana": "ながめがいい",
+    "en": "",
+    "vi": "tầm nhìn tốt",
+    "type": "adjective",
+    "explanation": {
+      "content": [
+        "Tính từ"
+      ]
+    }
+  },
+  {
+    "id": "日当たりがいい",
+    "kanji": "日当たりがいい",
+    "hiragana": "ひあたりがいい",
+    "en": "",
+    "vi": "có ánh sáng tốt",
+    "type": "adjective",
+    "explanation": {
+      "content": [
+        "Tính từ"
+      ]
+    }
+  },
+  {
+    "id": "人通りが多い",
+    "kanji": "人通りが多い",
+    "hiragana": "ひとどおりがおおい",
+    "en": "",
+    "vi": "đông người qua lại (đường xá)",
+    "type": "adjective",
+    "explanation": {
+      "content": [
+        "Tính từ"
+      ]
+    }
+  },
+  {
+    "id": "一軒家",
+    "kanji": "一軒家",
+    "hiragana": "いっけんや",
+    "en": "",
+    "vi": "nhà độc lập",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "一戸建て",
+    "kanji": "一戸建て",
+    "hiragana": "いっこだて",
+    "en": "",
+    "vi": "nhà độc lập",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "物干し",
+    "kanji": "物干し",
+    "hiragana": "ものほし",
+    "en": "",
+    "vi": "chỗ phơi quần áo",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "風呂場",
+    "kanji": "風呂場",
+    "hiragana": "ふろば",
+    "en": "",
+    "vi": "nhà tắm, phòng tắm",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "洗面所",
+    "kanji": "洗面所",
+    "hiragana": "せんめんじょ",
+    "en": "",
+    "vi": "chỗ rửa mặt",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "一人暮らし",
+    "kanji": "一人暮らし",
+    "hiragana": "ひとりぐらし",
+    "en": "",
+    "vi": "sống một mình",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "一人住まい",
+    "kanji": "一人住まい",
+    "hiragana": "ひとりずまい",
+    "en": "",
+    "vi": "sống một mình",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "近所付き合い",
+    "kanji": "近所付き合い",
+    "hiragana": "きんじょづきあい",
+    "en": "",
+    "vi": "quan hệ hàng xóm",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "彼と付き合う",
+    "kanji": "彼と付き合う",
+    "hiragana": "かれとつきあう",
+    "en": "",
+    "vi": "kết giao bạn trai",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ"
+      ]
+    }
+  },
+  {
+    "id": "友達に付き合う",
+    "kanji": "友達に付き合う",
+    "hiragana": "ともだちにつきあう",
+    "en": "",
+    "vi": "kết giao bạn bè",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ"
+      ]
+    }
+  },
+  {
+    "id": "引っ越しの荷造りをする",
+    "kanji": "引っ越しの荷造りをする",
+    "hiragana": "ひっこしのにづくりをする",
+    "en": "",
+    "vi": "đóng gói hành lý (chuyển nhà)",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ"
+      ]
+    }
+  },
+  {
+    "id": "回覧板を回す",
+    "kanji": "回覧板を回す",
+    "hiragana": "かいらんばんをまわす",
+    "en": "",
+    "vi": "gửi bảng thông báo",
+    "type": "verb",
+    "explanation": {
+      "content": [
+        "Động từ"
+      ]
+    }
+  },
+  {
+    "id": "この辺り",
+    "kanji": "この辺り",
+    "hiragana": "このあたり",
+    "en": "",
+    "vi": "vùng này",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "この付近",
+    "kanji": "この付近",
+    "hiragana": "このふきん",
+    "en": "",
+    "vi": "quanh đây",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "真ん前",
+    "kanji": "真ん前",
+    "hiragana": "まんまえ",
+    "en": "",
+    "vi": "ngay phía trước",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "真後ろ",
+    "kanji": "真後ろ",
+    "hiragana": "まうしろ",
+    "en": "",
+    "vi": "ngay phía sau",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "真ん中",
+    "kanji": "真ん中",
+    "hiragana": "まんなか",
+    "en": "",
+    "vi": "ở ngay giữa",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  },
+  {
+    "id": "斜め前",
+    "kanji": "斜め前",
+    "hiragana": "ななめまえ",
+    "en": "",
+    "vi": "đâu đó sát bên",
+    "type": "noun",
+    "explanation": {
+      "content": [
+        "Danh từ"
+      ]
+    }
+  }
+]

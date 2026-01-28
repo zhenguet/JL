@@ -1,1 +1,92 @@
-﻿[]
+[
+  {
+    "id": "sabishige",
+    "title": "～さびしげ",
+    "description": "Chỉ trạng thái cảm nhận được về tâm trạng của một người.",
+    "structure": "Aいげ / naげ / Vたいげ\n⚠ よいさげ／ないさげ\n⚠ あります→ありげ\n⚠ 自慢げ",
+    "examples": [
+      {
+        "japanese": "あの人はさびしげな目をしている。",
+        "romaji": "Ano hito wa sabishige na me o shite iru.",
+        "vietnamese": "Người kia có ánh mắt buồn."
+      },
+      {
+        "japanese": "彼は何か言いたげだった。",
+        "romaji": "Kare wa nani ka iitage datta.",
+        "vietnamese": "Hình như anh ấy muốn nói điều gì đó."
+      }
+    ],
+    "notes": [
+      "Vẻ ~",
+      "Chỉ trạng thái cảm nhận được về tâm trạng của một người"
+    ]
+  },
+  {
+    "id": "byouki-gachi",
+    "title": "～病気がち",
+    "description": "Dùng để biểu đạt ý nghĩa có khuynh hướng, thường xảy ra…và sự việc được trình bày có khuynh hướng không tốt. Giống với mẫu câu ～嫌いがある。",
+    "structure": "Nがち\nVますがち",
+    "examples": [
+      {
+        "japanese": "私は子供の頃、病気がちだった。",
+        "romaji": "Watashi wa kodomo no koro, byouki gachi datta.",
+        "vietnamese": "Hồi còn nhỏ, tôi thường bị bệnh."
+      },
+      {
+        "japanese": "最近、彼は仕事を休みがちだ。",
+        "romaji": "Saikin, kare wa shigoto o yasumi gachi da.",
+        "vietnamese": "Gần đây, anh ấy hay nghỉ làm."
+      }
+    ],
+    "notes": [
+      "Có khuynh hướng~, thường là~",
+      "Dùng để biểu đạt ý nghĩa có khuynh hướng, thường xảy ra…và sự việc được trình bày có khuynh hướng không tốt",
+      "Giống với mẫu câu ～嫌いがある"
+    ]
+  },
+  {
+    "id": "wasure-ppoi",
+    "title": "～忘れっぽい",
+    "description": "Thể hiện cảm giác \"cảm thấy như là\", thấy như là…",
+    "structure": "Nっぽい\nVますっぽい／Aいっぽい",
+    "examples": [
+      {
+        "japanese": "年を取ると、忘れっぽくなる。",
+        "romaji": "Toshi o toru to, wasureppoku naru.",
+        "vietnamese": "Lớn tuổi thì sẽ mau quên."
+      },
+      {
+        "japanese": "このコート、デザインはいいけれど、生地が安っぽいね。",
+        "romaji": "Kono kooto, dezain wa ii keredo, kiji ga yasuppoi ne.",
+        "vietnamese": "Chiếc áo khoác này kiểu dáng thì đẹp nhưng chất liệu vải trông có vẻ rẻ tiền, nhỉ."
+      }
+    ],
+    "notes": [
+      "Như là…, giống như…, có vẻ như…",
+      "Thể hiện cảm giác \"cảm thấy như là\", thấy như là…"
+    ]
+  },
+  {
+    "id": "tsukare-gimi",
+    "title": "～疲れ気味",
+    "description": "Diễn tả ý nghĩa \"có tình trạng như vậy, có khuynh hướng như vậy\". Thường dùng với trường hợp mang nghĩa xấu.",
+    "structure": "Vます気味\nN気味",
+    "examples": [
+      {
+        "japanese": "残業続きで、疲れ気味だ。",
+        "romaji": "Zangyou tsudzuki de, tsukare gimi da.",
+        "vietnamese": "Do tăng ca liên miên, nên hơi mệt."
+      },
+      {
+        "japanese": "新入社員は緊張気味の顔をしていた。",
+        "romaji": "Shinnyuu shain wa kinchou gimi no kao o shite ita.",
+        "vietnamese": "Nhân viên mới có vẻ mặt hơi căng thẳng."
+      }
+    ],
+    "notes": [
+      "Có vẻ, hơi có, cảm giác là",
+      "Diễn tả ý nghĩa \"có tình trạng như vậy, có khuynh hướng như vậy\"",
+      "Thường dùng với trường hợp mang nghĩa xấu"
+    ]
+  }
+]
