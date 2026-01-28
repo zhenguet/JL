@@ -74,6 +74,48 @@ import quiz71 from './quiz/quiz71.json';
 import quiz72 from './quiz/quiz72.json';
 import quiz73 from './quiz/quiz73.json';
 import quiz74 from './quiz/quiz74.json';
+import quiz75 from './quiz/quiz75.json';
+import quiz76 from './quiz/quiz76.json';
+import quiz77 from './quiz/quiz77.json';
+import quiz78 from './quiz/quiz78.json';
+import quiz79 from './quiz/quiz79.json';
+import quiz80 from './quiz/quiz80.json';
+import quiz81 from './quiz/quiz81.json';
+import quiz82 from './quiz/quiz82.json';
+import quiz83 from './quiz/quiz83.json';
+import quiz84 from './quiz/quiz84.json';
+import quiz85 from './quiz/quiz85.json';
+import quiz86 from './quiz/quiz86.json';
+import quiz87 from './quiz/quiz87.json';
+import quiz88 from './quiz/quiz88.json';
+import quiz89 from './quiz/quiz89.json';
+import quiz90 from './quiz/quiz90.json';
+import quiz91 from './quiz/quiz91.json';
+import quiz92 from './quiz/quiz92.json';
+import quiz93 from './quiz/quiz93.json';
+import quiz94 from './quiz/quiz94.json';
+import quiz95 from './quiz/quiz95.json';
+import quiz96 from './quiz/quiz96.json';
+import quiz97 from './quiz/quiz97.json';
+import quiz98 from './quiz/quiz98.json';
+import quiz99 from './quiz/quiz99.json';
+import quiz100 from './quiz/quiz100.json';
+import quiz101 from './quiz/quiz101.json';
+import quiz102 from './quiz/quiz102.json';
+import quiz103 from './quiz/quiz103.json';
+import quiz104 from './quiz/quiz104.json';
+import quiz105 from './quiz/quiz105.json';
+import quiz106 from './quiz/quiz106.json';
+import quiz107 from './quiz/quiz107.json';
+import quiz108 from './quiz/quiz108.json';
+import quiz109 from './quiz/quiz109.json';
+import quiz110 from './quiz/quiz110.json';
+import quiz111 from './quiz/quiz111.json';
+import quiz112 from './quiz/quiz112.json';
+import quiz113 from './quiz/quiz113.json';
+import quiz114 from './quiz/quiz114.json';
+import quiz115 from './quiz/quiz115.json';
+import quiz116 from './quiz/quiz116.json';
 
 const quizzes: QuizQuestion[][] = [
   quiz1,
@@ -150,6 +192,48 @@ const quizzes: QuizQuestion[][] = [
   quiz72,
   quiz73,
   quiz74,
+  quiz75,
+  quiz76,
+  quiz77,
+  quiz78,
+  quiz79,
+  quiz80,
+  quiz81,
+  quiz82,
+  quiz83,
+  quiz84,
+  quiz85,
+  quiz86,
+  quiz87,
+  quiz88,
+  quiz89,
+  quiz90,
+  quiz91,
+  quiz92,
+  quiz93,
+  quiz94,
+  quiz95,
+  quiz96,
+  quiz97,
+  quiz98,
+  quiz99,
+  quiz100,
+  quiz101,
+  quiz102,
+  quiz103,
+  quiz104,
+  quiz105,
+  quiz106,
+  quiz107,
+  quiz108,
+  quiz109,
+  quiz110,
+  quiz111,
+  quiz112,
+  quiz113,
+  quiz114,
+  quiz115,
+  quiz116,
 ] as QuizQuestion[][];
 
 const quizDataByLesson: Record<number, QuizQuestion[]> = quizzes.reduce(

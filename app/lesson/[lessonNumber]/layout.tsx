@@ -49,7 +49,7 @@ export default function LessonLayout({
 
   const currentLesson = parseInt(lessonNumber, 10);
   const prevLesson = currentLesson > 1 ? currentLesson - 1 : null;
-  const nextLesson = currentLesson < 74 ? currentLesson + 1 : null;
+  const nextLesson = currentLesson < 116 ? currentLesson + 1 : null;
 
   const getPathForLesson = (lessonNum: number) => {
     const pathParts = pathname.split('/').filter((part) => part !== '');

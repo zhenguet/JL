@@ -73,6 +73,48 @@ import lesson71 from './lesson/lesson71.json'
 import lesson72 from './lesson/lesson72.json'
 import lesson73 from './lesson/lesson73.json'
 import lesson74 from './lesson/lesson74.json'
+import lesson75 from './lesson/lesson75.json'
+import lesson76 from './lesson/lesson76.json'
+import lesson77 from './lesson/lesson77.json'
+import lesson78 from './lesson/lesson78.json'
+import lesson79 from './lesson/lesson79.json'
+import lesson80 from './lesson/lesson80.json'
+import lesson81 from './lesson/lesson81.json'
+import lesson82 from './lesson/lesson82.json'
+import lesson83 from './lesson/lesson83.json'
+import lesson84 from './lesson/lesson84.json'
+import lesson85 from './lesson/lesson85.json'
+import lesson86 from './lesson/lesson86.json'
+import lesson87 from './lesson/lesson87.json'
+import lesson88 from './lesson/lesson88.json'
+import lesson89 from './lesson/lesson89.json'
+import lesson90 from './lesson/lesson90.json'
+import lesson91 from './lesson/lesson91.json'
+import lesson92 from './lesson/lesson92.json'
+import lesson93 from './lesson/lesson93.json'
+import lesson94 from './lesson/lesson94.json'
+import lesson95 from './lesson/lesson95.json'
+import lesson96 from './lesson/lesson96.json'
+import lesson97 from './lesson/lesson97.json'
+import lesson98 from './lesson/lesson98.json'
+import lesson99 from './lesson/lesson99.json'
+import lesson100 from './lesson/lesson100.json'
+import lesson101 from './lesson/lesson101.json'
+import lesson102 from './lesson/lesson102.json'
+import lesson103 from './lesson/lesson103.json'
+import lesson104 from './lesson/lesson104.json'
+import lesson105 from './lesson/lesson105.json'
+import lesson106 from './lesson/lesson106.json'
+import lesson107 from './lesson/lesson107.json'
+import lesson108 from './lesson/lesson108.json'
+import lesson109 from './lesson/lesson109.json'
+import lesson110 from './lesson/lesson110.json'
+import lesson111 from './lesson/lesson111.json'
+import lesson112 from './lesson/lesson112.json'
+import lesson113 from './lesson/lesson113.json'
+import lesson114 from './lesson/lesson114.json'
+import lesson115 from './lesson/lesson115.json'
+import lesson116 from './lesson/lesson116.json'
 
 export const vocabularyData: VocabularyData = {
   1: lesson1 as VocabularyWord[],
@@ -149,5 +191,47 @@ export const vocabularyData: VocabularyData = {
   72: lesson72 as VocabularyWord[],
   73: lesson73 as VocabularyWord[],
   74: lesson74 as VocabularyWord[],
+  75: lesson75 as VocabularyWord[],
+  76: lesson76 as VocabularyWord[],
+  77: lesson77 as VocabularyWord[],
+  78: lesson78 as VocabularyWord[],
+  79: lesson79 as VocabularyWord[],
+  80: lesson80 as VocabularyWord[],
+  81: lesson81 as VocabularyWord[],
+  82: lesson82 as VocabularyWord[],
+  83: lesson83 as VocabularyWord[],
+  84: lesson84 as VocabularyWord[],
+  85: lesson85 as VocabularyWord[],
+  86: lesson86 as VocabularyWord[],
+  87: lesson87 as VocabularyWord[],
+  88: lesson88 as VocabularyWord[],
+  89: lesson89 as VocabularyWord[],
+  90: lesson90 as VocabularyWord[],
+  91: lesson91 as VocabularyWord[],
+  92: lesson92 as VocabularyWord[],
+  93: lesson93 as VocabularyWord[],
+  94: lesson94 as VocabularyWord[],
+  95: lesson95 as VocabularyWord[],
+  96: lesson96 as VocabularyWord[],
+  97: lesson97 as VocabularyWord[],
+  98: lesson98 as VocabularyWord[],
+  99: lesson99 as VocabularyWord[],
+  100: lesson100 as VocabularyWord[],
+  101: lesson101 as VocabularyWord[],
+  102: lesson102 as VocabularyWord[],
+  103: lesson103 as VocabularyWord[],
+  104: lesson104 as VocabularyWord[],
+  105: lesson105 as VocabularyWord[],
+  106: lesson106 as VocabularyWord[],
+  107: lesson107 as VocabularyWord[],
+  108: lesson108 as VocabularyWord[],
+  109: lesson109 as VocabularyWord[],
+  110: lesson110 as VocabularyWord[],
+  111: lesson111 as VocabularyWord[],
+  112: lesson112 as VocabularyWord[],
+  113: lesson113 as VocabularyWord[],
+  114: lesson114 as VocabularyWord[],
+  115: lesson115 as VocabularyWord[],
+  116: lesson116 as VocabularyWord[],
 }
 
